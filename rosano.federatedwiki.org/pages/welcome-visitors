@@ -30,8 +30,8 @@
     },
     {
       "type": "paragraph",
-      "id": "eb476b042d193e56",
-      "text": ""
+      "id": "ea7cbbe34e945af3",
+      "text": "[[Best of both worlds]]"
     },
     {
       "type": "paragraph",
@@ -524,6 +524,58 @@
       "type": "add",
       "after": "05e2fa92643677ca",
       "date": 1415566335664
+    },
+    {
+      "type": "remove",
+      "id": "eb476b042d193e56",
+      "date": 1415566356464
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ea7cbbe34e945af3",
+        "text": ""
+      },
+      "id": "ea7cbbe34e945af3",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1415566382054
+    },
+    {
+      "type": "edit",
+      "id": "ea7cbbe34e945af3",
+      "item": {
+        "type": "paragraph",
+        "id": "ea7cbbe34e945af3",
+        "text": "[["
+      },
+      "date": 1415566384700
+    },
+    {
+      "type": "edit",
+      "id": "ea7cbbe34e945af3",
+      "item": {
+        "type": "paragraph",
+        "id": "ea7cbbe34e945af3",
+        "text": "[[Best of both worlds]]"
+      },
+      "date": 1415566397515
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e59b301777d4ee62",
+        "text": ""
+      },
+      "id": "e59b301777d4ee62",
+      "type": "add",
+      "after": "ea7cbbe34e945af3",
+      "date": 1415566397548
+    },
+    {
+      "type": "remove",
+      "id": "e59b301777d4ee62",
+      "date": 1415566402842
     }
   ]
 }

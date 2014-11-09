@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "61fe3ae0b4675dcd",
       "text": "[[User Directory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd89a5209739bffd",
+      "text": "[[Resources]]"
     }
   ],
   "journal": [
@@ -413,6 +418,26 @@
         "text": "[[User Directory]]"
       },
       "date": 1415514026093
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd89a5209739bffd"
+      },
+      "id": "dd89a5209739bffd",
+      "type": "add",
+      "after": "61fe3ae0b4675dcd",
+      "date": 1415546768131
+    },
+    {
+      "type": "edit",
+      "id": "dd89a5209739bffd",
+      "item": {
+        "type": "paragraph",
+        "id": "dd89a5209739bffd",
+        "text": "[[Resources]]"
+      },
+      "date": 1415546777322
     }
   ]
 }

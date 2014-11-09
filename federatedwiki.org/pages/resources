@@ -1,0 +1,81 @@
+{
+  "title": "Resources",
+  "story": [
+    {
+      "id": "9aa5e5e3e2b2ba34",
+      "type": "reference",
+      "site": "jason.hhol.hapgood.net:3000",
+      "slug": "federated-wiki-videos",
+      "title": "Federated Wiki Videos",
+      "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+    },
+    {
+      "type": "paragraph",
+      "id": "e217b0c6d6079fe2",
+      "text": "[[Plugins and Other Backend Topics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8579c77b58c30c64",
+      "text": "[[Mike Caulfield]] has some great posts ["
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Resources",
+        "story": []
+      },
+      "date": 1403555179118
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e217b0c6d6079fe2",
+        "text": "[[Plugins and Other Backend Topics]]"
+      },
+      "id": "e217b0c6d6079fe2",
+      "date": 1403555197124
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "9aa5e5e3e2b2ba34",
+        "type": "reference",
+        "site": "jason.hhol.hapgood.net:3000",
+        "slug": "federated-wiki-videos",
+        "title": "Federated Wiki Videos",
+        "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+      },
+      "id": "9aa5e5e3e2b2ba34",
+      "date": 1403555201602
+    },
+    {
+      "type": "fork",
+      "site": "jason.hhol.hapgood.net:3000",
+      "date": 1415546744160
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8579c77b58c30c64"
+      },
+      "id": "8579c77b58c30c64",
+      "type": "add",
+      "after": "e217b0c6d6079fe2",
+      "date": 1415546923681
+    },
+    {
+      "type": "edit",
+      "id": "8579c77b58c30c64",
+      "item": {
+        "type": "paragraph",
+        "id": "8579c77b58c30c64",
+        "text": "[[Mike Caulfield]] has some great posts ["
+      },
+      "date": 1415546952621
+    }
+  ]
+}

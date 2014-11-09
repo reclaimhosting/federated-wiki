@@ -23,14 +23,25 @@
       "text": "Pages where we do and share."
     },
     {
-      "type": "factory",
+      "type": "paragraph",
       "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[What is community?]]"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "75aad655e1f0f5dc",
+      "text": "<strong>Temporary Situations</strong>"
+    },
+    {
+      "type": "paragraph",
+      "id": "8750d7ca8c83524b",
+      "text": ""
     }
   ],
   "journal": [
@@ -359,6 +370,118 @@
       "type": "remove",
       "id": "55776970ee0ef439",
       "date": 1415495435392
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Community]]]"
+      },
+      "date": 1415565357211
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[W"
+      },
+      "date": 1415565370036
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c36d9d80a1153896",
+        "text": "hat is community?]]]"
+      },
+      "id": "c36d9d80a1153896",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1415565370078
+    },
+    {
+      "type": "remove",
+      "id": "c36d9d80a1153896",
+      "date": 1415565370747
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d8cdc1c0b0a7e593",
+        "text": ""
+      },
+      "id": "d8cdc1c0b0a7e593",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1415565380726
+    },
+    {
+      "type": "remove",
+      "id": "d8cdc1c0b0a7e593",
+      "date": 1415565383551
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[What is community?]]"
+      },
+      "date": 1415565625639
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "729a4394c877e955",
+        "text": ""
+      },
+      "id": "729a4394c877e955",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1415565625682
+    },
+    {
+      "type": "remove",
+      "id": "729a4394c877e955",
+      "date": 1415565632487
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75aad655e1f0f5dc"
+      },
+      "id": "75aad655e1f0f5dc",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1415565718763
+    },
+    {
+      "type": "edit",
+      "id": "75aad655e1f0f5dc",
+      "item": {
+        "type": "paragraph",
+        "id": "75aad655e1f0f5dc",
+        "text": "<strong>Temporary Situations</strong>"
+      },
+      "date": 1415565735208
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8750d7ca8c83524b",
+        "text": ""
+      },
+      "id": "8750d7ca8c83524b",
+      "type": "add",
+      "after": "75aad655e1f0f5dc",
+      "date": 1415565735225
     }
   ]
 }

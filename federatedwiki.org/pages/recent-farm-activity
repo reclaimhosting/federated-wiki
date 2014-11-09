@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c53eb841ca2d47d2"
+      "id": "c5f42d67c62b047e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "0bff0a9788c23bcf"
+      "id": "bb915b301c3b3e59"
     },
     {
-      "date": 1415564926000,
+      "date": 1415565590000,
+      "site": "rosano.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 4 pages.",
+      "type": "reference",
+      "id": "cc741ef3dea9a73c"
+    },
+    {
+      "date": 1415565001000,
       "site": "federatedwiki.org",
-      "slug": "tim-owens",
-      "title": "Tim Owens",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 14 pages.",
       "type": "reference",
-      "id": "35d456b79eed0aa3"
+      "id": "b133acdf158fa25f"
     },
     {
       "date": 1415564874000,
@@ -27,16 +36,7 @@
       "title": "Tim Owens",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 7 pages.",
       "type": "reference",
-      "id": "f7fefe95255e6a00"
-    },
-    {
-      "date": 1415564540000,
-      "site": "rosano.federatedwiki.org",
-      "slug": "ward-cunningham",
-      "title": "Ward Cunningham",
-      "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 3 pages.",
-      "type": "reference",
-      "id": "e724a6c945196814"
+      "id": "cd27f00185eb57c6"
     },
     {
       "date": 1415556980000,
@@ -45,7 +45,7 @@
       "title": "Large Animated Gif",
       "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "3753808a39a09e30"
+      "id": "d1d5da281b25eae5"
     },
     {
       "date": 1415545305000,
@@ -54,7 +54,7 @@
       "title": "Own a Space",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "8b7a9b53bf68cdac"
+      "id": "a967197230193fc4"
     },
     {
       "date": 1415521293000,
@@ -63,55 +63,69 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "6d76acb883e2bc69"
+      "id": "16c94019201438d2"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "56236de901ddc310",
+      "id": "196d48236105e1ea",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "c53eb841ca2d47d2",
+      "id": "c5f42d67c62b047e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c53eb841ca2d47d2"
+        "id": "c5f42d67c62b047e"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "0bff0a9788c23bcf",
+      "id": "bb915b301c3b3e59",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "0bff0a9788c23bcf"
+        "id": "bb915b301c3b3e59"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "35d456b79eed0aa3",
+      "id": "cc741ef3dea9a73c",
       "item": {
-        "date": 1415564926000,
+        "date": 1415565590000,
+        "site": "rosano.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 4 pages.",
+        "type": "reference",
+        "id": "cc741ef3dea9a73c"
+      },
+      "date": 1415565601000
+    },
+    {
+      "type": "add",
+      "id": "b133acdf158fa25f",
+      "item": {
+        "date": 1415565001000,
         "site": "federatedwiki.org",
-        "slug": "tim-owens",
-        "title": "Tim Owens",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 14 pages.",
         "type": "reference",
-        "id": "35d456b79eed0aa3"
+        "id": "b133acdf158fa25f"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "f7fefe95255e6a00",
+      "id": "cd27f00185eb57c6",
       "item": {
         "date": 1415564874000,
         "site": "tim.federatedwiki.org",
@@ -119,27 +133,13 @@
         "title": "Tim Owens",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 7 pages.",
         "type": "reference",
-        "id": "f7fefe95255e6a00"
+        "id": "cd27f00185eb57c6"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "e724a6c945196814",
-      "item": {
-        "date": 1415564540000,
-        "site": "rosano.federatedwiki.org",
-        "slug": "ward-cunningham",
-        "title": "Ward Cunningham",
-        "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 3 pages.",
-        "type": "reference",
-        "id": "e724a6c945196814"
-      },
-      "date": 1415565001000
-    },
-    {
-      "type": "add",
-      "id": "3753808a39a09e30",
+      "id": "d1d5da281b25eae5",
       "item": {
         "date": 1415556980000,
         "site": "mike.journal.federatedwiki.org",
@@ -147,13 +147,13 @@
         "title": "Large Animated Gif",
         "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "3753808a39a09e30"
+        "id": "d1d5da281b25eae5"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "8b7a9b53bf68cdac",
+      "id": "a967197230193fc4",
       "item": {
         "date": 1415545305000,
         "site": "ward.federatedwiki.org",
@@ -161,13 +161,13 @@
         "title": "Own a Space",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "8b7a9b53bf68cdac"
+        "id": "a967197230193fc4"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     },
     {
       "type": "add",
-      "id": "6d76acb883e2bc69",
+      "id": "16c94019201438d2",
       "item": {
         "date": 1415521293000,
         "site": "jason.federatedwiki.org",
@@ -175,9 +175,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "6d76acb883e2bc69"
+        "id": "16c94019201438d2"
       },
-      "date": 1415565001000
+      "date": 1415565601000
     }
   ]
 }

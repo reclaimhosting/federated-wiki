@@ -1,0 +1,184 @@
+{
+  "title": "What is community?",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b4441564f810c8d1",
+      "text": "<h3>Community is</h3>"
+    },
+    {
+      "type": "html",
+      "id": "a0623f41e0680a1c",
+      "text": "# Community is\n"
+    },
+    {
+      "type": "factory",
+      "id": "258e291031aac2f7"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "What is community?",
+        "story": []
+      },
+      "date": 1415565386555
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bbd352e98bc1133c"
+      },
+      "id": "bbd352e98bc1133c",
+      "type": "add",
+      "date": 1415565391642
+    },
+    {
+      "type": "remove",
+      "id": "bbd352e98bc1133c",
+      "date": 1415565394272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4441564f810c8d1"
+      },
+      "id": "b4441564f810c8d1",
+      "type": "add",
+      "date": 1415565395991
+    },
+    {
+      "type": "edit",
+      "id": "b4441564f810c8d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b4441564f810c8d1",
+        "text": "# Community is"
+      },
+      "date": 1415565403403
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "08583cb4614dc575",
+        "text": ""
+      },
+      "id": "08583cb4614dc575",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565403413
+    },
+    {
+      "type": "remove",
+      "id": "08583cb4614dc575",
+      "date": 1415565404723
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4b94f92cbb24f5a1",
+        "text": ""
+      },
+      "id": "4b94f92cbb24f5a1",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565405955
+    },
+    {
+      "type": "remove",
+      "id": "4b94f92cbb24f5a1",
+      "date": 1415565409170
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0d0148e97e8d9c43",
+        "text": ""
+      },
+      "id": "0d0148e97e8d9c43",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565410315
+    },
+    {
+      "type": "remove",
+      "id": "0d0148e97e8d9c43",
+      "date": 1415565411366
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0623f41e0680a1c"
+      },
+      "id": "a0623f41e0680a1c",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565425870
+    },
+    {
+      "type": "edit",
+      "id": "a0623f41e0680a1c",
+      "item": {
+        "type": "html",
+        "id": "a0623f41e0680a1c",
+        "text": "# Community is\n"
+      },
+      "date": 1415565499225
+    },
+    {
+      "type": "move",
+      "order": [
+        "a0623f41e0680a1c",
+        "b4441564f810c8d1"
+      ],
+      "id": "a0623f41e0680a1c",
+      "date": 1415565577246
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4441564f810c8d1",
+        "a0623f41e0680a1c"
+      ],
+      "id": "a0623f41e0680a1c",
+      "date": 1415565583432
+    },
+    {
+      "type": "edit",
+      "id": "b4441564f810c8d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b4441564f810c8d1",
+        "text": "<h3>Community is</h3>"
+      },
+      "date": 1415565656653
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "734b30f1fb95feda",
+        "text": ""
+      },
+      "id": "734b30f1fb95feda",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565656667
+    },
+    {
+      "type": "remove",
+      "id": "734b30f1fb95feda",
+      "date": 1415565658370
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "258e291031aac2f7"
+      },
+      "id": "258e291031aac2f7",
+      "type": "add",
+      "after": "a0623f41e0680a1c",
+      "date": 1415565663634
+    }
+  ]
+}

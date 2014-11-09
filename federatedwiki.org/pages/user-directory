@@ -1,0 +1,130 @@
+{
+  "title": "User Directory",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f4d212d87d145bf3",
+      "text": "Add yourself here if you have a federated wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "a90edaf6d43383f4",
+      "text": "[[Jason Green]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0b15d50f88eb73f",
+      "text": "[[Rosano Coutinho]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "34beb15b645a9d18",
+      "text": "[[Tim Owens]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "User Directory",
+        "story": []
+      },
+      "date": 1415514029128
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4d212d87d145bf3"
+      },
+      "id": "f4d212d87d145bf3",
+      "type": "add",
+      "date": 1415514030659
+    },
+    {
+      "type": "edit",
+      "id": "f4d212d87d145bf3",
+      "item": {
+        "type": "paragraph",
+        "id": "f4d212d87d145bf3",
+        "text": "Add yourself here if you have a federated wiki"
+      },
+      "date": 1415514069380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a90edaf6d43383f4"
+      },
+      "id": "a90edaf6d43383f4",
+      "type": "add",
+      "after": "f4d212d87d145bf3",
+      "date": 1415514072245
+    },
+    {
+      "type": "edit",
+      "id": "a90edaf6d43383f4",
+      "item": {
+        "type": "paragraph",
+        "id": "a90edaf6d43383f4",
+        "text": "[[Jason Green]]"
+      },
+      "date": 1415514083500
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1571d39161951630",
+        "text": ""
+      },
+      "id": "1571d39161951630",
+      "type": "add",
+      "after": "a90edaf6d43383f4",
+      "date": 1415514083511
+    },
+    {
+      "type": "remove",
+      "id": "1571d39161951630",
+      "date": 1415514092577
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0b15d50f88eb73f"
+      },
+      "id": "e0b15d50f88eb73f",
+      "type": "add",
+      "after": "a90edaf6d43383f4",
+      "date": 1415514169649
+    },
+    {
+      "type": "edit",
+      "id": "e0b15d50f88eb73f",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b15d50f88eb73f",
+        "text": "[[Rosano Coutinho]]"
+      },
+      "date": 1415514174807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34beb15b645a9d18"
+      },
+      "id": "34beb15b645a9d18",
+      "type": "add",
+      "after": "e0b15d50f88eb73f",
+      "date": 1415514358372
+    },
+    {
+      "type": "edit",
+      "id": "34beb15b645a9d18",
+      "item": {
+        "type": "paragraph",
+        "id": "34beb15b645a9d18",
+        "text": "[[Tim Owens]]"
+      },
+      "date": 1415514365221
+    }
+  ]
+}

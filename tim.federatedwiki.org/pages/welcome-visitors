@@ -2,19 +2,35 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to the Federated Wiki. This is a [[Smallest Federated Wiki]] which works a bit differently from other wikis you might be familiar with. In order to participate you will need to author content on your own wiki. You can [[Get A Wiki]] from here or run one on your own server.",
+      "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "ee416d431ebf4fb4",
-      "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and [[Recent Farm Activity]] across all sites. All updates are pushed to the [https://github.com/reclaimhosting/federated-wiki GitHub repository] every 10 minutes."
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us."
     },
     {
       "type": "paragraph",
-      "id": "61fe3ae0b4675dcd",
-      "text": "[[User Directory]]"
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "text": "[[Tim Owens]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
+    },
+    {
+      "type": "factory",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     }
   ],
   "journal": [
@@ -326,93 +342,7 @@
         "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
         "text": "[[Tim Owens]]"
       },
-      "date": 1415504711977
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "c2748040cf6c5399",
-        "text": ""
-      },
-      "id": "c2748040cf6c5399",
-      "type": "add",
-      "after": "63ad2e58eecdd9e5",
-      "date": 1415504711992
-    },
-    {
-      "type": "remove",
-      "id": "c2748040cf6c5399",
-      "date": 1415504714708
-    },
-    {
-      "type": "edit",
-      "id": "7b56f22a4b9ee974",
-      "item": {
-        "text": "Welcome to the Federated Wiki. This is a [[Smallest Federated Wiki]] which works a bit differently from other wikis you might be familiar with. In order to participate you will need to author content on your own wiki. You can [[Get A Wiki]] from here or run one on your own server.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "date": 1415511542194
-    },
-    {
-      "type": "remove",
-      "id": "05e2fa92643677ca",
-      "date": 1415512108505
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and nearby."
-      },
-      "date": 1415512224735
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and [[Recent Farm Activity]] across all sites. All updates are pushed to the [https://github.com/reclaimhosting/federated-wiki GitHub repository] every 10 minutes."
-      },
-      "date": 1415513440453
-    },
-    {
-      "type": "remove",
-      "id": "2bbd646ff3f44b51",
-      "date": 1415513447590
-    },
-    {
-      "type": "remove",
-      "id": "821827c99b90cfd1",
-      "date": 1415513455862
-    },
-    {
-      "type": "remove",
-      "id": "63ad2e58eecdd9e5",
-      "date": 1415513460629
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "61fe3ae0b4675dcd"
-      },
-      "id": "61fe3ae0b4675dcd",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1415513996374
-    },
-    {
-      "type": "edit",
-      "id": "61fe3ae0b4675dcd",
-      "item": {
-        "type": "paragraph",
-        "id": "61fe3ae0b4675dcd",
-        "text": "[[User Directory]]"
-      },
-      "date": 1415514026093
+      "date": 1415514280747
     }
   ]
 }

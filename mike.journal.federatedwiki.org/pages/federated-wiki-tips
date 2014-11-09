@@ -1,0 +1,78 @@
+{
+  "title": "Federated Wiki Tips",
+  "story": [
+    {
+      "type": "factory",
+      "id": "ad4fb586fd09fd11"
+    },
+    {
+      "type": "paragraph",
+      "id": "afbd45ca5f547950",
+      "text": "Some Tips."
+    },
+    {
+      "type": "paragraph",
+      "id": "fd3eb3d8d35f743c",
+      "text": "[[Animated Gifs]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki Tips",
+        "story": []
+      },
+      "date": 1415556141894
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad4fb586fd09fd11"
+      },
+      "id": "ad4fb586fd09fd11",
+      "type": "add",
+      "date": 1415556143683
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "afbd45ca5f547950"
+      },
+      "id": "afbd45ca5f547950",
+      "type": "add",
+      "after": "ad4fb586fd09fd11",
+      "date": 1415556196428
+    },
+    {
+      "type": "edit",
+      "id": "afbd45ca5f547950",
+      "item": {
+        "type": "paragraph",
+        "id": "afbd45ca5f547950",
+        "text": "Some Tips."
+      },
+      "date": 1415556204919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd3eb3d8d35f743c"
+      },
+      "id": "fd3eb3d8d35f743c",
+      "type": "add",
+      "after": "afbd45ca5f547950",
+      "date": 1415556215672
+    },
+    {
+      "type": "edit",
+      "id": "fd3eb3d8d35f743c",
+      "item": {
+        "type": "paragraph",
+        "id": "fd3eb3d8d35f743c",
+        "text": "[[Animated Gifs]]"
+      },
+      "date": 1415556229843
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Large Animated Gif",
+  "story": [
+    {
+      "type": "factory",
+      "id": "94b5aa16d848410f"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f9be43d5edc2b76",
+      "text": "You can use large animated gifs, but keep in mind the entire page size must stay below 2MB at this point to fork on some platforms (Windows seems too have a 2MB limit on posting, Linux has no problems, Macs I am unsure.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "1338b7afa1344a0d",
+      "text": "That 2MB also includes edits. Be aware that currently when a caption is edited it duplicates the image in the journal. For large pictures you may want to caption on a \"scratch page\" then drag."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Large Animated Gif",
+        "story": []
+      },
+      "date": 1415556333934
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94b5aa16d848410f"
+      },
+      "id": "94b5aa16d848410f",
+      "type": "add",
+      "date": 1415556337254
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f9be43d5edc2b76"
+      },
+      "id": "2f9be43d5edc2b76",
+      "type": "add",
+      "after": "94b5aa16d848410f",
+      "date": 1415556365453
+    },
+    {
+      "type": "edit",
+      "id": "2f9be43d5edc2b76",
+      "item": {
+        "type": "paragraph",
+        "id": "2f9be43d5edc2b76",
+        "text": "You can use large animated gifs, but keep in mind the entire page size must stay below 2MB at this point to fork on some platforms (Windows seems too have a 2MB limit on posting, Linux has no problems, Macs I am unsure.)"
+      },
+      "date": 1415556464065
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1338b7afa1344a0d",
+        "text": ""
+      },
+      "id": "1338b7afa1344a0d",
+      "type": "add",
+      "after": "2f9be43d5edc2b76",
+      "date": 1415556464082
+    },
+    {
+      "type": "edit",
+      "id": "1338b7afa1344a0d",
+      "item": {
+        "type": "paragraph",
+        "id": "1338b7afa1344a0d",
+        "text": "That 2MB also includes edits. Be aware that currently when a caption is edited it duplicates the image in the journal. For large pictures you may want to caption on a \"scratch page\" then drag."
+      },
+      "date": 1415556566143
+    }
+  ]
+}

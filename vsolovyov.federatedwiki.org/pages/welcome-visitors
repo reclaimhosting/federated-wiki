@@ -2,14 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Попробую использовать Federated Wiki для своих мыслей и ссылок.",
+      "text": "Попробую использовать Federated Wiki для своих мыслей и ссылок, которые стоит сохранить, а не просто запостить в [https://twitter.com/murkt твиттер].",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Некоторое количество текстов есть у меня в http://murkt.livejournal.com/, но в последнее время там уже никого нет."
+      "text": "Некоторое количество текстов есть у меня в [http://murkt.livejournal.com/ ЖЖ] ([http://murkt.livejournal.com/tag/ список тегов]), но в последнее время там уже никакого обсуждения нет и я просто сохранял там тексты, чтоб не потерялись."
     },
     {
       "type": "paragraph",
@@ -19,12 +19,7 @@
     {
       "type": "paragraph",
       "id": "475c8d6c02fc63c0",
-      "text": "В фейсбуке "
-    },
-    {
-      "type": "factory",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below."
+      "text": "В фейсбуке бывают обсуждения, но как платформа для discoverabilty и развития мыслей - предельно паршиво."
     },
     {
       "type": "paragraph",
@@ -32,9 +27,9 @@
       "text": "Pages where we do and share."
     },
     {
-      "type": "factory",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      "type": "paragraph",
+      "id": "d816269aef735971",
+      "text": ""
     },
     {
       "type": "paragraph",
@@ -433,6 +428,104 @@
         "text": "В фейсбуке "
       },
       "date": 1415550543831
+    },
+    {
+      "type": "edit",
+      "id": "475c8d6c02fc63c0",
+      "item": {
+        "type": "paragraph",
+        "id": "475c8d6c02fc63c0",
+        "text": "В фейсбуке бывают обсуждения, но как платформа для discoverabilty и развития мыслей - предельно паршиво."
+      },
+      "date": 1415550629221
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d09e16857f7069ee",
+        "text": ""
+      },
+      "id": "d09e16857f7069ee",
+      "type": "add",
+      "after": "475c8d6c02fc63c0",
+      "date": 1415550629245
+    },
+    {
+      "type": "remove",
+      "id": "d09e16857f7069ee",
+      "date": 1415550632857
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1415550634575
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1415550653569
+    },
+    {
+      "type": "remove",
+      "id": "d816269aef735971",
+      "date": 1415550656868
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d816269aef735971",
+        "text": ""
+      },
+      "id": "d816269aef735971",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1415550656874
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1261f3d6c1eeccb8",
+        "text": ""
+      },
+      "id": "1261f3d6c1eeccb8",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1415550656876
+    },
+    {
+      "type": "remove",
+      "id": "1261f3d6c1eeccb8",
+      "date": 1415550660557
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Некоторое количество текстов есть у меня в [http://murkt.livejournal.com/ ЖЖ], но в последнее время там уже никакого обсуждения нет и я просто сохранял там тексты, чтоб не потерялись."
+      },
+      "date": 1415550710258
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Некоторое количество текстов есть у меня в [http://murkt.livejournal.com/ ЖЖ] ([http://murkt.livejournal.com/tag/ список тегов]), но в последнее время там уже никакого обсуждения нет и я просто сохранял там тексты, чтоб не потерялись."
+      },
+      "date": 1415550731052
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Попробую использовать Federated Wiki для своих мыслей и ссылок, которые стоит сохранить, а не просто запостить в [https://twitter.com/murkt твиттер].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415550783265
     }
   ]
 }

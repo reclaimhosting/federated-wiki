@@ -10,6 +10,26 @@
       "type": "paragraph",
       "id": "49db2e8a0207d3e1",
       "text": "I've recast wiki as something small, easy and personal. I hope every individual can own a space there which serves their needs and no others."
+    },
+    {
+      "type": "paragraph",
+      "id": "5428d9c193cd5ce0",
+      "text": "A <b>small</b> wiki addresses one point of view in one conversation. It stands alone but seeks not to trap readers within its bounds."
+    },
+    {
+      "type": "paragraph",
+      "id": "787721abf105bd7d",
+      "text": "An <b>easy</b> wiki starts and grows by rearranging small ideas until they jell into something of lasting value."
+    },
+    {
+      "type": "paragraph",
+      "id": "9604e996f485feae",
+      "text": "A <b>persona</b>l wiki speaks with the authority earned by its owner as identified by its domain."
+    },
+    {
+      "type": "paragraph",
+      "id": "14fefb0d50beb399",
+      "text": ""
     }
   ],
   "journal": [
@@ -60,6 +80,109 @@
         "text": "I've recast wiki as something small, easy and personal. I hope every individual can own a space there which serves their needs and no others."
       },
       "date": 1415544593061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5428d9c193cd5ce0"
+      },
+      "id": "5428d9c193cd5ce0",
+      "type": "add",
+      "after": "49db2e8a0207d3e1",
+      "date": 1415544619114
+    },
+    {
+      "type": "edit",
+      "id": "5428d9c193cd5ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "5428d9c193cd5ce0",
+        "text": "A small wiki addresses one point of view in one conversation. It stands alone but seeks not to trap readers within its bounds."
+      },
+      "date": 1415544728010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "787721abf105bd7d",
+        "text": ""
+      },
+      "id": "787721abf105bd7d",
+      "type": "add",
+      "after": "5428d9c193cd5ce0",
+      "date": 1415544728024
+    },
+    {
+      "type": "edit",
+      "id": "787721abf105bd7d",
+      "item": {
+        "type": "paragraph",
+        "id": "787721abf105bd7d",
+        "text": "An easy wiki starts and grows by rearranging small ideas until they jell into something of lasting value."
+      },
+      "date": 1415544862481
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9604e996f485feae",
+        "text": ""
+      },
+      "id": "9604e996f485feae",
+      "type": "add",
+      "after": "787721abf105bd7d",
+      "date": 1415544862491
+    },
+    {
+      "type": "edit",
+      "id": "9604e996f485feae",
+      "item": {
+        "type": "paragraph",
+        "id": "9604e996f485feae",
+        "text": "A personal wiki speaks with the authority earned by its owner as identified by its domain."
+      },
+      "date": 1415544986776
+    },
+    {
+      "type": "edit",
+      "id": "5428d9c193cd5ce0",
+      "item": {
+        "type": "paragraph",
+        "id": "5428d9c193cd5ce0",
+        "text": "A <b>small</b> wiki addresses one point of view in one conversation. It stands alone but seeks not to trap readers within its bounds."
+      },
+      "date": 1415544998744
+    },
+    {
+      "type": "edit",
+      "id": "787721abf105bd7d",
+      "item": {
+        "type": "paragraph",
+        "id": "787721abf105bd7d",
+        "text": "An <b>easy</b> wiki starts and grows by rearranging small ideas until they jell into something of lasting value."
+      },
+      "date": 1415545011084
+    },
+    {
+      "type": "edit",
+      "id": "9604e996f485feae",
+      "item": {
+        "type": "paragraph",
+        "id": "9604e996f485feae",
+        "text": "A <b>persona</b>l wiki speaks with the authority earned by its owner as identified by its domain."
+      },
+      "date": 1415545024796
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14fefb0d50beb399",
+        "text": ""
+      },
+      "id": "14fefb0d50beb399",
+      "type": "add",
+      "after": "9604e996f485feae",
+      "date": 1415545051739
     }
   ]
 }

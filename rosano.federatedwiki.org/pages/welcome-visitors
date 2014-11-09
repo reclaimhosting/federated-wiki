@@ -30,6 +30,11 @@
     },
     {
       "type": "paragraph",
+      "id": "eb476b042d193e56",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
@@ -41,7 +46,7 @@
     {
       "type": "paragraph",
       "id": "8750d7ca8c83524b",
-      "text": ""
+      "text": "[[_trash]]"
     }
   ],
   "journal": [
@@ -482,6 +487,43 @@
       "type": "add",
       "after": "75aad655e1f0f5dc",
       "date": 1415565735225
+    },
+    {
+      "type": "edit",
+      "id": "8750d7ca8c83524b",
+      "item": {
+        "type": "paragraph",
+        "id": "8750d7ca8c83524b",
+        "text": "[[_trash]]"
+      },
+      "date": 1415565748511
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5e56163141e8ace",
+        "text": ""
+      },
+      "id": "b5e56163141e8ace",
+      "type": "add",
+      "after": "8750d7ca8c83524b",
+      "date": 1415565748529
+    },
+    {
+      "type": "remove",
+      "id": "b5e56163141e8ace",
+      "date": 1415565753691
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb476b042d193e56",
+        "text": ""
+      },
+      "id": "eb476b042d193e56",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1415566335664
     }
   ]
 }

@@ -4,12 +4,17 @@
     {
       "type": "paragraph",
       "id": "b4441564f810c8d1",
-      "text": "<h3>Community is</h3>"
+      "text": " "
     },
     {
-      "type": "html",
-      "id": "a0623f41e0680a1c",
-      "text": "# Community is\n"
+      "type": "paragraph",
+      "id": "d9eb04c405ac1d2a",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "4a82684e46e17c0e",
+      "text": "<ul>\n<li>Community is not a salad, a sandwich, or meat & potatoes; it's more like a curry, sauce, soup, or gravy of simmered inputs (little to no distinction between ingredients)</li>\n<li>Community is not a one-time conversation about any topic</li>\n<li>Community is not a group of people in the same room/class/industry/organization</li>\n<li>Community is not ice breakers</li>\n<li>Community is not meetups</li>\n<li>Community allows for anyone to enter and be immersed, starting at any level</li>\n<li>Community does not have \"cool people\". No distinctions of (\"eligibility\")</li>\n<li>Community is not dismissive of new members (if the selection criteria was good to begin with, there would be no need to guard against newcomers)</li>\n<li>Community seeks to grow and further its cause by attracting and initiating new members, and is eager to welcome new blood</li>\n</ul>"
     },
     {
       "type": "factory",
@@ -179,6 +184,165 @@
       "type": "add",
       "after": "a0623f41e0680a1c",
       "date": 1415565663634
+    },
+    {
+      "type": "remove",
+      "id": "a0623f41e0680a1c",
+      "date": 1415565806402
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": ""
+      },
+      "id": "d9eb04c405ac1d2a",
+      "type": "add",
+      "after": "b4441564f810c8d1",
+      "date": 1415565811994
+    },
+    {
+      "type": "edit",
+      "id": "d9eb04c405ac1d2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": "<ul><li>"
+      },
+      "date": 1415565823629
+    },
+    {
+      "type": "edit",
+      "id": "d9eb04c405ac1d2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": "- salad/sandwich/meat&potatoes; its curry,sauce,soup,gravy of simmered inputs (little or no distinction between ingredients)\n- a one-time conversation about any topic\n- a group of people in the same room\n- ice breakers\n- meetups\n- people in the same room/class/industry/organization"
+      },
+      "date": 1415565836865
+    },
+    {
+      "type": "edit",
+      "id": "b4441564f810c8d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b4441564f810c8d1",
+        "text": "<h3>Community is not</h3>"
+      },
+      "date": 1415565841154
+    },
+    {
+      "type": "edit",
+      "id": "d9eb04c405ac1d2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": "- a salad, a sandwich, meat & potatoes; its curry, sauce,soup,gravy of simmered inputs (little or no distinction between ingredients)\n- a one-time conversation about any topic\n- a group of people in the same room\n- ice breakers\n- meetups\n- people in the same room/class/industry/organization"
+      },
+      "date": 1415565866423
+    },
+    {
+      "type": "edit",
+      "id": "b4441564f810c8d1",
+      "item": {
+        "type": "paragraph",
+        "id": "b4441564f810c8d1",
+        "text": " "
+      },
+      "date": 1415565873104
+    },
+    {
+      "type": "remove",
+      "id": "fde97547e9cd5d82",
+      "date": 1415565873108
+    },
+    {
+      "type": "remove",
+      "id": "912e0e7af268e5f3",
+      "date": 1415565874492
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3db92cfd3b53cfc9",
+        "text": ""
+      },
+      "id": "3db92cfd3b53cfc9",
+      "type": "add",
+      "after": "4293debe777ae3ed",
+      "date": 1415565874537
+    },
+    {
+      "type": "remove",
+      "id": "3db92cfd3b53cfc9",
+      "date": 1415565876968
+    },
+    {
+      "type": "edit",
+      "id": "d9eb04c405ac1d2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": "- Community is not a salad, a sandwich, or meat & potatoes; it's more like a curry, sauce, soup, or gravy of simmered inputs (little or no distinction between ingredients)\n- Community is not a one-time conversation about any topic\n- Community is not a group of people in the same room/class/industry/organization\n- Community is not ice breakers\n- Community is not meetups"
+      },
+      "date": 1415565937409
+    },
+    {
+      "type": "edit",
+      "id": "d9eb04c405ac1d2a",
+      "item": {
+        "type": "paragraph",
+        "id": "d9eb04c405ac1d2a",
+        "text": " "
+      },
+      "date": 1415565951152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a82684e46e17c0e",
+        "text": "- Community is not a salad, a sandwich, or meat & potatoes; it's more like a curry, sauce, soup, or gravy of simmered inputs (little or no distinction between ingredients)\n- Community is not a one-time conversation about any topic\n- Community is not a group of people in the same room/class/industry/organization\n- Community is not ice breakers\n- Community is not meetups"
+      },
+      "id": "4a82684e46e17c0e",
+      "type": "add",
+      "after": "d9eb04c405ac1d2a",
+      "date": 1415565951209
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4ae61a2fecd54a00",
+        "text": ""
+      },
+      "id": "4ae61a2fecd54a00",
+      "type": "add",
+      "after": "d9eb04c405ac1d2a",
+      "date": 1415565951211
+    },
+    {
+      "type": "remove",
+      "id": "4ae61a2fecd54a00",
+      "date": 1415565952950
+    },
+    {
+      "type": "edit",
+      "id": "4a82684e46e17c0e",
+      "item": {
+        "type": "paragraph",
+        "id": "4a82684e46e17c0e",
+        "text": "<ul>\n<li>Community is not a salad, a sandwich, or meat &amp; potatoes; it&#39;s more like a curry, sauce, soup, or gravy of simmered inputs (little or no distinction between ingredients)</li>\n<li>Community is not a one-time conversation about any topic</li>\n<li>Community is not a group of people in the same room/class/industry/organization</li>\n<li>Community is not ice breakers</li>\n<li>Community is not meetups</li>\n<li>Community allows for anyone to enter and be immersed, starting at any level</li>\n<li>Community does not have &quot;cool people&quot;. No distinctions of (&quot;eligibility&quot;)</li>\n<li>Community is not dismissive of new members (if the selection criteria was good to begin with, there would be no need to guard against newcomers)</li>\n<li>Community seeks to grow and further its cause by attracting and initiating new members, and is eager to welcome new blood</li>\n</ul>"
+      },
+      "date": 1415566204505
+    },
+    {
+      "type": "edit",
+      "id": "4a82684e46e17c0e",
+      "item": {
+        "type": "paragraph",
+        "id": "4a82684e46e17c0e",
+        "text": "<ul>\n<li>Community is not a salad, a sandwich, or meat & potatoes; it's more like a curry, sauce, soup, or gravy of simmered inputs (little to no distinction between ingredients)</li>\n<li>Community is not a one-time conversation about any topic</li>\n<li>Community is not a group of people in the same room/class/industry/organization</li>\n<li>Community is not ice breakers</li>\n<li>Community is not meetups</li>\n<li>Community allows for anyone to enter and be immersed, starting at any level</li>\n<li>Community does not have \"cool people\". No distinctions of (\"eligibility\")</li>\n<li>Community is not dismissive of new members (if the selection criteria was good to begin with, there would be no need to guard against newcomers)</li>\n<li>Community seeks to grow and further its cause by attracting and initiating new members, and is eager to welcome new blood</li>\n</ul>"
+      },
+      "date": 1415566222432
     }
   ]
 }

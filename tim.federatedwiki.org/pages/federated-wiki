@@ -1,0 +1,44 @@
+{
+  "title": "Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6fdce2618de95638",
+      "text": "The Federated Wiki is just one instantiation of the [[Smallest Federated Wiki]] software created by [[Ward Cunningham]]. We (Reclaim Hosting) built this setup here as a baby step towards helping people play with it more under the guidance/influence of [[Mike Caulfield]], a tireless advocate of this new way of publishing."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki",
+        "story": []
+      },
+      "date": 1415562924999
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fdce2618de95638"
+      },
+      "id": "6fdce2618de95638",
+      "type": "add",
+      "date": 1415562926743
+    },
+    {
+      "type": "edit",
+      "id": "6fdce2618de95638",
+      "item": {
+        "type": "paragraph",
+        "id": "6fdce2618de95638",
+        "text": "The Federated Wiki is just one instantiation of the [[Smallest Federated Wiki]] software created by [[Ward Cunningham]]. We (Reclaim Hosting) built this setup here as a baby step towards helping people play with it more under the guidance/influence of [[Mike Caulfield]], a tireless advocate of this new way of publishing."
+      },
+      "date": 1415563059020
+    },
+    {
+      "type": "fork",
+      "site": "federatedwiki.org",
+      "date": 1415563141274
+    }
+  ]
+}

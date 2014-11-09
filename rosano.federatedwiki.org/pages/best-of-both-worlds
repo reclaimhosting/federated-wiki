@@ -24,12 +24,22 @@
     {
       "type": "paragraph",
       "id": "81f66c61d44a5737",
-      "text": "What are"
+      "text": "<h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "7b1ca3e0dca3daa9",
+      "text": "<h3>What are aspects of the analog experience that enhance the reading process which, through better design, can be transported to the digital world?"
     },
     {
       "type": "paragraph",
       "id": "9f2acc7cd77b3940",
-      "text": "- the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "3ce5d7a68864816d",
+      "text": "- t"
     },
     {
       "type": "paragraph",
@@ -1137,6 +1147,142 @@
       ],
       "id": "98a33bc2a98cec79",
       "date": 1415568278468
+    },
+    {
+      "type": "edit",
+      "id": "81f66c61d44a5737",
+      "item": {
+        "type": "paragraph",
+        "id": "81f66c61d44a5737",
+        "text": "What are aspects of the analog experience that enhance the reading process which, through better design, can be transported to the digital world?"
+      },
+      "date": 1415568890753
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "583b5a6360dce5a1",
+        "text": ""
+      },
+      "id": "583b5a6360dce5a1",
+      "type": "add",
+      "after": "81f66c61d44a5737",
+      "date": 1415568890803
+    },
+    {
+      "type": "remove",
+      "id": "583b5a6360dce5a1",
+      "date": 1415568892467
+    },
+    {
+      "type": "edit",
+      "id": "81f66c61d44a5737",
+      "item": {
+        "type": "paragraph",
+        "id": "81f66c61d44a5737",
+        "text": "<h3>"
+      },
+      "date": 1415568901153
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b1ca3e0dca3daa9",
+        "text": "What are aspects of the analog experience that enhance the reading process which, through better design, can be transported to the digital world?"
+      },
+      "id": "7b1ca3e0dca3daa9",
+      "type": "add",
+      "after": "81f66c61d44a5737",
+      "date": 1415568901198
+    },
+    {
+      "type": "edit",
+      "id": "7b1ca3e0dca3daa9",
+      "item": {
+        "type": "paragraph",
+        "id": "7b1ca3e0dca3daa9",
+        "text": "<h3>What are aspects of the analog experience that enhance the reading process which, through better design, can be transported to the digital world?"
+      },
+      "date": 1415568906193
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aa9cfa69280ce073",
+        "text": ""
+      },
+      "id": "aa9cfa69280ce073",
+      "type": "add",
+      "after": "7b1ca3e0dca3daa9",
+      "date": 1415568906243
+    },
+    {
+      "type": "remove",
+      "id": "aa9cfa69280ce073",
+      "date": 1415568908518
+    },
+    {
+      "type": "edit",
+      "id": "9f2acc7cd77b3940",
+      "item": {
+        "type": "paragraph",
+        "id": "9f2acc7cd77b3940",
+        "text": " "
+      },
+      "date": 1415568910265
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3ce5d7a68864816d",
+        "text": "the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      },
+      "id": "3ce5d7a68864816d",
+      "type": "add",
+      "after": "9f2acc7cd77b3940",
+      "date": 1415568910270
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f1df502bee79122b",
+        "text": ""
+      },
+      "id": "f1df502bee79122b",
+      "type": "add",
+      "after": "9f2acc7cd77b3940",
+      "date": 1415568910292
+    },
+    {
+      "type": "remove",
+      "id": "f1df502bee79122b",
+      "date": 1415568912174
+    },
+    {
+      "type": "edit",
+      "id": "3ce5d7a68864816d",
+      "item": {
+        "type": "paragraph",
+        "id": "3ce5d7a68864816d",
+        "text": "- t"
+      },
+      "date": 1415568916825
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "729cd5c6d4ee8465",
+        "text": "he readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      },
+      "id": "729cd5c6d4ee8465",
+      "type": "add",
+      "after": "3ce5d7a68864816d",
+      "date": 1415568916850
+    },
+    {
+      "type": "remove",
+      "id": "729cd5c6d4ee8465",
+      "date": 1415568917650
     }
   ]
 }

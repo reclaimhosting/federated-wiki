@@ -8,24 +8,12 @@
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
-      "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "text": "[[Tim Owens]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and nearby."
+      "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and [[Recent Farm Activity]] across all sites. All updates are pushed to the [https://github.com/reclaimhosting/federated-wiki GitHub repository] every 10 minutes."
+    },
+    {
+      "type": "factory",
+      "id": "61fe3ae0b4675dcd"
     }
   ],
   "journal": [
@@ -379,6 +367,41 @@
         "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and nearby."
       },
       "date": 1415512224735
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and [[Recent Farm Activity]] across all sites. All updates are pushed to the [https://github.com/reclaimhosting/federated-wiki GitHub repository] every 10 minutes."
+      },
+      "date": 1415513440453
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1415513447590
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1415513455862
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1415513460629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61fe3ae0b4675dcd"
+      },
+      "id": "61fe3ae0b4675dcd",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1415513996374
     }
   ]
 }

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "bf56c1bcf363675d"
+      "id": "4178ccce093eac29"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "e5b51dab5e71e4f5"
+      "id": "780c0c939a40c615"
+    },
+    {
+      "date": 1415513458000,
+      "site": "federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 5 pages.",
+      "type": "reference",
+      "id": "12e5518df9406812"
     },
     {
       "date": 1415513165000,
@@ -18,16 +27,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "99b8ce4dc724d37a"
-    },
-    {
-      "date": 1415512222000,
-      "site": "federatedwiki.org",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 4 pages.",
-      "type": "reference",
-      "id": "7dd98ccbf973e63c"
+      "id": "ec4b718dd71535ec"
     },
     {
       "date": 1415506566000,
@@ -36,41 +36,55 @@
       "title": "Rosano Coutinho",
       "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "59e488a304e60a1e"
+      "id": "6995087b50d132f5"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "9036fd6b24e870ed",
+      "id": "1453f640b38d2dd0",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415513216000
+      "date": 1415513705000
     },
     {
       "type": "add",
-      "id": "bf56c1bcf363675d",
+      "id": "4178ccce093eac29",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "bf56c1bcf363675d"
+        "id": "4178ccce093eac29"
       },
-      "date": 1415513216000
+      "date": 1415513705000
     },
     {
       "type": "add",
-      "id": "e5b51dab5e71e4f5",
+      "id": "780c0c939a40c615",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "e5b51dab5e71e4f5"
+        "id": "780c0c939a40c615"
       },
-      "date": 1415513216000
+      "date": 1415513705000
     },
     {
       "type": "add",
-      "id": "99b8ce4dc724d37a",
+      "id": "12e5518df9406812",
+      "item": {
+        "date": 1415513458000,
+        "site": "federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 5 pages.",
+        "type": "reference",
+        "id": "12e5518df9406812"
+      },
+      "date": 1415513705000
+    },
+    {
+      "type": "add",
+      "id": "ec4b718dd71535ec",
       "item": {
         "date": 1415513165000,
         "site": "jason.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "99b8ce4dc724d37a"
+        "id": "ec4b718dd71535ec"
       },
-      "date": 1415513216000
+      "date": 1415513705000
     },
     {
       "type": "add",
-      "id": "7dd98ccbf973e63c",
-      "item": {
-        "date": 1415512222000,
-        "site": "federatedwiki.org",
-        "slug": "welcome-visitors",
-        "title": "Welcome Visitors",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 4 pages.",
-        "type": "reference",
-        "id": "7dd98ccbf973e63c"
-      },
-      "date": 1415513216000
-    },
-    {
-      "type": "add",
-      "id": "59e488a304e60a1e",
+      "id": "6995087b50d132f5",
       "item": {
         "date": 1415506566000,
         "site": "rosano.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Rosano Coutinho",
         "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "59e488a304e60a1e"
+        "id": "6995087b50d132f5"
       },
-      "date": 1415513216000
+      "date": 1415513705000
     }
   ]
 }

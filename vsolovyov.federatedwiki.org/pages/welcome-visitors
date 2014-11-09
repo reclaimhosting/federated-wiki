@@ -23,8 +23,8 @@
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "id": "1e48bcdc8220f986",
+      "text": "[[О мышлении"
     },
     {
       "type": "paragraph",
@@ -526,6 +526,48 @@
         "type": "paragraph"
       },
       "date": 1415550783265
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1415551449416
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1e48bcdc8220f986",
+        "text": ""
+      },
+      "id": "1e48bcdc8220f986",
+      "type": "add",
+      "after": "475c8d6c02fc63c0",
+      "date": 1415551488634
+    },
+    {
+      "type": "edit",
+      "id": "1e48bcdc8220f986",
+      "item": {
+        "type": "paragraph",
+        "id": "1e48bcdc8220f986",
+        "text": "[[О мышлении"
+      },
+      "date": 1415551503119
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b4620689595fc59",
+        "text": "]]"
+      },
+      "id": "9b4620689595fc59",
+      "type": "add",
+      "after": "1e48bcdc8220f986",
+      "date": 1415551503131
+    },
+    {
+      "type": "remove",
+      "id": "9b4620689595fc59",
+      "date": 1415551504234
     }
   ]
 }

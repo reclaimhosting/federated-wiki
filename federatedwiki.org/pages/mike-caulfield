@@ -5,16 +5,6 @@
       "type": "paragraph",
       "id": "d2299bbdd30bec0f",
       "text": "Mike Caulfield is an Open Education geek obsessed with the problem of educational materials reuse and the possibilities of networked learning. His more recent work has focused on how classes can be taught across multiple institutions. Outside of education he is best known as co-founder of Blue Hampshire, which at its peak was a 5,000 member online political community dedicated to discussing and organizing around state-level issues. He lives in Vancouver, WA and works at Washington State University Vancouver."
-    },
-    {
-      "type": "paragraph",
-      "id": "81f7a6dc6e9be01b",
-      "text": "This site attempts to collect his federated wiki sites into one big launchpad."
-    },
-    {
-      "type": "paragraph",
-      "id": "057536e93979feee",
-      "text": "[[Image Test]]"
     }
   ],
   "journal": [
@@ -234,6 +224,16 @@
       "type": "fork",
       "site": "www.caulfield.pw:3000",
       "date": 1415546916788
+    },
+    {
+      "type": "remove",
+      "id": "057536e93979feee",
+      "date": 1415547051870
+    },
+    {
+      "type": "remove",
+      "id": "81f7a6dc6e9be01b",
+      "date": 1415547054708
     }
   ]
 }

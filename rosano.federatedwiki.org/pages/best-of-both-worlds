@@ -28,6 +28,21 @@
     },
     {
       "type": "paragraph",
+      "id": "9f2acc7cd77b3940",
+      "text": "- the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+    },
+    {
+      "type": "paragraph",
+      "id": "04b147a768ccf23c",
+      "text": "- the weight of the book"
+    },
+    {
+      "type": "paragraph",
+      "id": "98a33bc2a98cec79",
+      "text": "- the notion that the letters [of the words on the page] are physical objects"
+    },
+    {
+      "type": "paragraph",
       "id": "391c68bdbb02c552",
       "text": "- the notion of physical (\"presence\"): being able to touch and smell what you are interacting with"
     },
@@ -38,28 +53,8 @@
     },
     {
       "type": "paragraph",
-      "id": "afc49b5fd0af2c60",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
       "id": "f1688ff854b26ae2",
       "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "98a33bc2a98cec79",
-      "text": "- the notion that the letters [of the words on the page] are physical objects"
-    },
-    {
-      "type": "paragraph",
-      "id": "04b147a768ccf23c",
-      "text": "- the weight of the book"
-    },
-    {
-      "type": "paragraph",
-      "id": "9f2acc7cd77b3940",
-      "text": "- the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
     },
     {
       "type": "paragraph",
@@ -69,7 +64,22 @@
     {
       "type": "paragraph",
       "id": "054c98a63c1a02e8",
-      "text": "- 8 corners / 2 pages"
+      "text": "- several situating points: 8 corners / 2 pages"
+    },
+    {
+      "type": "paragraph",
+      "id": "a507872184a75473",
+      "text": "- easy on the eyes"
+    },
+    {
+      "type": "paragraph",
+      "id": "e1287acf6046d48b",
+      "text": "- \"its not turned on / plugged in / an electronic device\""
+    },
+    {
+      "type": "paragraph",
+      "id": "ebeb7893f823f305",
+      "text": "- reading should [also] allow us to escape from the world of screens and not force us to stay there"
     },
     {
       "type": "paragraph",
@@ -924,6 +934,209 @@
         "text": "- 8 corners / 2 pages"
       },
       "date": 1415568145140
+    },
+    {
+      "type": "edit",
+      "id": "054c98a63c1a02e8",
+      "item": {
+        "type": "paragraph",
+        "id": "054c98a63c1a02e8",
+        "text": "- several situating points: 8 corners / 2 pages"
+      },
+      "date": 1415568179081
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a1dfca324eea2365",
+        "text": ""
+      },
+      "id": "a1dfca324eea2365",
+      "type": "add",
+      "after": "054c98a63c1a02e8",
+      "date": 1415568179113
+    },
+    {
+      "type": "remove",
+      "id": "a1dfca324eea2365",
+      "date": 1415568179686
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a507872184a75473",
+        "text": ""
+      },
+      "id": "a507872184a75473",
+      "type": "add",
+      "after": "054c98a63c1a02e8",
+      "date": 1415568186280
+    },
+    {
+      "type": "edit",
+      "id": "a507872184a75473",
+      "item": {
+        "type": "paragraph",
+        "id": "a507872184a75473",
+        "text": "- easy on the eyes"
+      },
+      "date": 1415568188050
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "05b83d38be8dc321",
+        "text": ""
+      },
+      "id": "05b83d38be8dc321",
+      "type": "add",
+      "after": "a507872184a75473",
+      "date": 1415568188069
+    },
+    {
+      "type": "remove",
+      "id": "05b83d38be8dc321",
+      "date": 1415568188383
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e1287acf6046d48b",
+        "text": ""
+      },
+      "id": "e1287acf6046d48b",
+      "type": "add",
+      "after": "a507872184a75473",
+      "date": 1415568194535
+    },
+    {
+      "type": "edit",
+      "id": "e1287acf6046d48b",
+      "item": {
+        "type": "paragraph",
+        "id": "e1287acf6046d48b",
+        "text": "- \"its not turned on / plugged in / an electronic device\""
+      },
+      "date": 1415568195793
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "840d66f20069254b",
+        "text": ""
+      },
+      "id": "840d66f20069254b",
+      "type": "add",
+      "after": "e1287acf6046d48b",
+      "date": 1415568195813
+    },
+    {
+      "type": "remove",
+      "id": "840d66f20069254b",
+      "date": 1415568196615
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ebeb7893f823f305",
+        "text": ""
+      },
+      "id": "ebeb7893f823f305",
+      "type": "add",
+      "after": "e1287acf6046d48b",
+      "date": 1415568200033
+    },
+    {
+      "type": "edit",
+      "id": "ebeb7893f823f305",
+      "item": {
+        "type": "paragraph",
+        "id": "ebeb7893f823f305",
+        "text": "- reading should allow an esc"
+      },
+      "date": 1415568209965
+    },
+    {
+      "type": "edit",
+      "id": "ebeb7893f823f305",
+      "item": {
+        "type": "paragraph",
+        "id": "ebeb7893f823f305",
+        "text": "- reading should [also] allow us to escape from the world of screens and not force us to stay there"
+      },
+      "date": 1415568251998
+    },
+    {
+      "type": "move",
+      "order": [
+        "6627b4e387311cb2",
+        "994501b6e5b2ad8a",
+        "683841aeee609b1f",
+        "fc245a13f40670d6",
+        "81f66c61d44a5737",
+        "9f2acc7cd77b3940",
+        "391c68bdbb02c552",
+        "091ea2ed9873ce9a",
+        "f1688ff854b26ae2",
+        "98a33bc2a98cec79",
+        "04b147a768ccf23c",
+        "abcb72a85e68a649",
+        "054c98a63c1a02e8",
+        "a507872184a75473",
+        "e1287acf6046d48b",
+        "ebeb7893f823f305",
+        "d92e8b0f153e28cb"
+      ],
+      "id": "9f2acc7cd77b3940",
+      "date": 1415568272721
+    },
+    {
+      "type": "move",
+      "order": [
+        "6627b4e387311cb2",
+        "994501b6e5b2ad8a",
+        "683841aeee609b1f",
+        "fc245a13f40670d6",
+        "81f66c61d44a5737",
+        "9f2acc7cd77b3940",
+        "04b147a768ccf23c",
+        "391c68bdbb02c552",
+        "091ea2ed9873ce9a",
+        "f1688ff854b26ae2",
+        "98a33bc2a98cec79",
+        "abcb72a85e68a649",
+        "054c98a63c1a02e8",
+        "a507872184a75473",
+        "e1287acf6046d48b",
+        "ebeb7893f823f305",
+        "d92e8b0f153e28cb"
+      ],
+      "id": "04b147a768ccf23c",
+      "date": 1415568274437
+    },
+    {
+      "type": "move",
+      "order": [
+        "6627b4e387311cb2",
+        "994501b6e5b2ad8a",
+        "683841aeee609b1f",
+        "fc245a13f40670d6",
+        "81f66c61d44a5737",
+        "9f2acc7cd77b3940",
+        "04b147a768ccf23c",
+        "98a33bc2a98cec79",
+        "391c68bdbb02c552",
+        "091ea2ed9873ce9a",
+        "f1688ff854b26ae2",
+        "abcb72a85e68a649",
+        "054c98a63c1a02e8",
+        "a507872184a75473",
+        "e1287acf6046d48b",
+        "ebeb7893f823f305",
+        "d92e8b0f153e28cb"
+      ],
+      "id": "98a33bc2a98cec79",
+      "date": 1415568278468
     }
   ]
 }

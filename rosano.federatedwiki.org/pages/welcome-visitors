@@ -2,61 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
-      "id": "7b56f22a4b9ee974",
-      "type": "paragraph"
-    },
-    {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
-      "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "text": "[[Rosano Coutinho]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[What is community?]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "ea7cbbe34e945af3",
-      "text": "[[Best of both worlds]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f005c0a73f8de924",
-      "text": "<strong>else"
-    },
-    {
-      "type": "paragraph",
-      "id": "fa3893d42116dfce",
-      "text": "[[Activity]]"
+      "id": "38d0dbb09d79e5a4",
+      "text": "[[Smallest Federated Wiki Design Challenges]]"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "paragraph",
-      "id": "75aad655e1f0f5dc",
-      "text": "<strong>Temporary Situations</strong>"
-    },
-    {
-      "type": "paragraph",
-      "id": "8750d7ca8c83524b",
-      "text": "[[_trash]]"
+      "text": "Start writing. Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
     }
   ],
   "journal": [
@@ -93,7 +46,7 @@
       "item": {
         "type": "paragraph",
         "id": "821827c99b90cfd1",
-        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/ALT-S to save."
+        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/CTRL-S to save."
       },
       "after": "7b56f22a4b9ee974",
       "id": "821827c99b90cfd1",
@@ -114,7 +67,7 @@
       "item": {
         "type": "paragraph",
         "id": "2bbd646ff3f44b51",
-        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/CTRL-S to save."
       },
       "after": "63ad2e58eecdd9e5",
       "id": "2bbd646ff3f44b51",
@@ -153,211 +106,9 @@
       "date": 1344306168918
     },
     {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "<b>One:</b> A page about myself."
-      },
-      "date": 1361751371185
-    },
-    {
-      "type": "edit",
-      "id": "2bbd646ff3f44b51",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "<b>Two:</b> Pages about what we do here."
-      },
-      "date": 1361751496155
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "<b>One:</b> Pages about us."
-      },
-      "date": 1361751512280
-    },
-    {
-      "type": "edit",
-      "id": "7b56f22a4b9ee974",
-      "item": {
-        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "date": 1361751649467
-    },
-    {
-      "type": "edit",
-      "id": "7b56f22a4b9ee974",
-      "item": {
-        "text": "Welcome to the [[Smallest Federated Wiki]]. From this introductory page you can find who we are and what we do.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "date": 1361751711554
-    },
-    {
-      "type": "edit",
-      "id": "2bbd646ff3f44b51",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "<b>Two:</b> Pages where we do and share."
-      },
-      "date": 1361751811972
-    },
-    {
-      "type": "edit",
-      "id": "7b56f22a4b9ee974",
-      "item": {
-        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
-        "id": "7b56f22a4b9ee974",
-        "type": "paragraph"
-      },
-      "date": 1361751965824
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "Pages about us."
-      },
-      "date": 1361752195146
-    },
-    {
-      "type": "edit",
-      "id": "2bbd646ff3f44b51",
-      "item": {
-        "type": "paragraph",
-        "id": "2bbd646ff3f44b51",
-        "text": "Pages where we do and share."
-      },
-      "date": 1361752202873
-    },
-    {
-      "type": "edit",
-      "id": "0cbb4ef5f5d7e472",
-      "item": {
-        "type": "paragraph",
-        "id": "0cbb4ef5f5d7e472",
-        "text": "Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
-      },
-      "date": 1361752223856
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
-      },
-      "date": 1361752251367
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
-      },
-      "date": 1361752421212
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can your copy of these pages. Press [+] to add more writing spaces."
-      },
-      "date": 1361752436556
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "78a8278db93c6ed2",
-        "text": "Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
-      },
-      "id": "78a8278db93c6ed2",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1361752437061
-    },
-    {
-      "type": "edit",
-      "id": "78a8278db93c6ed2",
-      "item": {
-        "type": "paragraph",
-        "id": "78a8278db93c6ed2",
-        "text": "Read [[How to Wiki]] for more ideas."
-      },
-      "date": 1361752441155
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "67a126ec849b55ed",
-        "text": "Discover [[Recent Changes]] here and nearby."
-      },
-      "id": "67a126ec849b55ed",
-      "type": "add",
-      "after": "78a8278db93c6ed2",
-      "date": 1361752441668
-    },
-    {
-      "type": "remove",
-      "id": "78a8278db93c6ed2",
-      "date": 1361752452012
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas."
-      },
-      "date": 1361752459193
-    },
-    {
-      "type": "remove",
-      "id": "67a126ec849b55ed",
-      "date": 1361752461793
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-      },
-      "date": 1361752483992
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-      },
-      "date": 1361752498310
-    },
-    {
-      "type": "remove",
-      "id": "0cbb4ef5f5d7e472",
-      "date": 1376164176294
+      "type": "fork",
+      "site": "new.fed.wiki.org",
+      "date": 1344306178918
     },
     {
       "type": "edit",
@@ -365,26 +116,89 @@
       "item": {
         "type": "paragraph",
         "id": "63ad2e58eecdd9e5",
-        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-        "text": "[[Rosano Coutinho]]"
+        "text": "[[Jason Grlicky]]"
       },
-      "date": 1415495433581
+      "date": 1352308589210
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1352308872630
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1352308888303
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1352308890601
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1352308893689
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1352308895034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38d0dbb09d79e5a4"
+      },
+      "id": "38d0dbb09d79e5a4",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1352310153537
+    },
+    {
+      "type": "edit",
+      "id": "38d0dbb09d79e5a4",
+      "item": {
+        "type": "paragraph",
+        "id": "38d0dbb09d79e5a4",
+        "text": "[[Smallest Federated Wiki Design Challenges]]"
+      },
+      "date": 1352310170726
     },
     {
       "item": {
         "type": "paragraph",
-        "id": "55776970ee0ef439",
+        "id": "9ee687c0aa1476dc",
         "text": ""
       },
-      "id": "55776970ee0ef439",
+      "id": "9ee687c0aa1476dc",
       "type": "add",
-      "after": "63ad2e58eecdd9e5",
-      "date": 1415495433627
+      "after": "38d0dbb09d79e5a4",
+      "date": 1352310171244
     },
     {
       "type": "remove",
-      "id": "55776970ee0ef439",
-      "date": 1415495435392
+      "id": "9ee687c0aa1476dc",
+      "date": 1352310174570
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "38d0dbb09d79e5a4",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "38d0dbb09d79e5a4",
+      "date": 1352310449103
+    },
+    {
+      "type": "fork",
+      "site": "jgrlicky.fed.wiki.org"
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1415660569148
     },
     {
       "type": "edit",
@@ -393,52 +207,45 @@
         "type": "paragraph",
         "id": "05e2fa92643677ca",
         "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-        "text": "[[Community]]]"
+        "text": "[[What is community?]]c"
       },
-      "date": 1415565357211
+      "date": 1415660713511
     },
     {
       "type": "edit",
-      "id": "05e2fa92643677ca",
+      "id": "ea7cbbe34e945af3",
       "item": {
         "type": "paragraph",
-        "id": "05e2fa92643677ca",
-        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-        "text": "[[W"
+        "id": "ea7cbbe34e945af3",
+        "text": "[[Best of both worlds]]f"
       },
-      "date": 1415565370036
+      "date": 1415660715276
     },
     {
       "item": {
         "type": "paragraph",
-        "id": "c36d9d80a1153896",
-        "text": "hat is community?]]]"
-      },
-      "id": "c36d9d80a1153896",
-      "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1415565370078
-    },
-    {
-      "type": "remove",
-      "id": "c36d9d80a1153896",
-      "date": 1415565370747
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "d8cdc1c0b0a7e593",
+        "id": "49378759aac6ed68",
         "text": ""
       },
-      "id": "d8cdc1c0b0a7e593",
+      "id": "49378759aac6ed68",
       "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1415565380726
+      "after": "ea7cbbe34e945af3",
+      "date": 1415660715321
     },
     {
       "type": "remove",
-      "id": "d8cdc1c0b0a7e593",
-      "date": 1415565383551
+      "id": "49378759aac6ed68",
+      "date": 1415660717499
+    },
+    {
+      "type": "edit",
+      "id": "ea7cbbe34e945af3",
+      "item": {
+        "type": "paragraph",
+        "id": "ea7cbbe34e945af3",
+        "text": "[[Best of both worlds]]"
+      },
+      "date": 1415660719640
     },
     {
       "type": "edit",
@@ -449,315 +256,7 @@
         "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
         "text": "[[What is community?]]"
       },
-      "date": 1415565625639
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "729a4394c877e955",
-        "text": ""
-      },
-      "id": "729a4394c877e955",
-      "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1415565625682
-    },
-    {
-      "type": "remove",
-      "id": "729a4394c877e955",
-      "date": 1415565632487
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "75aad655e1f0f5dc"
-      },
-      "id": "75aad655e1f0f5dc",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1415565718763
-    },
-    {
-      "type": "edit",
-      "id": "75aad655e1f0f5dc",
-      "item": {
-        "type": "paragraph",
-        "id": "75aad655e1f0f5dc",
-        "text": "<strong>Temporary Situations</strong>"
-      },
-      "date": 1415565735208
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "8750d7ca8c83524b",
-        "text": ""
-      },
-      "id": "8750d7ca8c83524b",
-      "type": "add",
-      "after": "75aad655e1f0f5dc",
-      "date": 1415565735225
-    },
-    {
-      "type": "edit",
-      "id": "8750d7ca8c83524b",
-      "item": {
-        "type": "paragraph",
-        "id": "8750d7ca8c83524b",
-        "text": "[[_trash]]"
-      },
-      "date": 1415565748511
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "b5e56163141e8ace",
-        "text": ""
-      },
-      "id": "b5e56163141e8ace",
-      "type": "add",
-      "after": "8750d7ca8c83524b",
-      "date": 1415565748529
-    },
-    {
-      "type": "remove",
-      "id": "b5e56163141e8ace",
-      "date": 1415565753691
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "eb476b042d193e56",
-        "text": ""
-      },
-      "id": "eb476b042d193e56",
-      "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1415566335664
-    },
-    {
-      "type": "remove",
-      "id": "eb476b042d193e56",
-      "date": 1415566356464
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "ea7cbbe34e945af3",
-        "text": ""
-      },
-      "id": "ea7cbbe34e945af3",
-      "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1415566382054
-    },
-    {
-      "type": "edit",
-      "id": "ea7cbbe34e945af3",
-      "item": {
-        "type": "paragraph",
-        "id": "ea7cbbe34e945af3",
-        "text": "[["
-      },
-      "date": 1415566384700
-    },
-    {
-      "type": "edit",
-      "id": "ea7cbbe34e945af3",
-      "item": {
-        "type": "paragraph",
-        "id": "ea7cbbe34e945af3",
-        "text": "[[Best of both worlds]]"
-      },
-      "date": 1415566397515
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "e59b301777d4ee62",
-        "text": ""
-      },
-      "id": "e59b301777d4ee62",
-      "type": "add",
-      "after": "ea7cbbe34e945af3",
-      "date": 1415566397548
-    },
-    {
-      "type": "remove",
-      "id": "e59b301777d4ee62",
-      "date": 1415566402842
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "f005c0a73f8de924",
-        "text": ""
-      },
-      "id": "f005c0a73f8de924",
-      "type": "add",
-      "after": "ea7cbbe34e945af3",
-      "date": 1415659376341
-    },
-    {
-      "type": "edit",
-      "id": "f005c0a73f8de924",
-      "item": {
-        "type": "paragraph",
-        "id": "f005c0a73f8de924",
-        "text": "<strong>other"
-      },
-      "date": 1415659398734
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": ""
-      },
-      "id": "fa3893d42116dfce",
-      "type": "add",
-      "after": "f005c0a73f8de924",
-      "date": 1415659398785
-    },
-    {
-      "type": "edit",
-      "id": "fa3893d42116dfce",
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": "People"
-      },
-      "date": 1415659403937
-    },
-    {
-      "type": "edit",
-      "id": "f005c0a73f8de924",
-      "item": {
-        "type": "paragraph",
-        "id": "f005c0a73f8de924",
-        "text": "<strong>else"
-      },
-      "date": 1415659406613
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "902d453c5645df3d",
-        "text": ""
-      },
-      "id": "902d453c5645df3d",
-      "type": "add",
-      "after": "f005c0a73f8de924",
-      "date": 1415659406666
-    },
-    {
-      "type": "remove",
-      "id": "902d453c5645df3d",
-      "date": 1415659407661
-    },
-    {
-      "type": "edit",
-      "id": "fa3893d42116dfce",
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": "[[People"
-      },
-      "date": 1415659417496
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "22596171128d7b90",
-        "text": ""
-      },
-      "id": "22596171128d7b90",
-      "type": "add",
-      "after": "fa3893d42116dfce",
-      "date": 1415659443763
-    },
-    {
-      "type": "remove",
-      "id": "22596171128d7b90",
-      "date": 1415659446571
-    },
-    {
-      "type": "edit",
-      "id": "fa3893d42116dfce",
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": "[[People]]"
-      },
-      "date": 1415659592365
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "1729250d89dde6f9",
-        "text": ""
-      },
-      "id": "1729250d89dde6f9",
-      "type": "add",
-      "after": "fa3893d42116dfce",
-      "date": 1415659592399
-    },
-    {
-      "type": "remove",
-      "id": "1729250d89dde6f9",
-      "date": 1415659596776
-    },
-    {
-      "type": "edit",
-      "id": "fa3893d42116dfce",
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": "[[Activity"
-      },
-      "date": 1415659609635
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "f93900ba6cba3279",
-        "text": "]]"
-      },
-      "id": "f93900ba6cba3279",
-      "type": "add",
-      "after": "fa3893d42116dfce",
-      "date": 1415659609685
-    },
-    {
-      "type": "remove",
-      "id": "f93900ba6cba3279",
-      "date": 1415659611468
-    },
-    {
-      "type": "edit",
-      "id": "fa3893d42116dfce",
-      "item": {
-        "type": "paragraph",
-        "id": "fa3893d42116dfce",
-        "text": "[[Activity]]"
-      },
-      "date": 1415659961035
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "f609ac3cce359c73",
-        "text": ""
-      },
-      "id": "f609ac3cce359c73",
-      "type": "add",
-      "after": "fa3893d42116dfce",
-      "date": 1415659961063
-    },
-    {
-      "type": "remove",
-      "id": "f609ac3cce359c73",
-      "date": 1415659962190
+      "date": 1415660721333
     }
   ]
 }

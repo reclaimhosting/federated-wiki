@@ -7,6 +7,15 @@
       "site": "ward.ww.fed.wiki.org",
       "title": "Ward Cunningham",
       "text": "I am a friend and colleague of [[Michael Mehaffy]] with whom I shares a passion for [[Pattern Language]]. Its through this connection that I found myself joining a collection of architects visiting Westwind in October, 2012."
+    },
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "text": "[[Jason Grlicky]]"
+    },
+    {
+      "type": "factory",
+      "id": "640ca0bd9ccfc025"
     }
   ],
   "journal": [
@@ -38,6 +47,27 @@
         "text": "I am a friend and colleague of [[Michael Mehaffy]] with whom I shares a passion for [[Pattern Language]]. Its through this connection that I found myself joining a collection of architects visiting Westwind in October, 2012."
       },
       "date": 1415660367623
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "640ca0bd9ccfc025"
+      },
+      "id": "640ca0bd9ccfc025",
+      "type": "add",
+      "after": "ca861e5e886e7145",
+      "date": 1415660567547
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "[[Jason Grlicky]]"
+      },
+      "after": "ca861e5e886e7145",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1415660569154
     }
   ]
 }

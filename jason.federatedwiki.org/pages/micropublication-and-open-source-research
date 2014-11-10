@@ -32,8 +32,9 @@
       "text": "Description"
     },
     {
-      "type": "factory",
-      "id": "232f5da2f64edc93"
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "Describes a model of research/publication using source-repository and wiki features to allow iterate research publication with multiple participants"
     },
     {
       "type": "paragraph",
@@ -41,8 +42,9 @@
       "text": "Tags"
     },
     {
-      "type": "factory",
-      "id": "3d5cbf10f13618e6"
+      "type": "paragraph",
+      "id": "3d5cbf10f13618e6",
+      "text": "SFW , wiki, research, version control, "
     }
   ],
   "journal": [
@@ -183,6 +185,42 @@
         "text": "http://michaelnielsen.org/blog/micropublication-and-open-source-research/"
       },
       "date": 1415649556242
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "Describes a model of research/publication using source-repository and wiki features to allow iterate research publication with multiple participants"
+      },
+      "date": 1415649648588
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cb7328a47223267b",
+        "text": ""
+      },
+      "id": "cb7328a47223267b",
+      "type": "add",
+      "after": "232f5da2f64edc93",
+      "date": 1415649648615
+    },
+    {
+      "type": "remove",
+      "id": "cb7328a47223267b",
+      "date": 1415649652222
+    },
+    {
+      "type": "edit",
+      "id": "3d5cbf10f13618e6",
+      "item": {
+        "type": "paragraph",
+        "id": "3d5cbf10f13618e6",
+        "text": "SFW , wiki, research, version control, "
+      },
+      "date": 1415649674502
     }
   ]
 }

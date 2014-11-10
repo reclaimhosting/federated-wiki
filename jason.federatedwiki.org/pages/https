@@ -1,0 +1,81 @@
+{
+  "title": "HTTPS",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9fb18bcd3c51c672",
+      "text": "I've added SSL certificates to some of my domains.  What I'd like to do (in order to do my part to increase the amount of encrypted web traffic) is to have those default to https: but degrade gracefully to non-encrypted if https: doesn't work."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "HTTPS",
+        "story": []
+      },
+      "date": 1415654157142
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fb18bcd3c51c672"
+      },
+      "id": "9fb18bcd3c51c672",
+      "type": "add",
+      "date": 1415654165636
+    },
+    {
+      "type": "edit",
+      "id": "9fb18bcd3c51c672",
+      "item": {
+        "type": "paragraph",
+        "id": "9fb18bcd3c51c672",
+        "text": "I've added SSL certificates to some of my domains.  What I'd like to do (in order to do my part to increase the amount of encrypted web traffic) is to have those default to https: but degrade gracefully to non-encrypted if https: doesnt'"
+      },
+      "date": 1415654257350
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0185c4847aafd894",
+        "text": ""
+      },
+      "id": "0185c4847aafd894",
+      "type": "add",
+      "after": "9fb18bcd3c51c672",
+      "date": 1415654257376
+    },
+    {
+      "type": "remove",
+      "id": "0185c4847aafd894",
+      "date": 1415654258739
+    },
+    {
+      "type": "edit",
+      "id": "9fb18bcd3c51c672",
+      "item": {
+        "type": "paragraph",
+        "id": "9fb18bcd3c51c672",
+        "text": "I've added SSL certificates to some of my domains.  What I'd like to do (in order to do my part to increase the amount of encrypted web traffic) is to have those default to https: but degrade gracefully to non-encrypted if https: doesn't work."
+      },
+      "date": 1415654265297
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ee26922c081044a",
+        "text": ""
+      },
+      "id": "8ee26922c081044a",
+      "type": "add",
+      "after": "9fb18bcd3c51c672",
+      "date": 1415654265315
+    },
+    {
+      "type": "remove",
+      "id": "8ee26922c081044a",
+      "date": 1415654276419
+    }
+  ]
+}

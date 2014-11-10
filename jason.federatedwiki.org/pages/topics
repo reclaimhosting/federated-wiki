@@ -1,0 +1,55 @@
+{
+  "title": "Topics",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2194f6a2c08061b5",
+      "text": "[[Computer Security]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Topics",
+        "story": []
+      },
+      "date": 1415654091778
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2194f6a2c08061b5"
+      },
+      "id": "2194f6a2c08061b5",
+      "type": "add",
+      "date": 1415654094989
+    },
+    {
+      "type": "edit",
+      "id": "2194f6a2c08061b5",
+      "item": {
+        "type": "paragraph",
+        "id": "2194f6a2c08061b5",
+        "text": "[[Computer Security]]"
+      },
+      "date": 1415654117146
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9be2d83df39c1781",
+        "text": ""
+      },
+      "id": "9be2d83df39c1781",
+      "type": "add",
+      "after": "2194f6a2c08061b5",
+      "date": 1415654117165
+    },
+    {
+      "type": "remove",
+      "id": "9be2d83df39c1781",
+      "date": 1415654123693
+    }
+  ]
+}

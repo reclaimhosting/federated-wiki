@@ -1,0 +1,69 @@
+{
+  "title": "Computer Security",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "618dfe1891ccc791",
+      "text": "[[HTTPS]]"
+    },
+    {
+      "type": "factory",
+      "id": "5f1978dec6ed3b28"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Computer Security",
+        "story": []
+      },
+      "date": 1415654123811
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "618dfe1891ccc791"
+      },
+      "id": "618dfe1891ccc791",
+      "type": "add",
+      "date": 1415654131244
+    },
+    {
+      "type": "edit",
+      "id": "618dfe1891ccc791",
+      "item": {
+        "type": "paragraph",
+        "id": "618dfe1891ccc791",
+        "text": "[[HTTPS]]"
+      },
+      "date": 1415654147470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "393955332d91daed",
+        "text": ""
+      },
+      "id": "393955332d91daed",
+      "type": "add",
+      "after": "618dfe1891ccc791",
+      "date": 1415654147493
+    },
+    {
+      "type": "remove",
+      "id": "393955332d91daed",
+      "date": 1415654157008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f1978dec6ed3b28"
+      },
+      "id": "5f1978dec6ed3b28",
+      "type": "add",
+      "after": "618dfe1891ccc791",
+      "date": 1415654159007
+    }
+  ]
+}

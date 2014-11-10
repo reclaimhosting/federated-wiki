@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "6b3fb75c38c923a6",
       "text": "first of all, you should probably find some sticky notes or index cards to write down all of your main points."
+    },
+    {
+      "type": "paragraph",
+      "id": "23d461cebc353507",
+      "text": "then you should also find the most important points in your essay and write them down"
     }
   ],
   "journal": [
@@ -60,6 +65,52 @@
         "text": "first of all, you should probably find some sticky notes or index cards to write down all of your main points."
       },
       "date": 1415658722908
+    },
+    {
+      "type": "edit",
+      "id": "0245baa9e3912f77",
+      "item": {
+        "type": "paragraph",
+        "id": "0245baa9e3912f77",
+        "text": "you should also try to figure out the main points of your essay"
+      },
+      "date": 1415658982592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23d461cebc353507"
+      },
+      "id": "23d461cebc353507",
+      "type": "add",
+      "after": "6b3fb75c38c923a6",
+      "date": 1415659036587
+    },
+    {
+      "type": "edit",
+      "id": "23d461cebc353507",
+      "item": {
+        "type": "paragraph",
+        "id": "23d461cebc353507",
+        "text": "then you should also find the most important points in your essay and write them down"
+      },
+      "date": 1415659100761
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fccfa6b098eaa63f",
+        "text": ""
+      },
+      "id": "fccfa6b098eaa63f",
+      "type": "add",
+      "after": "23d461cebc353507",
+      "date": 1415659100773
+    },
+    {
+      "type": "remove",
+      "id": "fccfa6b098eaa63f",
+      "date": 1415659101900
     }
   ]
 }

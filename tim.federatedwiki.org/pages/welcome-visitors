@@ -30,8 +30,23 @@
     },
     {
       "type": "paragraph",
+      "id": "aa34e009d5601a5b",
+      "text": "Other Useful Pages"
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "[[How to Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cea17e6621a36669",
+      "text": "[[Recent Changes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e97e0d05d7182987",
+      "text": "[[User Directory]] for federatedwiki.org"
     }
   ],
   "journal": [
@@ -464,6 +479,157 @@
         "text": "[[The Hidden History of Online Learning]]"
       },
       "date": 1415586855990
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa34e009d5601a5b"
+      },
+      "id": "aa34e009d5601a5b",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1415587917882
+    },
+    {
+      "type": "edit",
+      "id": "aa34e009d5601a5b",
+      "item": {
+        "type": "paragraph",
+        "id": "aa34e009d5601a5b",
+        "text": "Other Useful Pages"
+      },
+      "date": 1415587925596
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9aa61cbc546db41b",
+        "text": ""
+      },
+      "id": "9aa61cbc546db41b",
+      "type": "add",
+      "after": "aa34e009d5601a5b",
+      "date": 1415587925608
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "aa34e009d5601a5b",
+        "ee416d431ebf4fb4",
+        "9aa61cbc546db41b"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1415587929678
+    },
+    {
+      "type": "remove",
+      "id": "9aa61cbc546db41b",
+      "date": 1415587930788
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "[[How to Wiki]]"
+      },
+      "date": 1415587942357
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cea17e6621a36669",
+        "text": "[[Recent Changes]] here and nearby."
+      },
+      "id": "cea17e6621a36669",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1415587942369
+    },
+    {
+      "type": "edit",
+      "id": "cea17e6621a36669",
+      "item": {
+        "type": "paragraph",
+        "id": "cea17e6621a36669",
+        "text": "[[Recent Changes]]"
+      },
+      "date": 1415587946764
+    },
+    {
+      "type": "remove",
+      "id": "8cc3554bac170eb1",
+      "date": 1415587946773
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e97e0d05d7182987",
+        "text": " here and nearby."
+      },
+      "id": "e97e0d05d7182987",
+      "type": "add",
+      "after": "cea17e6621a36669",
+      "date": 1415587946784
+    },
+    {
+      "type": "edit",
+      "id": "e97e0d05d7182987",
+      "item": {
+        "type": "paragraph",
+        "id": "e97e0d05d7182987",
+        "text": "[[User Directory]] for federatedwiki.org"
+      },
+      "date": 1415587963427
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "45b116bcc1f42f0f",
+        "text": ""
+      },
+      "id": "45b116bcc1f42f0f",
+      "type": "add",
+      "after": "e97e0d05d7182987",
+      "date": 1415587963437
+    },
+    {
+      "type": "remove",
+      "id": "45b116bcc1f42f0f",
+      "date": 1415587965090
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a00f472b605683f8"
+      },
+      "id": "a00f472b605683f8",
+      "type": "add",
+      "after": "e97e0d05d7182987",
+      "date": 1415588344527
+    },
+    {
+      "type": "edit",
+      "id": "a00f472b605683f8",
+      "item": {
+        "type": "reference",
+        "id": "a00f472b605683f8",
+        "site": "federatedwiki.org",
+        "title": "Get A Wiki",
+        "text": "* Navigate to the subdomain of your choice such as [http://hist289.federatedwiki.org hist289.federatedwiki.org]."
+      },
+      "date": 1415588347381
+    },
+    {
+      "type": "remove",
+      "id": "a00f472b605683f8",
+      "date": 1415588362972
     }
   ]
 }

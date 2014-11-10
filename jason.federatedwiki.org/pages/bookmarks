@@ -1,0 +1,65 @@
+{
+  "title": "Bookmarks",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d34dab4054aa94b3",
+      "text": "[[Micropublication and Open Source Research]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Bookmarks",
+        "story": []
+      },
+      "date": 1415649430123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d34dab4054aa94b3"
+      },
+      "id": "d34dab4054aa94b3",
+      "type": "add",
+      "date": 1415649448527
+    },
+    {
+      "type": "edit",
+      "id": "d34dab4054aa94b3",
+      "item": {
+        "type": "paragraph",
+        "id": "d34dab4054aa94b3",
+        "text": "[[Micropublication and Open Source research]]"
+      },
+      "date": 1415649467811
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e87ebf287cff174e",
+        "text": ""
+      },
+      "id": "e87ebf287cff174e",
+      "type": "add",
+      "after": "d34dab4054aa94b3",
+      "date": 1415649467831
+    },
+    {
+      "type": "remove",
+      "id": "e87ebf287cff174e",
+      "date": 1415649473859
+    },
+    {
+      "type": "edit",
+      "id": "d34dab4054aa94b3",
+      "item": {
+        "type": "paragraph",
+        "id": "d34dab4054aa94b3",
+        "text": "[[Micropublication and Open Source Research]]"
+      },
+      "date": 1415649482390
+    }
+  ]
+}

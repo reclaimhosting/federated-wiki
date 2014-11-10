@@ -24,6 +24,16 @@
     },
     {
       "type": "paragraph",
+      "id": "1d52d99985a92185",
+      "text": "[[Topics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "88348e6dcda89ebe",
+      "text": "[[Bookmarks]]"
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     }
@@ -375,6 +385,76 @@
       "type": "remove",
       "id": "05e2fa92643677ca",
       "date": 1415648903524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d52d99985a92185"
+      },
+      "id": "1d52d99985a92185",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1415649391954
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "1d52d99985a92185",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "1d52d99985a92185",
+      "date": 1415649394849
+    },
+    {
+      "type": "edit",
+      "id": "1d52d99985a92185",
+      "item": {
+        "type": "paragraph",
+        "id": "1d52d99985a92185",
+        "text": "[[Topics]]"
+      },
+      "date": 1415649413393
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "88348e6dcda89ebe",
+        "text": ""
+      },
+      "id": "88348e6dcda89ebe",
+      "type": "add",
+      "after": "1d52d99985a92185",
+      "date": 1415649413420
+    },
+    {
+      "type": "edit",
+      "id": "88348e6dcda89ebe",
+      "item": {
+        "type": "paragraph",
+        "id": "88348e6dcda89ebe",
+        "text": "[[Bookmarks]]"
+      },
+      "date": 1415649422911
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e7d10c3c887820d4",
+        "text": ""
+      },
+      "id": "e7d10c3c887820d4",
+      "type": "add",
+      "after": "88348e6dcda89ebe",
+      "date": 1415649422934
+    },
+    {
+      "type": "remove",
+      "id": "e7d10c3c887820d4",
+      "date": 1415649430035
     }
   ]
 }

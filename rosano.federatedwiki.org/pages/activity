@@ -1,0 +1,108 @@
+{
+  "title": "Activity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e336d2a494f49c11",
+      "text": "[[People]]"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382"
+    },
+    {
+      "type": "factory",
+      "id": "eb493d8cd2727564"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Activity",
+        "story": []
+      },
+      "date": 1415659446681
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e336d2a494f49c11"
+      },
+      "id": "e336d2a494f49c11",
+      "type": "add",
+      "date": 1415659448571
+    },
+    {
+      "type": "edit",
+      "id": "e336d2a494f49c11",
+      "item": {
+        "type": "paragraph",
+        "id": "e336d2a494f49c11",
+        "text": "[[People]]"
+      },
+      "date": 1415659470764
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1dfb0d1b6c4094d0",
+        "text": ""
+      },
+      "id": "1dfb0d1b6c4094d0",
+      "type": "add",
+      "after": "e336d2a494f49c11",
+      "date": 1415659470801
+    },
+    {
+      "type": "remove",
+      "id": "1dfb0d1b6c4094d0",
+      "date": 1415659472162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "716946cbf7572878"
+      },
+      "id": "716946cbf7572878",
+      "type": "add",
+      "after": "e336d2a494f49c11",
+      "date": 1415659474189
+    },
+    {
+      "type": "edit",
+      "id": "716946cbf7572878",
+      "item": {
+        "type": "paragraph",
+        "id": "716946cbf7572878",
+        "text": "[["
+      },
+      "date": 1415659481427
+    },
+    {
+      "type": "remove",
+      "id": "716946cbf7572878",
+      "date": 1415659621700
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb493d8cd2727564"
+      },
+      "id": "eb493d8cd2727564",
+      "type": "add",
+      "after": "e336d2a494f49c11",
+      "date": 1415659624060
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "after": "e336d2a494f49c11",
+      "id": "e9e9f102158e1382",
+      "date": 1415659640766
+    }
+  ]
+}

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c20b92f5838d2d89"
+      "id": "80b436c2c06e659c"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "7f946c04e8144f99"
+      "id": "3fd054ae34ed52de"
+    },
+    {
+      "date": 1415650201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "be85ba83d2a5fa80"
     },
     {
       "date": 1415649669000,
@@ -18,16 +27,7 @@
       "title": "Micropublication and Open Source Research",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "ed86dbe2eace6d1a"
-    },
-    {
-      "date": 1415649601000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "997df45bf4ce3ef9"
+      "id": "305fae7de62f5355"
     },
     {
       "date": 1415594382000,
@@ -36,7 +36,7 @@
       "title": "music",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 9 pages.",
       "type": "reference",
-      "id": "b99ec81b861dca18"
+      "id": "36b931cf06a9a178"
     },
     {
       "date": 1415588468000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
       "type": "reference",
-      "id": "99de375693397370"
+      "id": "474a574ec56c1fe6"
     },
     {
       "date": 1415568773000,
@@ -54,7 +54,7 @@
       "title": "Best of both worlds",
       "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 6 pages.",
       "type": "reference",
-      "id": "cb822eb4be9357fe"
+      "id": "e545109d4ed569a7"
     },
     {
       "date": 1415556980000,
@@ -63,7 +63,7 @@
       "title": "Large Animated Gif",
       "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "4b50ab3b0534a83c"
+      "id": "02e3db5a745bb66b"
     },
     {
       "date": 1415545305000,
@@ -72,41 +72,55 @@
       "title": "Own a Space",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "9b69d30f2d779896"
+      "id": "8c9e23034508ebb1"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b8266d0a8811c5b0",
+      "id": "dc18f01bc71e41ea",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "c20b92f5838d2d89",
+      "id": "80b436c2c06e659c",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c20b92f5838d2d89"
+        "id": "80b436c2c06e659c"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "7f946c04e8144f99",
+      "id": "3fd054ae34ed52de",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "7f946c04e8144f99"
+        "id": "3fd054ae34ed52de"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "ed86dbe2eace6d1a",
+      "id": "be85ba83d2a5fa80",
+      "item": {
+        "date": 1415650201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "be85ba83d2a5fa80"
+      },
+      "date": 1415650801000
+    },
+    {
+      "type": "add",
+      "id": "305fae7de62f5355",
       "item": {
         "date": 1415649669000,
         "site": "jason.federatedwiki.org",
@@ -114,27 +128,13 @@
         "title": "Micropublication and Open Source Research",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "ed86dbe2eace6d1a"
+        "id": "305fae7de62f5355"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "997df45bf4ce3ef9",
-      "item": {
-        "date": 1415649601000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "997df45bf4ce3ef9"
-      },
-      "date": 1415650201000
-    },
-    {
-      "type": "add",
-      "id": "b99ec81b861dca18",
+      "id": "36b931cf06a9a178",
       "item": {
         "date": 1415594382000,
         "site": "max.federatedwiki.org",
@@ -142,13 +142,13 @@
         "title": "music",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 9 pages.",
         "type": "reference",
-        "id": "b99ec81b861dca18"
+        "id": "36b931cf06a9a178"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "99de375693397370",
+      "id": "474a574ec56c1fe6",
       "item": {
         "date": 1415588468000,
         "site": "tim.federatedwiki.org",
@@ -156,13 +156,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
         "type": "reference",
-        "id": "99de375693397370"
+        "id": "474a574ec56c1fe6"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "cb822eb4be9357fe",
+      "id": "e545109d4ed569a7",
       "item": {
         "date": 1415568773000,
         "site": "rosano.federatedwiki.org",
@@ -170,13 +170,13 @@
         "title": "Best of both worlds",
         "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 6 pages.",
         "type": "reference",
-        "id": "cb822eb4be9357fe"
+        "id": "e545109d4ed569a7"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "4b50ab3b0534a83c",
+      "id": "02e3db5a745bb66b",
       "item": {
         "date": 1415556980000,
         "site": "mike.journal.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "Large Animated Gif",
         "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "4b50ab3b0534a83c"
+        "id": "02e3db5a745bb66b"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     },
     {
       "type": "add",
-      "id": "9b69d30f2d779896",
+      "id": "8c9e23034508ebb1",
       "item": {
         "date": 1415545305000,
         "site": "ward.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "Own a Space",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "9b69d30f2d779896"
+        "id": "8c9e23034508ebb1"
       },
-      "date": 1415650201000
+      "date": 1415650801000
     }
   ]
 }

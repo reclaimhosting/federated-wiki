@@ -1,0 +1,196 @@
+{
+  "title": "Vannevar Bush",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d03e8e79296f15b8",
+      "text": "Head of the Office of Science Research and Development during World War II"
+    },
+    {
+      "type": "paragraph",
+      "id": "9ae0d5f37c44b53d",
+      "text": "[http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think\"], and [[The Memex]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Vannevar Bush",
+        "story": []
+      },
+      "date": 1403898385177
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b13fc56e99cf5a37"
+      },
+      "id": "b13fc56e99cf5a37",
+      "type": "add",
+      "date": 1403898393852
+    },
+    {
+      "type": "remove",
+      "id": "b13fc56e99cf5a37",
+      "date": 1403898821368
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "120952d3f52ad8f4"
+      },
+      "id": "120952d3f52ad8f4",
+      "type": "add",
+      "date": 1403898825222
+    },
+    {
+      "type": "edit",
+      "id": "120952d3f52ad8f4",
+      "item": {
+        "type": "factory",
+        "id": "120952d3f52ad8f4",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://mcmorgan.hhol.hapgood.net:3000/\",\"types\":[\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://mcmorgan.hhol.hapgood.net:3000/",
+          "types": [
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+        }
+      },
+      "date": 1403898933678
+    },
+    {
+      "type": "edit",
+      "id": "120952d3f52ad8f4",
+      "item": {
+        "type": "reference",
+        "id": "120952d3f52ad8f4",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://mcmorgan.hhol.hapgood.net:3000/\",\"types\":[\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://mcmorgan.hhol.hapgood.net:3000/",
+          "types": [
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+        },
+        "site": "mcmorgan.hhol.hapgood.net:3000",
+        "slug": "the-memex",
+        "title": "The Memex",
+        "text": "Imagined by Vannevar Bush in [http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think,\"] in 1945, the memex is a desk-sized scholar workstation containing a microfilm library. Text and images are displayed on two screens, and can be annotated by hand. Most importantly, texts and images can be linked, so that bringing up a text on one screen brings up a linked text on the other. These links can be organized into trails, and the trails shared with others."
+      },
+      "date": 1403898953466
+    },
+    {
+      "type": "edit",
+      "id": "120952d3f52ad8f4",
+      "item": {
+        "type": "reference",
+        "id": "120952d3f52ad8f4",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":4,\"url\":\"http://mcmorgan.hhol.hapgood.net:3000/\",\"types\":[\"text/uri-list\",\"text/html\"]}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 4,
+          "url": "http://mcmorgan.hhol.hapgood.net:3000/",
+          "types": [
+            "text/uri-list",
+            "text/html"
+          ],
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+        },
+        "site": "mcmorgan.hhol.hapgood.net:3000",
+        "slug": "the-memex",
+        "title": "The Memex",
+        "text": "\"As We May Think.\" and [[The Memex]]"
+      },
+      "date": 1403899019962
+    },
+    {
+      "type": "remove",
+      "id": "120952d3f52ad8f4",
+      "date": 1403899042248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ae0d5f37c44b53d"
+      },
+      "id": "9ae0d5f37c44b53d",
+      "type": "add",
+      "date": 1403899046381
+    },
+    {
+      "type": "edit",
+      "id": "9ae0d5f37c44b53d",
+      "item": {
+        "type": "paragraph",
+        "id": "9ae0d5f37c44b53d",
+        "text": "\"As We May Think.\" and [[The Memex]]"
+      },
+      "date": 1403899070217
+    },
+    {
+      "type": "edit",
+      "id": "9ae0d5f37c44b53d",
+      "item": {
+        "type": "paragraph",
+        "id": "9ae0d5f37c44b53d",
+        "text": "[http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think\", and [[The Memex]]"
+      },
+      "date": 1403900942718
+    },
+    {
+      "type": "edit",
+      "id": "9ae0d5f37c44b53d",
+      "item": {
+        "type": "paragraph",
+        "id": "9ae0d5f37c44b53d",
+        "text": "[http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think\"], and [[The Memex]]"
+      },
+      "date": 1403900951886
+    },
+    {
+      "type": "fork",
+      "site": "mcmorgan.hhol.hapgood.net:3000",
+      "date": 1404193784890
+    },
+    {
+      "type": "fork",
+      "site": "hhol.mike.fed.wiki.org",
+      "date": 1415587066437
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d03e8e79296f15b8"
+      },
+      "id": "d03e8e79296f15b8",
+      "type": "add",
+      "after": "9ae0d5f37c44b53d",
+      "date": 1415587164072
+    },
+    {
+      "type": "edit",
+      "id": "d03e8e79296f15b8",
+      "item": {
+        "type": "paragraph",
+        "id": "d03e8e79296f15b8",
+        "text": "Head of the Office of Science Research and Development during World War II"
+      },
+      "date": 1415587190644
+    },
+    {
+      "type": "move",
+      "order": [
+        "d03e8e79296f15b8",
+        "9ae0d5f37c44b53d"
+      ],
+      "id": "d03e8e79296f15b8",
+      "date": 1415587192398
+    }
+  ]
+}

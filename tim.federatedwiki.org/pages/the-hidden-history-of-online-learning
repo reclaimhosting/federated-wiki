@@ -130,6 +130,13 @@
       "slug": "rolin-moe",
       "title": "Rolin Moe",
       "text": "Rolin Moe (rolin)"
+    },
+    {
+      "type": "reference",
+      "id": "fde192723346ee9d",
+      "site": "tim.federatedwiki.org",
+      "title": "Tim Owens",
+      "text": "Tim Owens (timmmmyboy)"
     }
   ],
   "journal": [
@@ -1522,6 +1529,40 @@
       "type": "fork",
       "site": "tim.sandbox.fed.wiki.org",
       "date": 1415586554863
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fde192723346ee9d"
+      },
+      "id": "fde192723346ee9d",
+      "type": "add",
+      "after": "6f23594893616b3b",
+      "date": 1415586630513
+    },
+    {
+      "type": "edit",
+      "id": "fde192723346ee9d",
+      "item": {
+        "type": "reference",
+        "id": "fde192723346ee9d",
+        "site": "tim.federatedwiki.org",
+        "title": "Tim Owens",
+        "text": "I help run [[Reclaim Hosting]] and hope to make it as easy as possible for people to get started with [[Smallest Federated Wiki]]. That being said I have no idea what I'm doing. Let's learn together!"
+      },
+      "date": 1415586632556
+    },
+    {
+      "type": "edit",
+      "id": "fde192723346ee9d",
+      "item": {
+        "type": "reference",
+        "id": "fde192723346ee9d",
+        "site": "tim.federatedwiki.org",
+        "title": "Tim Owens",
+        "text": "Tim Owens (timmmmyboy)"
+      },
+      "date": 1415586647251
     }
   ]
 }

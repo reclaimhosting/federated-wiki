@@ -41,7 +41,7 @@
     {
       "type": "paragraph",
       "id": "fa3893d42116dfce",
-      "text": "[[Activity"
+      "text": "[[Activity]]"
     },
     {
       "type": "paragraph",
@@ -732,6 +732,32 @@
       "type": "remove",
       "id": "f93900ba6cba3279",
       "date": 1415659611468
+    },
+    {
+      "type": "edit",
+      "id": "fa3893d42116dfce",
+      "item": {
+        "type": "paragraph",
+        "id": "fa3893d42116dfce",
+        "text": "[[Activity]]"
+      },
+      "date": 1415659961035
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f609ac3cce359c73",
+        "text": ""
+      },
+      "id": "f609ac3cce359c73",
+      "type": "add",
+      "after": "fa3893d42116dfce",
+      "date": 1415659961063
+    },
+    {
+      "type": "remove",
+      "id": "f609ac3cce359c73",
+      "date": 1415659962190
     }
   ]
 }

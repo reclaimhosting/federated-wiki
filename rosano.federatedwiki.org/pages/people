@@ -1,6 +1,14 @@
 {
   "title": "People",
-  "story": [],
+  "story": [
+    {
+      "type": "reference",
+      "id": "ca861e5e886e7145",
+      "site": "ward.ww.fed.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I am a friend and colleague of [[Michael Mehaffy]] with whom I shares a passion for [[Pattern Language]]. Its through this connection that I found myself joining a collection of architects visiting Westwind in October, 2012."
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +17,27 @@
         "story": []
       },
       "date": 1415659596794
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca861e5e886e7145"
+      },
+      "id": "ca861e5e886e7145",
+      "type": "add",
+      "date": 1415660359081
+    },
+    {
+      "type": "edit",
+      "id": "ca861e5e886e7145",
+      "item": {
+        "type": "reference",
+        "id": "ca861e5e886e7145",
+        "site": "ward.ww.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I am a friend and colleague of [[Michael Mehaffy]] with whom I shares a passion for [[Pattern Language]]. Its through this connection that I found myself joining a collection of architects visiting Westwind in October, 2012."
+      },
+      "date": 1415660367623
     }
   ]
 }

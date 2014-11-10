@@ -1,6 +1,17 @@
 {
   "title": "composition",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3d1b8dc7745e31cb",
+      "text": "here is a list of composition points and ideas"
+    },
+    {
+      "type": "paragraph",
+      "id": "161fc9dd4d80008f",
+      "text": "[[how to plan an oral presentation]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +20,72 @@
         "story": []
       },
       "date": 1415598275951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d1b8dc7745e31cb"
+      },
+      "id": "3d1b8dc7745e31cb",
+      "type": "add",
+      "date": 1415658432642
+    },
+    {
+      "type": "edit",
+      "id": "3d1b8dc7745e31cb",
+      "item": {
+        "type": "paragraph",
+        "id": "3d1b8dc7745e31cb",
+        "text": "here is a list of composition points and ideas"
+      },
+      "date": 1415658463973
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "161fc9dd4d80008f",
+        "text": ""
+      },
+      "id": "161fc9dd4d80008f",
+      "type": "add",
+      "after": "3d1b8dc7745e31cb",
+      "date": 1415658463986
+    },
+    {
+      "type": "edit",
+      "id": "161fc9dd4d80008f",
+      "item": {
+        "type": "paragraph",
+        "id": "161fc9dd4d80008f",
+        "text": "[[how to plan an oral presentation"
+      },
+      "date": 1415658479113
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62c1168fc0934629",
+        "text": ""
+      },
+      "id": "62c1168fc0934629",
+      "type": "add",
+      "after": "161fc9dd4d80008f",
+      "date": 1415658479121
+    },
+    {
+      "type": "remove",
+      "id": "62c1168fc0934629",
+      "date": 1415658482174
+    },
+    {
+      "type": "edit",
+      "id": "161fc9dd4d80008f",
+      "item": {
+        "type": "paragraph",
+        "id": "161fc9dd4d80008f",
+        "text": "[[how to plan an oral presentation]]"
+      },
+      "date": 1415658485799
     }
   ]
 }

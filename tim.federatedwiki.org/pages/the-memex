@@ -1,0 +1,368 @@
+{
+  "title": "The Memex",
+  "story": [
+    {
+      "type": "factory",
+      "id": "2cc788abd7abb98c",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://u-tx.net/ccritics/memex.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://u-tx.net/ccritics/memex.gif",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "7a3d6d479d5cd041",
+      "text": "Imagined by [[Vannevar Bush]] in [http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think,\"] in 1945, the memex is a desk-sized scholar workstation containing a microfilm library. Text and images are displayed on two screens, and can be annotated by hand. Most importantly, texts and images can be linked, so that bringing up a text on one screen brings up a linked text on the other. These links can be organized into trails, and the trails shared with others."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd9234270ac2f0e1",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "d0adc5f6ec0b4269",
+      "text": "Bush's design for the Steelcase memex suggests that online teachers and learners work at  reciprocal workspaces. It's not a matter of the teacher at the big desk and student at the small one; they both use their own memex as a [[Personal Learning Environment]]. Part of learning, then, is creating and learning to use this personal workspace with the guidance of an instructor - as a glassblower creates her studio and a botanist her lab. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0e946344d68582ad",
+      "text": "The reciprocity of teaching and learning spaces is significant here. Compare this design to traditional classrooms where only the Teacher has the Big Desk, a design that is re-created in online learning using a [[Content Management System]]. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Memex",
+        "story": []
+      },
+      "date": 1403798471352
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a3d6d479d5cd041"
+      },
+      "id": "7a3d6d479d5cd041",
+      "type": "add",
+      "date": 1403798474548
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by Vannevar Bush in \"As We May Think,\" in 1945.  "
+      },
+      "date": 1403798521018
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cd9234270ac2f0e1",
+        "text": ""
+      },
+      "id": "cd9234270ac2f0e1",
+      "type": "add",
+      "after": "7a3d6d479d5cd041",
+      "date": 1403798521023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0adc5f6ec0b4269"
+      },
+      "id": "d0adc5f6ec0b4269",
+      "type": "add",
+      "after": "cd9234270ac2f0e1",
+      "date": 1403799386983
+    },
+    {
+      "type": "edit",
+      "id": "d0adc5f6ec0b4269",
+      "item": {
+        "type": "paragraph",
+        "id": "d0adc5f6ec0b4269",
+        "text": "Bush's design for the Steelcase memex suggests that online teachers and learners work at  reciprocal workspaces. It's not a matter of the teacher at the big desk and student at the small one; they both use their own memex as a [[Personal Learning Environment]]. Part of learning, then, is creating and developing this personal workspace with the guidance of an instructor - as a glassblower might create her studio and a botanist her lab. "
+      },
+      "date": 1403799394214
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by Vannevar Bush in \"As We May Think,\" in 1945, the memex is a desk-sized scholar"
+      },
+      "date": 1403799424653
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ec3a37a5c0e822e",
+        "text": ""
+      },
+      "id": "6ec3a37a5c0e822e",
+      "type": "add",
+      "after": "7a3d6d479d5cd041",
+      "date": 1403799424659
+    },
+    {
+      "type": "remove",
+      "id": "6ec3a37a5c0e822e",
+      "date": 1403799427141
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by Vannevar Bush in \"As We May Think,\" in 1945, the memex is a desk-sized scholar workstation containing a microfilm library."
+      },
+      "date": 1403799484563
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by Vannevar Bush in \"As We May Think,\" in 1945, the memex is a desk-sized scholar workstation containing a microfilm library. Text and images are displayed on two screens, and can be annotated by hand. Most importantly, texts and images can be linked, so that bringing up a text on one screen brings up a linked text on the other. These links can be organized into trails, and the trails shared with others."
+      },
+      "date": 1403799609970
+    },
+    {
+      "type": "edit",
+      "id": "d0adc5f6ec0b4269",
+      "item": {
+        "type": "paragraph",
+        "id": "d0adc5f6ec0b4269",
+        "text": "Bush's design for the Steelcase memex suggests that online teachers and learners work at  reciprocal workspaces. It's not a matter of the teacher at the big desk and student at the small one; they both use their own memex as a [[Personal Learning Environment]]. Part of learning, then, is creating and learning to use this personal workspace with the guidance of an instructor - as a glassblower creates her studio and a botanist her lab. "
+      },
+      "date": 1403799648369
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e946344d68582ad"
+      },
+      "id": "0e946344d68582ad",
+      "type": "add",
+      "after": "d0adc5f6ec0b4269",
+      "date": 1403799662226
+    },
+    {
+      "type": "edit",
+      "id": "0e946344d68582ad",
+      "item": {
+        "type": "paragraph",
+        "id": "0e946344d68582ad",
+        "text": "The reciprocity of teaching and learning spaces is significant here. Compare this design to traditional classrooms where only the Teacher has the Big Desk, a design that is re-created in online learning using a [[Content Management System]]. "
+      },
+      "date": 1403799982829
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by Vannevar Bush in [http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think,\"] in 1945, the memex is a desk-sized scholar workstation containing a microfilm library. Text and images are displayed on two screens, and can be annotated by hand. Most importantly, texts and images can be linked, so that bringing up a text on one screen brings up a linked text on the other. These links can be organized into trails, and the trails shared with others."
+      },
+      "date": 1403800038933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ecb9a67e0912a89e"
+      },
+      "id": "ecb9a67e0912a89e",
+      "type": "add",
+      "after": "0e946344d68582ad",
+      "date": 1403800175373
+    },
+    {
+      "type": "remove",
+      "id": "ecb9a67e0912a89e",
+      "date": 1403800205792
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e36a8b3bc31424bc"
+      },
+      "id": "e36a8b3bc31424bc",
+      "type": "add",
+      "after": "0e946344d68582ad",
+      "date": 1403800267504
+    },
+    {
+      "type": "edit",
+      "id": "e36a8b3bc31424bc",
+      "item": {
+        "type": "calculator",
+        "id": "e36a8b3bc31424bc",
+        "text": "See also [http://www.gardnercampbell.net/blog1/?p=2307 Gar"
+      },
+      "date": 1403800280057
+    },
+    {
+      "type": "edit",
+      "id": "e36a8b3bc31424bc",
+      "item": {
+        "type": "calculator",
+        "id": "e36a8b3bc31424bc",
+        "text": "See also [http://www.gardnercampbell.net/blog1/?p=2307 Gardener]",
+        "data": []
+      },
+      "date": 1403800303456
+    },
+    {
+      "type": "edit",
+      "id": "e36a8b3bc31424bc",
+      "item": {
+        "type": "calculator",
+        "id": "e36a8b3bc31424bc",
+        "text": "Also [http://www.gardnercampbell.net/blog1/?p=2307 Gardener]",
+        "data": []
+      },
+      "date": 1403800316384
+    },
+    {
+      "type": "remove",
+      "id": "e36a8b3bc31424bc",
+      "date": 1403800329500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5d8f4fcfb52ad60"
+      },
+      "id": "e5d8f4fcfb52ad60",
+      "type": "add",
+      "after": "0e946344d68582ad",
+      "date": 1403800434477
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a3d6d479d5cd041",
+        "e5d8f4fcfb52ad60",
+        "cd9234270ac2f0e1",
+        "d0adc5f6ec0b4269",
+        "0e946344d68582ad"
+      ],
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800535717
+    },
+    {
+      "type": "move",
+      "order": [
+        "e5d8f4fcfb52ad60",
+        "7a3d6d479d5cd041",
+        "cd9234270ac2f0e1",
+        "d0adc5f6ec0b4269",
+        "0e946344d68582ad"
+      ],
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800540700
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a3d6d479d5cd041",
+        "cd9234270ac2f0e1",
+        "e5d8f4fcfb52ad60",
+        "d0adc5f6ec0b4269",
+        "0e946344d68582ad"
+      ],
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800592778
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a3d6d479d5cd041",
+        "cd9234270ac2f0e1",
+        "d0adc5f6ec0b4269",
+        "e5d8f4fcfb52ad60",
+        "0e946344d68582ad"
+      ],
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800595039
+    },
+    {
+      "type": "move",
+      "order": [
+        "7a3d6d479d5cd041",
+        "e5d8f4fcfb52ad60",
+        "cd9234270ac2f0e1",
+        "d0adc5f6ec0b4269",
+        "0e946344d68582ad"
+      ],
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800617574
+    },
+    {
+      "type": "remove",
+      "id": "e5d8f4fcfb52ad60",
+      "date": 1403800688851
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2cc788abd7abb98c"
+      },
+      "id": "2cc788abd7abb98c",
+      "type": "add",
+      "after": "0e946344d68582ad",
+      "date": 1403800697013
+    },
+    {
+      "type": "edit",
+      "id": "7a3d6d479d5cd041",
+      "item": {
+        "type": "paragraph",
+        "id": "7a3d6d479d5cd041",
+        "text": "Imagined by [[Vannevar Bush]] in [http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ \"As We May Think,\"] in 1945, the memex is a desk-sized scholar workstation containing a microfilm library. Text and images are displayed on two screens, and can be annotated by hand. Most importantly, texts and images can be linked, so that bringing up a text on one screen brings up a linked text on the other. These links can be organized into trails, and the trails shared with others."
+      },
+      "date": 1403899096088
+    },
+    {
+      "type": "fork",
+      "site": "mcmorgan.hhol.hapgood.net:3000",
+      "date": 1415587298012
+    },
+    {
+      "type": "edit",
+      "id": "2cc788abd7abb98c",
+      "item": {
+        "type": "factory",
+        "id": "2cc788abd7abb98c",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://u-tx.net/ccritics/memex.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://u-tx.net/ccritics/memex.gif",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
+        }
+      },
+      "date": 1415587357309
+    },
+    {
+      "type": "move",
+      "order": [
+        "2cc788abd7abb98c",
+        "7a3d6d479d5cd041",
+        "cd9234270ac2f0e1",
+        "d0adc5f6ec0b4269",
+        "0e946344d68582ad"
+      ],
+      "id": "2cc788abd7abb98c",
+      "date": 1415587378658
+    }
+  ]
+}

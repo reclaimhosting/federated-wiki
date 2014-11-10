@@ -1,0 +1,123 @@
+{
+  "title": "Getting Started",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9baf3c915bbf390b",
+      "text": "First you need to [[Get A Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f4ae27654394442",
+      "text": "Make sure to add yourself to the [[User Directory]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "bbbf901dbc08197b",
+      "text": "If you're new to [[Smallest Federated Wiki]] you may want to read up on [[How to Wiki]] and check out some of the [[Resources]] we're putting together (and add others you find!)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Getting Started",
+        "story": []
+      },
+      "date": 1415588507295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9baf3c915bbf390b"
+      },
+      "id": "9baf3c915bbf390b",
+      "type": "add",
+      "date": 1415588509328
+    },
+    {
+      "type": "edit",
+      "id": "9baf3c915bbf390b",
+      "item": {
+        "type": "paragraph",
+        "id": "9baf3c915bbf390b",
+        "text": "First you need to [[Get A Wiki]]"
+      },
+      "date": 1415588527661
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f4ae27654394442",
+        "text": ""
+      },
+      "id": "3f4ae27654394442",
+      "type": "add",
+      "after": "9baf3c915bbf390b",
+      "date": 1415588527671
+    },
+    {
+      "type": "edit",
+      "id": "3f4ae27654394442",
+      "item": {
+        "type": "paragraph",
+        "id": "3f4ae27654394442",
+        "text": "Make sure to add yourself to the [[User Directory]]"
+      },
+      "date": 1415588570987
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "255bbd7de7aa5649",
+        "text": ""
+      },
+      "id": "255bbd7de7aa5649",
+      "type": "add",
+      "after": "3f4ae27654394442",
+      "date": 1415588570999
+    },
+    {
+      "type": "remove",
+      "id": "255bbd7de7aa5649",
+      "date": 1415588581177
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bbbf901dbc08197b",
+        "text": ""
+      },
+      "id": "bbbf901dbc08197b",
+      "type": "add",
+      "after": "3f4ae27654394442",
+      "date": 1415588582651
+    },
+    {
+      "type": "edit",
+      "id": "bbbf901dbc08197b",
+      "item": {
+        "type": "paragraph",
+        "id": "bbbf901dbc08197b",
+        "text": "If you're new to [[Smallest Federated Wiki]] you may want to read up on [[How to Wiki]] and check out some of the [[Resources]] we're putting together (and add others you find!)"
+      },
+      "date": 1415588623073
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "958b91eaf0ce7f16",
+        "text": ""
+      },
+      "id": "958b91eaf0ce7f16",
+      "type": "add",
+      "after": "bbbf901dbc08197b",
+      "date": 1415588623083
+    },
+    {
+      "type": "remove",
+      "id": "958b91eaf0ce7f16",
+      "date": 1415588626077
+    }
+  ]
+}

@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "fc83e9c0d8ea8f42",
+      "text": "[[Getting Started]]"
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "To learn more about how [[Smallest Federated Wiki]] works read up on [[How to Wiki]]. You can also follow [[Recent Changes]] here and [[Recent Farm Activity]] across all sites. All updates are pushed to the [https://github.com/reclaimhosting/federated-wiki GitHub repository] every 10 minutes."
     },
@@ -448,6 +453,38 @@
         "type": "paragraph"
       },
       "date": 1415562920361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc83e9c0d8ea8f42"
+      },
+      "id": "fc83e9c0d8ea8f42",
+      "type": "add",
+      "after": "dd89a5209739bffd",
+      "date": 1415588493828
+    },
+    {
+      "type": "edit",
+      "id": "fc83e9c0d8ea8f42",
+      "item": {
+        "type": "paragraph",
+        "id": "fc83e9c0d8ea8f42",
+        "text": "[[Getting Started]]"
+      },
+      "date": 1415588503205
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fc83e9c0d8ea8f42",
+        "ee416d431ebf4fb4",
+        "61fe3ae0b4675dcd",
+        "dd89a5209739bffd"
+      ],
+      "id": "fc83e9c0d8ea8f42",
+      "date": 1415588638464
     }
   ]
 }

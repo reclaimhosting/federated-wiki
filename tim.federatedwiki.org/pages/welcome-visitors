@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own wiki to participate. You can [[Get A Wiki]] on the federatedwiki.org server or run your own [[Smallest Federated Wiki]] server.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -630,6 +630,32 @@
       "type": "remove",
       "id": "a00f472b605683f8",
       "date": 1415588362972
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own wiki to participate. You can [[Get A Wiki]] on the federatedwiki.org server or run your own [[Smallest Federated Wiki]] server.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415588464215
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "366715168a4528a6",
+        "text": ""
+      },
+      "id": "366715168a4528a6",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1415588464229
+    },
+    {
+      "type": "remove",
+      "id": "366715168a4528a6",
+      "date": 1415588472287
     }
   ]
 }

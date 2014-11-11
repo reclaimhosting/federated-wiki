@@ -4,17 +4,52 @@
     {
       "type": "paragraph",
       "id": "ad2e29e55ed3470e",
-      "text": "An example of innovation is the [[GPS as Idea Collision]]."
+      "text": "An example of innovation is [[GPS as Idea Collision]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bb24eaa261aa690",
+      "text": "Cultures of [[Spontaneous Order]] produce innovation. [[Lysenkoism]] does not."
+    },
+    {
+      "type": "paragraph",
+      "id": "becf99bd589b15ff",
+      "text": "[[Intellectual Ossification]] is a chain reaction. So is its opposite."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ec8c539684a1418",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "6d5d6200fdba4c83",
+      "text": "Edison said it was 99% perspiration. [[Tesla on Edison]] said that there'd be less sweating if you learned a bit more basic science."
+    },
+    {
+      "type": "paragraph",
+      "id": "2f88de6325d5bafa",
+      "text": "Johnson says much of the [[Eureka Narrative]] is a lie. Looking back you find that inspiration is more likely to be a [[Slow Hunch]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cdbe1e2388eb52ba",
+      "text": "[[Kevin Dunbar]] went further -- it's not even <b>your</b> hunch. You learn from the shared mistakes of others. And maybe also from [[Incomplete Proofs]]."
     },
     {
       "type": "paragraph",
       "id": "3a03aa73559eee72",
-      "text": ""
+      "text": "V. Bush imagined innovation as a new pathway through old ideas, leaving [[Associative Trails]]."
     },
     {
       "type": "paragraph",
       "id": "0b9f79b5b65165ef",
       "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "8dfb305ea21ba012",
+      "text": "[[Everything is Broken and Nobody's Upset]] -- why is this? What does it tell us about technological change?"
     }
   ],
   "journal": [
@@ -66,6 +101,204 @@
       "type": "add",
       "after": "ad2e29e55ed3470e",
       "date": 1415732367489
+    },
+    {
+      "type": "edit",
+      "id": "3a03aa73559eee72",
+      "item": {
+        "type": "paragraph",
+        "id": "3a03aa73559eee72",
+        "text": "V. Bush imagined innovation as a new pathway through old ideas, leaving [[Associative Trails]]."
+      },
+      "date": 1415732434972
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4751469238c5f948",
+        "text": ""
+      },
+      "id": "4751469238c5f948",
+      "type": "add",
+      "after": "3a03aa73559eee72",
+      "date": 1415732434987
+    },
+    {
+      "type": "remove",
+      "id": "4751469238c5f948",
+      "date": 1415732439875
+    },
+    {
+      "type": "edit",
+      "id": "ad2e29e55ed3470e",
+      "item": {
+        "type": "paragraph",
+        "id": "ad2e29e55ed3470e",
+        "text": "An example of innovation is [[GPS as Idea Collision]]."
+      },
+      "date": 1415732443637
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dfb305ea21ba012"
+      },
+      "id": "8dfb305ea21ba012",
+      "type": "add",
+      "after": "0b9f79b5b65165ef",
+      "date": 1415732457113
+    },
+    {
+      "type": "edit",
+      "id": "8dfb305ea21ba012",
+      "item": {
+        "type": "paragraph",
+        "id": "8dfb305ea21ba012",
+        "text": "[[Everything is Broken and Nobody's Upset]] -- why is this? What does it tell us about technological change?"
+      },
+      "date": 1415732499517
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "45b973d484f608da",
+        "text": ""
+      },
+      "id": "45b973d484f608da",
+      "type": "add",
+      "after": "8dfb305ea21ba012",
+      "date": 1415732499534
+    },
+    {
+      "type": "remove",
+      "id": "45b973d484f608da",
+      "date": 1415732504593
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d5d6200fdba4c83",
+        "text": ""
+      },
+      "id": "6d5d6200fdba4c83",
+      "type": "add",
+      "after": "ad2e29e55ed3470e",
+      "date": 1415732505529
+    },
+    {
+      "type": "edit",
+      "id": "6d5d6200fdba4c83",
+      "item": {
+        "type": "paragraph",
+        "id": "6d5d6200fdba4c83",
+        "text": "Edison said it was 99% perspiration. [[Tesla on Edison]] said that there'd be less sweating if you learned a bit more basic science."
+      },
+      "date": 1415732574460
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2f88de6325d5bafa",
+        "text": ""
+      },
+      "id": "2f88de6325d5bafa",
+      "type": "add",
+      "after": "6d5d6200fdba4c83",
+      "date": 1415732606722
+    },
+    {
+      "type": "edit",
+      "id": "2f88de6325d5bafa",
+      "item": {
+        "type": "paragraph",
+        "id": "2f88de6325d5bafa",
+        "text": "Johnson says much of the [[Eureka Narrative]] is a lie. Looking back you find that inspiration is more likely to be a [[Slow Hunch]]. "
+      },
+      "date": 1415732681571
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cdbe1e2388eb52ba",
+        "text": ""
+      },
+      "id": "cdbe1e2388eb52ba",
+      "type": "add",
+      "after": "2f88de6325d5bafa",
+      "date": 1415732681588
+    },
+    {
+      "type": "edit",
+      "id": "cdbe1e2388eb52ba",
+      "item": {
+        "type": "paragraph",
+        "id": "cdbe1e2388eb52ba",
+        "text": "[[Kevin Dunbar]] went further -- it's not even <b>your</b> hunch."
+      },
+      "date": 1415732713178
+    },
+    {
+      "type": "edit",
+      "id": "cdbe1e2388eb52ba",
+      "item": {
+        "type": "paragraph",
+        "id": "cdbe1e2388eb52ba",
+        "text": "[[Kevin Dunbar]] went further -- it's not even <b>your</b> hunch. You learn from the shared mistakes of others. And maybe also from [[Incomplete Proofs]]."
+      },
+      "date": 1415732806723
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6bb24eaa261aa690",
+        "text": ""
+      },
+      "id": "6bb24eaa261aa690",
+      "type": "add",
+      "after": "ad2e29e55ed3470e",
+      "date": 1415732830994
+    },
+    {
+      "type": "edit",
+      "id": "6bb24eaa261aa690",
+      "item": {
+        "type": "paragraph",
+        "id": "6bb24eaa261aa690",
+        "text": "Cultures of [[Spontaneous Order]] produce innovation. [[Lysenkoism]] does not."
+      },
+      "date": 1415732863125
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "becf99bd589b15ff",
+        "text": ""
+      },
+      "id": "becf99bd589b15ff",
+      "type": "add",
+      "after": "6bb24eaa261aa690",
+      "date": 1415732926064
+    },
+    {
+      "type": "edit",
+      "id": "becf99bd589b15ff",
+      "item": {
+        "type": "paragraph",
+        "id": "becf99bd589b15ff",
+        "text": "[[Intellectual Ossification]] is a chain reaction. So is its opposite."
+      },
+      "date": 1415732956597
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ec8c539684a1418",
+        "text": ""
+      },
+      "id": "0ec8c539684a1418",
+      "type": "add",
+      "after": "becf99bd589b15ff",
+      "date": 1415732977839
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "title": "math",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "de32bafd7ac63f9f",
+      "text": "[[cubing]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,41 @@
         "story": []
       },
       "date": 1415598261039
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de32bafd7ac63f9f"
+      },
+      "id": "de32bafd7ac63f9f",
+      "type": "add",
+      "date": 1415743037566
+    },
+    {
+      "type": "edit",
+      "id": "de32bafd7ac63f9f",
+      "item": {
+        "type": "paragraph",
+        "id": "de32bafd7ac63f9f",
+        "text": "[[cubing]]"
+      },
+      "date": 1415743053569
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e77ba957bb55d36",
+        "text": ""
+      },
+      "id": "4e77ba957bb55d36",
+      "type": "add",
+      "after": "de32bafd7ac63f9f",
+      "date": 1415743053581
+    },
+    {
+      "type": "remove",
+      "id": "4e77ba957bb55d36",
+      "date": 1415743056814
     }
   ]
 }

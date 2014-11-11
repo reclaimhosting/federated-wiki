@@ -2,8 +2,9 @@
   "title": "Return to the Garden",
   "story": [
     {
-      "type": "factory",
-      "id": "e9988222ed1d82b8"
+      "type": "paragraph",
+      "id": "e9988222ed1d82b8",
+      "text": "Progress excites some, disturbs others. One method of making change less frightening is to present it as a return to a more idyllic time. Hence, even progressive politicians evoke the [[Eden Myth]] in service of reforms."
     }
   ],
   "journal": [
@@ -23,6 +24,16 @@
       "id": "e9988222ed1d82b8",
       "type": "add",
       "date": 1415734559194
+    },
+    {
+      "type": "edit",
+      "id": "e9988222ed1d82b8",
+      "item": {
+        "type": "paragraph",
+        "id": "e9988222ed1d82b8",
+        "text": "Progress excites some, disturbs others. One method of making change less frightening is to present it as a return to a more idyllic time. Hence, even progressive politicians evoke the [[Eden Myth]] in service of reforms."
+      },
+      "date": 1415734834367
     }
   ]
 }

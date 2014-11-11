@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "7f0d555b21e5ca04",
       "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "d7138476c2fe374b",
+      "text": "[[Pond]]"
     }
   ],
   "journal": [
@@ -55,6 +60,42 @@
       "type": "remove",
       "id": "f3c814babcfd090c",
       "date": 1415666477502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7138476c2fe374b"
+      },
+      "id": "d7138476c2fe374b",
+      "type": "add",
+      "after": "7f0d555b21e5ca04",
+      "date": 1415670299809
+    },
+    {
+      "type": "edit",
+      "id": "d7138476c2fe374b",
+      "item": {
+        "type": "paragraph",
+        "id": "d7138476c2fe374b",
+        "text": "[[Pond]]"
+      },
+      "date": 1415670305869
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6073422774613232",
+        "text": ""
+      },
+      "id": "6073422774613232",
+      "type": "add",
+      "after": "d7138476c2fe374b",
+      "date": 1415670305898
+    },
+    {
+      "type": "remove",
+      "id": "6073422774613232",
+      "date": 1415670433790
     }
   ]
 }

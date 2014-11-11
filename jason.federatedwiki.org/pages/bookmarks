@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "d34dab4054aa94b3",
       "text": "[[Micropublication and Open Source Research]]"
+    },
+    {
+      "type": "factory",
+      "id": "f7636a913f65f448"
     }
   ],
   "journal": [
@@ -60,6 +64,32 @@
         "text": "[[Micropublication and Open Source Research]]"
       },
       "date": 1415649482390
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7636a913f65f448"
+      },
+      "id": "f7636a913f65f448",
+      "type": "add",
+      "after": "d34dab4054aa94b3",
+      "date": 1415670084160
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1616ab000a1f09e6",
+        "text": ""
+      },
+      "id": "1616ab000a1f09e6",
+      "type": "add",
+      "after": "f7636a913f65f448",
+      "date": 1415670093877
+    },
+    {
+      "type": "remove",
+      "id": "1616ab000a1f09e6",
+      "date": 1415670099297
     }
   ]
 }

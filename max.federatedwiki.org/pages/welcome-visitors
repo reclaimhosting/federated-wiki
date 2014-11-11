@@ -2,14 +2,9 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Hi, this is me:",
+      "text": "Hi, this is me [[Max]]",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
-    },
-    {
-      "type": "paragraph",
-      "id": "7fad8568051f0742",
-      "text": "[[Max]]"
     },
     {
       "type": "paragraph",
@@ -906,6 +901,21 @@
         "type": "paragraph"
       },
       "date": 1415678855645
+    },
+    {
+      "type": "remove",
+      "id": "7fad8568051f0742",
+      "date": 1415679611733
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Hi, this is me [[Max]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415679618873
     }
   ]
 }

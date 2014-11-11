@@ -4,12 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "09cbaa14f8041c97"
+      "id": "385fabaef6bdbc8c"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ba3ae36df9142f9a"
+      "id": "120b49b78970e574"
+    },
+    {
+      "date": 1415675665000,
+      "site": "max.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 15 pages.",
+      "type": "reference",
+      "id": "53f657430736b721"
+    },
+    {
+      "date": 1415675401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "b33f5fc849747b93"
     },
     {
       "date": 1415675103000,
@@ -18,25 +36,7 @@
       "title": "User Directory",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "0cf260bc079def95"
-    },
-    {
-      "date": 1415674976000,
-      "site": "max.federatedwiki.org",
-      "slug": "max",
-      "title": "Max",
-      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 15 pages.",
-      "type": "reference",
-      "id": "1538f419167e3744"
-    },
-    {
-      "date": 1415674801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "cddcb167ba2c1573"
+      "id": "a088baf564d96c83"
     },
     {
       "date": 1415667286000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
       "type": "reference",
-      "id": "49670f7e1e61f3f1"
+      "id": "a792a41c76655669"
     },
     {
       "date": 1415588468000,
@@ -54,7 +54,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
       "type": "reference",
-      "id": "592baf1c455a8f72"
+      "id": "8ab23cbccb10e1e1"
     },
     {
       "date": 1415556980000,
@@ -63,7 +63,7 @@
       "title": "Large Animated Gif",
       "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "7e4577f9acc38130"
+      "id": "28d3dace0643e84e"
     },
     {
       "date": 1415545305000,
@@ -72,41 +72,69 @@
       "title": "Own a Space",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "8e26f9de89831b4f"
+      "id": "870ed652755dd2d2"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "a289cf23b80d877e",
+      "id": "73584fca0b2f9dbc",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "09cbaa14f8041c97",
+      "id": "385fabaef6bdbc8c",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "09cbaa14f8041c97"
+        "id": "385fabaef6bdbc8c"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "ba3ae36df9142f9a",
+      "id": "120b49b78970e574",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ba3ae36df9142f9a"
+        "id": "120b49b78970e574"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "0cf260bc079def95",
+      "id": "53f657430736b721",
+      "item": {
+        "date": 1415675665000,
+        "site": "max.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 15 pages.",
+        "type": "reference",
+        "id": "53f657430736b721"
+      },
+      "date": 1415676001000
+    },
+    {
+      "type": "add",
+      "id": "b33f5fc849747b93",
+      "item": {
+        "date": 1415675401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "b33f5fc849747b93"
+      },
+      "date": 1415676001000
+    },
+    {
+      "type": "add",
+      "id": "a088baf564d96c83",
       "item": {
         "date": 1415675103000,
         "site": "jason.federatedwiki.org",
@@ -114,41 +142,13 @@
         "title": "User Directory",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "0cf260bc079def95"
+        "id": "a088baf564d96c83"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "1538f419167e3744",
-      "item": {
-        "date": 1415674976000,
-        "site": "max.federatedwiki.org",
-        "slug": "max",
-        "title": "Max",
-        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 15 pages.",
-        "type": "reference",
-        "id": "1538f419167e3744"
-      },
-      "date": 1415675401000
-    },
-    {
-      "type": "add",
-      "id": "cddcb167ba2c1573",
-      "item": {
-        "date": 1415674801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "cddcb167ba2c1573"
-      },
-      "date": 1415675401000
-    },
-    {
-      "type": "add",
-      "id": "49670f7e1e61f3f1",
+      "id": "a792a41c76655669",
       "item": {
         "date": 1415667286000,
         "site": "rosano.federatedwiki.org",
@@ -156,13 +156,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
         "type": "reference",
-        "id": "49670f7e1e61f3f1"
+        "id": "a792a41c76655669"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "592baf1c455a8f72",
+      "id": "8ab23cbccb10e1e1",
       "item": {
         "date": 1415588468000,
         "site": "tim.federatedwiki.org",
@@ -170,13 +170,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
         "type": "reference",
-        "id": "592baf1c455a8f72"
+        "id": "8ab23cbccb10e1e1"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "7e4577f9acc38130",
+      "id": "28d3dace0643e84e",
       "item": {
         "date": 1415556980000,
         "site": "mike.journal.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "Large Animated Gif",
         "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "7e4577f9acc38130"
+        "id": "28d3dace0643e84e"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     },
     {
       "type": "add",
-      "id": "8e26f9de89831b4f",
+      "id": "870ed652755dd2d2",
       "item": {
         "date": 1415545305000,
         "site": "ward.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "Own a Space",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "8e26f9de89831b4f"
+        "id": "870ed652755dd2d2"
       },
-      "date": 1415675401000
+      "date": 1415676001000
     }
   ]
 }

@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "9fb18bcd3c51c672",
       "text": "I've added SSL certificates to some of my domains.  What I'd like to do (in order to do my part to increase the amount of encrypted web traffic) is to have those default to https: but degrade gracefully to non-encrypted if https: doesn't work."
+    },
+    {
+      "type": "paragraph",
+      "id": "371ceaeb9f9e7186",
+      "text": "I recognize this goes against some of the design philosophy of SSL - SSL is supposed to break in a very visible way so one knows that it's not secure.  Am I missing something here?"
     }
   ],
   "journal": [
@@ -76,6 +81,42 @@
       "type": "remove",
       "id": "8ee26922c081044a",
       "date": 1415654276419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "371ceaeb9f9e7186"
+      },
+      "id": "371ceaeb9f9e7186",
+      "type": "add",
+      "after": "9fb18bcd3c51c672",
+      "date": 1415666164624
+    },
+    {
+      "type": "edit",
+      "id": "371ceaeb9f9e7186",
+      "item": {
+        "type": "paragraph",
+        "id": "371ceaeb9f9e7186",
+        "text": "I recognize this goes against some of the design philosophy of SSL - SSL is supposed to break in a very visible way so one knows that it's not secure.  Am I missing something here?"
+      },
+      "date": 1415666270799
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d83598f3a7a07478",
+        "text": ""
+      },
+      "id": "d83598f3a7a07478",
+      "type": "add",
+      "after": "371ceaeb9f9e7186",
+      "date": 1415666270820
+    },
+    {
+      "type": "remove",
+      "id": "d83598f3a7a07478",
+      "date": 1415666273291
     }
   ]
 }

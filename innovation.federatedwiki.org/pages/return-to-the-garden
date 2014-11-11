@@ -3,8 +3,18 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "29e0c533a7b2d0e3",
+      "text": "\"And we've got to get ourselves / Back to the garden.\" - Joni Mitchell, describing motivation for large progressive event."
+    },
+    {
+      "type": "paragraph",
       "id": "e9988222ed1d82b8",
       "text": "Progress excites some, disturbs others. One method of making change less frightening is to present it as a return to a more idyllic time. Hence, even progressive politicians evoke the [[Eden Myth]] in service of reforms."
+    },
+    {
+      "type": "video",
+      "id": "aa0e72125f60dae0",
+      "text": "YOUTUBE cRjQCvfcXn0\n(double-click to edit caption)\n"
     }
   ],
   "journal": [
@@ -34,6 +44,72 @@
         "text": "Progress excites some, disturbs others. One method of making change less frightening is to present it as a return to a more idyllic time. Hence, even progressive politicians evoke the [[Eden Myth]] in service of reforms."
       },
       "date": 1415734834367
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29e0c533a7b2d0e3"
+      },
+      "id": "29e0c533a7b2d0e3",
+      "type": "add",
+      "after": "e9988222ed1d82b8",
+      "date": 1415742395054
+    },
+    {
+      "type": "edit",
+      "id": "29e0c533a7b2d0e3",
+      "item": {
+        "type": "paragraph",
+        "id": "29e0c533a7b2d0e3",
+        "text": "\"And we've got to get ourselves / Back to the garden.\" - Joni Mitchell, describing motivation for large progressive event."
+      },
+      "date": 1415742453442
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e117286d84754c2e",
+        "text": ""
+      },
+      "id": "e117286d84754c2e",
+      "type": "add",
+      "after": "29e0c533a7b2d0e3",
+      "date": 1415742453477
+    },
+    {
+      "type": "move",
+      "order": [
+        "29e0c533a7b2d0e3",
+        "e9988222ed1d82b8",
+        "e117286d84754c2e"
+      ],
+      "id": "29e0c533a7b2d0e3",
+      "date": 1415742462218
+    },
+    {
+      "type": "remove",
+      "id": "e117286d84754c2e",
+      "date": 1415742468394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa0e72125f60dae0"
+      },
+      "id": "aa0e72125f60dae0",
+      "type": "add",
+      "after": "e9988222ed1d82b8",
+      "date": 1415742536547
+    },
+    {
+      "type": "edit",
+      "id": "aa0e72125f60dae0",
+      "item": {
+        "type": "video",
+        "id": "aa0e72125f60dae0",
+        "text": "YOUTUBE cRjQCvfcXn0\n(double-click to edit caption)\n"
+      },
+      "date": 1415742545492
     }
   ]
 }

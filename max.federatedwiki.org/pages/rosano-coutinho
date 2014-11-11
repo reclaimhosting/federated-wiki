@@ -1,0 +1,73 @@
+{
+  "title": "Rosano Coutinho",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "022062be90d9ce1a",
+      "text": "Hello!"
+    },
+    {
+      "type": "factory",
+      "id": "d0829d5941d80374"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rosano Coutinho",
+        "story": []
+      },
+      "date": 1415506691593
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "022062be90d9ce1a"
+      },
+      "id": "022062be90d9ce1a",
+      "type": "add",
+      "date": 1415506699011
+    },
+    {
+      "type": "edit",
+      "id": "022062be90d9ce1a",
+      "item": {
+        "type": "paragraph",
+        "id": "022062be90d9ce1a",
+        "text": "Hello!"
+      },
+      "date": 1415506707908
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7c8fa2e284f32d66",
+        "text": ""
+      },
+      "id": "7c8fa2e284f32d66",
+      "type": "add",
+      "after": "022062be90d9ce1a",
+      "date": 1415506707920
+    },
+    {
+      "type": "remove",
+      "id": "7c8fa2e284f32d66",
+      "date": 1415506709646
+    },
+    {
+      "type": "fork",
+      "site": "rosano.federatedwiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0829d5941d80374"
+      },
+      "id": "d0829d5941d80374",
+      "type": "add",
+      "after": "022062be90d9ce1a",
+      "date": 1415678044151
+    }
+  ]
+}

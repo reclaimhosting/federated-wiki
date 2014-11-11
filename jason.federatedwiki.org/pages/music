@@ -1,0 +1,55 @@
+{
+  "title": "Music",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1a0420f3e5ea90b6",
+      "text": "[[Chant]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Music",
+        "story": []
+      },
+      "date": 1415742770522
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a0420f3e5ea90b6"
+      },
+      "id": "1a0420f3e5ea90b6",
+      "type": "add",
+      "date": 1415742776488
+    },
+    {
+      "type": "edit",
+      "id": "1a0420f3e5ea90b6",
+      "item": {
+        "type": "paragraph",
+        "id": "1a0420f3e5ea90b6",
+        "text": "[[Chant]]"
+      },
+      "date": 1415742787275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "05e5422d6724c776",
+        "text": ""
+      },
+      "id": "05e5422d6724c776",
+      "type": "add",
+      "after": "1a0420f3e5ea90b6",
+      "date": 1415742787285
+    },
+    {
+      "type": "remove",
+      "id": "05e5422d6724c776",
+      "date": 1415742801166
+    }
+  ]
+}

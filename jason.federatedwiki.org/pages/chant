@@ -1,0 +1,55 @@
+{
+  "title": "Chant",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "467664a7bb48df1e",
+      "text": "[[Byzantine Chant]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Chant",
+        "story": []
+      },
+      "date": 1415742801281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "467664a7bb48df1e"
+      },
+      "id": "467664a7bb48df1e",
+      "type": "add",
+      "date": 1415742806256
+    },
+    {
+      "type": "edit",
+      "id": "467664a7bb48df1e",
+      "item": {
+        "type": "paragraph",
+        "id": "467664a7bb48df1e",
+        "text": "[[Byzantine Chant]]"
+      },
+      "date": 1415742822352
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9942f04b7c27faf9",
+        "text": ""
+      },
+      "id": "9942f04b7c27faf9",
+      "type": "add",
+      "after": "467664a7bb48df1e",
+      "date": 1415742822363
+    },
+    {
+      "type": "remove",
+      "id": "9942f04b7c27faf9",
+      "date": 1415742841289
+    }
+  ]
+}

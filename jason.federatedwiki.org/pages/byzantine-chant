@@ -1,0 +1,96 @@
+{
+  "title": "Byzantine Chant",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c725e5a23734aac2",
+      "text": "Resources"
+    },
+    {
+      "type": "paragraph",
+      "id": "93e53428c1709d64",
+      "text": "[[byzantinechant.org]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Byzantine Chant",
+        "story": []
+      },
+      "date": 1415742841418
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c725e5a23734aac2"
+      },
+      "id": "c725e5a23734aac2",
+      "type": "add",
+      "date": 1415742846741
+    },
+    {
+      "type": "edit",
+      "id": "c725e5a23734aac2",
+      "item": {
+        "type": "paragraph",
+        "id": "c725e5a23734aac2",
+        "text": "Resources"
+      },
+      "date": 1415742857696
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ee7ee614347364a",
+        "text": ""
+      },
+      "id": "0ee7ee614347364a",
+      "type": "add",
+      "after": "c725e5a23734aac2",
+      "date": 1415742857767
+    },
+    {
+      "type": "remove",
+      "id": "0ee7ee614347364a",
+      "date": 1415742863255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93e53428c1709d64"
+      },
+      "id": "93e53428c1709d64",
+      "type": "add",
+      "after": "c725e5a23734aac2",
+      "date": 1415742874466
+    },
+    {
+      "type": "edit",
+      "id": "93e53428c1709d64",
+      "item": {
+        "type": "paragraph",
+        "id": "93e53428c1709d64",
+        "text": "[[byzantinechant.org]]"
+      },
+      "date": 1415742894324
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "352d83debabe0f17",
+        "text": ""
+      },
+      "id": "352d83debabe0f17",
+      "type": "add",
+      "after": "93e53428c1709d64",
+      "date": 1415742894333
+    },
+    {
+      "type": "remove",
+      "id": "352d83debabe0f17",
+      "date": 1415742898427
+    }
+  ]
+}

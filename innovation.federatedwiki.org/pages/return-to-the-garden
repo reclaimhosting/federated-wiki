@@ -12,9 +12,14 @@
       "text": "Progress excites some, disturbs others. One method of making change less frightening is to present it as a return to a more idyllic time. Hence, even progressive politicians evoke the [[Eden Myth]] in service of reforms."
     },
     {
-      "type": "video",
-      "id": "aa0e72125f60dae0",
-      "text": "YOUTUBE cRjQCvfcXn0\n(double-click to edit caption)\n"
+      "type": "paragraph",
+      "id": "0ff4146ad8d7d0a3",
+      "text": "Depending on the change you want, Eden is at a different date. For conservatives that Eden might be the 1950s (with birth control, drugs, etc as the [[Forbidden Apple]]). For liberals it might be the 1960s. No one wants to own the 70s."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b9969550f68992d",
+      "text": ""
     }
   ],
   "journal": [
@@ -110,6 +115,42 @@
         "text": "YOUTUBE cRjQCvfcXn0\n(double-click to edit caption)\n"
       },
       "date": 1415742545492
+    },
+    {
+      "type": "remove",
+      "id": "aa0e72125f60dae0",
+      "date": 1415742788870
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ff4146ad8d7d0a3"
+      },
+      "id": "0ff4146ad8d7d0a3",
+      "type": "add",
+      "after": "e9988222ed1d82b8",
+      "date": 1415742790350
+    },
+    {
+      "type": "edit",
+      "id": "0ff4146ad8d7d0a3",
+      "item": {
+        "type": "paragraph",
+        "id": "0ff4146ad8d7d0a3",
+        "text": "Depending on the change you want, Eden is at a different date. For conservatives that Eden might be the 1950s (with birth control, drugs, etc as the [[Forbidden Apple]]). For liberals it might be the 1960s. No one wants to own the 70s."
+      },
+      "date": 1415742974282
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6b9969550f68992d",
+        "text": ""
+      },
+      "id": "6b9969550f68992d",
+      "type": "add",
+      "after": "0ff4146ad8d7d0a3",
+      "date": 1415742974300
     }
   ]
 }

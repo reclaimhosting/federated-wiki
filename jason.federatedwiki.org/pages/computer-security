@@ -7,8 +7,9 @@
       "text": "[[HTTPS]]"
     },
     {
-      "type": "factory",
-      "id": "5f1978dec6ed3b28"
+      "type": "paragraph",
+      "id": "5f1978dec6ed3b28",
+      "text": "[[Security and Privacy Software]]"
     }
   ],
   "journal": [
@@ -64,6 +65,58 @@
       "type": "add",
       "after": "618dfe1891ccc791",
       "date": 1415654159007
+    },
+    {
+      "type": "edit",
+      "id": "5f1978dec6ed3b28",
+      "item": {
+        "type": "paragraph",
+        "id": "5f1978dec6ed3b28",
+        "text": "[[Security and Privacy Software"
+      },
+      "date": 1415666431049
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3d6b85af7978cd5",
+        "text": ""
+      },
+      "id": "b3d6b85af7978cd5",
+      "type": "add",
+      "after": "5f1978dec6ed3b28",
+      "date": 1415666431081
+    },
+    {
+      "type": "remove",
+      "id": "b3d6b85af7978cd5",
+      "date": 1415666433445
+    },
+    {
+      "type": "edit",
+      "id": "5f1978dec6ed3b28",
+      "item": {
+        "type": "paragraph",
+        "id": "5f1978dec6ed3b28",
+        "text": "[[Security and Privacy Software]]"
+      },
+      "date": 1415666435500
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb9fbebb2062a555",
+        "text": ""
+      },
+      "id": "bb9fbebb2062a555",
+      "type": "add",
+      "after": "5f1978dec6ed3b28",
+      "date": 1415666435558
+    },
+    {
+      "type": "remove",
+      "id": "bb9fbebb2062a555",
+      "date": 1415666438686
     }
   ]
 }

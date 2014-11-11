@@ -1,0 +1,64 @@
+{
+  "title": "Innovation Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b5b9a061128fc080",
+      "text": "Place to collect and link articles related to how innovation happens and the things that thwart it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4b84da4f9f328c69",
+      "text": "These are mostly forked from my daily journal. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Innovation Wiki",
+        "story": []
+      },
+      "date": 1415728886482
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5b9a061128fc080"
+      },
+      "id": "b5b9a061128fc080",
+      "type": "add",
+      "date": 1415728889123
+    },
+    {
+      "type": "edit",
+      "id": "b5b9a061128fc080",
+      "item": {
+        "type": "paragraph",
+        "id": "b5b9a061128fc080",
+        "text": "Place to collect and link articles related to how innovation happens and the things that thwart it. "
+      },
+      "date": 1415728921625
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4b84da4f9f328c69"
+      },
+      "id": "4b84da4f9f328c69",
+      "type": "add",
+      "after": "b5b9a061128fc080",
+      "date": 1415729372949
+    },
+    {
+      "type": "edit",
+      "id": "4b84da4f9f328c69",
+      "item": {
+        "type": "paragraph",
+        "id": "4b84da4f9f328c69",
+        "text": "These are mostly forked from my daily journal. "
+      },
+      "date": 1415729398979
+    }
+  ]
+}

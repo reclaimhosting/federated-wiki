@@ -9,12 +9,12 @@
     {
       "type": "paragraph",
       "id": "b97b17d36f6c3b66",
-      "text": "People like money, but they'd rather be [[Loved and Lovely]]."
+      "text": "People love to make money, but they'd rather be [[Loved and Lovely]]."
     },
     {
       "type": "paragraph",
       "id": "a95974d38d5942bf",
-      "text": "It's tempting to want to change top down only, but [[Lysenkoism]] has an ugly history."
+      "text": "It's tempting to want to change top down only, but [[Lysenkoism]] has an ugly history. [[Spontaneous Order]] is messy, but produces better results."
     },
     {
       "type": "paragraph",
@@ -22,8 +22,24 @@
       "text": "We love the [[Eden Myth]], so maybe your change should be presented as a [[Return to the Garden]]."
     },
     {
-      "type": "factory",
-      "id": "fbf46f5a258c7c58"
+      "type": "paragraph",
+      "id": "fbf46f5a258c7c58",
+      "text": "The environments we build that allow innovation are more important than the change itself. [[Google Car is a Glorified Train]] made possible not by advances in AI but by the creation of accurate machine readable maps. [[Infrastructure Creates Change]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "24c88f8984026dd4",
+      "text": "[[Coffeehouse Culture]] launched the enlightenment. What does your coffeehouse look like?"
+    },
+    {
+      "type": "paragraph",
+      "id": "c46f496f0a00bfe0",
+      "text": "Part of infrastructure is organizational knowledge. There are problems with its treatment of \"tacit\" knowledge, but the [[Knowledge Spiral]] has insight into this."
+    },
+    {
+      "type": "paragraph",
+      "id": "87a1b5b2ee4b3aed",
+      "text": "Wiki is a way to conceive of new social architectures more amenable to change. See [[Johnson on Wiki]]."
     }
   ],
   "journal": [
@@ -146,6 +162,145 @@
       "type": "add",
       "after": "d6cd3478978a7fa2",
       "date": 1415731789342
+    },
+    {
+      "type": "edit",
+      "id": "fbf46f5a258c7c58",
+      "item": {
+        "type": "paragraph",
+        "id": "fbf46f5a258c7c58",
+        "text": "The environments we build that allow innovation are more important than the change itself. [[Google Car is a Glorified Train]] made possible not by advances in AI but by the creation of accurate machine readable maps. [[Infrastructure Is Crucial]]."
+      },
+      "date": 1415731921385
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c46f496f0a00bfe0",
+        "text": ""
+      },
+      "id": "c46f496f0a00bfe0",
+      "type": "add",
+      "after": "fbf46f5a258c7c58",
+      "date": 1415731931222
+    },
+    {
+      "type": "edit",
+      "id": "c46f496f0a00bfe0",
+      "item": {
+        "type": "paragraph",
+        "id": "c46f496f0a00bfe0",
+        "text": "Part of infrastructure is organizational knowledge. "
+      },
+      "date": 1415731969748
+    },
+    {
+      "type": "edit",
+      "id": "a95974d38d5942bf",
+      "item": {
+        "type": "paragraph",
+        "id": "a95974d38d5942bf",
+        "text": "It's tempting to want to change top down only, but [[Lysenkoism]] has an ugly history. [[Spontaneous Order]] is messy, but produces better results."
+      },
+      "date": 1415731993268
+    },
+    {
+      "type": "edit",
+      "id": "c46f496f0a00bfe0",
+      "item": {
+        "type": "paragraph",
+        "id": "c46f496f0a00bfe0",
+        "text": "Part of infrastructure is organizational knowledge. There are problems with its treatment of \"tacit\" knowledge, but the [[Knowledge Spiral]] has insight into this."
+      },
+      "date": 1415732056034
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2d653f5a3b752e02",
+        "text": ""
+      },
+      "id": "2d653f5a3b752e02",
+      "type": "add",
+      "after": "c46f496f0a00bfe0",
+      "date": 1415732056053
+    },
+    {
+      "type": "remove",
+      "id": "2d653f5a3b752e02",
+      "date": 1415732066264
+    },
+    {
+      "type": "edit",
+      "id": "fbf46f5a258c7c58",
+      "item": {
+        "type": "paragraph",
+        "id": "fbf46f5a258c7c58",
+        "text": "The environments we build that allow innovation are more important than the change itself. [[Google Car is a Glorified Train]] made possible not by advances in AI but by the creation of accurate machine readable maps. [[Infrastructure Is Crucial]]. "
+      },
+      "date": 1415732075614
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "24c88f8984026dd4",
+        "text": ""
+      },
+      "id": "24c88f8984026dd4",
+      "type": "add",
+      "after": "fbf46f5a258c7c58",
+      "date": 1415732075626
+    },
+    {
+      "type": "edit",
+      "id": "24c88f8984026dd4",
+      "item": {
+        "type": "paragraph",
+        "id": "24c88f8984026dd4",
+        "text": "[[Coffeehouse Culture]] launched the enlightenment. What does your coffeehouse look like?"
+      },
+      "date": 1415732120864
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87a1b5b2ee4b3aed",
+        "text": ""
+      },
+      "id": "87a1b5b2ee4b3aed",
+      "type": "add",
+      "after": "c46f496f0a00bfe0",
+      "date": 1415732171372
+    },
+    {
+      "type": "edit",
+      "id": "87a1b5b2ee4b3aed",
+      "item": {
+        "type": "paragraph",
+        "id": "87a1b5b2ee4b3aed",
+        "text": "Wiki is a way to conceive of new social architectures more amenable to change. See [[Johnson on Wiki]]."
+      },
+      "date": 1415732210729
+    },
+    {
+      "type": "edit",
+      "id": "b97b17d36f6c3b66",
+      "item": {
+        "type": "paragraph",
+        "id": "b97b17d36f6c3b66",
+        "text": "People love to make money, but they'd rather be [[Loved and Lovely]]."
+      },
+      "date": 1415732271285
+    },
+    {
+      "type": "edit",
+      "id": "fbf46f5a258c7c58",
+      "item": {
+        "type": "paragraph",
+        "id": "fbf46f5a258c7c58",
+        "text": "The environments we build that allow innovation are more important than the change itself. [[Google Car is a Glorified Train]] made possible not by advances in AI but by the creation of accurate machine readable maps. [[Infrastructure Creates Change]]. "
+      },
+      "date": 1415732320252
     }
   ]
 }

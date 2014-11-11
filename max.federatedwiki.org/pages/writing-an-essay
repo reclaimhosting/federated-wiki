@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "990048f3f2a6aba5",
       "text": "to write an essay you should have a plan(see [[writing a plan]])and from this plan you should be able to pull all your information and Ideas."
+    },
+    {
+      "type": "paragraph",
+      "id": "f7523d7c9fa5d27a",
+      "text": "next is [[how to plan an oral presentation]]"
     }
   ],
   "journal": [
@@ -86,6 +91,43 @@
       "type": "remove",
       "id": "d71ff2f80524e687",
       "date": 1415678303772
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f7523d7c9fa5d27a",
+        "text": ""
+      },
+      "id": "f7523d7c9fa5d27a",
+      "type": "add",
+      "after": "990048f3f2a6aba5",
+      "date": 1415742396501
+    },
+    {
+      "type": "edit",
+      "id": "f7523d7c9fa5d27a",
+      "item": {
+        "type": "paragraph",
+        "id": "f7523d7c9fa5d27a",
+        "text": "next is [[how to plan an oral presentation]]"
+      },
+      "date": 1415742419063
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9e0018eb3f3cc9a2",
+        "text": ""
+      },
+      "id": "9e0018eb3f3cc9a2",
+      "type": "add",
+      "after": "f7523d7c9fa5d27a",
+      "date": 1415742419071
+    },
+    {
+      "type": "remove",
+      "id": "9e0018eb3f3cc9a2",
+      "date": 1415742420272
     }
   ]
 }

@@ -7,8 +7,9 @@
       "text": "Adam Smith had a warmer view of human nature than many think. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humankind is not acquisition, but to be \"loved and lovely\". Russ Roberts, who runs an economics podcast, has a new book out about this subject. [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
     },
     {
-      "type": "factory",
-      "id": "15d49baea2871800"
+      "type": "paragraph",
+      "id": "479e303678e16993",
+      "text": "Organizational change efforts often focus on financial incentives. Even Adam Smith would say that these incentives are weaker than incentives around self-perception. "
     }
   ],
   "journal": [
@@ -104,6 +105,31 @@
       "type": "fork",
       "site": "journal14.hapgood.net:3000",
       "date": 1415730798302
+    },
+    {
+      "type": "remove",
+      "id": "15d49baea2871800",
+      "date": 1415734369517
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "479e303678e16993"
+      },
+      "id": "479e303678e16993",
+      "type": "add",
+      "after": "f856334a1b29d981",
+      "date": 1415734388725
+    },
+    {
+      "type": "edit",
+      "id": "479e303678e16993",
+      "item": {
+        "type": "paragraph",
+        "id": "479e303678e16993",
+        "text": "Organizational change efforts often focus on financial incentives. Even Adam Smith would say that these incentives are weaker than incentives around self-perception. "
+      },
+      "date": 1415734456427
     }
   ]
 }

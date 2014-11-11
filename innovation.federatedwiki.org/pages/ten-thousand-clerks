@@ -1,0 +1,146 @@
+{
+  "title": "Ten Thousand Clerks",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6e77593865f1c141",
+      "text": "\"I do not rule Russia, ten thousand clerks do.\" -- Supposed quote of Nicolas I, Czar of Russia, shortly before his death. [http://books.google.com/books?id=URFUAAAAYAAJ&q=%22I+do+not+rule+Russia,+ten+thousand+clerks+do.%22&dq=%22I+do+not+rule+Russia,+ten+thousand+clerks+do.%22&hl=en&sa=X&ei=Hk5EVKrfOpWnyASOwIKABA&ved=0CE8Q6AEwCQ google-books]"
+    },
+    {
+      "type": "paragraph",
+      "id": "727122080d93a037",
+      "text": "We tend to believe that people in authority have the power, and the people on the bottom do not. This is often not the case. Bureacratic cultures are just one of a number of examples of this. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ten Thousand Clerks",
+        "story": []
+      },
+      "date": 1413762422914
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "958e5fb67fe1803d"
+      },
+      "id": "958e5fb67fe1803d",
+      "type": "add",
+      "date": 1413762424866
+    },
+    {
+      "type": "remove",
+      "id": "958e5fb67fe1803d",
+      "date": 1413762428953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e77593865f1c141"
+      },
+      "id": "6e77593865f1c141",
+      "type": "add",
+      "date": 1413762479587
+    },
+    {
+      "type": "edit",
+      "id": "6e77593865f1c141",
+      "item": {
+        "type": "paragraph",
+        "id": "6e77593865f1c141",
+        "text": "\"I do not rule Russia, ten thousand clerks do.\" -- "
+      },
+      "date": 1413762487551
+    },
+    {
+      "type": "edit",
+      "id": "6e77593865f1c141",
+      "item": {
+        "type": "paragraph",
+        "id": "6e77593865f1c141",
+        "text": "\"I do not rule Russia, ten thousand clerks do.\" -- Supposed quote of Nicolas I (on deathbed?), Czar of Russia."
+      },
+      "date": 1413762533046
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a80d9b5398dc8636",
+        "text": ""
+      },
+      "id": "a80d9b5398dc8636",
+      "type": "add",
+      "after": "6e77593865f1c141",
+      "date": 1413762533077
+    },
+    {
+      "type": "remove",
+      "id": "a80d9b5398dc8636",
+      "date": 1413762547617
+    },
+    {
+      "type": "edit",
+      "id": "6e77593865f1c141",
+      "item": {
+        "type": "paragraph",
+        "id": "6e77593865f1c141",
+        "text": "\"I do not rule Russia, ten thousand clerks do.\" -- Supposed quote of Nicolas I, Czar of Russia, shortly before his death. [http://books.google.com/books?id=URFUAAAAYAAJ&q=%22I+do+not+rule+Russia,+ten+thousand+clerks+do.%22&dq=%22I+do+not+rule+Russia,+ten+thousand+clerks+do.%22&hl=en&sa=X&ei=Hk5EVKrfOpWnyASOwIKABA&ved=0CE8Q6AEwCQ google-books]"
+      },
+      "date": 1413762668773
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "727122080d93a037",
+        "text": ""
+      },
+      "id": "727122080d93a037",
+      "type": "add",
+      "after": "6e77593865f1c141",
+      "date": 1413762683902
+    },
+    {
+      "type": "edit",
+      "id": "727122080d93a037",
+      "item": {
+        "type": "paragraph",
+        "id": "727122080d93a037",
+        "text": "We tend to believe that people in authority have the power, and the people on the bottom do not. This is often not the case. Bureacratic cult"
+      },
+      "date": 1413762742172
+    },
+    {
+      "type": "edit",
+      "id": "727122080d93a037",
+      "item": {
+        "type": "paragraph",
+        "id": "727122080d93a037",
+        "text": "We tend to believe that people in authority have the power, and the people on the bottom do not. This is often not the case. Bureacratic cultures are just one of a number of examples of this. "
+      },
+      "date": 1413762757859
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c94f689adfed0d9b",
+        "text": ""
+      },
+      "id": "c94f689adfed0d9b",
+      "type": "add",
+      "after": "727122080d93a037",
+      "date": 1413762757886
+    },
+    {
+      "type": "remove",
+      "id": "c94f689adfed0d9b",
+      "date": 1413762760804
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730718215
+    }
+  ]
+}

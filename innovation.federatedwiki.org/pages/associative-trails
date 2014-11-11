@@ -1,0 +1,120 @@
+{
+  "title": "Associative Trails",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d8820563b689dbc",
+      "text": "From [[As We May Think]]:"
+    },
+    {
+      "type": "pagefold",
+      "id": "a314004f13173701",
+      "text": "Quote"
+    },
+    {
+      "type": "paragraph",
+      "id": "91ee82aad1abd01c",
+      "text": "Wholly new forms of encyclopedias will appear, ready made with a mesh of associative trails running through them, ready to be dropped into the memex and there amplified. The lawyer has at his touch the associated opinions and decisions of his whole experience, and of the experience of friends and authorities. The patent attorney has on call the millions of issued patents, with familiar trails to every point of his client's interest. The physician, puzzled by a patient's reactions, strikes the trail established in studying an earlier similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology. ...\n\nThe historian, with a vast chronological account of a people, parallels it with a skip trail which stops only on the salient items, and can follow at any time contemporary trails which lead him all over civilization at a particular epoch. There is a new profession of trail blazers, those who find delight in the task of establishing useful trails through the enormous mass of the common record. The inheritance from the master becomes, not only his additions to the world's record, but for his disciples the entire scaffolding by which they were erected. -- As We May Think"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Associative Trails",
+        "story": []
+      },
+      "date": 1413920204794
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d8820563b689dbc"
+      },
+      "id": "7d8820563b689dbc",
+      "type": "add",
+      "date": 1413920206681
+    },
+    {
+      "type": "edit",
+      "id": "7d8820563b689dbc",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8820563b689dbc",
+        "text": "From As We May Think:"
+      },
+      "date": 1413920221046
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "84860a1a23710680",
+        "text": ""
+      },
+      "id": "84860a1a23710680",
+      "type": "add",
+      "after": "7d8820563b689dbc",
+      "date": 1413920221056
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a314004f13173701"
+      },
+      "id": "a314004f13173701",
+      "type": "add",
+      "after": "84860a1a23710680",
+      "date": 1413920260454
+    },
+    {
+      "type": "remove",
+      "id": "84860a1a23710680",
+      "date": 1413920262207
+    },
+    {
+      "type": "edit",
+      "id": "a314004f13173701",
+      "item": {
+        "type": "pagefold",
+        "id": "a314004f13173701",
+        "text": "Quote"
+      },
+      "date": 1413920266550
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91ee82aad1abd01c"
+      },
+      "id": "91ee82aad1abd01c",
+      "type": "add",
+      "after": "a314004f13173701",
+      "date": 1413920267778
+    },
+    {
+      "type": "edit",
+      "id": "91ee82aad1abd01c",
+      "item": {
+        "type": "paragraph",
+        "id": "91ee82aad1abd01c",
+        "text": "Wholly new forms of encyclopedias will appear, ready made with a mesh of associative trails running through them, ready to be dropped into the memex and there amplified. The lawyer has at his touch the associated opinions and decisions of his whole experience, and of the experience of friends and authorities. The patent attorney has on call the millions of issued patents, with familiar trails to every point of his client's interest. The physician, puzzled by a patient's reactions, strikes the trail established in studying an earlier similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology. ...\n\nThe historian, with a vast chronological account of a people, parallels it with a skip trail which stops only on the salient items, and can follow at any time contemporary trails which lead him all over civilization at a particular epoch. There is a new profession of trail blazers, those who find delight in the task of establishing useful trails through the enormous mass of the common record. The inheritance from the master becomes, not only his additions to the world's record, but for his disciples the entire scaffolding by which they were erected. -- As We May Think"
+      },
+      "date": 1413920273703
+    },
+    {
+      "type": "edit",
+      "id": "7d8820563b689dbc",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8820563b689dbc",
+        "text": "From [[As We May Think]]:"
+      },
+      "date": 1413920642158
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730682645
+    }
+  ]
+}

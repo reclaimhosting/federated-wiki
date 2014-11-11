@@ -1,0 +1,109 @@
+{
+  "title": "Loved and Lovely",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f856334a1b29d981",
+      "text": "Adam Smith had a warmer view of human nature than many think. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humankind is not acquisition, but to be \"loved and lovely\". Russ Roberts, who runs an economics podcast, has a new book out about this subject. [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
+    },
+    {
+      "type": "factory",
+      "id": "15d49baea2871800"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Loved and Lovely",
+        "story": []
+      },
+      "date": 1413471588947
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f856334a1b29d981"
+      },
+      "id": "f856334a1b29d981",
+      "type": "add",
+      "date": 1413471590796
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a surprisingly warm view of human nature. "
+      },
+      "date": 1413471631174
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a surprisingly warm view of human nature. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humnkind is not acquisition, but to be \"loved and lovely\". [http://nypost.com/2014/10/05/how-adam-smith-can-change-your-life-for-the-better/ nypost]"
+      },
+      "date": 1413471767253
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a surprisingly warm view of human nature. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humnkind is not acquisition, but to be \"loved and lovely\". [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
+      },
+      "date": 1413471827702
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a surprisingly warm view of human nature. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humnkind is not acquisition, but to be \"loved and lovely\". Russ Roberts, who runs an econmoics podcast, has a new book out about this subject. [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
+      },
+      "date": 1413471873307
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a surprisingly warm view of human nature. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humankind is not acquisition, but to be \"loved and lovely\". Russ Roberts, who runs an economics podcast, has a new book out about this subject. [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
+      },
+      "date": 1413471888494
+    },
+    {
+      "type": "edit",
+      "id": "f856334a1b29d981",
+      "item": {
+        "type": "paragraph",
+        "id": "f856334a1b29d981",
+        "text": "Adam Smith had a warmer view of human nature than many think. In his 1759 [[Theory of Moral Sentiments]] he states that the goal of humankind is not acquisition, but to be \"loved and lovely\". Russ Roberts, who runs an economics podcast, has a new book out about this subject. [http://www.econtalk.org/archives/2014/10/russ_roberts_an.html podcast]"
+      },
+      "date": 1413472073130
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15d49baea2871800"
+      },
+      "id": "15d49baea2871800",
+      "type": "add",
+      "after": "f856334a1b29d981",
+      "date": 1415730796036,
+      "fork": "journal14.hapgood.net:3000"
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730798302
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Crossing the EdTech Chasm",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "abd7a8870b6de5f6",
+      "text": "William H. Geoghegan from IBM Academic Consulting published a paper in 1990s. Argued that in order to cross the chasm to [[Early Adopters]] that we needed to focus not on campus innovators but on getting a beachhead on the adoption side. Until then our efforts are boutique."
+    },
+    {
+      "type": "paragraph",
+      "id": "a324a1acb39bf519",
+      "text": "Geoghegan, Willian (1994) Whatever Happened to Instructional Technology? Paper presented at the 22nd Annual Conference of the International Business Schools Computing Association"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Crossing the EdTech Chasm",
+        "story": []
+      },
+      "date": 1413836796149
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abd7a8870b6de5f6"
+      },
+      "id": "abd7a8870b6de5f6",
+      "type": "add",
+      "date": 1413836797602
+    },
+    {
+      "type": "edit",
+      "id": "abd7a8870b6de5f6",
+      "item": {
+        "type": "paragraph",
+        "id": "abd7a8870b6de5f6",
+        "text": "William H. Geoghegan from IBM Academic Consulting"
+      },
+      "date": 1413836802843
+    },
+    {
+      "type": "edit",
+      "id": "abd7a8870b6de5f6",
+      "item": {
+        "type": "paragraph",
+        "id": "abd7a8870b6de5f6",
+        "text": "William H. Geoghegan from IBM Academic Consulting published a paper in 1990s."
+      },
+      "date": 1413836843570
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a324a1acb39bf519",
+        "text": ""
+      },
+      "id": "a324a1acb39bf519",
+      "type": "add",
+      "after": "abd7a8870b6de5f6",
+      "date": 1413836843590
+    },
+    {
+      "type": "edit",
+      "id": "a324a1acb39bf519",
+      "item": {
+        "type": "paragraph",
+        "id": "a324a1acb39bf519",
+        "text": "Geoghegan, Willian (1994) Whatever Happened to Instructional Technology? Paper presented at the 22nd Annual Conference of the International Business Schools Computing Association"
+      },
+      "date": 1413836844717
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "48a7933e89a6b961",
+        "text": ""
+      },
+      "id": "48a7933e89a6b961",
+      "type": "add",
+      "after": "a324a1acb39bf519",
+      "date": 1413836844742
+    },
+    {
+      "type": "remove",
+      "id": "48a7933e89a6b961",
+      "date": 1413836850551
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5eb59d85d661c8d5"
+      },
+      "id": "5eb59d85d661c8d5",
+      "type": "add",
+      "after": "a324a1acb39bf519",
+      "date": 1413838183446
+    },
+    {
+      "type": "remove",
+      "id": "5eb59d85d661c8d5",
+      "date": 1413838188356
+    },
+    {
+      "type": "edit",
+      "id": "abd7a8870b6de5f6",
+      "item": {
+        "type": "paragraph",
+        "id": "abd7a8870b6de5f6",
+        "text": "William H. Geoghegan from IBM Academic Consulting published a paper in 1990s. Argued that in order to cross the chasm to [[Early Adopters]] that we needed to focus not on campus innovators but on getting a beachhead on the adoption side. Until then our efforts are boutique."
+      },
+      "date": 1413838317003
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730687159
+    }
+  ]
+}

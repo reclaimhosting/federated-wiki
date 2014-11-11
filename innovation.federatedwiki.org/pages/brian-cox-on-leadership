@@ -1,0 +1,357 @@
+{
+  "title": "Brian Cox on Leadership",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "22878697684c1b5c",
+      "text": "Podcast with Brian Cox on the subject of leadership, but more generally on how progress gets done.[http://www.bbc.co.uk/programmes/b04hvx9z bbc]"
+    },
+    {
+      "type": "pagefold",
+      "id": "eead25590419de50",
+      "text": "quoting bbc life scientific"
+    },
+    {
+      "type": "paragraph",
+      "id": "0565a54dfbd015e7",
+      "text": "Professor Brian Cox of Manchester University describes how he gave up appearing on Top of the Pops to study quarks, quasars and quantum mechanics.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f5baedd8a910aef",
+      "text": "Although he describes himself as a simple-minded Northern bloke, he has acquired an almost God-like status on our TV screens; while the 'Cox effect' is thought to explain the significant boost to university admissions to read physics. He talks to Jim Al-Khalili about learning to be famous, his passion for physics and how he sometimes has difficulty crossing the road.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6a5dea0f957b308c",
+      "text": "In 2005 Brian was awarded a Royal Society Research Fellowship for his work on high energy particle collisions at CERN and elsewhere - an enviable academic achievement. In 2009, he was voted one of the sexiest men alive by People magazine. He has invented a new kind of celebrity - a scientist who's regularly snapped by the paparazzi."
+    },
+    {
+      "type": "pagefold",
+      "id": "03fba35e94fdedbc",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "aa8ad209e26d64b2",
+      "text": "Cox eloquently explained why the Royal Society was pleased that he used a substantial part of his fellowship years in popular broadcasting. Knowledge is at the base of our culture and our economy. That's leadership."
+    },
+    {
+      "type": "paragraph",
+      "id": "25aa94d2e70bf22c",
+      "text": "Why would we not take relativity, for example, the 100 year old foundation of our understanding of nature, and teach it in high school? Why not indeed?"
+    },
+    {
+      "type": "paragraph",
+      "id": "2c9d70c7cb6e0aed",
+      "text": "[[Dr. Dan Q. Posin]] explained relativity to a rapt audience in my high school outside Chicago in 1967."
+    },
+    {
+      "type": "paragraph",
+      "id": "0fdef24ccb7594b1",
+      "text": "[[Carver Mead rewrites Maxwell]] and explains that the Copenhagen consensus was a product of bullies."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Brian Cox on Leadership",
+        "story": []
+      },
+      "date": 1415715428501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0565a54dfbd015e7"
+      },
+      "id": "0565a54dfbd015e7",
+      "type": "add",
+      "date": 1415715430559
+    },
+    {
+      "type": "edit",
+      "id": "0565a54dfbd015e7",
+      "item": {
+        "type": "paragraph",
+        "id": "0565a54dfbd015e7",
+        "text": "Professor Brian Cox of Manchester University describes how he gave up appearing on Top of the Pops to study quarks, quasars and quantum mechanics.\n\n"
+      },
+      "date": 1415715455598
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f5baedd8a910aef",
+        "text": "Although he describes himself as a simple-minded Northern bloke, he has acquired an almost God-like status on our TV screens; while the 'Cox effect' is thought to explain the significant boost to university admissions to read physics. He talks to Jim Al-Khalili about learning to be famous, his passion for physics and how he sometimes has difficulty crossing the road.\n\nIn 2005 Brian was awarded a Royal Society Research Fellowship for his work on high energy particle collisions at CERN and elsewhere - an enviable academic achievement. In 2009, he was voted one of the sexiest men alive by People magazine. He has invented a new kind of celebrity - a scientist who's regularly snapped by the paparazzi."
+      },
+      "id": "4f5baedd8a910aef",
+      "type": "add",
+      "after": "0565a54dfbd015e7",
+      "date": 1415715455617
+    },
+    {
+      "type": "edit",
+      "id": "4f5baedd8a910aef",
+      "item": {
+        "type": "paragraph",
+        "id": "4f5baedd8a910aef",
+        "text": "Although he describes himself as a simple-minded Northern bloke, he has acquired an almost God-like status on our TV screens; while the 'Cox effect' is thought to explain the significant boost to university admissions to read physics. He talks to Jim Al-Khalili about learning to be famous, his passion for physics and how he sometimes has difficulty crossing the road.\n\n"
+      },
+      "date": 1415715459946
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6a5dea0f957b308c",
+        "text": "In 2005 Brian was awarded a Royal Society Research Fellowship for his work on high energy particle collisions at CERN and elsewhere - an enviable academic achievement. In 2009, he was voted one of the sexiest men alive by People magazine. He has invented a new kind of celebrity - a scientist who's regularly snapped by the paparazzi."
+      },
+      "id": "6a5dea0f957b308c",
+      "type": "add",
+      "after": "4f5baedd8a910aef",
+      "date": 1415715459957
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eead25590419de50"
+      },
+      "id": "eead25590419de50",
+      "type": "add",
+      "after": "6a5dea0f957b308c",
+      "date": 1415715476166
+    },
+    {
+      "type": "edit",
+      "id": "eead25590419de50",
+      "item": {
+        "type": "pagefold",
+        "id": "eead25590419de50",
+        "text": "quoting bbc life scientific"
+      },
+      "date": 1415715516396
+    },
+    {
+      "type": "move",
+      "order": [
+        "eead25590419de50",
+        "0565a54dfbd015e7",
+        "4f5baedd8a910aef",
+        "6a5dea0f957b308c"
+      ],
+      "id": "eead25590419de50",
+      "date": 1415715520616
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03fba35e94fdedbc"
+      },
+      "id": "03fba35e94fdedbc",
+      "type": "add",
+      "after": "6a5dea0f957b308c",
+      "date": 1415715524418
+    },
+    {
+      "type": "edit",
+      "id": "03fba35e94fdedbc",
+      "item": {
+        "type": "pagefold",
+        "id": "03fba35e94fdedbc",
+        "text": "."
+      },
+      "date": 1415715532016
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22878697684c1b5c"
+      },
+      "id": "22878697684c1b5c",
+      "type": "add",
+      "after": "03fba35e94fdedbc",
+      "date": 1415715551647
+    },
+    {
+      "type": "edit",
+      "id": "22878697684c1b5c",
+      "item": {
+        "type": "paragraph",
+        "id": "22878697684c1b5c",
+        "text": "Cox could be quoting Feynmann's QED with his one-minute summary of quantum mechanics for bbc. He did mention path integrals which QED avoided at the cost of many useless words."
+      },
+      "date": 1415715798917
+    },
+    {
+      "type": "move",
+      "order": [
+        "22878697684c1b5c",
+        "eead25590419de50",
+        "0565a54dfbd015e7",
+        "4f5baedd8a910aef",
+        "6a5dea0f957b308c",
+        "03fba35e94fdedbc"
+      ],
+      "id": "22878697684c1b5c",
+      "date": 1415715802758
+    },
+    {
+      "type": "edit",
+      "id": "22878697684c1b5c",
+      "item": {
+        "type": "paragraph",
+        "id": "22878697684c1b5c",
+        "text": "Cox could be quoting Feynmann's QED with his one-minute summary of quantum mechanics for bbc. He did mention path integrals which QED avoided at the cost of many useless words. [http://www.bbc.co.uk/programmes/b04hvx9z bbc]"
+      },
+      "date": 1415715826552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa8ad209e26d64b2"
+      },
+      "id": "aa8ad209e26d64b2",
+      "type": "add",
+      "after": "03fba35e94fdedbc",
+      "date": 1415715853883
+    },
+    {
+      "type": "edit",
+      "id": "aa8ad209e26d64b2",
+      "item": {
+        "type": "paragraph",
+        "id": "aa8ad209e26d64b2",
+        "text": "Cox eloquently explained why the Royal Society was pleased that he used a substantial part of his fellowship years in popular broadcasting. Knowledge is at the base of our culture and our economy."
+      },
+      "date": 1415716060321
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "25aa94d2e70bf22c",
+        "text": ""
+      },
+      "id": "25aa94d2e70bf22c",
+      "type": "add",
+      "after": "aa8ad209e26d64b2",
+      "date": 1415716060331
+    },
+    {
+      "type": "edit",
+      "id": "25aa94d2e70bf22c",
+      "item": {
+        "type": "paragraph",
+        "id": "25aa94d2e70bf22c",
+        "text": "Why would we not take relativity, for example, the 100 year old foundation of our understanding of nature, and teach it in high school? Why not indeed?"
+      },
+      "date": 1415716139120
+    },
+    {
+      "type": "edit",
+      "id": "aa8ad209e26d64b2",
+      "item": {
+        "type": "paragraph",
+        "id": "aa8ad209e26d64b2",
+        "text": "Cox eloquently explained why the Royal Society was pleased that he used a substantial part of his fellowship years in popular broadcasting. Knowledge is at the base of our culture and our economy. Leadership."
+      },
+      "date": 1415716150274
+    },
+    {
+      "type": "edit",
+      "id": "aa8ad209e26d64b2",
+      "item": {
+        "type": "paragraph",
+        "id": "aa8ad209e26d64b2",
+        "text": "Cox eloquently explained why the Royal Society was pleased that he used a substantial part of his fellowship years in popular broadcasting. Knowledge is at the base of our culture and our economy. That's leadership."
+      },
+      "date": 1415716164114
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2c9d70c7cb6e0aed",
+        "text": ""
+      },
+      "id": "2c9d70c7cb6e0aed",
+      "type": "add",
+      "after": "25aa94d2e70bf22c",
+      "date": 1415716531110
+    },
+    {
+      "type": "edit",
+      "id": "2c9d70c7cb6e0aed",
+      "item": {
+        "type": "paragraph",
+        "id": "2c9d70c7cb6e0aed",
+        "text": "[[Dr. Dan Q Posin]] "
+      },
+      "date": 1415716550315
+    },
+    {
+      "type": "edit",
+      "id": "2c9d70c7cb6e0aed",
+      "item": {
+        "type": "paragraph",
+        "id": "2c9d70c7cb6e0aed",
+        "text": "[[Dr. Dan Q. Posin]] explained special and general relativity to a rapt audience in my high school outside Chicago."
+      },
+      "date": 1415716627285
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0fdef24ccb7594b1",
+        "text": ""
+      },
+      "id": "0fdef24ccb7594b1",
+      "type": "add",
+      "after": "2c9d70c7cb6e0aed",
+      "date": 1415716664085
+    },
+    {
+      "type": "edit",
+      "id": "0fdef24ccb7594b1",
+      "item": {
+        "type": "paragraph",
+        "id": "0fdef24ccb7594b1",
+        "text": "[[Carver Mead rewrites Maxwell]] and explains that the Copenhagen consensus was a product of bullies."
+      },
+      "date": 1415716769174
+    },
+    {
+      "type": "edit",
+      "id": "2c9d70c7cb6e0aed",
+      "item": {
+        "type": "paragraph",
+        "id": "2c9d70c7cb6e0aed",
+        "text": "[[Dr. Dan Q. Posin]] explained special and general relativity to a rapt audience in my high school outside Chicago in 1967."
+      },
+      "date": 1415721581096
+    },
+    {
+      "type": "edit",
+      "id": "2c9d70c7cb6e0aed",
+      "item": {
+        "type": "paragraph",
+        "id": "2c9d70c7cb6e0aed",
+        "text": "[[Dr. Dan Q. Posin]] explained relativity to a rapt audience in my high school outside Chicago in 1967."
+      },
+      "date": 1415721595542
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org"
+    },
+    {
+      "type": "edit",
+      "id": "22878697684c1b5c",
+      "item": {
+        "type": "paragraph",
+        "id": "22878697684c1b5c",
+        "text": "Podcast with Brian Cox on the subject of leadership, but more generally on how progress gets done.[http://www.bbc.co.uk/programmes/b04hvx9z bbc]"
+      },
+      "date": 1415729681871
+    }
+  ]
+}

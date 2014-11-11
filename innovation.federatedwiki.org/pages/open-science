@@ -1,0 +1,255 @@
+{
+  "title": "Open Science",
+  "story": [
+    {
+      "type": "video",
+      "id": "db9b7773cf9390a2",
+      "text": "YOUTUBE DnWocYKqvhw\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f01ece78e97fae44",
+      "text": "[[Michael Nielsen]] talks about Open Science. He starts by talking about Tim Gowers and the [[Polymath Project]]. He then talks about the failure of the Quantum Wiki (which is reminiscent of [[Scholarpedia]]), and the failure of Facebook style academic communities. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8b81899a9f50e0f3",
+      "text": "Why do these fail? Because scientists know that writing a \"single mediocre paper\" is far more helpful to their career than brilliant contributions to a wiki or community."
+    },
+    {
+      "type": "paragraph",
+      "id": "37a02a6487d10689",
+      "text": "What's the solution? We have a model in the [[Bermuda Principles]] created for genetic research in the 1990's. These open science principles were given teeth by granting agencies making open contribution and publication required for funding."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9e8784d2f341ebd",
+      "text": "We have another model in early science. The printing press was around 100 years before scientists stopped hoarding information and finally started publishing in journals."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ba63565ac2ea15b",
+      "text": "See also Nielsen's 2007 concept of Open Science [[Micropublication]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Open Science",
+        "story": []
+      },
+      "date": 1415587011114
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db9b7773cf9390a2"
+      },
+      "id": "db9b7773cf9390a2",
+      "type": "add",
+      "date": 1415587015495
+    },
+    {
+      "type": "edit",
+      "id": "db9b7773cf9390a2",
+      "item": {
+        "type": "video",
+        "id": "db9b7773cf9390a2",
+        "text": "YOUTUBE DnWocYKqvhw\n(double-click to edit caption)\n"
+      },
+      "date": 1415587020564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f01ece78e97fae44"
+      },
+      "id": "f01ece78e97fae44",
+      "type": "add",
+      "after": "db9b7773cf9390a2",
+      "date": 1415587025320
+    },
+    {
+      "type": "edit",
+      "id": "f01ece78e97fae44",
+      "item": {
+        "type": "paragraph",
+        "id": "f01ece78e97fae44",
+        "text": "Michael Nielsen talks about Open Science. He starts by talking about Tim Gowers and the [[Polymath Project]]. "
+      },
+      "date": 1415587157389
+    },
+    {
+      "type": "edit",
+      "id": "f01ece78e97fae44",
+      "item": {
+        "type": "paragraph",
+        "id": "f01ece78e97fae44",
+        "text": "Michael Nielsen talks about Open Science. He starts by talking about Tim Gowers and the [[Polymath Project]]. He then talks about the failure of the Quantum Wiki (which is reminiscent of [[Scholarpedia]]), and the failure of Facebook style academic communities. "
+      },
+      "date": 1415587334503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b81899a9f50e0f3",
+        "text": ""
+      },
+      "id": "8b81899a9f50e0f3",
+      "type": "add",
+      "after": "f01ece78e97fae44",
+      "date": 1415587334541
+    },
+    {
+      "type": "edit",
+      "id": "8b81899a9f50e0f3",
+      "item": {
+        "type": "paragraph",
+        "id": "8b81899a9f50e0f3",
+        "text": "Why do these fail? Because scientists know that writing a \"single mediocre paper\" is far more helpful to your career than brilliant contributions to a wiki or community."
+      },
+      "date": 1415587443514
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6dadf92cadcb37e4",
+        "text": ""
+      },
+      "id": "6dadf92cadcb37e4",
+      "type": "add",
+      "after": "8b81899a9f50e0f3",
+      "date": 1415587443560
+    },
+    {
+      "type": "remove",
+      "id": "6dadf92cadcb37e4",
+      "date": 1415587448489
+    },
+    {
+      "type": "edit",
+      "id": "8b81899a9f50e0f3",
+      "item": {
+        "type": "paragraph",
+        "id": "8b81899a9f50e0f3",
+        "text": "Why do these fail? Because scientists know that writing a \"single mediocre paper\" is far more helpful to their career than brilliant contributions to a wiki or community."
+      },
+      "date": 1415587460318
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "37a02a6487d10689",
+        "text": ""
+      },
+      "id": "37a02a6487d10689",
+      "type": "add",
+      "after": "8b81899a9f50e0f3",
+      "date": 1415587460358
+    },
+    {
+      "type": "edit",
+      "id": "37a02a6487d10689",
+      "item": {
+        "type": "paragraph",
+        "id": "37a02a6487d10689",
+        "text": "What's the solution? We have a model in the [[Bermuda Principles]] created in the 1990's. These open science principles were given teeth by granting agencies making open contribution and publication required for funding."
+      },
+      "date": 1415587586294
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e70a3eaf9f4f789e",
+        "text": ""
+      },
+      "id": "e70a3eaf9f4f789e",
+      "type": "add",
+      "after": "37a02a6487d10689",
+      "date": 1415587586336
+    },
+    {
+      "type": "remove",
+      "id": "e70a3eaf9f4f789e",
+      "date": 1415587621244
+    },
+    {
+      "type": "edit",
+      "id": "37a02a6487d10689",
+      "item": {
+        "type": "paragraph",
+        "id": "37a02a6487d10689",
+        "text": "What's the solution? We have a model in the [[Bermuda Principles]] created for genetic research in the 1990's. These open science principles were given teeth by granting agencies making open contribution and publication required for funding."
+      },
+      "date": 1415587632890
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c9e8784d2f341ebd",
+        "text": ""
+      },
+      "id": "c9e8784d2f341ebd",
+      "type": "add",
+      "after": "37a02a6487d10689",
+      "date": 1415587639826
+    },
+    {
+      "type": "edit",
+      "id": "c9e8784d2f341ebd",
+      "item": {
+        "type": "paragraph",
+        "id": "c9e8784d2f341ebd",
+        "text": "We have another model in early science. The printing press was around 100 years before scientists stopped hoarding information and publishing in journals."
+      },
+      "date": 1415587750139
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ba63565ac2ea15b",
+        "text": ""
+      },
+      "id": "0ba63565ac2ea15b",
+      "type": "add",
+      "after": "c9e8784d2f341ebd",
+      "date": 1415587842049
+    },
+    {
+      "type": "edit",
+      "id": "0ba63565ac2ea15b",
+      "item": {
+        "type": "paragraph",
+        "id": "0ba63565ac2ea15b",
+        "text": "See also Nielsen's 2007 concept of Open Science [[Micropublication]]."
+      },
+      "date": 1415587884349
+    },
+    {
+      "type": "edit",
+      "id": "c9e8784d2f341ebd",
+      "item": {
+        "type": "paragraph",
+        "id": "c9e8784d2f341ebd",
+        "text": "We have another model in early science. The printing press was around 100 years before scientists stopped hoarding information and finally started publishing in journals."
+      },
+      "date": 1415589452056
+    },
+    {
+      "type": "edit",
+      "id": "f01ece78e97fae44",
+      "item": {
+        "type": "paragraph",
+        "id": "f01ece78e97fae44",
+        "text": "[[Michael Nielsen]] talks about Open Science. He starts by talking about Tim Gowers and the [[Polymath Project]]. He then talks about the failure of the Quantum Wiki (which is reminiscent of [[Scholarpedia]]), and the failure of Facebook style academic communities. "
+      },
+      "date": 1415589489441
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415729824453
+    }
+  ]
+}

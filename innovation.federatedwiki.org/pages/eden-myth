@@ -1,0 +1,70 @@
+{
+  "title": "Eden Myth",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2a21da259782ad35",
+      "text": "Eden Myths postulate a previous time free of problems. In the most common version of the myth, choices are made which lead to a currently fallen state. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9886ad67becd89ec",
+      "text": "An example of an Eden Myth is the idea that crops used to be much more nutritious and various before human intervention. In point of fact, wild versions of things like [[Ancient Corn]] kind of sucked. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Eden Myth",
+        "story": []
+      },
+      "date": 1414213541619
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a21da259782ad35"
+      },
+      "id": "2a21da259782ad35",
+      "type": "add",
+      "date": 1414213543070
+    },
+    {
+      "type": "edit",
+      "id": "2a21da259782ad35",
+      "item": {
+        "type": "paragraph",
+        "id": "2a21da259782ad35",
+        "text": "Eden Myths postulate a previous time free of problems. In the most common version of the myth, choices are made which lead to a currently fallen state. "
+      },
+      "date": 1414213606593
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9886ad67becd89ec",
+        "text": ""
+      },
+      "id": "9886ad67becd89ec",
+      "type": "add",
+      "after": "2a21da259782ad35",
+      "date": 1414214658444
+    },
+    {
+      "type": "edit",
+      "id": "9886ad67becd89ec",
+      "item": {
+        "type": "paragraph",
+        "id": "9886ad67becd89ec",
+        "text": "An example of an Eden Myth is the idea that crops used to be much more nutritious and various before human intervention. In point of fact, wild versions of things like [[Ancient Corn]] kind of sucked. "
+      },
+      "date": 1414214785946
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415729904761
+    }
+  ]
+}

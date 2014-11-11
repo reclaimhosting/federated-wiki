@@ -1,0 +1,141 @@
+{
+  "title": "Early Wikipedia Growth",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2b7ce7c517f63eb3",
+      "text": "Early Wikipedia growth was exponential and almost immediate. Some details from a recent article below."
+    },
+    {
+      "type": "paragraph",
+      "id": "9e0bb892d062a876",
+      "text": "From [[Issacson on Wikipedia]]:"
+    },
+    {
+      "type": "pagefold",
+      "id": "28351c42a23160af",
+      "text": "Quote"
+    },
+    {
+      "type": "paragraph",
+      "id": "35dca9c0f250539c",
+      "text": "One month after Wikipedia’s launch, it had a thousand articles, approximately seventy times the number that Nupedia had after a full year. By September 2001, after eight months in existence, it had ten thousand articles. That month, when the September 11 attacks occurred, Wikipedia showed its nimbleness and usefulness; contribu­tors scrambled to create new pieces on such topics as the World Trade Center and its architect. A year after that, the article total reached forty thousand, more than were in the World Book that Wales’s mother had bought. By March 2003 the number of articles in the English-language edition had reached 100,000, with close to five hundred ac­tive editors working almost every day. At that point, Wales decided to shut Nupedia down."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Early Wikipedia Growth",
+        "story": []
+      },
+      "date": 1414277431448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e0bb892d062a876"
+      },
+      "id": "9e0bb892d062a876",
+      "type": "add",
+      "date": 1414277433128
+    },
+    {
+      "type": "edit",
+      "id": "9e0bb892d062a876",
+      "item": {
+        "type": "paragraph",
+        "id": "9e0bb892d062a876",
+        "text": "From [[Issacson on Wikipedia]]:"
+      },
+      "date": 1414277447019
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "35dca9c0f250539c",
+        "text": ""
+      },
+      "id": "35dca9c0f250539c",
+      "type": "add",
+      "after": "9e0bb892d062a876",
+      "date": 1414277447037
+    },
+    {
+      "type": "edit",
+      "id": "35dca9c0f250539c",
+      "item": {
+        "type": "paragraph",
+        "id": "35dca9c0f250539c",
+        "text": "One month after Wikipedia’s launch, it had a thousand articles, approximately seventy times the number that Nupedia had after a full year. By September 2001, after eight months in existence, it had ten thousand articles. That month, when the September 11 attacks occurred, Wikipedia showed its nimbleness and usefulness; contribu­tors scrambled to create new pieces on such topics as the World Trade Center and its architect. A year after that, the article total reached forty thousand, more than were in the World Book that Wales’s mother had bought. By March 2003 the number of articles in the English-language edition had reached 100,000, with close to five hundred ac­tive editors working almost every day. At that point, Wales decided to shut Nupedia down."
+      },
+      "date": 1414277452940
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "28351c42a23160af"
+      },
+      "id": "28351c42a23160af",
+      "type": "add",
+      "after": "35dca9c0f250539c",
+      "date": 1414277457788
+    },
+    {
+      "type": "edit",
+      "id": "28351c42a23160af",
+      "item": {
+        "type": "pagefold",
+        "id": "28351c42a23160af",
+        "text": "Quote"
+      },
+      "date": 1414277471388
+    },
+    {
+      "type": "move",
+      "order": [
+        "9e0bb892d062a876",
+        "28351c42a23160af",
+        "35dca9c0f250539c"
+      ],
+      "id": "28351c42a23160af",
+      "date": 1414277473807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b7ce7c517f63eb3"
+      },
+      "id": "2b7ce7c517f63eb3",
+      "type": "add",
+      "after": "35dca9c0f250539c",
+      "date": 1415577049187
+    },
+    {
+      "type": "edit",
+      "id": "2b7ce7c517f63eb3",
+      "item": {
+        "type": "paragraph",
+        "id": "2b7ce7c517f63eb3",
+        "text": "Early Wikipedia growth was exponential and almost immediate. Some details from a recent article below."
+      },
+      "date": 1415577096476
+    },
+    {
+      "type": "move",
+      "order": [
+        "2b7ce7c517f63eb3",
+        "9e0bb892d062a876",
+        "28351c42a23160af",
+        "35dca9c0f250539c"
+      ],
+      "id": "2b7ce7c517f63eb3",
+      "date": 1415577098991
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415729871868
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "Micropublication",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "52da83ebb6a4785b",
+      "text": "Circa 2007 idea from Michael Nielsen (advocate of [[Open Science]]). The idea is a sort of forkable wiki for publication of scientific articles. While not federated, it displays the slow consensus process of federated wiki."
+    },
+    {
+      "type": "pagefold",
+      "id": "8c15d8188794ba47",
+      "text": "Quote: Michael Nielsen"
+    },
+    {
+      "type": "paragraph",
+      "id": "78ccbb56dbcb4570",
+      "text": "Believing that the situation is not readily resolvable, you create a more permanent branch of the article. Now there are two branches of the article visible to the public, with slightly differing version histories. Of course, these version histories are publicly accessible, and so who contributed what is a matter of public record, and there is no danger that there will be any ambiguity about the origins of the new material, nor about the origin of the disagreement between the two branches.\n\nInitially, most readers look only at the original branch of the article, but a few look at yours as well. Favourable commentary and a gradual relative increase in traffic to your branch (made suitably visible to potetial readers) encourages still more people to read your version preferentially. Your branch gradually becomes more highly visible, while the original fades. Someone else fixes the error you noticed, leading to your branch being replaced by a still further improved version, and still more traffic. After some months, reality sets in and the original authors come around to your point of view, removing their original branch entirely, leaving just the new improved version of the article. Alternately, perhaps the original authors, alarmed by their dimunition, decide to strike back with a revised version of their article, explaining in detail why you are wrong."
+    },
+    {
+      "type": "paragraph",
+      "id": "718e73749fe6d3be",
+      "text": "-- [http://michaelnielsen.org/blog/micropublication-and-open-source-research/ html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "2ca693e9cefa5cfc",
+      "text": "."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Micropublication",
+        "story": []
+      },
+      "date": 1415587888194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52da83ebb6a4785b"
+      },
+      "id": "52da83ebb6a4785b",
+      "type": "add",
+      "date": 1415587892039
+    },
+    {
+      "type": "edit",
+      "id": "52da83ebb6a4785b",
+      "item": {
+        "type": "paragraph",
+        "id": "52da83ebb6a4785b",
+        "text": "Circa 2007 idea from Michael Nielsen (advocate of [[Open Science]]."
+      },
+      "date": 1415587933635
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2e61af48738ec026",
+        "text": ""
+      },
+      "id": "2e61af48738ec026",
+      "type": "add",
+      "after": "52da83ebb6a4785b",
+      "date": 1415587933658
+    },
+    {
+      "type": "remove",
+      "id": "2e61af48738ec026",
+      "date": 1415587937833
+    },
+    {
+      "type": "edit",
+      "id": "52da83ebb6a4785b",
+      "item": {
+        "type": "paragraph",
+        "id": "52da83ebb6a4785b",
+        "text": "Circa 2007 idea from Michael Nielsen (advocate of [[Open Science]])."
+      },
+      "date": 1415587942717
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "718e73749fe6d3be"
+      },
+      "id": "718e73749fe6d3be",
+      "type": "add",
+      "after": "52da83ebb6a4785b",
+      "date": 1415587945748
+    },
+    {
+      "type": "edit",
+      "id": "718e73749fe6d3be",
+      "item": {
+        "type": "paragraph",
+        "id": "718e73749fe6d3be",
+        "text": "-- [http://michaelnielsen.org/blog/micropublication-and-open-source-research/ html]"
+      },
+      "date": 1415587972037
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "619edd973b5898e0",
+        "text": ""
+      },
+      "id": "619edd973b5898e0",
+      "type": "add",
+      "after": "52da83ebb6a4785b",
+      "date": 1415587975087
+    },
+    {
+      "type": "remove",
+      "id": "619edd973b5898e0",
+      "date": 1415588006142
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78ccbb56dbcb4570"
+      },
+      "id": "78ccbb56dbcb4570",
+      "type": "add",
+      "after": "718e73749fe6d3be",
+      "date": 1415588148042
+    },
+    {
+      "type": "edit",
+      "id": "78ccbb56dbcb4570",
+      "item": {
+        "type": "paragraph",
+        "id": "78ccbb56dbcb4570",
+        "text": "Believing that the situation is not readily resolvable, you create a more permanent branch of the article. Now there are two branches of the article visible to the public, with slightly differing version histories. Of course, these version histories are publicly accessible, and so who contributed what is a matter of public record, and there is no danger that there will be any ambiguity about the origins of the new material, nor about the origin of the disagreement between the two branches.\n\nInitially, most readers look only at the original branch of the article, but a few look at yours as well. Favourable commentary and a gradual relative increase in traffic to your branch (made suitably visible to potetial readers) encourages still more people to read your version preferentially. Your branch gradually becomes more highly visible, while the original fades. Someone else fixes the error you noticed, leading to your branch being replaced by a still further improved version, and still more traffic. After some months, reality sets in and the original authors come around to your point of view, removing their original branch entirely, leaving just the new improved version of the article. Alternately, perhaps the original authors, alarmed by their dimunition, decide to strike back with a revised version of their article, explaining in detail why you are wrong."
+      },
+      "date": 1415588152069
+    },
+    {
+      "type": "move",
+      "order": [
+        "52da83ebb6a4785b",
+        "78ccbb56dbcb4570",
+        "718e73749fe6d3be"
+      ],
+      "id": "718e73749fe6d3be",
+      "date": 1415588157245
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c15d8188794ba47"
+      },
+      "id": "8c15d8188794ba47",
+      "type": "add",
+      "after": "718e73749fe6d3be",
+      "date": 1415588159092
+    },
+    {
+      "type": "edit",
+      "id": "8c15d8188794ba47",
+      "item": {
+        "type": "pagefold",
+        "id": "8c15d8188794ba47",
+        "text": "Quote: Michael Nielsen"
+      },
+      "date": 1415588176259
+    },
+    {
+      "type": "move",
+      "order": [
+        "52da83ebb6a4785b",
+        "8c15d8188794ba47",
+        "78ccbb56dbcb4570",
+        "718e73749fe6d3be"
+      ],
+      "id": "8c15d8188794ba47",
+      "date": 1415588179101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ca693e9cefa5cfc"
+      },
+      "id": "2ca693e9cefa5cfc",
+      "type": "add",
+      "after": "718e73749fe6d3be",
+      "date": 1415588184171
+    },
+    {
+      "type": "edit",
+      "id": "2ca693e9cefa5cfc",
+      "item": {
+        "type": "pagefold",
+        "id": "2ca693e9cefa5cfc",
+        "text": "."
+      },
+      "date": 1415588194406
+    },
+    {
+      "type": "edit",
+      "id": "52da83ebb6a4785b",
+      "item": {
+        "type": "paragraph",
+        "id": "52da83ebb6a4785b",
+        "text": "Circa 2007 idea from Michael Nielsen (advocate of [[Open Science]]). The idea is a sort of forkable wiki for publication of scientific articles. While not federated, it displays the slow consensus process of federated wiki."
+      },
+      "date": 1415588280139
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415729843887
+    }
+  ]
+}

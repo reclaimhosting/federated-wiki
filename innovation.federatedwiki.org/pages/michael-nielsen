@@ -1,0 +1,168 @@
+{
+  "title": "Michael Nielsen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c733c2be3836451d",
+      "text": "Open Science advocate. Wrote [[Reinventing Discovery]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef8fcfe78e9a874e",
+      "text": "Blog [http://michaelnielsen.org/blog/micropublication-and-open-source-research/ html] "
+    },
+    {
+      "type": "pagefold",
+      "id": "7d7a57591da83d9e",
+      "text": "Topics"
+    },
+    {
+      "type": "paragraph",
+      "id": "fdf295e68ad06247",
+      "text": "[[Open Science]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1065edffe0f53f20",
+      "text": "[[Micropublication]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Michael Nielsen",
+        "story": []
+      },
+      "date": 1415589493208
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c733c2be3836451d"
+      },
+      "id": "c733c2be3836451d",
+      "type": "add",
+      "date": 1415589495433
+    },
+    {
+      "type": "edit",
+      "id": "c733c2be3836451d",
+      "item": {
+        "type": "paragraph",
+        "id": "c733c2be3836451d",
+        "text": "Open Science advocate. "
+      },
+      "date": 1415589507244
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef8fcfe78e9a874e",
+        "text": ""
+      },
+      "id": "ef8fcfe78e9a874e",
+      "type": "add",
+      "after": "c733c2be3836451d",
+      "date": 1415589507264
+    },
+    {
+      "type": "edit",
+      "id": "ef8fcfe78e9a874e",
+      "item": {
+        "type": "paragraph",
+        "id": "ef8fcfe78e9a874e",
+        "text": "Blog [http://michaelnielsen.org/blog/micropublication-and-open-source-research/ html] "
+      },
+      "date": 1415589520859
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fdf295e68ad06247",
+        "text": ""
+      },
+      "id": "fdf295e68ad06247",
+      "type": "add",
+      "after": "ef8fcfe78e9a874e",
+      "date": 1415589520877
+    },
+    {
+      "type": "edit",
+      "id": "fdf295e68ad06247",
+      "item": {
+        "type": "paragraph",
+        "id": "fdf295e68ad06247",
+        "text": "[[Open Science]]"
+      },
+      "date": 1415589547859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1065edffe0f53f20"
+      },
+      "id": "1065edffe0f53f20",
+      "type": "add",
+      "after": "fdf295e68ad06247",
+      "date": 1415589558834
+    },
+    {
+      "type": "edit",
+      "id": "1065edffe0f53f20",
+      "item": {
+        "type": "paragraph",
+        "id": "1065edffe0f53f20",
+        "text": "[[Micropublication]]"
+      },
+      "date": 1415589584943
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d7a57591da83d9e"
+      },
+      "id": "7d7a57591da83d9e",
+      "type": "add",
+      "after": "1065edffe0f53f20",
+      "date": 1415589588093
+    },
+    {
+      "type": "edit",
+      "id": "7d7a57591da83d9e",
+      "item": {
+        "type": "pagefold",
+        "id": "7d7a57591da83d9e",
+        "text": "Topics"
+      },
+      "date": 1415589597203
+    },
+    {
+      "type": "move",
+      "order": [
+        "c733c2be3836451d",
+        "ef8fcfe78e9a874e",
+        "7d7a57591da83d9e",
+        "fdf295e68ad06247",
+        "1065edffe0f53f20"
+      ],
+      "id": "7d7a57591da83d9e",
+      "date": 1415589599794
+    },
+    {
+      "type": "edit",
+      "id": "c733c2be3836451d",
+      "item": {
+        "type": "paragraph",
+        "id": "c733c2be3836451d",
+        "text": "Open Science advocate. Wrote [[Reinventing Discovery]]."
+      },
+      "date": 1415589642583
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415729837329
+    }
+  ]
+}

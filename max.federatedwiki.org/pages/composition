@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "161fc9dd4d80008f",
       "text": "[[how to plan an oral presentation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e4d925a6ef9969ee",
+      "text": "[[writing a plan]]"
     }
   ],
   "journal": [
@@ -121,6 +126,26 @@
       ],
       "id": "794e5807237321e7",
       "date": 1415678314981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e4d925a6ef9969ee"
+      },
+      "id": "e4d925a6ef9969ee",
+      "type": "add",
+      "after": "161fc9dd4d80008f",
+      "date": 1415684127884
+    },
+    {
+      "type": "edit",
+      "id": "e4d925a6ef9969ee",
+      "item": {
+        "type": "paragraph",
+        "id": "e4d925a6ef9969ee",
+        "text": "[[writing a plan]]"
+      },
+      "date": 1415684143200
     }
   ]
 }

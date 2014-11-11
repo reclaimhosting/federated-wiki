@@ -8,8 +8,8 @@
     },
     {
       "type": "paragraph",
-      "id": "7204368cbb042661",
-      "text": "this is where I will be keeping my notes and ideas for school."
+      "id": "7fad8568051f0742",
+      "text": "[[Max]]"
     },
     {
       "type": "paragraph",
@@ -741,6 +741,69 @@
         "text": "[[math]]"
       },
       "date": 1415598294156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7fad8568051f0742",
+        "text": ""
+      },
+      "id": "7fad8568051f0742",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1415669675832
+    },
+    {
+      "type": "edit",
+      "id": "7fad8568051f0742",
+      "item": {
+        "type": "paragraph",
+        "id": "7fad8568051f0742",
+        "text": "[[Max]]"
+      },
+      "date": 1415669692842
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "865731be8b350719",
+        "text": ""
+      },
+      "id": "865731be8b350719",
+      "type": "add",
+      "after": "7fad8568051f0742",
+      "date": 1415669692852
+    },
+    {
+      "type": "remove",
+      "id": "865731be8b350719",
+      "date": 1415669699020
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "7204368cbb042661",
+        "7fad8568051f0742",
+        "ab2acf4a47db8578",
+        "63ad2e58eecdd9e5",
+        "b931335661e245c7",
+        "d696cb9f1649254e",
+        "236cb595c949a93e",
+        "5f5342f3a12fac68",
+        "1af4a6139ca7a45b",
+        "ca24e01835920dd3",
+        "1d19c5a8834b4508",
+        "244ee7cf1bdd2097",
+        "d5fed56edcb57537"
+      ],
+      "id": "7204368cbb042661",
+      "date": 1415669706783
+    },
+    {
+      "type": "remove",
+      "id": "7204368cbb042661",
+      "date": 1415669718780
     }
   ]
 }

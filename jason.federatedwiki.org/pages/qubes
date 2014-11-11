@@ -19,7 +19,12 @@
     {
       "type": "paragraph",
       "id": "b8961f34a3ab839c",
-      "text": "https://qubes-os.org/"
+      "text": "[https://qubes-os.org/ https://qubes-os.org/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "83bc36c18c0b47fe",
+      "text": ""
     },
     {
       "type": "paragraph",
@@ -249,6 +254,27 @@
       "type": "remove",
       "id": "32f2fdc7ad1d7e03",
       "date": 1415733443827
+    },
+    {
+      "type": "edit",
+      "id": "b8961f34a3ab839c",
+      "item": {
+        "type": "paragraph",
+        "id": "b8961f34a3ab839c",
+        "text": "[https://qubes-os.org/ https://qubes-os.org/]"
+      },
+      "date": 1415733728141
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "83bc36c18c0b47fe",
+        "text": ""
+      },
+      "id": "83bc36c18c0b47fe",
+      "type": "add",
+      "after": "b8961f34a3ab839c",
+      "date": 1415733728171
     }
   ]
 }

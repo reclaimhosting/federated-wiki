@@ -1,6 +1,12 @@
 {
   "title": "music",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4553942efbc56fb3",
+      "text": "I wont be writing very many things down in my music area because I already understand all the stuff  in sixth grade music so I will only write down interesting thing and these may be from outside of school."
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,41 @@
         "story": []
       },
       "date": 1415598334920
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4553942efbc56fb3"
+      },
+      "id": "4553942efbc56fb3",
+      "type": "add",
+      "date": 1415681509741
+    },
+    {
+      "type": "edit",
+      "id": "4553942efbc56fb3",
+      "item": {
+        "type": "paragraph",
+        "id": "4553942efbc56fb3",
+        "text": "I wont be writing very many things down in my music area because I already understand all the stuff  in sixth grade music so I will only write down interesting thing and these may be from outside of school."
+      },
+      "date": 1415681614400
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6be564ef35e56670",
+        "text": ""
+      },
+      "id": "6be564ef35e56670",
+      "type": "add",
+      "after": "4553942efbc56fb3",
+      "date": 1415681614408
+    },
+    {
+      "type": "remove",
+      "id": "6be564ef35e56670",
+      "date": 1415681616884
     }
   ]
 }

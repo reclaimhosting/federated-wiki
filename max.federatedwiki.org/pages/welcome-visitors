@@ -13,6 +13,11 @@
     },
     {
       "type": "paragraph",
+      "id": "c4c5cc3dfa3b52ce",
+      "text": "sixth grade"
+    },
+    {
+      "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
       "text": "[[math]]"
@@ -916,6 +921,43 @@
         "type": "paragraph"
       },
       "date": 1415679618873
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c4c5cc3dfa3b52ce",
+        "text": ""
+      },
+      "id": "c4c5cc3dfa3b52ce",
+      "type": "add",
+      "after": "ab2acf4a47db8578",
+      "date": 1415681642319
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "add40b7737f838b0",
+        "text": ""
+      },
+      "id": "add40b7737f838b0",
+      "type": "add",
+      "after": "c4c5cc3dfa3b52ce",
+      "date": 1415681648238
+    },
+    {
+      "type": "edit",
+      "id": "c4c5cc3dfa3b52ce",
+      "item": {
+        "type": "paragraph",
+        "id": "c4c5cc3dfa3b52ce",
+        "text": "sixth grade"
+      },
+      "date": 1415681648230
+    },
+    {
+      "type": "remove",
+      "id": "add40b7737f838b0",
+      "date": 1415681649627
     }
   ]
 }

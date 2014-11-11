@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "396a8770580a1c57",
       "text": "this is an idea of how you could write your own essay about anything you would like."
+    },
+    {
+      "type": "paragraph",
+      "id": "990048f3f2a6aba5",
+      "text": "to write an essay you should have a plan(see [[writing a plan]])and from this plan you should be able to pull all your information and Ideas."
     }
   ],
   "journal": [
@@ -44,6 +49,43 @@
         "text": "this is an idea of how you could write your own essay about anything you would like."
       },
       "date": 1415669302510
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "990048f3f2a6aba5",
+        "text": ""
+      },
+      "id": "990048f3f2a6aba5",
+      "type": "add",
+      "after": "396a8770580a1c57",
+      "date": 1415678206469
+    },
+    {
+      "type": "edit",
+      "id": "990048f3f2a6aba5",
+      "item": {
+        "type": "paragraph",
+        "id": "990048f3f2a6aba5",
+        "text": "to write an essay you should have a plan(see [[writing a plan]])and from this plan you should be able to pull all your information and Ideas."
+      },
+      "date": 1415678302681
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d71ff2f80524e687",
+        "text": ""
+      },
+      "id": "d71ff2f80524e687",
+      "type": "add",
+      "after": "990048f3f2a6aba5",
+      "date": 1415678302693
+    },
+    {
+      "type": "remove",
+      "id": "d71ff2f80524e687",
+      "date": 1415678303772
     }
   ]
 }

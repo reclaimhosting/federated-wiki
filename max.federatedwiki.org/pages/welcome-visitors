@@ -2,9 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to my [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Hi",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "6fa61ab481dcff14",
+      "text": "this is me:"
     },
     {
       "type": "paragraph",
@@ -814,6 +819,63 @@
         "text": "here is a list of some subjects:"
       },
       "date": 1415677843523
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to my [[Smallest Federated Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415678730407
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6fa61ab481dcff14",
+        "text": ""
+      },
+      "id": "6fa61ab481dcff14",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1415678730418
+    },
+    {
+      "type": "edit",
+      "id": "6fa61ab481dcff14",
+      "item": {
+        "type": "paragraph",
+        "id": "6fa61ab481dcff14",
+        "text": "this is me:"
+      },
+      "date": 1415678737784
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3e22fc82f47086d0",
+        "text": ""
+      },
+      "id": "3e22fc82f47086d0",
+      "type": "add",
+      "after": "6fa61ab481dcff14",
+      "date": 1415678737794
+    },
+    {
+      "type": "remove",
+      "id": "3e22fc82f47086d0",
+      "date": 1415678739592
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Hi",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415678755521
     }
   ]
 }

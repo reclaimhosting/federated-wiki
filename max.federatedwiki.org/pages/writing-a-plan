@@ -1,0 +1,65 @@
+{
+  "title": "writing a plan",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "af801319c5b2b010",
+      "text": "to write your essay you should start with a plan. This plan must have all of your ideas and it should have them in an order you can use to eventually write your essay. First though you need to remember that this is just your plan, not your essay.You don't have to have all your information in paragraphs and a flowing path of ideas."
+    },
+    {
+      "type": "paragraph",
+      "id": "b1c814ba66d5cd2e",
+      "text": "to write your plan you will write down your ideas "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "writing a plan",
+        "story": []
+      },
+      "date": 1415678320496
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af801319c5b2b010"
+      },
+      "id": "af801319c5b2b010",
+      "type": "add",
+      "date": 1415678323436
+    },
+    {
+      "type": "edit",
+      "id": "af801319c5b2b010",
+      "item": {
+        "type": "paragraph",
+        "id": "af801319c5b2b010",
+        "text": "to write your essay you should start with a plan. This plan must have all of your ideas and it should have them in an order you can use to eventually write your essay. First though you need to remember that this is just your plan, not your essay.You don't have to have all your information in paragraphs and a flowing path of ideas."
+      },
+      "date": 1415678506311
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b1c814ba66d5cd2e",
+        "text": ""
+      },
+      "id": "b1c814ba66d5cd2e",
+      "type": "add",
+      "after": "af801319c5b2b010",
+      "date": 1415678506323
+    },
+    {
+      "type": "edit",
+      "id": "b1c814ba66d5cd2e",
+      "item": {
+        "type": "paragraph",
+        "id": "b1c814ba66d5cd2e",
+        "text": "to write your plan you will write down your ideas "
+      },
+      "date": 1415678625609
+    }
+  ]
+}

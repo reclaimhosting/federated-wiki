@@ -33,6 +33,13 @@
       "site": "max.federatedwiki.org",
       "title": "Max",
       "text": "this is where I will be keeping my notes and ideas for school."
+    },
+    {
+      "type": "reference",
+      "id": "a09896322fd64849",
+      "site": "ward.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
     }
   ],
   "journal": [
@@ -361,6 +368,38 @@
         "text": "this is where I will be keeping my notes and ideas for school."
       },
       "date": 1415665821914
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016723
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a09896322fd64849"
+      },
+      "id": "a09896322fd64849",
+      "type": "add",
+      "after": "dea11b5f742c5089",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016719
+    },
+    {
+      "type": "edit",
+      "id": "a09896322fd64849",
+      "item": {
+        "type": "reference",
+        "id": "a09896322fd64849",
+        "site": "ward.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+      },
+      "date": 1415675029126
+    },
+    {
+      "type": "fork",
+      "date": 1415675106200
     }
   ]
 }

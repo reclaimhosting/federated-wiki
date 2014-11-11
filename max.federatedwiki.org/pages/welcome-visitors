@@ -2,14 +2,9 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Hi",
+      "text": "Hi, this is me:",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
-    },
-    {
-      "type": "paragraph",
-      "id": "6fa61ab481dcff14",
-      "text": "this is me:"
     },
     {
       "type": "paragraph",
@@ -19,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "ab2acf4a47db8578",
-      "text": "here is a list of some subjects:"
+      "text": "here is a list of some subjects that I am doing in my school that I will be writing about:"
     },
     {
       "type": "paragraph",
@@ -876,6 +871,41 @@
         "type": "paragraph"
       },
       "date": 1415678755521
+    },
+    {
+      "type": "edit",
+      "id": "ab2acf4a47db8578",
+      "item": {
+        "type": "paragraph",
+        "id": "ab2acf4a47db8578",
+        "text": "here is a list of some subjects that I am doing in my school that I will be writing about:"
+      },
+      "date": 1415678789702
+    },
+    {
+      "type": "remove",
+      "id": "6fa61ab481dcff14",
+      "date": 1415678836751
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Hi this is me:",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415678839948
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Hi, this is me:",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415678855645
     }
   ]
 }

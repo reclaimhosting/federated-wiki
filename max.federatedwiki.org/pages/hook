@@ -1,0 +1,81 @@
+{
+  "title": "hook",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "43bcbf5ca604453f",
+      "text": "a statement that grabs the reader of an essays attention"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a882a5dd9b5020c",
+      "text": "usually leads to a [[thesis statement]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "hook",
+        "story": []
+      },
+      "date": 1415680046476
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43bcbf5ca604453f"
+      },
+      "id": "43bcbf5ca604453f",
+      "type": "add",
+      "date": 1415680049655
+    },
+    {
+      "type": "edit",
+      "id": "43bcbf5ca604453f",
+      "item": {
+        "type": "paragraph",
+        "id": "43bcbf5ca604453f",
+        "text": "a statement that grabs the reader of an essays attention"
+      },
+      "date": 1415680078601
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a882a5dd9b5020c",
+        "text": ""
+      },
+      "id": "0a882a5dd9b5020c",
+      "type": "add",
+      "after": "43bcbf5ca604453f",
+      "date": 1415680085441
+    },
+    {
+      "type": "edit",
+      "id": "0a882a5dd9b5020c",
+      "item": {
+        "type": "paragraph",
+        "id": "0a882a5dd9b5020c",
+        "text": "usually leads to a [[thesis statement]]"
+      },
+      "date": 1415680116775
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c438d3722041b6f",
+        "text": ""
+      },
+      "id": "1c438d3722041b6f",
+      "type": "add",
+      "after": "0a882a5dd9b5020c",
+      "date": 1415680116782
+    },
+    {
+      "type": "remove",
+      "id": "1c438d3722041b6f",
+      "date": 1415680117755
+    }
+  ]
+}

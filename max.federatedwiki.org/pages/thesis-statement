@@ -1,0 +1,44 @@
+{
+  "title": "thesis statement",
+  "story": [
+    {
+      "type": "factory",
+      "id": "12e18d1c163d1baa"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "thesis statement",
+        "story": []
+      },
+      "date": 1415680121579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12e18d1c163d1baa"
+      },
+      "id": "12e18d1c163d1baa",
+      "type": "add",
+      "date": 1415680133617
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f7d18c65cc87baf",
+        "text": ""
+      },
+      "id": "3f7d18c65cc87baf",
+      "type": "add",
+      "after": "12e18d1c163d1baa",
+      "date": 1415680161190
+    },
+    {
+      "type": "remove",
+      "id": "3f7d18c65cc87baf",
+      "date": 1415680162308
+    }
+  ]
+}

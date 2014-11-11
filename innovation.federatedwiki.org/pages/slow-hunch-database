@@ -1,0 +1,77 @@
+{
+  "title": "Slow Hunch Database",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "32b33059ad764c2e",
+      "text": "\"...create an open database of hunches, the Web 2.0 version of the traditional suggestion box. A public hunch database make every passing idea visible to everyone else. Others can comment or expand on those ideas, connecting them with their own hunches...\""
+    },
+    {
+      "type": "paragraph",
+      "id": "221293159db6c56f",
+      "text": "-- Steven Johnson, Where Good Ideas Come From"
+    },
+    {
+      "type": "factory",
+      "id": "26571cc961d971fd"
+    },
+    {
+      "type": "factory",
+      "id": "44a38d57335d3160"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Slow Hunch Database",
+        "story": []
+      },
+      "date": 1414682138600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26571cc961d971fd"
+      },
+      "id": "26571cc961d971fd",
+      "type": "add",
+      "date": 1414682140620
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "32b33059ad764c2e",
+        "text": "\"...create an open database of hunches, the Web 2.0 version of the traditional suggestion box. A public hunch database make every passing idea visible to everyone else. Others can comment or expand on those ideas, connecting them with their own hunches...\""
+      },
+      "id": "32b33059ad764c2e",
+      "date": 1414682146453
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "221293159db6c56f",
+        "text": "-- Steven Johnson, Where Good Ideas Come From"
+      },
+      "after": "32b33059ad764c2e",
+      "id": "221293159db6c56f",
+      "date": 1414682148560
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44a38d57335d3160"
+      },
+      "id": "44a38d57335d3160",
+      "type": "add",
+      "after": "26571cc961d971fd",
+      "date": 1415730524728
+    }
+  ]
+}

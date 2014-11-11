@@ -1,0 +1,324 @@
+{
+  "title": "Google Car Is a Glorified Train",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "05e478a841816e0d",
+      "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train driving on painstakingly hand curated tracks. It doesn't drive on roads, it \"drives on maps\". It works not because it thinks, but because we have finally built an environment where it doesn't have to."
+    },
+    {
+      "type": "paragraph",
+      "id": "11d4ff565c5882e4",
+      "text": " There are implications to MOOCs, where Google Car inventor Thrun also found his system only worked in environmentally controlled conditions. What makes the Google Car possible is not great AI, but a built enviroment heavily adapted to the machine's needs. In education Thrun has likewise solved his problem by seeking more predictable, higher quality environments. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8a7c0638f608a924",
+      "text": "See also [[Polanyi's Paradox]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ec7d322439f5abb",
+      "text": "Related: [[Michael Polanyi]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "bc154d01c281e5fd",
+      "text": "Quote from Polanyi's Paradox"
+    },
+    {
+      "type": "paragraph",
+      "id": "3250348996d9a29b",
+      "text": "While Kiva Systems provides a particularly clear example, the same principle of environmental \ncontrol is often operative in unexpected places. Perhaps the least recognized—and most \nmythologized—is the Google Car. It is sometimes said by computer scientists that the Google \ncar does not drive on roads but rather on maps. This observation conveys the fact that the \nGoogle car, unlike a human vehicle operator, cannot pilot on an “unfamiliar” road; it lacks the \ncapability to process, interpret and respond to an environment that has not been pre-processed \nby its human engineers. Instead, the Google car navigates through the road network primarily \nby comparing its real-time audio-visual sensor data (collected using LIDAR) against\npainstakingly hand-curated maps that specify the exact locations of all roads, signals, signage, \nobstacles, etc. The Google car adapts in real time to obstacles (cars, pedestrians, road hazards) \nby braking, turning and stopping. But if the car’s software determines that the environment in 34\nwhich it is operating differs from the key static features of its pre-specified map (e.g., an \nunexpected detour, a police officer directing traffic where a traffic signal is supposed to be), \nthen the car signals for its human operator to take command. Thus, while the Google car \nappears outwardly to be as adaptive and flexible as a human driver, it is in reality more akin to \na train running on invisible tracks."
+    },
+    {
+      "type": "paragraph",
+      "id": "3c5502bb0ff6d997",
+      "text": "-- [http://economics.mit.edu/files/9835 html]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Google Car Is a Glorified Train",
+        "story": []
+      },
+      "date": 1414807209741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05e478a841816e0d"
+      },
+      "id": "05e478a841816e0d",
+      "type": "add",
+      "date": 1414807253428
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts:"
+      },
+      "date": 1414807270141
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8e3b53c542662655",
+        "text": ""
+      },
+      "id": "8e3b53c542662655",
+      "type": "add",
+      "after": "05e478a841816e0d",
+      "date": 1414807270158
+    },
+    {
+      "type": "remove",
+      "id": "8e3b53c542662655",
+      "date": 1414807274466
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3250348996d9a29b"
+      },
+      "id": "3250348996d9a29b",
+      "type": "add",
+      "after": "05e478a841816e0d",
+      "date": 1414807310102
+    },
+    {
+      "type": "edit",
+      "id": "3250348996d9a29b",
+      "item": {
+        "type": "paragraph",
+        "id": "3250348996d9a29b",
+        "text": "While Kiva Systems provides a particularly clear example, the same principle of environmental \ncontrol is often operative in unexpected places. Perhaps the least recognized—and most \nmythologized—is the Google Car. It is sometimes said by computer scientists that the Google \ncar does not drive on roads but rather on maps. This observation conveys the fact that the \nGoogle car, unlike a human vehicle operator, cannot pilot on an “unfamiliar” road; it lacks the \ncapability to process, interpret and respond to an environment that has not been pre-processed \nby its human engineers. Instead, the Google car navigates through the road network primarily \nby comparing its real-time audio-visual sensor data (collected using LIDAR) against\npainstakingly hand-curated maps that specify the exact locations of all roads, signals, signage, \nobstacles, etc. The Google car adapts in real time to obstacles (cars, pedestrians, road hazards) \nby braking, turning and stopping. But if the car’s software determines that the environment in 34\nwhich it is operating differs from the key static features of its pre-specified map (e.g., an \nunexpected detour, a police officer directing traffic where a traffic signal is supposed to be), \nthen the car signals for its human operator to take command. Thus, while the Google car \nappears outwardly to be as adaptive and flexible as a human driver, it is in reality more akin to \na train running on invisible tracks."
+      },
+      "date": 1414807315322
+    },
+    {
+      "type": "remove",
+      "id": "d3fe988f3bc9dfd3",
+      "date": 1414807317612
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc154d01c281e5fd"
+      },
+      "id": "bc154d01c281e5fd",
+      "type": "add",
+      "after": "3250348996d9a29b",
+      "date": 1414807325519
+    },
+    {
+      "type": "edit",
+      "id": "bc154d01c281e5fd",
+      "item": {
+        "type": "pagefold",
+        "id": "bc154d01c281e5fd",
+        "text": "Quote"
+      },
+      "date": 1414807335931
+    },
+    {
+      "type": "move",
+      "order": [
+        "05e478a841816e0d",
+        "bc154d01c281e5fd",
+        "3250348996d9a29b"
+      ],
+      "id": "bc154d01c281e5fd",
+      "date": 1414807340105
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c5502bb0ff6d997"
+      },
+      "id": "3c5502bb0ff6d997",
+      "type": "add",
+      "after": "3250348996d9a29b",
+      "date": 1414807355511
+    },
+    {
+      "type": "edit",
+      "id": "3c5502bb0ff6d997",
+      "item": {
+        "type": "paragraph",
+        "id": "3c5502bb0ff6d997",
+        "text": "-- [http://economics.mit.edu/files/9835 html]"
+      },
+      "date": 1414807367285
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train. There are implications to [[Thrun-dication]]."
+      },
+      "date": 1414807537468
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train. There are implications to [[AI Fairy Tales]]."
+      },
+      "date": 1414807582828
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train driving on painstakingly hand curated tracks. There are implications to [[AI Fairy Tales]]."
+      },
+      "date": 1414807615693
+    },
+    {
+      "type": "edit",
+      "id": "bc154d01c281e5fd",
+      "item": {
+        "type": "pagefold",
+        "id": "bc154d01c281e5fd",
+        "text": "Quote from Polanyi's Paradox"
+      },
+      "date": 1414807641180
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74313212b29d4743",
+        "text": ""
+      },
+      "id": "74313212b29d4743",
+      "type": "add",
+      "after": "05e478a841816e0d",
+      "date": 1414807666362
+    },
+    {
+      "type": "remove",
+      "id": "74313212b29d4743",
+      "date": 1414807673594
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train driving on painstakingly hand curated tracks. There are implications to MOOCs, where Google Car inventor Thrun also found his system only worked in environmentally controlled conditions."
+      },
+      "date": 1414807751644
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a7c0638f608a924",
+        "text": ""
+      },
+      "id": "8a7c0638f608a924",
+      "type": "add",
+      "after": "05e478a841816e0d",
+      "date": 1414858472809
+    },
+    {
+      "type": "edit",
+      "id": "8a7c0638f608a924",
+      "item": {
+        "type": "paragraph",
+        "id": "8a7c0638f608a924",
+        "text": "See also [[Polyani's Paradox]]."
+      },
+      "date": 1414858491215
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train driving on painstakingly hand curated tracks. It doesn't drive on roads, it \"drives on maps\"."
+      },
+      "date": 1414862732009
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "11d4ff565c5882e4",
+        "text": " There are implications to MOOCs, where Google Car inventor Thrun also found his system only worked in environmentally controlled conditions."
+      },
+      "id": "11d4ff565c5882e4",
+      "type": "add",
+      "after": "05e478a841816e0d",
+      "date": 1414862732029
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ec7d322439f5abb",
+        "text": ""
+      },
+      "id": "6ec7d322439f5abb",
+      "type": "add",
+      "after": "8a7c0638f608a924",
+      "date": 1414862905937
+    },
+    {
+      "type": "edit",
+      "id": "6ec7d322439f5abb",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec7d322439f5abb",
+        "text": "Related: [[Michael Polanyi]]"
+      },
+      "date": 1414862929876
+    },
+    {
+      "type": "edit",
+      "id": "8a7c0638f608a924",
+      "item": {
+        "type": "paragraph",
+        "id": "8a7c0638f608a924",
+        "text": "See also [[Polanyi's Paradox]]."
+      },
+      "date": 1414862942648
+    },
+    {
+      "type": "edit",
+      "id": "05e478a841816e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "05e478a841816e0d",
+        "text": "In [[Polanyi’s Paradox and the Shape of Employment Growth]] David Autor asserts that the Google Car is really a glorified train driving on painstakingly hand curated tracks. It doesn't drive on roads, it \"drives on maps\". It works not because it thinks, but because we have finally built an environment where it doesn't have to."
+      },
+      "date": 1414863169921
+    },
+    {
+      "type": "edit",
+      "id": "11d4ff565c5882e4",
+      "item": {
+        "type": "paragraph",
+        "id": "11d4ff565c5882e4",
+        "text": " There are implications to MOOCs, where Google Car inventor Thrun also found his system only worked in environmentally controlled conditions. What makes the Google Car possible is not great AI, but a built enviroment heavily adapted to the machine's needs. In education Thrun has likewise solved his problem by seeking more predictable, higher quality environments. "
+      },
+      "date": 1415284343616
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730080523
+    }
+  ]
+}

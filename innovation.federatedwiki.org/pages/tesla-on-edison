@@ -1,0 +1,98 @@
+{
+  "title": "Tesla on Edison",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f4fa33e39f0088e5",
+      "text": "From Wikipedia:"
+    },
+    {
+      "type": "paragraph",
+      "id": "6a7790dad8bb0c29",
+      "text": "\"He had no hobby, cared for no sort of amusement of any kind and lived in utter disregard of the most elementary rules of hygiene ... His method was inefficient in the extreme, for an immense ground had to be covered to get anything at all unless blind chance intervened and, at first, I was almost a sorry witness of his doings, knowing that just a little theory and calculation would have saved him 90 percent of the labor. But he had a veritable contempt for book learning and mathematical knowledge, trusting himself entirely to his inventor's instinct and practical American sense.[163]\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tesla on Edison",
+        "story": []
+      },
+      "date": 1414502695299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a7790dad8bb0c29"
+      },
+      "id": "6a7790dad8bb0c29",
+      "type": "add",
+      "date": 1414502697004
+    },
+    {
+      "type": "edit",
+      "id": "6a7790dad8bb0c29",
+      "item": {
+        "type": "paragraph",
+        "id": "6a7790dad8bb0c29",
+        "text": "He had no hobby, cared for no sort of amusement of any kind and lived in utter disregard of the most elementary rules of hygiene ... His method was inefficient in the extreme, for an immense ground had to be covered to get anything at all unless blind chance intervened and, at first, I was almost a sorry witness of his doings, knowing that just a little theory and calculation would have saved him 90 percent of the labor. But he had a veritable contempt for book learning and mathematical knowledge, trusting himself entirely to his inventor's instinct and practical American sense.[163]"
+      },
+      "date": 1414502701871
+    },
+    {
+      "type": "edit",
+      "id": "6a7790dad8bb0c29",
+      "item": {
+        "type": "paragraph",
+        "id": "6a7790dad8bb0c29",
+        "text": "\"He had no hobby, cared for no sort of amusement of any kind and lived in utter disregard of the most elementary rules of hygiene ... His method was inefficient in the extreme, for an immense ground had to be covered to get anything at all unless blind chance intervened and, at first, I was almost a sorry witness of his doings, knowing that just a little theory and calculation would have saved him 90 percent of the labor. But he had a veritable contempt for book learning and mathematical knowledge, trusting himself entirely to his inventor's instinct and practical American sense.[163]\""
+      },
+      "date": 1414533737624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4fa33e39f0088e5"
+      },
+      "id": "f4fa33e39f0088e5",
+      "type": "add",
+      "after": "6a7790dad8bb0c29",
+      "date": 1414533774353
+    },
+    {
+      "type": "edit",
+      "id": "f4fa33e39f0088e5",
+      "item": {
+        "type": "paragraph",
+        "id": "f4fa33e39f0088e5",
+        "text": "From Wikipedi"
+      },
+      "date": 1414533789683
+    },
+    {
+      "type": "edit",
+      "id": "f4fa33e39f0088e5",
+      "item": {
+        "type": "paragraph",
+        "id": "f4fa33e39f0088e5",
+        "text": "From Wikipedia:"
+      },
+      "date": 1414533795726
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4fa33e39f0088e5",
+        "6a7790dad8bb0c29"
+      ],
+      "id": "f4fa33e39f0088e5",
+      "date": 1414533798420
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730547397
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "KnowledgeWeb Failure",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7d219672316186fd",
+      "text": "James Burke of Connections fame tried to create a KnowledgeWeb to allow users multiple paths through history in a Bush-like Memex vision. It failed. "
+    },
+    {
+      "type": "paragraph",
+      "id": "95b8a6ac9dffb872",
+      "text": "It seems like it was looking for visualization schemes like [[Valence]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "KnowledgeWeb Failure",
+        "story": []
+      },
+      "date": 1414957744586
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d219672316186fd"
+      },
+      "id": "7d219672316186fd",
+      "type": "add",
+      "date": 1414957747305
+    },
+    {
+      "type": "edit",
+      "id": "7d219672316186fd",
+      "item": {
+        "type": "paragraph",
+        "id": "7d219672316186fd",
+        "text": "James Burke of Connections fame tried to create a KnowledgeWeb to allow users multiple paths through history in a Bush-like Memex vision. It failed. "
+      },
+      "date": 1414957823042
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95b8a6ac9dffb872",
+        "text": ""
+      },
+      "id": "95b8a6ac9dffb872",
+      "type": "add",
+      "after": "7d219672316186fd",
+      "date": 1414958032231
+    },
+    {
+      "type": "edit",
+      "id": "95b8a6ac9dffb872",
+      "item": {
+        "type": "paragraph",
+        "id": "95b8a6ac9dffb872",
+        "text": "It seems like it was looking for visualization schemes like [[Valence]]."
+      },
+      "date": 1414958059980
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730335175
+    }
+  ]
+}

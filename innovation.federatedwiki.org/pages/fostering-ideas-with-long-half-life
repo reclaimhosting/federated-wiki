@@ -1,0 +1,89 @@
+{
+  "title": "Fostering Ideas With Long Half-life",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a2c47475258ef226",
+      "text": "How do we keep an idea around? "
+    },
+    {
+      "type": "factory",
+      "id": "02da394b9cd7f1f1"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fostering Ideas With Long Half-life",
+        "story": []
+      },
+      "date": 1414682844320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2c47475258ef226"
+      },
+      "id": "a2c47475258ef226",
+      "type": "add",
+      "date": 1414682851980
+    },
+    {
+      "type": "edit",
+      "id": "a2c47475258ef226",
+      "item": {
+        "type": "paragraph",
+        "id": "a2c47475258ef226",
+        "text": "How do we keep an idea around? "
+      },
+      "date": 1414682868812
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "669b283f538b3465",
+        "text": ""
+      },
+      "id": "669b283f538b3465",
+      "type": "add",
+      "after": "a2c47475258ef226",
+      "date": 1414682868828
+    },
+    {
+      "type": "remove",
+      "id": "669b283f538b3465",
+      "date": 1414682870432
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "353604432af67bf7",
+        "text": ""
+      },
+      "id": "353604432af67bf7",
+      "type": "add",
+      "after": "a2c47475258ef226",
+      "date": 1414682876633
+    },
+    {
+      "type": "remove",
+      "id": "353604432af67bf7",
+      "date": 1414682898617
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02da394b9cd7f1f1"
+      },
+      "id": "02da394b9cd7f1f1",
+      "type": "add",
+      "after": "a2c47475258ef226",
+      "date": 1415730535910
+    }
+  ]
+}

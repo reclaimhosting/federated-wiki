@@ -1,0 +1,93 @@
+{
+  "title": "Polanyi's Paradox",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f10909dee0200fc5",
+      "text": "The problem of Tacit Knowledge, as identified by [[Michael Polanyi]]."
+    },
+    {
+      "type": "pagefold",
+      "id": "0726c98457635522",
+      "text": "Quote\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "032371ad57f758d7",
+      "text": "In 1966, the philosopher Michael Polanyi observed, “We can know more than we can tell... The \nskill of a driver cannot be replaced by a thorough schooling in the theory of the motorcar; the \nknowledge I have of my own body differs altogether from the knowledge of its physiology.” \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4cff043902e4c85f",
+      "text": "From [[Polanyi’s Paradox and the Shape of Employment Growth]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Polanyi's Paradox",
+        "story": []
+      },
+      "date": 1414858650508
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f10909dee0200fc5",
+        "text": "The problem of Tacit Knowledge, as identified by [[Michael Polanyi]]."
+      },
+      "id": "f10909dee0200fc5",
+      "date": 1414858660195
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "032371ad57f758d7",
+        "text": "In 1966, the philosopher Michael Polanyi observed, “We can know more than we can tell... The \nskill of a driver cannot be replaced by a thorough schooling in the theory of the motorcar; the \nknowledge I have of my own body differs altogether from the knowledge of its physiology.” \n"
+      },
+      "after": "f10909dee0200fc5",
+      "id": "032371ad57f758d7",
+      "date": 1414858663958
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "0726c98457635522",
+        "text": "Quote\n"
+      },
+      "id": "0726c98457635522",
+      "date": 1414858667818
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4cff043902e4c85f",
+        "text": "From [[Polanyi’s Paradox and the Shape of Employment Growth]]"
+      },
+      "after": "032371ad57f758d7",
+      "id": "4cff043902e4c85f",
+      "date": 1414858670840
+    },
+    {
+      "type": "move",
+      "order": [
+        "f10909dee0200fc5",
+        "0726c98457635522",
+        "032371ad57f758d7",
+        "4cff043902e4c85f"
+      ],
+      "id": "f10909dee0200fc5",
+      "date": 1415032849591
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730310307
+    }
+  ]
+}

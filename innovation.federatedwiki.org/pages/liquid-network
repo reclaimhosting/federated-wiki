@@ -1,0 +1,92 @@
+{
+  "title": "Liquid Network",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "af0a82024db26715",
+      "text": "[[Steven Johnson]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5dc1a2f5daee737c",
+      "text": "Coffeehouses"
+    },
+    {
+      "type": "factory",
+      "id": "667168e92885858f"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Liquid Network",
+        "story": []
+      },
+      "date": 1414682375428
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5dc1a2f5daee737c"
+      },
+      "id": "5dc1a2f5daee737c",
+      "type": "add",
+      "date": 1414682377265
+    },
+    {
+      "type": "edit",
+      "id": "5dc1a2f5daee737c",
+      "item": {
+        "type": "paragraph",
+        "id": "5dc1a2f5daee737c",
+        "text": "Coffeehouses"
+      },
+      "date": 1414682383682
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "af0a82024db26715",
+        "text": ""
+      },
+      "id": "af0a82024db26715",
+      "type": "add",
+      "after": "5dc1a2f5daee737c",
+      "date": 1414682383800
+    },
+    {
+      "type": "edit",
+      "id": "af0a82024db26715",
+      "item": {
+        "type": "paragraph",
+        "id": "af0a82024db26715",
+        "text": "[[Steven Johnson]]"
+      },
+      "date": 1414682392406
+    },
+    {
+      "type": "move",
+      "order": [
+        "af0a82024db26715",
+        "5dc1a2f5daee737c"
+      ],
+      "id": "af0a82024db26715",
+      "date": 1414682394399
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "667168e92885858f"
+      },
+      "id": "667168e92885858f",
+      "type": "add",
+      "after": "5dc1a2f5daee737c",
+      "date": 1415730529841
+    }
+  ]
+}

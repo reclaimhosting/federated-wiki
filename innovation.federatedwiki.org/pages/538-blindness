@@ -1,0 +1,136 @@
+{
+  "title": "538 Blindness",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b50cf95664b0f4c1",
+      "text": "Five-thirty eight has a certain kind of blindness where they don't reference long researched findings, believing numbers \"speak for themselves\". "
+    },
+    {
+      "type": "paragraph",
+      "id": "baef0cf004aebf58",
+      "text": "Here's a classic example: a long article on the \"surprising finding\" that blacks care more about climate changes than white males. [http://fivethirtyeight.com/datalab/the-racial-gap-on-global-warming/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9bdce011f674c477",
+      "text": "The problem? We've long known about the [[White Male Effect]] in sociology (so much so that it is often referred to as the WME). White males have a lower perception of risk because (by and large) they are privileged. Yet the article doesn't bother to reference that. In fact, it doesn't even break out the analysis by gender."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "538 Blindness",
+        "story": []
+      },
+      "date": 1414817155592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b50cf95664b0f4c1"
+      },
+      "id": "b50cf95664b0f4c1",
+      "type": "add",
+      "date": 1414817157212
+    },
+    {
+      "type": "edit",
+      "id": "b50cf95664b0f4c1",
+      "item": {
+        "type": "paragraph",
+        "id": "b50cf95664b0f4c1",
+        "text": "Five-thirty eight has a certain kind of blindness where they don't reference long researched findings, believing numbers \"speak for themselves\". "
+      },
+      "date": 1414817215176
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "baef0cf004aebf58",
+        "text": ""
+      },
+      "id": "baef0cf004aebf58",
+      "type": "add",
+      "after": "b50cf95664b0f4c1",
+      "date": 1414817215205
+    },
+    {
+      "type": "edit",
+      "id": "baef0cf004aebf58",
+      "item": {
+        "type": "paragraph",
+        "id": "baef0cf004aebf58",
+        "text": "Here's a classic example: a long article on the \"surprising finding\" that blacks care more about climate changes than white males. "
+      },
+      "date": 1414817263288
+    },
+    {
+      "type": "edit",
+      "id": "baef0cf004aebf58",
+      "item": {
+        "type": "paragraph",
+        "id": "baef0cf004aebf58",
+        "text": "Here's a classic example: a long article on the \"surprising finding\" that blacks care more about climate changes than white males. [http://fivethirtyeight.com/datalab/the-racial-gap-on-global-warming/html]"
+      },
+      "date": 1414817272636
+    },
+    {
+      "type": "edit",
+      "id": "baef0cf004aebf58",
+      "item": {
+        "type": "paragraph",
+        "id": "baef0cf004aebf58",
+        "text": "Here's a classic example: a long article on the \"surprising finding\" that blacks care more about climate changes than white males. [http://fivethirtyeight.com/datalab/the-racial-gap-on-global-warming/ html]"
+      },
+      "date": 1414817276317
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9bdce011f674c477",
+        "text": ""
+      },
+      "id": "9bdce011f674c477",
+      "type": "add",
+      "after": "baef0cf004aebf58",
+      "date": 1414817278274
+    },
+    {
+      "type": "edit",
+      "id": "9bdce011f674c477",
+      "item": {
+        "type": "paragraph",
+        "id": "9bdce011f674c477",
+        "text": "The problem? We've long known about the [[White Male Effect]] in sociology (so much so that it is often referred to as the WME). White males have a lower perception of risk because (by and large) they are privileged. "
+      },
+      "date": 1414817398240
+    },
+    {
+      "type": "edit",
+      "id": "9bdce011f674c477",
+      "item": {
+        "type": "paragraph",
+        "id": "9bdce011f674c477",
+        "text": "The problem? We've long known about the [[White Male Effect]] in sociology (so much so that it is often referred to as the WME). White males have a lower perception of risk because (by and large) they are privileged. Yet the article doesn't bother to reference that."
+      },
+      "date": 1414817468357
+    },
+    {
+      "type": "edit",
+      "id": "9bdce011f674c477",
+      "item": {
+        "type": "paragraph",
+        "id": "9bdce011f674c477",
+        "text": "The problem? We've long known about the [[White Male Effect]] in sociology (so much so that it is often referred to as the WME). White males have a lower perception of risk because (by and large) they are privileged. Yet the article doesn't bother to reference that. In fact, it doesn't even break out the analysis by gender."
+      },
+      "date": 1414817660239
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730482827
+    }
+  ]
+}

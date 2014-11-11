@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "2194f6a2c08061b5",
       "text": "[[Computer Security]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f72e4a588908842",
+      "text": "[[Languages]]"
     }
   ],
   "journal": [
@@ -50,6 +55,42 @@
       "type": "remove",
       "id": "9be2d83df39c1781",
       "date": 1415654123693
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f72e4a588908842"
+      },
+      "id": "9f72e4a588908842",
+      "type": "add",
+      "after": "2194f6a2c08061b5",
+      "date": 1415736158449
+    },
+    {
+      "type": "edit",
+      "id": "9f72e4a588908842",
+      "item": {
+        "type": "paragraph",
+        "id": "9f72e4a588908842",
+        "text": "[[Languages]]"
+      },
+      "date": 1415736173135
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14f0528cbc244454",
+        "text": ""
+      },
+      "id": "14f0528cbc244454",
+      "type": "add",
+      "after": "9f72e4a588908842",
+      "date": 1415736173159
+    },
+    {
+      "type": "remove",
+      "id": "14f0528cbc244454",
+      "date": 1415736176772
     }
   ]
 }

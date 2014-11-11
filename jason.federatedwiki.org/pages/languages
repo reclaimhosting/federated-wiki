@@ -1,0 +1,71 @@
+{
+  "title": "languages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fe3bd06c0a40ed2a",
+      "text": "[[French]]   I teach this."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "languages",
+        "story": []
+      },
+      "date": 1415736179015
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe3bd06c0a40ed2a"
+      },
+      "id": "fe3bd06c0a40ed2a",
+      "type": "add",
+      "date": 1415736183861
+    },
+    {
+      "type": "edit",
+      "id": "fe3bd06c0a40ed2a",
+      "item": {
+        "type": "paragraph",
+        "id": "fe3bd06c0a40ed2a",
+        "text": "[[French]]   I teach this."
+      },
+      "date": 1415736202994
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e00aea1c2b32410",
+        "text": ""
+      },
+      "id": "4e00aea1c2b32410",
+      "type": "add",
+      "after": "fe3bd06c0a40ed2a",
+      "date": 1415736203017
+    },
+    {
+      "type": "remove",
+      "id": "4e00aea1c2b32410",
+      "date": 1415736204459
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69250ecd3ea70b17",
+        "text": ""
+      },
+      "id": "69250ecd3ea70b17",
+      "type": "add",
+      "after": "fe3bd06c0a40ed2a",
+      "date": 1415736254682
+    },
+    {
+      "type": "remove",
+      "id": "69250ecd3ea70b17",
+      "date": 1415736269042
+    }
+  ]
+}

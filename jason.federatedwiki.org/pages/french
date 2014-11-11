@@ -1,0 +1,81 @@
+{
+  "title": "french",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "64705a9f4d6af020",
+      "text": "[[French Resources]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "french",
+        "story": []
+      },
+      "date": 1415736208377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64705a9f4d6af020"
+      },
+      "id": "64705a9f4d6af020",
+      "type": "add",
+      "date": 1415736466016
+    },
+    {
+      "type": "edit",
+      "id": "64705a9f4d6af020",
+      "item": {
+        "type": "paragraph",
+        "id": "64705a9f4d6af020",
+        "text": "French Resources"
+      },
+      "date": 1415736479277
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "58d5fbdb2008ba11",
+        "text": ""
+      },
+      "id": "58d5fbdb2008ba11",
+      "type": "add",
+      "after": "64705a9f4d6af020",
+      "date": 1415736479292
+    },
+    {
+      "type": "remove",
+      "id": "58d5fbdb2008ba11",
+      "date": 1415736483472
+    },
+    {
+      "type": "edit",
+      "id": "64705a9f4d6af020",
+      "item": {
+        "type": "paragraph",
+        "id": "64705a9f4d6af020",
+        "text": "[[French Resources]]"
+      },
+      "date": 1415736501371
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b0fbcecb216c1b07",
+        "text": ""
+      },
+      "id": "b0fbcecb216c1b07",
+      "type": "add",
+      "after": "64705a9f4d6af020",
+      "date": 1415736501377
+    },
+    {
+      "type": "remove",
+      "id": "b0fbcecb216c1b07",
+      "date": 1415736508097
+    }
+  ]
+}

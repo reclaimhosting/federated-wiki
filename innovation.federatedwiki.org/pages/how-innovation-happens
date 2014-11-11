@@ -1,0 +1,55 @@
+{
+  "title": "How Innovation Happens",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ad2e29e55ed3470e",
+      "text": "An example of innovation is the [[GPS as Idea Collision]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "0b9f79b5b65165ef",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "How Innovation Happens",
+        "story": []
+      },
+      "date": 1415731428922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad2e29e55ed3470e"
+      },
+      "id": "ad2e29e55ed3470e",
+      "type": "add",
+      "date": 1415731433409
+    },
+    {
+      "type": "edit",
+      "id": "ad2e29e55ed3470e",
+      "item": {
+        "type": "paragraph",
+        "id": "ad2e29e55ed3470e",
+        "text": "An example of innovation is the [[GPS as Idea Collision]]."
+      },
+      "date": 1415731487903
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0b9f79b5b65165ef",
+        "text": ""
+      },
+      "id": "0b9f79b5b65165ef",
+      "type": "add",
+      "after": "ad2e29e55ed3470e",
+      "date": 1415731487918
+    }
+  ]
+}

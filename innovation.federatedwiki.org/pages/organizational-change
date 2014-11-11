@@ -1,0 +1,151 @@
+{
+  "title": "Organizational Change",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "02fc8fc5115f4aad",
+      "text": "Your organization is ruled by [[Ten Thousand Clerks]], as part of a system of [[Double Government]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "b97b17d36f6c3b66",
+      "text": "People like money, but they'd rather be [[Loved and Lovely]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "a95974d38d5942bf",
+      "text": "It's tempting to want to change top down only, but [[Lysenkoism]] has an ugly history."
+    },
+    {
+      "type": "paragraph",
+      "id": "d6cd3478978a7fa2",
+      "text": "We love the [[Eden Myth]], so maybe your change should be presented as a [[Return to the Garden]]."
+    },
+    {
+      "type": "factory",
+      "id": "fbf46f5a258c7c58"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Organizational Change",
+        "story": []
+      },
+      "date": 1415731514521
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02fc8fc5115f4aad"
+      },
+      "id": "02fc8fc5115f4aad",
+      "type": "add",
+      "date": 1415731517519
+    },
+    {
+      "type": "edit",
+      "id": "02fc8fc5115f4aad",
+      "item": {
+        "type": "paragraph",
+        "id": "02fc8fc5115f4aad",
+        "text": "Your organization is ruled by [[Ten Thousand Clerks]]."
+      },
+      "date": 1415731542287
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b97b17d36f6c3b66",
+        "text": ""
+      },
+      "id": "b97b17d36f6c3b66",
+      "type": "add",
+      "after": "02fc8fc5115f4aad",
+      "date": 1415731542302
+    },
+    {
+      "type": "edit",
+      "id": "b97b17d36f6c3b66",
+      "item": {
+        "type": "paragraph",
+        "id": "b97b17d36f6c3b66",
+        "text": "People like money, but they'd rather be [[Loved and Lovely]]"
+      },
+      "date": 1415731577490
+    },
+    {
+      "type": "edit",
+      "id": "02fc8fc5115f4aad",
+      "item": {
+        "type": "paragraph",
+        "id": "02fc8fc5115f4aad",
+        "text": "Your organization is ruled by [[Ten Thousand Clerks]], as part of a system of [[Double Government]]."
+      },
+      "date": 1415731633535
+    },
+    {
+      "type": "edit",
+      "id": "b97b17d36f6c3b66",
+      "item": {
+        "type": "paragraph",
+        "id": "b97b17d36f6c3b66",
+        "text": "People like money, but they'd rather be [[Loved and Lovely]]."
+      },
+      "date": 1415731653182
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a95974d38d5942bf",
+        "text": ""
+      },
+      "id": "a95974d38d5942bf",
+      "type": "add",
+      "after": "b97b17d36f6c3b66",
+      "date": 1415731653206
+    },
+    {
+      "type": "edit",
+      "id": "a95974d38d5942bf",
+      "item": {
+        "type": "paragraph",
+        "id": "a95974d38d5942bf",
+        "text": "It's tempting to want to change top down only, but [[Lysenkoism]] has an ugly history."
+      },
+      "date": 1415731690206
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6cd3478978a7fa2",
+        "text": ""
+      },
+      "id": "d6cd3478978a7fa2",
+      "type": "add",
+      "after": "a95974d38d5942bf",
+      "date": 1415731703340
+    },
+    {
+      "type": "edit",
+      "id": "d6cd3478978a7fa2",
+      "item": {
+        "type": "paragraph",
+        "id": "d6cd3478978a7fa2",
+        "text": "We love the [[Eden Myth]], so maybe your change should be presented as a [[Return to the Garden]]."
+      },
+      "date": 1415731742702
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbf46f5a258c7c58"
+      },
+      "id": "fbf46f5a258c7c58",
+      "type": "add",
+      "after": "d6cd3478978a7fa2",
+      "date": 1415731789342
+    }
+  ]
+}

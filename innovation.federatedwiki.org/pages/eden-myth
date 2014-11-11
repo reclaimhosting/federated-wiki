@@ -4,12 +4,17 @@
     {
       "type": "paragraph",
       "id": "2a21da259782ad35",
-      "text": "Eden Myths postulate a previous time free of problems. In the most common version of the myth, choices are made which lead to a currently fallen state. "
+      "text": "Eden Myths postulate a previous time free of problems. In the most common version of the myth, choices are made which lead to a currently fallen state. These myths are presented with a call to [[Return to the Garden]]."
     },
     {
       "type": "paragraph",
       "id": "9886ad67becd89ec",
-      "text": "An example of an Eden Myth is the idea that crops used to be much more nutritious and various before human intervention. In point of fact, wild versions of things like [[Ancient Corn]] kind of sucked. "
+      "text": "A simple example of an Eden Myth is the idea that crops used to be much more nutritious and various before human intervention. In point of fact, wild versions of things like [[Ancient Corn]] kind of sucked. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cae35099b8d9868e",
+      "text": "More complex Eden Myths involve the nuclear family of the 1950s, the engaged student base of the 1960s, the pre-corporate Internet of the late 80s and early 90s."
     }
   ],
   "journal": [
@@ -65,6 +70,47 @@
       "type": "fork",
       "site": "journal14.hapgood.net:3000",
       "date": 1415729904761
+    },
+    {
+      "type": "edit",
+      "id": "2a21da259782ad35",
+      "item": {
+        "type": "paragraph",
+        "id": "2a21da259782ad35",
+        "text": "Eden Myths postulate a previous time free of problems. In the most common version of the myth, choices are made which lead to a currently fallen state. These myths are presented with a call to [[Return to the Garden]]."
+      },
+      "date": 1415744526644
+    },
+    {
+      "type": "edit",
+      "id": "9886ad67becd89ec",
+      "item": {
+        "type": "paragraph",
+        "id": "9886ad67becd89ec",
+        "text": "A simple example of an Eden Myth is the idea that crops used to be much more nutritious and various before human intervention. In point of fact, wild versions of things like [[Ancient Corn]] kind of sucked. "
+      },
+      "date": 1415744543090
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cae35099b8d9868e",
+        "text": ""
+      },
+      "id": "cae35099b8d9868e",
+      "type": "add",
+      "after": "9886ad67becd89ec",
+      "date": 1415744627310
+    },
+    {
+      "type": "edit",
+      "id": "cae35099b8d9868e",
+      "item": {
+        "type": "paragraph",
+        "id": "cae35099b8d9868e",
+        "text": "More complex Eden Myths involve the nuclear family of the 1950s, the engaged student base of the 1960s, the pre-corporate Internet of the late 80s and early 90s."
+      },
+      "date": 1415744796249
     }
   ]
 }

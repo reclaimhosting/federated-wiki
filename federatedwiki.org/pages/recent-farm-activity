@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ffcace74882e5300"
+      "id": "ba8f0c046ede5c5d"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f0fd000b6a388260"
+      "id": "076a66236f232ec7"
     },
     {
-      "date": 1415662801000,
+      "date": 1415663995000,
+      "site": "max.federatedwiki.org",
+      "slug": "composition",
+      "title": "composition",
+      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "86ea03062c7577b9"
+    },
+    {
+      "date": 1415663401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "01da6c5a229a0c9b"
+      "id": "8ee0cbebdba10020"
     },
     {
       "date": 1415660571000,
@@ -27,16 +36,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
       "type": "reference",
-      "id": "83b2c8737f16e82e"
-    },
-    {
-      "date": 1415655148000,
-      "site": "max.federatedwiki.org",
-      "slug": "how-to-plan-an-oral-presentation",
-      "title": "how to plan an oral presentation",
-      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 10 pages.",
-      "type": "reference",
-      "id": "859e79dd62bc1601"
+      "id": "83d11457a924a603"
     },
     {
       "date": 1415654270000,
@@ -45,7 +45,7 @@
       "title": "HTTPS",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 8 pages.",
       "type": "reference",
-      "id": "18373ceff12ad09c"
+      "id": "291d2e92366dd698"
     },
     {
       "date": 1415588468000,
@@ -54,7 +54,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
       "type": "reference",
-      "id": "8a7f3c48f45733b4"
+      "id": "cd3c785d049c89dc"
     },
     {
       "date": 1415556980000,
@@ -63,7 +63,7 @@
       "title": "Large Animated Gif",
       "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "4b0ee05f9f46f48d"
+      "id": "0a01d0b72eb5f8fb"
     },
     {
       "date": 1415545305000,
@@ -72,55 +72,69 @@
       "title": "Own a Space",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "3e6a88155e4a9b17"
+      "id": "89d8757f0e8fb491"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "042f2419f1817c3f",
+      "id": "0ca3aa6c59b0e5d1",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "ffcace74882e5300",
+      "id": "ba8f0c046ede5c5d",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ffcace74882e5300"
+        "id": "ba8f0c046ede5c5d"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "f0fd000b6a388260",
+      "id": "076a66236f232ec7",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f0fd000b6a388260"
+        "id": "076a66236f232ec7"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "01da6c5a229a0c9b",
+      "id": "86ea03062c7577b9",
       "item": {
-        "date": 1415662801000,
+        "date": 1415663995000,
+        "site": "max.federatedwiki.org",
+        "slug": "composition",
+        "title": "composition",
+        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "86ea03062c7577b9"
+      },
+      "date": 1415664001000
+    },
+    {
+      "type": "add",
+      "id": "8ee0cbebdba10020",
+      "item": {
+        "date": 1415663401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "01da6c5a229a0c9b"
+        "id": "8ee0cbebdba10020"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "83b2c8737f16e82e",
+      "id": "83d11457a924a603",
       "item": {
         "date": 1415660571000,
         "site": "rosano.federatedwiki.org",
@@ -128,27 +142,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
         "type": "reference",
-        "id": "83b2c8737f16e82e"
+        "id": "83d11457a924a603"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "859e79dd62bc1601",
-      "item": {
-        "date": 1415655148000,
-        "site": "max.federatedwiki.org",
-        "slug": "how-to-plan-an-oral-presentation",
-        "title": "how to plan an oral presentation",
-        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 10 pages.",
-        "type": "reference",
-        "id": "859e79dd62bc1601"
-      },
-      "date": 1415663401000
-    },
-    {
-      "type": "add",
-      "id": "18373ceff12ad09c",
+      "id": "291d2e92366dd698",
       "item": {
         "date": 1415654270000,
         "site": "jason.federatedwiki.org",
@@ -156,13 +156,13 @@
         "title": "HTTPS",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 8 pages.",
         "type": "reference",
-        "id": "18373ceff12ad09c"
+        "id": "291d2e92366dd698"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "8a7f3c48f45733b4",
+      "id": "cd3c785d049c89dc",
       "item": {
         "date": 1415588468000,
         "site": "tim.federatedwiki.org",
@@ -170,13 +170,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
         "type": "reference",
-        "id": "8a7f3c48f45733b4"
+        "id": "cd3c785d049c89dc"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "4b0ee05f9f46f48d",
+      "id": "0a01d0b72eb5f8fb",
       "item": {
         "date": 1415556980000,
         "site": "mike.journal.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "Large Animated Gif",
         "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "4b0ee05f9f46f48d"
+        "id": "0a01d0b72eb5f8fb"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     },
     {
       "type": "add",
-      "id": "3e6a88155e4a9b17",
+      "id": "89d8757f0e8fb491",
       "item": {
         "date": 1415545305000,
         "site": "ward.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "Own a Space",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "3e6a88155e4a9b17"
+        "id": "89d8757f0e8fb491"
       },
-      "date": 1415663401000
+      "date": 1415664001000
     }
   ]
 }

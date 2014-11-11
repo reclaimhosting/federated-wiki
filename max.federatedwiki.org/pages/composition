@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "161fc9dd4d80008f",
       "text": "[[how to plan an oral presentation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "794e5807237321e7",
+      "text": "[[writing an essay]]"
     }
   ],
   "journal": [
@@ -86,6 +91,26 @@
         "text": "[[how to plan an oral presentation]]"
       },
       "date": 1415658485799
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "794e5807237321e7"
+      },
+      "id": "794e5807237321e7",
+      "type": "add",
+      "after": "161fc9dd4d80008f",
+      "date": 1415667923580
+    },
+    {
+      "type": "edit",
+      "id": "794e5807237321e7",
+      "item": {
+        "type": "paragraph",
+        "id": "794e5807237321e7",
+        "text": "[[writing an essay]]"
+      },
+      "date": 1415667949669
     }
   ]
 }

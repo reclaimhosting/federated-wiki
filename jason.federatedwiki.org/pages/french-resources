@@ -1,6 +1,12 @@
 {
   "title": "French Resources",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7f4e13f2020ec492",
+      "text": "[[Special 14-18 Enfants - RTBF TV]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,41 @@
         "story": []
       },
       "date": 1415736508207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f4e13f2020ec492"
+      },
+      "id": "7f4e13f2020ec492",
+      "type": "add",
+      "date": 1415736632596
+    },
+    {
+      "type": "edit",
+      "id": "7f4e13f2020ec492",
+      "item": {
+        "type": "paragraph",
+        "id": "7f4e13f2020ec492",
+        "text": "[[Special 14-18 Enfants - RTBF TV]]"
+      },
+      "date": 1415736657126
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e53aefaa717309e5",
+        "text": ""
+      },
+      "id": "e53aefaa717309e5",
+      "type": "add",
+      "after": "7f4e13f2020ec492",
+      "date": 1415736657146
+    },
+    {
+      "type": "remove",
+      "id": "e53aefaa717309e5",
+      "date": 1415736661430
     }
   ]
 }

@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "950a073de8f69387",
       "text": "then you will add each of your other ideas in a different area."
+    },
+    {
+      "type": "paragraph",
+      "id": "c0e37e01640b4b4d",
+      "text": "for your conclusion you can add some of the details you had in your first paragraph and then you can write a concludeing sentance"
     }
   ],
   "journal": [
@@ -138,6 +143,43 @@
         "text": "then you will add each of your other ideas in a different area."
       },
       "date": 1415680468633
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0e37e01640b4b4d",
+        "text": ""
+      },
+      "id": "c0e37e01640b4b4d",
+      "type": "add",
+      "after": "950a073de8f69387",
+      "date": 1415680596190
+    },
+    {
+      "type": "edit",
+      "id": "c0e37e01640b4b4d",
+      "item": {
+        "type": "paragraph",
+        "id": "c0e37e01640b4b4d",
+        "text": "for your conclusion you can add some of the details you had in your first paragraph and then you can write a concludeing sentance"
+      },
+      "date": 1415680738772
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f6cf61b0afa890cf",
+        "text": ""
+      },
+      "id": "f6cf61b0afa890cf",
+      "type": "add",
+      "after": "c0e37e01640b4b4d",
+      "date": 1415680738792
+    },
+    {
+      "type": "remove",
+      "id": "f6cf61b0afa890cf",
+      "date": 1415680742297
     }
   ]
 }

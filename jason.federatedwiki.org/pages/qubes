@@ -33,6 +33,11 @@
     },
     {
       "type": "paragraph",
+      "id": "9308452f142e5ea5",
+      "text": "Unlike Tails, Qubes is not intended to enhance privacy."
+    },
+    {
+      "type": "paragraph",
       "id": "94216c25a57befa1",
       "text": "Tags"
     },
@@ -40,11 +45,6 @@
       "type": "paragraph",
       "id": "3d5cbf10f13618e6",
       "text": "security, os, software, virtualization"
-    },
-    {
-      "type": "paragraph",
-      "id": "b0fd198d795836d6",
-      "text": ""
     }
   ],
   "journal": [
@@ -207,6 +207,48 @@
       "type": "add",
       "after": "3d5cbf10f13618e6",
       "date": 1415732783960
+    },
+    {
+      "type": "remove",
+      "id": "b0fd198d795836d6",
+      "date": 1415733246492
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9308452f142e5ea5",
+        "text": ""
+      },
+      "id": "9308452f142e5ea5",
+      "type": "add",
+      "after": "d9bdb425a53da2ad",
+      "date": 1415733413678
+    },
+    {
+      "type": "edit",
+      "id": "9308452f142e5ea5",
+      "item": {
+        "type": "paragraph",
+        "id": "9308452f142e5ea5",
+        "text": "Unlike Tails, Qubes is not intended to enhance privacy."
+      },
+      "date": 1415733439977
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "32f2fdc7ad1d7e03",
+        "text": ""
+      },
+      "id": "32f2fdc7ad1d7e03",
+      "type": "add",
+      "after": "9308452f142e5ea5",
+      "date": 1415733439989
+    },
+    {
+      "type": "remove",
+      "id": "32f2fdc7ad1d7e03",
+      "date": 1415733443827
     }
   ]
 }

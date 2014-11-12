@@ -1,0 +1,82 @@
+{
+  "title": "Chromebooks Outselling iPads in Schools",
+  "story": [
+    {
+      "type": "factory",
+      "id": "72b74dc42676fd27"
+    },
+    {
+      "type": "paragraph",
+      "id": "6dd2c0fae03f8a81",
+      "text": "Regarding federated wiki this means that Chromebook is likely a platform that will have to be supported for adoption in the K-12 market."
+    },
+    {
+      "type": "factory",
+      "id": "3a2e363d217b6a3a"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Chromebooks Outselling iPads in Schools",
+        "story": []
+      },
+      "date": 1415771756895
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72b74dc42676fd27"
+      },
+      "id": "72b74dc42676fd27",
+      "type": "add",
+      "date": 1415771758144
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6dd2c0fae03f8a81",
+        "text": ""
+      },
+      "id": "6dd2c0fae03f8a81",
+      "type": "add",
+      "after": "72b74dc42676fd27",
+      "date": 1415771887699
+    },
+    {
+      "type": "edit",
+      "id": "6dd2c0fae03f8a81",
+      "item": {
+        "type": "paragraph",
+        "id": "6dd2c0fae03f8a81",
+        "text": "Regarding federated wiki this means that Chromebook is likely a pattern that will have to be supported for adoption in the K-12 market."
+      },
+      "date": 1415771964679
+    },
+    {
+      "type": "edit",
+      "id": "6dd2c0fae03f8a81",
+      "item": {
+        "type": "paragraph",
+        "id": "6dd2c0fae03f8a81",
+        "text": "Regarding federated wiki this means that Chromebook is likely a platform that will have to be supported for adoption in the K-12 market."
+      },
+      "date": 1415771979823
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a2e363d217b6a3a"
+      },
+      "id": "3a2e363d217b6a3a",
+      "type": "add",
+      "after": "6dd2c0fae03f8a81",
+      "date": 1415805916886
+    }
+  ]
+}

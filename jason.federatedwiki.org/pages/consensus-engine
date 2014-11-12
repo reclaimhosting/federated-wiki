@@ -1,0 +1,175 @@
+{
+  "title": "consensus engine",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7c54b3b10ca312a9",
+      "text": "Mike Caulfield's term for the way a tool like Wikipedia drives multiple opinions towards a single canonical version of reality:"
+    },
+    {
+      "type": "paragraph",
+      "id": "a68a5cd8e29dbe4e",
+      "text": "-----quote from Mike Caulfield----"
+    },
+    {
+      "type": "paragraph",
+      "id": "65e2ecd876387f88",
+      "text": "If you find a community online big enough to be socially interesting it comes with this baggage. You have an idea, you hear a fact, you learn a technique you want to share.\n\nYou go online to share it and you’re teleported past the personal and dialogic and suddenly find yourself having to defend the inclusion of this fact or this edit FOR ALL TIME. In many cases, you’re arguing with *pedants*, and even where the conversation stays amicable, is this really how you want to start your day?\n\nAnd it gets worse, because if you lose that battle (notability, accuracy, citations, linked ideas — whatever the battle is) your contribution disappears. It’s easy to say that it’s all in the revision history, but in practice what Google can’t see does not exist, and Google can’t see that revision history."
+    },
+    {
+      "type": "paragraph",
+      "id": "56ce187d4bd2214c",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "c022cc9c87bb457f",
+      "text": "from [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ Federated Education: New Directions in Digital Collaboration]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "consensus engine",
+        "story": []
+      },
+      "date": 1415816472406
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c54b3b10ca312a9"
+      },
+      "id": "7c54b3b10ca312a9",
+      "type": "add",
+      "date": 1415816487953
+    },
+    {
+      "type": "edit",
+      "id": "7c54b3b10ca312a9",
+      "item": {
+        "type": "paragraph",
+        "id": "7c54b3b10ca312a9",
+        "text": "Mike Caulfield's term for the way "
+      },
+      "date": 1415816513033
+    },
+    {
+      "type": "edit",
+      "id": "7c54b3b10ca312a9",
+      "item": {
+        "type": "paragraph",
+        "id": "7c54b3b10ca312a9",
+        "text": "Mike Caulfield's term for the way a tool like Wikipedia drives multiple opinions towards a single canonical version of reality:"
+      },
+      "date": 1415816630175
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a68a5cd8e29dbe4e",
+        "text": ""
+      },
+      "id": "a68a5cd8e29dbe4e",
+      "type": "add",
+      "after": "7c54b3b10ca312a9",
+      "date": 1415816630216
+    },
+    {
+      "type": "edit",
+      "id": "a68a5cd8e29dbe4e",
+      "item": {
+        "type": "paragraph",
+        "id": "a68a5cd8e29dbe4e",
+        "text": "-----quote from Mike Caulfield----"
+      },
+      "date": 1415816645705
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65e2ecd876387f88",
+        "text": ""
+      },
+      "id": "65e2ecd876387f88",
+      "type": "add",
+      "after": "a68a5cd8e29dbe4e",
+      "date": 1415816645725
+    },
+    {
+      "type": "edit",
+      "id": "65e2ecd876387f88",
+      "item": {
+        "type": "paragraph",
+        "id": "65e2ecd876387f88",
+        "text": "If you find a community online big enough to be socially interesting it comes with this baggage. You have an idea, you hear a fact, you learn a technique you want to share.\n\nYou go online to share it and you’re teleported past the personal and dialogic and suddenly find yourself having to defend the inclusion of this fact or this edit FOR ALL TIME. In many cases, you’re arguing with *pedants*, and even where the conversation stays amicable, is this really how you want to start your day?\n\nAnd it gets worse, because if you lose that battle (notability, accuracy, citations, linked ideas — whatever the battle is) your contribution disappears. It’s easy to say that it’s all in the revision history, but in practice what Google can’t see does not exist, and Google can’t see that revision history."
+      },
+      "date": 1415816658355
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "56ce187d4bd2214c",
+        "text": ""
+      },
+      "id": "56ce187d4bd2214c",
+      "type": "add",
+      "after": "65e2ecd876387f88",
+      "date": 1415816658413
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d16cbc146c038880",
+        "text": ""
+      },
+      "id": "d16cbc146c038880",
+      "type": "add",
+      "after": "56ce187d4bd2214c",
+      "date": 1415816664360
+    },
+    {
+      "type": "remove",
+      "id": "d16cbc146c038880",
+      "date": 1415816675551
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c022cc9c87bb457f",
+        "text": ""
+      },
+      "id": "c022cc9c87bb457f",
+      "type": "add",
+      "after": "56ce187d4bd2214c",
+      "date": 1415816707797
+    },
+    {
+      "type": "edit",
+      "id": "c022cc9c87bb457f",
+      "item": {
+        "type": "paragraph",
+        "id": "c022cc9c87bb457f",
+        "text": "from [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ Federated Education: New Directions in Digital Collaboration]"
+      },
+      "date": 1415816734710
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb4f95bddcc91cdb",
+        "text": ""
+      },
+      "id": "bb4f95bddcc91cdb",
+      "type": "add",
+      "after": "c022cc9c87bb457f",
+      "date": 1415816734726
+    },
+    {
+      "type": "remove",
+      "id": "bb4f95bddcc91cdb",
+      "date": 1415816751962
+    }
+  ]
+}

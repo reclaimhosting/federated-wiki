@@ -1,0 +1,153 @@
+{
+  "title": "www.newbyz.org",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be63250c95a5b787",
+      "text": "Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5b873763996cd0",
+      "text": "New Byzantium Publications"
+    },
+    {
+      "type": "paragraph",
+      "id": "03c62cff1bd222c8",
+      "text": "URI"
+    },
+    {
+      "type": "paragraph",
+      "id": "72e0e8aaee66be79",
+      "text": "[http://www.newbyz.org/ http://www.newbyz.org/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a798414bd7f58c9",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "articles, some scores - of particular note is "
+    },
+    {
+      "type": "paragraph",
+      "id": "94216c25a57befa1",
+      "text": "Tags"
+    },
+    {
+      "type": "factory",
+      "id": "3d5cbf10f13618e6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "www.newbyz.org",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "be63250c95a5b787",
+            "text": "Title"
+          },
+          {
+            "type": "factory",
+            "id": "5a5b873763996cd0"
+          },
+          {
+            "type": "paragraph",
+            "id": "03c62cff1bd222c8",
+            "text": "URI"
+          },
+          {
+            "type": "factory",
+            "id": "72e0e8aaee66be79"
+          },
+          {
+            "type": "paragraph",
+            "id": "7a798414bd7f58c9",
+            "text": "Description"
+          },
+          {
+            "type": "factory",
+            "id": "232f5da2f64edc93"
+          },
+          {
+            "type": "paragraph",
+            "id": "94216c25a57befa1",
+            "text": "Tags"
+          },
+          {
+            "type": "factory",
+            "id": "3d5cbf10f13618e6"
+          }
+        ]
+      },
+      "date": 1415763198556
+    },
+    {
+      "type": "edit",
+      "id": "5a5b873763996cd0",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5b873763996cd0",
+        "text": "New Byzantium Publications"
+      },
+      "date": 1415763252202
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db9db9e1fb3b479e",
+        "text": ""
+      },
+      "id": "db9db9e1fb3b479e",
+      "type": "add",
+      "after": "5a5b873763996cd0",
+      "date": 1415763252221
+    },
+    {
+      "type": "remove",
+      "id": "db9db9e1fb3b479e",
+      "date": 1415763257087
+    },
+    {
+      "type": "edit",
+      "id": "72e0e8aaee66be79",
+      "item": {
+        "type": "paragraph",
+        "id": "72e0e8aaee66be79",
+        "text": "[http://www.newbyz.org/ http://www.newbyz.org/]"
+      },
+      "date": 1415763281704
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67ef388bcae8b5a8",
+        "text": ""
+      },
+      "id": "67ef388bcae8b5a8",
+      "type": "add",
+      "after": "72e0e8aaee66be79",
+      "date": 1415763281720
+    },
+    {
+      "type": "remove",
+      "id": "67ef388bcae8b5a8",
+      "date": 1415763286647
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "articles, some scores - of particular note is "
+      },
+      "date": 1415763605616
+    }
+  ]
+}

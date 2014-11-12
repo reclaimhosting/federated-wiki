@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "93e53428c1709d64",
       "text": "[[byzantinechant.org]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "66c944c0d4152d80",
+      "text": "[[www.newbyz.org]]"
     }
   ],
   "journal": [
@@ -91,6 +96,78 @@
       "type": "remove",
       "id": "352d83debabe0f17",
       "date": 1415742898427
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "66c944c0d4152d80"
+      },
+      "id": "66c944c0d4152d80",
+      "type": "add",
+      "after": "93e53428c1709d64",
+      "date": 1415763122267
+    },
+    {
+      "type": "edit",
+      "id": "66c944c0d4152d80",
+      "item": {
+        "type": "paragraph",
+        "id": "66c944c0d4152d80",
+        "text": "[["
+      },
+      "date": 1415763143300
+    },
+    {
+      "type": "edit",
+      "id": "66c944c0d4152d80",
+      "item": {
+        "type": "paragraph",
+        "id": "66c944c0d4152d80",
+        "text": "[[www.newbyz.org www.newbyz.org]]"
+      },
+      "date": 1415763172609
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "324f69a8752d4c97",
+        "text": ""
+      },
+      "id": "324f69a8752d4c97",
+      "type": "add",
+      "after": "66c944c0d4152d80",
+      "date": 1415763172627
+    },
+    {
+      "type": "remove",
+      "id": "324f69a8752d4c97",
+      "date": 1415763174610
+    },
+    {
+      "type": "edit",
+      "id": "66c944c0d4152d80",
+      "item": {
+        "type": "paragraph",
+        "id": "66c944c0d4152d80",
+        "text": "[[www.newbyz.org]]"
+      },
+      "date": 1415763193887
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab05980c3f4a41c1",
+        "text": ""
+      },
+      "id": "ab05980c3f4a41c1",
+      "type": "add",
+      "after": "66c944c0d4152d80",
+      "date": 1415763193902
+    },
+    {
+      "type": "remove",
+      "id": "ab05980c3f4a41c1",
+      "date": 1415763198302
     }
   ]
 }

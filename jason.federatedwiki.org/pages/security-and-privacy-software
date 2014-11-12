@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "16fd2141cc257f91",
       "text": "[[Qubes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9afce43650da088f",
+      "text": "[[Mailpile]]"
     }
   ],
   "journal": [
@@ -137,6 +142,42 @@
       "type": "remove",
       "id": "70d6ad9bbee4af82",
       "date": 1415732659106
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9afce43650da088f"
+      },
+      "id": "9afce43650da088f",
+      "type": "add",
+      "after": "16fd2141cc257f91",
+      "date": 1415761442854
+    },
+    {
+      "type": "edit",
+      "id": "9afce43650da088f",
+      "item": {
+        "type": "paragraph",
+        "id": "9afce43650da088f",
+        "text": "[[Mailpile]]"
+      },
+      "date": 1415761461217
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e807f3b6eaa6ba22",
+        "text": ""
+      },
+      "id": "e807f3b6eaa6ba22",
+      "type": "add",
+      "after": "9afce43650da088f",
+      "date": 1415761461234
+    },
+    {
+      "type": "remove",
+      "id": "e807f3b6eaa6ba22",
+      "date": 1415761472527
     }
   ]
 }

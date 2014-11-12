@@ -1,0 +1,132 @@
+{
+  "title": "Mailpile",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be63250c95a5b787",
+      "text": "Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5b873763996cd0",
+      "text": "Mailpile"
+    },
+    {
+      "type": "paragraph",
+      "id": "03c62cff1bd222c8",
+      "text": "URI"
+    },
+    {
+      "type": "paragraph",
+      "id": "72e0e8aaee66be79",
+      "text": "[https://www.mailpile.is/ https://www.mailpile.is/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a798414bd7f58c9",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "FLOSS MUA with built-in OpenPGP support. Currently in beta.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "94216c25a57befa1",
+      "text": "Tags"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d5cbf10f13618e6",
+      "text": "mail , encryption , software , opensource , "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mailpile",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "be63250c95a5b787",
+            "text": "Title"
+          },
+          {
+            "type": "factory",
+            "id": "5a5b873763996cd0"
+          },
+          {
+            "type": "paragraph",
+            "id": "03c62cff1bd222c8",
+            "text": "URI"
+          },
+          {
+            "type": "factory",
+            "id": "72e0e8aaee66be79"
+          },
+          {
+            "type": "paragraph",
+            "id": "7a798414bd7f58c9",
+            "text": "Description"
+          },
+          {
+            "type": "factory",
+            "id": "232f5da2f64edc93"
+          },
+          {
+            "type": "paragraph",
+            "id": "94216c25a57befa1",
+            "text": "Tags"
+          },
+          {
+            "type": "factory",
+            "id": "3d5cbf10f13618e6"
+          }
+        ]
+      },
+      "date": 1415761472790
+    },
+    {
+      "type": "edit",
+      "id": "5a5b873763996cd0",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5b873763996cd0",
+        "text": "Mailpile"
+      },
+      "date": 1415761675857
+    },
+    {
+      "type": "edit",
+      "id": "72e0e8aaee66be79",
+      "item": {
+        "type": "paragraph",
+        "id": "72e0e8aaee66be79",
+        "text": "[https://www.mailpile.is/ https://www.mailpile.is/]"
+      },
+      "date": 1415761698413
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "FLOSS MUA with built-in OpenPGP support. Currently in beta.  "
+      },
+      "date": 1415761740154
+    },
+    {
+      "type": "edit",
+      "id": "3d5cbf10f13618e6",
+      "item": {
+        "type": "paragraph",
+        "id": "3d5cbf10f13618e6",
+        "text": "mail , encryption , software , opensource , "
+      },
+      "date": 1415761771504
+    }
+  ]
+}

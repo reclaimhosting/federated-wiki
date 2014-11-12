@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "fe3bd06c0a40ed2a",
       "text": "[[French]]   I teach this."
+    },
+    {
+      "type": "pagefold",
+      "id": "a155eff4b85b0897",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e2d716c689990a9",
+      "text": "[[The Role of L1 Grammar in Second Language Learning]]"
     }
   ],
   "journal": [
@@ -66,6 +76,87 @@
       "type": "remove",
       "id": "69250ecd3ea70b17",
       "date": 1415736269042
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "517d24a6dd801f71"
+      },
+      "id": "517d24a6dd801f71",
+      "type": "add",
+      "after": "fe3bd06c0a40ed2a",
+      "date": 1415817893628
+    },
+    {
+      "type": "remove",
+      "id": "517d24a6dd801f71",
+      "date": 1415817905105
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e2d716c689990a9"
+      },
+      "id": "3e2d716c689990a9",
+      "type": "add",
+      "after": "fe3bd06c0a40ed2a",
+      "date": 1415817908361
+    },
+    {
+      "type": "edit",
+      "id": "3e2d716c689990a9",
+      "item": {
+        "type": "paragraph",
+        "id": "3e2d716c689990a9",
+        "text": "[[The Role of L1 Grammar in Second Language Learning]]"
+      },
+      "date": 1415817943692
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f92b8959d60950e5",
+        "text": ""
+      },
+      "id": "f92b8959d60950e5",
+      "type": "add",
+      "after": "3e2d716c689990a9",
+      "date": 1415817943725
+    },
+    {
+      "type": "remove",
+      "id": "f92b8959d60950e5",
+      "date": 1415817947494
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a155eff4b85b0897"
+      },
+      "id": "a155eff4b85b0897",
+      "type": "add",
+      "after": "3e2d716c689990a9",
+      "date": 1415817953292
+    },
+    {
+      "type": "edit",
+      "id": "a155eff4b85b0897",
+      "item": {
+        "type": "pagefold",
+        "id": "a155eff4b85b0897",
+        "text": "\n"
+      },
+      "date": 1415817960990
+    },
+    {
+      "type": "move",
+      "order": [
+        "fe3bd06c0a40ed2a",
+        "a155eff4b85b0897",
+        "3e2d716c689990a9"
+      ],
+      "id": "3e2d716c689990a9",
+      "date": 1415817967718
     }
   ]
 }

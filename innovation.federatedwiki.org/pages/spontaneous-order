@@ -3,6 +3,16 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "fb5c908d7e7d30e6",
+      "text": "Phrase adopted by [[Michael Polanyi]] to describe the emergent structure of scientific enterprise. Implicitly argues that centralizing scientific decisions degrades science, a reaction to the [[Lysenkoism]] of the Soviet Union of his time. "
+    },
+    {
+      "type": "pagefold",
+      "id": "3826868877014193",
+      "text": "Quoting Michael Polanyi"
+    },
+    {
+      "type": "paragraph",
       "id": "2392bd1d0683e613",
       "text": " "
     },
@@ -12,9 +22,9 @@
       "text": "\"[S]cientists, freely making their own choice of problems and pursuing them in the light of their own personal judgment, are in fact co-operating as members of a closely knit organization.\"\n\n\"Such self-co-ordination of independent initiatives leads to a joint result which is unpremeditated by any of those who bring it about.\"\n\n\"Any attempt to organize the group ... under a single authority would eliminate their independent initiatives, and thus reduce their joint effectiveness to that of the single person directing them from the centre. It would, in effect, paralyse their co-operation.\""
     },
     {
-      "type": "paragraph",
-      "id": "fb5c908d7e7d30e6",
-      "text": "Phrase adopted by [[Michael Polanyi]] to describe the emergent structure of scientific enterprise. Implicitly argues that centralizing scientific decisions degrades science, a reaction to the [[Lysenkoism]] of the Soviet Union of his time. "
+      "type": "pagefold",
+      "id": "e135b0a7b9ba99cf",
+      "text": "."
     },
     {
       "type": "paragraph",
@@ -299,6 +309,96 @@
       "type": "fork",
       "site": "journal14.hapgood.net:3000",
       "date": 1415730187784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3826868877014193"
+      },
+      "id": "3826868877014193",
+      "type": "add",
+      "after": "2958780d61044056",
+      "date": 1415751222469
+    },
+    {
+      "type": "edit",
+      "id": "3826868877014193",
+      "item": {
+        "type": "pagefold",
+        "id": "3826868877014193",
+        "text": "Quoting Michael Polanyi"
+      },
+      "date": 1415751238974
+    },
+    {
+      "type": "move",
+      "order": [
+        "3826868877014193",
+        "2392bd1d0683e613",
+        "e53fa2238fd88455",
+        "fb5c908d7e7d30e6",
+        "fe3d2fadd9779d9b",
+        "10e8dd6b4c610ec6",
+        "9044a6d8e37eb265",
+        "4b280abce3566866",
+        "2958780d61044056"
+      ],
+      "id": "3826868877014193",
+      "date": 1415751244377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e135b0a7b9ba99cf"
+      },
+      "id": "e135b0a7b9ba99cf",
+      "type": "add",
+      "after": "2958780d61044056",
+      "date": 1415751249821
+    },
+    {
+      "type": "edit",
+      "id": "e135b0a7b9ba99cf",
+      "item": {
+        "type": "pagefold",
+        "id": "e135b0a7b9ba99cf",
+        "text": "."
+      },
+      "date": 1415751256754
+    },
+    {
+      "type": "move",
+      "order": [
+        "3826868877014193",
+        "2392bd1d0683e613",
+        "e53fa2238fd88455",
+        "e135b0a7b9ba99cf",
+        "fb5c908d7e7d30e6",
+        "fe3d2fadd9779d9b",
+        "10e8dd6b4c610ec6",
+        "9044a6d8e37eb265",
+        "4b280abce3566866",
+        "2958780d61044056"
+      ],
+      "id": "e135b0a7b9ba99cf",
+      "date": 1415751260759
+    },
+    {
+      "type": "move",
+      "order": [
+        "fb5c908d7e7d30e6",
+        "3826868877014193",
+        "2392bd1d0683e613",
+        "e53fa2238fd88455",
+        "e135b0a7b9ba99cf",
+        "fe3d2fadd9779d9b",
+        "10e8dd6b4c610ec6",
+        "9044a6d8e37eb265",
+        "4b280abce3566866",
+        "2958780d61044056"
+      ],
+      "id": "fb5c908d7e7d30e6",
+      "date": 1415751265397
     }
   ]
 }

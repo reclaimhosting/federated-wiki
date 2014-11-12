@@ -7,8 +7,9 @@
       "text": "[[Micropublication and Open Source Research]]"
     },
     {
-      "type": "factory",
-      "id": "f7636a913f65f448"
+      "type": "paragraph",
+      "id": "f7636a913f65f448",
+      "text": "[[MathJax Reference]]"
     }
   ],
   "journal": [
@@ -90,6 +91,42 @@
       "type": "remove",
       "id": "1616ab000a1f09e6",
       "date": 1415670099297
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1415815821860
+    },
+    {
+      "type": "edit",
+      "id": "f7636a913f65f448",
+      "item": {
+        "type": "paragraph",
+        "id": "f7636a913f65f448",
+        "text": "[[MathJax Reference]]"
+      },
+      "site": "jason.federatedwiki.org",
+      "date": 1415815821860
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "06f483ad0bba122b",
+        "text": ""
+      },
+      "id": "06f483ad0bba122b",
+      "type": "add",
+      "after": "f7636a913f65f448",
+      "date": 1415815821902
+    },
+    {
+      "type": "remove",
+      "id": "06f483ad0bba122b",
+      "date": 1415815826086
+    },
+    {
+      "type": "fork",
+      "date": 1415815988246
     }
   ]
 }

@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "364cf03fb103a640"
+      "id": "657f0117772adbba"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "581d56a0bc3216a7"
+      "id": "4d8c89288bef3cc4"
     },
     {
-      "date": 1415815201000,
+      "date": 1415816389000,
+      "site": "jason.federatedwiki.org",
+      "slug": "coffeehouse-culture",
+      "title": "Coffeehouse Culture",
+      "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 25 pages.",
+      "type": "reference",
+      "id": "c399a245122b1af8"
+    },
+    {
+      "date": 1415815801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "73cd43135475d103"
+      "id": "01d59c26b5f1accf"
     },
     {
       "date": 1415805910000,
@@ -27,7 +36,7 @@
       "title": "Chromebooks Outselling iPads in Schools",
       "text": "In [http://innovation.federatedwiki.org innovation.federatedwiki.org] with 46 pages.",
       "type": "reference",
-      "id": "c779f77bd98f14ea"
+      "id": "670a7db5b684e04b"
     },
     {
       "date": 1415767669000,
@@ -36,16 +45,7 @@
       "title": "Max",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 20 pages.",
       "type": "reference",
-      "id": "ddee246da03bd39c"
-    },
-    {
-      "date": 1415763652000,
-      "site": "jason.federatedwiki.org",
-      "slug": "wwwnewbyzorg",
-      "title": "www.newbyz.org",
-      "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 24 pages.",
-      "type": "reference",
-      "id": "f049d585434baa51"
+      "id": "b73233b36d2dc180"
     },
     {
       "date": 1415667286000,
@@ -54,7 +54,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
       "type": "reference",
-      "id": "c42b0672f084c7d3"
+      "id": "345295799db78d38"
     },
     {
       "date": 1415588468000,
@@ -63,7 +63,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
       "type": "reference",
-      "id": "c89c0bb3964a214d"
+      "id": "90875d8fd38d31fd"
     },
     {
       "date": 1415556980000,
@@ -72,7 +72,7 @@
       "title": "Large Animated Gif",
       "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "4cf66bd6f4148d82"
+      "id": "a852ebefb3a18e47"
     },
     {
       "date": 1415545305000,
@@ -81,55 +81,69 @@
       "title": "Own a Space",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "f899585ef229163c"
+      "id": "092eef0df72396e1"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "723b9f10885dd06b",
+      "id": "dd292fa20a893c18",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "364cf03fb103a640",
+      "id": "657f0117772adbba",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "364cf03fb103a640"
+        "id": "657f0117772adbba"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "581d56a0bc3216a7",
+      "id": "4d8c89288bef3cc4",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "581d56a0bc3216a7"
+        "id": "4d8c89288bef3cc4"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "73cd43135475d103",
+      "id": "c399a245122b1af8",
       "item": {
-        "date": 1415815201000,
+        "date": 1415816389000,
+        "site": "jason.federatedwiki.org",
+        "slug": "coffeehouse-culture",
+        "title": "Coffeehouse Culture",
+        "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 25 pages.",
+        "type": "reference",
+        "id": "c399a245122b1af8"
+      },
+      "date": 1415816401000
+    },
+    {
+      "type": "add",
+      "id": "01d59c26b5f1accf",
+      "item": {
+        "date": 1415815801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "73cd43135475d103"
+        "id": "01d59c26b5f1accf"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "c779f77bd98f14ea",
+      "id": "670a7db5b684e04b",
       "item": {
         "date": 1415805910000,
         "site": "innovation.federatedwiki.org",
@@ -137,13 +151,13 @@
         "title": "Chromebooks Outselling iPads in Schools",
         "text": "In [http://innovation.federatedwiki.org innovation.federatedwiki.org] with 46 pages.",
         "type": "reference",
-        "id": "c779f77bd98f14ea"
+        "id": "670a7db5b684e04b"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "ddee246da03bd39c",
+      "id": "b73233b36d2dc180",
       "item": {
         "date": 1415767669000,
         "site": "max.federatedwiki.org",
@@ -151,27 +165,13 @@
         "title": "Max",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 20 pages.",
         "type": "reference",
-        "id": "ddee246da03bd39c"
+        "id": "b73233b36d2dc180"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "f049d585434baa51",
-      "item": {
-        "date": 1415763652000,
-        "site": "jason.federatedwiki.org",
-        "slug": "wwwnewbyzorg",
-        "title": "www.newbyz.org",
-        "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 24 pages.",
-        "type": "reference",
-        "id": "f049d585434baa51"
-      },
-      "date": 1415815801000
-    },
-    {
-      "type": "add",
-      "id": "c42b0672f084c7d3",
+      "id": "345295799db78d38",
       "item": {
         "date": 1415667286000,
         "site": "rosano.federatedwiki.org",
@@ -179,13 +179,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://rosano.federatedwiki.org rosano.federatedwiki.org] with 9 pages.",
         "type": "reference",
-        "id": "c42b0672f084c7d3"
+        "id": "345295799db78d38"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "c89c0bb3964a214d",
+      "id": "90875d8fd38d31fd",
       "item": {
         "date": 1415588468000,
         "site": "tim.federatedwiki.org",
@@ -193,13 +193,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 13 pages.",
         "type": "reference",
-        "id": "c89c0bb3964a214d"
+        "id": "90875d8fd38d31fd"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "4cf66bd6f4148d82",
+      "id": "a852ebefb3a18e47",
       "item": {
         "date": 1415556980000,
         "site": "mike.journal.federatedwiki.org",
@@ -207,13 +207,13 @@
         "title": "Large Animated Gif",
         "text": "In [http://mike.journal.federatedwiki.org mike.journal.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "4cf66bd6f4148d82"
+        "id": "a852ebefb3a18e47"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     },
     {
       "type": "add",
-      "id": "f899585ef229163c",
+      "id": "092eef0df72396e1",
       "item": {
         "date": 1415545305000,
         "site": "ward.federatedwiki.org",
@@ -221,9 +221,9 @@
         "title": "Own a Space",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "f899585ef229163c"
+        "id": "092eef0df72396e1"
       },
-      "date": 1415815801000
+      "date": 1415816401000
     }
   ]
 }

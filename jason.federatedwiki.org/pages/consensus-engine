@@ -7,14 +7,19 @@
       "text": "Mike Caulfield's term for the way a tool like Wikipedia drives multiple opinions towards a single canonical version of reality:"
     },
     {
-      "type": "paragraph",
-      "id": "a68a5cd8e29dbe4e",
-      "text": "-----quote from Mike Caulfield----"
+      "type": "pagefold",
+      "id": "3d36e445322c4ac4",
+      "text": "Quoting Mike Caulfield\n\n"
     },
     {
       "type": "paragraph",
       "id": "65e2ecd876387f88",
       "text": "If you find a community online big enough to be socially interesting it comes with this baggage. You have an idea, you hear a fact, you learn a technique you want to share.\n\nYou go online to share it and you’re teleported past the personal and dialogic and suddenly find yourself having to defend the inclusion of this fact or this edit FOR ALL TIME. In many cases, you’re arguing with *pedants*, and even where the conversation stays amicable, is this really how you want to start your day?\n\nAnd it gets worse, because if you lose that battle (notability, accuracy, citations, linked ideas — whatever the battle is) your contribution disappears. It’s easy to say that it’s all in the revision history, but in practice what Google can’t see does not exist, and Google can’t see that revision history."
+    },
+    {
+      "type": "pagefold",
+      "id": "498daa0957c202a8",
+      "text": "\n"
     },
     {
       "type": "paragraph",
@@ -170,6 +175,165 @@
       "type": "remove",
       "id": "bb4f95bddcc91cdb",
       "date": 1415816751962
+    },
+    {
+      "type": "edit",
+      "id": "a68a5cd8e29dbe4e",
+      "item": {
+        "type": "paragraph",
+        "id": "a68a5cd8e29dbe4e",
+        "text": "Quoting "
+      },
+      "date": 1415817011969
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9db1adf9c0729a1e",
+        "text": "from Mike Caulfield"
+      },
+      "id": "9db1adf9c0729a1e",
+      "type": "add",
+      "after": "a68a5cd8e29dbe4e",
+      "date": 1415817012012
+    },
+    {
+      "type": "remove",
+      "id": "9db1adf9c0729a1e",
+      "date": 1415817014025
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "227cbaf48940996d",
+        "text": ""
+      },
+      "id": "227cbaf48940996d",
+      "type": "add",
+      "after": "a68a5cd8e29dbe4e",
+      "date": 1415817019365
+    },
+    {
+      "type": "edit",
+      "id": "a68a5cd8e29dbe4e",
+      "item": {
+        "type": "paragraph",
+        "id": "a68a5cd8e29dbe4e",
+        "text": "Quoting Mike Caulfield"
+      },
+      "date": 1415817019341
+    },
+    {
+      "type": "remove",
+      "id": "227cbaf48940996d",
+      "date": 1415817024845
+    },
+    {
+      "type": "edit",
+      "id": "65e2ecd876387f88",
+      "item": {
+        "type": "paragraph",
+        "id": "65e2ecd876387f88",
+        "text": "\"If you find a community online big enough to be socially interesting it comes with this baggage. You have an idea, you hear a fact, you learn a technique you want to share.\n\nYou go online to share it and you’re teleported past the personal and dialogic and suddenly find yourself having to defend the inclusion of this fact or this edit FOR ALL TIME. In many cases, you’re arguing with *pedants*, and even where the conversation stays amicable, is this really how you want to start your day?\n\nAnd it gets worse, because if you lose that battle (notability, accuracy, citations, linked ideas — whatever the battle is) your contribution disappears. It’s easy to say that it’s all in the revision history, but in practice what Google can’t see does not exist, and Google can’t see that revision history.\""
+      },
+      "date": 1415817041540
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "93a23a66d8538005",
+        "text": ""
+      },
+      "id": "93a23a66d8538005",
+      "type": "add",
+      "after": "65e2ecd876387f88",
+      "date": 1415817041585
+    },
+    {
+      "type": "remove",
+      "id": "93a23a66d8538005",
+      "date": 1415817050699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d36e445322c4ac4"
+      },
+      "id": "3d36e445322c4ac4",
+      "type": "add",
+      "after": "c022cc9c87bb457f",
+      "date": 1415817106523
+    },
+    {
+      "type": "move",
+      "order": [
+        "7c54b3b10ca312a9",
+        "a68a5cd8e29dbe4e",
+        "3d36e445322c4ac4",
+        "65e2ecd876387f88",
+        "56ce187d4bd2214c",
+        "c022cc9c87bb457f"
+      ],
+      "id": "3d36e445322c4ac4",
+      "date": 1415817111153
+    },
+    {
+      "type": "edit",
+      "id": "3d36e445322c4ac4",
+      "item": {
+        "type": "pagefold",
+        "id": "3d36e445322c4ac4",
+        "text": "Quoting Mike Caulfield\n\n"
+      },
+      "date": 1415817135193
+    },
+    {
+      "type": "remove",
+      "id": "a68a5cd8e29dbe4e",
+      "date": 1415817141287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "498daa0957c202a8"
+      },
+      "id": "498daa0957c202a8",
+      "type": "add",
+      "after": "c022cc9c87bb457f",
+      "date": 1415817147401
+    },
+    {
+      "type": "move",
+      "order": [
+        "7c54b3b10ca312a9",
+        "3d36e445322c4ac4",
+        "65e2ecd876387f88",
+        "498daa0957c202a8",
+        "56ce187d4bd2214c",
+        "c022cc9c87bb457f"
+      ],
+      "id": "498daa0957c202a8",
+      "date": 1415817149622
+    },
+    {
+      "type": "edit",
+      "id": "498daa0957c202a8",
+      "item": {
+        "type": "pagefold",
+        "id": "498daa0957c202a8",
+        "text": "\n"
+      },
+      "date": 1415817156953
+    },
+    {
+      "type": "edit",
+      "id": "65e2ecd876387f88",
+      "item": {
+        "type": "paragraph",
+        "id": "65e2ecd876387f88",
+        "text": "If you find a community online big enough to be socially interesting it comes with this baggage. You have an idea, you hear a fact, you learn a technique you want to share.\n\nYou go online to share it and you’re teleported past the personal and dialogic and suddenly find yourself having to defend the inclusion of this fact or this edit FOR ALL TIME. In many cases, you’re arguing with *pedants*, and even where the conversation stays amicable, is this really how you want to start your day?\n\nAnd it gets worse, because if you lose that battle (notability, accuracy, citations, linked ideas — whatever the battle is) your contribution disappears. It’s easy to say that it’s all in the revision history, but in practice what Google can’t see does not exist, and Google can’t see that revision history."
+      },
+      "date": 1415817179243
     }
   ]
 }

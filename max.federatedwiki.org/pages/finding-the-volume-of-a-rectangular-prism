@@ -1,0 +1,44 @@
+{
+  "title": "finding the volume of a rectangular prism",
+  "story": [
+    {
+      "type": "factory",
+      "id": "35c5bf72a60cb08b"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "finding the volume of a rectangular prism",
+        "story": []
+      },
+      "date": 1415771325663
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35c5bf72a60cb08b"
+      },
+      "id": "35c5bf72a60cb08b",
+      "type": "add",
+      "date": 1415771372740
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "89b3a98a35f582e0",
+        "text": ""
+      },
+      "id": "89b3a98a35f582e0",
+      "type": "add",
+      "after": "35c5bf72a60cb08b",
+      "date": 1415771459070
+    },
+    {
+      "type": "remove",
+      "id": "89b3a98a35f582e0",
+      "date": 1415771460020
+    }
+  ]
+}

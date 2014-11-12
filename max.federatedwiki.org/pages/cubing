@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "72d0a0a86d5bb847",
       "text": "to cube something means to multiply itself by itself three times."
+    },
+    {
+      "type": "paragraph",
+      "id": "b5a0dd1207410a4a",
+      "text": "cubing is often confused with [[finding the volume of a rectangular prism]]"
     }
   ],
   "journal": [
@@ -34,6 +39,43 @@
         "text": "to cube something means to multiply itself by itself three times."
       },
       "date": 1415743100361
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5a0dd1207410a4a",
+        "text": ""
+      },
+      "id": "b5a0dd1207410a4a",
+      "type": "add",
+      "after": "72d0a0a86d5bb847",
+      "date": 1415771225098
+    },
+    {
+      "type": "edit",
+      "id": "b5a0dd1207410a4a",
+      "item": {
+        "type": "paragraph",
+        "id": "b5a0dd1207410a4a",
+        "text": "cubing is often confused with [[finding the volume of a rectangular prism]]"
+      },
+      "date": 1415771320115
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "305761aa71f68d1a",
+        "text": ""
+      },
+      "id": "305761aa71f68d1a",
+      "type": "add",
+      "after": "b5a0dd1207410a4a",
+      "date": 1415771320218
+    },
+    {
+      "type": "remove",
+      "id": "305761aa71f68d1a",
+      "date": 1415771321094
     }
   ]
 }

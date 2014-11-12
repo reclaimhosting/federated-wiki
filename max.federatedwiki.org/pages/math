@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "de32bafd7ac63f9f",
       "text": "[[cubing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3eb15500d77bde16",
+      "text": "[[finding the volume of a rectangular prism]]"
     }
   ],
   "journal": [
@@ -50,6 +55,26 @@
       "type": "remove",
       "id": "4e77ba957bb55d36",
       "date": 1415743056814
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3eb15500d77bde16"
+      },
+      "id": "3eb15500d77bde16",
+      "type": "add",
+      "after": "de32bafd7ac63f9f",
+      "date": 1415771330744
+    },
+    {
+      "type": "edit",
+      "id": "3eb15500d77bde16",
+      "item": {
+        "type": "paragraph",
+        "id": "3eb15500d77bde16",
+        "text": "[[finding the volume of a rectangular prism]]"
+      },
+      "date": 1415771364636
     }
   ]
 }

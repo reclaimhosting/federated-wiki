@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "3e2d716c689990a9",
       "text": "[[The Role of L1 Grammar in Second Language Learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "44f266d0f80ff140",
+      "text": "It seems not unusual to have the highest level of developmental reading and writing as a prerequisite for second language courses - ex from CA, NC"
     }
   ],
   "journal": [
@@ -157,6 +162,42 @@
       ],
       "id": "3e2d716c689990a9",
       "date": 1415817967718
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44f266d0f80ff140"
+      },
+      "id": "44f266d0f80ff140",
+      "type": "add",
+      "after": "3e2d716c689990a9",
+      "date": 1415819203614
+    },
+    {
+      "type": "edit",
+      "id": "44f266d0f80ff140",
+      "item": {
+        "type": "paragraph",
+        "id": "44f266d0f80ff140",
+        "text": "It seems not unusual to have the highest level of developmental reading and writing as a prerequisite for second language courses - ex from CA, NC"
+      },
+      "date": 1415819265430
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a34b668350c1066",
+        "text": ""
+      },
+      "id": "9a34b668350c1066",
+      "type": "add",
+      "after": "44f266d0f80ff140",
+      "date": 1415819265445
+    },
+    {
+      "type": "remove",
+      "id": "9a34b668350c1066",
+      "date": 1415819275543
     }
   ]
 }

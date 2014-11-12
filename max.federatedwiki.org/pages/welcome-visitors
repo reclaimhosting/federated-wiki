@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Hi, this is me [[Max]]",
+      "text": "Hello, this is me [[Max]]",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -958,6 +958,16 @@
       "type": "remove",
       "id": "add40b7737f838b0",
       "date": 1415681649627
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Hello, this is me [[Max]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1415822923785
     }
   ]
 }

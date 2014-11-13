@@ -1,0 +1,55 @@
+{
+  "title": "media for your essay",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4615969e919c0d3b",
+      "text": "you should remember to have some  media like pictures, diagrams, videos, or an audio recording."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "media for your essay",
+        "story": []
+      },
+      "date": 1415910607343
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4615969e919c0d3b"
+      },
+      "id": "4615969e919c0d3b",
+      "type": "add",
+      "date": 1415910643638
+    },
+    {
+      "type": "edit",
+      "id": "4615969e919c0d3b",
+      "item": {
+        "type": "paragraph",
+        "id": "4615969e919c0d3b",
+        "text": "you should remember to have some  media like pictures, diagrams, videos, or an audio recording."
+      },
+      "date": 1415910799457
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "63080e458f3a9acc",
+        "text": ""
+      },
+      "id": "63080e458f3a9acc",
+      "type": "add",
+      "after": "4615969e919c0d3b",
+      "date": 1415910799469
+    },
+    {
+      "type": "remove",
+      "id": "63080e458f3a9acc",
+      "date": 1415910800670
+    }
+  ]
+}

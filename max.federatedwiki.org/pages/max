@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "977bb9e7b7f21148",
-      "text": "[[welcome visitors]]"
+      "text": "here are some other wikis"
     }
   ],
   "journal": [
@@ -127,6 +127,63 @@
       "type": "remove",
       "id": "e6a57d20fa8782e7",
       "date": 1415771625346
+    },
+    {
+      "type": "edit",
+      "id": "977bb9e7b7f21148",
+      "item": {
+        "type": "paragraph",
+        "id": "977bb9e7b7f21148",
+        "text": "here are some other wikis"
+      },
+      "date": 1416007237208
+    },
+    {
+      "type": "remove",
+      "id": "0330eec9920c3372",
+      "date": 1416007239129
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7a43bfa4183470f6",
+        "text": ""
+      },
+      "id": "7a43bfa4183470f6",
+      "type": "add",
+      "after": "977bb9e7b7f21148",
+      "date": 1416007260201
+    },
+    {
+      "type": "edit",
+      "id": "7a43bfa4183470f6",
+      "item": {
+        "type": "paragraph",
+        "id": "7a43bfa4183470f6",
+        "text": "[[jason.federatedwiki.org]]"
+      },
+      "date": 1416007298321
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "41ee3520280af689",
+        "text": ""
+      },
+      "id": "41ee3520280af689",
+      "type": "add",
+      "after": "7a43bfa4183470f6",
+      "date": 1416007298329
+    },
+    {
+      "type": "remove",
+      "id": "41ee3520280af689",
+      "date": 1416007301864
+    },
+    {
+      "type": "remove",
+      "id": "7a43bfa4183470f6",
+      "date": 1416007331960
     }
   ]
 }

@@ -2,8 +2,9 @@
   "title": "finding the volume of a rectangular prism",
   "story": [
     {
-      "type": "factory",
-      "id": "ba8704172bd45f53"
+      "type": "mathjax",
+      "id": "35c5bf72a60cb08b",
+      "text": "$$V=l\\;*\\;w\\;*\\;h$$"
     }
   ],
   "journal": [
@@ -41,30 +42,19 @@
       "date": 1415771460020
     },
     {
+      "type": "fork",
+      "site": "max.federatedwiki.org",
+      "date": 1416007884774
+    },
+    {
       "type": "edit",
       "id": "35c5bf72a60cb08b",
       "item": {
-        "type": "reference",
+        "type": "mathjax",
         "id": "35c5bf72a60cb08b",
-        "site": "jason.federatedwiki.org",
-        "title": "finding the volume of a rectangular prism",
         "text": "$$V=l\\;*\\;w\\;*\\;h$$"
       },
-      "date": 1416008124287
-    },
-    {
-      "type": "remove",
-      "id": "35c5bf72a60cb08b",
-      "date": 1416008145046
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "ba8704172bd45f53"
-      },
-      "id": "ba8704172bd45f53",
-      "type": "add",
-      "date": 1416008146730
+      "date": 1416007960610
     }
   ]
 }

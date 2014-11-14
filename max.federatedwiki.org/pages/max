@@ -10,6 +10,13 @@
       "type": "paragraph",
       "id": "977bb9e7b7f21148",
       "text": "here are some other wikis"
+    },
+    {
+      "type": "reference",
+      "id": "44c3aa694252a5bb",
+      "site": "jason.federatedwiki.org",
+      "title": "Jason Green",
+      "text": "Jason Green (jason)"
     }
   ],
   "journal": [
@@ -184,6 +191,28 @@
       "type": "remove",
       "id": "7a43bfa4183470f6",
       "date": 1416007331960
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44c3aa694252a5bb"
+      },
+      "id": "44c3aa694252a5bb",
+      "type": "add",
+      "after": "977bb9e7b7f21148",
+      "date": 1416007654046
+    },
+    {
+      "type": "edit",
+      "id": "44c3aa694252a5bb",
+      "item": {
+        "type": "reference",
+        "id": "44c3aa694252a5bb",
+        "site": "jason.federatedwiki.org",
+        "title": "Jason Green",
+        "text": "Jason Green (jason)"
+      },
+      "date": 1416007677060
     }
   ]
 }

@@ -12,10 +12,6 @@
       "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
       "text": "[[Jason Grlicky]]"
-    },
-    {
-      "type": "factory",
-      "id": "640ca0bd9ccfc025"
     }
   ],
   "journal": [
@@ -68,6 +64,21 @@
       "after": "ca861e5e886e7145",
       "id": "63ad2e58eecdd9e5",
       "date": 1415660569154
+    },
+    {
+      "type": "move",
+      "order": [
+        "ca861e5e886e7145",
+        "640ca0bd9ccfc025",
+        "63ad2e58eecdd9e5"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1415927552351
+    },
+    {
+      "type": "remove",
+      "id": "640ca0bd9ccfc025",
+      "date": 1415927556069
     }
   ]
 }

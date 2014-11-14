@@ -33,13 +33,8 @@
     },
     {
       "type": "paragraph",
-      "id": "9f2acc7cd77b3940",
-      "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "3ce5d7a68864816d",
-      "text": "- t"
+      "id": "dd4ed464c870a019",
+      "text": "- the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
     },
     {
       "type": "paragraph",
@@ -1283,6 +1278,74 @@
       "type": "remove",
       "id": "729cd5c6d4ee8465",
       "date": 1415568917650
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3ce5d7a68864816d",
+        "text": "the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      },
+      "after": "7b1ca3e0dca3daa9",
+      "id": "3ce5d7a68864816d",
+      "date": 1415927329527
+    },
+    {
+      "type": "remove",
+      "id": "3ce5d7a68864816d",
+      "date": 1415927332402
+    },
+    {
+      "type": "remove",
+      "id": "9f2acc7cd77b3940",
+      "date": 1415927333337
+    },
+    {
+      "type": "edit",
+      "id": "3ce5d7a68864816d",
+      "item": {
+        "type": "paragraph",
+        "id": "3ce5d7a68864816d",
+        "text": "- "
+      },
+      "date": 1415927335536
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d775ebc494f65b84",
+        "text": "the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      },
+      "id": "d775ebc494f65b84",
+      "type": "add",
+      "after": "3ce5d7a68864816d",
+      "date": 1415927335552
+    },
+    {
+      "type": "remove",
+      "id": "d775ebc494f65b84",
+      "date": 1415927336570
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd4ed464c870a019",
+        "text": ""
+      },
+      "id": "dd4ed464c870a019",
+      "type": "add",
+      "after": "7b1ca3e0dca3daa9",
+      "date": 1415927392057
+    },
+    {
+      "type": "edit",
+      "id": "dd4ed464c870a019",
+      "item": {
+        "type": "paragraph",
+        "id": "dd4ed464c870a019",
+        "text": "- the readers position within the content (not as a passive indicator that disappears after scrollingDidEnd, but as a constant signal of orientation, in the functional sense of seeing how many pages are on the left and right of the spine)"
+      },
+      "date": 1415927396625
     }
   ]
 }

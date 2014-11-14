@@ -57,8 +57,9 @@
       "text": "Community seeks to grow and further its cause by attracting and initiating new members, and is eager to welcome new blood"
     },
     {
-      "type": "factory",
-      "id": "258e291031aac2f7"
+      "type": "paragraph",
+      "id": "0dbe7948e8223170",
+      "text": "\"Community is a useful word in the context of religious or ethnic groups. But in many other others it jars.\" – [https://twitter.com/econstyleguide/status/533047689907564544 Economist Style Guide]"
     }
   ],
   "journal": [
@@ -567,6 +568,67 @@
       "type": "remove",
       "id": "c7ad34ed86941886",
       "date": 1415568792192
+    },
+    {
+      "type": "remove",
+      "id": "258e291031aac2f7",
+      "date": 1415927635685
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0dbe7948e8223170"
+      },
+      "id": "0dbe7948e8223170",
+      "type": "add",
+      "after": "ca04b716f4233cb3",
+      "date": 1415927642314
+    },
+    {
+      "type": "edit",
+      "id": "0dbe7948e8223170",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbe7948e8223170",
+        "text": "\"Community is a useful word in the context of religious or ethnic groups. But in many other others it jars.\" ["
+      },
+      "date": 1415927649549
+    },
+    {
+      "type": "edit",
+      "id": "0dbe7948e8223170",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbe7948e8223170",
+        "text": "\"Community is a useful word in the context of religious or ethnic groups. But in many other others it jars.\" [https://twitter.com/econstyleguide/status/533047689907564544 Economist Style Guide]"
+      },
+      "date": 1415927663081
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "58e24d010769e813",
+        "text": ""
+      },
+      "id": "58e24d010769e813",
+      "type": "add",
+      "after": "0dbe7948e8223170",
+      "date": 1415927663098
+    },
+    {
+      "type": "remove",
+      "id": "58e24d010769e813",
+      "date": 1415927666015
+    },
+    {
+      "type": "edit",
+      "id": "0dbe7948e8223170",
+      "item": {
+        "type": "paragraph",
+        "id": "0dbe7948e8223170",
+        "text": "\"Community is a useful word in the context of religious or ethnic groups. But in many other others it jars.\" – [https://twitter.com/econstyleguide/status/533047689907564544 Economist Style Guide]"
+      },
+      "date": 1415927681592
     }
   ]
 }

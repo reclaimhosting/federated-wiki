@@ -19,6 +19,13 @@
       "site": "jgrlicky.fed.wiki.org",
       "title": "Welcome Visitors",
       "text": "[[Jason Grlicky]]"
+    },
+    {
+      "type": "reference",
+      "id": "cd146a4d4079bd4b",
+      "site": "journal14.hapgood.net:3000",
+      "title": "Welcome Visitors",
+      "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     }
   ],
   "journal": [
@@ -139,6 +146,28 @@
         "text": "[[Jason Grlicky]]"
       },
       "date": 1415927905213
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd146a4d4079bd4b"
+      },
+      "id": "cd146a4d4079bd4b",
+      "type": "add",
+      "after": "905f3258b4e73480",
+      "date": 1415929291385
+    },
+    {
+      "type": "edit",
+      "id": "cd146a4d4079bd4b",
+      "item": {
+        "type": "reference",
+        "id": "cd146a4d4079bd4b",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1415929303102
     }
   ]
 }

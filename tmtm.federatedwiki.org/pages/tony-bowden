@@ -12,6 +12,26 @@
       "type": "paragraph",
       "id": "5472984694c22bcd",
       "text": "@tmtm"
+    },
+    {
+      "type": "paragraph",
+      "id": "9654182012a65808",
+      "text": "Long time wiki user and abuser:"
+    },
+    {
+      "type": "paragraph",
+      "id": "9d564c71bb307c92",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "99cc7548f962b5c5",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "351d4404c52d007c",
+      "text": "[[Wiki as Accounting System]]"
     }
   ],
   "journal": [
@@ -92,6 +112,167 @@
         "text": "Tony Bowden"
       },
       "date": 1416042355338
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9654182012a65808"
+      },
+      "id": "9654182012a65808",
+      "type": "add",
+      "after": "5472984694c22bcd",
+      "date": 1416043320679
+    },
+    {
+      "type": "edit",
+      "id": "9654182012a65808",
+      "item": {
+        "type": "paragraph",
+        "id": "9654182012a65808",
+        "text": "Long time wiki user and abuser:"
+      },
+      "date": 1416043343791
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9d564c71bb307c92",
+        "text": ""
+      },
+      "id": "9d564c71bb307c92",
+      "type": "add",
+      "after": "9654182012a65808",
+      "date": 1416043343803
+    },
+    {
+      "type": "edit",
+      "id": "9d564c71bb307c92",
+      "item": {
+        "type": "paragraph",
+        "id": "9d564c71bb307c92",
+        "text": "Wiki as Accounting System"
+      },
+      "date": 1416043360447
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "49df03a5d14f03a9",
+        "text": ""
+      },
+      "id": "49df03a5d14f03a9",
+      "type": "add",
+      "after": "9d564c71bb307c92",
+      "date": 1416043360456
+    },
+    {
+      "type": "remove",
+      "id": "49df03a5d14f03a9",
+      "date": 1416043362428
+    },
+    {
+      "type": "edit",
+      "id": "9d564c71bb307c92",
+      "item": {
+        "type": "paragraph",
+        "id": "9d564c71bb307c92",
+        "text": "[["
+      },
+      "date": 1416043365376
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7420be699f521c6",
+        "text": "Wiki as Accounting System]]"
+      },
+      "id": "a7420be699f521c6",
+      "type": "add",
+      "after": "9d564c71bb307c92",
+      "date": 1416043365395
+    },
+    {
+      "type": "edit",
+      "id": "a7420be699f521c6",
+      "item": {
+        "type": "paragraph",
+        "id": "a7420be699f521c6",
+        "text": "[["
+      },
+      "date": 1416043368141
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "351d4404c52d007c",
+        "text": "Wiki as Accounting System]]"
+      },
+      "id": "351d4404c52d007c",
+      "type": "add",
+      "after": "a7420be699f521c6",
+      "date": 1416043368153
+    },
+    {
+      "type": "edit",
+      "id": "351d4404c52d007c",
+      "item": {
+        "type": "paragraph",
+        "id": "351d4404c52d007c",
+        "text": "[[Wiki as Accounting System]]"
+      },
+      "date": 1416043371200
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67c914249de6ae2f",
+        "text": ""
+      },
+      "id": "67c914249de6ae2f",
+      "type": "add",
+      "after": "351d4404c52d007c",
+      "date": 1416043371209
+    },
+    {
+      "type": "remove",
+      "id": "67c914249de6ae2f",
+      "date": 1416043372300
+    },
+    {
+      "type": "edit",
+      "id": "9d564c71bb307c92",
+      "item": {
+        "type": "paragraph",
+        "id": "9d564c71bb307c92",
+        "text": " "
+      },
+      "date": 1416043374976
+    },
+    {
+      "type": "remove",
+      "id": "99cc7548f962b5c5",
+      "date": 1416043374984
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99cc7548f962b5c5",
+        "text": ""
+      },
+      "id": "99cc7548f962b5c5",
+      "type": "add",
+      "after": "9d564c71bb307c92",
+      "date": 1416043374988
+    },
+    {
+      "type": "remove",
+      "id": "e677f16a9ac59ef4",
+      "date": 1416043378855
+    },
+    {
+      "type": "remove",
+      "id": "a7420be699f521c6",
+      "date": 1416043382100
     }
   ]
 }

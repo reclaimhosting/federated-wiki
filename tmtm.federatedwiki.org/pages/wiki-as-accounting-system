@@ -1,0 +1,118 @@
+{
+  "title": "Wiki as Accounting System",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dc363f463d6a3727",
+      "text": "[http://nothing.tmtm.com/2006/09/using-a-wiki-as-an-accounting-system/ Using a Wiki as an Accounting System]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d98650fb5331d9f3",
+      "text": "[http://nothing.tmtm.com/2006/09/more-on-accounting-wikis/ More on Accounting Wikis]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki as Accounting System",
+        "story": []
+      },
+      "date": 1416043403837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "70b3bd13f30fd751"
+      },
+      "id": "70b3bd13f30fd751",
+      "type": "add",
+      "date": 1416043407054
+    },
+    {
+      "type": "edit",
+      "id": "70b3bd13f30fd751",
+      "item": {
+        "type": "factory",
+        "id": "70b3bd13f30fd751",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://nothing.tmtm.com/2006/09/using-a-wiki-as-an-accounting-system/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://nothing.tmtm.com/2006/09/using-a-wiki-as-an-accounting-system/",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36"
+        }
+      },
+      "date": 1416043419928
+    },
+    {
+      "type": "remove",
+      "id": "70b3bd13f30fd751",
+      "date": 1416043477682
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc363f463d6a3727"
+      },
+      "id": "dc363f463d6a3727",
+      "type": "add",
+      "date": 1416043491390
+    },
+    {
+      "type": "edit",
+      "id": "dc363f463d6a3727",
+      "item": {
+        "type": "paragraph",
+        "id": "dc363f463d6a3727",
+        "text": "[http://nothing.tmtm.com/2006/09/using-a-wiki-as-an-accounting-system/ Using a Wiki as an Accoun"
+      },
+      "date": 1416043502949
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "115f4ebde538b754",
+        "text": "ting System]"
+      },
+      "id": "115f4ebde538b754",
+      "type": "add",
+      "after": "dc363f463d6a3727",
+      "date": 1416043502959
+    },
+    {
+      "type": "remove",
+      "id": "115f4ebde538b754",
+      "date": 1416043509604
+    },
+    {
+      "type": "edit",
+      "id": "dc363f463d6a3727",
+      "item": {
+        "type": "paragraph",
+        "id": "dc363f463d6a3727",
+        "text": "[http://nothing.tmtm.com/2006/09/using-a-wiki-as-an-accounting-system/ Using a Wiki as an Accounting System]"
+      },
+      "date": 1416043512081
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d98650fb5331d9f3"
+      },
+      "id": "d98650fb5331d9f3",
+      "type": "add",
+      "after": "dc363f463d6a3727",
+      "date": 1416043527966
+    },
+    {
+      "type": "edit",
+      "id": "d98650fb5331d9f3",
+      "item": {
+        "type": "paragraph",
+        "id": "d98650fb5331d9f3",
+        "text": "[http://nothing.tmtm.com/2006/09/more-on-accounting-wikis/ More on Accounting Wikis]"
+      },
+      "date": 1416043535801
+    }
+  ]
+}

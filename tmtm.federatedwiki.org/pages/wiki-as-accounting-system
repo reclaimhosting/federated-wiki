@@ -139,6 +139,32 @@
       "type": "add",
       "after": "d98650fb5331d9f3",
       "date": 1416043939730
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cdfe230e55bb438"
+      },
+      "id": "9cdfe230e55bb438",
+      "type": "add",
+      "after": "6d3d7672f4c283c9",
+      "date": 1416045288349
+    },
+    {
+      "type": "move",
+      "order": [
+        "9cdfe230e55bb438",
+        "dc363f463d6a3727",
+        "d98650fb5331d9f3",
+        "6d3d7672f4c283c9"
+      ],
+      "id": "9cdfe230e55bb438",
+      "date": 1416045290556
+    },
+    {
+      "type": "remove",
+      "id": "9cdfe230e55bb438",
+      "date": 1416045319781
     }
   ]
 }

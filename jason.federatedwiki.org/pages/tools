@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "1bb918dbc13cefae",
       "text": "[[Variations Audio Timeliner]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d61fb00165af92c4",
+      "text": "[[Musicianship Resources by Kris Shaffer]]"
     }
   ],
   "journal": [
@@ -64,6 +69,42 @@
       "type": "remove",
       "id": "3907605a497f7d9b",
       "date": 1415975081012
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d61fb00165af92c4"
+      },
+      "id": "d61fb00165af92c4",
+      "type": "add",
+      "after": "1bb918dbc13cefae",
+      "date": 1416027708277
+    },
+    {
+      "type": "edit",
+      "id": "d61fb00165af92c4",
+      "item": {
+        "type": "paragraph",
+        "id": "d61fb00165af92c4",
+        "text": "[[Musicianship Resources by Kris Shaffer]]"
+      },
+      "date": 1416027750547
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95b0d25b1e7d2e47",
+        "text": ""
+      },
+      "id": "95b0d25b1e7d2e47",
+      "type": "add",
+      "after": "d61fb00165af92c4",
+      "date": 1416027750568
+    },
+    {
+      "type": "remove",
+      "id": "95b0d25b1e7d2e47",
+      "date": 1416027761727
     }
   ]
 }

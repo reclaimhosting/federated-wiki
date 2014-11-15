@@ -7,9 +7,28 @@
       "text": "aka StateMode in early references - in contrast to [[Stream Mode]]"
     },
     {
+      "type": "pagefold",
+      "id": "7bc74565d40aeeb9",
+      "text": "quoting Mike Caulfield"
+    },
+    {
       "type": "paragraph",
-      "id": "c1f2d1a5d744f3a0",
-      "text": ""
+      "id": "69efabd4fdc42af3",
+      "text": "On the opposite pole of StreamMode we find StateMode. In StateMode we are more like Flickr, or Delicious, or wiki. In StateMode we want a body of work at any given moment to be seen as an integrated whole, the best pass at our current thinking. It’s not a journal trail of how we got here, it’s a description of where we are now.\n\nFlickr, as I mentioned, tended more towards this than Instagram. But the ultimate expression of StateMode is the wiki."
+    },
+    {
+      "type": "pagefold",
+      "id": "172a26bba50f53aa",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b7580d510cea2da6",
+      "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+    },
+    {
+      "type": "factory",
+      "id": "b14ccef6756e812d"
     }
   ],
   "journal": [
@@ -50,6 +69,108 @@
       "type": "add",
       "after": "7c7541832d4229e7",
       "date": 1416069604337
+    },
+    {
+      "type": "remove",
+      "id": "c1f2d1a5d744f3a0",
+      "date": 1416069612783
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bc74565d40aeeb9"
+      },
+      "id": "7bc74565d40aeeb9",
+      "type": "add",
+      "after": "7c7541832d4229e7",
+      "date": 1416069645565
+    },
+    {
+      "type": "edit",
+      "id": "7bc74565d40aeeb9",
+      "item": {
+        "type": "pagefold",
+        "id": "7bc74565d40aeeb9",
+        "text": "quoting Mike Caulfield"
+      },
+      "date": 1416069663659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69efabd4fdc42af3"
+      },
+      "id": "69efabd4fdc42af3",
+      "type": "add",
+      "after": "7bc74565d40aeeb9",
+      "date": 1416069665765
+    },
+    {
+      "type": "edit",
+      "id": "69efabd4fdc42af3",
+      "item": {
+        "type": "paragraph",
+        "id": "69efabd4fdc42af3",
+        "text": "On the opposite pole of StreamMode we find StateMode. In StateMode we are more like Flickr, or Delicious, or wiki. In StateMode we want a body of work at any given moment to be seen as an integrated whole, the best pass at our current thinking. It’s not a journal trail of how we got here, it’s a description of where we are now.\n\nFlickr, as I mentioned, tended more towards this than Instagram. But the ultimate expression of StateMode is the wiki."
+      },
+      "date": 1416069670869
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cf2f53e4aa905149",
+        "text": ""
+      },
+      "id": "cf2f53e4aa905149",
+      "type": "add",
+      "after": "69efabd4fdc42af3",
+      "date": 1416069670897
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "172a26bba50f53aa"
+      },
+      "id": "172a26bba50f53aa",
+      "type": "add",
+      "after": "cf2f53e4aa905149",
+      "date": 1416069676807
+    },
+    {
+      "type": "remove",
+      "id": "cf2f53e4aa905149",
+      "date": 1416069681223
+    },
+    {
+      "type": "edit",
+      "id": "172a26bba50f53aa",
+      "item": {
+        "type": "pagefold",
+        "id": "172a26bba50f53aa",
+        "text": " "
+      },
+      "date": 1416069688021
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b14ccef6756e812d"
+      },
+      "id": "b14ccef6756e812d",
+      "type": "add",
+      "after": "172a26bba50f53aa",
+      "date": 1416069692439
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b7580d510cea2da6",
+        "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+      },
+      "after": "172a26bba50f53aa",
+      "id": "b7580d510cea2da6",
+      "date": 1416069699926
     }
   ]
 }

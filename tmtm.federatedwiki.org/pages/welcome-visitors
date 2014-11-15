@@ -34,7 +34,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "text": " "
     }
   ],
   "journal": [
@@ -530,6 +530,37 @@
       "type": "remove",
       "id": "05e2fa92643677ca",
       "date": 1416042008812
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": " "
+      },
+      "date": 1416042011141
+    },
+    {
+      "type": "remove",
+      "id": "12fdef8ac75eb21c",
+      "date": 1416042011147
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ca18408d1e9ea779",
+        "text": ""
+      },
+      "id": "ca18408d1e9ea779",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1416042011159
+    },
+    {
+      "type": "remove",
+      "id": "ca18408d1e9ea779",
+      "date": 1416042011883
     }
   ]
 }

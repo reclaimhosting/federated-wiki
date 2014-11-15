@@ -1,6 +1,42 @@
 {
   "title": "Stream Mode",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "772a315c1c8d1498",
+      "text": "aka StreamMode in early references - see also "
+    },
+    {
+      "type": "paragraph",
+      "id": "24467805067b728e",
+      "text": "Term coined by Mike Caulfield to describe a way of working, esp. on the Internet, that privileges recent materials and emphasizes conversation , as opposed to [[State Mode]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "4a03813c06d5d0f2",
+      "text": "quoting Mike Caulfield \n \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7dd68d3e95dfff3",
+      "text": "StreamMode is the approach to organizing your thoughts as a history, integrated primarily as a sequence of events. You know that you are in StreamMode if you never return to edit the things you are posting on the web."
+    },
+    {
+      "type": "paragraph",
+      "id": "43c1cca9d0837d50",
+      "text": "While StreamMode has advantages, it’s also creating a world that largely sucks. We’re driven by news pegs, back and forth arguments that go nowhere, the latest shiny things on the radar instead of sustained thinking about older issues. StreamMode also is exclusionary — a stream of twitter comments often relies on extensive insider knowledge to be interpreted. It’s clique-y and egotistical.\n\nIt’s also many good things, but left as the only game in town it makes us sick and shallow. We end up hitting Twitter refresh like sad Skinner-boxed lab rats looking for the next pellet instead of collaborating to extend and enhance the scope of human knowledge."
+    },
+    {
+      "type": "pagefold",
+      "id": "8ded00f837f55eae",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b7580d510cea2da6",
+      "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +45,256 @@
         "story": []
       },
       "date": 1416068108474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "772a315c1c8d1498"
+      },
+      "id": "772a315c1c8d1498",
+      "type": "add",
+      "date": 1416069053926
+    },
+    {
+      "type": "edit",
+      "id": "772a315c1c8d1498",
+      "item": {
+        "type": "paragraph",
+        "id": "772a315c1c8d1498",
+        "text": "aka StreamMode in early references"
+      },
+      "date": 1416069089381
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "24467805067b728e",
+        "text": ""
+      },
+      "id": "24467805067b728e",
+      "type": "add",
+      "after": "772a315c1c8d1498",
+      "date": 1416069089401
+    },
+    {
+      "type": "edit",
+      "id": "24467805067b728e",
+      "item": {
+        "type": "paragraph",
+        "id": "24467805067b728e",
+        "text": "Term coined by Mike Caulfield to describe "
+      },
+      "date": 1416069129717
+    },
+    {
+      "type": "edit",
+      "id": "24467805067b728e",
+      "item": {
+        "type": "paragraph",
+        "id": "24467805067b728e",
+        "text": "Term coined by Mike Caulfield to describe a way of working, esp. on the Internet, that privileges recent materials and emphasizes conversation , as opposed to [[State Mode]]"
+      },
+      "date": 1416069248420
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f7dd68d3e95dfff3",
+        "text": ""
+      },
+      "id": "f7dd68d3e95dfff3",
+      "type": "add",
+      "after": "24467805067b728e",
+      "date": 1416069248439
+    },
+    {
+      "type": "edit",
+      "id": "f7dd68d3e95dfff3",
+      "item": {
+        "type": "paragraph",
+        "id": "f7dd68d3e95dfff3",
+        "text": "StreamMode is the approach to organizing your thoughts as a history, integrated primarily as a sequence of events. You know that you are in StreamMode if you never return to edit the things you are posting on the web."
+      },
+      "date": 1416069256963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a03813c06d5d0f2"
+      },
+      "id": "4a03813c06d5d0f2",
+      "type": "add",
+      "after": "f7dd68d3e95dfff3",
+      "date": 1416069260988
+    },
+    {
+      "type": "move",
+      "order": [
+        "772a315c1c8d1498",
+        "24467805067b728e",
+        "4a03813c06d5d0f2",
+        "f7dd68d3e95dfff3"
+      ],
+      "id": "4a03813c06d5d0f2",
+      "date": 1416069262926
+    },
+    {
+      "type": "edit",
+      "id": "4a03813c06d5d0f2",
+      "item": {
+        "type": "pagefold",
+        "id": "4a03813c06d5d0f2",
+        "text": "quoting Mike Caulfield from [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]\n"
+      },
+      "date": 1416069301920
+    },
+    {
+      "type": "edit",
+      "id": "4a03813c06d5d0f2",
+      "item": {
+        "type": "pagefold",
+        "id": "4a03813c06d5d0f2",
+        "text": "quoting Mike Caulfield from http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/\n"
+      },
+      "date": 1416069322089
+    },
+    {
+      "type": "edit",
+      "id": "4a03813c06d5d0f2",
+      "item": {
+        "type": "pagefold",
+        "id": "4a03813c06d5d0f2",
+        "text": "quoting Mike Caulfield \n \n"
+      },
+      "date": 1416069338525
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5cf6d2f69c093135"
+      },
+      "id": "5cf6d2f69c093135",
+      "type": "add",
+      "after": "f7dd68d3e95dfff3",
+      "date": 1416069342526
+    },
+    {
+      "type": "remove",
+      "id": "5cf6d2f69c093135",
+      "date": 1416069348826
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7580d510cea2da6"
+      },
+      "id": "b7580d510cea2da6",
+      "type": "add",
+      "after": "f7dd68d3e95dfff3",
+      "date": 1416069354460
+    },
+    {
+      "type": "edit",
+      "id": "b7580d510cea2da6",
+      "item": {
+        "type": "paragraph",
+        "id": "b7580d510cea2da6",
+        "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+      },
+      "date": 1416069373519
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7385fda1b02f6e75",
+        "text": ""
+      },
+      "id": "7385fda1b02f6e75",
+      "type": "add",
+      "after": "b7580d510cea2da6",
+      "date": 1416069373544
+    },
+    {
+      "type": "remove",
+      "id": "7385fda1b02f6e75",
+      "date": 1416069378482
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ded00f837f55eae"
+      },
+      "id": "8ded00f837f55eae",
+      "type": "add",
+      "after": "b7580d510cea2da6",
+      "date": 1416069380453
+    },
+    {
+      "type": "move",
+      "order": [
+        "772a315c1c8d1498",
+        "24467805067b728e",
+        "4a03813c06d5d0f2",
+        "f7dd68d3e95dfff3",
+        "8ded00f837f55eae",
+        "b7580d510cea2da6"
+      ],
+      "id": "8ded00f837f55eae",
+      "date": 1416069383534
+    },
+    {
+      "type": "edit",
+      "id": "8ded00f837f55eae",
+      "item": {
+        "type": "pagefold",
+        "id": "8ded00f837f55eae",
+        "text": " "
+      },
+      "date": 1416069389426
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43c1cca9d0837d50"
+      },
+      "id": "43c1cca9d0837d50",
+      "type": "add",
+      "after": "b7580d510cea2da6",
+      "date": 1416069507901
+    },
+    {
+      "type": "move",
+      "order": [
+        "772a315c1c8d1498",
+        "24467805067b728e",
+        "4a03813c06d5d0f2",
+        "f7dd68d3e95dfff3",
+        "43c1cca9d0837d50",
+        "8ded00f837f55eae",
+        "b7580d510cea2da6"
+      ],
+      "id": "43c1cca9d0837d50",
+      "date": 1416069510099
+    },
+    {
+      "type": "edit",
+      "id": "43c1cca9d0837d50",
+      "item": {
+        "type": "paragraph",
+        "id": "43c1cca9d0837d50",
+        "text": "While StreamMode has advantages, it’s also creating a world that largely sucks. We’re driven by news pegs, back and forth arguments that go nowhere, the latest shiny things on the radar instead of sustained thinking about older issues. StreamMode also is exclusionary — a stream of twitter comments often relies on extensive insider knowledge to be interpreted. It’s clique-y and egotistical.\n\nIt’s also many good things, but left as the only game in town it makes us sick and shallow. We end up hitting Twitter refresh like sad Skinner-boxed lab rats looking for the next pellet instead of collaborating to extend and enhance the scope of human knowledge."
+      },
+      "date": 1416069518226
+    },
+    {
+      "type": "edit",
+      "id": "772a315c1c8d1498",
+      "item": {
+        "type": "paragraph",
+        "id": "772a315c1c8d1498",
+        "text": "aka StreamMode in early references - see also "
+      },
+      "date": 1416069549657
     }
   ]
 }

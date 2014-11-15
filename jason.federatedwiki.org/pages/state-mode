@@ -1,0 +1,55 @@
+{
+  "title": "State Mode",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7c7541832d4229e7",
+      "text": "aka StateMode in early references - in contrast to [[Stream Mode]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1f2d1a5d744f3a0",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "State Mode",
+        "story": []
+      },
+      "date": 1416069570396
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c7541832d4229e7"
+      },
+      "id": "7c7541832d4229e7",
+      "type": "add",
+      "date": 1416069572509
+    },
+    {
+      "type": "edit",
+      "id": "7c7541832d4229e7",
+      "item": {
+        "type": "paragraph",
+        "id": "7c7541832d4229e7",
+        "text": "aka StateMode in early references - in contrast to [[Stream Mode]]"
+      },
+      "date": 1416069604308
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c1f2d1a5d744f3a0",
+        "text": ""
+      },
+      "id": "c1f2d1a5d744f3a0",
+      "type": "add",
+      "after": "7c7541832d4229e7",
+      "date": 1416069604337
+    }
+  ]
+}

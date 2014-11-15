@@ -1,0 +1,535 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "This is [[Tony Bowden]]'s sandbox on [[Federated Wiki]].",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "ca09b222625f1fac",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "1fd3e0a92e12b561",
+      "text": "[[How to Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee046a5a66deedaf",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "ec84d4f71087ad2d",
+      "text": "[[Get A Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "[[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "7b56f22a30118509",
+      "date": 1309114800000,
+      "item": {
+        "title": "Welcome Visitors"
+      }
+    },
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "edit",
+      "date": 1309114800000,
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1344306124590
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1344306133455
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1344306138935
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1344306143742
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca"
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1344306148580
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "<b>Three:</b> Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1344306151782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start writing. Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "after": "0cbb4ef5f5d7e472",
+      "id": "ee416d431ebf4fb4",
+      "date": 1344306168918
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> A page about myself."
+      },
+      "date": 1361751371185
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages about what we do here."
+      },
+      "date": 1361751496155
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Pages about us."
+      },
+      "date": 1361751512280
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751649467
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this introductory page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751711554
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages where we do and share."
+      },
+      "date": 1361751811972
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751965824
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "date": 1361752195146
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "date": 1361752202873
+    },
+    {
+      "type": "edit",
+      "id": "0cbb4ef5f5d7e472",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "date": 1361752223856
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "date": 1361752251367
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752421212
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces."
+      },
+      "date": 1361752436556
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "78a8278db93c6ed2",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1361752437061
+    },
+    {
+      "type": "edit",
+      "id": "78a8278db93c6ed2",
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752441155
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67a126ec849b55ed",
+        "text": "Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "67a126ec849b55ed",
+      "type": "add",
+      "after": "78a8278db93c6ed2",
+      "date": 1361752441668
+    },
+    {
+      "type": "remove",
+      "id": "78a8278db93c6ed2",
+      "date": 1361752452012
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752459193
+    },
+    {
+      "type": "remove",
+      "id": "67a126ec849b55ed",
+      "date": 1361752461793
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752483992
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752498310
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1376164176294
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate: [[Get A Wiki]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1416041578308
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate: [[Get A Wiki]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1416041746970
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]]. You will need your own site to participate: [[Get A Wiki]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1416041805104
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "ee416d431ebf4fb4",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1416041823407
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This is [[Tony Bowden]]'s sandbox on [[Federated Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1416041951825
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ca09b222625f1fac",
+        "text": " [[How to Wiki]] You will need your own site to participate: [[Get A Wiki]]"
+      },
+      "id": "ca09b222625f1fac",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1416041951846
+    },
+    {
+      "type": "edit",
+      "id": "ca09b222625f1fac",
+      "item": {
+        "type": "paragraph",
+        "id": "ca09b222625f1fac",
+        "text": " "
+      },
+      "date": 1416041951965
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1fd3e0a92e12b561",
+        "text": " [[How to Wiki]] You will need your own site to participate: [[Get A Wiki]]"
+      },
+      "id": "1fd3e0a92e12b561",
+      "type": "add",
+      "after": "ca09b222625f1fac",
+      "date": 1416041951980
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3332103f39fbcaf5",
+        "text": ""
+      },
+      "id": "3332103f39fbcaf5",
+      "type": "add",
+      "after": "ca09b222625f1fac",
+      "date": 1416041951981
+    },
+    {
+      "type": "remove",
+      "id": "3332103f39fbcaf5",
+      "date": 1416041959017
+    },
+    {
+      "type": "edit",
+      "id": "1fd3e0a92e12b561",
+      "item": {
+        "type": "paragraph",
+        "id": "1fd3e0a92e12b561",
+        "text": "* [[How to Wiki]] "
+      },
+      "date": 1416041968731
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ec84d4f71087ad2d",
+        "text": "You will need your own site to participate: [[Get A Wiki]]"
+      },
+      "id": "ec84d4f71087ad2d",
+      "type": "add",
+      "after": "1fd3e0a92e12b561",
+      "date": 1416041968742
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd172268185eda89",
+        "text": ""
+      },
+      "id": "dd172268185eda89",
+      "type": "add",
+      "after": "1fd3e0a92e12b561",
+      "date": 1416041973192
+    },
+    {
+      "type": "remove",
+      "id": "dd172268185eda89",
+      "date": 1416041974749
+    },
+    {
+      "type": "edit",
+      "id": "1fd3e0a92e12b561",
+      "item": {
+        "type": "paragraph",
+        "id": "1fd3e0a92e12b561",
+        "text": "[[How to Wiki]]"
+      },
+      "date": 1416041980775
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ee046a5a66deedaf",
+        "text": " "
+      },
+      "id": "ee046a5a66deedaf",
+      "type": "add",
+      "after": "1fd3e0a92e12b561",
+      "date": 1416041980784
+    },
+    {
+      "type": "edit",
+      "id": "ec84d4f71087ad2d",
+      "item": {
+        "type": "paragraph",
+        "id": "ec84d4f71087ad2d",
+        "text": "[[Get A Wiki]]"
+      },
+      "date": 1416041987513
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "[[Recent Changes]] here and nearby."
+      },
+      "date": 1416041996049
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1416042003660
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1416042005783
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1416042008812
+    }
+  ]
+}

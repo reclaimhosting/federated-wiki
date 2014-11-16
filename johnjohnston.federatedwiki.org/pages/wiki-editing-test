@@ -1,0 +1,56 @@
+{
+  "title": "wiki editing test",
+  "story": [
+    {
+      "type": "factory",
+      "id": "851a83f2907de1de"
+    },
+    {
+      "type": "factory",
+      "id": "1d1b5340ed6ab5fb"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "wiki editing test",
+        "story": []
+      },
+      "date": 1416174835373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91b474152110273e"
+      },
+      "id": "91b474152110273e",
+      "type": "add",
+      "date": 1416174837908
+    },
+    {
+      "type": "remove",
+      "id": "91b474152110273e",
+      "date": 1416174864669
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "851a83f2907de1de"
+      },
+      "id": "851a83f2907de1de",
+      "type": "add",
+      "date": 1416174874381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d1b5340ed6ab5fb"
+      },
+      "id": "1d1b5340ed6ab5fb",
+      "type": "add",
+      "after": "851a83f2907de1de",
+      "date": 1416175191633
+    }
+  ]
+}

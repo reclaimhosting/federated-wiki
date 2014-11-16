@@ -30,6 +30,15 @@
       "type": "pagefold",
       "id": "8ded00f837f55eae",
       "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b7580d510cea2da6",
+      "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+    },
+    {
+      "type": "factory",
+      "id": "03201a86e0f6dde5"
     }
   ],
   "journal": [
@@ -295,6 +304,27 @@
       "type": "remove",
       "id": "b7580d510cea2da6",
       "date": 1416069699923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03201a86e0f6dde5"
+      },
+      "id": "03201a86e0f6dde5",
+      "type": "add",
+      "after": "8ded00f837f55eae",
+      "date": 1416169848385
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b7580d510cea2da6",
+        "text": "source: [http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/ http://hapgood.us/2014/10/14/what-iterative-writing-looks-like-and-why-its-important/]"
+      },
+      "after": "8ded00f837f55eae",
+      "id": "b7580d510cea2da6",
+      "date": 1416169858072
     }
   ]
 }

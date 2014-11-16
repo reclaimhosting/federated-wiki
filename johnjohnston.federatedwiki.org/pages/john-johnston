@@ -11,11 +11,17 @@
     {
       "type": "bytebeat",
       "id": "989d5d3b33fe46ef",
-      "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on [[http://connect.glowscotland.org.uk Glow]] (Scotland’s national online environment to support learning) as a <i>product owner</i> for blogs and wikis. "
+      "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on <a href=\"http://connect.glowscotland.org.uk\">Glow</a>, Scotland’s national online environment to support learning, as a  product owner  for blogs and wikis. "
     },
     {
-      "type": "factory",
-      "id": "222db3f37bd7b857"
+      "type": "map",
+      "id": "2a5e9112020d9c56",
+      "text": "var map = L.map('map').setView([55.878266,-4.3225901 ],13)\n",
+      "latlng": {
+        "lat": 40.6970387128064,
+        "lng": -73.76443862915039
+      },
+      "zoom": 13
     }
   ],
   "journal": [
@@ -181,6 +187,136 @@
         "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on [[http://connect.glowscotland.org.uk Glow]] (Scotland’s national online environment to support learning) as a <i>product owner</i> for blogs and wikis. "
       },
       "date": 1416145754826
+    },
+    {
+      "type": "edit",
+      "id": "989d5d3b33fe46ef",
+      "item": {
+        "type": "bytebeat",
+        "id": "989d5d3b33fe46ef",
+        "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on [http://connect.glowscotland.org.uk Glow] (Scotland’s national online environment to support learning) as a  product owner  for blogs and wikis. "
+      },
+      "date": 1416145814264
+    },
+    {
+      "type": "edit",
+      "id": "989d5d3b33fe46ef",
+      "item": {
+        "type": "bytebeat",
+        "id": "989d5d3b33fe46ef",
+        "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on [http://connect.glowscotland.org.uk Glow], Scotland’s national online environment to support learning, as a  product owner  for blogs and wikis. "
+      },
+      "date": 1416145830774
+    },
+    {
+      "type": "remove",
+      "id": "222db3f37bd7b857",
+      "date": 1416145845010
+    },
+    {
+      "type": "edit",
+      "id": "989d5d3b33fe46ef",
+      "item": {
+        "type": "bytebeat",
+        "id": "989d5d3b33fe46ef",
+        "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on <a href=\"http://connect.glowscotland.org.uk\">Glow</a>, Scotland’s national online environment to support learning, as a  product owner  for blogs and wikis. "
+      },
+      "date": 1416145863321
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a5e9112020d9c56"
+      },
+      "id": "2a5e9112020d9c56",
+      "type": "add",
+      "after": "989d5d3b33fe46ef",
+      "date": 1416145898263
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "https://www.google.com/maps/place/4+Woodcroft+Ave,+Glasgow,+Glasgow+City+G11+7HU,+UK/@55.878266,-4.3225901,17z/data=!3m1!4b1!4m2!3m1!1s0x488845ec6d03db3b:0x46e96f3adc92b20a"
+      },
+      "date": 1416146035000
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "https://www.google.com/maps/place/4+Woodcroft+Ave,+Glasgow,+Glasgow+City+G11+7HU,+UK/@55.878266,-4.3225901 ",
+        "latlng": {
+          "lat": 40.735383,
+          "lng": -73.984655
+        },
+        "zoom": 13
+      },
+      "date": 1416146053580
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "55.878266,-4.3225901 ",
+        "latlng": {
+          "lat": 40.735383,
+          "lng": -73.984655
+        },
+        "zoom": 13
+      },
+      "date": 1416146075215
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "[55.878266,-4.3225901 ]",
+        "latlng": {
+          "lat": 40.735383,
+          "lng": -73.984655
+        },
+        "zoom": 13
+      },
+      "date": 1416146104721
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "var map = L.map('map').setView([55.878266,-4.3225901 ],13)\n",
+        "latlng": {
+          "lat": 40.735383,
+          "lng": -73.984655
+        },
+        "zoom": 13
+      },
+      "date": 1416146189424
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "var map = L.map('map').setView([55.878266,-4.3225901 ],13)\n",
+        "latlng": {
+          "lat": 40.6970387128064,
+          "lng": -73.76443862915039
+        },
+        "zoom": 13
+      },
+      "date": 1416146376812
     }
   ]
 }

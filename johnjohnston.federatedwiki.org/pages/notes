@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "64474a6487a06d2b",
-      "text": "As well as setting up thos place with one wee click I've followed [https://github.com/WardCunningham/Smallest-Federated-Wiki thse instructions] and set up a wiki locally. This was amazingly simple. I've not tried to claim the localhost wiki as I wonder how different wikis work with the same persona logon? "
+      "text": "As well as setting up this place with one wee click I've followed [https://github.com/WardCunningham/Smallest-Federated-Wiki thse instructions] and set up a wiki locally. This was amazingly simple. I've not tried to claim the localhost wiki as I wonder how different wikis work with the same persona logon? "
+    },
+    {
+      "type": "paragraph",
+      "id": "ad7f604bb8bc92f2",
+      "text": "Interesting, as I wander across wikis on different servers I am not immediately aware of where I am."
     }
   ],
   "journal": [
@@ -34,6 +39,52 @@
         "text": "As well as setting up thos place with one wee click I've followed [https://github.com/WardCunningham/Smallest-Federated-Wiki thse instructions] and set up a wiki locally. This was amazingly simple. I've not tried to claim the localhost wiki as I wonder how different wikis work with the same persona logon? "
       },
       "date": 1416175090462
+    },
+    {
+      "type": "edit",
+      "id": "64474a6487a06d2b",
+      "item": {
+        "type": "paragraph",
+        "id": "64474a6487a06d2b",
+        "text": "As well as setting up this place with one wee click I've followed [https://github.com/WardCunningham/Smallest-Federated-Wiki thse instructions] and set up a wiki locally. This was amazingly simple. I've not tried to claim the localhost wiki as I wonder how different wikis work with the same persona logon? "
+      },
+      "date": 1416175337212
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7860b040aae5c758",
+        "text": ""
+      },
+      "id": "7860b040aae5c758",
+      "type": "add",
+      "after": "64474a6487a06d2b",
+      "date": 1416175337249
+    },
+    {
+      "type": "remove",
+      "id": "7860b040aae5c758",
+      "date": 1416175371105
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad7f604bb8bc92f2"
+      },
+      "id": "ad7f604bb8bc92f2",
+      "type": "add",
+      "after": "64474a6487a06d2b",
+      "date": 1416175414578
+    },
+    {
+      "type": "edit",
+      "id": "ad7f604bb8bc92f2",
+      "item": {
+        "type": "paragraph",
+        "id": "ad7f604bb8bc92f2",
+        "text": "Interesting, as I wander across wikis on different servers I am not immediately aware of where I am."
+      },
+      "date": 1416175474153
     }
   ]
 }

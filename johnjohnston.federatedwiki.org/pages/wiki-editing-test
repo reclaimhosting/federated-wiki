@@ -2,12 +2,18 @@
   "title": "wiki editing test",
   "story": [
     {
-      "type": "factory",
-      "id": "851a83f2907de1de"
+      "type": "paragraph",
+      "id": "1d1b5340ed6ab5fb",
+      "text": "I am wondering how the drag and drop image works, seem to display images at <i>smaller that they are</i> size."
+    },
+    {
+      "type": "pagefold",
+      "id": "6811fa47761f840e",
+      "text": " "
     },
     {
       "type": "factory",
-      "id": "1d1b5340ed6ab5fb"
+      "id": "c6711bc5a683a891"
     }
   ],
   "journal": [
@@ -51,6 +57,91 @@
       "type": "add",
       "after": "851a83f2907de1de",
       "date": 1416175191633
+    },
+    {
+      "type": "edit",
+      "id": "1d1b5340ed6ab5fb",
+      "item": {
+        "type": "paragraph",
+        "id": "1d1b5340ed6ab5fb",
+        "text": "I am wondering how the drag and drop image works, seem to display images at <i>smaller that they are</i> size."
+      },
+      "date": 1416175235640
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e39c8576f4fdb362"
+      },
+      "id": "e39c8576f4fdb362",
+      "type": "add",
+      "after": "1d1b5340ed6ab5fb",
+      "date": 1416175239449
+    },
+    {
+      "type": "remove",
+      "id": "e39c8576f4fdb362",
+      "date": 1416175251298
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6811fa47761f840e"
+      },
+      "id": "6811fa47761f840e",
+      "type": "add",
+      "after": "1d1b5340ed6ab5fb",
+      "date": 1416175257499
+    },
+    {
+      "type": "edit",
+      "id": "6811fa47761f840e",
+      "item": {
+        "type": "pagefold",
+        "id": "6811fa47761f840e",
+        "text": "fold"
+      },
+      "date": 1416175268752
+    },
+    {
+      "type": "edit",
+      "id": "6811fa47761f840e",
+      "item": {
+        "type": "pagefold",
+        "id": "6811fa47761f840e",
+        "text": " "
+      },
+      "date": 1416175275670
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e3779e597e291536"
+      },
+      "id": "e3779e597e291536",
+      "type": "add",
+      "after": "6811fa47761f840e",
+      "date": 1416175281555
+    },
+    {
+      "type": "remove",
+      "id": "e3779e597e291536",
+      "date": 1416175293736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c6711bc5a683a891"
+      },
+      "id": "c6711bc5a683a891",
+      "type": "add",
+      "after": "6811fa47761f840e",
+      "date": 1416175296845
+    },
+    {
+      "type": "remove",
+      "id": "851a83f2907de1de",
+      "date": 1416175541713
     }
   ]
 }

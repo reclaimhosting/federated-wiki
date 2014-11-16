@@ -14,14 +14,19 @@
       "text": "John Johnston, primary school teacher, turned staff ict development officer working in North Lanarkshire. Currently on secondment to Scottish Government, working on <a href=\"http://connect.glowscotland.org.uk\">Glow</a>, Scotland’s national online environment to support learning, as a  product owner  for blogs and wikis. "
     },
     {
+      "type": "pagefold",
+      "id": "bee55f7cc7cc4293",
+      "text": "Where I am living"
+    },
+    {
       "type": "map",
       "id": "2a5e9112020d9c56",
-      "text": "var map = L.map('map').setView([55.878266,-4.3225901 ],13)\n",
+      "text": "Broomhill, Glasgow, Scotland",
       "latlng": {
-        "lat": 40.6970387128064,
-        "lng": -73.76443862915039
+        "lat": 55.879355279830804,
+        "lng": -4.361915588378906
       },
-      "zoom": 13
+      "zoom": 12
     }
   ],
   "journal": [
@@ -317,6 +322,128 @@
         "zoom": 13
       },
       "date": 1416146376812
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "4 Woodcroft Ave, Glasgow, Scotland",
+        "latlng": {
+          "lat": 40.6970387128064,
+          "lng": -73.76443862915039
+        },
+        "zoom": 13
+      },
+      "date": 1416146411732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bee55f7cc7cc4293"
+      },
+      "id": "bee55f7cc7cc4293",
+      "type": "add",
+      "after": "2a5e9112020d9c56",
+      "date": 1416146439478
+    },
+    {
+      "type": "edit",
+      "id": "bee55f7cc7cc4293",
+      "item": {
+        "type": "pagefold",
+        "id": "bee55f7cc7cc4293",
+        "text": "fold\n"
+      },
+      "date": 1416146446586
+    },
+    {
+      "type": "move",
+      "order": [
+        "bee55f7cc7cc4293",
+        "67b3ca0cd3454ece",
+        "989d5d3b33fe46ef",
+        "2a5e9112020d9c56"
+      ],
+      "id": "bee55f7cc7cc4293",
+      "date": 1416146452116
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "4 Woodcroft Ave, Glasgow, Scotland",
+        "latlng": {
+          "lat": 55.86779860734654,
+          "lng": -4.4570159912109375
+        },
+        "zoom": 12
+      },
+      "date": 1416146506770
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "4 Woodcroft Ave, Glasgow, Scotland",
+        "latlng": {
+          "lat": 55.879355279830804,
+          "lng": -4.361915588378906
+        },
+        "zoom": 12
+      },
+      "date": 1416146520997
+    },
+    {
+      "type": "edit",
+      "id": "2a5e9112020d9c56",
+      "item": {
+        "type": "map",
+        "id": "2a5e9112020d9c56",
+        "text": "Broomhill, Glasgow, Scotland",
+        "latlng": {
+          "lat": 55.879355279830804,
+          "lng": -4.361915588378906
+        },
+        "zoom": 12
+      },
+      "date": 1416146533873
+    },
+    {
+      "type": "move",
+      "order": [
+        "67b3ca0cd3454ece",
+        "989d5d3b33fe46ef",
+        "bee55f7cc7cc4293",
+        "2a5e9112020d9c56"
+      ],
+      "id": "bee55f7cc7cc4293",
+      "date": 1416146638003
+    },
+    {
+      "type": "edit",
+      "id": "bee55f7cc7cc4293",
+      "item": {
+        "type": "pagefold",
+        "id": "bee55f7cc7cc4293",
+        "text": "\n"
+      },
+      "date": 1416146644516
+    },
+    {
+      "type": "edit",
+      "id": "bee55f7cc7cc4293",
+      "item": {
+        "type": "pagefold",
+        "id": "bee55f7cc7cc4293",
+        "text": "Where I am living"
+      },
+      "date": 1416146675259
     }
   ]
 }

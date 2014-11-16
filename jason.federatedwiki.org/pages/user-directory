@@ -40,6 +40,18 @@
       "site": "ward.federatedwiki.org",
       "title": "Ward Cunningham",
       "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+    },
+    {
+      "type": "paragraph",
+      "id": "278f56692d71b8e5",
+      "text": "Other SFW instances I follow"
+    },
+    {
+      "type": "reference",
+      "id": "285bbb207ae9f46a",
+      "site": "journal14.hapgood.net:3000",
+      "title": "Journal for 2014",
+      "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
     }
   ],
   "journal": [
@@ -400,6 +412,76 @@
     {
       "type": "fork",
       "date": 1415675106200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "278f56692d71b8e5"
+      },
+      "id": "278f56692d71b8e5",
+      "type": "add",
+      "after": "a09896322fd64849",
+      "date": 1416172115264
+    },
+    {
+      "type": "edit",
+      "id": "278f56692d71b8e5",
+      "item": {
+        "type": "paragraph",
+        "id": "278f56692d71b8e5",
+        "text": "Other SFW instances I follow"
+      },
+      "date": 1416172129275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "21ba8b362fdad859",
+        "text": ""
+      },
+      "id": "21ba8b362fdad859",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172129290
+    },
+    {
+      "type": "remove",
+      "id": "21ba8b362fdad859",
+      "date": 1416172134964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "285bbb207ae9f46a"
+      },
+      "id": "285bbb207ae9f46a",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172151875
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites."
+      },
+      "date": 1416172159151
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+      },
+      "date": 1416172184449
     }
   ]
 }

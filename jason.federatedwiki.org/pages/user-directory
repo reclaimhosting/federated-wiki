@@ -52,6 +52,13 @@
       "site": "journal14.hapgood.net:3000",
       "title": "Journal for 2014",
       "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+    },
+    {
+      "type": "reference",
+      "id": "3ea3797594658b04",
+      "site": "innovation.federatedwiki.org",
+      "title": "Innovation Wiki",
+      "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
     }
   ],
   "journal": [
@@ -482,6 +489,40 @@
         "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
       },
       "date": 1416172184449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ea3797594658b04"
+      },
+      "id": "3ea3797594658b04",
+      "type": "add",
+      "after": "285bbb207ae9f46a",
+      "date": 1416198530009
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]]."
+      },
+      "date": 1416198544220
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+      },
+      "date": 1416198567313
     }
   ]
 }

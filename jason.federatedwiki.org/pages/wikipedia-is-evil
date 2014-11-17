@@ -1,0 +1,153 @@
+{
+  "title": "Wikipedia is Evil",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be63250c95a5b787",
+      "text": "Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5b873763996cd0",
+      "text": "Wikipedia is Evil"
+    },
+    {
+      "type": "paragraph",
+      "id": "03c62cff1bd222c8",
+      "text": "URI"
+    },
+    {
+      "type": "paragraph",
+      "id": "c08767013568e967",
+      "text": "[http://wikipediaisevil.wordpress.com/ http://wikipediaisevil.wordpress.com/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a798414bd7f58c9",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "Energetic critique of wikipedia- argues that Wikipedia is evil because it stifles dissent and allows the rewriting of everything "
+    },
+    {
+      "type": "paragraph",
+      "id": "94216c25a57befa1",
+      "text": "Tags"
+    },
+    {
+      "type": "factory",
+      "id": "3d5cbf10f13618e6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wikipedia is Evil",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "be63250c95a5b787",
+            "text": "Title"
+          },
+          {
+            "type": "factory",
+            "id": "5a5b873763996cd0"
+          },
+          {
+            "type": "paragraph",
+            "id": "03c62cff1bd222c8",
+            "text": "URI"
+          },
+          {
+            "type": "factory",
+            "id": "72e0e8aaee66be79"
+          },
+          {
+            "type": "paragraph",
+            "id": "7a798414bd7f58c9",
+            "text": "Description"
+          },
+          {
+            "type": "factory",
+            "id": "232f5da2f64edc93"
+          },
+          {
+            "type": "paragraph",
+            "id": "94216c25a57befa1",
+            "text": "Tags"
+          },
+          {
+            "type": "factory",
+            "id": "3d5cbf10f13618e6"
+          }
+        ]
+      },
+      "date": 1416249396426
+    },
+    {
+      "type": "edit",
+      "id": "5a5b873763996cd0",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5b873763996cd0",
+        "text": "Wikipedia is Evil"
+      },
+      "date": 1416249410903
+    },
+    {
+      "type": "remove",
+      "id": "72e0e8aaee66be79",
+      "date": 1416249416763
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c08767013568e967",
+        "text": ""
+      },
+      "id": "c08767013568e967",
+      "type": "add",
+      "after": "03c62cff1bd222c8",
+      "date": 1416249432575
+    },
+    {
+      "type": "edit",
+      "id": "c08767013568e967",
+      "item": {
+        "type": "paragraph",
+        "id": "c08767013568e967",
+        "text": "[http://wikipediaisevil.wordpress.com/ http://wikipediaisevil.wordpress.com/]"
+      },
+      "date": 1416249438093
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a28d17c30607ab43",
+        "text": ""
+      },
+      "id": "a28d17c30607ab43",
+      "type": "add",
+      "after": "c08767013568e967",
+      "date": 1416249438122
+    },
+    {
+      "type": "remove",
+      "id": "a28d17c30607ab43",
+      "date": 1416249443474
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "Energetic critique of wikipedia- argues that Wikipedia is evil because it stifles dissent and allows the rewriting of everything "
+      },
+      "date": 1416249586339
+    }
+  ]
+}

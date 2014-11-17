@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "f7636a913f65f448",
       "text": "[[MathJax Reference]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4e636e5e506f30a",
+      "text": "[[Wikipedia is Evil]]"
     }
   ],
   "journal": [
@@ -127,6 +132,42 @@
     {
       "type": "fork",
       "date": 1415815988246
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4e636e5e506f30a"
+      },
+      "id": "d4e636e5e506f30a",
+      "type": "add",
+      "after": "f7636a913f65f448",
+      "date": 1416249374573
+    },
+    {
+      "type": "edit",
+      "id": "d4e636e5e506f30a",
+      "item": {
+        "type": "paragraph",
+        "id": "d4e636e5e506f30a",
+        "text": "[[Wikipedia is Evil]]"
+      },
+      "date": 1416249389653
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "00233491499b2ac1",
+        "text": ""
+      },
+      "id": "00233491499b2ac1",
+      "type": "add",
+      "after": "d4e636e5e506f30a",
+      "date": 1416249389667
+    },
+    {
+      "type": "remove",
+      "id": "00233491499b2ac1",
+      "date": 1416249396235
     }
   ]
 }

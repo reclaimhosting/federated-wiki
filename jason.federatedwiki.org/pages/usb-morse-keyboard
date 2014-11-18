@@ -1,0 +1,169 @@
+{
+  "title": "USB Morse Keyboard",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be63250c95a5b787",
+      "text": "Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5b873763996cd0",
+      "text": "USB Morse Keyboard"
+    },
+    {
+      "type": "paragraph",
+      "id": "03c62cff1bd222c8",
+      "text": "URI"
+    },
+    {
+      "type": "paragraph",
+      "id": "72e0e8aaee66be79",
+      "text": "[http://us.cactii.net/~bb/morsekey/ http://us.cactii.net/~bb/morsekey/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a798414bd7f58c9",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "Arduino based project that replaces a USB keyboard with a Morse code key. Tap Morse on the key to do data entry"
+    },
+    {
+      "type": "paragraph",
+      "id": "94216c25a57befa1",
+      "text": "Tags"
+    },
+    {
+      "type": "factory",
+      "id": "3d5cbf10f13618e6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "USB Morse Keyboard",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "be63250c95a5b787",
+            "text": "Title"
+          },
+          {
+            "type": "factory",
+            "id": "5a5b873763996cd0"
+          },
+          {
+            "type": "paragraph",
+            "id": "03c62cff1bd222c8",
+            "text": "URI"
+          },
+          {
+            "type": "factory",
+            "id": "72e0e8aaee66be79"
+          },
+          {
+            "type": "paragraph",
+            "id": "7a798414bd7f58c9",
+            "text": "Description"
+          },
+          {
+            "type": "factory",
+            "id": "232f5da2f64edc93"
+          },
+          {
+            "type": "paragraph",
+            "id": "94216c25a57befa1",
+            "text": "Tags"
+          },
+          {
+            "type": "factory",
+            "id": "3d5cbf10f13618e6"
+          }
+        ]
+      },
+      "date": 1416322693856
+    },
+    {
+      "type": "edit",
+      "id": "5a5b873763996cd0",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5b873763996cd0",
+        "text": "USB Morse Keyboard"
+      },
+      "date": 1416322712641
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4c844510e4e55233",
+        "text": ""
+      },
+      "id": "4c844510e4e55233",
+      "type": "add",
+      "after": "5a5b873763996cd0",
+      "date": 1416322712689
+    },
+    {
+      "type": "remove",
+      "id": "4c844510e4e55233",
+      "date": 1416322715947
+    },
+    {
+      "type": "edit",
+      "id": "72e0e8aaee66be79",
+      "item": {
+        "type": "paragraph",
+        "id": "72e0e8aaee66be79",
+        "text": "[http://us.cactii.net/~bb/morsekey/ http://us.cactii.net/~bb/morsekey/]"
+      },
+      "date": 1416322730479
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c6a23698f02dc11",
+        "text": ""
+      },
+      "id": "8c6a23698f02dc11",
+      "type": "add",
+      "after": "72e0e8aaee66be79",
+      "date": 1416322730517
+    },
+    {
+      "type": "remove",
+      "id": "8c6a23698f02dc11",
+      "date": 1416322733738
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "Arduino based project that replaces a USB keyboard with a Morse code key. Tap Morse on the key to do data entry"
+      },
+      "date": 1416322785740
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6664d205ed85cd56",
+        "text": ""
+      },
+      "id": "6664d205ed85cd56",
+      "type": "add",
+      "after": "232f5da2f64edc93",
+      "date": 1416322785772
+    },
+    {
+      "type": "remove",
+      "id": "6664d205ed85cd56",
+      "date": 1416322799009
+    }
+  ]
+}

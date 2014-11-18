@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "d4e636e5e506f30a",
       "text": "[[Wikipedia is Evil]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "889e3b6d9f354ba0",
+      "text": "[[Bookmarks - Technology]]"
     }
   ],
   "journal": [
@@ -168,6 +173,42 @@
       "type": "remove",
       "id": "00233491499b2ac1",
       "date": 1416249396235
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "889e3b6d9f354ba0"
+      },
+      "id": "889e3b6d9f354ba0",
+      "type": "add",
+      "after": "d4e636e5e506f30a",
+      "date": 1416322627844
+    },
+    {
+      "type": "edit",
+      "id": "889e3b6d9f354ba0",
+      "item": {
+        "type": "paragraph",
+        "id": "889e3b6d9f354ba0",
+        "text": "[[Bookmarks - Technology]]"
+      },
+      "date": 1416322655888
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "875fb5531d054711",
+        "text": ""
+      },
+      "id": "875fb5531d054711",
+      "type": "add",
+      "after": "889e3b6d9f354ba0",
+      "date": 1416322655908
+    },
+    {
+      "type": "remove",
+      "id": "875fb5531d054711",
+      "date": 1416322661019
     }
   ]
 }

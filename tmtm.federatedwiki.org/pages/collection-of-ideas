@@ -1,0 +1,297 @@
+{
+  "title": "Collection of Ideas",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3b464502e189f1d3",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "6f6b18047be855fb",
+      "text": "Phrase in Ward Cunningham's definition of wiki. Found on [[WikiWikiWeb]]. Here we unpack the meaning of that quote."
+    },
+    {
+      "type": "paragraph",
+      "id": "f5e7308351851823",
+      "text": "\"A wiki is a collection of ideas a community is willing to maintain.\" - Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "32f6bc828106adba",
+      "text": "Typical Ward quote, highly compressed."
+    },
+    {
+      "type": "paragraph",
+      "id": "168ccf5033506396",
+      "text": "It's not a collection of pages, or facts. It's a collection of *ideas*. Ideas are linked."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff970d1741b7860c",
+      "text": "In traditional wiki, they are ideas associated with a community."
+    },
+    {
+      "type": "paragraph",
+      "id": "ceffc10fc4a23ae3",
+      "text": "And it's not a newsletter, or a blog -- these ideas are *maintained*. They are iterated, recursed."
+    },
+    {
+      "type": "paragraph",
+      "id": "0b533e1ea3cb89d2",
+      "text": "And deep in the quote is the rationale for aggressive pruning -- maintenance takes effort, and not everything can be maintained."
+    },
+    {
+      "type": "paragraph",
+      "id": "43aef1d2be67e799",
+      "text": "*Fedwiki* is a collection of ideas an individual is willing to maintain, in cooperation with a community."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Collection of Ideas",
+        "story": []
+      },
+      "date": 1414822118057
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b464502e189f1d3"
+      },
+      "id": "3b464502e189f1d3",
+      "type": "add",
+      "date": 1414822119233
+    },
+    {
+      "type": "edit",
+      "id": "3b464502e189f1d3",
+      "item": {
+        "type": "paragraph",
+        "id": "3b464502e189f1d3",
+        "text": "\"A wiki is a collection of ideas a community is willing to maintain.\" - Ward Cunningham."
+      },
+      "date": 1414822154010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "32f6bc828106adba",
+        "text": ""
+      },
+      "id": "32f6bc828106adba",
+      "type": "add",
+      "after": "3b464502e189f1d3",
+      "date": 1414822154027
+    },
+    {
+      "type": "edit",
+      "id": "32f6bc828106adba",
+      "item": {
+        "type": "paragraph",
+        "id": "32f6bc828106adba",
+        "text": "Typical Ward quote, highly compressed."
+      },
+      "date": 1414822175671
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "168ccf5033506396",
+        "text": ""
+      },
+      "id": "168ccf5033506396",
+      "type": "add",
+      "after": "32f6bc828106adba",
+      "date": 1414822175689
+    },
+    {
+      "type": "edit",
+      "id": "168ccf5033506396",
+      "item": {
+        "type": "paragraph",
+        "id": "168ccf5033506396",
+        "text": "It's not a collection of pages, or facts. It's a collection of *ideas*."
+      },
+      "date": 1414822201037
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ff970d1741b7860c",
+        "text": ""
+      },
+      "id": "ff970d1741b7860c",
+      "type": "add",
+      "after": "168ccf5033506396",
+      "date": 1414822201051
+    },
+    {
+      "type": "edit",
+      "id": "ff970d1741b7860c",
+      "item": {
+        "type": "paragraph",
+        "id": "ff970d1741b7860c",
+        "text": "In traditional wiki, they are ideas associated with a community."
+      },
+      "date": 1414822240332
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ceffc10fc4a23ae3",
+        "text": ""
+      },
+      "id": "ceffc10fc4a23ae3",
+      "type": "add",
+      "after": "ff970d1741b7860c",
+      "date": 1414822240349
+    },
+    {
+      "type": "edit",
+      "id": "ceffc10fc4a23ae3",
+      "item": {
+        "type": "paragraph",
+        "id": "ceffc10fc4a23ae3",
+        "text": "And it's not a newsletter, or a blog -- these ideas are *maintained*. "
+      },
+      "date": 1414822293879
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0b533e1ea3cb89d2",
+        "text": ""
+      },
+      "id": "0b533e1ea3cb89d2",
+      "type": "add",
+      "after": "ceffc10fc4a23ae3",
+      "date": 1414822293898
+    },
+    {
+      "type": "edit",
+      "id": "0b533e1ea3cb89d2",
+      "item": {
+        "type": "paragraph",
+        "id": "0b533e1ea3cb89d2",
+        "text": "And deep in the quote is the rationale for aggressive pruning -- maintenance takes effort, and not everything can be maintained."
+      },
+      "date": 1414822385945
+    },
+    {
+      "type": "edit",
+      "id": "ceffc10fc4a23ae3",
+      "item": {
+        "type": "paragraph",
+        "id": "ceffc10fc4a23ae3",
+        "text": "And it's not a newsletter, or a blog -- these ideas are *maintained*. They are iterated, recursed."
+      },
+      "date": 1414855719216
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "43aef1d2be67e799",
+        "text": ""
+      },
+      "id": "43aef1d2be67e799",
+      "type": "add",
+      "after": "0b533e1ea3cb89d2",
+      "date": 1414862627261
+    },
+    {
+      "type": "edit",
+      "id": "43aef1d2be67e799",
+      "item": {
+        "type": "paragraph",
+        "id": "43aef1d2be67e799",
+        "text": "Fedwiki is a collection of ideas an individual is willing to maintain, in cooperation with a community."
+      },
+      "date": 1414862692830
+    },
+    {
+      "type": "edit",
+      "id": "168ccf5033506396",
+      "item": {
+        "type": "paragraph",
+        "id": "168ccf5033506396",
+        "text": "It's not a collection of pages, or facts. It's a collection of *ideas*. Ideas are linked."
+      },
+      "date": 1414862819818
+    },
+    {
+      "type": "edit",
+      "id": "43aef1d2be67e799",
+      "item": {
+        "type": "paragraph",
+        "id": "43aef1d2be67e799",
+        "text": "*Fedwiki* is a collection of ideas an individual is willing to maintain, in cooperation with a community."
+      },
+      "date": 1414862863559
+    },
+    {
+      "type": "edit",
+      "id": "3b464502e189f1d3",
+      "item": {
+        "type": "paragraph",
+        "id": "3b464502e189f1d3",
+        "text": " "
+      },
+      "date": 1414884158521
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f5e7308351851823",
+        "text": "\"A wiki is a collection of ideas a community is willing to maintain.\" - Ward Cunningham."
+      },
+      "id": "f5e7308351851823",
+      "type": "add",
+      "after": "3b464502e189f1d3",
+      "date": 1414884158548
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f6b18047be855fb",
+        "text": ""
+      },
+      "id": "6f6b18047be855fb",
+      "type": "add",
+      "after": "3b464502e189f1d3",
+      "date": 1414884158551
+    },
+    {
+      "type": "edit",
+      "id": "6f6b18047be855fb",
+      "item": {
+        "type": "paragraph",
+        "id": "6f6b18047be855fb",
+        "text": "Phrase in Ward Cunningham's definition of wiki. Found on [[WikiWikiWeb]]."
+      },
+      "date": 1414884216762
+    },
+    {
+      "type": "edit",
+      "id": "6f6b18047be855fb",
+      "item": {
+        "type": "paragraph",
+        "id": "6f6b18047be855fb",
+        "text": "Phrase in Ward Cunningham's definition of wiki. Found on [[WikiWikiWeb]]. Here we unpack the meaning of that quote."
+      },
+      "date": 1414884240190
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415115804257
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1416306612161
+    }
+  ]
+}

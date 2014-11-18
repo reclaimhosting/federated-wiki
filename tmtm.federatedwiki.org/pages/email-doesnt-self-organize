@@ -1,0 +1,44 @@
+{
+  "title": "Email Doesn't Self-Organize",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ea1ff87b46511c25",
+      "text": "A discussion in wiki (when in [[Document Mode]]) self-organizes. As new comments and information are added to the discussion they are integrated into the main document, allowing people returning to a conversation to quickly get the current community understanding. Email conversations, on the other hand, force one to retrace the entire conversation."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Email Doesn't Self-Organize",
+        "story": []
+      },
+      "date": 1415679949557
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ea1ff87b46511c25"
+      },
+      "id": "ea1ff87b46511c25",
+      "type": "add",
+      "date": 1415679951222
+    },
+    {
+      "type": "edit",
+      "id": "ea1ff87b46511c25",
+      "item": {
+        "type": "paragraph",
+        "id": "ea1ff87b46511c25",
+        "text": "A discussion in wiki (when in [[Document Mode]]) self-organizes. As new comments and information are added to the discussion they are integrated into the main document, allowing people returning to a conversation to quickly get the current community understanding. Email conversations, on the other hand, force one to retrace the entire conversation."
+      },
+      "date": 1415680363674
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1416305972703
+    }
+  ]
+}

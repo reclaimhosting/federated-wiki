@@ -2,16 +2,6 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "paragraph",
-      "id": "8309e05a496b44d7",
-      "text": "Circles"
-    },
-    {
-      "type": "paragraph",
-      "id": "49b158f6ba884778",
-      "text": "[[All Teams]]"
-    },
-    {
       "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
@@ -610,6 +600,16 @@
         "text": "[[Film Summary Activity]]"
       },
       "date": 1416503432673
+    },
+    {
+      "type": "remove",
+      "id": "49b158f6ba884778",
+      "date": 1416504499384
+    },
+    {
+      "type": "remove",
+      "id": "8309e05a496b44d7",
+      "date": 1416504502346
     }
   ]
 }

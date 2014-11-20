@@ -1,0 +1,65 @@
+{
+  "title": "Hatsune Miku",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "08237771bb9ed6ff",
+      "text": "Released in 2007 by Crypton Future "
+    },
+    {
+      "type": "paragraph",
+      "id": "9941121f172ecfd9",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hatsune Miku",
+        "story": []
+      },
+      "date": 1416498103552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08237771bb9ed6ff"
+      },
+      "id": "08237771bb9ed6ff",
+      "type": "add",
+      "date": 1416498171754
+    },
+    {
+      "type": "edit",
+      "id": "08237771bb9ed6ff",
+      "item": {
+        "type": "paragraph",
+        "id": "08237771bb9ed6ff",
+        "text": "Released in 2007 by "
+      },
+      "date": 1416498184513
+    },
+    {
+      "type": "edit",
+      "id": "08237771bb9ed6ff",
+      "item": {
+        "type": "paragraph",
+        "id": "08237771bb9ed6ff",
+        "text": "Released in 2007 by Crypton Future "
+      },
+      "date": 1416498338283
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9941121f172ecfd9",
+        "text": ""
+      },
+      "id": "9941121f172ecfd9",
+      "type": "add",
+      "after": "08237771bb9ed6ff",
+      "date": 1416498445130
+    }
+  ]
+}

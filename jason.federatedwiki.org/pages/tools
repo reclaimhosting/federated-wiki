@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "d61fb00165af92c4",
       "text": "[[Musicianship Resources by Kris Shaffer]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "191a3011d927bee6",
+      "text": "[[Hatsune Miku]]"
     }
   ],
   "journal": [
@@ -105,6 +110,42 @@
       "type": "remove",
       "id": "95b0d25b1e7d2e47",
       "date": 1416027761727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "191a3011d927bee6"
+      },
+      "id": "191a3011d927bee6",
+      "type": "add",
+      "after": "d61fb00165af92c4",
+      "date": 1416498073138
+    },
+    {
+      "type": "edit",
+      "id": "191a3011d927bee6",
+      "item": {
+        "type": "paragraph",
+        "id": "191a3011d927bee6",
+        "text": "[[Hatsune Miku]]"
+      },
+      "date": 1416498095018
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1680eb1316f84535",
+        "text": ""
+      },
+      "id": "1680eb1316f84535",
+      "type": "add",
+      "after": "191a3011d927bee6",
+      "date": 1416498095028
+    },
+    {
+      "type": "remove",
+      "id": "1680eb1316f84535",
+      "date": 1416498098267
     }
   ]
 }

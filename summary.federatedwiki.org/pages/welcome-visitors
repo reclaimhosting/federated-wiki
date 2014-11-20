@@ -24,19 +24,18 @@
     },
     {
       "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[Film Summary Activity]]"
-    },
-    {
-      "type": "paragraph",
       "id": "5ced9791f85da182",
       "text": "[[Film Summary Template]]"
     },
     {
       "type": "paragraph",
+      "id": "8ca58745b8dccbc7",
+      "text": "Circles"
+    },
+    {
+      "type": "paragraph",
       "id": "1a4c3ababca74454",
-      "text": "[[Other Teams]]"
+      "text": "[[All Teams]]"
     },
     {
       "type": "paragraph",
@@ -497,6 +496,68 @@
         "text": "[[Other Teams]]"
       },
       "date": 1416501858768
+    },
+    {
+      "type": "edit",
+      "id": "1a4c3ababca74454",
+      "item": {
+        "type": "paragraph",
+        "id": "1a4c3ababca74454",
+        "text": "[[All Teams]]"
+      },
+      "date": 1416502394940
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ca58745b8dccbc7",
+        "text": ""
+      },
+      "id": "8ca58745b8dccbc7",
+      "type": "add",
+      "after": "5ced9791f85da182",
+      "date": 1416502503130
+    },
+    {
+      "type": "edit",
+      "id": "8ca58745b8dccbc7",
+      "item": {
+        "type": "paragraph",
+        "id": "8ca58745b8dccbc7",
+        "text": "Circles"
+      },
+      "date": 1416502513019
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1416502524708
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95e42f97fce8baba",
+        "text": ""
+      },
+      "id": "95e42f97fce8baba",
+      "type": "add",
+      "after": "5ced9791f85da182",
+      "date": 1416502801241
+    },
+    {
+      "type": "edit",
+      "id": "95e42f97fce8baba",
+      "item": {
+        "type": "paragraph",
+        "id": "95e42f97fce8baba",
+        "text": "[[All Teams]]"
+      },
+      "date": 1416502803781
+    },
+    {
+      "type": "remove",
+      "id": "95e42f97fce8baba",
+      "date": 1416502813303
     }
   ]
 }

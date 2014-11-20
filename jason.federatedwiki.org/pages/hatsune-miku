@@ -10,6 +10,21 @@
       "type": "paragraph",
       "id": "9941121f172ecfd9",
       "text": "In this phenomenon, one see simultaneously the \"replacement\" of a human vocalist with software, and a tool which opens pop song writing and production to millions.  Numerous critiques of Hatsune have pointed out that as software, Hatsune is not subject to the srlf-destructive behaviots of real pop stars"
+    },
+    {
+      "type": "pagefold",
+      "id": "cac691fe8c25c91e",
+      "text": "Sources\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4687a4b0d2e9af71",
+      "text": "[http://www.wired.com/2012/10/mf-japan-pop-star-hatsune-miku/all/ How Virtual Pop Star Hatsune Miku Blew Up in Japan] Wired"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f3ff31aaba48ba4",
+      "text": "[http://www.vulture.com/2014/11/hatsune-miku-the-future-of-music.html The Post-Human Pop Singer] New York Magazine"
     }
   ],
   "journal": [
@@ -86,6 +101,144 @@
       "type": "remove",
       "id": "af1d54b2abb225c7",
       "date": 1416499214073
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cac691fe8c25c91e"
+      },
+      "id": "cac691fe8c25c91e",
+      "type": "add",
+      "after": "9941121f172ecfd9",
+      "date": 1416502223465
+    },
+    {
+      "type": "edit",
+      "id": "cac691fe8c25c91e",
+      "item": {
+        "type": "pagefold",
+        "id": "cac691fe8c25c91e",
+        "text": "Sources\n\n"
+      },
+      "date": 1416502238906
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4687a4b0d2e9af71"
+      },
+      "id": "4687a4b0d2e9af71",
+      "type": "add",
+      "after": "cac691fe8c25c91e",
+      "date": 1416502240999
+    },
+    {
+      "type": "edit",
+      "id": "4687a4b0d2e9af71",
+      "item": {
+        "type": "paragraph",
+        "id": "4687a4b0d2e9af71",
+        "text": "[http://www.wired.com/2012/10/mf-japan-pop-star-hatsune-miku/all/ Wired magazine story]"
+      },
+      "date": 1416502264948
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae71d9b8f15e3e97",
+        "text": ""
+      },
+      "id": "ae71d9b8f15e3e97",
+      "type": "add",
+      "after": "4687a4b0d2e9af71",
+      "date": 1416502264981
+    },
+    {
+      "type": "remove",
+      "id": "ae71d9b8f15e3e97",
+      "date": 1416502269629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f3ff31aaba48ba4"
+      },
+      "id": "2f3ff31aaba48ba4",
+      "type": "add",
+      "after": "4687a4b0d2e9af71",
+      "date": 1416502499037
+    },
+    {
+      "type": "edit",
+      "id": "2f3ff31aaba48ba4",
+      "item": {
+        "type": "paragraph",
+        "id": "2f3ff31aaba48ba4",
+        "text": "[http://www.vulture.com/2014/11/hatsune-miku-the-future-of-music.html The Post-Human Pop Singer] New York Magazine"
+      },
+      "date": 1416502520591
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bc2f946780abb7b9",
+        "text": ""
+      },
+      "id": "bc2f946780abb7b9",
+      "type": "add",
+      "after": "2f3ff31aaba48ba4",
+      "date": 1416502520607
+    },
+    {
+      "type": "remove",
+      "id": "bc2f946780abb7b9",
+      "date": 1416502526802
+    },
+    {
+      "type": "edit",
+      "id": "4687a4b0d2e9af71",
+      "item": {
+        "type": "paragraph",
+        "id": "4687a4b0d2e9af71",
+        "text": "[http://www.wired.com/2012/10/mf-japan-pop-star-hatsune-miku/all/ ] Wired magazine story"
+      },
+      "date": 1416502696819
+    },
+    {
+      "type": "edit",
+      "id": "4687a4b0d2e9af71",
+      "item": {
+        "type": "paragraph",
+        "id": "4687a4b0d2e9af71",
+        "text": "[http://www.wired.com/2012/10/mf-japan-pop-star-hatsune-miku/all/ How Virtual Pop Star Hatsune Miku Blew Up in Japan] Wired magazine story"
+      },
+      "date": 1416502761332
+    },
+    {
+      "type": "edit",
+      "id": "4687a4b0d2e9af71",
+      "item": {
+        "type": "paragraph",
+        "id": "4687a4b0d2e9af71",
+        "text": "[http://www.wired.com/2012/10/mf-japan-pop-star-hatsune-miku/all/ How Virtual Pop Star Hatsune Miku Blew Up in Japan] Wired"
+      },
+      "date": 1416502774951
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ba7ad58385a94d1f",
+        "text": ""
+      },
+      "id": "ba7ad58385a94d1f",
+      "type": "add",
+      "after": "4687a4b0d2e9af71",
+      "date": 1416502774970
+    },
+    {
+      "type": "remove",
+      "id": "ba7ad58385a94d1f",
+      "date": 1416502777184
     }
   ]
 }

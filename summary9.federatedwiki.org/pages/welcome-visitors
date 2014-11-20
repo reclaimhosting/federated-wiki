@@ -2,6 +2,11 @@
   "title": "Welcome Visitors",
   "story": [
     {
+      "type": "paragraph",
+      "id": "49b158f6ba884778",
+      "text": "[[All Teams]]"
+    },
+    {
       "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
@@ -24,9 +29,18 @@
     },
     {
       "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[Film Summary Activity]]"
+      "id": "5ced9791f85da182",
+      "text": "[[Film Summary Template]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ca58745b8dccbc7",
+      "text": "Circles"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a4c3ababca74454",
+      "text": "[[All Teams]]"
     },
     {
       "type": "paragraph",
@@ -437,9 +451,97 @@
       "date": 1416500032924
     },
     {
+      "item": {
+        "type": "paragraph",
+        "id": "5ced9791f85da182",
+        "text": ""
+      },
+      "id": "5ced9791f85da182",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1416500561496
+    },
+    {
+      "type": "edit",
+      "id": "5ced9791f85da182",
+      "item": {
+        "type": "paragraph",
+        "id": "5ced9791f85da182",
+        "text": "[[Summary Template]]"
+      },
+      "date": 1416500579386
+    },
+    {
+      "type": "edit",
+      "id": "5ced9791f85da182",
+      "item": {
+        "type": "paragraph",
+        "id": "5ced9791f85da182",
+        "text": "[[Film Summary Template]]"
+      },
+      "date": 1416500598836
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1a4c3ababca74454",
+        "text": ""
+      },
+      "id": "1a4c3ababca74454",
+      "type": "add",
+      "after": "5ced9791f85da182",
+      "date": 1416501850082
+    },
+    {
+      "type": "edit",
+      "id": "1a4c3ababca74454",
+      "item": {
+        "type": "paragraph",
+        "id": "1a4c3ababca74454",
+        "text": "[[Other Teams]]"
+      },
+      "date": 1416501858768
+    },
+    {
+      "type": "edit",
+      "id": "1a4c3ababca74454",
+      "item": {
+        "type": "paragraph",
+        "id": "1a4c3ababca74454",
+        "text": "[[All Teams]]"
+      },
+      "date": 1416502394940
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8ca58745b8dccbc7",
+        "text": ""
+      },
+      "id": "8ca58745b8dccbc7",
+      "type": "add",
+      "after": "5ced9791f85da182",
+      "date": 1416502503130
+    },
+    {
+      "type": "edit",
+      "id": "8ca58745b8dccbc7",
+      "item": {
+        "type": "paragraph",
+        "id": "8ca58745b8dccbc7",
+        "text": "Circles"
+      },
+      "date": 1416502513019
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1416502524708
+    },
+    {
       "type": "fork",
       "site": "summary.federatedwiki.org",
-      "date": 1416500488424
+      "date": 1416502545870
     },
     {
       "type": "edit",
@@ -450,7 +552,28 @@
         "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
         "text": "[[Team Nine]]"
       },
-      "date": 1416502059986
+      "date": 1416502585022
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "49b158f6ba884778",
+        "text": ""
+      },
+      "id": "49b158f6ba884778",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1416502795196
+    },
+    {
+      "type": "edit",
+      "id": "49b158f6ba884778",
+      "item": {
+        "type": "paragraph",
+        "id": "49b158f6ba884778",
+        "text": "[[All Teams]]"
+      },
+      "date": 1416502797994
     }
   ]
 }

@@ -15,7 +15,7 @@
       "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
       "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "text": "[[Team Name]]"
+      "text": "[[Team Three]]"
     },
     {
       "type": "paragraph",
@@ -27,6 +27,11 @@
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
       "text": "[[Film Summary Activity]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "481bd8487e31139e",
+      "text": "[[All Teams]]"
     },
     {
       "type": "paragraph",
@@ -440,6 +445,38 @@
       "type": "fork",
       "site": "summary.federatedwiki.org",
       "date": 1416500237418
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[Team Three]]"
+      },
+      "date": 1416502231966
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "481bd8487e31139e",
+        "text": ""
+      },
+      "id": "481bd8487e31139e",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1416502763965
+    },
+    {
+      "type": "edit",
+      "id": "481bd8487e31139e",
+      "item": {
+        "type": "paragraph",
+        "id": "481bd8487e31139e",
+        "text": "[[All Teams]]"
+      },
+      "date": 1416502766568
     }
   ]
 }

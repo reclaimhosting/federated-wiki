@@ -1,0 +1,295 @@
+{
+  "title": "All Teams",
+  "story": [
+    {
+      "type": "reference",
+      "id": "966797d866e6f769",
+      "site": "summary1.federatedwiki.org",
+      "title": "Team One",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "4ad5304094963788",
+      "site": "summary2.federatedwiki.org",
+      "title": "Team Two",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "7b5824f0abc32248",
+      "site": "summary3.federatedwiki.org",
+      "title": "Team Three",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "503efadb51bcd272",
+      "site": "summary4.federatedwiki.org",
+      "title": "Team Four",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "4cfc4931e722a81f",
+      "site": "summary5.federatedwiki.org",
+      "title": "Team Five",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "2a43d5f5a1f5be55",
+      "site": "summary6.federatedwiki.org",
+      "title": "Team Six",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "151658bfc276d314",
+      "site": "summary7.federatedwiki.org",
+      "title": "Team Seven",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "c21a7ec28e040666",
+      "site": "summary8.federatedwiki.org",
+      "title": "Team Eight",
+      "text": "A page with 0 items."
+    },
+    {
+      "type": "reference",
+      "id": "7c72c0df3f462cf4",
+      "site": "summary9.federatedwiki.org",
+      "title": "Team Nine",
+      "text": "A page with 0 items."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "All Teams",
+        "story": []
+      },
+      "date": 1416502402002
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "966797d866e6f769"
+      },
+      "id": "966797d866e6f769",
+      "type": "add",
+      "date": 1416502403285
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ad5304094963788"
+      },
+      "id": "4ad5304094963788",
+      "type": "add",
+      "after": "966797d866e6f769",
+      "date": 1416502404302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b5824f0abc32248"
+      },
+      "id": "7b5824f0abc32248",
+      "type": "add",
+      "after": "4ad5304094963788",
+      "date": 1416502405355
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "503efadb51bcd272"
+      },
+      "id": "503efadb51bcd272",
+      "type": "add",
+      "after": "7b5824f0abc32248",
+      "date": 1416502406427
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cfc4931e722a81f"
+      },
+      "id": "4cfc4931e722a81f",
+      "type": "add",
+      "after": "503efadb51bcd272",
+      "date": 1416502408678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a43d5f5a1f5be55"
+      },
+      "id": "2a43d5f5a1f5be55",
+      "type": "add",
+      "after": "4cfc4931e722a81f",
+      "date": 1416502411340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "151658bfc276d314"
+      },
+      "id": "151658bfc276d314",
+      "type": "add",
+      "after": "2a43d5f5a1f5be55",
+      "date": 1416502414075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c21a7ec28e040666"
+      },
+      "id": "c21a7ec28e040666",
+      "type": "add",
+      "after": "151658bfc276d314",
+      "date": 1416502416810
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c72c0df3f462cf4"
+      },
+      "id": "7c72c0df3f462cf4",
+      "type": "add",
+      "after": "c21a7ec28e040666",
+      "date": 1416502420464
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a3b9fe26d6da6a4"
+      },
+      "id": "7a3b9fe26d6da6a4",
+      "type": "add",
+      "after": "7c72c0df3f462cf4",
+      "date": 1416502422876
+    },
+    {
+      "type": "edit",
+      "id": "966797d866e6f769",
+      "item": {
+        "type": "reference",
+        "id": "966797d866e6f769",
+        "site": "summary1.federatedwiki.org",
+        "title": "Team One",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502433428
+    },
+    {
+      "type": "edit",
+      "id": "4ad5304094963788",
+      "item": {
+        "type": "reference",
+        "id": "4ad5304094963788",
+        "site": "summary2.federatedwiki.org",
+        "title": "Team Two",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502442627
+    },
+    {
+      "type": "edit",
+      "id": "7b5824f0abc32248",
+      "item": {
+        "type": "reference",
+        "id": "7b5824f0abc32248",
+        "site": "summary3.federatedwiki.org",
+        "title": "Team Three",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502448131
+    },
+    {
+      "type": "edit",
+      "id": "503efadb51bcd272",
+      "item": {
+        "type": "reference",
+        "id": "503efadb51bcd272",
+        "site": "summary4.federatedwiki.org",
+        "title": "Team Four",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502454315
+    },
+    {
+      "type": "edit",
+      "id": "4cfc4931e722a81f",
+      "item": {
+        "type": "reference",
+        "id": "4cfc4931e722a81f",
+        "site": "summary5.federatedwiki.org",
+        "title": "Team Five",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502459576
+    },
+    {
+      "type": "edit",
+      "id": "2a43d5f5a1f5be55",
+      "item": {
+        "type": "reference",
+        "id": "2a43d5f5a1f5be55",
+        "site": "summary6.federatedwiki.org",
+        "title": "Team Six",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502465014
+    },
+    {
+      "type": "edit",
+      "id": "151658bfc276d314",
+      "item": {
+        "type": "reference",
+        "id": "151658bfc276d314",
+        "site": "summary7.federatedwiki.org",
+        "title": "Team Seven",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502471138
+    },
+    {
+      "type": "edit",
+      "id": "c21a7ec28e040666",
+      "item": {
+        "type": "reference",
+        "id": "c21a7ec28e040666",
+        "site": "summary8.federatedwiki.org",
+        "title": "Team Eight",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502477484
+    },
+    {
+      "type": "edit",
+      "id": "7c72c0df3f462cf4",
+      "item": {
+        "type": "reference",
+        "id": "7c72c0df3f462cf4",
+        "site": "summary9.federatedwiki.org",
+        "title": "Team Nine",
+        "text": "A page with 0 items."
+      },
+      "date": 1416502496450
+    },
+    {
+      "type": "remove",
+      "id": "7a3b9fe26d6da6a4",
+      "date": 1416502668032
+    },
+    {
+      "type": "fork",
+      "site": "summary.federatedwiki.org",
+      "date": 1416502702926
+    }
+  ]
+}

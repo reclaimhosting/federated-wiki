@@ -8,11 +8,6 @@
     },
     {
       "type": "paragraph",
-      "id": "951596aeebdfc734",
-      "text": "Create a site on federatedwiki.org"
-    },
-    {
-      "type": "paragraph",
       "id": "f83eb0fbd54353b6",
       "text": "Create a link on your origin page called"
     },
@@ -24,17 +19,12 @@
     {
       "type": "paragraph",
       "id": "3a145b55d7a711c8",
-      "text": "Click it and create your film page. "
+      "text": "Click it and create your film page using the film summary template. "
     },
     {
       "type": "paragraph",
-      "id": "16e5d62b05cae74d",
-      "text": "Type \"This is the page for the Film Activity\"."
-    },
-    {
-      "type": "paragraph",
-      "id": "06dd8c89ec0ce09d",
-      "text": "Add a Link for [[Recent Farm Activity]]"
+      "id": "1ce31d5b98173d65",
+      "text": "Follow the instructions on the template."
     }
   ],
   "journal": [
@@ -198,6 +188,52 @@
         "text": "Add a Link for [[Recent Farm Activity]]"
       },
       "date": 1416499423040
+    },
+    {
+      "type": "remove",
+      "id": "951596aeebdfc734",
+      "date": 1416502921527
+    },
+    {
+      "type": "remove",
+      "id": "06dd8c89ec0ce09d",
+      "date": 1416502929474
+    },
+    {
+      "type": "remove",
+      "id": "16e5d62b05cae74d",
+      "date": 1416502931855
+    },
+    {
+      "type": "edit",
+      "id": "3a145b55d7a711c8",
+      "item": {
+        "type": "paragraph",
+        "id": "3a145b55d7a711c8",
+        "text": "Click it and create your film page using the film summary template. "
+      },
+      "date": 1416502944575
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1ce31d5b98173d65",
+        "text": ""
+      },
+      "id": "1ce31d5b98173d65",
+      "type": "add",
+      "after": "3a145b55d7a711c8",
+      "date": 1416502944595
+    },
+    {
+      "type": "edit",
+      "id": "1ce31d5b98173d65",
+      "item": {
+        "type": "paragraph",
+        "id": "1ce31d5b98173d65",
+        "text": "Follow the instructions on the template."
+      },
+      "date": 1416502955507
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "9941121f172ecfd9",
-      "text": ""
+      "text": "In this phenomenon, one see simultaneously the \"replacement\" of a human vocalist with software, and a tool which opens pop song writing and production to millions.  Numerous critiques of Hatsune have pointed out that as software, Hatsune is not subject to the srlf-destructive behaviots of real pop stars"
     }
   ],
   "journal": [
@@ -60,6 +60,32 @@
       "type": "add",
       "after": "08237771bb9ed6ff",
       "date": 1416498445130
+    },
+    {
+      "type": "edit",
+      "id": "9941121f172ecfd9",
+      "item": {
+        "type": "paragraph",
+        "id": "9941121f172ecfd9",
+        "text": "In this phenomenon, one see simultaneously the \"replacement\" of a human vocalist with software, and a tool which opens pop song writing and production to millions.  Numerous critiques of Hatsune have pointed out that as software, Hatsune is not subject to the srlf-destructive behaviots of real pop stars"
+      },
+      "date": 1416499043071
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "af1d54b2abb225c7",
+        "text": ""
+      },
+      "id": "af1d54b2abb225c7",
+      "type": "add",
+      "after": "9941121f172ecfd9",
+      "date": 1416499043091
+    },
+    {
+      "type": "remove",
+      "id": "af1d54b2abb225c7",
+      "date": 1416499214073
     }
   ]
 }

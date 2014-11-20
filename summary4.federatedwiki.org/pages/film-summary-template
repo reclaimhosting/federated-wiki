@@ -1,0 +1,431 @@
+{
+  "title": "Film Summary Template",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f839ec0cf9f366c9",
+      "text": "Describe the film in three sentences. What is the film about, what genre is it, who did it star/who wrote or directed it, what is it's significance (best movie of that director, largest grossing movie, won award, etc. When done, delete this instruction paragraph."
+    },
+    {
+      "type": "factory",
+      "id": "144bed6459d5087d"
+    },
+    {
+      "type": "paragraph",
+      "id": "0dd30e19bb544bab",
+      "text": "<h3>Plot and Characters</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "a0145dd873335a18",
+      "text": "Write a two paragraph description of plot that includes link words for characters and other important nouns.When done, delete this instruction paragraph."
+    },
+    {
+      "type": "factory",
+      "id": "04830ff930d0b58e"
+    },
+    {
+      "type": "paragraph",
+      "id": "a81a914f5daa4a11",
+      "text": "<h3>Style</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "b1afcee1b5dce1a5",
+      "text": "What is the style of the film? What subgenres is it associated with? What influence has the style had and what was it influenced by? Look at Wikipedia descriptions for some idea on things to include. when done, delete this instruction paragraph."
+    },
+    {
+      "type": "factory",
+      "id": "a187ee46387e5e8b"
+    },
+    {
+      "type": "paragraph",
+      "id": "051049fe9ba419c9",
+      "text": "<h3>Themes</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "7cddc3049bf634b4",
+      "text": "What are the major themes of the film? Cultural significance? Relation to other Work of the time? Has there been any criticism of the themes? Any analysis of why the themes were compelling/not compelling? Influence on future work? When done, delete this instruction paragraph."
+    },
+    {
+      "type": "factory",
+      "id": "1c5589997c5edd3d"
+    },
+    {
+      "type": "paragraph",
+      "id": "c53c50ce547464e4",
+      "text": "<h3>Link Words Then Push Out</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "fa692d0915f12594",
+      "text": "After writing each description, assign someone to go to the wiki and click those link words and fill them out. You ae competing with other teams for the most comprehensive site. "
+    },
+    {
+      "type": "paragraph",
+      "id": "985e92f524d697c0",
+      "text": "Do not use the Summary Template for pages that are not full film summaries."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Film Summary Template",
+        "story": []
+      },
+      "date": 1416500603474
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f839ec0cf9f366c9"
+      },
+      "id": "f839ec0cf9f366c9",
+      "type": "add",
+      "date": 1416500605503
+    },
+    {
+      "type": "edit",
+      "id": "f839ec0cf9f366c9",
+      "item": {
+        "type": "paragraph",
+        "id": "f839ec0cf9f366c9",
+        "text": "Describe the film in three sentences. What is the film about, what genre is it, who did it star/who wrote or directed it, what is it's significance (best movie of that director, largest grossing movie, won award, etc. When done, delete this instruction paragraph."
+      },
+      "date": 1416500776344
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "144bed6459d5087d"
+      },
+      "id": "144bed6459d5087d",
+      "type": "add",
+      "after": "f839ec0cf9f366c9",
+      "date": 1416500779126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a81a914f5daa4a11"
+      },
+      "id": "a81a914f5daa4a11",
+      "type": "add",
+      "after": "144bed6459d5087d",
+      "date": 1416500784414
+    },
+    {
+      "type": "edit",
+      "id": "a81a914f5daa4a11",
+      "item": {
+        "type": "paragraph",
+        "id": "a81a914f5daa4a11",
+        "text": "<h3>Style</h3>"
+      },
+      "date": 1416500800604
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b1afcee1b5dce1a5",
+        "text": ""
+      },
+      "id": "b1afcee1b5dce1a5",
+      "type": "add",
+      "after": "a81a914f5daa4a11",
+      "date": 1416500800637
+    },
+    {
+      "type": "edit",
+      "id": "b1afcee1b5dce1a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b1afcee1b5dce1a5",
+        "text": "What is the style of the film? What subgenres is it associated with? What influence has the style had and what was it influenced by? "
+      },
+      "date": 1416500851029
+    },
+    {
+      "type": "edit",
+      "id": "b1afcee1b5dce1a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b1afcee1b5dce1a5",
+        "text": "What is the style of the film? What subgenres is it associated with? What influence has the style had and what was it influenced by? Look at Wikipedia descriptions for some idea on things to include."
+      },
+      "date": 1416500878917
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ca15e2e4c9c76576",
+        "text": ""
+      },
+      "id": "ca15e2e4c9c76576",
+      "type": "add",
+      "after": "b1afcee1b5dce1a5",
+      "date": 1416500878937
+    },
+    {
+      "type": "remove",
+      "id": "ca15e2e4c9c76576",
+      "date": 1416500881071
+    },
+    {
+      "type": "edit",
+      "id": "b1afcee1b5dce1a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b1afcee1b5dce1a5",
+        "text": "What is the style of the film? What subgenres is it associated with? What influence has the style had and what was it influenced by? Look at Wikipedia descriptions for some idea on things to include. when done, delete this instruction paragraph."
+      },
+      "date": 1416500911070
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1b513984012c0793",
+        "text": ""
+      },
+      "id": "1b513984012c0793",
+      "type": "add",
+      "after": "b1afcee1b5dce1a5",
+      "date": 1416500911089
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a187ee46387e5e8b"
+      },
+      "id": "a187ee46387e5e8b",
+      "type": "add",
+      "after": "b1afcee1b5dce1a5",
+      "date": 1416500916316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "051049fe9ba419c9"
+      },
+      "id": "051049fe9ba419c9",
+      "type": "add",
+      "after": "a187ee46387e5e8b",
+      "date": 1416500920784
+    },
+    {
+      "type": "edit",
+      "id": "051049fe9ba419c9",
+      "item": {
+        "type": "paragraph",
+        "id": "051049fe9ba419c9",
+        "text": "<h3>Themes</h3>"
+      },
+      "date": 1416500936637
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7cddc3049bf634b4",
+        "text": ""
+      },
+      "id": "7cddc3049bf634b4",
+      "type": "add",
+      "after": "051049fe9ba419c9",
+      "date": 1416500936655
+    },
+    {
+      "type": "edit",
+      "id": "7cddc3049bf634b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7cddc3049bf634b4",
+        "text": "What are the major themes of the film? Cultural significance? Relation to other Work of the time? Has there been any criticism of the themes? Any analysis of why the themes were compelling/not compelling? Influence on future work? "
+      },
+      "date": 1416501079883
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c5589997c5edd3d"
+      },
+      "id": "1c5589997c5edd3d",
+      "type": "add",
+      "after": "7cddc3049bf634b4",
+      "date": 1416501080965
+    },
+    {
+      "type": "edit",
+      "id": "7cddc3049bf634b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7cddc3049bf634b4",
+        "text": "What are the major themes of the film? Cultural significance? Relation to other Work of the time? Has there been any criticism of the themes? Any analysis of why the themes were compelling/not compelling? Influence on future work? When done, delete this instruction paragraph."
+      },
+      "date": 1416501107311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0dd30e19bb544bab"
+      },
+      "id": "0dd30e19bb544bab",
+      "type": "add",
+      "after": "1c5589997c5edd3d",
+      "date": 1416501111710
+    },
+    {
+      "type": "edit",
+      "id": "0dd30e19bb544bab",
+      "item": {
+        "type": "paragraph",
+        "id": "0dd30e19bb544bab",
+        "text": "<h3>Plot and Characters</h3>"
+      },
+      "date": 1416501133460
+    },
+    {
+      "type": "move",
+      "order": [
+        "f839ec0cf9f366c9",
+        "144bed6459d5087d",
+        "0dd30e19bb544bab",
+        "a81a914f5daa4a11",
+        "b1afcee1b5dce1a5",
+        "a187ee46387e5e8b",
+        "051049fe9ba419c9",
+        "7cddc3049bf634b4",
+        "1c5589997c5edd3d"
+      ],
+      "id": "0dd30e19bb544bab",
+      "date": 1416501139766
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0145dd873335a18",
+        "text": ""
+      },
+      "id": "a0145dd873335a18",
+      "type": "add",
+      "after": "0dd30e19bb544bab",
+      "date": 1416501141863
+    },
+    {
+      "type": "edit",
+      "id": "a0145dd873335a18",
+      "item": {
+        "type": "paragraph",
+        "id": "a0145dd873335a18",
+        "text": "A two paragraph description of plot that includes link words for characters and other important nouns."
+      },
+      "date": 1416501191097
+    },
+    {
+      "type": "edit",
+      "id": "a0145dd873335a18",
+      "item": {
+        "type": "paragraph",
+        "id": "a0145dd873335a18",
+        "text": "Write a two paragraph description of plot that includes link words for characters and other important nouns.When done, delete this instruction paragraph."
+      },
+      "date": 1416501224968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04830ff930d0b58e"
+      },
+      "id": "04830ff930d0b58e",
+      "type": "add",
+      "after": "1c5589997c5edd3d",
+      "date": 1416501230768
+    },
+    {
+      "type": "move",
+      "order": [
+        "f839ec0cf9f366c9",
+        "144bed6459d5087d",
+        "0dd30e19bb544bab",
+        "a0145dd873335a18",
+        "04830ff930d0b58e",
+        "a81a914f5daa4a11",
+        "b1afcee1b5dce1a5",
+        "a187ee46387e5e8b",
+        "051049fe9ba419c9",
+        "7cddc3049bf634b4",
+        "1c5589997c5edd3d"
+      ],
+      "id": "04830ff930d0b58e",
+      "date": 1416501236265
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c53c50ce547464e4"
+      },
+      "id": "c53c50ce547464e4",
+      "type": "add",
+      "after": "1c5589997c5edd3d",
+      "date": 1416501281182
+    },
+    {
+      "type": "edit",
+      "id": "c53c50ce547464e4",
+      "item": {
+        "type": "paragraph",
+        "id": "c53c50ce547464e4",
+        "text": "<h3>Link Words Then Push Out</h3>"
+      },
+      "date": 1416501305754
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fa692d0915f12594",
+        "text": ""
+      },
+      "id": "fa692d0915f12594",
+      "type": "add",
+      "after": "c53c50ce547464e4",
+      "date": 1416501305767
+    },
+    {
+      "type": "edit",
+      "id": "fa692d0915f12594",
+      "item": {
+        "type": "paragraph",
+        "id": "fa692d0915f12594",
+        "text": "After writing each description, assign someone to go to the wiki and click those link words and fill them out. You ae competing with other teams for the most comprehensive site. "
+      },
+      "date": 1416501436626
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "985e92f524d697c0",
+        "text": ""
+      },
+      "id": "985e92f524d697c0",
+      "type": "add",
+      "after": "fa692d0915f12594",
+      "date": 1416501436644
+    },
+    {
+      "type": "edit",
+      "id": "985e92f524d697c0",
+      "item": {
+        "type": "paragraph",
+        "id": "985e92f524d697c0",
+        "text": "Do not use the Summary Template for pages that are not full film summaries."
+      },
+      "date": 1416501465332
+    },
+    {
+      "type": "fork",
+      "site": "summary.federatedwiki.org",
+      "date": 1416502215333
+    }
+  ]
+}

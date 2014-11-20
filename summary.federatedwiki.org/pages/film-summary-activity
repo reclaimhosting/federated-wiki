@@ -1,0 +1,203 @@
+{
+  "title": "Film Summary Activity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4fb97a5632ba6cfa",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "951596aeebdfc734",
+      "text": "Create a site on federatedwiki.org"
+    },
+    {
+      "type": "paragraph",
+      "id": "f83eb0fbd54353b6",
+      "text": "Create a link on your origin page called"
+    },
+    {
+      "type": "code",
+      "id": "aa7482a5be095138",
+      "text": "[[Film]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3a145b55d7a711c8",
+      "text": "Click it and create your film page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "16e5d62b05cae74d",
+      "text": "Type \"This is the page for the Film Activity\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "06dd8c89ec0ce09d",
+      "text": "Add a Link for [[Recent Farm Activity]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Film Summary Activity",
+        "story": []
+      },
+      "date": 1416499224803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fb97a5632ba6cfa"
+      },
+      "id": "4fb97a5632ba6cfa",
+      "type": "add",
+      "date": 1416499225941
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa7482a5be095138"
+      },
+      "id": "aa7482a5be095138",
+      "type": "add",
+      "after": "4fb97a5632ba6cfa",
+      "date": 1416499262330
+    },
+    {
+      "type": "edit",
+      "id": "4fb97a5632ba6cfa",
+      "item": {
+        "type": "paragraph",
+        "id": "4fb97a5632ba6cfa",
+        "text": "Create a link on your origin page called"
+      },
+      "date": 1416499266333
+    },
+    {
+      "type": "edit",
+      "id": "aa7482a5be095138",
+      "item": {
+        "type": "code",
+        "id": "aa7482a5be095138",
+        "text": "[[Film]]"
+      },
+      "date": 1416499273478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a145b55d7a711c8"
+      },
+      "id": "3a145b55d7a711c8",
+      "type": "add",
+      "after": "aa7482a5be095138",
+      "date": 1416499276430
+    },
+    {
+      "type": "edit",
+      "id": "3a145b55d7a711c8",
+      "item": {
+        "type": "paragraph",
+        "id": "3a145b55d7a711c8",
+        "text": "Click it and create your film page. "
+      },
+      "date": 1416499302044
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "16e5d62b05cae74d",
+        "text": ""
+      },
+      "id": "16e5d62b05cae74d",
+      "type": "add",
+      "after": "3a145b55d7a711c8",
+      "date": 1416499302063
+    },
+    {
+      "type": "edit",
+      "id": "16e5d62b05cae74d",
+      "item": {
+        "type": "paragraph",
+        "id": "16e5d62b05cae74d",
+        "text": "Type \"This is the page for the Film Activity\"."
+      },
+      "date": 1416499336009
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "06dd8c89ec0ce09d",
+        "text": ""
+      },
+      "id": "06dd8c89ec0ce09d",
+      "type": "add",
+      "after": "16e5d62b05cae74d",
+      "date": 1416499336029
+    },
+    {
+      "type": "edit",
+      "id": "06dd8c89ec0ce09d",
+      "item": {
+        "type": "paragraph",
+        "id": "06dd8c89ec0ce09d",
+        "text": "D"
+      },
+      "date": 1416499347169
+    },
+    {
+      "type": "edit",
+      "id": "4fb97a5632ba6cfa",
+      "item": {
+        "type": "paragraph",
+        "id": "4fb97a5632ba6cfa",
+        "text": " "
+      },
+      "date": 1416499351710
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f83eb0fbd54353b6",
+        "text": "Create a link on your origin page called"
+      },
+      "id": "f83eb0fbd54353b6",
+      "type": "add",
+      "after": "4fb97a5632ba6cfa",
+      "date": 1416499351727
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "951596aeebdfc734",
+        "text": ""
+      },
+      "id": "951596aeebdfc734",
+      "type": "add",
+      "after": "4fb97a5632ba6cfa",
+      "date": 1416499351732
+    },
+    {
+      "type": "edit",
+      "id": "951596aeebdfc734",
+      "item": {
+        "type": "paragraph",
+        "id": "951596aeebdfc734",
+        "text": "Create a site on federatedwiki.org"
+      },
+      "date": 1416499383629
+    },
+    {
+      "type": "edit",
+      "id": "06dd8c89ec0ce09d",
+      "item": {
+        "type": "paragraph",
+        "id": "06dd8c89ec0ce09d",
+        "text": "Add a Link for [[Recent Farm Activity]]"
+      },
+      "date": 1416499423040
+    }
+  ]
+}

@@ -66,6 +66,13 @@
       "site": "innovation.federatedwiki.org",
       "title": "Innovation Wiki",
       "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+    },
+    {
+      "type": "reference",
+      "id": "3b4fa1077376fca6",
+      "site": "ward.fed.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
     }
   ],
   "journal": [
@@ -440,6 +447,28 @@
       "after": "a09896322fd64849",
       "id": "278f56692d71b8e5",
       "date": 1416334321108
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b4fa1077376fca6"
+      },
+      "id": "3b4fa1077376fca6",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1416585946859
+    },
+    {
+      "type": "edit",
+      "id": "3b4fa1077376fca6",
+      "item": {
+        "type": "reference",
+        "id": "3b4fa1077376fca6",
+        "site": "ward.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1416585950211
     }
   ]
 }

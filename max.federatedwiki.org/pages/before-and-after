@@ -1,0 +1,139 @@
+{
+  "title": "before and after",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ca7dc612216800da",
+      "text": "some words that have to do with before are"
+    },
+    {
+      "type": "paragraph",
+      "id": "1bdbc9f70e2abc0b",
+      "text": "precept"
+    },
+    {
+      "type": "paragraph",
+      "id": "75931dcaba4ce6d5",
+      "text": "predestination"
+    },
+    {
+      "type": "paragraph",
+      "id": "b0c67d506f06c474",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "98f08d187e99e014",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "7d64619792c85cab",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "before and after",
+        "story": []
+      },
+      "date": 1416594214784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca7dc612216800da"
+      },
+      "id": "ca7dc612216800da",
+      "type": "add",
+      "date": 1416594217204
+    },
+    {
+      "type": "edit",
+      "id": "ca7dc612216800da",
+      "item": {
+        "type": "paragraph",
+        "id": "ca7dc612216800da",
+        "text": "some words that have to do with before are"
+      },
+      "date": 1416594296889
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1bdbc9f70e2abc0b",
+        "text": ""
+      },
+      "id": "1bdbc9f70e2abc0b",
+      "type": "add",
+      "after": "ca7dc612216800da",
+      "date": 1416594296897
+    },
+    {
+      "type": "edit",
+      "id": "1bdbc9f70e2abc0b",
+      "item": {
+        "type": "paragraph",
+        "id": "1bdbc9f70e2abc0b",
+        "text": "precept"
+      },
+      "date": 1416594320516
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75931dcaba4ce6d5",
+        "text": ""
+      },
+      "id": "75931dcaba4ce6d5",
+      "type": "add",
+      "after": "1bdbc9f70e2abc0b",
+      "date": 1416594320520
+    },
+    {
+      "type": "edit",
+      "id": "75931dcaba4ce6d5",
+      "item": {
+        "type": "paragraph",
+        "id": "75931dcaba4ce6d5",
+        "text": "predestination"
+      },
+      "date": 1416594348958
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b0c67d506f06c474",
+        "text": ""
+      },
+      "id": "b0c67d506f06c474",
+      "type": "add",
+      "after": "75931dcaba4ce6d5",
+      "date": 1416594348966
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "98f08d187e99e014",
+        "text": ""
+      },
+      "id": "98f08d187e99e014",
+      "type": "add",
+      "after": "b0c67d506f06c474",
+      "date": 1416594356948
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d64619792c85cab",
+        "text": ""
+      },
+      "id": "7d64619792c85cab",
+      "type": "add",
+      "after": "98f08d187e99e014",
+      "date": 1416594356979
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "title": "vocabulary",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8d3254709df9bf65",
+      "text": "[[before and after]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,41 @@
         "story": []
       },
       "date": 1415598311446
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d3254709df9bf65"
+      },
+      "id": "8d3254709df9bf65",
+      "type": "add",
+      "date": 1416594128420
+    },
+    {
+      "type": "edit",
+      "id": "8d3254709df9bf65",
+      "item": {
+        "type": "paragraph",
+        "id": "8d3254709df9bf65",
+        "text": "[[before and after]]"
+      },
+      "date": 1416594209486
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "522c82527af07169",
+        "text": ""
+      },
+      "id": "522c82527af07169",
+      "type": "add",
+      "after": "8d3254709df9bf65",
+      "date": 1416594209494
+    },
+    {
+      "type": "remove",
+      "id": "522c82527af07169",
+      "date": 1416594210806
     }
   ]
 }

@@ -13,7 +13,7 @@
     },
     {
       "type": "factory",
-      "id": "c6711bc5a683a891"
+      "id": "207ccd44cf53212f"
     }
   ],
   "journal": [
@@ -142,6 +142,21 @@
       "type": "remove",
       "id": "851a83f2907de1de",
       "date": 1416175541713
+    },
+    {
+      "type": "remove",
+      "id": "c6711bc5a683a891",
+      "date": 1416695118289
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "207ccd44cf53212f"
+      },
+      "id": "207ccd44cf53212f",
+      "type": "add",
+      "after": "6811fa47761f840e",
+      "date": 1416695121400
     }
   ]
 }

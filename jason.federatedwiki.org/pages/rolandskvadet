@@ -2,15 +2,6 @@
   "title": "Rolandskvadet",
   "story": [
     {
-      "type": "factory",
-      "id": "7c2919b70e8f6e5d",
-      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://folk.uio.no/hege/Sanger/Rolandskvadet.html\"}<br>Try something else or see [[About Factory Plugin]].",
-      "punt": {
-        "url": "http://folk.uio.no/hege/Sanger/Rolandskvadet.html",
-        "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36"
-      }
-    },
-    {
       "type": "paragraph",
       "id": "51befdd3e41ba86b",
       "text": "Norwegian ballad which retells the story of the chanson de Roland.  Also referred to as Roland og Magnus Kongen."
@@ -36,13 +27,14 @@
       "text": "Text: "
     },
     {
-      "type": "factory",
+      "type": "paragraph",
       "id": "5bebbf37d5f376c0",
       "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://jasongreen.net/img/rolandskvadet.png\"}<br>Try something else or see [[About Factory Plugin]].",
       "punt": {
         "url": "http://jasongreen.net/img/rolandskvadet.png",
         "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
-      }
+      },
+      "text": "[http://www.visearkivet.no/pdf_filer/norske_ballader/2_5_Rolandskvadet.pdf http://www.visearkivet.no/pdf_filer/norske_ballader/2_5_Rolandskvadet.pdf]"
     },
     {
       "type": "paragraph",
@@ -63,6 +55,11 @@
       "type": "paragraph",
       "id": "25809c0db10ae3d2",
       "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - Norske folkeviser\n By Magnus Brostrup Landstad, Olea Styhr Crøger, Ludvig Matthias Lindemann p 873 text on pp 169 cf"
+    },
+    {
+      "type": "paragraph",
+      "id": "76c5df022aff484a",
+      "text": "["
     }
   ],
   "journal": [
@@ -791,6 +788,104 @@
       "type": "remove",
       "id": "522323748ea0949f",
       "date": 1416781790940
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76c5df022aff484a"
+      },
+      "id": "76c5df022aff484a",
+      "type": "add",
+      "after": "25809c0db10ae3d2",
+      "date": 1416785531881
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1d1fa49f95235da2",
+        "text": ""
+      },
+      "id": "1d1fa49f95235da2",
+      "type": "add",
+      "after": "76c5df022aff484a",
+      "date": 1416785548076
+    },
+    {
+      "type": "edit",
+      "id": "76c5df022aff484a",
+      "item": {
+        "type": "paragraph",
+        "id": "76c5df022aff484a",
+        "text": "]http://www.nb.no/nbsok/nb/cb16ebad43673a1bd06b16ed32ea1558.nbdigital?lang=no http://www.nb.no/nbsok/nb/cb16ebad43673a1bd06b16ed32ea1558.nbdigital?lang=no]"
+      },
+      "date": 1416785548036
+    },
+    {
+      "type": "remove",
+      "id": "1d1fa49f95235da2",
+      "date": 1416785556641
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "401dd6a29c7db4f5",
+        "text": "http://www.nb.no/nbsok/nb/cb16ebad43673a1bd06b16ed32ea1558.nbdigital?lang=no http://www.nb.no/nbsok/nb/cb16ebad43673a1bd06b16ed32ea1558.nbdigital?lang=no]"
+      },
+      "id": "401dd6a29c7db4f5",
+      "type": "add",
+      "after": "76c5df022aff484a",
+      "date": 1416785562765
+    },
+    {
+      "type": "edit",
+      "id": "76c5df022aff484a",
+      "item": {
+        "type": "paragraph",
+        "id": "76c5df022aff484a",
+        "text": "["
+      },
+      "date": 1416785562752
+    },
+    {
+      "type": "remove",
+      "id": "401dd6a29c7db4f5",
+      "date": 1416785565412
+    },
+    {
+      "type": "edit",
+      "id": "5bebbf37d5f376c0",
+      "item": {
+        "type": "paragraph",
+        "id": "5bebbf37d5f376c0",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://jasongreen.net/img/rolandskvadet.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://jasongreen.net/img/rolandskvadet.png",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+        },
+        "text": "[http://www.visearkivet.no/pdf_filer/norske_ballader/2_5_Rolandskvadet.pdf http://www.visearkivet.no/pdf_filer/norske_ballader/2_5_Rolandskvadet.pdf]"
+      },
+      "date": 1416785655913
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "be43759624aaf992",
+        "text": ""
+      },
+      "id": "be43759624aaf992",
+      "type": "add",
+      "after": "5bebbf37d5f376c0",
+      "date": 1416785655936
+    },
+    {
+      "type": "remove",
+      "id": "be43759624aaf992",
+      "date": 1416785671466
+    },
+    {
+      "type": "remove",
+      "id": "7c2919b70e8f6e5d",
+      "date": 1416785695634
     }
   ]
 }

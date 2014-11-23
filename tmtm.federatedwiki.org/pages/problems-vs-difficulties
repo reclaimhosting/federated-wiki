@@ -1,0 +1,163 @@
+{
+  "title": "Problems vs. Difficulties",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "18dea62d704ddf9b",
+      "text": "A friend teaches integrated circuits using highly specialized tools. He reminds students that the work involves both problems and difficulties. Know the difference and don't waste his time with difficulties."
+    },
+    {
+      "type": "paragraph",
+      "id": "d8284a54799055c5",
+      "text": "The solution to a problem has lasting value. Working problems can be a joy and involve a lifetime."
+    },
+    {
+      "type": "paragraph",
+      "id": "914991c02df86d51",
+      "text": "The solution to a difficulty is arbitrary and usually due only to accidental complexity. It will be different tomorrow."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Problems vs. Difficulties",
+        "story": []
+      },
+      "date": 1416772501872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18dea62d704ddf9b"
+      },
+      "id": "18dea62d704ddf9b",
+      "type": "add",
+      "date": 1416772509187
+    },
+    {
+      "type": "edit",
+      "id": "18dea62d704ddf9b",
+      "item": {
+        "type": "paragraph",
+        "id": "18dea62d704ddf9b",
+        "text": "A friend teaches integrated circuits using highly specialized tools. He reminds students that the work involves both problems and difficulties. Know the difference and don't waste his time with difficulties."
+      },
+      "date": 1416772681052
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2c1c72c199d5abc4",
+        "text": ""
+      },
+      "id": "2c1c72c199d5abc4",
+      "type": "add",
+      "after": "18dea62d704ddf9b",
+      "date": 1416772681062
+    },
+    {
+      "type": "remove",
+      "id": "2c1c72c199d5abc4",
+      "date": 1416772757662
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d8284a54799055c5"
+      },
+      "id": "d8284a54799055c5",
+      "type": "add",
+      "after": "18dea62d704ddf9b",
+      "date": 1416772814979
+    },
+    {
+      "type": "edit",
+      "id": "d8284a54799055c5",
+      "item": {
+        "type": "paragraph",
+        "id": "d8284a54799055c5",
+        "text": "The solution to a problem has lasting value. Working problems can be a joy and involve a lifetime."
+      },
+      "date": 1416772912738
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "914991c02df86d51",
+        "text": ""
+      },
+      "id": "914991c02df86d51",
+      "type": "add",
+      "after": "d8284a54799055c5",
+      "date": 1416772912749
+    },
+    {
+      "type": "edit",
+      "id": "914991c02df86d51",
+      "item": {
+        "type": "paragraph",
+        "id": "914991c02df86d51",
+        "text": "The solution to a difficulty is arbitrary and usually due only to accidental complexity. The same difficulty tomorrow will have a different solution."
+      },
+      "date": 1416772993740
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "605d461a2c50f1cb",
+        "text": ""
+      },
+      "id": "605d461a2c50f1cb",
+      "type": "add",
+      "after": "914991c02df86d51",
+      "date": 1416772993749
+    },
+    {
+      "type": "remove",
+      "id": "605d461a2c50f1cb",
+      "date": 1416773000692
+    },
+    {
+      "type": "edit",
+      "id": "914991c02df86d51",
+      "item": {
+        "type": "paragraph",
+        "id": "914991c02df86d51",
+        "text": "The solution to a difficulty is arbitrary and usually due only to accidental complexity. I will be different tomorrow."
+      },
+      "date": 1416773018419
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9e4c795bbc666fcf",
+        "text": ""
+      },
+      "id": "9e4c795bbc666fcf",
+      "type": "add",
+      "after": "914991c02df86d51",
+      "date": 1416773018429
+    },
+    {
+      "type": "remove",
+      "id": "9e4c795bbc666fcf",
+      "date": 1416773099939
+    },
+    {
+      "type": "edit",
+      "id": "914991c02df86d51",
+      "item": {
+        "type": "paragraph",
+        "id": "914991c02df86d51",
+        "text": "The solution to a difficulty is arbitrary and usually due only to accidental complexity. It will be different tomorrow."
+      },
+      "date": 1416773106169
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1416774030999
+    }
+  ]
+}

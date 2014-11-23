@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "2a9a548d7b3a4893",
       "text": "[[Tools]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "99c484cafebcffe4",
+      "text": "[[Folk Music]]"
     }
   ],
   "journal": [
@@ -91,6 +96,68 @@
       "type": "remove",
       "id": "2aa790380bfac64a",
       "date": 1415975047582
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99c484cafebcffe4"
+      },
+      "id": "99c484cafebcffe4",
+      "type": "add",
+      "after": "2a9a548d7b3a4893",
+      "date": 1416775516544
+    },
+    {
+      "type": "edit",
+      "id": "99c484cafebcffe4",
+      "item": {
+        "type": "paragraph",
+        "id": "99c484cafebcffe4",
+        "text": "Folk Music"
+      },
+      "date": 1416775531065
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7231cb7ceeacca9b",
+        "text": ""
+      },
+      "id": "7231cb7ceeacca9b",
+      "type": "add",
+      "after": "99c484cafebcffe4",
+      "date": 1416775531077
+    },
+    {
+      "type": "remove",
+      "id": "7231cb7ceeacca9b",
+      "date": 1416775533967
+    },
+    {
+      "type": "edit",
+      "id": "99c484cafebcffe4",
+      "item": {
+        "type": "paragraph",
+        "id": "99c484cafebcffe4",
+        "text": "[[Folk Music]]"
+      },
+      "date": 1416775543711
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7a38ac73e97b8ca4",
+        "text": ""
+      },
+      "id": "7a38ac73e97b8ca4",
+      "type": "add",
+      "after": "99c484cafebcffe4",
+      "date": 1416775543722
+    },
+    {
+      "type": "remove",
+      "id": "7a38ac73e97b8ca4",
+      "date": 1416775545267
     }
   ]
 }

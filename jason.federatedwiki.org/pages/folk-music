@@ -1,0 +1,55 @@
+{
+  "title": "Folk Music",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1ee78258f8a139c2",
+      "text": "[[Norway]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Folk Music",
+        "story": []
+      },
+      "date": 1416775550916
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ee78258f8a139c2"
+      },
+      "id": "1ee78258f8a139c2",
+      "type": "add",
+      "date": 1416775553311
+    },
+    {
+      "type": "edit",
+      "id": "1ee78258f8a139c2",
+      "item": {
+        "type": "paragraph",
+        "id": "1ee78258f8a139c2",
+        "text": "[[Norway]]"
+      },
+      "date": 1416775565831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d93084c7cba9515f",
+        "text": ""
+      },
+      "id": "d93084c7cba9515f",
+      "type": "add",
+      "after": "1ee78258f8a139c2",
+      "date": 1416775565838
+    },
+    {
+      "type": "remove",
+      "id": "d93084c7cba9515f",
+      "date": 1416775567743
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Norway",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c7beafe6bb6c158c",
+      "text": "[[Rolandskvadet]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Norway",
+        "story": []
+      },
+      "date": 1416775573429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c7beafe6bb6c158c"
+      },
+      "id": "c7beafe6bb6c158c",
+      "type": "add",
+      "date": 1416775577160
+    },
+    {
+      "type": "edit",
+      "id": "c7beafe6bb6c158c",
+      "item": {
+        "type": "paragraph",
+        "id": "c7beafe6bb6c158c",
+        "text": "[[Rolandskvadet]]"
+      },
+      "date": 1416775593841
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15a5c6e583c96725",
+        "text": ""
+      },
+      "id": "15a5c6e583c96725",
+      "type": "add",
+      "after": "c7beafe6bb6c158c",
+      "date": 1416775593854
+    },
+    {
+      "type": "remove",
+      "id": "15a5c6e583c96725",
+      "date": 1416775604349
+    }
+  ]
+}

@@ -2,6 +2,10 @@
   "title": "Rolandskvadet",
   "story": [
     {
+      "type": "factory",
+      "id": "9765f35732b8e729"
+    },
+    {
       "type": "paragraph",
       "id": "51befdd3e41ba86b",
       "text": "Norwegian ballad which retells the story of the chanson de Roland.  Also referred to as Roland og Magnus Kongen."
@@ -14,7 +18,7 @@
     {
       "type": "paragraph",
       "id": "5ea49533c6b140c2",
-      "text": "There are two tunes , "
+      "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain:"
     }
   ],
   "journal": [
@@ -22,7 +26,23 @@
       "type": "create",
       "item": {
         "title": "Rolandskvadet",
-        "story": []
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "51befdd3e41ba86b",
+            "text": "Norwegian ballad which retells the story of the chanson de Roland.  Also referred to as Roland og Magnus Kongen."
+          },
+          {
+            "type": "paragraph",
+            "id": "dc5e1cf5b8192dff",
+            "text": "[https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen] Wikipedia Entry"
+          },
+          {
+            "type": "paragraph",
+            "id": "5ea49533c6b140c2",
+            "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain:"
+          }
+        ]
       },
       "date": 1416777202834
     },
@@ -111,6 +131,81 @@
         "text": "There are two tunes , "
       },
       "date": 1416777991465
+    },
+    {
+      "type": "edit",
+      "id": "5ea49533c6b140c2",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea49533c6b140c2",
+        "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain:"
+      },
+      "date": 1416778230921
+    },
+    {
+      "type": "fork",
+      "date": 1416778734454
+    },
+    {
+      "type": "edit",
+      "id": "26ad7d070ea2e054",
+      "item": {
+        "type": "paragraph",
+        "id": "26ad7d070ea2e054",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"about:blank\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "about:blank",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36"
+        },
+        "text": " \\"
+      },
+      "date": 1416778772681
+    },
+    {
+      "type": "edit",
+      "id": "f6785bb64ef993d0",
+      "item": {
+        "type": "paragraph",
+        "id": "f6785bb64ef993d0",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"about:blank\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "about:blank",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36"
+        },
+        "text": " "
+      },
+      "date": 1416778776144
+    },
+    {
+      "type": "remove",
+      "id": "26ad7d070ea2e054",
+      "date": 1416778780601
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7215a32b9f22210a",
+        "text": ""
+      },
+      "id": "7215a32b9f22210a",
+      "type": "add",
+      "after": "5ea49533c6b140c2",
+      "date": 1416778782270
+    },
+    {
+      "type": "remove",
+      "id": "7215a32b9f22210a",
+      "date": 1416778784397
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9765f35732b8e729"
+      },
+      "id": "9765f35732b8e729",
+      "type": "add",
+      "after": "f6785bb64ef993d0",
+      "date": 1416778788384
     }
   ]
 }

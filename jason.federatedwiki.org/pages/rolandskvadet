@@ -23,7 +23,17 @@
     {
       "type": "paragraph",
       "id": "5ea49533c6b140c2",
-      "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain:"
+      "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain (tune 1).  The other tune was collected in Norway prior to 1850"
+    },
+    {
+      "type": "paragraph",
+      "id": "5554ee4c56dc5b54",
+      "text": "Sources:"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae515d90d9d37ba8",
+      "text": "Text: "
     },
     {
       "type": "factory",
@@ -476,6 +486,74 @@
         }
       },
       "date": 1416780422386
+    },
+    {
+      "type": "edit",
+      "id": "5ea49533c6b140c2",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea49533c6b140c2",
+        "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain (tune 1).  The other tune was collected in Norway prior to 1850"
+      },
+      "date": 1416780866012
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5554ee4c56dc5b54",
+        "text": ""
+      },
+      "id": "5554ee4c56dc5b54",
+      "type": "add",
+      "after": "5ea49533c6b140c2",
+      "date": 1416780866024
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae515d90d9d37ba8",
+        "text": ""
+      },
+      "id": "ae515d90d9d37ba8",
+      "type": "add",
+      "after": "5554ee4c56dc5b54",
+      "date": 1416780870468
+    },
+    {
+      "type": "edit",
+      "id": "5554ee4c56dc5b54",
+      "item": {
+        "type": "paragraph",
+        "id": "5554ee4c56dc5b54",
+        "text": "Sources:"
+      },
+      "date": 1416780870458
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab178d7e023fe2e9",
+        "text": ""
+      },
+      "id": "ab178d7e023fe2e9",
+      "type": "add",
+      "after": "ae515d90d9d37ba8",
+      "date": 1416780876243
+    },
+    {
+      "type": "edit",
+      "id": "ae515d90d9d37ba8",
+      "item": {
+        "type": "paragraph",
+        "id": "ae515d90d9d37ba8",
+        "text": "Text: "
+      },
+      "date": 1416780876234
+    },
+    {
+      "type": "remove",
+      "id": "ab178d7e023fe2e9",
+      "date": 1416780880263
     }
   ]
 }

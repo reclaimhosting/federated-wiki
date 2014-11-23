@@ -1,0 +1,60 @@
+{
+  "title": "avant-gaurd",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1e2b5a2058456d89",
+      "text": "ahead of its time"
+    },
+    {
+      "type": "paragraph",
+      "id": "4984450be3de2e86",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "avant-gaurd",
+        "story": []
+      },
+      "date": 1416595379273
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e2b5a2058456d89"
+      },
+      "id": "1e2b5a2058456d89",
+      "type": "add",
+      "date": 1416595386426
+    },
+    {
+      "type": "edit",
+      "id": "1e2b5a2058456d89",
+      "item": {
+        "type": "paragraph",
+        "id": "1e2b5a2058456d89",
+        "text": "ahead of its time"
+      },
+      "date": 1416595397095
+    },
+    {
+      "type": "fork",
+      "site": "max.federatedwiki.org",
+      "date": 1416774965566
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4984450be3de2e86",
+        "text": ""
+      },
+      "id": "4984450be3de2e86",
+      "type": "add",
+      "after": "1e2b5a2058456d89",
+      "date": 1416775063496
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "antecedent",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b26c3d267dd0315b",
+      "text": "something that precedes"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ab32bdaf63c3461",
+      "text": "antecedent is often used more specifically to refer to the noun to which a pronoun refers.  It must be stated before the pronoun is used.  Hence it's an antecedent."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "antecedent",
+        "story": []
+      },
+      "date": 1416595313963
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b26c3d267dd0315b"
+      },
+      "id": "b26c3d267dd0315b",
+      "type": "add",
+      "date": 1416595316312
+    },
+    {
+      "type": "edit",
+      "id": "b26c3d267dd0315b",
+      "item": {
+        "type": "paragraph",
+        "id": "b26c3d267dd0315b",
+        "text": "something that precedes"
+      },
+      "date": 1416595342087
+    },
+    {
+      "type": "fork",
+      "site": "max.federatedwiki.org",
+      "date": 1416775079264
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ab32bdaf63c3461"
+      },
+      "id": "4ab32bdaf63c3461",
+      "type": "add",
+      "after": "b26c3d267dd0315b",
+      "date": 1416775082857
+    },
+    {
+      "type": "edit",
+      "id": "4ab32bdaf63c3461",
+      "item": {
+        "type": "paragraph",
+        "id": "4ab32bdaf63c3461",
+        "text": "antecedent is often used more specifically to refer to the noun to which a pronoun refers.  It must be stated before the pronoun is used.  Hence it's an antecedent."
+      },
+      "date": 1416775140944
+    }
+  ]
+}

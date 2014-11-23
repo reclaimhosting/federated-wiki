@@ -23,7 +23,7 @@
     {
       "type": "paragraph",
       "id": "5ea49533c6b140c2",
-      "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain (tune 1).  The other tune was collected in Norway prior to 1850"
+      "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain (tune 1).  The other tune (tune 2) was collected in Norway prior to 1850"
     },
     {
       "type": "paragraph",
@@ -43,6 +43,26 @@
         "url": "http://jasongreen.net/img/rolandskvadet.png",
         "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
       }
+    },
+    {
+      "type": "paragraph",
+      "id": "e3948bf2097211ea",
+      "text": "Tune 1"
+    },
+    {
+      "type": "paragraph",
+      "id": "7015502cab865911",
+      "text": "[http://folk.uio.no/hege/Sanger/Rolandskvadet.html http://folk.uio.no/hege/Sanger/Rolandskvadet.html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "34d1fd45e4fd5287",
+      "text": "Tune 2"
+    },
+    {
+      "type": "paragraph",
+      "id": "25809c0db10ae3d2",
+      "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - Norske folkeviser\n By Magnus Brostrup Landstad, Olea Styhr Crøger, Ludvig Matthias Lindemann p 873 text on pp 169 cf"
     }
   ],
   "journal": [
@@ -554,6 +574,223 @@
       "type": "remove",
       "id": "ab178d7e023fe2e9",
       "date": 1416780880263
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e3948bf2097211ea",
+        "text": "]"
+      },
+      "id": "e3948bf2097211ea",
+      "type": "add",
+      "after": "5bebbf37d5f376c0",
+      "date": 1416781229350
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b3eca41f6a336ee",
+        "text": ""
+      },
+      "id": "7b3eca41f6a336ee",
+      "type": "add",
+      "after": "5bebbf37d5f376c0",
+      "date": 1416781237289
+    },
+    {
+      "type": "remove",
+      "id": "7b3eca41f6a336ee",
+      "date": 1416781251371
+    },
+    {
+      "type": "edit",
+      "id": "5ea49533c6b140c2",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea49533c6b140c2",
+        "text": "There are two tunes ,  The more common is Faroese in origin and has a refrain (tune 1).  The other tune (tune 2) was collected in Norway prior to 1850"
+      },
+      "date": 1416781292633
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b552b3432e852b80",
+        "text": ""
+      },
+      "id": "b552b3432e852b80",
+      "type": "add",
+      "after": "e3948bf2097211ea",
+      "date": 1416781301250
+    },
+    {
+      "type": "edit",
+      "id": "e3948bf2097211ea",
+      "item": {
+        "type": "paragraph",
+        "id": "e3948bf2097211ea",
+        "text": "Tune 1"
+      },
+      "date": 1416781301239
+    },
+    {
+      "type": "remove",
+      "id": "b552b3432e852b80",
+      "date": 1416781305643
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7015502cab865911"
+      },
+      "id": "7015502cab865911",
+      "type": "add",
+      "after": "e3948bf2097211ea",
+      "date": 1416781319885
+    },
+    {
+      "type": "edit",
+      "id": "7015502cab865911",
+      "item": {
+        "type": "paragraph",
+        "id": "7015502cab865911",
+        "text": "[http://folk.uio.no/hege/Sanger/Rolandskvadet.html http://folk.uio.no/hege/Sanger/Rolandskvadet.html]"
+      },
+      "date": 1416781329431
+    },
+    {
+      "type": "remove",
+      "id": "ab793a360f43bb72",
+      "date": 1416781332512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34d1fd45e4fd5287"
+      },
+      "id": "34d1fd45e4fd5287",
+      "type": "add",
+      "after": "7015502cab865911",
+      "date": 1416781428049
+    },
+    {
+      "type": "edit",
+      "id": "34d1fd45e4fd5287",
+      "item": {
+        "type": "paragraph",
+        "id": "34d1fd45e4fd5287",
+        "text": "Tune 2"
+      },
+      "date": 1416781436695
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": ""
+      },
+      "id": "25809c0db10ae3d2",
+      "type": "add",
+      "after": "34d1fd45e4fd5287",
+      "date": 1416781436705
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d1cafa72ca98d39e",
+        "text": ""
+      },
+      "id": "d1cafa72ca98d39e",
+      "type": "add",
+      "after": "25809c0db10ae3d2",
+      "date": 1416781447143
+    },
+    {
+      "type": "edit",
+      "id": "25809c0db10ae3d2",
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0]"
+      },
+      "date": 1416781447134
+    },
+    {
+      "type": "remove",
+      "id": "d1cafa72ca98d39e",
+      "date": 1416781452928
+    },
+    {
+      "type": "edit",
+      "id": "25809c0db10ae3d2",
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - "
+      },
+      "date": 1416781468009
+    },
+    {
+      "type": "edit",
+      "id": "25809c0db10ae3d2",
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - Norske folkeviser\n By Magnus Brostrup Landstad, Olea Styhr Crøger, Ludvig Matthias Lindemann"
+      },
+      "date": 1416781525581
+    },
+    {
+      "type": "edit",
+      "id": "25809c0db10ae3d2",
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - Norske folkeviser\n By Magnus Brostrup Landstad, Olea Styhr Crøger, Ludvig Matthias Lindemann p 873"
+      },
+      "date": 1416781537831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "340eee4b5cf116e0",
+        "text": ""
+      },
+      "id": "340eee4b5cf116e0",
+      "type": "add",
+      "after": "25809c0db10ae3d2",
+      "date": 1416781537871
+    },
+    {
+      "type": "remove",
+      "id": "340eee4b5cf116e0",
+      "date": 1416781539681
+    },
+    {
+      "type": "edit",
+      "id": "25809c0db10ae3d2",
+      "item": {
+        "type": "paragraph",
+        "id": "25809c0db10ae3d2",
+        "text": "[http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0 http://books.google.com/books?id=MKMKAAAAQAAJ&pg=PA873&img=1&zoom=3&hl=en&sig=ACfU3U034cY8yQQP-Z2DnLLU2UCv-_cBPw&ci=29%2C188%2C829%2C511&edge=0] From Google Books - Norske folkeviser\n By Magnus Brostrup Landstad, Olea Styhr Crøger, Ludvig Matthias Lindemann p 873 text on pp 169 cf"
+      },
+      "date": 1416781787436
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "522323748ea0949f",
+        "text": ""
+      },
+      "id": "522323748ea0949f",
+      "type": "add",
+      "after": "25809c0db10ae3d2",
+      "date": 1416781787447
+    },
+    {
+      "type": "remove",
+      "id": "522323748ea0949f",
+      "date": 1416781790940
     }
   ]
 }

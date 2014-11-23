@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "51befdd3e41ba86b",
-      "text": "Norwegian ballad which retells the story of the chanson de Roland.  "
+      "text": "Norwegian ballad which retells the story of the chanson de Roland.  Also referred to as Roland og Magnus Kongen."
+    },
+    {
+      "type": "paragraph",
+      "id": "dc5e1cf5b8192dff",
+      "text": "[https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen] Wikipedia Entry"
+    },
+    {
+      "type": "paragraph",
+      "id": "5ea49533c6b140c2",
+      "text": "There are two tunes , "
     }
   ],
   "journal": [
@@ -34,6 +44,73 @@
         "text": "Norwegian ballad which retells the story of the chanson de Roland.  "
       },
       "date": 1416777245378
+    },
+    {
+      "type": "edit",
+      "id": "51befdd3e41ba86b",
+      "item": {
+        "type": "paragraph",
+        "id": "51befdd3e41ba86b",
+        "text": "Norwegian ballad which retells the story of the chanson de Roland.  Also referred to as Roland og Magnus Kongen."
+      },
+      "date": 1416777934800
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b1ac38aea3c5f889",
+        "text": ""
+      },
+      "id": "b1ac38aea3c5f889",
+      "type": "add",
+      "after": "51befdd3e41ba86b",
+      "date": 1416777934812
+    },
+    {
+      "type": "remove",
+      "id": "b1ac38aea3c5f889",
+      "date": 1416777937768
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc5e1cf5b8192dff"
+      },
+      "id": "dc5e1cf5b8192dff",
+      "type": "add",
+      "after": "51befdd3e41ba86b",
+      "date": 1416777948721
+    },
+    {
+      "type": "edit",
+      "id": "dc5e1cf5b8192dff",
+      "item": {
+        "type": "paragraph",
+        "id": "dc5e1cf5b8192dff",
+        "text": "[https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen https://en.wikipedia.org/wiki/Roland_og_Magnus_kongen] Wikipedia Entry"
+      },
+      "date": 1416777969289
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ea49533c6b140c2",
+        "text": ""
+      },
+      "id": "5ea49533c6b140c2",
+      "type": "add",
+      "after": "dc5e1cf5b8192dff",
+      "date": 1416777969302
+    },
+    {
+      "type": "edit",
+      "id": "5ea49533c6b140c2",
+      "item": {
+        "type": "paragraph",
+        "id": "5ea49533c6b140c2",
+        "text": "There are two tunes , "
+      },
+      "date": 1416777991465
     }
   ]
 }

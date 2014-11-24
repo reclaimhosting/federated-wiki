@@ -13,13 +13,23 @@
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "id": "62d3009d33c644f5",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "af1ab620dbb8c34e",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "5ab1ddf9441c915f",
+      "text": "[[Notes on the Smallest Federated Wiki]]"
     }
   ],
   "journal": [
@@ -494,6 +504,95 @@
         "text": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/tPSNxKgtaSc\" frameborder=\"0\" allowfullscreen></iframe>"
       },
       "date": 1416854999958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a4784a5e6e51c99"
+      },
+      "id": "6a4784a5e6e51c99",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1416857232903
+    },
+    {
+      "type": "remove",
+      "id": "6a4784a5e6e51c99",
+      "date": 1416857248012
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1416857325983
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62d3009d33c644f5",
+        "text": ""
+      },
+      "id": "62d3009d33c644f5",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1416857335278
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ab1ddf9441c915f",
+        "text": ""
+      },
+      "id": "5ab1ddf9441c915f",
+      "type": "add",
+      "after": "62d3009d33c644f5",
+      "date": 1416857335424
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "af1ab620dbb8c34e",
+        "text": ""
+      },
+      "id": "af1ab620dbb8c34e",
+      "type": "add",
+      "after": "62d3009d33c644f5",
+      "date": 1416857335413
+    },
+    {
+      "type": "edit",
+      "id": "62d3009d33c644f5",
+      "item": {
+        "type": "paragraph",
+        "id": "62d3009d33c644f5",
+        "text": " "
+      },
+      "date": 1416857335408
+    },
+    {
+      "type": "edit",
+      "id": "5ab1ddf9441c915f",
+      "item": {
+        "type": "paragraph",
+        "id": "5ab1ddf9441c915f",
+        "text": "[[Notes on the Smallest Federated Wiki]]"
+      },
+      "date": 1416857369223
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d52e0c5dc61659f4",
+        "text": ""
+      },
+      "id": "d52e0c5dc61659f4",
+      "type": "add",
+      "after": "5ab1ddf9441c915f",
+      "date": 1416857369234
+    },
+    {
+      "type": "remove",
+      "id": "d52e0c5dc61659f4",
+      "date": 1416857371323
     }
   ]
 }

@@ -7,16 +7,6 @@
       "type": "paragraph"
     },
     {
-      "type": "video",
-      "id": "f13de4d41b657d60",
-      "text": "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/tPSNxKgtaSc\" frameborder=\"0\" allowfullscreen></iframe>"
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
       "type": "paragraph",
       "id": "62d3009d33c644f5",
       "text": " "
@@ -29,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "5ab1ddf9441c915f",
-      "text": "[[Notes on the Smallest Federated Wiki]]"
+      "text": "I'll be taking notes here: [[Notes on the Smallest Federated Wiki]]"
     }
   ],
   "journal": [
@@ -593,6 +583,26 @@
       "type": "remove",
       "id": "d52e0c5dc61659f4",
       "date": 1416857371323
+    },
+    {
+      "type": "remove",
+      "id": "f13de4d41b657d60",
+      "date": 1416858152116
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1416858156066
+    },
+    {
+      "type": "edit",
+      "id": "5ab1ddf9441c915f",
+      "item": {
+        "type": "paragraph",
+        "id": "5ab1ddf9441c915f",
+        "text": "I'll be taking notes here: [[Notes on the Smallest Federated Wiki]]"
+      },
+      "date": 1416858181418
     }
   ]
 }

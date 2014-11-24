@@ -29,7 +29,12 @@
     {
       "type": "paragraph",
       "id": "b002cbca73d83d50",
-      "text": ""
+      "text": "I feel that navigating, and closing, pages could be done in a better way."
+    },
+    {
+      "type": "paragraph",
+      "id": "4b981e6a67b9f954",
+      "text": "I do however still need to look into the reasoning behind the current prev/next design."
     }
   ],
   "journal": [
@@ -185,6 +190,37 @@
       "type": "add",
       "after": "403163a341836631",
       "date": 1416857858160
+    },
+    {
+      "type": "edit",
+      "id": "b002cbca73d83d50",
+      "item": {
+        "type": "paragraph",
+        "id": "b002cbca73d83d50",
+        "text": "I feel that navigating, and closing, pages could be done in a better way."
+      },
+      "date": 1416858027326
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4b981e6a67b9f954",
+        "text": ""
+      },
+      "id": "4b981e6a67b9f954",
+      "type": "add",
+      "after": "b002cbca73d83d50",
+      "date": 1416858027347
+    },
+    {
+      "type": "edit",
+      "id": "4b981e6a67b9f954",
+      "item": {
+        "type": "paragraph",
+        "id": "4b981e6a67b9f954",
+        "text": "I do however still need to look into the reasoning behind the current prev/next design."
+      },
+      "date": 1416858105169
     }
   ]
 }

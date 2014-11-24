@@ -47,6 +47,15 @@
       "text": "[http://folk.uio.no/hege/Sanger/Rolandskvadet.html http://folk.uio.no/hege/Sanger/Rolandskvadet.html]"
     },
     {
+      "type": "factory",
+      "id": "cf45ef8df6335280",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://folk.uio.no/hege/Sanger/rolandskvadet.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://folk.uio.no/hege/Sanger/rolandskvadet.gif",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+      }
+    },
+    {
       "type": "paragraph",
       "id": "34d1fd45e4fd5287",
       "text": "Tune 2"
@@ -917,6 +926,68 @@
       "type": "remove",
       "id": "df3aa5a7078f0626",
       "date": 1416788275367
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf45ef8df6335280"
+      },
+      "id": "cf45ef8df6335280",
+      "type": "add",
+      "after": "76c5df022aff484a",
+      "date": 1416794295572
+    },
+    {
+      "type": "move",
+      "order": [
+        "51befdd3e41ba86b",
+        "dc5e1cf5b8192dff",
+        "5ea49533c6b140c2",
+        "5554ee4c56dc5b54",
+        "ae515d90d9d37ba8",
+        "5bebbf37d5f376c0",
+        "e3948bf2097211ea",
+        "7015502cab865911",
+        "34d1fd45e4fd5287",
+        "cf45ef8df6335280",
+        "25809c0db10ae3d2",
+        "76c5df022aff484a"
+      ],
+      "id": "cf45ef8df6335280",
+      "date": 1416794299215
+    },
+    {
+      "type": "move",
+      "order": [
+        "51befdd3e41ba86b",
+        "dc5e1cf5b8192dff",
+        "5ea49533c6b140c2",
+        "5554ee4c56dc5b54",
+        "ae515d90d9d37ba8",
+        "5bebbf37d5f376c0",
+        "e3948bf2097211ea",
+        "7015502cab865911",
+        "cf45ef8df6335280",
+        "34d1fd45e4fd5287",
+        "25809c0db10ae3d2",
+        "76c5df022aff484a"
+      ],
+      "id": "cf45ef8df6335280",
+      "date": 1416794302269
+    },
+    {
+      "type": "edit",
+      "id": "cf45ef8df6335280",
+      "item": {
+        "type": "factory",
+        "id": "cf45ef8df6335280",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://folk.uio.no/hege/Sanger/rolandskvadet.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://folk.uio.no/hege/Sanger/rolandskvadet.gif",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0"
+        }
+      },
+      "date": 1416794349515
     }
   ]
 }

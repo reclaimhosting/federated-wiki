@@ -1,0 +1,232 @@
+{
+  "title": "Push From Local to Origin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f7368a8fbae6fcf3",
+      "text": "The latest version of SFW will now push local content from the browser to the origin server."
+    },
+    {
+      "type": "paragraph",
+      "id": "1fe326b6cd84b8ae",
+      "text": "The flag button (called fork, perhaps a misnomer) moves a page to the origin server, if you're logged in there, or to local storage if you're not logged in. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f9295ea3f93bf01f",
+      "text": "Think of this as planting a flag on property, making it yours, for a version of yours that you have demonstrated at the moment.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb7947f5b724a316",
+      "text": "Say, you edit a few pages with the results in local storage because you forgot to login. Follow this process to make your local changes public:\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "20c933f590dd8387",
+      "text": "1. Login <br>\n2. Review [[Local Editing]] for each local page.<br>\n3. Press fork for pages you want to publish.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "42007bfdb8c614e3",
+      "text": "<h3> Notes"
+    },
+    {
+      "type": "paragraph",
+      "id": "5fb79d4e8f9692cb",
+      "text": "This required a small modification to both the sinatra and express servers. [https://github.com/WardCunningham/Smallest-Federated-Wiki/commit/c6ebb642b1cfd686d771dff1bdbccbcc82ed7db8 github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d629be8aa583447",
+      "text": "Fork from history is a related function not fully addressed by this feature."
+    }
+  ],
+  "journal": [
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org"
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Push From Local to Origin"
+      },
+      "site": "ward.fed.wiki.org",
+      "date": 1353957342024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7368a8fbae6fcf3"
+      },
+      "id": "f7368a8fbae6fcf3",
+      "type": "add",
+      "date": 1353957362245
+    },
+    {
+      "type": "edit",
+      "id": "f7368a8fbae6fcf3",
+      "item": {
+        "type": "paragraph",
+        "id": "f7368a8fbae6fcf3",
+        "text": "The latest version of SFW will now push local content from the browser to the origin server."
+      },
+      "date": 1353957386096
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1fe326b6cd84b8ae",
+        "text": "The flag button (called fork, perhaps a misnomer) moves a page to the origin server, if you're logged in there, or to local storage if you're not logged in. Think of this as planting a flag on property, making it yours, for a version of yours that you have demonstrated at the moment.\n\nSay, you edit a few pages with the results in local storage because you forgot to login. Follow this process to make your local changes public:\n\n1. Login\n2. Review [[Local Editing]] for each local page.\n3. Press fork for pages you want to publish.\n"
+      },
+      "id": "1fe326b6cd84b8ae",
+      "type": "add",
+      "after": "f7368a8fbae6fcf3",
+      "date": 1353957386602
+    },
+    {
+      "type": "edit",
+      "id": "1fe326b6cd84b8ae",
+      "item": {
+        "type": "paragraph",
+        "id": "1fe326b6cd84b8ae",
+        "text": "The flag button (called fork, perhaps a misnomer) moves a page to the origin server, if you're logged in there, or to local storage if you're not logged in. "
+      },
+      "date": 1353957395951
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f9295ea3f93bf01f",
+        "text": "Think of this as planting a flag on property, making it yours, for a version of yours that you have demonstrated at the moment.\n\nSay, you edit a few pages with the results in local storage because you forgot to login. Follow this process to make your local changes public:\n\n1. Login\n2. Review [[Local Editing]] for each local page.\n3. Press fork for pages you want to publish.\n"
+      },
+      "id": "f9295ea3f93bf01f",
+      "type": "add",
+      "after": "1fe326b6cd84b8ae",
+      "date": 1353957396458
+    },
+    {
+      "type": "edit",
+      "id": "f9295ea3f93bf01f",
+      "item": {
+        "type": "paragraph",
+        "id": "f9295ea3f93bf01f",
+        "text": "Think of this as planting a flag on property, making it yours, for a version of yours that you have demonstrated at the moment.\n\n"
+      },
+      "date": 1353957405548
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb7947f5b724a316",
+        "text": "Say, you edit a few pages with the results in local storage because you forgot to login. Follow this process to make your local changes public:\n\n1. Login\n2. Review [[Local Editing]] for each local page.\n3. Press fork for pages you want to publish.\n"
+      },
+      "id": "eb7947f5b724a316",
+      "type": "add",
+      "after": "f9295ea3f93bf01f",
+      "date": 1353957406054
+    },
+    {
+      "type": "edit",
+      "id": "eb7947f5b724a316",
+      "item": {
+        "type": "paragraph",
+        "id": "eb7947f5b724a316",
+        "text": "Say, you edit a few pages with the results in local storage because you forgot to login. Follow this process to make your local changes public:\n\n"
+      },
+      "date": 1353957425476
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "20c933f590dd8387",
+        "text": "1. Login <br>\n2. Review [[Local Editing]] for each local page.<br>\n3. Press fork for pages you want to publish.\n"
+      },
+      "id": "20c933f590dd8387",
+      "type": "add",
+      "after": "eb7947f5b724a316",
+      "date": 1353957425982
+    },
+    {
+      "type": "fork",
+      "date": 1353957579651
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "42007bfdb8c614e3"
+      },
+      "id": "42007bfdb8c614e3",
+      "type": "add",
+      "after": "20c933f590dd8387",
+      "date": 1353957714727
+    },
+    {
+      "type": "edit",
+      "id": "42007bfdb8c614e3",
+      "item": {
+        "type": "paragraph",
+        "id": "42007bfdb8c614e3",
+        "text": "<h3> Notes"
+      },
+      "date": 1353957724410
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5fb79d4e8f9692cb",
+        "text": ""
+      },
+      "id": "5fb79d4e8f9692cb",
+      "type": "add",
+      "after": "42007bfdb8c614e3",
+      "date": 1353957724917
+    },
+    {
+      "type": "edit",
+      "id": "5fb79d4e8f9692cb",
+      "item": {
+        "type": "paragraph",
+        "id": "5fb79d4e8f9692cb",
+        "text": "This required a small modification to both the sinatra and express servers. "
+      },
+      "date": 1353957762057
+    },
+    {
+      "type": "edit",
+      "id": "5fb79d4e8f9692cb",
+      "item": {
+        "type": "paragraph",
+        "id": "5fb79d4e8f9692cb",
+        "text": "This required a small modification to both the sinatra and express servers. [https://github.com/WardCunningham/Smallest-Federated-Wiki/commit/c6ebb642b1cfd686d771dff1bdbccbcc82ed7db8 github]"
+      },
+      "date": 1353957857098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d629be8aa583447"
+      },
+      "id": "4d629be8aa583447",
+      "type": "add",
+      "after": "5fb79d4e8f9692cb",
+      "date": 1353957992924
+    },
+    {
+      "type": "edit",
+      "id": "4d629be8aa583447",
+      "item": {
+        "type": "paragraph",
+        "id": "4d629be8aa583447",
+        "text": "Fork from history is a related function not fully addressed by this feature."
+      },
+      "date": 1353958065202
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1416818659707
+    }
+  ]
+}

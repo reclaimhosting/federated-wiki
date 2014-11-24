@@ -1,0 +1,566 @@
+{
+  "title": "Fedwiki: The Big Picture",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ac2cf4d4c58cb5d9",
+      "text": "[[Federated Wiki Is an Application]]. It is not a web page or series of web pages. This has some implications on interface and use."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f619a5e78cd9352",
+      "text": "[[Federated Wiki Is Your High School Journal]]. It's a scratch space, a place to capture ideas. Some will gel into larger entities, some will not."
+    },
+    {
+      "type": "paragraph",
+      "id": "cbd10150d9b136b3",
+      "text": "[[Federated Wiki and Reflection]]. Wiki writing is not the only form of reflection, but it has some unique properties that make it useful to education. Federated wiki broadens opportunities for application."
+    },
+    {
+      "type": "paragraph",
+      "id": "3b4ced6ede720a70",
+      "text": "[[Federated Wiki and Growth]]. Sites thrive when they are expanding, but tend to ossify when expansion stops. Can federated wiki create long-term communities by ditching the growth model?"
+    },
+    {
+      "type": "paragraph",
+      "id": "420041ec0de0db6e",
+      "text": "Recently I saw Ward's Song of Code and Content presentation. The big thing I took away? [[Look at SFW like Ada Lovelace]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "5a46e30c4d4b4cfd",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "d18c8a15ec4239b0",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "bccd94a7060d8e8b",
+      "text": "[[Federated Wikis, the Universal Canvas, and Ben's Five Star Plugin]] is my attempt to synthesize thinking from Jon Udell and Ward Cunningham about how the approach of Federated Wiki serves a world primarily about *semi*-structured data."
+    },
+    {
+      "type": "paragraph",
+      "id": "76ae8bc73c952e5b",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "ca3e1d902433245b",
+      "text": "I've been thinking about why Federated Wiki is so hard to explain, and come to the conclusion that [[Federated Wiki Is Like Excel]] -- small features have big effects, and that is hard to communicate."
+    },
+    {
+      "type": "paragraph",
+      "id": "ebc1c7ada6c66edb",
+      "text": "Federated Wiki is like [[Alan Kay's Tape Reel]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a0f0d20375e9067c",
+      "text": "Federated Wiki might overcome the [[Logistic Curve]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c87b7ef61efda67",
+      "text": "[[Namespace Collisions]] are more fun in federated wiki. "
+    },
+    {
+      "type": "factory",
+      "id": "07b155634def52fb"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fedwiki: The Big Picture",
+        "story": []
+      },
+      "date": 1401249870595
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ac2cf4d4c58cb5d9",
+        "text": "[[Federated Wiki Is an Application]]"
+      },
+      "id": "ac2cf4d4c58cb5d9",
+      "date": 1401249876119
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5f619a5e78cd9352",
+        "text": "[[Federated Wiki Is Your High School Journal]]"
+      },
+      "after": "ac2cf4d4c58cb5d9",
+      "id": "5f619a5e78cd9352",
+      "date": 1401249881527
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cbd10150d9b136b3",
+        "text": ""
+      },
+      "id": "cbd10150d9b136b3",
+      "type": "add",
+      "after": "5f619a5e78cd9352",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1401417544274
+    },
+    {
+      "type": "edit",
+      "id": "cbd10150d9b136b3",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd10150d9b136b3",
+        "text": "[[Federated Wiki and Reflection]]"
+      },
+      "date": 1401417566680
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5a46e30c4d4b4cfd",
+        "text": ""
+      },
+      "id": "5a46e30c4d4b4cfd",
+      "type": "add",
+      "after": "cbd10150d9b136b3",
+      "date": 1401417567181
+    },
+    {
+      "type": "remove",
+      "id": "5a46e30c4d4b4cfd",
+      "date": 1401417574860
+    },
+    {
+      "type": "fork",
+      "date": 1401417587777
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3b4ced6ede720a70",
+        "text": ""
+      },
+      "id": "3b4ced6ede720a70",
+      "type": "add",
+      "after": "cbd10150d9b136b3",
+      "date": 1402805030450
+    },
+    {
+      "type": "edit",
+      "id": "3b4ced6ede720a70",
+      "item": {
+        "type": "paragraph",
+        "id": "3b4ced6ede720a70",
+        "text": "[[Federated Wiki and Growth]]"
+      },
+      "date": 1402805049897
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ea460822ad25a12",
+        "text": ""
+      },
+      "id": "5ea460822ad25a12",
+      "type": "add",
+      "after": "3b4ced6ede720a70",
+      "date": 1402805050409
+    },
+    {
+      "type": "remove",
+      "id": "5ea460822ad25a12",
+      "date": 1402805056271
+    },
+    {
+      "type": "edit",
+      "id": "ac2cf4d4c58cb5d9",
+      "item": {
+        "type": "paragraph",
+        "id": "ac2cf4d4c58cb5d9",
+        "text": "[[Federated Wiki Is an Application]]."
+      },
+      "date": 1403649089919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bf2695d9a87542d"
+      },
+      "id": "7bf2695d9a87542d",
+      "type": "add",
+      "after": "5a46e30c4d4b4cfd",
+      "date": 1403649090166
+    },
+    {
+      "type": "edit",
+      "id": "cbd10150d9b136b3",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd10150d9b136b3",
+        "text": "[[Federated Wiki and Reflection]]."
+      },
+      "date": 1403649094427
+    },
+    {
+      "type": "edit",
+      "id": "5f619a5e78cd9352",
+      "item": {
+        "type": "paragraph",
+        "id": "5f619a5e78cd9352",
+        "text": "[[Federated Wiki Is Your High School Journal]]."
+      },
+      "date": 1403649098021
+    },
+    {
+      "type": "remove",
+      "id": "7bf2695d9a87542d",
+      "date": 1403649100949
+    },
+    {
+      "type": "edit",
+      "id": "3b4ced6ede720a70",
+      "item": {
+        "type": "paragraph",
+        "id": "3b4ced6ede720a70",
+        "text": "[[Federated Wiki and Growth]]."
+      },
+      "date": 1403649103182
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "420041ec0de0db6e"
+      },
+      "id": "420041ec0de0db6e",
+      "type": "add",
+      "after": "5a46e30c4d4b4cfd",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1403652678282
+    },
+    {
+      "type": "move",
+      "order": [
+        "ac2cf4d4c58cb5d9",
+        "5f619a5e78cd9352",
+        "cbd10150d9b136b3",
+        "3b4ced6ede720a70",
+        "420041ec0de0db6e",
+        "5a46e30c4d4b4cfd"
+      ],
+      "id": "420041ec0de0db6e",
+      "date": 1403652679077
+    },
+    {
+      "type": "fork",
+      "date": 1403652880415
+    },
+    {
+      "type": "edit",
+      "id": "ac2cf4d4c58cb5d9",
+      "item": {
+        "type": "paragraph",
+        "id": "ac2cf4d4c58cb5d9",
+        "text": "[[Federated Wiki Is an Application]]. It is not a web page or series of web pages. This has some implications on interface and use."
+      },
+      "date": 1403652929298
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "86c35e29ff45929e",
+        "text": ""
+      },
+      "id": "86c35e29ff45929e",
+      "type": "add",
+      "after": "ac2cf4d4c58cb5d9",
+      "date": 1403652929807
+    },
+    {
+      "type": "remove",
+      "id": "86c35e29ff45929e",
+      "date": 1403652932120
+    },
+    {
+      "type": "edit",
+      "id": "5f619a5e78cd9352",
+      "item": {
+        "type": "paragraph",
+        "id": "5f619a5e78cd9352",
+        "text": "[[Federated Wiki Is Your High School Journal]]. It's a scratch space, a place to capture ideas. Some will gel into larger entities, some will not."
+      },
+      "date": 1403652995471
+    },
+    {
+      "type": "edit",
+      "id": "cbd10150d9b136b3",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd10150d9b136b3",
+        "text": "[[Federated Wiki and Reflection]]. Wiki writing is not the only form of reflection, but it has some unique properties that make it useful to education. Federated wiki broadens opportunities for application."
+      },
+      "date": 1403653074246
+    },
+    {
+      "type": "edit",
+      "id": "3b4ced6ede720a70",
+      "item": {
+        "type": "paragraph",
+        "id": "3b4ced6ede720a70",
+        "text": "[[Federated Wiki and Growth]]. Sites thrive when they are expanding, but tend to ossify when expansion stops. Can federated wiki create long-term communities by ditching the growth model?"
+      },
+      "date": 1403653171208
+    },
+    {
+      "type": "edit",
+      "id": "420041ec0de0db6e",
+      "item": {
+        "type": "paragraph",
+        "id": "420041ec0de0db6e",
+        "text": "Recently I saw Ward's Song of Code and Content presentation. The big thing I took away? [[Look at SFW like Ada Lovelace]]."
+      },
+      "date": 1403653992229
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d18c8a15ec4239b0"
+      },
+      "id": "d18c8a15ec4239b0",
+      "type": "add",
+      "after": "5a46e30c4d4b4cfd",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1405112533073
+    },
+    {
+      "type": "remove",
+      "id": "d18c8a15ec4239b0",
+      "date": 1405112540175
+    },
+    {
+      "type": "fork",
+      "date": 1405112556706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bccd94a7060d8e8b"
+      },
+      "id": "bccd94a7060d8e8b",
+      "type": "add",
+      "after": "d18c8a15ec4239b0",
+      "date": 1405112559186
+    },
+    {
+      "type": "edit",
+      "id": "bccd94a7060d8e8b",
+      "item": {
+        "type": "paragraph",
+        "id": "bccd94a7060d8e8b",
+        "text": "[[Federated Wikis, the Universal Canvas, and Ben's Five Star Plugin]] is my attempt to synthesize thinking from Jon Udell and Ward Cunningham about how the approach of Federated Wiki serves a world primarily about *semi*-structured data."
+      },
+      "date": 1405112690750
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76ae8bc73c952e5b"
+      },
+      "id": "76ae8bc73c952e5b",
+      "type": "add",
+      "after": "bccd94a7060d8e8b",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1408379939377
+    },
+    {
+      "type": "remove",
+      "id": "76ae8bc73c952e5b",
+      "date": 1408379944676
+    },
+    {
+      "type": "fork",
+      "date": 1408380005847
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca3e1d902433245b"
+      },
+      "id": "ca3e1d902433245b",
+      "type": "add",
+      "after": "76ae8bc73c952e5b",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1410708772930
+    },
+    {
+      "type": "fork",
+      "date": 1410708799052
+    },
+    {
+      "type": "edit",
+      "id": "ca3e1d902433245b",
+      "item": {
+        "type": "paragraph",
+        "id": "ca3e1d902433245b",
+        "text": "[[Federated Wiki as Excel]]"
+      },
+      "date": 1410708826577
+    },
+    {
+      "type": "edit",
+      "id": "ca3e1d902433245b",
+      "item": {
+        "type": "paragraph",
+        "id": "ca3e1d902433245b",
+        "text": "I've been thinking about why Federated Wiki is so hard to explain, and come to the conclusion that [[Federated Wiki Is Like Excel]] -- small features have big effects, and that is hard to communicate."
+      },
+      "date": 1410708924878
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e17b34eb0743d54b",
+        "text": ""
+      },
+      "id": "e17b34eb0743d54b",
+      "type": "add",
+      "after": "ca3e1d902433245b",
+      "date": 1410708924901
+    },
+    {
+      "type": "remove",
+      "id": "e17b34eb0743d54b",
+      "date": 1410708929687
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07b155634def52fb"
+      },
+      "id": "07b155634def52fb",
+      "type": "add",
+      "after": "ca3e1d902433245b",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1412355301027
+    },
+    {
+      "type": "fork",
+      "date": 1412360830678
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ebc1c7ada6c66edb",
+        "text": ""
+      },
+      "id": "ebc1c7ada6c66edb",
+      "type": "add",
+      "after": "ca3e1d902433245b",
+      "date": 1412360833261
+    },
+    {
+      "type": "edit",
+      "id": "ebc1c7ada6c66edb",
+      "item": {
+        "type": "paragraph",
+        "id": "ebc1c7ada6c66edb",
+        "text": "Federated Wiki is like [[Alan Kay's Tape Reel]]"
+      },
+      "date": 1412360867976
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0f0d20375e9067c",
+        "text": ""
+      },
+      "id": "a0f0d20375e9067c",
+      "type": "add",
+      "after": "ebc1c7ada6c66edb",
+      "date": 1412883913843
+    },
+    {
+      "type": "edit",
+      "id": "a0f0d20375e9067c",
+      "item": {
+        "type": "paragraph",
+        "id": "a0f0d20375e9067c",
+        "text": "Federated Wiki might overcome the [[Logistical Curve]]"
+      },
+      "date": 1412883950549
+    },
+    {
+      "type": "edit",
+      "id": "a0f0d20375e9067c",
+      "item": {
+        "type": "paragraph",
+        "id": "a0f0d20375e9067c",
+        "text": "Federated Wiki might overcome the [[Logistic Curve]]"
+      },
+      "date": 1412883977944
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3c87b7ef61efda67",
+        "text": ""
+      },
+      "id": "3c87b7ef61efda67",
+      "type": "add",
+      "after": "a0f0d20375e9067c",
+      "date": 1413311575909
+    },
+    {
+      "type": "edit",
+      "id": "3c87b7ef61efda67",
+      "item": {
+        "type": "paragraph",
+        "id": "3c87b7ef61efda67",
+        "text": "[[Namespace Collisions]] are more fun in federated wiki. "
+      },
+      "date": 1413311593289
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1414262844670
+    },
+    {
+      "type": "fork",
+      "site": "splash.fed.wiki.org",
+      "date": 1416818513337
+    }
+  ]
+}

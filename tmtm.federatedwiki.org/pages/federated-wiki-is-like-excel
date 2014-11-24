@@ -1,0 +1,251 @@
+{
+  "title": "Federated Wiki Is Like Excel",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "52fac909eaaee0de",
+      "text": "If you were explaining Excel to someone the first time, you'd probably explain to them that Excel calculates columns and rows, and then mention that updating a cell triggers other updates. The chance they would understand the huge difference that last bit makes is slim. Federated wiki has the same problem."
+    },
+    {
+      "type": "paragraph",
+      "id": "f46a011370b09d86",
+      "text": "In Excel, the cascading updates don't just make it a table computation device with a neat feature -- they move it from being a rather narrow tool to being a general purpose simulation engine. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ce6b378f9b387309",
+      "text": "It was my sister who first showed me this. She wrote spreadsheets for an environmental engineering firm. She could use that cascading bit to define what she knew about bacteria growth patterns, change an input,and watch it iterate."
+    },
+    {
+      "type": "paragraph",
+      "id": "e04b8f0361f05b51",
+      "text": "This allowed her to take a few simple formulas and combine them to create a model of something which had no formula, and she could do it herself, on her desktop. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a2e47de819827b06",
+      "text": "That power changed engineering, fundamentally, as well as a lot of other fields (Von Hippel talks a bit about Excel -find reference-). "
+    },
+    {
+      "type": "paragraph",
+      "id": "51cf608795b044ac",
+      "text": "Federated Wiki takes a few simple ideas (multiple pages in a browser that are aware of each others existence, neighborhoods, federated production, server-delivered plug-ins, page embedded log) and fascinating things happen. But they are not tidy solutions to defined problems, so their significance is easy to miss."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki Is Like Excel",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "52fac909eaaee0de",
+            "text": "If you were explaining Excel to someone the first time, you'd probably explain to them that Excel calculates columns and rows, and then mention that updating a cell triggers other updates. The chance they would understand the huge difference that last bit makes is slim. Federated wiki has the same problem."
+          },
+          {
+            "type": "paragraph",
+            "id": "f46a011370b09d86",
+            "text": "In Excel, the cascading updates don't just make it a table computation device with a neat feature -- they move it from being a rather narrow tool to being a general purpose simulation engine. "
+          },
+          {
+            "type": "paragraph",
+            "id": "ce6b378f9b387309",
+            "text": "It was my sister who first showed me this. She wrote spreadsheets for an environmental engineering firm. She could use that cascading bit to define what she knew about bacteria growth patterns, change an input,and watch it iterate."
+          },
+          {
+            "type": "paragraph",
+            "id": "e04b8f0361f05b51",
+            "text": "This allowed her to take a few simple formulas and combine them to create a model of something which had no formula, and she could do it herself, on her desktop. "
+          },
+          {
+            "type": "paragraph",
+            "id": "b126de160d9451f9",
+            "text": ""
+          }
+        ]
+      },
+      "date": 1410708929876
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52fac909eaaee0de",
+        "text": "If you were explaining Excel to someone the first time, you'd probably explain to them that Excel calculates columns and rows, and then mention that updating a cell triggers other updates. The chance they would understand the huge difference that last bit makes is slim. Federated wiki has the same problem."
+      },
+      "id": "52fac909eaaee0de",
+      "type": "add",
+      "date": 1410708931780
+    },
+    {
+      "type": "edit",
+      "id": "52fac909eaaee0de",
+      "item": {
+        "type": "paragraph",
+        "id": "52fac909eaaee0de",
+        "text": "If you were explaining Excel to someone the first time, you'd probably explain to them that Excel calculates columns and rows, and then mention that updating a cell triggers other updates. The chance they would understand the huge difference that last bit makes is slim. Federated wiki has the same problem."
+      },
+      "date": 1410709129026
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f46a011370b09d86",
+        "text": "In Excel, the cascading updates don't just make it a table computation device with a neat feature -- they move it from being a rather narrow tool to being a general purpose simulation engine. "
+      },
+      "id": "f46a011370b09d86",
+      "type": "add",
+      "after": "52fac909eaaee0de",
+      "date": 1410709129041
+    },
+    {
+      "type": "edit",
+      "id": "f46a011370b09d86",
+      "item": {
+        "type": "paragraph",
+        "id": "f46a011370b09d86",
+        "text": "In Excel, the cascading updates don't just make it a table computation device with a neat feature -- they move it from being a rather narrow tool to being a general purpose simulation engine. "
+      },
+      "date": 1410709315479
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f883072ee4d7f76",
+        "text": ""
+      },
+      "id": "1f883072ee4d7f76",
+      "type": "add",
+      "after": "f46a011370b09d86",
+      "date": 1410709315504
+    },
+    {
+      "type": "remove",
+      "id": "1f883072ee4d7f76",
+      "date": 1410709323730
+    },
+    {
+      "type": "edit",
+      "id": "f46a011370b09d86",
+      "item": {
+        "type": "paragraph",
+        "id": "f46a011370b09d86",
+        "text": "In Excel, the cascading updates don't just make it a table computation device with a neat feature -- they move it from being a rather narrow tool to being a general purpose simulation engine. "
+      },
+      "date": 1410709328738
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ce6b378f9b387309",
+        "text": "It was my sister who first showed me this. She wrote spreadsheets for an environmental engineering firm. She could use that cascading bit to define what she knew about bacteria growth patterns, change an input,and watch it iterate."
+      },
+      "id": "ce6b378f9b387309",
+      "type": "add",
+      "after": "f46a011370b09d86",
+      "date": 1410709330680
+    },
+    {
+      "type": "edit",
+      "id": "ce6b378f9b387309",
+      "item": {
+        "type": "paragraph",
+        "id": "ce6b378f9b387309",
+        "text": "It was my sister who first showed me this. She wrote spreadsheets for an environmental engineering firm. She could use that cascading bit to define what she knew about bacteria growth patterns, change an input,and watch it iterate."
+      },
+      "date": 1410709475754
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e04b8f0361f05b51",
+        "text": "This allowed her to take a few simple formulas and combine them to create a model of something which had no formula, and she could do it herself, on her desktop. "
+      },
+      "id": "e04b8f0361f05b51",
+      "type": "add",
+      "after": "ce6b378f9b387309",
+      "date": 1410709475771
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b126de160d9451f9",
+        "text": ""
+      },
+      "id": "b126de160d9451f9",
+      "type": "add",
+      "after": "e04b8f0361f05b51",
+      "date": 1410709559998
+    },
+    {
+      "type": "edit",
+      "id": "e04b8f0361f05b51",
+      "item": {
+        "type": "paragraph",
+        "id": "e04b8f0361f05b51",
+        "text": "This allowed her to take a few simple formulas and combine them to create a model of something which had no formula, and she could do it herself, on her desktop. "
+      },
+      "date": 1410709559976
+    },
+    {
+      "type": "remove",
+      "id": "b126de160d9451f9",
+      "date": 1410709562767,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1410709565622
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2e47de819827b06",
+        "text": ""
+      },
+      "id": "a2e47de819827b06",
+      "type": "add",
+      "after": "e04b8f0361f05b51",
+      "date": 1410709568741
+    },
+    {
+      "type": "edit",
+      "id": "a2e47de819827b06",
+      "item": {
+        "type": "paragraph",
+        "id": "a2e47de819827b06",
+        "text": "That power changed engineering, fundamentally, as well as a lot of other fields (Von Hippel talks a bit about Excel -find reference-). "
+      },
+      "date": 1410709760009
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "51cf608795b044ac",
+        "text": ""
+      },
+      "id": "51cf608795b044ac",
+      "type": "add",
+      "after": "a2e47de819827b06",
+      "date": 1410709760035
+    },
+    {
+      "type": "edit",
+      "id": "51cf608795b044ac",
+      "item": {
+        "type": "paragraph",
+        "id": "51cf608795b044ac",
+        "text": "Federated Wiki takes a few simple ideas (multiple pages in a browser that are aware of each others existence, neighborhoods, federated production, server-delivered plug-ins, page embedded log) and fascinating things happen. But they are not tidy solutions to defined problems, so their significance is easy to miss."
+      },
+      "date": 1410709954505
+    },
+    {
+      "type": "fork",
+      "site": "fwthoughts.mike.fed.wiki.org",
+      "date": 1416818511302
+    }
+  ]
+}

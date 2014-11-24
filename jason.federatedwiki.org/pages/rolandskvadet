@@ -59,7 +59,7 @@
     {
       "type": "paragraph",
       "id": "76c5df022aff484a",
-      "text": "["
+      "text": " "
     }
   ],
   "journal": [
@@ -886,6 +886,37 @@
       "type": "remove",
       "id": "7c2919b70e8f6e5d",
       "date": 1416785695634
+    },
+    {
+      "type": "edit",
+      "id": "76c5df022aff484a",
+      "item": {
+        "type": "paragraph",
+        "id": "76c5df022aff484a",
+        "text": " "
+      },
+      "date": 1416788273640
+    },
+    {
+      "type": "remove",
+      "id": "98310a2d71589652",
+      "date": 1416788273659
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df3aa5a7078f0626",
+        "text": ""
+      },
+      "id": "df3aa5a7078f0626",
+      "type": "add",
+      "after": "76c5df022aff484a",
+      "date": 1416788273680
+    },
+    {
+      "type": "remove",
+      "id": "df3aa5a7078f0626",
+      "date": 1416788275367
     }
   ]
 }

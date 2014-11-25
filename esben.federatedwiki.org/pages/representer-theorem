@@ -14,7 +14,7 @@
     {
       "type": "mathjax",
       "id": "e6d2b649418f9e90",
-      "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in R^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
+      "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in \\mathbb{R}^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
     },
     {
       "type": "mathjax",
@@ -438,6 +438,16 @@
         "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$c_i \\in \\mathbb{R} $$"
       },
       "date": 1416937702967
+    },
+    {
+      "type": "edit",
+      "id": "e6d2b649418f9e90",
+      "item": {
+        "type": "mathjax",
+        "id": "e6d2b649418f9e90",
+        "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in \\mathbb{R}^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
+      },
+      "date": 1416937928348
     }
   ]
 }

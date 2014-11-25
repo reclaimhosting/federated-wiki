@@ -19,12 +19,17 @@
     {
       "type": "paragraph",
       "id": "c8bd41dcfb94e7c3",
-      "text": "Navigation is confusing. How do I close a page?"
+      "text": "Navigation is confusing. How do I close a page? "
     },
     {
       "type": "paragraph",
       "id": "831c89af6aa37ad9",
       "text": "Interesting discussion: [http://fed.wiki.org/more-about-browsing-and-linking-sites.html More about browsing and linking]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd04eae9bb626d00",
+      "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
     },
     {
       "type": "paragraph",
@@ -199,6 +204,47 @@
       "type": "remove",
       "id": "198aa3936930ff2b",
       "date": 1416921830009
+    },
+    {
+      "type": "edit",
+      "id": "c8bd41dcfb94e7c3",
+      "item": {
+        "type": "paragraph",
+        "id": "c8bd41dcfb94e7c3",
+        "text": "Navigation is confusing. How do I close a page? "
+      },
+      "date": 1416922399488
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd04eae9bb626d00",
+        "text": ""
+      },
+      "id": "dd04eae9bb626d00",
+      "type": "add",
+      "after": "831c89af6aa37ad9",
+      "date": 1416922433411
+    },
+    {
+      "type": "edit",
+      "id": "dd04eae9bb626d00",
+      "item": {
+        "type": "paragraph",
+        "id": "dd04eae9bb626d00",
+        "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. Total confusion."
+      },
+      "date": 1416922502321
+    },
+    {
+      "type": "edit",
+      "id": "dd04eae9bb626d00",
+      "item": {
+        "type": "paragraph",
+        "id": "dd04eae9bb626d00",
+        "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
+      },
+      "date": 1416922665001
     }
   ]
 }

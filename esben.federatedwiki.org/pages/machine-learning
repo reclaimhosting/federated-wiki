@@ -9,7 +9,22 @@
     {
       "type": "mathjax",
       "id": "94b2d2df333e748c",
-      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m\n\\end{equation}"
+      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+    },
+    {
+      "type": "mathjax",
+      "id": "8ce240cb32cb4209",
+      "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc1ba75c41ba14fc",
+      "text": "Proof"
+    },
+    {
+      "type": "mathjax",
+      "id": "e93048b892c020d5",
+      "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
     }
   ],
   "journal": [
@@ -121,6 +136,162 @@
         "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m\n\\end{equation}"
       },
       "date": 1416927601864
+    },
+    {
+      "type": "edit",
+      "id": "94b2d2df333e748c",
+      "item": {
+        "type": "mathjax",
+        "id": "94b2d2df333e748c",
+        "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+      },
+      "date": 1416927660204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ce240cb32cb4209"
+      },
+      "id": "8ce240cb32cb4209",
+      "type": "add",
+      "after": "94b2d2df333e748c",
+      "date": 1416927676598
+    },
+    {
+      "type": "edit",
+      "id": "8ce240cb32cb4209",
+      "item": {
+        "type": "mathjax",
+        "id": "8ce240cb32cb4209",
+        "text": "\\hat{w} = \\sum_{i=1}^m c_i x_i"
+      },
+      "date": 1416927719708
+    },
+    {
+      "type": "edit",
+      "id": "8ce240cb32cb4209",
+      "item": {
+        "type": "mathjax",
+        "id": "8ce240cb32cb4209",
+        "text": "$\\hat{w} = \\sum_{i=1}^m c_i x_i$"
+      },
+      "date": 1416927727715
+    },
+    {
+      "type": "edit",
+      "id": "8ce240cb32cb4209",
+      "item": {
+        "type": "mathjax",
+        "id": "8ce240cb32cb4209",
+        "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+      },
+      "date": 1416927736411
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc1ba75c41ba14fc"
+      },
+      "id": "fc1ba75c41ba14fc",
+      "type": "add",
+      "after": "8ce240cb32cb4209",
+      "date": 1416927775108
+    },
+    {
+      "type": "edit",
+      "id": "fc1ba75c41ba14fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1ba75c41ba14fc",
+        "text": "Proof"
+      },
+      "date": 1416927779657
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "809d1066ae013efe",
+        "text": ""
+      },
+      "id": "809d1066ae013efe",
+      "type": "add",
+      "after": "fc1ba75c41ba14fc",
+      "date": 1416927779689
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e93048b892c020d5"
+      },
+      "id": "e93048b892c020d5",
+      "type": "add",
+      "after": "809d1066ae013efe",
+      "date": 1416927781300
+    },
+    {
+      "type": "remove",
+      "id": "809d1066ae013efe",
+      "date": 1416927783846
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$math$$"
+      },
+      "date": 1416927792771
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\imples \\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      },
+      "date": 1416927893178
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\imp \\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      },
+      "date": 1416927906732
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\iff \\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      },
+      "date": 1416927914197
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\implication \\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      },
+      "date": 1416927923692
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      },
+      "date": 1416927927755
     }
   ]
 }

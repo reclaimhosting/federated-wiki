@@ -58,6 +58,11 @@
     },
     {
       "type": "paragraph",
+      "id": "dab01df5f7721605",
+      "text": "[[Trash]]"
+    },
+    {
+      "type": "paragraph",
       "id": "dce3a7b0e004b5b9",
       "text": ""
     },
@@ -1169,6 +1174,75 @@
       "type": "remove",
       "id": "b0c128f484a5491d",
       "date": 1416937505604
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dab01df5f7721605",
+        "text": ""
+      },
+      "id": "dab01df5f7721605",
+      "type": "add",
+      "after": "53ddcba0b848825f",
+      "date": 1416954977273
+    },
+    {
+      "type": "edit",
+      "id": "dab01df5f7721605",
+      "item": {
+        "type": "paragraph",
+        "id": "dab01df5f7721605",
+        "text": "[[Trash]]"
+      },
+      "date": 1416954981268
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "map",
+        "id": "8672d6f904ec884c",
+        "text": "Map Caption",
+        "latlng": {
+          "lat": 40.73851052435288,
+          "lng": -74.09454345703125
+        },
+        "zoom": 10
+      },
+      "after": "243bb5eb3cfe2303",
+      "id": "8672d6f904ec884c",
+      "date": 1416954985766
+    },
+    {
+      "type": "move",
+      "order": [
+        "92a7d6e45298795b",
+        "837a5720098e373d",
+        "9c54cacfce8cf254",
+        "5c8182dd46fce8fd",
+        "5fe13f04ed0b9b76",
+        "c2b99fc27b1d20f4",
+        "1f671b924795751b",
+        "243bb5eb3cfe2303",
+        "1770e74fbda6ac94",
+        "8672d6f904ec884c",
+        "bb7c43b5cf13b5b2",
+        "53ddcba0b848825f",
+        "dab01df5f7721605",
+        "dce3a7b0e004b5b9",
+        "c1290b804fd05bde",
+        "620bd45523ef7c32",
+        "e9355e6a0f742b9e",
+        "5f48f96062bc067f",
+        "ee416d431ebf4fb4",
+        "164ec0d3887350a8"
+      ],
+      "id": "8672d6f904ec884c",
+      "date": 1416954997987
+    },
+    {
+      "type": "remove",
+      "id": "8672d6f904ec884c",
+      "date": 1416955000335
     }
   ]
 }

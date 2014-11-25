@@ -1,0 +1,40 @@
+{
+  "title": "Trash",
+  "story": [
+    {
+      "type": "map",
+      "id": "8672d6f904ec884c",
+      "text": "Map Caption",
+      "latlng": {
+        "lat": 40.73851052435288,
+        "lng": -74.09454345703125
+      },
+      "zoom": 10
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Trash",
+        "story": []
+      },
+      "date": 1416954994298
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "map",
+        "id": "8672d6f904ec884c",
+        "text": "Map Caption",
+        "latlng": {
+          "lat": 40.73851052435288,
+          "lng": -74.09454345703125
+        },
+        "zoom": 10
+      },
+      "id": "8672d6f904ec884c",
+      "date": 1416955000336
+    }
+  ]
+}

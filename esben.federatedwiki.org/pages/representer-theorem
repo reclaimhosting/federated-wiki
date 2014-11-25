@@ -4,12 +4,12 @@
     {
       "type": "mathjax",
       "id": "e6d2b649418f9e90",
-      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+      "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in R^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
     },
     {
       "type": "mathjax",
       "id": "89c7ff238a88395c",
-      "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+      "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$ where \n$$ c_i \\in \\mathbb{R}$$"
     },
     {
       "type": "paragraph",
@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "19c61e0c61e987ad",
-      "text": ""
+      "text": "That is, the minimiser of a regularised empirical risk function can be represented as a linear combination of the inputs."
     },
     {
       "type": "mathjax",
@@ -207,6 +207,156 @@
       "type": "add",
       "after": "fc1ba75c41ba14fc",
       "date": 1416933619580
+    },
+    {
+      "type": "edit",
+      "id": "19c61e0c61e987ad",
+      "item": {
+        "type": "paragraph",
+        "id": "19c61e0c61e987ad",
+        "text": "That is, "
+      },
+      "date": 1416933629585
+    },
+    {
+      "type": "edit",
+      "id": "19c61e0c61e987ad",
+      "item": {
+        "type": "paragraph",
+        "id": "19c61e0c61e987ad",
+        "text": "That is, the minimiser of a regularised empirical risk"
+      },
+      "date": 1416933661892
+    },
+    {
+      "type": "edit",
+      "id": "19c61e0c61e987ad",
+      "item": {
+        "type": "paragraph",
+        "id": "19c61e0c61e987ad",
+        "text": "That is, the minimiser of a regularised empirical risk function can be "
+      },
+      "date": 1416933680363
+    },
+    {
+      "type": "edit",
+      "id": "19c61e0c61e987ad",
+      "item": {
+        "type": "paragraph",
+        "id": "19c61e0c61e987ad",
+        "text": "That is, the minimiser of a regularised empirical risk function can be represented as a linear combination of the inputs."
+      },
+      "date": 1416933701430
+    },
+    {
+      "type": "edit",
+      "id": "e6d2b649418f9e90",
+      "item": {
+        "type": "mathjax",
+        "id": "e6d2b649418f9e90",
+        "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in R^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
+      },
+      "date": 1416933773140
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n"
+      },
+      "date": 1416933793351
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$ "
+      },
+      "date": 1416933813819
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$ c_i \\in \\reals $$"
+      },
+      "date": 1416933831365
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$ c_i \\in \\real $$"
+      },
+      "date": 1416933836181
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$ c_i \\in \\mathbb{R} $$"
+      },
+      "date": 1416933857925
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i \\text{where} c_i \\in \\mathbb{R}$$"
+      },
+      "date": 1416933879446
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$ where $$ c_i \\in \\mathbb{R}$$"
+      },
+      "date": 1416933896305
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$ where \n$$ c_i \\in \\mathbb{R}$$"
+      },
+      "date": 1416933900527
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$ where \n$ c_i \\in \\mathbb{R}$"
+      },
+      "date": 1416933917902
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$ where \n$$ c_i \\in \\mathbb{R}$$"
+      },
+      "date": 1416933926570
     }
   ]
 }

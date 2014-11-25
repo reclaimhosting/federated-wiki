@@ -1,0 +1,205 @@
+{
+  "title": "Academic topics",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d7e267ae955dbe66",
+      "text": "These are various academic topics that I'm currently studying"
+    },
+    {
+      "type": "paragraph",
+      "id": "388e8459f44c231b",
+      "text": "[[Machine Learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f2f8bfb4d5e22d0",
+      "text": "[[Computational Complexity]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2e3a64b55fd01cf5",
+      "text": "[[My bachelor project]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Academic topics",
+        "story": []
+      },
+      "date": 1416917808696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7e267ae955dbe66"
+      },
+      "id": "d7e267ae955dbe66",
+      "type": "add",
+      "date": 1416917812684
+    },
+    {
+      "type": "edit",
+      "id": "d7e267ae955dbe66",
+      "item": {
+        "type": "paragraph",
+        "id": "d7e267ae955dbe66",
+        "text": "These are various academic topics that I'm currently studying"
+      },
+      "date": 1416917850679
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "388e8459f44c231b",
+        "text": ""
+      },
+      "id": "388e8459f44c231b",
+      "type": "add",
+      "after": "d7e267ae955dbe66",
+      "date": 1416917850712
+    },
+    {
+      "type": "edit",
+      "id": "388e8459f44c231b",
+      "item": {
+        "type": "paragraph",
+        "id": "388e8459f44c231b",
+        "text": "[[Machine Learning]]"
+      },
+      "date": 1416917856199
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5f2f8bfb4d5e22d0",
+        "text": ""
+      },
+      "id": "5f2f8bfb4d5e22d0",
+      "type": "add",
+      "after": "388e8459f44c231b",
+      "date": 1416917856230
+    },
+    {
+      "type": "edit",
+      "id": "5f2f8bfb4d5e22d0",
+      "item": {
+        "type": "paragraph",
+        "id": "5f2f8bfb4d5e22d0",
+        "text": "[[Computational Complexity]]"
+      },
+      "date": 1416917864095
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6a518727cf08e917",
+        "text": ""
+      },
+      "id": "6a518727cf08e917",
+      "type": "add",
+      "after": "5f2f8bfb4d5e22d0",
+      "date": 1416917864128
+    },
+    {
+      "type": "edit",
+      "id": "6a518727cf08e917",
+      "item": {
+        "type": "paragraph",
+        "id": "6a518727cf08e917",
+        "text": "[["
+      },
+      "date": 1416917893553
+    },
+    {
+      "type": "edit",
+      "id": "6a518727cf08e917",
+      "item": {
+        "type": "paragraph",
+        "id": "6a518727cf08e917",
+        "text": "My bachelor project"
+      },
+      "date": 1416917929762
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5f6d5155e86a97a5",
+        "text": ""
+      },
+      "id": "5f6d5155e86a97a5",
+      "type": "add",
+      "after": "6a518727cf08e917",
+      "date": 1416917929794
+    },
+    {
+      "type": "remove",
+      "id": "5f6d5155e86a97a5",
+      "date": 1416917931394
+    },
+    {
+      "type": "edit",
+      "id": "6a518727cf08e917",
+      "item": {
+        "type": "paragraph",
+        "id": "6a518727cf08e917",
+        "text": "[["
+      },
+      "date": 1416917933658
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfcad7e65ddd6630",
+        "text": "My bachelor project]]"
+      },
+      "id": "dfcad7e65ddd6630",
+      "type": "add",
+      "after": "6a518727cf08e917",
+      "date": 1416917933690
+    },
+    {
+      "type": "edit",
+      "id": "dfcad7e65ddd6630",
+      "item": {
+        "type": "paragraph",
+        "id": "dfcad7e65ddd6630",
+        "text": "[["
+      },
+      "date": 1416917935891
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2e3a64b55fd01cf5",
+        "text": "My bachelor project]]"
+      },
+      "id": "2e3a64b55fd01cf5",
+      "type": "add",
+      "after": "dfcad7e65ddd6630",
+      "date": 1416917935922
+    },
+    {
+      "type": "edit",
+      "id": "2e3a64b55fd01cf5",
+      "item": {
+        "type": "paragraph",
+        "id": "2e3a64b55fd01cf5",
+        "text": "[[My bachelor project]]"
+      },
+      "date": 1416917937946
+    },
+    {
+      "type": "remove",
+      "id": "6a518727cf08e917",
+      "date": 1416917941521
+    },
+    {
+      "type": "remove",
+      "id": "dfcad7e65ddd6630",
+      "date": 1416917943410
+    }
+  ]
+}

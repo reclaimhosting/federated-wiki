@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "ad3da363d627f71d",
-      "text": "Kernels"
+      "text": "Representer theorem"
     },
     {
       "type": "mathjax",
@@ -24,7 +24,17 @@
     {
       "type": "mathjax",
       "id": "e93048b892c020d5",
-      "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
+      "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0516c189b8dcf760",
+      "text": "Proof 2"
+    },
+    {
+      "type": "mathjax",
+      "id": "c259b8bcd60beb9b",
+      "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$"
     }
   ],
   "journal": [
@@ -292,6 +302,102 @@
         "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$"
       },
       "date": 1416927927755
+    },
+    {
+      "type": "edit",
+      "id": "ad3da363d627f71d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad3da363d627f71d",
+        "text": "Representer theorem"
+      },
+      "date": 1416928600051
+    },
+    {
+      "type": "edit",
+      "id": "e93048b892c020d5",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$\n"
+      },
+      "date": 1416928658286
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0516c189b8dcf760"
+      },
+      "id": "0516c189b8dcf760",
+      "type": "add",
+      "after": "e93048b892c020d5",
+      "date": 1416928659106
+    },
+    {
+      "type": "edit",
+      "id": "0516c189b8dcf760",
+      "item": {
+        "type": "paragraph",
+        "id": "0516c189b8dcf760",
+        "text": "Proof 2"
+      },
+      "date": 1416928665771
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99323568376c6d6a",
+        "text": ""
+      },
+      "id": "99323568376c6d6a",
+      "type": "add",
+      "after": "0516c189b8dcf760",
+      "date": 1416928665805
+    },
+    {
+      "type": "remove",
+      "id": "99323568376c6d6a",
+      "date": 1416928667567
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c259b8bcd60beb9b"
+      },
+      "id": "c259b8bcd60beb9b",
+      "type": "add",
+      "after": "0516c189b8dcf760",
+      "date": 1416928668566
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\}"
+      },
+      "date": 1416928696988
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} $$"
+      },
+      "date": 1416928701055
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$"
+      },
+      "date": 1416928742044
     }
   ]
 }

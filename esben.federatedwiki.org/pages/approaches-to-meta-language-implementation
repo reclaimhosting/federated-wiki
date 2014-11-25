@@ -1,0 +1,195 @@
+{
+  "title": "Approaches to meta-language implementation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fdbb5fd4ba6a2fdf",
+      "text": "The main approach I have been discussing with Heiko is to design the language from the bottom using a grammar, implement this using either a parser generator or a parsing library, and finally have a translation component that translates the meta-language parse tree into each target language (using some kind of look-up table for each language)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4beecad46f79ba6",
+      "text": "Parser generators / parsing libraries that have been considered:"
+    },
+    {
+      "type": "paragraph",
+      "id": "20502e2da707ffc4",
+      "text": "<li>ANTLR"
+    },
+    {
+      "type": "paragraph",
+      "id": "bef10b5d3082c898",
+      "text": "<li>Bison"
+    },
+    {
+      "type": "paragraph",
+      "id": "ab681791d8e9126b",
+      "text": "<li>pyparsing (for prototyping)"
+    },
+    {
+      "type": "paragraph",
+      "id": "7b72905e61bb9cdd",
+      "text": "<li>boost::spirit"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Approaches to meta-language implementation",
+        "story": []
+      },
+      "date": 1416921871271
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fdbb5fd4ba6a2fdf"
+      },
+      "id": "fdbb5fd4ba6a2fdf",
+      "type": "add",
+      "date": 1416921872913
+    },
+    {
+      "type": "edit",
+      "id": "fdbb5fd4ba6a2fdf",
+      "item": {
+        "type": "paragraph",
+        "id": "fdbb5fd4ba6a2fdf",
+        "text": "The main approach I have been discussing with Heiko is to design the language from the bottom using a grammar, implement this using either a parser generator or a parsing library, and finally have a translation component that translates the meta-language parse tree into each target language (using some kind of look-up table for each language)"
+      },
+      "date": 1416921967935
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d4beecad46f79ba6",
+        "text": ""
+      },
+      "id": "d4beecad46f79ba6",
+      "type": "add",
+      "after": "fdbb5fd4ba6a2fdf",
+      "date": 1416921970482
+    },
+    {
+      "type": "edit",
+      "id": "d4beecad46f79ba6",
+      "item": {
+        "type": "paragraph",
+        "id": "d4beecad46f79ba6",
+        "text": "Parse generators that has been considered:"
+      },
+      "date": 1416921986130
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "20502e2da707ffc4",
+        "text": ""
+      },
+      "id": "20502e2da707ffc4",
+      "type": "add",
+      "after": "d4beecad46f79ba6",
+      "date": 1416921986162
+    },
+    {
+      "type": "edit",
+      "id": "20502e2da707ffc4",
+      "item": {
+        "type": "paragraph",
+        "id": "20502e2da707ffc4",
+        "text": "<li>ANTLR"
+      },
+      "date": 1416921992122
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab681791d8e9126b",
+        "text": ""
+      },
+      "id": "ab681791d8e9126b",
+      "type": "add",
+      "after": "20502e2da707ffc4",
+      "date": 1416921992155
+    },
+    {
+      "type": "edit",
+      "id": "ab681791d8e9126b",
+      "item": {
+        "type": "paragraph",
+        "id": "ab681791d8e9126b",
+        "text": "<li>pyparsing (for prototyping)"
+      },
+      "date": 1416922003451
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b72905e61bb9cdd",
+        "text": ""
+      },
+      "id": "7b72905e61bb9cdd",
+      "type": "add",
+      "after": "ab681791d8e9126b",
+      "date": 1416922003484
+    },
+    {
+      "type": "edit",
+      "id": "7b72905e61bb9cdd",
+      "item": {
+        "type": "paragraph",
+        "id": "7b72905e61bb9cdd",
+        "text": "<li>boost::spirit"
+      },
+      "date": 1416922015107
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "880d7b934a838381",
+        "text": ""
+      },
+      "id": "880d7b934a838381",
+      "type": "add",
+      "after": "7b72905e61bb9cdd",
+      "date": 1416922015141
+    },
+    {
+      "type": "remove",
+      "id": "880d7b934a838381",
+      "date": 1416922017587
+    },
+    {
+      "type": "edit",
+      "id": "d4beecad46f79ba6",
+      "item": {
+        "type": "paragraph",
+        "id": "d4beecad46f79ba6",
+        "text": "Parser generators / parsing libraries that have been considered:"
+      },
+      "date": 1416922026069
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bef10b5d3082c898",
+        "text": ""
+      },
+      "id": "bef10b5d3082c898",
+      "type": "add",
+      "after": "20502e2da707ffc4",
+      "date": 1416922033374
+    },
+    {
+      "type": "edit",
+      "id": "bef10b5d3082c898",
+      "item": {
+        "type": "paragraph",
+        "id": "bef10b5d3082c898",
+        "text": "<li>Bison"
+      },
+      "date": 1416922039406
+    }
+  ]
+}

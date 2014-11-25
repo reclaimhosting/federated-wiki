@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "a84599529b87428c",
       "text": "[[Project plan]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a8521b1915253f7a",
+      "text": "[[Approaches to meta-language implementation]]"
     }
   ],
   "journal": [
@@ -384,6 +389,43 @@
       "type": "remove",
       "id": "f83e38c3defe0f47",
       "date": 1416920629996
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a8521b1915253f7a",
+        "text": ""
+      },
+      "id": "a8521b1915253f7a",
+      "type": "add",
+      "after": "a84599529b87428c",
+      "date": 1416921853476
+    },
+    {
+      "type": "edit",
+      "id": "a8521b1915253f7a",
+      "item": {
+        "type": "paragraph",
+        "id": "a8521b1915253f7a",
+        "text": "[[Approaches to meta-language implementation]]"
+      },
+      "date": 1416921869476
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f50ea4f6c2ed243c",
+        "text": ""
+      },
+      "id": "f50ea4f6c2ed243c",
+      "type": "add",
+      "after": "a8521b1915253f7a",
+      "date": 1416921869513
+    },
+    {
+      "type": "remove",
+      "id": "f50ea4f6c2ed243c",
+      "date": 1416921871169
     }
   ]
 }

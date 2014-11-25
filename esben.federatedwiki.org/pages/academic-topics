@@ -25,6 +25,15 @@
       "type": "paragraph",
       "id": "2e3a64b55fd01cf5",
       "text": "[[BSc project]]"
+    },
+    {
+      "type": "factory",
+      "id": "7f878e5108962d32"
+    },
+    {
+      "type": "paragraph",
+      "id": "1d1adb15abd1f317",
+      "text": ""
     }
   ],
   "journal": [
@@ -347,6 +356,27 @@
         "text": "These are various academic topics that I'm currently involved in"
       },
       "date": 1416923821692
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f878e5108962d32"
+      },
+      "id": "7f878e5108962d32",
+      "type": "add",
+      "after": "2e3a64b55fd01cf5",
+      "date": 1416925185585
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1d1adb15abd1f317",
+        "text": ""
+      },
+      "id": "1d1adb15abd1f317",
+      "type": "add",
+      "after": "7f878e5108962d32",
+      "date": 1416925199473
     }
   ]
 }

@@ -7,17 +7,21 @@
       "text": "These are the people I follow"
     },
     {
-      "id": "4096337448f4461e",
-      "type": "reference",
-      "site": "jonas.federatedwiki.org",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "My name is Jonas, and I'm trying out Federated Wiki."
-    },
-    {
       "type": "paragraph",
       "id": "f036a2be92017364",
       "text": ""
+    },
+    {
+      "type": "reference",
+      "id": "fa111646b0d1bf6d",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://esben.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://esben.federatedwiki.org/favicon.png",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+      },
+      "site": "jonas.federatedwiki.org",
+      "title": "Welcome Visitors",
+      "text": "My name is Jonas, and I'm trying out Federated Wiki."
     }
   ],
   "journal": [
@@ -277,6 +281,135 @@
       "type": "remove",
       "id": "762e5a8d3eccb88a",
       "date": 1416937512099
+    },
+    {
+      "type": "remove",
+      "id": "4096337448f4461e",
+      "date": 1416954405100
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1113cd97dd27a5fd"
+      },
+      "id": "1113cd97dd27a5fd",
+      "type": "add",
+      "after": "f036a2be92017364",
+      "date": 1416954433021
+    },
+    {
+      "type": "edit",
+      "id": "1113cd97dd27a5fd",
+      "item": {
+        "type": "reference",
+        "id": "1113cd97dd27a5fd",
+        "site": "jonas.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "My name is Jonas, and I'm trying out Federated Wiki."
+      },
+      "date": 1416954453892
+    },
+    {
+      "type": "remove",
+      "id": "1113cd97dd27a5fd",
+      "date": 1416954467311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "31fe2dbda4fbb350"
+      },
+      "id": "31fe2dbda4fbb350",
+      "type": "add",
+      "after": "f036a2be92017364",
+      "date": 1416954486528
+    },
+    {
+      "type": "edit",
+      "id": "31fe2dbda4fbb350",
+      "item": {
+        "type": "reference",
+        "id": "31fe2dbda4fbb350",
+        "site": "jonas.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "My name is Jonas, and I'm trying out Federated Wiki."
+      },
+      "date": 1416954488649
+    },
+    {
+      "type": "remove",
+      "id": "31fe2dbda4fbb350",
+      "date": 1416954538008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa111646b0d1bf6d"
+      },
+      "id": "fa111646b0d1bf6d",
+      "type": "add",
+      "after": "f036a2be92017364",
+      "date": 1416954539622
+    },
+    {
+      "type": "edit",
+      "id": "fa111646b0d1bf6d",
+      "item": {
+        "type": "factory",
+        "id": "fa111646b0d1bf6d",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://esben.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://esben.federatedwiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+        }
+      },
+      "date": 1416954543353
+    },
+    {
+      "type": "edit",
+      "id": "fa111646b0d1bf6d",
+      "item": {
+        "type": "reference",
+        "id": "fa111646b0d1bf6d",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://esben.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://esben.federatedwiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+        },
+        "site": "jonas.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "My name is Jonas, and I'm trying out Federated Wiki."
+      },
+      "date": 1416954545490
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30b5c72b1c156f6f"
+      },
+      "id": "30b5c72b1c156f6f",
+      "type": "add",
+      "after": "fa111646b0d1bf6d",
+      "date": 1416954563760
+    },
+    {
+      "type": "edit",
+      "id": "30b5c72b1c156f6f",
+      "item": {
+        "type": "factory",
+        "id": "30b5c72b1c156f6f",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://jonas.federatedwiki.org/welcome-visitors.html\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://jonas.federatedwiki.org/welcome-visitors.html",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+        }
+      },
+      "date": 1416954565255
+    },
+    {
+      "type": "remove",
+      "id": "30b5c72b1c156f6f",
+      "date": 1416954621799
     }
   ]
 }

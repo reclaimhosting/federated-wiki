@@ -4,37 +4,12 @@
     {
       "type": "paragraph",
       "id": "ad3da363d627f71d",
-      "text": "Representer theorem"
-    },
-    {
-      "type": "mathjax",
-      "id": "94b2d2df333e748c",
-      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
-    },
-    {
-      "type": "mathjax",
-      "id": "8ce240cb32cb4209",
-      "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "fc1ba75c41ba14fc",
-      "text": "Proof"
-    },
-    {
-      "type": "mathjax",
-      "id": "e93048b892c020d5",
-      "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$\n"
+      "text": "[[Representer theorem]]"
     },
     {
       "type": "paragraph",
       "id": "0516c189b8dcf760",
-      "text": "Proof 2"
-    },
-    {
-      "type": "mathjax",
-      "id": "c259b8bcd60beb9b",
-      "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
+      "text": " "
     }
   ],
   "journal": [
@@ -488,6 +463,236 @@
         "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
       },
       "date": 1416929211023
+    },
+    {
+      "type": "edit",
+      "id": "ad3da363d627f71d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad3da363d627f71d",
+        "text": "Representer theorem $$ hello $$"
+      },
+      "date": 1416933284877
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6b429dbe07eab1b6",
+        "text": ""
+      },
+      "id": "6b429dbe07eab1b6",
+      "type": "add",
+      "after": "ad3da363d627f71d",
+      "date": 1416933284913
+    },
+    {
+      "type": "remove",
+      "id": "6b429dbe07eab1b6",
+      "date": 1416933286360
+    },
+    {
+      "type": "edit",
+      "id": "ad3da363d627f71d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad3da363d627f71d",
+        "text": "Representer theorem"
+      },
+      "date": 1416933290877
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f9497dde674fc843",
+        "text": ""
+      },
+      "id": "f9497dde674fc843",
+      "type": "add",
+      "after": "ad3da363d627f71d",
+      "date": 1416933290906
+    },
+    {
+      "type": "remove",
+      "id": "f9497dde674fc843",
+      "date": 1416933291478
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
+      },
+      "date": 1416933364189
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\perp, \\hat{w} \\in S, w_\\perp \\in S_\\perp $$"
+      },
+      "date": 1416933376791
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equiv \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\perp, \\hat{w} \\in S, w_\\perp \\in S_\\perp $$"
+      },
+      "date": 1416933396608
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equiv \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equiv Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\perp, \\hat{w} \\in S, w_\\perp \\in S_\\perp $$"
+      },
+      "date": 1416933404585
+    },
+    {
+      "type": "edit",
+      "id": "0516c189b8dcf760",
+      "item": {
+        "type": "paragraph",
+        "id": "0516c189b8dcf760",
+        "text": " "
+      },
+      "date": 1416933429436
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7eed7b6ce441fcd0",
+        "text": "Proof 2"
+      },
+      "id": "7eed7b6ce441fcd0",
+      "type": "add",
+      "after": "0516c189b8dcf760",
+      "date": 1416933429443
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ac8a7fd570cdb666",
+        "text": ""
+      },
+      "id": "ac8a7fd570cdb666",
+      "type": "add",
+      "after": "0516c189b8dcf760",
+      "date": 1416933429476
+    },
+    {
+      "type": "edit",
+      "id": "ac8a7fd570cdb666",
+      "item": {
+        "type": "paragraph",
+        "id": "ac8a7fd570cdb666",
+        "text": "(Incomplete)"
+      },
+      "date": 1416933434533
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4d6187c508247419",
+        "text": ""
+      },
+      "id": "4d6187c508247419",
+      "type": "add",
+      "after": "ac8a7fd570cdb666",
+      "date": 1416933434565
+    },
+    {
+      "type": "remove",
+      "id": "4d6187c508247419",
+      "date": 1416933440277
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9153a2fabc0d9fd"
+      },
+      "id": "c9153a2fabc0d9fd",
+      "type": "add",
+      "after": "c259b8bcd60beb9b",
+      "date": 1416933448267
+    },
+    {
+      "type": "edit",
+      "id": "c9153a2fabc0d9fd",
+      "item": {
+        "type": "paragraph",
+        "id": "c9153a2fabc0d9fd",
+        "text": "(incomplete"
+      },
+      "date": 1416933452887
+    },
+    {
+      "type": "edit",
+      "id": "c9153a2fabc0d9fd",
+      "item": {
+        "type": "paragraph",
+        "id": "c9153a2fabc0d9fd",
+        "text": "(incomplete)"
+      },
+      "date": 1416933456031
+    },
+    {
+      "type": "edit",
+      "id": "ad3da363d627f71d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad3da363d627f71d",
+        "text": "[[Representer theorem]]"
+      },
+      "date": 1416933463991
+    },
+    {
+      "type": "remove",
+      "id": "fc1ba75c41ba14fc",
+      "date": 1416933502006
+    },
+    {
+      "type": "remove",
+      "id": "e93048b892c020d5",
+      "date": 1416933505991
+    },
+    {
+      "type": "remove",
+      "id": "ac8a7fd570cdb666",
+      "date": 1416933511672
+    },
+    {
+      "type": "remove",
+      "id": "7eed7b6ce441fcd0",
+      "date": 1416933514302
+    },
+    {
+      "type": "remove",
+      "id": "c259b8bcd60beb9b",
+      "date": 1416933528746
+    },
+    {
+      "type": "remove",
+      "id": "c9153a2fabc0d9fd",
+      "date": 1416933532555
+    },
+    {
+      "type": "remove",
+      "id": "94b2d2df333e748c",
+      "date": 1416933537066
+    },
+    {
+      "type": "remove",
+      "id": "8ce240cb32cb4209",
+      "date": 1416933542058
     }
   ]
 }

@@ -1,0 +1,212 @@
+{
+  "title": "Representer theorem",
+  "story": [
+    {
+      "type": "mathjax",
+      "id": "e6d2b649418f9e90",
+      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+    },
+    {
+      "type": "mathjax",
+      "id": "89c7ff238a88395c",
+      "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc1ba75c41ba14fc",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "bcce48559daf8218",
+      "text": "<b>Proof 1"
+    },
+    {
+      "type": "paragraph",
+      "id": "19c61e0c61e987ad",
+      "text": ""
+    },
+    {
+      "type": "mathjax",
+      "id": "e93048b892c020d5",
+      "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ac8a7fd570cdb666",
+      "text": "(Incomplete)"
+    },
+    {
+      "type": "paragraph",
+      "id": "7eed7b6ce441fcd0",
+      "text": "Proof 2"
+    },
+    {
+      "type": "mathjax",
+      "id": "c259b8bcd60beb9b",
+      "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equiv \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equiv Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\perp, \\hat{w} \\in S, w_\\perp \\in S_\\perp $$"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9153a2fabc0d9fd",
+      "text": "(incomplete)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Representer theorem",
+        "story": []
+      },
+      "date": 1416933468019
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6d2b649418f9e90"
+      },
+      "id": "e6d2b649418f9e90",
+      "type": "add",
+      "date": 1416933486279
+    },
+    {
+      "type": "edit",
+      "id": "e6d2b649418f9e90",
+      "item": {
+        "type": "mathjax",
+        "id": "e6d2b649418f9e90",
+        "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+      },
+      "date": 1416933489195
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "89c7ff238a88395c"
+      },
+      "id": "89c7ff238a88395c",
+      "type": "add",
+      "after": "e6d2b649418f9e90",
+      "date": 1416933492886
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+      },
+      "date": 1416933494984
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1ba75c41ba14fc",
+        "text": "Proof"
+      },
+      "after": "89c7ff238a88395c",
+      "id": "fc1ba75c41ba14fc",
+      "date": 1416933502007
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "mathjax",
+        "id": "e93048b892c020d5",
+        "text": "$$\n\\frac{df}{dw} = 0\\\\\n\\sum_{i=1}^m \\frac{d}{dw} E(w^\\top x_i\n$$\n"
+      },
+      "after": "fc1ba75c41ba14fc",
+      "id": "e93048b892c020d5",
+      "date": 1416933505992
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ac8a7fd570cdb666",
+        "text": "(Incomplete)"
+      },
+      "after": "e93048b892c020d5",
+      "id": "ac8a7fd570cdb666",
+      "date": 1416933511674
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7eed7b6ce441fcd0",
+        "text": "Proof 2"
+      },
+      "after": "ac8a7fd570cdb666",
+      "id": "7eed7b6ce441fcd0",
+      "date": 1416933514304
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\perp = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equiv \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equiv Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\perp, \\hat{w} \\in S, w_\\perp \\in S_\\perp $$"
+      },
+      "after": "7eed7b6ce441fcd0",
+      "id": "c259b8bcd60beb9b",
+      "date": 1416933528748
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c9153a2fabc0d9fd",
+        "text": "(incomplete)"
+      },
+      "after": "c259b8bcd60beb9b",
+      "id": "c9153a2fabc0d9fd",
+      "date": 1416933532557
+    },
+    {
+      "type": "edit",
+      "id": "fc1ba75c41ba14fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1ba75c41ba14fc",
+        "text": "<b>Proof"
+      },
+      "date": 1416933557916
+    },
+    {
+      "type": "edit",
+      "id": "fc1ba75c41ba14fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1ba75c41ba14fc",
+        "text": " "
+      },
+      "date": 1416933619541
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "19c61e0c61e987ad",
+        "text": ""
+      },
+      "id": "19c61e0c61e987ad",
+      "type": "add",
+      "after": "fc1ba75c41ba14fc",
+      "date": 1416933619582
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bcce48559daf8218",
+        "text": "<b>Proof 1"
+      },
+      "id": "bcce48559daf8218",
+      "type": "add",
+      "after": "fc1ba75c41ba14fc",
+      "date": 1416933619580
+    }
+  ]
+}

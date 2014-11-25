@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "fea8f26a8188bab8",
-      "text": "My Bsc project is a contribution to the open source project Shogun"
+      "text": "My Bsc project is a contribution to the open source project Shogun. [https://github.com/shogun-toolbox/shogun GitHub]. [http://www.shogun-toolbox.org Website]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3cd560878eba8f79",
+      "text": "On [https://github.com/sorig/shogun my personal fork] I will be adding my contributions. These will hopefully be merged later (at some point in 2015).  "
     }
   ],
   "journal": [
@@ -241,6 +246,77 @@
       "type": "remove",
       "id": "2580d84fd740b6b6",
       "date": 1416919627457
+    },
+    {
+      "type": "edit",
+      "id": "fea8f26a8188bab8",
+      "item": {
+        "type": "paragraph",
+        "id": "fea8f26a8188bab8",
+        "text": "My Bsc project is a contribution to the open source project [Shogun"
+      },
+      "date": 1416920184672
+    },
+    {
+      "type": "edit",
+      "id": "fea8f26a8188bab8",
+      "item": {
+        "type": "paragraph",
+        "id": "fea8f26a8188bab8",
+        "text": "My Bsc project is a contribution to the open source project [Shogun https://github.com/shogun-toolbox/shogun]"
+      },
+      "date": 1416920206673
+    },
+    {
+      "type": "edit",
+      "id": "fea8f26a8188bab8",
+      "item": {
+        "type": "paragraph",
+        "id": "fea8f26a8188bab8",
+        "text": "My Bsc project is a contribution to the open source project Shogun. [GitHub https://github.com/shogun-toolbox/shogun]. [Website http://www.shogun-toolbox.org]"
+      },
+      "date": 1416920229723
+    },
+    {
+      "type": "edit",
+      "id": "fea8f26a8188bab8",
+      "item": {
+        "type": "paragraph",
+        "id": "fea8f26a8188bab8",
+        "text": "My Bsc project is a contribution to the open source project Shogun. [https://github.com/shogun-toolbox/shogun GitHub]. [http://www.shogun-toolbox.org Website]"
+      },
+      "date": 1416920242288
+    },
+    {
+      "type": "edit",
+      "id": "fea8f26a8188bab8",
+      "item": {
+        "type": "paragraph",
+        "id": "fea8f26a8188bab8",
+        "text": "My Bsc project is a contribution to the open source project Shogun. [https://github.com/shogun-toolbox/shogun GitHub]. [http://www.shogun-toolbox.org Website]. "
+      },
+      "date": 1416920265480
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3cd560878eba8f79",
+        "text": ""
+      },
+      "id": "3cd560878eba8f79",
+      "type": "add",
+      "after": "fea8f26a8188bab8",
+      "date": 1416920265518
+    },
+    {
+      "type": "edit",
+      "id": "3cd560878eba8f79",
+      "item": {
+        "type": "paragraph",
+        "id": "3cd560878eba8f79",
+        "text": "On [https://github.com/sorig/shogun my personal fork] I will be adding my contributions. These will hopefully be merged later (at some point in 2015).  "
+      },
+      "date": 1416920314223
     }
   ]
 }

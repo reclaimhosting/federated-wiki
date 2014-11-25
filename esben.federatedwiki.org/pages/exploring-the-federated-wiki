@@ -2,8 +2,29 @@
   "title": "Exploring the federated wiki",
   "story": [
     {
-      "type": "factory",
-      "id": "d2bc8eba97cf8e58"
+      "type": "paragraph",
+      "id": "d2bc8eba97cf8e58",
+      "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae605738c6221bb3",
+      "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki, it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
+    },
+    {
+      "type": "paragraph",
+      "id": "cae2df416b0e5288",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "c8bd41dcfb94e7c3",
+      "text": "Navigation is confusing. How do I close a page?"
+    },
+    {
+      "type": "paragraph",
+      "id": "79b5aa219550e6a1",
+      "text": ""
     }
   ],
   "journal": [
@@ -23,6 +44,119 @@
       "id": "d2bc8eba97cf8e58",
       "type": "add",
       "date": 1416919806058
+    },
+    {
+      "type": "edit",
+      "id": "d2bc8eba97cf8e58",
+      "item": {
+        "type": "paragraph",
+        "id": "d2bc8eba97cf8e58",
+        "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. The user"
+      },
+      "date": 1416919882608
+    },
+    {
+      "type": "edit",
+      "id": "d2bc8eba97cf8e58",
+      "item": {
+        "type": "paragraph",
+        "id": "d2bc8eba97cf8e58",
+        "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
+      },
+      "date": 1416919955854
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae605738c6221bb3"
+      },
+      "id": "ae605738c6221bb3",
+      "type": "add",
+      "after": "d2bc8eba97cf8e58",
+      "date": 1416919959772
+    },
+    {
+      "type": "edit",
+      "id": "ae605738c6221bb3",
+      "item": {
+        "type": "paragraph",
+        "id": "ae605738c6221bb3",
+        "text": "Also,"
+      },
+      "date": 1416919964339
+    },
+    {
+      "type": "edit",
+      "id": "ae605738c6221bb3",
+      "item": {
+        "type": "paragraph",
+        "id": "ae605738c6221bb3",
+        "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
+      },
+      "date": 1416920080008
+    },
+    {
+      "type": "edit",
+      "id": "ae605738c6221bb3",
+      "item": {
+        "type": "paragraph",
+        "id": "ae605738c6221bb3",
+        "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki, it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
+      },
+      "date": 1416920111518
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cae2df416b0e5288",
+        "text": ""
+      },
+      "id": "cae2df416b0e5288",
+      "type": "add",
+      "after": "ae605738c6221bb3",
+      "date": 1416920120732
+    },
+    {
+      "type": "edit",
+      "id": "cae2df416b0e5288",
+      "item": {
+        "type": "paragraph",
+        "id": "cae2df416b0e5288",
+        "text": " "
+      },
+      "date": 1416920120873
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79b5aa219550e6a1",
+        "text": ""
+      },
+      "id": "79b5aa219550e6a1",
+      "type": "add",
+      "after": "cae2df416b0e5288",
+      "date": 1416920120879
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c8bd41dcfb94e7c3",
+        "text": ""
+      },
+      "id": "c8bd41dcfb94e7c3",
+      "type": "add",
+      "after": "cae2df416b0e5288",
+      "date": 1416920120903
+    },
+    {
+      "type": "edit",
+      "id": "c8bd41dcfb94e7c3",
+      "item": {
+        "type": "paragraph",
+        "id": "c8bd41dcfb94e7c3",
+        "text": "Navigation is confusing. How do I close a page?"
+      },
+      "date": 1416920131610
     }
   ]
 }

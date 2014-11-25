@@ -29,7 +29,17 @@
     {
       "type": "paragraph",
       "id": "dd04eae9bb626d00",
+      "text": "<h3>Confusion"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2523b6034e3069a",
       "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f486b5909d7ff5a",
+      "text": ""
     },
     {
       "type": "paragraph",
@@ -245,6 +255,54 @@
         "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
       },
       "date": 1416922665001
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb7f51203bdea147",
+        "text": ""
+      },
+      "id": "eb7f51203bdea147",
+      "type": "add",
+      "after": "dd04eae9bb626d00",
+      "date": 1416923336355
+    },
+    {
+      "type": "remove",
+      "id": "eb7f51203bdea147",
+      "date": 1416923338739
+    },
+    {
+      "type": "edit",
+      "id": "dd04eae9bb626d00",
+      "item": {
+        "type": "paragraph",
+        "id": "dd04eae9bb626d00",
+        "text": "<h3>Confusion"
+      },
+      "date": 1416923345059
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2523b6034e3069a",
+        "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
+      },
+      "id": "a2523b6034e3069a",
+      "type": "add",
+      "after": "dd04eae9bb626d00",
+      "date": 1416923345068
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f486b5909d7ff5a",
+        "text": ""
+      },
+      "id": "6f486b5909d7ff5a",
+      "type": "add",
+      "after": "a2523b6034e3069a",
+      "date": 1416923350449
     }
   ]
 }

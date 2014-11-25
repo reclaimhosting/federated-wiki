@@ -34,12 +34,17 @@
     {
       "type": "paragraph",
       "id": "a2523b6034e3069a",
-      "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal. Total confusion."
+      "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
     },
     {
       "type": "paragraph",
       "id": "6f486b5909d7ff5a",
-      "text": ""
+      "text": "Update: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+    },
+    {
+      "type": "paragraph",
+      "id": "81335cc61e9eef6a",
+      "text": "Update: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
     },
     {
       "type": "paragraph",
@@ -303,6 +308,67 @@
       "type": "add",
       "after": "a2523b6034e3069a",
       "date": 1416923350449
+    },
+    {
+      "type": "edit",
+      "id": "6f486b5909d7ff5a",
+      "item": {
+        "type": "paragraph",
+        "id": "6f486b5909d7ff5a",
+        "text": "Update: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+      },
+      "date": 1416923493235
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": ""
+      },
+      "id": "81335cc61e9eef6a",
+      "type": "add",
+      "after": "6f486b5909d7ff5a",
+      "date": 1416923601351
+    },
+    {
+      "type": "edit",
+      "id": "81335cc61e9eef6a",
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": "Update: after clearing "
+      },
+      "date": 1416923614289
+    },
+    {
+      "type": "edit",
+      "id": "81335cc61e9eef6a",
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": "Update: after clearing safaris local storage for federatedwiki.org things are back to normal."
+      },
+      "date": 1416923643679
+    },
+    {
+      "type": "edit",
+      "id": "81335cc61e9eef6a",
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": "Update: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+      },
+      "date": 1416923653260
+    },
+    {
+      "type": "edit",
+      "id": "a2523b6034e3069a",
+      "item": {
+        "type": "paragraph",
+        "id": "a2523b6034e3069a",
+        "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
+      },
+      "date": 1416923682349
     }
   ]
 }

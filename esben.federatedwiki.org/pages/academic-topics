@@ -27,8 +27,9 @@
       "text": "[[BSc project]]"
     },
     {
-      "type": "factory",
-      "id": "7f878e5108962d32"
+      "type": "paragraph",
+      "id": "7f878e5108962d32",
+      "text": "[[Convex Optimisation]]"
     },
     {
       "type": "paragraph",
@@ -377,6 +378,32 @@
       "type": "add",
       "after": "7f878e5108962d32",
       "date": 1416925199473
+    },
+    {
+      "type": "edit",
+      "id": "7f878e5108962d32",
+      "item": {
+        "type": "paragraph",
+        "id": "7f878e5108962d32",
+        "text": "[[Convex Optimisation]]"
+      },
+      "date": 1416925360875
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0aa55dd4f9531438",
+        "text": ""
+      },
+      "id": "0aa55dd4f9531438",
+      "type": "add",
+      "after": "7f878e5108962d32",
+      "date": 1416925360911
+    },
+    {
+      "type": "remove",
+      "id": "0aa55dd4f9531438",
+      "date": 1416925364233
     }
   ]
 }

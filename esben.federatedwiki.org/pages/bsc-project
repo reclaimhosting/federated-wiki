@@ -10,6 +10,16 @@
       "type": "paragraph",
       "id": "3cd560878eba8f79",
       "text": "On [https://github.com/sorig/shogun my personal fork] I will be adding my contributions. These will hopefully be merged later (at some point in 2015).  "
+    },
+    {
+      "type": "paragraph",
+      "id": "848a8f1f3cff990d",
+      "text": "My first contribution to the project will be an implementation of a meta-language for automatic API example generation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a84599529b87428c",
+      "text": "[[Project plan]]"
     }
   ],
   "journal": [
@@ -317,6 +327,63 @@
         "text": "On [https://github.com/sorig/shogun my personal fork] I will be adding my contributions. These will hopefully be merged later (at some point in 2015).  "
       },
       "date": 1416920314223
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "848a8f1f3cff990d"
+      },
+      "id": "848a8f1f3cff990d",
+      "type": "add",
+      "after": "3cd560878eba8f79",
+      "date": 1416920508310
+    },
+    {
+      "type": "edit",
+      "id": "848a8f1f3cff990d",
+      "item": {
+        "type": "paragraph",
+        "id": "848a8f1f3cff990d",
+        "text": "My first contribution to the project will be an implementation of a meta-language for automatic API example generation. "
+      },
+      "date": 1416920573940
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a84599529b87428c",
+        "text": ""
+      },
+      "id": "a84599529b87428c",
+      "type": "add",
+      "after": "848a8f1f3cff990d",
+      "date": 1416920610509
+    },
+    {
+      "type": "edit",
+      "id": "a84599529b87428c",
+      "item": {
+        "type": "paragraph",
+        "id": "a84599529b87428c",
+        "text": "[[Project plan]]"
+      },
+      "date": 1416920627936
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f83e38c3defe0f47",
+        "text": ""
+      },
+      "id": "f83e38c3defe0f47",
+      "type": "add",
+      "after": "a84599529b87428c",
+      "date": 1416920627966
+    },
+    {
+      "type": "remove",
+      "id": "f83e38c3defe0f47",
+      "date": 1416920629996
     }
   ]
 }

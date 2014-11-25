@@ -1,0 +1,390 @@
+{
+  "title": "Project plan",
+  "story": [
+    {
+      "type": "html",
+      "id": "6c314aa4ba993a4c",
+      "text": "<p><b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation</p>"
+    },
+    {
+      "type": "html",
+      "id": "0864176cac9eb40a",
+      "text": "<p><b>Supervisors:</b> Heiko Strathmann & Mark Herbster</p>"
+    },
+    {
+      "type": "html",
+      "id": "7b043e01bd78e4ae",
+      "text": "<h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "0664d60df1553e23",
+      "text": "<h3>Aims and Objectives"
+    },
+    {
+      "type": "paragraph",
+      "id": "16c7d4f2d395c9b0",
+      "text": "The main aim of the project is to design and implement a meta-language that allows for automatic generation of example code in various languages (e.g. C++, Python, Octave) for the Shogun machine learning toolbox. Furthermore, if time permits, a second part of the project will consist of research into a theoretical machine learning topic to either document (if it already exists in Shogun) or to implement into Shogun.\n\nThe Shogun toolbox is a collection of machine learning algorithms implemented efficiently in C++. Shogun automatically generates interfaces to a range of different programming languages making it usable in most programming environments. The automatic interface generation is convenient for users and makes the codebase more maintainable (i.e. developers don’t have to update every interface manually when the core implementation changes). Still, the interface generation leaves one problem unsolved - the documentation of the code needs to be maintained across multiple languages. Although the code examples are mostly only syntactically different they have to be updated for each target language every time a change needs to be made to the examples. This leads to a lot of tedious work and inconsistent example sets. Furthermore, if examples are outdated for one of the target languages, then any errors or bugs that may have been introduced with some new API change will not be discovered for that target language. Hence another of the main objectives of the project is to integrate the example generation tool into Shogun’s integration testing.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f2defc7040b7f98",
+      "text": "Some examples may not be translatable to and from the meta-language. These more complex and illustrative applications of machine learning algorithms will instead be documented in more detailed IPython notebooks. This will require research into the given algorithms and explaining/documenting how to use these using the Shogun toolbox.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d188fe5518ecc05e",
+      "text": "If time permits, a last objective is to research a theoretical machine learning topic and either document this (in for example an IPython notebook) or implement this into the Shogun toolbox.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7831605b63ea297c",
+      "text": "<h3>Expected outcomes</h3>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Project plan",
+        "story": []
+      },
+      "date": 1416920630083
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "529dcaa755681c36"
+      },
+      "id": "529dcaa755681c36",
+      "type": "add",
+      "date": 1416920649021
+    },
+    {
+      "type": "edit",
+      "id": "529dcaa755681c36",
+      "item": {
+        "type": "paragraph",
+        "id": "529dcaa755681c36",
+        "text": "Title: Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\nSupervisors: Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920655548
+    },
+    {
+      "type": "edit",
+      "id": "529dcaa755681c36",
+      "item": {
+        "type": "paragraph",
+        "id": "529dcaa755681c36",
+        "text": "<h1>Title:</h1>"
+      },
+      "date": 1416920691452
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ab4618aa7ec0796",
+        "text": " Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\nSupervisors: Heiko Strathmann & Mark Herbster"
+      },
+      "id": "0ab4618aa7ec0796",
+      "type": "add",
+      "after": "529dcaa755681c36",
+      "date": 1416920691487
+    },
+    {
+      "type": "remove",
+      "id": "0ab4618aa7ec0796",
+      "date": 1416920694061
+    },
+    {
+      "type": "edit",
+      "id": "529dcaa755681c36",
+      "item": {
+        "type": "paragraph",
+        "id": "529dcaa755681c36",
+        "text": "<b"
+      },
+      "date": 1416920701821
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "115f24e785769cea",
+        "text": ">Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\nSupervisors: Heiko Strathmann & Mark Herbster"
+      },
+      "id": "115f24e785769cea",
+      "type": "add",
+      "after": "529dcaa755681c36",
+      "date": 1416920701844
+    },
+    {
+      "type": "edit",
+      "id": "115f24e785769cea",
+      "item": {
+        "type": "paragraph",
+        "id": "115f24e785769cea",
+        "text": "<b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\nSupervisors: Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920705470
+    },
+    {
+      "type": "remove",
+      "id": "115f24e785769cea",
+      "date": 1416920717310
+    },
+    {
+      "type": "edit",
+      "id": "529dcaa755681c36",
+      "item": {
+        "type": "paragraph",
+        "id": "529dcaa755681c36",
+        "text": "<b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\nSupervisors: Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920720894
+    },
+    {
+      "type": "edit",
+      "id": "529dcaa755681c36",
+      "item": {
+        "type": "paragraph",
+        "id": "529dcaa755681c36",
+        "text": "<b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\n<b>Supervisors:</b> Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920732359
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c314aa4ba993a4c"
+      },
+      "id": "6c314aa4ba993a4c",
+      "type": "add",
+      "after": "529dcaa755681c36",
+      "date": 1416920773497
+    },
+    {
+      "type": "edit",
+      "id": "6c314aa4ba993a4c",
+      "item": {
+        "type": "html",
+        "id": "6c314aa4ba993a4c",
+        "text": "<b>title</b>"
+      },
+      "date": 1416920784443
+    },
+    {
+      "type": "remove",
+      "id": "529dcaa755681c36",
+      "date": 1416920795161
+    },
+    {
+      "type": "edit",
+      "id": "6c314aa4ba993a4c",
+      "item": {
+        "type": "html",
+        "id": "6c314aa4ba993a4c",
+        "text": "<b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation\n\n<b>Supervisors:</b> Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920797586
+    },
+    {
+      "type": "edit",
+      "id": "6c314aa4ba993a4c",
+      "item": {
+        "type": "html",
+        "id": "6c314aa4ba993a4c",
+        "text": "<b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation"
+      },
+      "date": 1416920804571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0864176cac9eb40a"
+      },
+      "id": "0864176cac9eb40a",
+      "type": "add",
+      "after": "6c314aa4ba993a4c",
+      "date": 1416920811578
+    },
+    {
+      "type": "edit",
+      "id": "0864176cac9eb40a",
+      "item": {
+        "type": "html",
+        "id": "0864176cac9eb40a",
+        "text": "<b>Supervisors:</b> Heiko Strathmann & Mark Herbster"
+      },
+      "date": 1416920814467
+    },
+    {
+      "type": "edit",
+      "id": "6c314aa4ba993a4c",
+      "item": {
+        "type": "html",
+        "id": "6c314aa4ba993a4c",
+        "text": "<p><b>Title:</b> Contribution to the Shogun Machine Learning Toolbox: a Meta-Language for Automatic Shogun Example Generation</p>"
+      },
+      "date": 1416920845277
+    },
+    {
+      "type": "edit",
+      "id": "0864176cac9eb40a",
+      "item": {
+        "type": "html",
+        "id": "0864176cac9eb40a",
+        "text": "<p><b>Supervisors:</b> Heiko Strathmann & Mark Herbster</p>"
+      },
+      "date": 1416920854557
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b043e01bd78e4ae"
+      },
+      "id": "7b043e01bd78e4ae",
+      "type": "add",
+      "after": "0864176cac9eb40a",
+      "date": 1416920860838
+    },
+    {
+      "type": "edit",
+      "id": "7b043e01bd78e4ae",
+      "item": {
+        "type": "html",
+        "id": "7b043e01bd78e4ae",
+        "text": "<h3>"
+      },
+      "date": 1416920868491
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db133fbae2edd890"
+      },
+      "id": "db133fbae2edd890",
+      "type": "add",
+      "after": "7b043e01bd78e4ae",
+      "date": 1416920880978
+    },
+    {
+      "type": "edit",
+      "id": "db133fbae2edd890",
+      "item": {
+        "type": "html",
+        "id": "db133fbae2edd890",
+        "text": "<h3>Aims and objectives"
+      },
+      "date": 1416920890375
+    },
+    {
+      "type": "remove",
+      "id": "db133fbae2edd890",
+      "date": 1416920934696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0664d60df1553e23"
+      },
+      "id": "0664d60df1553e23",
+      "type": "add",
+      "after": "7b043e01bd78e4ae",
+      "date": 1416920945370
+    },
+    {
+      "type": "edit",
+      "id": "0664d60df1553e23",
+      "item": {
+        "type": "paragraph",
+        "id": "0664d60df1553e23",
+        "text": "<h3>Aims and Objectives"
+      },
+      "date": 1416920957962
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "16c7d4f2d395c9b0",
+        "text": ""
+      },
+      "id": "16c7d4f2d395c9b0",
+      "type": "add",
+      "after": "0664d60df1553e23",
+      "date": 1416920967319
+    },
+    {
+      "type": "edit",
+      "id": "16c7d4f2d395c9b0",
+      "item": {
+        "type": "paragraph",
+        "id": "16c7d4f2d395c9b0",
+        "text": "The main aim of the project is to design and implement a meta-language that allows for automatic generation of example code in various languages (e.g. C++, Python, Octave) for the Shogun machine learning toolbox. Furthermore, if time permits, a second part of the project will consist of research into a theoretical machine learning topic to either document (if it already exists in Shogun) or to implement into Shogun.\n\nThe Shogun toolbox is a collection of machine learning algorithms implemented efficiently in C++. Shogun automatically generates interfaces to a range of different programming languages making it usable in most programming environments. The automatic interface generation is convenient for users and makes the codebase more maintainable (i.e. developers don’t have to update every interface manually when the core implementation changes). Still, the interface generation leaves one problem unsolved - the documentation of the code needs to be maintained across multiple languages. Although the code examples are mostly only syntactically different they have to be updated for each target language every time a change needs to be made to the examples. This leads to a lot of tedious work and inconsistent example sets. Furthermore, if examples are outdated for one of the target languages, then any errors or bugs that may have been introduced with some new API change will not be discovered for that target language. Hence another of the main objectives of the project is to integrate the example generation tool into Shogun’s integration testing.\nSome examples may not be translatable to and from the meta-language. These more complex and illustrative applications of machine learning algorithms will instead be documented in more detailed IPython notebooks. This will require research into the given algorithms and explaining/documenting how to use these using the Shogun toolbox.\nIf time permits, a last objective is to research a theoretical machine learning topic and either document this (in for example an IPython notebook) or implement this into the Shogun toolbox.\n"
+      },
+      "date": 1416920969459
+    },
+    {
+      "type": "edit",
+      "id": "16c7d4f2d395c9b0",
+      "item": {
+        "type": "paragraph",
+        "id": "16c7d4f2d395c9b0",
+        "text": "The main aim of the project is to design and implement a meta-language that allows for automatic generation of example code in various languages (e.g. C++, Python, Octave) for the Shogun machine learning toolbox. Furthermore, if time permits, a second part of the project will consist of research into a theoretical machine learning topic to either document (if it already exists in Shogun) or to implement into Shogun.\n\nThe Shogun toolbox is a collection of machine learning algorithms implemented efficiently in C++. Shogun automatically generates interfaces to a range of different programming languages making it usable in most programming environments. The automatic interface generation is convenient for users and makes the codebase more maintainable (i.e. developers don’t have to update every interface manually when the core implementation changes). Still, the interface generation leaves one problem unsolved - the documentation of the code needs to be maintained across multiple languages. Although the code examples are mostly only syntactically different they have to be updated for each target language every time a change needs to be made to the examples. This leads to a lot of tedious work and inconsistent example sets. Furthermore, if examples are outdated for one of the target languages, then any errors or bugs that may have been introduced with some new API change will not be discovered for that target language. Hence another of the main objectives of the project is to integrate the example generation tool into Shogun’s integration testing.\n"
+      },
+      "date": 1416920991781
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f2defc7040b7f98",
+        "text": "Some examples may not be translatable to and from the meta-language. These more complex and illustrative applications of machine learning algorithms will instead be documented in more detailed IPython notebooks. This will require research into the given algorithms and explaining/documenting how to use these using the Shogun toolbox.\nIf time permits, a last objective is to research a theoretical machine learning topic and either document this (in for example an IPython notebook) or implement this into the Shogun toolbox.\n"
+      },
+      "id": "0f2defc7040b7f98",
+      "type": "add",
+      "after": "16c7d4f2d395c9b0",
+      "date": 1416920991814
+    },
+    {
+      "type": "edit",
+      "id": "0f2defc7040b7f98",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2defc7040b7f98",
+        "text": "Some examples may not be translatable to and from the meta-language. These more complex and illustrative applications of machine learning algorithms will instead be documented in more detailed IPython notebooks. This will require research into the given algorithms and explaining/documenting how to use these using the Shogun toolbox.\n"
+      },
+      "date": 1416920996564
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d188fe5518ecc05e",
+        "text": "If time permits, a last objective is to research a theoretical machine learning topic and either document this (in for example an IPython notebook) or implement this into the Shogun toolbox.\n"
+      },
+      "id": "d188fe5518ecc05e",
+      "type": "add",
+      "after": "0f2defc7040b7f98",
+      "date": 1416920996583
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7831605b63ea297c",
+        "text": ""
+      },
+      "id": "7831605b63ea297c",
+      "type": "add",
+      "after": "d188fe5518ecc05e",
+      "date": 1416921006918
+    },
+    {
+      "type": "edit",
+      "id": "7831605b63ea297c",
+      "item": {
+        "type": "paragraph",
+        "id": "7831605b63ea297c",
+        "text": "<h3>Expected outcomes</h3>"
+      },
+      "date": 1416921017564
+    }
+  ]
+}

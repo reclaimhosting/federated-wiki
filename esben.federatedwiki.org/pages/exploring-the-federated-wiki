@@ -29,7 +29,7 @@
     {
       "type": "paragraph",
       "id": "dd04eae9bb626d00",
-      "text": "<h3>Confusion"
+      "text": "<h3>Trying to understand federated wiki"
     },
     {
       "type": "paragraph",
@@ -39,12 +39,17 @@
     {
       "type": "paragraph",
       "id": "6f486b5909d7ff5a",
-      "text": "Update: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+      "text": "Update 1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
     },
     {
       "type": "paragraph",
       "id": "81335cc61e9eef6a",
-      "text": "Update: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+      "text": "Update 2: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+    },
+    {
+      "type": "paragraph",
+      "id": "523d1143b010bda6",
+      "text": "Update 3: when the changes you make cannot be saved on your wiki server (because you are not logged in or for some other reason), the changes are stored in the browser's local storage and the page turns yellow. You can save the local changes to the server by clicking the \"⚑\" on the yellow page (provided you are logged in to your wiki)."
     },
     {
       "type": "paragraph",
@@ -369,6 +374,77 @@
         "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
       },
       "date": 1416923682349
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "523d1143b010bda6",
+        "text": ""
+      },
+      "id": "523d1143b010bda6",
+      "type": "add",
+      "after": "81335cc61e9eef6a",
+      "date": 1416935457497
+    },
+    {
+      "type": "edit",
+      "id": "523d1143b010bda6",
+      "item": {
+        "type": "paragraph",
+        "id": "523d1143b010bda6",
+        "text": "Update: "
+      },
+      "date": 1416935464066
+    },
+    {
+      "type": "edit",
+      "id": "6f486b5909d7ff5a",
+      "item": {
+        "type": "paragraph",
+        "id": "6f486b5909d7ff5a",
+        "text": "Update1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+      },
+      "date": 1416935466604
+    },
+    {
+      "type": "edit",
+      "id": "81335cc61e9eef6a",
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": "Update 2: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+      },
+      "date": 1416935470227
+    },
+    {
+      "type": "edit",
+      "id": "6f486b5909d7ff5a",
+      "item": {
+        "type": "paragraph",
+        "id": "6f486b5909d7ff5a",
+        "text": "Update 1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+      },
+      "date": 1416935471604
+    },
+    {
+      "type": "edit",
+      "id": "523d1143b010bda6",
+      "item": {
+        "type": "paragraph",
+        "id": "523d1143b010bda6",
+        "text": "Update 3: when the changes you make cannot be saved on your wiki server (because you are not logged in or for some other reason), the changes are stored in the browser's local storage and the page turns yellow. You can save the local changes to the server by clicking the \"⚑\" on the yellow page (provided you are logged in to your wiki)."
+      },
+      "date": 1416935691034
+    },
+    {
+      "type": "edit",
+      "id": "dd04eae9bb626d00",
+      "item": {
+        "type": "paragraph",
+        "id": "dd04eae9bb626d00",
+        "text": "<h3>Trying to understand federated wiki"
+      },
+      "date": 1416935737844
     }
   ]
 }

@@ -14,11 +14,7 @@
     {
       "type": "code",
       "id": "d32ce7faad268338",
-      "text": "is this code?"
-    },
-    {
-      "type": "factory",
-      "id": "b6533cc2642318ef"
+      "text": "// is this code?\nif(this == code) {\n    return true;\n}"
     }
   ],
   "journal": [
@@ -143,6 +139,46 @@
       "type": "add",
       "after": "d32ce7faad268338",
       "date": 1416919223660
+    },
+    {
+      "type": "edit",
+      "id": "d32ce7faad268338",
+      "item": {
+        "type": "code",
+        "id": "d32ce7faad268338",
+        "text": "// is this code?\nif(this == code) {\n\n}"
+      },
+      "date": 1416919240795
+    },
+    {
+      "type": "edit",
+      "id": "d32ce7faad268338",
+      "item": {
+        "type": "code",
+        "id": "d32ce7faad268338",
+        "text": "// is this code?\nif(this == code) {\n    return true;\n}"
+      },
+      "date": 1416919250916
+    },
+    {
+      "type": "remove",
+      "id": "b6533cc2642318ef",
+      "date": 1416919272299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "916c355f94348bc6"
+      },
+      "id": "916c355f94348bc6",
+      "type": "add",
+      "after": "d32ce7faad268338",
+      "date": 1416919273765
+    },
+    {
+      "type": "remove",
+      "id": "916c355f94348bc6",
+      "date": 1416919280995
     }
   ]
 }

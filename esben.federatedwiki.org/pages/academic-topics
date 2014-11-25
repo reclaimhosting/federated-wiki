@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "2e3a64b55fd01cf5",
-      "text": "[[My bachelor project]]"
+      "text": "[[BSc project]]"
     }
   ],
   "journal": [
@@ -269,6 +269,58 @@
       "type": "remove",
       "id": "beff30e5c0f1ea38",
       "date": 1416919036429
+    },
+    {
+      "type": "edit",
+      "id": "2e3a64b55fd01cf5",
+      "item": {
+        "type": "paragraph",
+        "id": "2e3a64b55fd01cf5",
+        "text": "[[BSc"
+      },
+      "date": 1416919319172
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1844192f018ae00b",
+        "text": " project]]"
+      },
+      "id": "1844192f018ae00b",
+      "type": "add",
+      "after": "2e3a64b55fd01cf5",
+      "date": 1416919319217
+    },
+    {
+      "type": "remove",
+      "id": "1844192f018ae00b",
+      "date": 1416919321838
+    },
+    {
+      "type": "edit",
+      "id": "2e3a64b55fd01cf5",
+      "item": {
+        "type": "paragraph",
+        "id": "2e3a64b55fd01cf5",
+        "text": "[[BSc project]]"
+      },
+      "date": 1416919619472
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df2fa10ed51967b5",
+        "text": ""
+      },
+      "id": "df2fa10ed51967b5",
+      "type": "add",
+      "after": "2e3a64b55fd01cf5",
+      "date": 1416919619500
+    },
+    {
+      "type": "remove",
+      "id": "df2fa10ed51967b5",
+      "date": 1416919626024
     }
   ]
 }

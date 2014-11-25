@@ -18,6 +18,11 @@
     },
     {
       "type": "paragraph",
+      "id": "57b7f5a19029a69c",
+      "text": "[[Linear Algebra]]"
+    },
+    {
+      "type": "paragraph",
       "id": "2e3a64b55fd01cf5",
       "text": "[[My bachelor project]]"
     }
@@ -200,6 +205,70 @@
       "type": "remove",
       "id": "dfcad7e65ddd6630",
       "date": 1416917943410
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23818a1ffd0362a1"
+      },
+      "id": "23818a1ffd0362a1",
+      "type": "add",
+      "after": "2e3a64b55fd01cf5",
+      "date": 1416919013118
+    },
+    {
+      "type": "remove",
+      "id": "23818a1ffd0362a1",
+      "date": 1416919018703
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57b7f5a19029a69c"
+      },
+      "id": "57b7f5a19029a69c",
+      "type": "add",
+      "after": "2e3a64b55fd01cf5",
+      "date": 1416919021497
+    },
+    {
+      "type": "edit",
+      "id": "57b7f5a19029a69c",
+      "item": {
+        "type": "paragraph",
+        "id": "57b7f5a19029a69c",
+        "text": "[[Linear Algebra]]"
+      },
+      "date": 1416919031864
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "beff30e5c0f1ea38",
+        "text": ""
+      },
+      "id": "beff30e5c0f1ea38",
+      "type": "add",
+      "after": "57b7f5a19029a69c",
+      "date": 1416919031901
+    },
+    {
+      "type": "move",
+      "order": [
+        "d7e267ae955dbe66",
+        "388e8459f44c231b",
+        "5f2f8bfb4d5e22d0",
+        "57b7f5a19029a69c",
+        "2e3a64b55fd01cf5",
+        "beff30e5c0f1ea38"
+      ],
+      "id": "57b7f5a19029a69c",
+      "date": 1416919034753
+    },
+    {
+      "type": "remove",
+      "id": "beff30e5c0f1ea38",
+      "date": 1416919036429
     }
   ]
 }

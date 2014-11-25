@@ -1,0 +1,148 @@
+{
+  "title": "Linear Algebra",
+  "story": [
+    {
+      "type": "mathjax",
+      "id": "3257cefb05e14d7d",
+      "text": "Is this tex? \n\\begin{equation*}\nx_0 = 1\\\\\nx_1 = 1\\\\\nx_i = x_{i-1} + x_{i-2} \n\\end{equation*}"
+    },
+    {
+      "type": "html",
+      "id": "5219be87ff04c38a",
+      "text": "<h1>Is this html?</h1>"
+    },
+    {
+      "type": "code",
+      "id": "d32ce7faad268338",
+      "text": "is this code?"
+    },
+    {
+      "type": "factory",
+      "id": "b6533cc2642318ef"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Linear Algebra",
+        "story": []
+      },
+      "date": 1416919036445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d9f0fa5e83ec6730"
+      },
+      "id": "d9f0fa5e83ec6730",
+      "type": "add",
+      "date": 1416919038119
+    },
+    {
+      "type": "edit",
+      "id": "d9f0fa5e83ec6730",
+      "item": {
+        "type": "mathjax",
+        "id": "d9f0fa5e83ec6730",
+        "text": "X_x"
+      },
+      "date": 1416919046361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3257cefb05e14d7d"
+      },
+      "id": "3257cefb05e14d7d",
+      "type": "add",
+      "after": "d9f0fa5e83ec6730",
+      "date": 1416919048371
+    },
+    {
+      "type": "edit",
+      "id": "3257cefb05e14d7d",
+      "item": {
+        "type": "mathjax",
+        "id": "3257cefb05e14d7d",
+        "text": "Is this tex? $X_x$"
+      },
+      "date": 1416919067664
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5219be87ff04c38a"
+      },
+      "id": "5219be87ff04c38a",
+      "type": "add",
+      "after": "3257cefb05e14d7d",
+      "date": 1416919074451
+    },
+    {
+      "type": "edit",
+      "id": "5219be87ff04c38a",
+      "item": {
+        "type": "html",
+        "id": "5219be87ff04c38a",
+        "text": "<h1>Is this html?</h1>"
+      },
+      "date": 1416919088499
+    },
+    {
+      "type": "edit",
+      "id": "3257cefb05e14d7d",
+      "item": {
+        "type": "mathjax",
+        "id": "3257cefb05e14d7d",
+        "text": "Is this tex? \n\\begin{equation*}\nX_x\n\\end{equation*}"
+      },
+      "date": 1416919109951
+    },
+    {
+      "type": "remove",
+      "id": "d9f0fa5e83ec6730",
+      "date": 1416919136077
+    },
+    {
+      "type": "edit",
+      "id": "3257cefb05e14d7d",
+      "item": {
+        "type": "mathjax",
+        "id": "3257cefb05e14d7d",
+        "text": "Is this tex? \n\\begin{equation*}\nx_0 = 1\\\\\nx_1 = 1\\\\\nx_i = x_{i-1} + x_{i-2} \n\\end{equation*}"
+      },
+      "date": 1416919200709
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d32ce7faad268338"
+      },
+      "id": "d32ce7faad268338",
+      "type": "add",
+      "after": "5219be87ff04c38a",
+      "date": 1416919208288
+    },
+    {
+      "type": "edit",
+      "id": "d32ce7faad268338",
+      "item": {
+        "type": "code",
+        "id": "d32ce7faad268338",
+        "text": "is this code?"
+      },
+      "date": 1416919219434
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6533cc2642318ef"
+      },
+      "id": "b6533cc2642318ef",
+      "type": "add",
+      "after": "d32ce7faad268338",
+      "date": 1416919223660
+    }
+  ]
+}

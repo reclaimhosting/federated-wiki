@@ -1,0 +1,126 @@
+{
+  "title": "Machine Learning",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ad3da363d627f71d",
+      "text": "Kernels"
+    },
+    {
+      "type": "mathjax",
+      "id": "94b2d2df333e748c",
+      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m\n\\end{equation}"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Machine Learning",
+        "story": []
+      },
+      "date": 1416927451301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad3da363d627f71d"
+      },
+      "id": "ad3da363d627f71d",
+      "type": "add",
+      "date": 1416927457917
+    },
+    {
+      "type": "edit",
+      "id": "ad3da363d627f71d",
+      "item": {
+        "type": "paragraph",
+        "id": "ad3da363d627f71d",
+        "text": "Kernels"
+      },
+      "date": 1416927463196
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15385bb8732422f0",
+        "text": ""
+      },
+      "id": "15385bb8732422f0",
+      "type": "add",
+      "after": "ad3da363d627f71d",
+      "date": 1416927463226
+    },
+    {
+      "type": "edit",
+      "id": "15385bb8732422f0",
+      "item": {
+        "type": "paragraph",
+        "id": "15385bb8732422f0",
+        "text": "\\begin{equation*}"
+      },
+      "date": 1416927492197
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8520345702bc6dd4",
+        "text": ""
+      },
+      "id": "8520345702bc6dd4",
+      "type": "add",
+      "after": "15385bb8732422f0",
+      "date": 1416927492227
+    },
+    {
+      "type": "remove",
+      "id": "8520345702bc6dd4",
+      "date": 1416927494894
+    },
+    {
+      "type": "remove",
+      "id": "15385bb8732422f0",
+      "date": 1416927531591
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94b2d2df333e748c"
+      },
+      "id": "94b2d2df333e748c",
+      "type": "add",
+      "after": "ad3da363d627f71d",
+      "date": 1416927532957
+    },
+    {
+      "type": "edit",
+      "id": "94b2d2df333e748c",
+      "item": {
+        "type": "mathjax",
+        "id": "94b2d2df333e748c",
+        "text": "\\begin{equation}\nmin_{w \\in R^d}\n\\end{equation}"
+      },
+      "date": 1416927568957
+    },
+    {
+      "type": "edit",
+      "id": "94b2d2df333e748c",
+      "item": {
+        "type": "mathjax",
+        "id": "94b2d2df333e748c",
+        "text": "\\begin{equation}\n\\min_{w \\in R^d}\n\\end{equation}"
+      },
+      "date": 1416927578920
+    },
+    {
+      "type": "edit",
+      "id": "94b2d2df333e748c",
+      "item": {
+        "type": "mathjax",
+        "id": "94b2d2df333e748c",
+        "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m\n\\end{equation}"
+      },
+      "date": 1416927601864
+    }
+  ]
+}

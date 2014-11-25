@@ -2,18 +2,28 @@
   "title": "Representer theorem",
   "story": [
     {
+      "type": "paragraph",
+      "id": "399abd4cfe32f48b",
+      "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+    },
+    {
+      "type": "paragraph",
+      "id": "e84640e839f493e5",
+      "text": "That is"
+    },
+    {
       "type": "mathjax",
       "id": "e6d2b649418f9e90",
-      "text": "\\begin{equation}\n\\min_{w \\in R^d} \\{ \\sum_{i=1}^m E( w^T x_i, y_i) + \\delta ||w||_2^2 \\}\n\\end{equation}"
+      "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in R^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
     },
     {
       "type": "mathjax",
       "id": "89c7ff238a88395c",
-      "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n"
+      "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$c_i \\in \\mathbb{R} $$"
     },
     {
       "type": "paragraph",
-      "id": "fc1ba75c41ba14fc",
+      "id": "dad99fff49bebc27",
       "text": "<b>Proof 1"
     },
     {
@@ -244,6 +254,190 @@
     {
       "type": "fork",
       "date": 1416935420836
+    },
+    {
+      "type": "edit",
+      "id": "fc1ba75c41ba14fc",
+      "item": {
+        "type": "paragraph",
+        "id": "fc1ba75c41ba14fc",
+        "text": ""
+      },
+      "date": 1416937536847
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dad99fff49bebc27",
+        "text": "<b>Proof 1"
+      },
+      "id": "dad99fff49bebc27",
+      "type": "add",
+      "after": "fc1ba75c41ba14fc",
+      "date": 1416937536882
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "339d47053bea329a",
+        "text": ""
+      },
+      "id": "339d47053bea329a",
+      "type": "add",
+      "after": "fc1ba75c41ba14fc",
+      "date": 1416937536884
+    },
+    {
+      "type": "remove",
+      "id": "339d47053bea329a",
+      "date": 1416937541512
+    },
+    {
+      "type": "remove",
+      "id": "fc1ba75c41ba14fc",
+      "date": 1416937543696
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "399abd4cfe32f48b",
+        "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+      },
+      "id": "399abd4cfe32f48b",
+      "type": "add",
+      "after": "c9153a2fabc0d9fd",
+      "date": 1416937550742
+    },
+    {
+      "type": "move",
+      "order": [
+        "399abd4cfe32f48b",
+        "e6d2b649418f9e90",
+        "89c7ff238a88395c",
+        "dad99fff49bebc27",
+        "e93048b892c020d5",
+        "ac8a7fd570cdb666",
+        "7eed7b6ce441fcd0",
+        "c259b8bcd60beb9b",
+        "c9153a2fabc0d9fd"
+      ],
+      "id": "399abd4cfe32f48b",
+      "date": 1416937554823,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "399abd4cfe32f48b",
+      "item": {
+        "type": "paragraph",
+        "id": "399abd4cfe32f48b",
+        "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+      },
+      "date": 1416937575923
+    },
+    {
+      "type": "edit",
+      "id": "399abd4cfe32f48b",
+      "item": {
+        "type": "paragraph",
+        "id": "399abd4cfe32f48b",
+        "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+      },
+      "date": 1416937594412
+    },
+    {
+      "type": "edit",
+      "id": "399abd4cfe32f48b",
+      "item": {
+        "type": "paragraph",
+        "id": "399abd4cfe32f48b",
+        "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+      },
+      "date": 1416937601044
+    },
+    {
+      "type": "edit",
+      "id": "399abd4cfe32f48b",
+      "item": {
+        "type": "paragraph",
+        "id": "399abd4cfe32f48b",
+        "text": "The minimiser of a regularised empirical error is a linear combination of the inputs."
+      },
+      "date": 1416937604826
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e84640e839f493e5",
+        "text": "That is"
+      },
+      "id": "e84640e839f493e5",
+      "type": "add",
+      "after": "399abd4cfe32f48b",
+      "date": 1416937604861
+    },
+    {
+      "type": "edit",
+      "id": "e84640e839f493e5",
+      "item": {
+        "type": "paragraph",
+        "id": "e84640e839f493e5",
+        "text": "That is"
+      },
+      "date": 1416937610323
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2fd89c7068ef41d6",
+        "text": ""
+      },
+      "id": "2fd89c7068ef41d6",
+      "type": "add",
+      "after": "e84640e839f493e5",
+      "date": 1416937610353
+    },
+    {
+      "type": "remove",
+      "id": "2fd89c7068ef41d6",
+      "date": 1416937611459
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{w} = \\sum_{i=1}^m c_i x_i$$\n$$c_i \\in \\mathbb{R} $$"
+      },
+      "date": 1416937627818
+    },
+    {
+      "type": "fork",
+      "date": 1416937644839
+    },
+    {
+      "type": "edit",
+      "id": "e6d2b649418f9e90",
+      "item": {
+        "type": "mathjax",
+        "id": "e6d2b649418f9e90",
+        "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in R^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
+      },
+      "date": 1416937693268
+    },
+    {
+      "type": "edit",
+      "id": "89c7ff238a88395c",
+      "item": {
+        "type": "mathjax",
+        "id": "89c7ff238a88395c",
+        "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$c_i \\in \\mathbb{R} $$"
+      },
+      "date": 1416937702967
     }
   ]
 }

@@ -5,6 +5,19 @@
       "type": "paragraph",
       "id": "573196d27a765df0",
       "text": "These are the people I follow"
+    },
+    {
+      "id": "4096337448f4461e",
+      "type": "reference",
+      "site": "jonas.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "My name is Jonas, and I'm trying out Federated Wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "f036a2be92017364",
+      "text": ""
     }
   ],
   "journal": [
@@ -160,6 +173,110 @@
       "type": "remove",
       "id": "a631949cfa1de0d0",
       "date": 1416937101210
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "86a874cf16ab3f9d",
+        "text": ""
+      },
+      "id": "86a874cf16ab3f9d",
+      "type": "add",
+      "after": "573196d27a765df0",
+      "date": 1416937298096
+    },
+    {
+      "type": "remove",
+      "id": "86a874cf16ab3f9d",
+      "date": 1416937299400
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "762e5a8d3eccb88a",
+        "text": ""
+      },
+      "id": "762e5a8d3eccb88a",
+      "type": "add",
+      "after": "573196d27a765df0",
+      "date": 1416937301666
+    },
+    {
+      "type": "edit",
+      "id": "762e5a8d3eccb88a",
+      "item": {
+        "type": "paragraph",
+        "id": "762e5a8d3eccb88a",
+        "text": "[[jonas.federatedwiki.org]]"
+      },
+      "date": 1416937308805
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a6540451342a6e24",
+        "text": ""
+      },
+      "id": "a6540451342a6e24",
+      "type": "add",
+      "after": "762e5a8d3eccb88a",
+      "date": 1416937308832
+    },
+    {
+      "type": "remove",
+      "id": "a6540451342a6e24",
+      "date": 1416937313093
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "4096337448f4461e",
+        "type": "reference",
+        "site": "jonas.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "My name is Jonas, and I'm trying out Federated Wiki."
+      },
+      "after": "573196d27a765df0",
+      "id": "4096337448f4461e",
+      "date": 1416937343090
+    },
+    {
+      "type": "remove",
+      "id": "f036a2be92017364",
+      "date": 1416937378405
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f036a2be92017364",
+        "text": ""
+      },
+      "id": "f036a2be92017364",
+      "type": "add",
+      "after": "762e5a8d3eccb88a",
+      "date": 1416937378432
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c503687044f3882e",
+        "text": ""
+      },
+      "id": "c503687044f3882e",
+      "type": "add",
+      "after": "762e5a8d3eccb88a",
+      "date": 1416937378434
+    },
+    {
+      "type": "remove",
+      "id": "c503687044f3882e",
+      "date": 1416937379357
+    },
+    {
+      "type": "remove",
+      "id": "762e5a8d3eccb88a",
+      "date": 1416937512099
     }
   ]
 }

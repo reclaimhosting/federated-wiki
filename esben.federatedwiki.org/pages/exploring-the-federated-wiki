@@ -53,6 +53,11 @@
     },
     {
       "type": "paragraph",
+      "id": "9845927f52f05b77",
+      "text": "Update 4: I've figured out how the whole \"local storage\" thing works, but I am still experiencing randomly loosing changes I make."
+    },
+    {
+      "type": "paragraph",
       "id": "79b5aa219550e6a1",
       "text": ""
     }
@@ -445,6 +450,27 @@
         "text": "<h3>Trying to understand federated wiki"
       },
       "date": 1416935737844
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9845927f52f05b77",
+        "text": ""
+      },
+      "id": "9845927f52f05b77",
+      "type": "add",
+      "after": "523d1143b010bda6",
+      "date": 1416937750851
+    },
+    {
+      "type": "edit",
+      "id": "9845927f52f05b77",
+      "item": {
+        "type": "paragraph",
+        "id": "9845927f52f05b77",
+        "text": "Update 4: I've figured out how the whole \"local storage\" thing works, but I am still experiencing randomly loosing changes I make."
+      },
+      "date": 1416937809499
     }
   ]
 }

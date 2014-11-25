@@ -34,7 +34,7 @@
     {
       "type": "mathjax",
       "id": "c259b8bcd60beb9b",
-      "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$"
+      "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
     }
   ],
   "journal": [
@@ -398,6 +398,96 @@
         "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$"
       },
       "date": 1416928742044
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} $$"
+      },
+      "date": 1416928838898
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\down = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} $$"
+      },
+      "date": 1416928846338
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} $$"
+      },
+      "date": 1416928850665
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\eqv $$"
+      },
+      "date": 1416928861635
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\} = Null(X^\\top)$$"
+      },
+      "date": 1416928927578
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$"
+      },
+      "date": 1416928938795
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$"
+      },
+      "date": 1416929034469
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
+      },
+      "date": 1416929111271
+    },
+    {
+      "type": "edit",
+      "id": "c259b8bcd60beb9b",
+      "item": {
+        "type": "mathjax",
+        "id": "c259b8bcd60beb9b",
+        "text": "$$ span\\{x_1, \\cdots, x_m\\} = \\{w = \\sum_i c_i x_i \\} = S $$\n\n$$ S^\\bottom = \\{ w \\mid w^\\top x_i = 0, \\forall i\\} \\equivalent \\{ w \\mid X^\\top w = 0 \\}\\\\\n = Null(X^\\top)$$\n\n$$ S \\equivalent Range(X) $$\n\n\n\n$$ w = \\hat{w} + w_\\bottom, \\hat{w} \\in S, w_\\bottom \\in S_\\bottom $$"
+      },
+      "date": 1416929211023
     }
   ]
 }

@@ -73,6 +73,10 @@
       "site": "ward.fed.wiki.org",
       "title": "Ward Cunningham",
       "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    },
+    {
+      "type": "factory",
+      "id": "23ab8cd6cbe65936"
     }
   ],
   "journal": [
@@ -469,6 +473,16 @@
         "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
       },
       "date": 1416585950211
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23ab8cd6cbe65936"
+      },
+      "id": "23ab8cd6cbe65936",
+      "type": "add",
+      "after": "3b4fa1077376fca6",
+      "date": 1417006738912
     }
   ]
 }

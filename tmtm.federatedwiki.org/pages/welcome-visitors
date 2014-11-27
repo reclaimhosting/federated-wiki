@@ -35,6 +35,10 @@
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
       "text": " "
+    },
+    {
+      "type": "factory",
+      "id": "b3937dd17f8f0fdf"
     }
   ],
   "journal": [
@@ -561,6 +565,16 @@
       "type": "remove",
       "id": "ca18408d1e9ea779",
       "date": 1416042011883
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3937dd17f8f0fdf"
+      },
+      "id": "b3937dd17f8f0fdf",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1417108518920
     }
   ]
 }

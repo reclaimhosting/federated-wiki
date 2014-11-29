@@ -1,0 +1,61 @@
+{
+  "title": "Programming",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e88bea92dc6eaa3d",
+      "text": "[[Python Notes]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Programming",
+        "story": []
+      },
+      "site": "jason.federatedwiki.org",
+      "date": 1417246406543,
+      "fork": "jason.federatedwiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e88bea92dc6eaa3d"
+      },
+      "id": "e88bea92dc6eaa3d",
+      "type": "add",
+      "date": 1417246413508
+    },
+    {
+      "type": "edit",
+      "id": "e88bea92dc6eaa3d",
+      "item": {
+        "type": "paragraph",
+        "id": "e88bea92dc6eaa3d",
+        "text": "[[Python Notes]]"
+      },
+      "date": 1417246423234
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9875904dbc04f95d",
+        "text": ""
+      },
+      "id": "9875904dbc04f95d",
+      "type": "add",
+      "after": "e88bea92dc6eaa3d",
+      "date": 1417246423242
+    },
+    {
+      "type": "remove",
+      "id": "9875904dbc04f95d",
+      "date": 1417246426808
+    },
+    {
+      "type": "fork",
+      "date": 1417246725452
+    }
+  ]
+}

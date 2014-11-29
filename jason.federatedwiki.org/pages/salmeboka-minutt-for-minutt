@@ -1,0 +1,153 @@
+{
+  "title": "Salmeboka minutt for minutt",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "be63250c95a5b787",
+      "text": "Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a5b873763996cd0",
+      "text": "Salmeboka minutt for minutt"
+    },
+    {
+      "type": "paragraph",
+      "id": "03c62cff1bd222c8",
+      "text": "URI"
+    },
+    {
+      "type": "paragraph",
+      "id": "72e0e8aaee66be79",
+      "text": "[http://tv.nrk.no/serie/salmeboka-minutt-for-minutt http://tv.nrk.no/serie/salmeboka-minutt-for-minutt]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a798414bd7f58c9",
+      "text": "Description"
+    },
+    {
+      "type": "paragraph",
+      "id": "232f5da2f64edc93",
+      "text": "The latest as of November 2014 of NRK TV (Norway's state broadcaster) [[slow TV]] examples.  60 consecutive hours of more than two hundred musical ensembles singing the new Norwegian hymnal cover to cover."
+    },
+    {
+      "type": "paragraph",
+      "id": "94216c25a57befa1",
+      "text": "Tags"
+    },
+    {
+      "type": "factory",
+      "id": "3d5cbf10f13618e6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Salmeboka minutt for minutt",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "be63250c95a5b787",
+            "text": "Title"
+          },
+          {
+            "type": "factory",
+            "id": "5a5b873763996cd0"
+          },
+          {
+            "type": "paragraph",
+            "id": "03c62cff1bd222c8",
+            "text": "URI"
+          },
+          {
+            "type": "factory",
+            "id": "72e0e8aaee66be79"
+          },
+          {
+            "type": "paragraph",
+            "id": "7a798414bd7f58c9",
+            "text": "Description"
+          },
+          {
+            "type": "factory",
+            "id": "232f5da2f64edc93"
+          },
+          {
+            "type": "paragraph",
+            "id": "94216c25a57befa1",
+            "text": "Tags"
+          },
+          {
+            "type": "factory",
+            "id": "3d5cbf10f13618e6"
+          }
+        ]
+      },
+      "date": 1417236442036
+    },
+    {
+      "type": "edit",
+      "id": "5a5b873763996cd0",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5b873763996cd0",
+        "text": "Salmeboka minutt for minutt"
+      },
+      "date": 1417236454913
+    },
+    {
+      "type": "edit",
+      "id": "72e0e8aaee66be79",
+      "item": {
+        "type": "paragraph",
+        "id": "72e0e8aaee66be79",
+        "text": "[http://tv.nrk.no/serie/salmeboka-minutt-for-minutt http://tv.nrk.no/serie/salmeboka-minutt-for-minutt]"
+      },
+      "date": 1417236469386
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69056794410cfdc9",
+        "text": ""
+      },
+      "id": "69056794410cfdc9",
+      "type": "add",
+      "after": "72e0e8aaee66be79",
+      "date": 1417236469399
+    },
+    {
+      "type": "remove",
+      "id": "69056794410cfdc9",
+      "date": 1417236472828
+    },
+    {
+      "type": "edit",
+      "id": "232f5da2f64edc93",
+      "item": {
+        "type": "paragraph",
+        "id": "232f5da2f64edc93",
+        "text": "The latest as of November 2014 of NRK TV (Norway's state broadcaster) [[slow TV]] examples.  60 consecutive hours of more than two hundred musical ensembles singing the new Norwegian hymnal cover to cover."
+      },
+      "date": 1417236558881
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "652d37e126720c92",
+        "text": ""
+      },
+      "id": "652d37e126720c92",
+      "type": "add",
+      "after": "232f5da2f64edc93",
+      "date": 1417236558890
+    },
+    {
+      "type": "remove",
+      "id": "652d37e126720c92",
+      "date": 1417236565536
+    }
+  ]
+}

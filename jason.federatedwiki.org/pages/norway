@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "c7beafe6bb6c158c",
       "text": "[[Rolandskvadet]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "54784080a78725e2",
+      "text": "[[Salmeboka minutt for minutt]]"
     }
   ],
   "journal": [
@@ -50,6 +55,26 @@
       "type": "remove",
       "id": "15a5c6e583c96725",
       "date": 1416775604349
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54784080a78725e2"
+      },
+      "id": "54784080a78725e2",
+      "type": "add",
+      "after": "c7beafe6bb6c158c",
+      "date": 1417236400379
+    },
+    {
+      "type": "edit",
+      "id": "54784080a78725e2",
+      "item": {
+        "type": "paragraph",
+        "id": "54784080a78725e2",
+        "text": "[[Salmeboka minutt for minutt]]"
+      },
+      "date": 1417236431266
     }
   ]
 }

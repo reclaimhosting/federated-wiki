@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "038b903d9d1f32df",
-      "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] either index may be omitted, defaulting to the "
+      "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] Either or both indices may be omitted, defaulting to the beginning and end of the string, respectively, although omitting both [:] returns the entire string."
     }
   ],
   "journal": [
@@ -96,6 +96,32 @@
         "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] either index may be omitted, defaulting to the "
       },
       "date": 1417247614938
+    },
+    {
+      "type": "edit",
+      "id": "038b903d9d1f32df",
+      "item": {
+        "type": "paragraph",
+        "id": "038b903d9d1f32df",
+        "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] Either or both indices may be omitted, defaulting to the beginning and end of the string, respectively, although omitting both [:] returns the entire string."
+      },
+      "date": 1417249358422
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99da2d442563dec5",
+        "text": ""
+      },
+      "id": "99da2d442563dec5",
+      "type": "add",
+      "after": "038b903d9d1f32df",
+      "date": 1417249358443
+    },
+    {
+      "type": "remove",
+      "id": "99da2d442563dec5",
+      "date": 1417249395152
     }
   ]
 }

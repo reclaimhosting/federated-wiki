@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "038b903d9d1f32df",
-      "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)]"
+      "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] either index may be omitted, defaulting to the "
     }
   ],
   "journal": [
@@ -86,6 +86,16 @@
     {
       "type": "fork",
       "date": 1417246676595
+    },
+    {
+      "type": "edit",
+      "id": "038b903d9d1f32df",
+      "item": {
+        "type": "paragraph",
+        "id": "038b903d9d1f32df",
+        "text": "In Python 3 string slices are [starting index:ending index(non-inclusive)] either index may be omitted, defaulting to the "
+      },
+      "date": 1417247614938
     }
   ]
 }

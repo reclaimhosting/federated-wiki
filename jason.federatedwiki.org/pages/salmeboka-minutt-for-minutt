@@ -23,6 +23,11 @@
     },
     {
       "type": "paragraph",
+      "id": "3d5cbf10f13618e6",
+      "text": "[http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239 http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239] full list of hymns sources and performers"
+    },
+    {
+      "type": "paragraph",
       "id": "7a798414bd7f58c9",
       "text": "Description"
     },
@@ -38,7 +43,7 @@
     },
     {
       "type": "factory",
-      "id": "3d5cbf10f13618e6"
+      "id": "4bc5dcbc1638c2cb"
     }
   ],
   "journal": [
@@ -148,6 +153,74 @@
       "type": "remove",
       "id": "652d37e126720c92",
       "date": 1417236565536
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4bc5dcbc1638c2cb"
+      },
+      "id": "4bc5dcbc1638c2cb",
+      "type": "add",
+      "after": "3d5cbf10f13618e6",
+      "date": 1417323475777
+    },
+    {
+      "type": "move",
+      "order": [
+        "be63250c95a5b787",
+        "5a5b873763996cd0",
+        "03c62cff1bd222c8",
+        "3d5cbf10f13618e6",
+        "72e0e8aaee66be79",
+        "7a798414bd7f58c9",
+        "232f5da2f64edc93",
+        "94216c25a57befa1",
+        "4bc5dcbc1638c2cb"
+      ],
+      "id": "3d5cbf10f13618e6",
+      "date": 1417323489897
+    },
+    {
+      "type": "move",
+      "order": [
+        "be63250c95a5b787",
+        "5a5b873763996cd0",
+        "03c62cff1bd222c8",
+        "72e0e8aaee66be79",
+        "3d5cbf10f13618e6",
+        "7a798414bd7f58c9",
+        "232f5da2f64edc93",
+        "94216c25a57befa1",
+        "4bc5dcbc1638c2cb"
+      ],
+      "id": "3d5cbf10f13618e6",
+      "date": 1417323534879
+    },
+    {
+      "type": "edit",
+      "id": "3d5cbf10f13618e6",
+      "item": {
+        "type": "paragraph",
+        "id": "3d5cbf10f13618e6",
+        "text": "[http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239 http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239] full list of hymns sources and performers"
+      },
+      "date": 1417323570910
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b10bbdc272dd462",
+        "text": ""
+      },
+      "id": "7b10bbdc272dd462",
+      "type": "add",
+      "after": "3d5cbf10f13618e6",
+      "date": 1417323570925
+    },
+    {
+      "type": "remove",
+      "id": "7b10bbdc272dd462",
+      "date": 1417323573994
     }
   ]
 }

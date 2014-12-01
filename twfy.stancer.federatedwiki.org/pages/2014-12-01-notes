@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "deb08fd5483efd14",
-      "text": ""
+      "text": "For now we simply fetch the Issues+Indicators data out of the [[stance-viewer-sinatra]] Github repo. That will be tidied up later to have its own proper data source."
     },
     {
       "type": "pagefold",
@@ -532,6 +532,32 @@
       "type": "add",
       "after": "fcb2afc91d05cfd2",
       "date": 1417439962789
+    },
+    {
+      "type": "edit",
+      "id": "deb08fd5483efd14",
+      "item": {
+        "type": "paragraph",
+        "id": "deb08fd5483efd14",
+        "text": "For now we simply fetch the Issues+Indicators data out of the [[stance-viewer-sinatra]] Github repo. That will be tidied up later to have its own proper data source."
+      },
+      "date": 1417440030472
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6410486cdd31981b",
+        "text": ""
+      },
+      "id": "6410486cdd31981b",
+      "type": "add",
+      "after": "deb08fd5483efd14",
+      "date": 1417440030485
+    },
+    {
+      "type": "remove",
+      "id": "6410486cdd31981b",
+      "date": 1417440032757
     }
   ]
 }

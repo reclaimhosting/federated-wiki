@@ -8,8 +8,13 @@
     },
     {
       "type": "paragraph",
+      "id": "f8696bbdeb1351b7",
+      "text": " ☐ Inflate [[Morph.io]] data (separate script)"
+    },
+    {
+      "type": "paragraph",
       "id": "912e09cd877980ab",
-      "text": "☐ Transformer from [[Morph.io]]"
+      "text": "☐ Move inflation to a Transformer"
     },
     {
       "type": "paragraph",
@@ -23,7 +28,7 @@
     },
     {
       "type": "paragraph",
-      "id": "f8696bbdeb1351b7",
+      "id": "46a0239828604d9d",
       "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
     }
   ],
@@ -253,6 +258,106 @@
         "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
       },
       "date": 1417432992460
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1dde2bf2e9b55c6c"
+      },
+      "id": "1dde2bf2e9b55c6c",
+      "type": "add",
+      "after": "f8696bbdeb1351b7",
+      "date": 1417434250740
+    },
+    {
+      "type": "remove",
+      "id": "1dde2bf2e9b55c6c",
+      "date": 1417434260565
+    },
+    {
+      "type": "edit",
+      "id": "f8696bbdeb1351b7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8696bbdeb1351b7",
+        "text": " "
+      },
+      "date": 1417434262427
+    },
+    {
+      "type": "remove",
+      "id": "a7104d53986c42fa",
+      "date": 1417434262435
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7104d53986c42fa",
+        "text": ""
+      },
+      "id": "a7104d53986c42fa",
+      "type": "add",
+      "after": "f8696bbdeb1351b7",
+      "date": 1417434262444
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+      },
+      "id": "46a0239828604d9d",
+      "type": "add",
+      "after": "f8696bbdeb1351b7",
+      "date": 1417434262446
+    },
+    {
+      "type": "remove",
+      "id": "98aafe683d2f2497",
+      "date": 1417434273219
+    },
+    {
+      "type": "edit",
+      "id": "f8696bbdeb1351b7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8696bbdeb1351b7",
+        "text": " ☐ Inflate Morph.io data (separate script)"
+      },
+      "date": 1417434294911
+    },
+    {
+      "type": "move",
+      "order": [
+        "036a5850d754bbbd",
+        "f8696bbdeb1351b7",
+        "912e09cd877980ab",
+        "efc1147074ed3343",
+        "2f352ae64483619d",
+        "46a0239828604d9d"
+      ],
+      "id": "f8696bbdeb1351b7",
+      "date": 1417434296686
+    },
+    {
+      "type": "edit",
+      "id": "912e09cd877980ab",
+      "item": {
+        "type": "paragraph",
+        "id": "912e09cd877980ab",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "date": 1417434313691
+    },
+    {
+      "type": "edit",
+      "id": "f8696bbdeb1351b7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8696bbdeb1351b7",
+        "text": " ☐ Inflate [[Morph.io]] data (separate script)"
+      },
+      "date": 1417434318374
     }
   ]
 }

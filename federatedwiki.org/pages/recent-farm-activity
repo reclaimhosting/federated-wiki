@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "2eb79006b0cbfc00"
+      "id": "5b73352a07214ec6"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "3b36b7fa99c51fc6"
+      "id": "a848dc815f204c9b"
+    },
+    {
+      "date": 1417410001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "a3947e1ae1eb2ca6"
     },
     {
       "date": 1417409716000,
@@ -18,16 +27,7 @@
       "title": "list of hymns sources and performers from salmeboka minutt for minutt",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 50 pages.",
       "type": "reference",
-      "id": "22280089c90e107d"
-    },
-    {
-      "date": 1417409401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "51642979bd8f9ba0"
+      "id": "f4f9f127b5d7506e"
     },
     {
       "date": 1417108495000,
@@ -36,7 +36,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 25 pages.",
       "type": "reference",
-      "id": "0c6dae498169ecfa"
+      "id": "0fc5f78b43161020"
     },
     {
       "date": 1416994879000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 13 pages.",
       "type": "reference",
-      "id": "7e9939993e802a0b"
+      "id": "39ba4c608ab3c4b6"
     },
     {
       "date": 1416858160000,
@@ -54,7 +54,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jonas.federatedwiki.org jonas.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "4fa7500746923385"
+      "id": "9ee1b229d23c4f38"
     },
     {
       "date": 1416695103000,
@@ -63,7 +63,7 @@
       "title": "wiki editing test",
       "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "f1283df658f987da"
+      "id": "7c39cd297ee87904"
     },
     {
       "date": 1416591509000,
@@ -72,41 +72,55 @@
       "title": "before and after",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 33 pages.",
       "type": "reference",
-      "id": "d61fbd1704e0ad9c"
+      "id": "57bf8a83e9f33611"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "7bd950968b7ec2e7",
+      "id": "2497884c6a470dd2",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "2eb79006b0cbfc00",
+      "id": "5b73352a07214ec6",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "2eb79006b0cbfc00"
+        "id": "5b73352a07214ec6"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "3b36b7fa99c51fc6",
+      "id": "a848dc815f204c9b",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "3b36b7fa99c51fc6"
+        "id": "a848dc815f204c9b"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "22280089c90e107d",
+      "id": "a3947e1ae1eb2ca6",
+      "item": {
+        "date": 1417410001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "a3947e1ae1eb2ca6"
+      },
+      "date": 1417410602000
+    },
+    {
+      "type": "add",
+      "id": "f4f9f127b5d7506e",
       "item": {
         "date": 1417409716000,
         "site": "jason.federatedwiki.org",
@@ -114,27 +128,13 @@
         "title": "list of hymns sources and performers from salmeboka minutt for minutt",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 50 pages.",
         "type": "reference",
-        "id": "22280089c90e107d"
+        "id": "f4f9f127b5d7506e"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "51642979bd8f9ba0",
-      "item": {
-        "date": 1417409401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "51642979bd8f9ba0"
-      },
-      "date": 1417410001000
-    },
-    {
-      "type": "add",
-      "id": "0c6dae498169ecfa",
+      "id": "0fc5f78b43161020",
       "item": {
         "date": 1417108495000,
         "site": "tmtm.federatedwiki.org",
@@ -142,13 +142,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 25 pages.",
         "type": "reference",
-        "id": "0c6dae498169ecfa"
+        "id": "0fc5f78b43161020"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "7e9939993e802a0b",
+      "id": "39ba4c608ab3c4b6",
       "item": {
         "date": 1416994879000,
         "site": "esben.federatedwiki.org",
@@ -156,13 +156,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 13 pages.",
         "type": "reference",
-        "id": "7e9939993e802a0b"
+        "id": "39ba4c608ab3c4b6"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "4fa7500746923385",
+      "id": "9ee1b229d23c4f38",
       "item": {
         "date": 1416858160000,
         "site": "jonas.federatedwiki.org",
@@ -170,13 +170,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jonas.federatedwiki.org jonas.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "4fa7500746923385"
+        "id": "9ee1b229d23c4f38"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "f1283df658f987da",
+      "id": "7c39cd297ee87904",
       "item": {
         "date": 1416695103000,
         "site": "johnjohnston.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "wiki editing test",
         "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "f1283df658f987da"
+        "id": "7c39cd297ee87904"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     },
     {
       "type": "add",
-      "id": "d61fbd1704e0ad9c",
+      "id": "57bf8a83e9f33611",
       "item": {
         "date": 1416591509000,
         "site": "max.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "before and after",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 33 pages.",
         "type": "reference",
-        "id": "d61fbd1704e0ad9c"
+        "id": "57bf8a83e9f33611"
       },
-      "date": 1417410001000
+      "date": 1417410602000
     }
   ]
 }

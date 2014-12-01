@@ -2,8 +2,23 @@
   "title": "publicwhip_policies",
   "story": [
     {
+      "type": "paragraph",
+      "id": "79fcaea949744cc2",
+      "text": "[https://morph.io/tmtmtmtm/publicwhip_policies https://morph.io/tmtmtmtm/publicwhip_policies]"
+    },
+    {
+      "type": "paragraph",
+      "id": "671a730ae9ed9729",
+      "text": "uses [[Morph.io]] to simulate an API to [[PublicWhip]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "096d8c9a9691c1e8",
+      "text": "This will be replaced when we get better [[Vote Data Storage]]"
+    },
+    {
       "type": "factory",
-      "id": "79fcaea949744cc2"
+      "id": "ef3429855ab5daee"
     }
   ],
   "journal": [
@@ -37,6 +52,78 @@
       "id": "79fcaea949744cc2",
       "type": "add",
       "date": 1417431623055
+    },
+    {
+      "type": "edit",
+      "id": "79fcaea949744cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "79fcaea949744cc2",
+        "text": "https://morph.io/tmtmtmtm/publicwhip_policies"
+      },
+      "date": 1417431630550
+    },
+    {
+      "type": "edit",
+      "id": "79fcaea949744cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "79fcaea949744cc2",
+        "text": "[https://morph.io/tmtmtmtm/publicwhip_policies https://morph.io/tmtmtmtm/publicwhip_policies]"
+      },
+      "date": 1417431711085
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "671a730ae9ed9729",
+        "text": ""
+      },
+      "id": "671a730ae9ed9729",
+      "type": "add",
+      "after": "79fcaea949744cc2",
+      "date": 1417431711095
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef3429855ab5daee"
+      },
+      "id": "ef3429855ab5daee",
+      "type": "add",
+      "after": "671a730ae9ed9729",
+      "date": 1417431712418
+    },
+    {
+      "type": "edit",
+      "id": "671a730ae9ed9729",
+      "item": {
+        "type": "paragraph",
+        "id": "671a730ae9ed9729",
+        "text": "uses [[Morph.io]] to simulate an API to [[PublicWhip]]."
+      },
+      "date": 1417431739298
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "096d8c9a9691c1e8",
+        "text": ""
+      },
+      "id": "096d8c9a9691c1e8",
+      "type": "add",
+      "after": "671a730ae9ed9729",
+      "date": 1417431739305
+    },
+    {
+      "type": "edit",
+      "id": "096d8c9a9691c1e8",
+      "item": {
+        "type": "paragraph",
+        "id": "096d8c9a9691c1e8",
+        "text": "This will be replaced when we get better [[Vote Data Storage]]"
+      },
+      "date": 1417431788451
     }
   ]
 }

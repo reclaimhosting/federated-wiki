@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "This is [[Tony Bowden]]'s sandbox on [[Federated Wiki]].",
+      "text": "This is [[Tony Bowden]]'s sandbox on [[Smallest Federated Wiki]].",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -575,6 +575,32 @@
       "type": "add",
       "after": "2bbd646ff3f44b51",
       "date": 1417108518920
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7ed0e2af9a9f78f",
+        "text": "Federated Wiki]]."
+      },
+      "id": "a7ed0e2af9a9f78f",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1417431663497
+    },
+    {
+      "type": "remove",
+      "id": "a7ed0e2af9a9f78f",
+      "date": 1417431667235
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "This is [[Tony Bowden]]'s sandbox on [[Smallest Federated Wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1417431669619
     }
   ]
 }

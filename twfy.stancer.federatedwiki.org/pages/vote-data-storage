@@ -1,0 +1,232 @@
+{
+  "title": "Vote Data Storage",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "a664e7d5439af869",
+      "text": "Current"
+    },
+    {
+      "type": "paragraph",
+      "id": "c47b4509d1902287",
+      "text": "[[publicwhip_policies]] is a simulated API to [[PublicWhip]] data, via [[Morph.io]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "116856b21d7a20e3",
+      "text": "Other Options"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f34efcb34743d1c",
+      "text": "[[TheyVoteForYou]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1dd8d2e5de769167",
+      "text": "[[Visegrad+ Parliament API]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "582a12040faf58b4",
+      "text": "[[VoteIt API]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f332dd11a33cbd4",
+      "text": "[[TheyWorkForYou local database storage]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Vote Data Storage",
+        "story": []
+      },
+      "date": 1417431793880
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c47b4509d1902287"
+      },
+      "id": "c47b4509d1902287",
+      "type": "add",
+      "date": 1417431795697
+    },
+    {
+      "type": "edit",
+      "id": "c47b4509d1902287",
+      "item": {
+        "type": "paragraph",
+        "id": "c47b4509d1902287",
+        "text": "[[publicwhip_policies]] is a simulated API to [[PublicWhip]] data, via [[Morph.io]]"
+      },
+      "date": 1417431834125
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5414de805932cc7",
+        "text": ""
+      },
+      "id": "b5414de805932cc7",
+      "type": "add",
+      "after": "c47b4509d1902287",
+      "date": 1417431834131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a664e7d5439af869"
+      },
+      "id": "a664e7d5439af869",
+      "type": "add",
+      "after": "b5414de805932cc7",
+      "date": 1417431835973
+    },
+    {
+      "type": "remove",
+      "id": "b5414de805932cc7",
+      "date": 1417431837928
+    },
+    {
+      "type": "edit",
+      "id": "a664e7d5439af869",
+      "item": {
+        "type": "pagefold",
+        "id": "a664e7d5439af869",
+        "text": "Current"
+      },
+      "date": 1417431843255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "116856b21d7a20e3"
+      },
+      "id": "116856b21d7a20e3",
+      "type": "add",
+      "after": "a664e7d5439af869",
+      "date": 1417431844517
+    },
+    {
+      "type": "edit",
+      "id": "116856b21d7a20e3",
+      "item": {
+        "type": "pagefold",
+        "id": "116856b21d7a20e3",
+        "text": "Other Options"
+      },
+      "date": 1417431849562
+    },
+    {
+      "type": "move",
+      "order": [
+        "a664e7d5439af869",
+        "c47b4509d1902287",
+        "116856b21d7a20e3"
+      ],
+      "id": "a664e7d5439af869",
+      "date": 1417431851517
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f34efcb34743d1c"
+      },
+      "id": "2f34efcb34743d1c",
+      "type": "add",
+      "after": "116856b21d7a20e3",
+      "date": 1417431852804
+    },
+    {
+      "type": "edit",
+      "id": "2f34efcb34743d1c",
+      "item": {
+        "type": "paragraph",
+        "id": "2f34efcb34743d1c",
+        "text": "[[TheyVoteForYou]]"
+      },
+      "date": 1417431872385
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e034d2c0f70bb92a",
+        "text": ""
+      },
+      "id": "e034d2c0f70bb92a",
+      "type": "add",
+      "after": "2f34efcb34743d1c",
+      "date": 1417431872392
+    },
+    {
+      "type": "remove",
+      "id": "e034d2c0f70bb92a",
+      "date": 1417431877088
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1dd8d2e5de769167"
+      },
+      "id": "1dd8d2e5de769167",
+      "type": "add",
+      "after": "2f34efcb34743d1c",
+      "date": 1417431890423
+    },
+    {
+      "type": "edit",
+      "id": "1dd8d2e5de769167",
+      "item": {
+        "type": "paragraph",
+        "id": "1dd8d2e5de769167",
+        "text": "[[Visegrad+ Parliament API]]"
+      },
+      "date": 1417431895979
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "582a12040faf58b4"
+      },
+      "id": "582a12040faf58b4",
+      "type": "add",
+      "after": "1dd8d2e5de769167",
+      "date": 1417431897261
+    },
+    {
+      "type": "edit",
+      "id": "582a12040faf58b4",
+      "item": {
+        "type": "paragraph",
+        "id": "582a12040faf58b4",
+        "text": "[[VoteIt API]]"
+      },
+      "date": 1417431924940
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f332dd11a33cbd4",
+        "text": ""
+      },
+      "id": "9f332dd11a33cbd4",
+      "type": "add",
+      "after": "582a12040faf58b4",
+      "date": 1417431924953
+    },
+    {
+      "type": "edit",
+      "id": "9f332dd11a33cbd4",
+      "item": {
+        "type": "paragraph",
+        "id": "9f332dd11a33cbd4",
+        "text": "[[TheyWorkForYou local database storage]]"
+      },
+      "date": 1417431937744
+    }
+  ]
+}

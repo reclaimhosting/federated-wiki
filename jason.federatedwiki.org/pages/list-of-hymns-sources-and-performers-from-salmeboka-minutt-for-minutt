@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "7676fb741b717e0d",
+      "text": "Source : http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239"
+    },
+    {
+      "type": "paragraph",
       "id": "7975fec3eb637307",
       "text": "\n1: Herre Gud, ditt dyre navn og ære\nNidarosdomens Oratoriekor og Nidarosdomens Jentekor\nAntall vers: 3\nOrgel: Knut Størdal - Ensemble: Norwegian Cornett and Sackbuts\nKomponist: T: Petter Dass M: Norsk folketone\nSted: Vår Frue kirke, inne B+A+GALLERI"
     },
@@ -133,11 +138,6 @@
       "type": "paragraph",
       "id": "f55bd210e9df741d",
       "text": "899: Jeg tror på jordens forvandling\nØvre Nidelven Kammerskor Kor X Trondheim Chorus\nAntall vers: 4\nOrgel: Bjørn Vevang\nKomponist: T: Eyvind Skeie 1988 M: Sigvald Tveit 1988\nSted: Vår Frue kirke, inne"
-    },
-    {
-      "type": "paragraph",
-      "id": "7676fb741b717e0d",
-      "text": "Source :"
     }
   ],
   "journal": [
@@ -1214,6 +1214,77 @@
       "type": "remove",
       "id": "30a5d6669ca62b2d",
       "date": 1417405211245
+    },
+    {
+      "type": "move",
+      "order": [
+        "7676fb741b717e0d",
+        "7975fec3eb637307",
+        "ab09bf0dab1c06e3",
+        "5aa0f2c930364fa9",
+        "1d7cd75d3154604c",
+        "6131ac25402a4a4e",
+        "47ef95c3a9c430d9",
+        "f2f09e5613ed01d1",
+        "8672e35aa14ad6ea",
+        "39f0245f0d1a2cc3",
+        "787b452759c02756",
+        "88ebdfe6e366bea7",
+        "7b9cfaf909b33e8d",
+        "5aa0f2c930364fa9",
+        "6b4c30bd0cef9bfd",
+        "11d946333c0f4ec5",
+        "f3977d0ee130308d",
+        "5a15b2ed7462a4a0",
+        "af140688e5ff935e",
+        "531530c4976a5004",
+        "4d4689417fb5cf73",
+        "f6ac4f2239a4fb28",
+        "dfd097f3030fd115",
+        "ec09f3fbcf0df691",
+        "38da4d929f8411d7",
+        "3f762bd5e0eb1c8e",
+        "130c41b47436288e",
+        "f55bd210e9df741d"
+      ],
+      "id": "7676fb741b717e0d",
+      "date": 1417405234940
+    },
+    {
+      "type": "edit",
+      "id": "7676fb741b717e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "7676fb741b717e0d",
+        "text": "Source :http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239"
+      },
+      "date": 1417405240865
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "64c301148fb6e13f",
+        "text": ""
+      },
+      "id": "64c301148fb6e13f",
+      "type": "add",
+      "after": "7676fb741b717e0d",
+      "date": 1417405240875
+    },
+    {
+      "type": "remove",
+      "id": "64c301148fb6e13f",
+      "date": 1417405244109
+    },
+    {
+      "type": "edit",
+      "id": "7676fb741b717e0d",
+      "item": {
+        "type": "paragraph",
+        "id": "7676fb741b717e0d",
+        "text": "Source : http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239"
+      },
+      "date": 1417405247821
     }
   ]
 }

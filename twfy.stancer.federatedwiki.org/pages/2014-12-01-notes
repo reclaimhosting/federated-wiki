@@ -3,6 +3,31 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "050096eb96f68d6e",
+      "text": "At the voting day in Birmingham last week, we tried completely regenerating all the Stancer data from scratch using the [[Morph.io]] pseudo-API to the [[Public Whip]] data. This turned out not to work, largely because I'd cleaned up the Stancer code recently to only work against pure [[Popolo]] format vote data. So today I made that work again."
+    },
+    {
+      "type": "paragraph",
+      "id": "71e8755f6123aa04",
+      "text": "I decided to do that in a new repo, to keep things clean: [https://github.com/tmtmtmtm/stancer-twfy https://github.com/tmtmtmtm/stancer-twfy]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fcb2afc91d05cfd2",
+      "text": "It steps through every Policy scraped to Morph, fetches all the votes for it, and outputs it all as a Popolo JSON file suitable for feeding to Stancer. "
+    },
+    {
+      "type": "paragraph",
+      "id": "deb08fd5483efd14",
+      "text": ""
+    },
+    {
+      "type": "pagefold",
+      "id": "c55a69f3d70b94aa",
+      "text": "Notes"
+    },
+    {
+      "type": "paragraph",
       "id": "036a5850d754bbbd",
       "text": "☑ New [[stancer-twfy]] repo"
     },
@@ -358,6 +383,155 @@
         "text": " ☐ Inflate [[Morph.io]] data (separate script)"
       },
       "date": 1417434318374
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "050096eb96f68d6e"
+      },
+      "id": "050096eb96f68d6e",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417439545089
+    },
+    {
+      "type": "edit",
+      "id": "050096eb96f68d6e",
+      "item": {
+        "type": "paragraph",
+        "id": "050096eb96f68d6e",
+        "text": "At the voting day in Birmingham last week, we tried completely regenerating all the Stancer data from scratch using the [[Morph.io]] pseudo-API to the [[Public Whip]] data. This turned out not to work, largely because I'd cleaned up the Stancer code recently to only work against pure [[Popolo]] format vote data. So today I made that work again."
+      },
+      "date": 1417439769077
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "599cef4af75bad4c",
+        "text": ""
+      },
+      "id": "599cef4af75bad4c",
+      "type": "add",
+      "after": "050096eb96f68d6e",
+      "date": 1417439769102
+    },
+    {
+      "type": "move",
+      "order": [
+        "050096eb96f68d6e",
+        "036a5850d754bbbd",
+        "f8696bbdeb1351b7",
+        "912e09cd877980ab",
+        "efc1147074ed3343",
+        "2f352ae64483619d",
+        "46a0239828604d9d",
+        "599cef4af75bad4c"
+      ],
+      "id": "050096eb96f68d6e",
+      "date": 1417439772254
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c55a69f3d70b94aa"
+      },
+      "id": "c55a69f3d70b94aa",
+      "type": "add",
+      "after": "599cef4af75bad4c",
+      "date": 1417439776323
+    },
+    {
+      "type": "remove",
+      "id": "599cef4af75bad4c",
+      "date": 1417439785267
+    },
+    {
+      "type": "edit",
+      "id": "c55a69f3d70b94aa",
+      "item": {
+        "type": "pagefold",
+        "id": "c55a69f3d70b94aa",
+        "text": "Notes"
+      },
+      "date": 1417439790180
+    },
+    {
+      "type": "move",
+      "order": [
+        "050096eb96f68d6e",
+        "c55a69f3d70b94aa",
+        "036a5850d754bbbd",
+        "f8696bbdeb1351b7",
+        "912e09cd877980ab",
+        "efc1147074ed3343",
+        "2f352ae64483619d",
+        "46a0239828604d9d"
+      ],
+      "id": "c55a69f3d70b94aa",
+      "date": 1417439792403
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "71e8755f6123aa04",
+        "text": ""
+      },
+      "id": "71e8755f6123aa04",
+      "type": "add",
+      "after": "050096eb96f68d6e",
+      "date": 1417439817561
+    },
+    {
+      "type": "edit",
+      "id": "71e8755f6123aa04",
+      "item": {
+        "type": "paragraph",
+        "id": "71e8755f6123aa04",
+        "text": "I decided to do that in a new repo, to keep things clean: "
+      },
+      "date": 1417439840070
+    },
+    {
+      "type": "edit",
+      "id": "71e8755f6123aa04",
+      "item": {
+        "type": "paragraph",
+        "id": "71e8755f6123aa04",
+        "text": "I decided to do that in a new repo, to keep things clean: [https://github.com/tmtmtmtm/stancer-twfy https://github.com/tmtmtmtm/stancer-twfy]"
+      },
+      "date": 1417439912414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fcb2afc91d05cfd2",
+        "text": ""
+      },
+      "id": "fcb2afc91d05cfd2",
+      "type": "add",
+      "after": "71e8755f6123aa04",
+      "date": 1417439912423
+    },
+    {
+      "type": "edit",
+      "id": "fcb2afc91d05cfd2",
+      "item": {
+        "type": "paragraph",
+        "id": "fcb2afc91d05cfd2",
+        "text": "It steps through every Policy scraped to Morph, fetches all the votes for it, and outputs it all as a Popolo JSON file suitable for feeding to Stancer. "
+      },
+      "date": 1417439962774
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "deb08fd5483efd14",
+        "text": ""
+      },
+      "id": "deb08fd5483efd14",
+      "type": "add",
+      "after": "fcb2afc91d05cfd2",
+      "date": 1417439962789
     }
   ]
 }

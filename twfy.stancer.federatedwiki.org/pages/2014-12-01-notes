@@ -8,13 +8,23 @@
     },
     {
       "type": "paragraph",
+      "id": "912e09cd877980ab",
+      "text": "☐ Transformer from [[Morph.io]]"
+    },
+    {
+      "type": "paragraph",
       "id": "efc1147074ed3343",
       "text": " "
     },
     {
       "type": "paragraph",
-      "id": "912e09cd877980ab",
-      "text": "☐ Transformer from [[Morph.io]]"
+      "id": "2f352ae64483619d",
+      "text": "☐ Push Transformer into [[Stancer]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f8696bbdeb1351b7",
+      "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
     }
   ],
   "journal": [
@@ -182,6 +192,67 @@
       "type": "remove",
       "id": "b51a1f1cb7a2caf5",
       "date": 1417432824195
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f352ae64483619d"
+      },
+      "id": "2f352ae64483619d",
+      "type": "add",
+      "after": "912e09cd877980ab",
+      "date": 1417432928019
+    },
+    {
+      "type": "move",
+      "order": [
+        "036a5850d754bbbd",
+        "912e09cd877980ab",
+        "efc1147074ed3343",
+        "2f352ae64483619d"
+      ],
+      "id": "912e09cd877980ab",
+      "date": 1417432930961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8696bbdeb1351b7"
+      },
+      "id": "f8696bbdeb1351b7",
+      "type": "add",
+      "after": "2f352ae64483619d",
+      "date": 1417432934110
+    },
+    {
+      "type": "edit",
+      "id": "2f352ae64483619d",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ Push Transformer into [[Stancer]]"
+      },
+      "date": 1417432961916
+    },
+    {
+      "type": "edit",
+      "id": "f8696bbdeb1351b7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8696bbdeb1351b7",
+        "text": "☐ Transformer from [[Morph.io]]"
+      },
+      "date": 1417432963634
+    },
+    {
+      "type": "edit",
+      "id": "f8696bbdeb1351b7",
+      "item": {
+        "type": "paragraph",
+        "id": "f8696bbdeb1351b7",
+        "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+      },
+      "date": 1417432992460
     }
   ]
 }

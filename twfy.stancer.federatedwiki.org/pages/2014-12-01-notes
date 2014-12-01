@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "036a5850d754bbbd",
-      "text": "Step 1: "
+      "text": "☑ New [[stancer-twfy]] repo"
+    },
+    {
+      "type": "paragraph",
+      "id": "efc1147074ed3343",
+      "text": " "
     }
   ],
   "journal": [
@@ -34,6 +39,108 @@
         "text": "Step 1: "
       },
       "date": 1417431000441
+    },
+    {
+      "type": "edit",
+      "id": "036a5850d754bbbd",
+      "item": {
+        "type": "paragraph",
+        "id": "036a5850d754bbbd",
+        "text": "☑ New stancer-twfy repo"
+      },
+      "date": 1417431046507
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5297f413c3ec6423",
+        "text": ""
+      },
+      "id": "5297f413c3ec6423",
+      "type": "add",
+      "after": "036a5850d754bbbd",
+      "date": 1417431046556
+    },
+    {
+      "type": "remove",
+      "id": "5297f413c3ec6423",
+      "date": 1417431048418
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "efc1147074ed3343"
+      },
+      "id": "efc1147074ed3343",
+      "type": "add",
+      "after": "036a5850d754bbbd",
+      "date": 1417431058381
+    },
+    {
+      "type": "edit",
+      "id": "efc1147074ed3343",
+      "item": {
+        "type": "paragraph",
+        "id": "efc1147074ed3343",
+        "text": " "
+      },
+      "date": 1417431120333
+    },
+    {
+      "type": "remove",
+      "id": "b18a8166f0065b14",
+      "date": 1417431120346
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "218e023ffd7fa01c",
+        "text": ""
+      },
+      "id": "218e023ffd7fa01c",
+      "type": "add",
+      "after": "efc1147074ed3343",
+      "date": 1417431120377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c6388a5496c8928"
+      },
+      "id": "5c6388a5496c8928",
+      "type": "add",
+      "after": "06ad0b472e55dc0e",
+      "date": 1417431123141
+    },
+    {
+      "type": "remove",
+      "id": "218e023ffd7fa01c",
+      "date": 1417431125880
+    },
+    {
+      "type": "remove",
+      "id": "5c6388a5496c8928",
+      "date": 1417431142795
+    },
+    {
+      "type": "edit",
+      "id": "036a5850d754bbbd",
+      "item": {
+        "type": "paragraph",
+        "id": "036a5850d754bbbd",
+        "text": "☑ New [[stancer-twfy]] repo"
+      },
+      "date": 1417431150018
+    },
+    {
+      "type": "edit",
+      "id": "06ad0b472e55dc0e",
+      "item": {
+        "type": "paragraph",
+        "id": "06ad0b472e55dc0e",
+        "text": "☐ Transformer from [[Morph.io]]"
+      },
+      "date": 1417431461815
     }
   ]
 }

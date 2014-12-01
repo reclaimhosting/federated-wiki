@@ -1,0 +1,42 @@
+{
+  "title": "publicwhip_policies",
+  "story": [
+    {
+      "type": "factory",
+      "id": "79fcaea949744cc2"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "publicwhip_policies",
+        "story": []
+      },
+      "date": 1417431609110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a46a455bd96b88a"
+      },
+      "id": "8a46a455bd96b88a",
+      "type": "add",
+      "date": 1417431620141
+    },
+    {
+      "type": "remove",
+      "id": "8a46a455bd96b88a",
+      "date": 1417431622029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79fcaea949744cc2"
+      },
+      "id": "79fcaea949744cc2",
+      "type": "add",
+      "date": 1417431623055
+    }
+  ]
+}

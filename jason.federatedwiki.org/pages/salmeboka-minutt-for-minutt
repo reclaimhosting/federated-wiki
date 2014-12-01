@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "3d5cbf10f13618e6",
-      "text": "[http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239 http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239] full [[list of hymns sources and performers from salmeboka minutt for minutt"
+      "text": "[http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239 http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239] full [[list of hymns sources and performers from salmeboka minutt for minutt]]"
     },
     {
       "type": "paragraph",
@@ -263,6 +263,32 @@
       "type": "remove",
       "id": "e7223a626038cb46",
       "date": 1417323699815
+    },
+    {
+      "type": "edit",
+      "id": "3d5cbf10f13618e6",
+      "item": {
+        "type": "paragraph",
+        "id": "3d5cbf10f13618e6",
+        "text": "[http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239 http://www.nrk.no/informasjon/hvilke-kor-synger-hva-i-nrks-salmemaraton_-1.12064239] full [[list of hymns sources and performers from salmeboka minutt for minutt]]"
+      },
+      "date": 1417400994780
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e5abd34ef9de6758",
+        "text": ""
+      },
+      "id": "e5abd34ef9de6758",
+      "type": "add",
+      "after": "3d5cbf10f13618e6",
+      "date": 1417400994794
+    },
+    {
+      "type": "remove",
+      "id": "e5abd34ef9de6758",
+      "date": 1417400998152
     }
   ]
 }

@@ -22,6 +22,11 @@
       "text": "For now we simply fetch the Issues+Indicators data out of the [[stance-viewer-sinatra]] Github repo. That will be tidied up later to have its own proper data source."
     },
     {
+      "type": "paragraph",
+      "id": "6ff6de15c5fe2fbc",
+      "text": "Everything ran fine when testing with only a couple of Policies, but when fetching all of the data, it barfed at one point with a JSON error. I spent a while trying to track down what was wrong, but couldn't see anything obvious. Cleaning the file out of the open-uri cache and refetching worked normally, so Morph must have given us back something not quite right the first time. One to watch out for in future runs..."
+    },
+    {
       "type": "pagefold",
       "id": "c55a69f3d70b94aa",
       "text": "Notes"
@@ -558,6 +563,43 @@
       "type": "remove",
       "id": "6410486cdd31981b",
       "date": 1417440032757
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ff6de15c5fe2fbc",
+        "text": ""
+      },
+      "id": "6ff6de15c5fe2fbc",
+      "type": "add",
+      "after": "deb08fd5483efd14",
+      "date": 1417440815305
+    },
+    {
+      "type": "edit",
+      "id": "6ff6de15c5fe2fbc",
+      "item": {
+        "type": "paragraph",
+        "id": "6ff6de15c5fe2fbc",
+        "text": "Everything ran fine when testing with only a couple of Policies, but when fetching all of the data, it barfed at one point with a JSON error. I spent a while trying to track down what was wrong, but couldn't see anything obvious. Cleaning the file out of the open-uri cache and refetching worked normally, so Morph must have given us back something not quite right the first time. One to watch out for in future runs..."
+      },
+      "date": 1417440949608
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "296e517ee3837a92",
+        "text": ""
+      },
+      "id": "296e517ee3837a92",
+      "type": "add",
+      "after": "6ff6de15c5fe2fbc",
+      "date": 1417440949616
+    },
+    {
+      "type": "remove",
+      "id": "296e517ee3837a92",
+      "date": 1417440950242
     }
   ]
 }

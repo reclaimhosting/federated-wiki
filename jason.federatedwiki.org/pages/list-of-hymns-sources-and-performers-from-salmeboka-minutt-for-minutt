@@ -75,6 +75,11 @@
     },
     {
       "type": "paragraph",
+      "id": "2ed182642e3d7563",
+      "text": "15 : Kom, konge, kom i morgenglans\nStjørdal Mannskor \nDirigent: Simon-Andre Jakobsen\nAntall vers: 5\nOrganist/instrumentalist: Knut Størdal\nKomponist: T: John Brownlie M: Johann Crüger/ Elkanah Kelsay Dare\nSted: Vår Frue kirke, inne B"
+    },
+    {
+      "type": "paragraph",
       "id": "5aa0f2c930364fa9",
       "text": " "
     },
@@ -147,6 +152,11 @@
       "type": "paragraph",
       "id": "f55bd210e9df741d",
       "text": "899: Jeg tror på jordens forvandling\nØvre Nidelven Kammerskor Kor X Trondheim Chorus\nAntall vers: 4\nOrgel: Bjørn Vevang\nKomponist: T: Eyvind Skeie 1988 M: Sigvald Tveit 1988\nSted: Vår Frue kirke, inne"
+    },
+    {
+      "type": "paragraph",
+      "id": "d0fc92cf1b432974",
+      "text": " "
     }
   ],
   "journal": [
@@ -1429,6 +1439,101 @@
       ],
       "id": "9e483dea9241ad79",
       "date": 1417409066999
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0fc92cf1b432974"
+      },
+      "id": "d0fc92cf1b432974",
+      "type": "add",
+      "after": "f55bd210e9df741d",
+      "date": 1417409700032
+    },
+    {
+      "type": "edit",
+      "id": "d0fc92cf1b432974",
+      "item": {
+        "type": "paragraph",
+        "id": "d0fc92cf1b432974",
+        "text": " "
+      },
+      "date": 1417409704626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ed182642e3d7563"
+      },
+      "id": "2ed182642e3d7563",
+      "type": "add",
+      "after": "d0fc92cf1b432974",
+      "date": 1417409707272
+    },
+    {
+      "type": "move",
+      "order": [
+        "7676fb741b717e0d",
+        "7975fec3eb637307",
+        "ab09bf0dab1c06e3",
+        "5aa0f2c930364fa9",
+        "1d7cd75d3154604c",
+        "6131ac25402a4a4e",
+        "47ef95c3a9c430d9",
+        "f2f09e5613ed01d1",
+        "8672e35aa14ad6ea",
+        "39f0245f0d1a2cc3",
+        "787b452759c02756",
+        "88ebdfe6e366bea7",
+        "7b9cfaf909b33e8d",
+        "7a3af79e59da1821",
+        "9e483dea9241ad79",
+        "2ed182642e3d7563",
+        "5aa0f2c930364fa9",
+        "6b4c30bd0cef9bfd",
+        "11d946333c0f4ec5",
+        "f3977d0ee130308d",
+        "5a15b2ed7462a4a0",
+        "af140688e5ff935e",
+        "531530c4976a5004",
+        "4d4689417fb5cf73",
+        "f6ac4f2239a4fb28",
+        "dfd097f3030fd115",
+        "ec09f3fbcf0df691",
+        "38da4d929f8411d7",
+        "3f762bd5e0eb1c8e",
+        "130c41b47436288e",
+        "f55bd210e9df741d",
+        "d0fc92cf1b432974"
+      ],
+      "id": "2ed182642e3d7563",
+      "date": 1417409720317
+    },
+    {
+      "type": "edit",
+      "id": "2ed182642e3d7563",
+      "item": {
+        "type": "paragraph",
+        "id": "2ed182642e3d7563",
+        "text": "15 : Kom, konge, kom i morgenglans\nStjørdal Mannskor \nDirigent: Simon-Andre Jakobsen\nAntall vers: 5\nOrganist/instrumentalist: Knut Størdal\nKomponist: T: John Brownlie M: Johann Crüger/ Elkanah Kelsay Dare\nSted: Vår Frue kirke, inne B"
+      },
+      "date": 1417409741917
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0cc02f6df7f15dba",
+        "text": ""
+      },
+      "id": "0cc02f6df7f15dba",
+      "type": "add",
+      "after": "2ed182642e3d7563",
+      "date": 1417409741941
+    },
+    {
+      "type": "remove",
+      "id": "0cc02f6df7f15dba",
+      "date": 1417409743632
     }
   ]
 }

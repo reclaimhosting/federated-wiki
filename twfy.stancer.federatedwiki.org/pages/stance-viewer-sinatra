@@ -8,7 +8,7 @@
     {
       "type": "paragraph",
       "id": "65e399ed5608891c",
-      "text": ""
+      "text": "It currently fetches data from a variety of different sources, partially for evolutionary reasons, and partially as part of making sure that Stancer can cope with multiple different approaches. But the current idea is to move as much of the logic as possible out of here and into Stancer, so that this is really only displaying generated JSON data, rather than doing much post-processing of that. That will then make it much easier to drop this into any PMO site, including TWFY."
     }
   ],
   "journal": [
@@ -39,6 +39,32 @@
       "type": "add",
       "after": "7c54306e588ee867",
       "date": 1417534111681
+    },
+    {
+      "type": "edit",
+      "id": "65e399ed5608891c",
+      "item": {
+        "type": "paragraph",
+        "id": "65e399ed5608891c",
+        "text": "It currently fetches data from a variety of different sources, partially for evolutionary reasons, and partially as part of making sure that Stancer can cope with multiple different approaches. But the current idea is to move as much of the logic as possible out of here and into Stancer, so that this is really only displaying generated JSON data, rather than doing much post-processing of that. That will then make it much easier to drop this into any PMO site, including TWFY."
+      },
+      "date": 1417534308643
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "787072082b4eb33b",
+        "text": ""
+      },
+      "id": "787072082b4eb33b",
+      "type": "add",
+      "after": "65e399ed5608891c",
+      "date": 1417534308652
+    },
+    {
+      "type": "remove",
+      "id": "787072082b4eb33b",
+      "date": 1417534310331
     }
   ]
 }

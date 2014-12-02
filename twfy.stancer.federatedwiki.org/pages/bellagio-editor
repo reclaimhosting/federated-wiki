@@ -14,7 +14,12 @@
     {
       "type": "paragraph",
       "id": "3da6df9faf588dcb",
-      "text": ""
+      "text": "The first is to consolidate all the meta-information around the Policies/Issues we will display, which is currently a mix of [[Public Whip]] data, and extra fields that Richard currently maintains in a spreadsheet. This would give us a nice editing interface to that, and potentially also expose it over an API, so that the [[TheyWorkForYou]] PHP doesn't need to hard-code it all."
+    },
+    {
+      "type": "paragraph",
+      "id": "53a38bb24349d627",
+      "text": "The second is to use it as a full-blown replacement for the [[Public Whip Policy Editor]]. It already has the ability to ask a remote API endpoint for all motions matching a given query string, and attach those to Issues by choosing a direction and weight. The main things needed for this approach would be extending the input fields to also include Richard's @aye/@nay descriptions for each Motion."
     }
   ],
   "journal": [
@@ -76,6 +81,53 @@
       "type": "add",
       "after": "ebaa426b2446401a",
       "date": 1417533011653
+    },
+    {
+      "type": "edit",
+      "id": "3da6df9faf588dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "3da6df9faf588dcb",
+        "text": "The first is to consolidate all the meta-information around the Policies/Issues we will display, which is currently a mix of [[Public Whip]] data, and extra fields that Richard currently maintains in a spreadsheet. This would give us a nice editing interface to that, and potentially also expose it over an API, so that the [[TheyWorkForYou]] PHP doesn't need to hard-code it all."
+      },
+      "date": 1417533118294
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "53a38bb24349d627",
+        "text": ""
+      },
+      "id": "53a38bb24349d627",
+      "type": "add",
+      "after": "3da6df9faf588dcb",
+      "date": 1417533118302
+    },
+    {
+      "type": "edit",
+      "id": "53a38bb24349d627",
+      "item": {
+        "type": "paragraph",
+        "id": "53a38bb24349d627",
+        "text": "The second is to use it as a full-blown replacement for the [[Public Whip Policy Editor]]. It already has the ability to ask a remote API endpoint for all motions matching a given query string, and attach those to Issues by choosing a direction and weight. The main things needed for this approach would be extending the input fields to also include Richard's @aye/@nay descriptions for each Motion."
+      },
+      "date": 1417533268911
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ba1d9a0ee2630d7b",
+        "text": ""
+      },
+      "id": "ba1d9a0ee2630d7b",
+      "type": "add",
+      "after": "53a38bb24349d627",
+      "date": 1417533268920
+    },
+    {
+      "type": "remove",
+      "id": "ba1d9a0ee2630d7b",
+      "date": 1417533270290
     }
   ]
 }

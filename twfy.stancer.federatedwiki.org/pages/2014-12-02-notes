@@ -34,7 +34,11 @@
     {
       "type": "paragraph",
       "id": "4113777673cd6ef2",
-      "text": ""
+      "text": "I looked briefly at doing this as a new lightweight python-eve project on Heroku, but for simplicity I decided to just cram it into the existing [[stance-viewer-sinatra]]. This is the opposite direction to where I want to be going (which is to move as much processing as possible out of that project), but it should enable us to remove other things more quickly, and then we can work out the correct deployment approach for this part later."
+    },
+    {
+      "type": "factory",
+      "id": "b6ecc30640f0cd36"
     },
     {
       "type": "pagefold",
@@ -551,6 +555,50 @@
       "type": "remove",
       "id": "2853ec8aff0f31cd",
       "date": 1417532756928
+    },
+    {
+      "type": "edit",
+      "id": "4113777673cd6ef2",
+      "item": {
+        "type": "paragraph",
+        "id": "4113777673cd6ef2",
+        "text": "I looked briefly at doing this as a new lightweight python-eve project on Heroku, but for simplicity I decided to just cram it into the existing [[stance-viewer-sinatra]]. This is the opposite direction to where I want to be going (which is to move as much processing as possible out of that project), but it should enable us to remove other things more quickly, and then we can work out the correct deployment approach for this part later."
+      },
+      "date": 1417533337300
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6ecc30640f0cd36"
+      },
+      "id": "b6ecc30640f0cd36",
+      "type": "add",
+      "after": "90d9fba2fd0e02d3",
+      "date": 1417533544841
+    },
+    {
+      "type": "move",
+      "order": [
+        "57217426a8a32e64",
+        "54c76cb407896c60",
+        "bf2fed3df1923471",
+        "4fd968c51ef93bda",
+        "10be35c4e1e18325",
+        "d408711a4acbabde",
+        "4113777673cd6ef2",
+        "b6ecc30640f0cd36",
+        "b3244c9842b20b46",
+        "912e09cd877980ab",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "46a0239828604d9d",
+        "52a6f5ee64f4ad61",
+        "3f1d992cd0f85a80",
+        "2805d41635bf6091",
+        "90d9fba2fd0e02d3"
+      ],
+      "id": "b6ecc30640f0cd36",
+      "date": 1417533548948
     }
   ]
 }

@@ -1,0 +1,97 @@
+{
+  "title": "Policy Editor",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "eca1821df6dc8b8e",
+      "text": "[[Public Whip Policy Editor]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "db455f1e425d8e8e",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "f0f998722779194d",
+      "text": "[[TheyVoteForYou]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Policy Editor",
+        "story": []
+      },
+      "date": 1417533453287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eca1821df6dc8b8e"
+      },
+      "id": "eca1821df6dc8b8e",
+      "type": "add",
+      "date": 1417533456360
+    },
+    {
+      "type": "edit",
+      "id": "eca1821df6dc8b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "eca1821df6dc8b8e",
+        "text": "[[Public Whip Policy Editor]]"
+      },
+      "date": 1417533463508
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db455f1e425d8e8e",
+        "text": ""
+      },
+      "id": "db455f1e425d8e8e",
+      "type": "add",
+      "after": "eca1821df6dc8b8e",
+      "date": 1417533463518
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f0f998722779194d",
+        "text": ""
+      },
+      "id": "f0f998722779194d",
+      "type": "add",
+      "after": "db455f1e425d8e8e",
+      "date": 1417533470609
+    },
+    {
+      "type": "edit",
+      "id": "f0f998722779194d",
+      "item": {
+        "type": "paragraph",
+        "id": "f0f998722779194d",
+        "text": "[[TheyVoteForYou]]"
+      },
+      "date": 1417533475235
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c5554adcdcf5f0d",
+        "text": ""
+      },
+      "id": "8c5554adcdcf5f0d",
+      "type": "add",
+      "after": "f0f998722779194d",
+      "date": 1417533475242
+    },
+    {
+      "type": "remove",
+      "id": "8c5554adcdcf5f0d",
+      "date": 1417533476039
+    }
+  ]
+}

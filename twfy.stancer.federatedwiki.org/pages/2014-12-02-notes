@@ -54,7 +54,12 @@
     {
       "type": "code",
       "id": "2805d41635bf6091",
-      "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb group > tmp/party_stances.json; date\nbin/stances_jscon_to_csv tmp/party_stances.json |sort > tmp/party_stances_new.csv\nbin/stances_jscon_to_csv ~/Code/stance-viewer-sinatra/data/partystances.json | sort > tmp/party_stances_old.csv\ndiff tmp/party_stances_old.csv tmp/party_stances_new.csv | less\n"
+      "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb group > tmp/party_stances.json; date\nbin/stances_json_to_csv tmp/party_stances.json |sort > tmp/party_stances_new.csv\nbin/stances_json_to_csv ~/Code/stance-viewer-sinatra/data/partystances.json | sort > tmp/party_stances_old.csv\ndiff tmp/party_stances_old.csv tmp/party_stances_new.csv | less\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "90d9fba2fd0e02d3",
+      "text": "stances_json_to_csv = [https://gist.github.com/tmtmtmtm/e2fe7e52a35ac57e3d8f https://gist.github.com/tmtmtmtm/e2fe7e52a35ac57e3d8f]"
     }
   ],
   "journal": [
@@ -347,6 +352,36 @@
         "text": "☑ Check that new JSON matches old JSON"
       },
       "date": 1417515771893
+    },
+    {
+      "type": "edit",
+      "id": "2805d41635bf6091",
+      "item": {
+        "type": "code",
+        "id": "2805d41635bf6091",
+        "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb group > tmp/party_stances.json; date\nbin/stances_json_to_csv tmp/party_stances.json |sort > tmp/party_stances_new.csv\nbin/stances_json_to_csv ~/Code/stance-viewer-sinatra/data/partystances.json | sort > tmp/party_stances_old.csv\ndiff tmp/party_stances_old.csv tmp/party_stances_new.csv | less\n"
+      },
+      "date": 1417517633875
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90d9fba2fd0e02d3"
+      },
+      "id": "90d9fba2fd0e02d3",
+      "type": "add",
+      "after": "2805d41635bf6091",
+      "date": 1417517641099
+    },
+    {
+      "type": "edit",
+      "id": "90d9fba2fd0e02d3",
+      "item": {
+        "type": "paragraph",
+        "id": "90d9fba2fd0e02d3",
+        "text": "stances_json_to_csv = [https://gist.github.com/tmtmtmtm/e2fe7e52a35ac57e3d8f https://gist.github.com/tmtmtmtm/e2fe7e52a35ac57e3d8f]"
+      },
+      "date": 1417517654287
     }
   ]
 }

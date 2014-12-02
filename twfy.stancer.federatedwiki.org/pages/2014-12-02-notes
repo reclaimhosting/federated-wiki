@@ -25,6 +25,21 @@
       "type": "paragraph",
       "id": "46a0239828604d9d",
       "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+    },
+    {
+      "type": "pagefold",
+      "id": "52a6f5ee64f4ad61",
+      "text": "Scratch"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f1d992cd0f85a80",
+      "text": "Generating stances (from uninstalled development Stancer):"
+    },
+    {
+      "type": "code",
+      "id": "2805d41635bf6091",
+      "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb voter > tmp/people_stances.json; date"
     }
   ],
   "journal": [
@@ -108,6 +123,117 @@
         "text": "☐ Check that new JSON matches old JSON"
       },
       "date": 1417513434855
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52a6f5ee64f4ad61"
+      },
+      "id": "52a6f5ee64f4ad61",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417514441582
+    },
+    {
+      "type": "edit",
+      "id": "52a6f5ee64f4ad61",
+      "item": {
+        "type": "pagefold",
+        "id": "52a6f5ee64f4ad61",
+        "text": "Scratch"
+      },
+      "date": 1417514448539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f1d992cd0f85a80"
+      },
+      "id": "3f1d992cd0f85a80",
+      "type": "add",
+      "after": "52a6f5ee64f4ad61",
+      "date": 1417514450680
+    },
+    {
+      "type": "edit",
+      "id": "3f1d992cd0f85a80",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1d992cd0f85a80",
+        "text": "Generating stances (without Stancer installed):"
+      },
+      "date": 1417514476867
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aec43d929d8e8a02",
+        "text": ""
+      },
+      "id": "aec43d929d8e8a02",
+      "type": "add",
+      "after": "3f1d992cd0f85a80",
+      "date": 1417514476883
+    },
+    {
+      "type": "remove",
+      "id": "aec43d929d8e8a02",
+      "date": 1417514486064
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d8b05179708a746"
+      },
+      "id": "4d8b05179708a746",
+      "type": "add",
+      "after": "3f1d992cd0f85a80",
+      "date": 1417514496305
+    },
+    {
+      "type": "edit",
+      "id": "4d8b05179708a746",
+      "item": {
+        "type": "paragraph",
+        "id": "4d8b05179708a746",
+        "text": "> date; ruby -I../stancer/lib ./bin/generate_stances.rb voter > tmp/people_stances.json; date"
+      },
+      "date": 1417514510175
+    },
+    {
+      "type": "remove",
+      "id": "4d8b05179708a746",
+      "date": 1417514577511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2805d41635bf6091"
+      },
+      "id": "2805d41635bf6091",
+      "type": "add",
+      "after": "3f1d992cd0f85a80",
+      "date": 1417514578556
+    },
+    {
+      "type": "edit",
+      "id": "2805d41635bf6091",
+      "item": {
+        "type": "code",
+        "id": "2805d41635bf6091",
+        "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb voter > tmp/people_stances.json; date"
+      },
+      "date": 1417514587960
+    },
+    {
+      "type": "edit",
+      "id": "3f1d992cd0f85a80",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1d992cd0f85a80",
+        "text": "Generating stances (from uninstalled development Stancer):"
+      },
+      "date": 1417514630197
     }
   ]
 }

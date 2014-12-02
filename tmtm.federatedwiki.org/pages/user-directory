@@ -84,8 +84,18 @@
       "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
     },
     {
-      "type": "factory",
-      "id": "23ab8cd6cbe65936"
+      "type": "reference",
+      "id": "da15b3f69f3d6a5a",
+      "site": "journal14.hapgood.net:3000",
+      "title": "Mike Caulfield",
+      "text": "Mike Caulfield is an edtech, collaboration, and open resources guy who has been keeping this journal since forever."
+    },
+    {
+      "type": "reference",
+      "id": "7cce05602b47a046",
+      "site": "hhol.mike.fed.wiki.org",
+      "title": "The Hidden History of Online Learning",
+      "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
     }
   ],
   "journal": [
@@ -507,6 +517,55 @@
       "after": "f4d212d87d145bf3",
       "id": "5e13f25e2f7e889c",
       "date": 1417538931016
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da15b3f69f3d6a5a"
+      },
+      "id": "da15b3f69f3d6a5a",
+      "type": "add",
+      "after": "23ab8cd6cbe65936",
+      "date": 1417552562070
+    },
+    {
+      "type": "remove",
+      "id": "23ab8cd6cbe65936",
+      "date": 1417552565674
+    },
+    {
+      "type": "edit",
+      "id": "da15b3f69f3d6a5a",
+      "item": {
+        "type": "reference",
+        "id": "da15b3f69f3d6a5a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Mike Caulfield",
+        "text": "Mike Caulfield is an edtech, collaboration, and open resources guy who has been keeping this journal since forever."
+      },
+      "date": 1417552566738
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cce05602b47a046"
+      },
+      "id": "7cce05602b47a046",
+      "type": "add",
+      "after": "da15b3f69f3d6a5a",
+      "date": 1417552713197
+    },
+    {
+      "type": "edit",
+      "id": "7cce05602b47a046",
+      "item": {
+        "type": "reference",
+        "id": "7cce05602b47a046",
+        "site": "hhol.mike.fed.wiki.org",
+        "title": "The Hidden History of Online Learning",
+        "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+      },
+      "date": 1417552726871
     }
   ]
 }

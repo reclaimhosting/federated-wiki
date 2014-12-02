@@ -2,6 +2,21 @@
   "title": "2014-12-02 Notes",
   "story": [
     {
+      "type": "paragraph",
+      "id": "57217426a8a32e64",
+      "text": "First thing to do today: ensure that the Stancer JSON being generated from the [[Morph.io]] PW data is the same as that generated the old way. (See scratch notes below.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "54c76cb407896c60",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "bf2fed3df1923471",
+      "text": ""
+    },
+    {
       "type": "pagefold",
       "id": "b3244c9842b20b46",
       "text": "Notes"
@@ -34,12 +49,12 @@
     {
       "type": "paragraph",
       "id": "3f1d992cd0f85a80",
-      "text": "Generating stances (from uninstalled development Stancer):"
+      "text": "Generate party stances (from uninstalled development Stancer), and compare them with the previous ones:"
     },
     {
       "type": "code",
       "id": "2805d41635bf6091",
-      "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb voter > tmp/people_stances.json; date"
+      "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb group > tmp/party_stances.json; date\nbin/stances_jscon_to_csv tmp/party_stances.json |sort > tmp/party_stances_new.csv\nbin/stances_jscon_to_csv ~/Code/stance-viewer-sinatra/data/partystances.json | sort > tmp/party_stances_old.csv\ndiff tmp/party_stances_old.csv tmp/party_stances_new.csv | less\n"
     }
   ],
   "journal": [
@@ -234,6 +249,84 @@
         "text": "Generating stances (from uninstalled development Stancer):"
       },
       "date": 1417514630197
+    },
+    {
+      "type": "edit",
+      "id": "3f1d992cd0f85a80",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1d992cd0f85a80",
+        "text": "Generate party stances (from uninstalled development Stancer), and compare them with the previous ones:"
+      },
+      "date": 1417515154221
+    },
+    {
+      "type": "edit",
+      "id": "2805d41635bf6091",
+      "item": {
+        "type": "code",
+        "id": "2805d41635bf6091",
+        "text": "date; ruby -I../stancer/lib ./bin/generate_stances.rb group > tmp/party_stances.json; date\nbin/stances_jscon_to_csv tmp/party_stances.json |sort > tmp/party_stances_new.csv\nbin/stances_jscon_to_csv ~/Code/stance-viewer-sinatra/data/partystances.json | sort > tmp/party_stances_old.csv\ndiff tmp/party_stances_old.csv tmp/party_stances_new.csv | less\n"
+      },
+      "date": 1417515176521
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57217426a8a32e64"
+      },
+      "id": "57217426a8a32e64",
+      "type": "add",
+      "after": "2805d41635bf6091",
+      "date": 1417515186529
+    },
+    {
+      "type": "move",
+      "order": [
+        "57217426a8a32e64",
+        "b3244c9842b20b46",
+        "912e09cd877980ab",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "46a0239828604d9d",
+        "52a6f5ee64f4ad61",
+        "3f1d992cd0f85a80",
+        "2805d41635bf6091"
+      ],
+      "id": "57217426a8a32e64",
+      "date": 1417515190517
+    },
+    {
+      "type": "edit",
+      "id": "57217426a8a32e64",
+      "item": {
+        "type": "paragraph",
+        "id": "57217426a8a32e64",
+        "text": "First thing to do today: ensure that the Stancer JSON being generated from the [[Morph.io]] PW data is the same as that generated the old way. (See scratch notes below.)"
+      },
+      "date": 1417515243430
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "54c76cb407896c60",
+        "text": ""
+      },
+      "id": "54c76cb407896c60",
+      "type": "add",
+      "after": "57217426a8a32e64",
+      "date": 1417515243438
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bf2fed3df1923471",
+        "text": ""
+      },
+      "id": "bf2fed3df1923471",
+      "type": "add",
+      "after": "54c76cb407896c60",
+      "date": 1417515362436
     }
   ]
 }

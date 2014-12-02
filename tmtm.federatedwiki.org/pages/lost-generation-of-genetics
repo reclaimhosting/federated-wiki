@@ -1,0 +1,110 @@
+{
+  "title": "Lost Generation of Genetics",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "15ae3f1591db9eae",
+      "text": "Vannevar Bush contemplates Mendel's genetics as an example of work that never reached the right eyes. Given the large amount of information and high degree of specialization, it's likely the situation today is even worse."
+    },
+    {
+      "type": "pagefold",
+      "id": "d175d144333bb74e",
+      "text": "Quoting Bush"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9606889fd399daf",
+      "text": "Mendel’s concept of the laws of genetics was lost to the world for a generation because his publication did not reach the few who were capable of grasping and extending it; and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lost Generation of Genetics",
+        "story": []
+      },
+      "date": 1417498651862
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15ae3f1591db9eae"
+      },
+      "id": "15ae3f1591db9eae",
+      "type": "add",
+      "date": 1417498653085
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f556727192575048",
+        "text": ""
+      },
+      "id": "f556727192575048",
+      "type": "add",
+      "after": "15ae3f1591db9eae",
+      "date": 1417498662675
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d175d144333bb74e"
+      },
+      "id": "d175d144333bb74e",
+      "type": "add",
+      "after": "f556727192575048",
+      "date": 1417498666308
+    },
+    {
+      "type": "remove",
+      "id": "f556727192575048",
+      "date": 1417498667823
+    },
+    {
+      "type": "edit",
+      "id": "d175d144333bb74e",
+      "item": {
+        "type": "pagefold",
+        "id": "d175d144333bb74e",
+        "text": "Quoting Bush"
+      },
+      "date": 1417498673968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9606889fd399daf"
+      },
+      "id": "c9606889fd399daf",
+      "type": "add",
+      "after": "d175d144333bb74e",
+      "date": 1417498675500
+    },
+    {
+      "type": "edit",
+      "id": "c9606889fd399daf",
+      "item": {
+        "type": "paragraph",
+        "id": "c9606889fd399daf",
+        "text": "Mendel’s concept of the laws of genetics was lost to the world for a generation because his publication did not reach the few who were capable of grasping and extending it; and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential."
+      },
+      "date": 1417498678725
+    },
+    {
+      "type": "edit",
+      "id": "15ae3f1591db9eae",
+      "item": {
+        "type": "paragraph",
+        "id": "15ae3f1591db9eae",
+        "text": "Vannevar Bush contemplates Mendel's genetics as an example of work that never reached the right eyes. Given the large amount of information and high degree of specialization, it's likely the situation today is even worse."
+      },
+      "date": 1417498793056
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1417513153629
+    }
+  ]
+}

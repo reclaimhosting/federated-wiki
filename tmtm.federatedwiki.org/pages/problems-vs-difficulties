@@ -15,6 +15,26 @@
       "type": "paragraph",
       "id": "914991c02df86d51",
       "text": "The solution to a difficulty is arbitrary and usually due only to accidental complexity. It will be different tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "id": "0548488eda17a9c5",
+      "text": "In education, the problem vs. difficulty ratio is expressed as a part of [[Cognitive Load Theory]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4f1cbdadb0186824",
+      "text": "Bjork's work on \"desirable difficulties\" also seems relevant here. [http://bjorklab.psych.ucla.edu/research.html html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1221584f0db76387",
+      "text": "See [[Work Sucks If We Let It]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "18e8128f1db51097",
+      "text": "See [[Virtual Microscopy]]"
     }
   ],
   "journal": [
@@ -155,9 +175,117 @@
       "date": 1416773106169
     },
     {
+      "item": {
+        "type": "factory",
+        "id": "1221584f0db76387"
+      },
+      "id": "1221584f0db76387",
+      "type": "add",
+      "after": "914991c02df86d51",
+      "date": 1416778954021
+    },
+    {
+      "type": "edit",
+      "id": "1221584f0db76387",
+      "item": {
+        "type": "paragraph",
+        "id": "1221584f0db76387",
+        "text": "See [[Work Sucks If We Let It]]"
+      },
+      "date": 1416778972370
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18e8128f1db51097",
+        "text": ""
+      },
+      "id": "18e8128f1db51097",
+      "type": "add",
+      "after": "1221584f0db76387",
+      "date": 1416778972380
+    },
+    {
+      "type": "edit",
+      "id": "18e8128f1db51097",
+      "item": {
+        "type": "paragraph",
+        "id": "18e8128f1db51097",
+        "text": "See [[Virtual Microscopy]]"
+      },
+      "date": 1416778984234
+    },
+    {
       "type": "fork",
       "site": "forage.ward.fed.wiki.org",
-      "date": 1416774030999
+      "date": 1417452758675
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0548488eda17a9c5",
+        "text": ""
+      },
+      "id": "0548488eda17a9c5",
+      "type": "add",
+      "after": "914991c02df86d51",
+      "date": 1417452767588
+    },
+    {
+      "type": "edit",
+      "id": "0548488eda17a9c5",
+      "item": {
+        "type": "paragraph",
+        "id": "0548488eda17a9c5",
+        "text": "In education, the problem vs. difficulty ratio is expressed as a part of [[Cognitive Load Theory]]."
+      },
+      "date": 1417452811279
+    },
+    {
+      "type": "edit",
+      "id": "0548488eda17a9c5",
+      "item": {
+        "type": "paragraph",
+        "id": "0548488eda17a9c5",
+        "text": "In education, the problem vs. difficulty ratio is expressed as a part of [[Cognitive Load Theory]]. Bjork's work on \"desirable difficulties\" also seem relevant here. [http://bjorklab.psych.ucla.edu/research.html html]"
+      },
+      "date": 1417462247875
+    },
+    {
+      "type": "edit",
+      "id": "0548488eda17a9c5",
+      "item": {
+        "type": "paragraph",
+        "id": "0548488eda17a9c5",
+        "text": "In education, the problem vs. difficulty ratio is expressed as a part of [[Cognitive Load Theory]]. "
+      },
+      "date": 1417462256354
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f1cbdadb0186824",
+        "text": "Bjork's work on \"desirable difficulties\" also seem relevant here. [http://bjorklab.psych.ucla.edu/research.html html]"
+      },
+      "id": "4f1cbdadb0186824",
+      "type": "add",
+      "after": "0548488eda17a9c5",
+      "date": 1417462256379
+    },
+    {
+      "type": "edit",
+      "id": "4f1cbdadb0186824",
+      "item": {
+        "type": "paragraph",
+        "id": "4f1cbdadb0186824",
+        "text": "Bjork's work on \"desirable difficulties\" also seems relevant here. [http://bjorklab.psych.ucla.edu/research.html html]"
+      },
+      "date": 1417464911120
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1417513108360
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "title": "stance-viewer-sinatra",
+  "story": [
+    {
+      "type": "factory",
+      "id": "7c54306e588ee867"
+    },
+    {
+      "type": "paragraph",
+      "id": "65e399ed5608891c",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "stance-viewer-sinatra",
+        "story": []
+      },
+      "date": 1417534021302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c54306e588ee867"
+      },
+      "id": "7c54306e588ee867",
+      "type": "add",
+      "date": 1417534025517
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65e399ed5608891c",
+        "text": ""
+      },
+      "id": "65e399ed5608891c",
+      "type": "add",
+      "after": "7c54306e588ee867",
+      "date": 1417534111681
+    }
+  ]
+}

@@ -41,6 +41,16 @@
       "id": "b6ecc30640f0cd36"
     },
     {
+      "type": "paragraph",
+      "id": "8a2280375a88dfb5",
+      "text": "Having the whole thing work off static HTML + jQuery goes against our normal progressive enhancement approach, but as this will be an admin-only function on most sites, and this is still in exploration mode, I'm taking the short-cut for now. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b3afcd4cd5dfdc96",
+      "text": "Next: feeding the data from an existing Issue into the Editor. "
+    },
+    {
       "type": "pagefold",
       "id": "b3244c9842b20b46",
       "text": "Notes"
@@ -599,6 +609,48 @@
       ],
       "id": "b6ecc30640f0cd36",
       "date": 1417533548948
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a2280375a88dfb5",
+        "text": ""
+      },
+      "id": "8a2280375a88dfb5",
+      "type": "add",
+      "after": "b6ecc30640f0cd36",
+      "date": 1417533656024
+    },
+    {
+      "type": "edit",
+      "id": "8a2280375a88dfb5",
+      "item": {
+        "type": "paragraph",
+        "id": "8a2280375a88dfb5",
+        "text": "Having the whole thing work off static HTML + jQuery goes against our normal progressive enhancement approach, but as this will be an admin-only function on most sites, and this is still in exploration mode, I'm taking the short-cut for now. "
+      },
+      "date": 1417533774523
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3afcd4cd5dfdc96",
+        "text": ""
+      },
+      "id": "b3afcd4cd5dfdc96",
+      "type": "add",
+      "after": "8a2280375a88dfb5",
+      "date": 1417533774532
+    },
+    {
+      "type": "edit",
+      "id": "b3afcd4cd5dfdc96",
+      "item": {
+        "type": "paragraph",
+        "id": "b3afcd4cd5dfdc96",
+        "text": "Next: feeding the data from an existing Issue into the Editor. "
+      },
+      "date": 1417533810642
     }
   ]
 }

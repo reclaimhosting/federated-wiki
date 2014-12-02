@@ -43,23 +43,8 @@
     },
     {
       "type": "paragraph",
-      "id": "912e09cd877980ab",
-      "text": "☐ Move inflation to a Transformer"
-    },
-    {
-      "type": "paragraph",
       "id": "efc1147074ed3343",
       "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "2f352ae64483619d",
-      "text": "☐ Push Transformer into [[Stancer]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "46a0239828604d9d",
-      "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
     }
   ],
   "journal": [
@@ -610,6 +595,21 @@
         "text": " ☑ Inflate [[Morph.io]] data (separate script)"
       },
       "date": 1417445281236
+    },
+    {
+      "type": "remove",
+      "id": "912e09cd877980ab",
+      "date": 1417513398229
+    },
+    {
+      "type": "remove",
+      "id": "2f352ae64483619d",
+      "date": 1417513401202
+    },
+    {
+      "type": "remove",
+      "id": "46a0239828604d9d",
+      "date": 1417513405352
     }
   ]
 }

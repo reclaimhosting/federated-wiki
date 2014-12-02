@@ -1,0 +1,113 @@
+{
+  "title": "2014-12-02 Notes",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "b3244c9842b20b46",
+      "text": "Notes"
+    },
+    {
+      "type": "paragraph",
+      "id": "912e09cd877980ab",
+      "text": "☐ Check that new JSON matches old JSON"
+    },
+    {
+      "type": "paragraph",
+      "id": "97996410c607d4d0",
+      "text": "☐ Move inflation to a Transformer"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f352ae64483619d",
+      "text": "☐ Push Transformer into [[Stancer]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "46a0239828604d9d",
+      "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2014-12-02 Notes",
+        "story": []
+      },
+      "date": 1417513368986
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3244c9842b20b46"
+      },
+      "id": "b3244c9842b20b46",
+      "type": "add",
+      "date": 1417513380544
+    },
+    {
+      "type": "edit",
+      "id": "b3244c9842b20b46",
+      "item": {
+        "type": "pagefold",
+        "id": "b3244c9842b20b46",
+        "text": "Notes"
+      },
+      "date": 1417513393043
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "912e09cd877980ab",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "after": "b3244c9842b20b46",
+      "id": "912e09cd877980ab",
+      "date": 1417513398233
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ Push Transformer into [[Stancer]]"
+      },
+      "after": "912e09cd877980ab",
+      "id": "2f352ae64483619d",
+      "date": 1417513401206
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+      },
+      "after": "2f352ae64483619d",
+      "id": "46a0239828604d9d",
+      "date": 1417513405355
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97996410c607d4d0",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "id": "97996410c607d4d0",
+      "type": "add",
+      "after": "912e09cd877980ab",
+      "date": 1417513412392
+    },
+    {
+      "type": "edit",
+      "id": "912e09cd877980ab",
+      "item": {
+        "type": "paragraph",
+        "id": "912e09cd877980ab",
+        "text": "☐ Check that new JSON matches old JSON"
+      },
+      "date": 1417513434855
+    }
+  ]
+}

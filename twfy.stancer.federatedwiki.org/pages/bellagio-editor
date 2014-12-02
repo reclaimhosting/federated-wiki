@@ -1,0 +1,81 @@
+{
+  "title": "Bellagio Editor",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ef12f30bf898e8a9",
+      "text": "One of the outcomes from the [[Bellagio Hack Week]] was a nice Policy editor. This was originally written in Angular, and bundled with the whole [[voteit-api]] package, but to make it easier to drop into as many sites as possible, I've pulled it out to a standalone jQuery script."
+    },
+    {
+      "type": "paragraph",
+      "id": "ebaa426b2446401a",
+      "text": "There are two main ways we could use this:"
+    },
+    {
+      "type": "paragraph",
+      "id": "3da6df9faf588dcb",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Bellagio Editor",
+        "story": []
+      },
+      "date": 1417532895417
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef12f30bf898e8a9"
+      },
+      "id": "ef12f30bf898e8a9",
+      "type": "add",
+      "date": 1417532898564
+    },
+    {
+      "type": "edit",
+      "id": "ef12f30bf898e8a9",
+      "item": {
+        "type": "paragraph",
+        "id": "ef12f30bf898e8a9",
+        "text": "One of the outcomes from the [[Bellagio Hack Week]] was a nice Policy editor. This was originally written in Angular, and bundled with the whole [[voteit-api]] package, but to make it easier to drop into as many sites as possible, I've pulled it out to a standalone jQuery script."
+      },
+      "date": 1417532990149
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ebaa426b2446401a",
+        "text": ""
+      },
+      "id": "ebaa426b2446401a",
+      "type": "add",
+      "after": "ef12f30bf898e8a9",
+      "date": 1417532990159
+    },
+    {
+      "type": "edit",
+      "id": "ebaa426b2446401a",
+      "item": {
+        "type": "paragraph",
+        "id": "ebaa426b2446401a",
+        "text": "There are two main ways we could use this:"
+      },
+      "date": 1417533011647
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3da6df9faf588dcb",
+        "text": ""
+      },
+      "id": "3da6df9faf588dcb",
+      "type": "add",
+      "after": "ebaa426b2446401a",
+      "date": 1417533011653
+    }
+  ]
+}

@@ -24,6 +24,16 @@
     {
       "type": "paragraph",
       "id": "10be35c4e1e18325",
+      "text": "Currently we have the active Policy ids hardcoded as a PHP list (and thus need to make a code change every time we add a new Policy). As part of extending the information we display, Richard has also created a spreadsheet with extra information on each Policy. Currently the only place that's available is as a one-off CSV file I exported it to, and use in [[stance-viewer-sinatra]]. So I want to combine both of these, use the [[Bellagio Editor]] for editing them, and expose them over an API."
+    },
+    {
+      "type": "paragraph",
+      "id": "d408711a4acbabde",
+      "text": "(NB: This is a separate issue from using that as a replacement for the [[Public Whip Policy Editor]]. This could be used for creating/maintaining the meta-information around each Issue, even if the information on which Indicators make up each Issue are still created/maintained on [[Public Whip]])"
+    },
+    {
+      "type": "paragraph",
+      "id": "4113777673cd6ef2",
       "text": ""
     },
     {
@@ -443,6 +453,104 @@
       "type": "add",
       "after": "4fd968c51ef93bda",
       "date": 1417532294327
+    },
+    {
+      "type": "edit",
+      "id": "10be35c4e1e18325",
+      "item": {
+        "type": "paragraph",
+        "id": "10be35c4e1e18325",
+        "text": "Currently we have the active Policy ids hardcoded as a PHP list (and thus need to make a code change every time we add a new Policy). As part of extending the information we display, Richard has also created a spreadsheet with extra information on each Policy. Currently the only place that's available is as a one-off CSV file I exported it to, and use in [[stance-viewer-sinatra]]. So I want to combine both of these, use the [[Bellagio Editor]] for editing them, and expose them over an API."
+      },
+      "date": 1417532472055
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4113777673cd6ef2",
+        "text": ""
+      },
+      "id": "4113777673cd6ef2",
+      "type": "add",
+      "after": "10be35c4e1e18325",
+      "date": 1417532472063
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "579731a415646e9c",
+        "text": " as possible out of that project), but it should enable us to remove more other things quicker, and then we can work out the correct deployment approach for this part later."
+      },
+      "id": "579731a415646e9c",
+      "type": "add",
+      "after": "4113777673cd6ef2",
+      "date": 1417532637955
+    },
+    {
+      "type": "remove",
+      "id": "579731a415646e9c",
+      "date": 1417532640191
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d408711a4acbabde",
+        "text": ""
+      },
+      "id": "d408711a4acbabde",
+      "type": "add",
+      "after": "4113777673cd6ef2",
+      "date": 1417532643194
+    },
+    {
+      "type": "edit",
+      "id": "d408711a4acbabde",
+      "item": {
+        "type": "paragraph",
+        "id": "d408711a4acbabde",
+        "text": "(NB: This is a separate issue from using that as a replacement for the [[Public Whip Policy Editor]]. This could be used for creating/maintaining the meta-information around each Issue, even if the information on which Indicators make up each Issue are still created/maintained on [[Public Whip]])"
+      },
+      "date": 1417532750453
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2853ec8aff0f31cd",
+        "text": ""
+      },
+      "id": "2853ec8aff0f31cd",
+      "type": "add",
+      "after": "d408711a4acbabde",
+      "date": 1417532750460
+    },
+    {
+      "type": "move",
+      "order": [
+        "57217426a8a32e64",
+        "54c76cb407896c60",
+        "bf2fed3df1923471",
+        "4fd968c51ef93bda",
+        "10be35c4e1e18325",
+        "d408711a4acbabde",
+        "4113777673cd6ef2",
+        "2853ec8aff0f31cd",
+        "b3244c9842b20b46",
+        "912e09cd877980ab",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "46a0239828604d9d",
+        "52a6f5ee64f4ad61",
+        "3f1d992cd0f85a80",
+        "2805d41635bf6091",
+        "90d9fba2fd0e02d3"
+      ],
+      "id": "d408711a4acbabde",
+      "date": 1417532753238
+    },
+    {
+      "type": "remove",
+      "id": "2853ec8aff0f31cd",
+      "date": 1417532756928
     }
   ]
 }

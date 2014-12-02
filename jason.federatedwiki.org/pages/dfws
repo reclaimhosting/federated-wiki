@@ -1,0 +1,96 @@
+{
+  "title": "DFWs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7c73432965bad392",
+      "text": "Drops, Failures, and Withdrawals. A common (negative) metric for successful educational interventions. Educational interventions that reduce DFW rates significantly are generally seen as a success, since reducing DFWs will generally reduce the average \"time to degree\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "3af6941a8c72cc5c",
+      "text": "Sometimes DFWI (Drop, Failure, Withdrawal, Incomplete) is used instead."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "DFWs",
+        "story": []
+      },
+      "date": 1417465925719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c73432965bad392"
+      },
+      "id": "7c73432965bad392",
+      "type": "add",
+      "date": 1417465927074
+    },
+    {
+      "type": "edit",
+      "id": "7c73432965bad392",
+      "item": {
+        "type": "paragraph",
+        "id": "7c73432965bad392",
+        "text": "Drops, Failures, and Withdrawals. A common (negative) metric for successful educational interventions."
+      },
+      "date": 1417465970963
+    },
+    {
+      "type": "edit",
+      "id": "7c73432965bad392",
+      "item": {
+        "type": "paragraph",
+        "id": "7c73432965bad392",
+        "text": "Drops, Failures, and Withdrawals. A common (negative) metric for successful educational interventions. Educational interventions that reduce DFW rates significantly are generally seen as a success, since reducing DFWs will generally reduce the average \"time to degree\"."
+      },
+      "date": 1417466046602
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1417492632750
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3af6941a8c72cc5c",
+        "text": ""
+      },
+      "id": "3af6941a8c72cc5c",
+      "type": "add",
+      "after": "7c73432965bad392",
+      "date": 1417492640440
+    },
+    {
+      "type": "edit",
+      "id": "3af6941a8c72cc5c",
+      "item": {
+        "type": "paragraph",
+        "id": "3af6941a8c72cc5c",
+        "text": "Sometimes DFWI (Drop, Failure, Withdrawal, Incomplete) is used instead."
+      },
+      "date": 1417492687529
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4dc32893d88c8004",
+        "text": ""
+      },
+      "id": "4dc32893d88c8004",
+      "type": "add",
+      "after": "3af6941a8c72cc5c",
+      "date": 1417492687539
+    },
+    {
+      "type": "remove",
+      "id": "4dc32893d88c8004",
+      "date": 1417492710164
+    }
+  ]
+}

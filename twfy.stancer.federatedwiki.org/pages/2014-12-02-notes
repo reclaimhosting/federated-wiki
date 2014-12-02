@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "bf2fed3df1923471",
-      "text": ""
+      "text": "Comparing Stances for individual MPs is a little trickier, as I'm now generating these keyed against actual IDs for MPs, rather than the pseudo IDs I generated when I first scraped Public Whip myself. (Public Whip uses a combination of MP name and constituency as an ID in most cases, but I wanted the same person to always have the same ID, even if they changed constituency. I did this purely by name, and hand-munged the cases where there are more than one MP with the same name. This 'worked', but isn't good.) I'll probably need to write something at some stage to convert between these again, but for now I'm going to punt on it, and presume the data is the same for all the cases I haven't eyeballed, and correct later if necessary. It's obviously important that published stances are correct, but for development of the other parts of the system it doesn't matter that much if the source data is wrong."
     },
     {
       "type": "pagefold",
@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "912e09cd877980ab",
-      "text": "☐ Check that new JSON matches old JSON"
+      "text": "☑ Check that new JSON matches old JSON"
     },
     {
       "type": "paragraph",
@@ -327,6 +327,26 @@
       "type": "add",
       "after": "54c76cb407896c60",
       "date": 1417515362436
+    },
+    {
+      "type": "edit",
+      "id": "bf2fed3df1923471",
+      "item": {
+        "type": "paragraph",
+        "id": "bf2fed3df1923471",
+        "text": "Comparing Stances for individual MPs is a little trickier, as I'm now generating these keyed against actual IDs for MPs, rather than the pseudo IDs I generated when I first scraped Public Whip myself. (Public Whip uses a combination of MP name and constituency as an ID in most cases, but I wanted the same person to always have the same ID, even if they changed constituency. I did this purely by name, and hand-munged the cases where there are more than one MP with the same name. This 'worked', but isn't good.) I'll probably need to write something at some stage to convert between these again, but for now I'm going to punt on it, and presume the data is the same for all the cases I haven't eyeballed, and correct later if necessary. It's obviously important that published stances are correct, but for development of the other parts of the system it doesn't matter that much if the source data is wrong."
+      },
+      "date": 1417515745157
+    },
+    {
+      "type": "edit",
+      "id": "912e09cd877980ab",
+      "item": {
+        "type": "paragraph",
+        "id": "912e09cd877980ab",
+        "text": "☑ Check that new JSON matches old JSON"
+      },
+      "date": 1417515771893
     }
   ]
 }

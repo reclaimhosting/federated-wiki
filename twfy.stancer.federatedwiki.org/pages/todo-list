@@ -83,16 +83,6 @@
     },
     {
       "type": "paragraph",
-      "id": "8bf54ff05d386cc4",
-      "text": "☐ Merge Richard's spreadsheet with PublicWhip data in API"
-    },
-    {
-      "type": "paragraph",
-      "id": "ceaeffeb49b11b0e",
-      "text": "☐ Add combined data to Editor"
-    },
-    {
-      "type": "paragraph",
       "id": "838f639372ba7690",
       "text": "☐ Load existing Indicators to Editor"
     },
@@ -854,6 +844,16 @@
         "text": "☐ Tidy up all the show/hide code to not use explicit IDs"
       },
       "date": 1417613842772
+    },
+    {
+      "type": "remove",
+      "id": "8bf54ff05d386cc4",
+      "date": 1417615493714
+    },
+    {
+      "type": "remove",
+      "id": "ceaeffeb49b11b0e",
+      "date": 1417615498381
     }
   ]
 }

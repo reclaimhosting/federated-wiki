@@ -33,13 +33,18 @@
     },
     {
       "type": "paragraph",
-      "id": "dc3ceb6655affaf1",
-      "text": "☑ Add combined data to API"
+      "id": "8bf54ff05d386cc4",
+      "text": "☑ Merge Richard's spreadsheet with PublicWhip data in API"
     },
     {
       "type": "paragraph",
       "id": "d88910fda324824c",
       "text": "☑ Add tests for API"
+    },
+    {
+      "type": "paragraph",
+      "id": "ceaeffeb49b11b0e",
+      "text": "☑ Add combined data to Editor"
     },
     {
       "type": "pagefold",
@@ -520,6 +525,53 @@
         "text": "☑ Add tests for API"
       },
       "date": 1417614377404
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8bf54ff05d386cc4",
+        "text": "☐ Merge Richard's spreadsheet with PublicWhip data in API"
+      },
+      "after": "46a0239828604d9d",
+      "id": "8bf54ff05d386cc4",
+      "date": 1417615493717
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ceaeffeb49b11b0e",
+        "text": "☐ Add combined data to Editor"
+      },
+      "after": "d88910fda324824c",
+      "id": "ceaeffeb49b11b0e",
+      "date": 1417615498384
+    },
+    {
+      "type": "remove",
+      "id": "dc3ceb6655affaf1",
+      "date": 1417615507036
+    },
+    {
+      "type": "edit",
+      "id": "8bf54ff05d386cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "8bf54ff05d386cc4",
+        "text": "☑ Merge Richard's spreadsheet with PublicWhip data in API"
+      },
+      "date": 1417615511166
+    },
+    {
+      "type": "edit",
+      "id": "ceaeffeb49b11b0e",
+      "item": {
+        "type": "paragraph",
+        "id": "ceaeffeb49b11b0e",
+        "text": "☑ Add combined data to Editor"
+      },
+      "date": 1417615513927
     }
   ]
 }

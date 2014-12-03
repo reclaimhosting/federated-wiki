@@ -2,8 +2,49 @@
   "title": "seeing red",
   "story": [
     {
-      "type": "factory",
-      "id": "8fbd9f7f1e0646c6"
+      "type": "paragraph",
+      "id": "22b9da0f620d00a0",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "301e5f47e64f6926",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "8fbd9f7f1e0646c6",
+      "text": "[[comunism]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e8d0b2e1e2ec08f2",
+      "text": "[[comunist]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4b10dd1229035de4",
+      "text": "[[anarchism]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "79707f31658dec08",
+      "text": "[[witch-hunting]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "08c1647d557287d5",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "f526d9cfca967950",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "0facb4e517965daf",
+      "text": ""
     }
   ],
   "journal": [
@@ -23,6 +64,410 @@
       "id": "8fbd9f7f1e0646c6",
       "type": "add",
       "date": 1417639505466
+    },
+    {
+      "type": "edit",
+      "id": "8fbd9f7f1e0646c6",
+      "item": {
+        "type": "paragraph",
+        "id": "8fbd9f7f1e0646c6",
+        "text": " "
+      },
+      "date": 1417639612361
+    },
+    {
+      "type": "remove",
+      "id": "08cecddbd0330cc0",
+      "date": 1417639612365
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "549c0653c5839ea9",
+        "text": ""
+      },
+      "id": "549c0653c5839ea9",
+      "type": "add",
+      "after": "8fbd9f7f1e0646c6",
+      "date": 1417639612371
+    },
+    {
+      "type": "edit",
+      "id": "549c0653c5839ea9",
+      "item": {
+        "type": "paragraph",
+        "id": "549c0653c5839ea9",
+        "text": " "
+      },
+      "date": 1417639612539
+    },
+    {
+      "type": "remove",
+      "id": "0facb4e517965daf",
+      "date": 1417639612543
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0facb4e517965daf",
+        "text": ""
+      },
+      "id": "0facb4e517965daf",
+      "type": "add",
+      "after": "549c0653c5839ea9",
+      "date": 1417639612547
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b81b322b1ab2a01d",
+        "text": ""
+      },
+      "id": "b81b322b1ab2a01d",
+      "type": "add",
+      "after": "549c0653c5839ea9",
+      "date": 1417639612547
+    },
+    {
+      "type": "edit",
+      "id": "b81b322b1ab2a01d",
+      "item": {
+        "type": "paragraph",
+        "id": "b81b322b1ab2a01d",
+        "text": " "
+      },
+      "date": 1417639612732
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f526d9cfca967950",
+        "text": ""
+      },
+      "id": "f526d9cfca967950",
+      "type": "add",
+      "after": "b81b322b1ab2a01d",
+      "date": 1417639612740
+    },
+    {
+      "type": "remove",
+      "id": "301e5f47e64f6926",
+      "date": 1417639612920
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "301e5f47e64f6926",
+        "text": ""
+      },
+      "id": "301e5f47e64f6926",
+      "type": "add",
+      "after": "b3f0ebb01d7eecb7",
+      "date": 1417639612924
+    },
+    {
+      "type": "remove",
+      "id": "e2ad1c8e0465cf9c",
+      "date": 1417639613132
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "88268bad861a1fb7",
+        "text": ""
+      },
+      "id": "88268bad861a1fb7",
+      "type": "add",
+      "after": "3dfd83e88e7cacff",
+      "date": 1417639613136
+    },
+    {
+      "type": "remove",
+      "id": "554e5d0121208686",
+      "date": 1417639613315
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "86e35a891980fe96",
+        "text": ""
+      },
+      "id": "86e35a891980fe96",
+      "type": "add",
+      "after": "88268bad861a1fb7",
+      "date": 1417639613319
+    },
+    {
+      "type": "remove",
+      "id": "cca8c34cfee6364e",
+      "date": 1417639613477
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2de753335bda9c75",
+        "text": ""
+      },
+      "id": "2de753335bda9c75",
+      "type": "add",
+      "after": "86e35a891980fe96",
+      "date": 1417639613485
+    },
+    {
+      "type": "remove",
+      "id": "2af430777e80e93a",
+      "date": 1417639613701
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97e9e871e452338b",
+        "text": ""
+      },
+      "id": "97e9e871e452338b",
+      "type": "add",
+      "after": "2de753335bda9c75",
+      "date": 1417639613705
+    },
+    {
+      "type": "remove",
+      "id": "bf276d500d8c2acb",
+      "date": 1417639613895
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22b9da0f620d00a0",
+        "text": ""
+      },
+      "id": "22b9da0f620d00a0",
+      "type": "add",
+      "after": "97e9e871e452338b",
+      "date": 1417639613899
+    },
+    {
+      "type": "remove",
+      "id": "e3f1e009d50a9112",
+      "date": 1417639614080
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "28fb53f568d0402d",
+        "text": ""
+      },
+      "id": "28fb53f568d0402d",
+      "type": "add",
+      "after": "22b9da0f620d00a0",
+      "date": 1417639614084
+    },
+    {
+      "type": "remove",
+      "id": "253f1d8472256cfd",
+      "date": 1417639614235
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d3026d23e7cb3c34",
+        "text": ""
+      },
+      "id": "d3026d23e7cb3c34",
+      "type": "add",
+      "after": "28fb53f568d0402d",
+      "date": 1417639614239
+    },
+    {
+      "type": "remove",
+      "id": "d3026d23e7cb3c34",
+      "date": 1417639615563
+    },
+    {
+      "type": "remove",
+      "id": "28fb53f568d0402d",
+      "date": 1417639616348
+    },
+    {
+      "type": "remove",
+      "id": "97e9e871e452338b",
+      "date": 1417639616440
+    },
+    {
+      "type": "remove",
+      "id": "2de753335bda9c75",
+      "date": 1417639616488
+    },
+    {
+      "type": "remove",
+      "id": "86e35a891980fe96",
+      "date": 1417639616536
+    },
+    {
+      "type": "remove",
+      "id": "88268bad861a1fb7",
+      "date": 1417639616584
+    },
+    {
+      "type": "remove",
+      "id": "3dfd83e88e7cacff",
+      "date": 1417639616632
+    },
+    {
+      "type": "remove",
+      "id": "b3f0ebb01d7eecb7",
+      "date": 1417639617325
+    },
+    {
+      "type": "remove",
+      "id": "b81b322b1ab2a01d",
+      "date": 1417639617371
+    },
+    {
+      "type": "remove",
+      "id": "549c0653c5839ea9",
+      "date": 1417639617423
+    },
+    {
+      "type": "remove",
+      "id": "08c1647d557287d5",
+      "date": 1417639620439
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "08c1647d557287d5",
+        "text": ""
+      },
+      "id": "08c1647d557287d5",
+      "type": "add",
+      "after": "8fbd9f7f1e0646c6",
+      "date": 1417639620443
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f0603bf2326d06b7",
+        "text": ""
+      },
+      "id": "f0603bf2326d06b7",
+      "type": "add",
+      "after": "e862a989e144e47d",
+      "date": 1417639621569
+    },
+    {
+      "type": "remove",
+      "id": "f0603bf2326d06b7",
+      "date": 1417639623024
+    },
+    {
+      "type": "remove",
+      "id": "e862a989e144e47d",
+      "date": 1417639623490
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f8714239a0a58ad0",
+        "text": ""
+      },
+      "id": "f8714239a0a58ad0",
+      "type": "add",
+      "after": "8fbd9f7f1e0646c6",
+      "date": 1417639665500
+    },
+    {
+      "type": "remove",
+      "id": "f8714239a0a58ad0",
+      "date": 1417639702354
+    },
+    {
+      "type": "edit",
+      "id": "8fbd9f7f1e0646c6",
+      "item": {
+        "type": "paragraph",
+        "id": "8fbd9f7f1e0646c6",
+        "text": "[[comunism]]"
+      },
+      "date": 1417639771364
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4b10dd1229035de4",
+        "text": ""
+      },
+      "id": "4b10dd1229035de4",
+      "type": "add",
+      "after": "8fbd9f7f1e0646c6",
+      "date": 1417639771368
+    },
+    {
+      "type": "edit",
+      "id": "4b10dd1229035de4",
+      "item": {
+        "type": "paragraph",
+        "id": "4b10dd1229035de4",
+        "text": "[[anarchism]]"
+      },
+      "date": 1417639782714
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79707f31658dec08",
+        "text": ""
+      },
+      "id": "79707f31658dec08",
+      "type": "add",
+      "after": "4b10dd1229035de4",
+      "date": 1417639869446
+    },
+    {
+      "type": "edit",
+      "id": "79707f31658dec08",
+      "item": {
+        "type": "paragraph",
+        "id": "79707f31658dec08",
+        "text": "[[witch-hunting]]"
+      },
+      "date": 1417639894520
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1fdb2a5c928dd082",
+        "text": ""
+      },
+      "id": "1fdb2a5c928dd082",
+      "type": "add",
+      "after": "79707f31658dec08",
+      "date": 1417639894524
+    },
+    {
+      "type": "remove",
+      "id": "1fdb2a5c928dd082",
+      "date": 1417639898046
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e8d0b2e1e2ec08f2",
+        "text": ""
+      },
+      "id": "e8d0b2e1e2ec08f2",
+      "type": "add",
+      "after": "8fbd9f7f1e0646c6",
+      "date": 1417639923453
+    },
+    {
+      "type": "edit",
+      "id": "e8d0b2e1e2ec08f2",
+      "item": {
+        "type": "paragraph",
+        "id": "e8d0b2e1e2ec08f2",
+        "text": "[[comunist]]"
+      },
+      "date": 1417639937204
     }
   ]
 }

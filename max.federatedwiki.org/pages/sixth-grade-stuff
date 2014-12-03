@@ -1,0 +1,173 @@
+{
+  "title": "sixth grade stuff",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "text": "[[math]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d696cb9f1649254e",
+      "text": "[[grammer]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b931335661e245c7",
+      "text": "[[composition]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "236cb595c949a93e",
+      "text": "[[usage]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f5342f3a12fac68",
+      "text": "[[mechanics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1af4a6139ca7a45b",
+      "text": "[[vocabulary]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1d19c5a8834b4508",
+      "text": "[[history]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "244ee7cf1bdd2097",
+      "text": "[[music]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "sixth grade stuff",
+        "story": []
+      },
+      "date": 1417640108177
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "927e1a7af7ae076a"
+      },
+      "id": "927e1a7af7ae076a",
+      "type": "add",
+      "date": 1417640122203
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee32aca00a3afb8a"
+      },
+      "id": "ee32aca00a3afb8a",
+      "type": "add",
+      "after": "927e1a7af7ae076a",
+      "date": 1417640123745
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[math]]"
+      },
+      "id": "63ad2e58eecdd9e5",
+      "date": 1417640131789
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b931335661e245c7",
+        "text": "[[composition]]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "b931335661e245c7",
+      "date": 1417640135259
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d696cb9f1649254e",
+        "text": "[[grammer]]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "d696cb9f1649254e",
+      "date": 1417640141305
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "236cb595c949a93e",
+        "text": "[[usage]]"
+      },
+      "after": "b931335661e245c7",
+      "id": "236cb595c949a93e",
+      "date": 1417640144355
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5f5342f3a12fac68",
+        "text": "[[mechanics]]"
+      },
+      "after": "236cb595c949a93e",
+      "id": "5f5342f3a12fac68",
+      "date": 1417640146861
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1af4a6139ca7a45b",
+        "text": "[[vocabulary]]"
+      },
+      "after": "5f5342f3a12fac68",
+      "id": "1af4a6139ca7a45b",
+      "date": 1417640150370
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1d19c5a8834b4508",
+        "text": "[[history]]"
+      },
+      "after": "1af4a6139ca7a45b",
+      "id": "1d19c5a8834b4508",
+      "date": 1417640154235
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "244ee7cf1bdd2097",
+        "text": "[[music]]"
+      },
+      "after": "1d19c5a8834b4508",
+      "id": "244ee7cf1bdd2097",
+      "date": 1417640157618
+    },
+    {
+      "type": "remove",
+      "id": "ee32aca00a3afb8a",
+      "date": 1417640164633
+    },
+    {
+      "type": "remove",
+      "id": "927e1a7af7ae076a",
+      "date": 1417640170273
+    }
+  ]
+}

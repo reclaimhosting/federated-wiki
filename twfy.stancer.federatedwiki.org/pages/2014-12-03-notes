@@ -1,0 +1,107 @@
+{
+  "title": "2014-12-03 Notes",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "d7a1e9e117d5c1f6",
+      "text": "Notes"
+    },
+    {
+      "type": "paragraph",
+      "id": "46a0239828604d9d",
+      "text": "☐ Editor for existing Issues"
+    },
+    {
+      "type": "paragraph",
+      "id": "97996410c607d4d0",
+      "text": "☐ Move inflation to a Transformer"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f352ae64483619d",
+      "text": "☐ Push Transformer into [[Stancer]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2014-12-03 Notes",
+        "story": []
+      },
+      "date": 1417604294655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7a1e9e117d5c1f6"
+      },
+      "id": "d7a1e9e117d5c1f6",
+      "type": "add",
+      "date": 1417604296794
+    },
+    {
+      "type": "edit",
+      "id": "d7a1e9e117d5c1f6",
+      "item": {
+        "type": "pagefold",
+        "id": "d7a1e9e117d5c1f6",
+        "text": "Notes"
+      },
+      "date": 1417604301085
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "97996410c607d4d0",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "after": "d7a1e9e117d5c1f6",
+      "id": "97996410c607d4d0",
+      "date": 1417604306434
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ Push Transformer into [[Stancer]]"
+      },
+      "after": "97996410c607d4d0",
+      "id": "2f352ae64483619d",
+      "date": 1417604310716
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+      },
+      "after": "d7a1e9e117d5c1f6",
+      "id": "46a0239828604d9d",
+      "date": 1417604314206
+    },
+    {
+      "type": "edit",
+      "id": "46a0239828604d9d",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Issue Storage Editor"
+      },
+      "date": 1417604365737
+    },
+    {
+      "type": "edit",
+      "id": "46a0239828604d9d",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Editor for existing Issues"
+      },
+      "date": 1417604394668
+    }
+  ]
+}

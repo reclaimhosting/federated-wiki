@@ -37,10 +37,6 @@
       "text": "I looked briefly at doing this as a new lightweight python-eve project on Heroku, but for simplicity I decided to just cram it into the existing [[stance-viewer-sinatra]]. This is the opposite direction to where I want to be going (which is to move as much processing as possible out of that project), but it should enable us to remove other things more quickly, and then we can work out the correct deployment approach for this part later."
     },
     {
-      "type": "factory",
-      "id": "b6ecc30640f0cd36"
-    },
-    {
       "type": "paragraph",
       "id": "8a2280375a88dfb5",
       "text": "Having the whole thing work off static HTML + jQuery goes against our normal progressive enhancement approach, but as this will be an admin-only function on most sites, and this is still in exploration mode, I'm taking the short-cut for now. "
@@ -53,7 +49,7 @@
     {
       "type": "pagefold",
       "id": "b3244c9842b20b46",
-      "text": "Notes"
+      "text": "Done"
     },
     {
       "type": "paragraph",
@@ -62,18 +58,13 @@
     },
     {
       "type": "paragraph",
-      "id": "97996410c607d4d0",
-      "text": "☐ Move inflation to a Transformer"
+      "id": "4a54feaf64083e07",
+      "text": "☑ Issue Storage API"
     },
     {
       "type": "paragraph",
-      "id": "2f352ae64483619d",
-      "text": "☐ Push Transformer into [[Stancer]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "46a0239828604d9d",
-      "text": "☐ Issue Storage (rather than fetching raw from GitHub as data)"
+      "id": "5408a1b3c8deee66",
+      "text": "☑ Issue Editor displays existing Issues"
     },
     {
       "type": "pagefold",
@@ -651,6 +642,78 @@
         "text": "Next: feeding the data from an existing Issue into the Editor. "
       },
       "date": 1417533810642
+    },
+    {
+      "type": "remove",
+      "id": "b6ecc30640f0cd36",
+      "date": 1417604274432
+    },
+    {
+      "type": "remove",
+      "id": "97996410c607d4d0",
+      "date": 1417604306430
+    },
+    {
+      "type": "remove",
+      "id": "2f352ae64483619d",
+      "date": 1417604310711
+    },
+    {
+      "type": "remove",
+      "id": "46a0239828604d9d",
+      "date": 1417604314203
+    },
+    {
+      "type": "edit",
+      "id": "b3244c9842b20b46",
+      "item": {
+        "type": "pagefold",
+        "id": "b3244c9842b20b46",
+        "text": "Done"
+      },
+      "date": 1417604336294
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a54feaf64083e07",
+        "text": ""
+      },
+      "id": "4a54feaf64083e07",
+      "type": "add",
+      "after": "912e09cd877980ab",
+      "date": 1417604340705
+    },
+    {
+      "type": "edit",
+      "id": "4a54feaf64083e07",
+      "item": {
+        "type": "paragraph",
+        "id": "4a54feaf64083e07",
+        "text": "☑ Issue Storage API"
+      },
+      "date": 1417604351510
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5408a1b3c8deee66",
+        "text": ""
+      },
+      "id": "5408a1b3c8deee66",
+      "type": "add",
+      "after": "4a54feaf64083e07",
+      "date": 1417604370513
+    },
+    {
+      "type": "edit",
+      "id": "5408a1b3c8deee66",
+      "item": {
+        "type": "paragraph",
+        "id": "5408a1b3c8deee66",
+        "text": "☑ Issue Editor displays existing Issues"
+      },
+      "date": 1417604383873
     }
   ]
 }

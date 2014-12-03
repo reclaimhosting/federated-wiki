@@ -32,6 +32,16 @@
       "text": "☑ Editor for existing Issue metadata (PW data only for now)"
     },
     {
+      "type": "paragraph",
+      "id": "dc3ceb6655affaf1",
+      "text": "☑ Add combined data to API"
+    },
+    {
+      "type": "paragraph",
+      "id": "d88910fda324824c",
+      "text": "☑ Add tests for API"
+    },
+    {
       "type": "pagefold",
       "id": "7e03b2066ffc2424",
       "text": "Scratch"
@@ -468,6 +478,48 @@
         "text": "This required tidying up how the CSV reading currently works, hand-editing my dump of the spreadsheet to have meaningful column names in the title row, so we can refer to them by name, rather than position number, merging these in the API call, and creating some tests for the API (which I should really have done yesterday)."
       },
       "date": 1417613656128
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dc3ceb6655affaf1",
+        "text": ""
+      },
+      "id": "dc3ceb6655affaf1",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417614353302
+    },
+    {
+      "type": "edit",
+      "id": "dc3ceb6655affaf1",
+      "item": {
+        "type": "paragraph",
+        "id": "dc3ceb6655affaf1",
+        "text": "☑ Add combined data to API"
+      },
+      "date": 1417614360212
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d88910fda324824c",
+        "text": ""
+      },
+      "id": "d88910fda324824c",
+      "type": "add",
+      "after": "dc3ceb6655affaf1",
+      "date": 1417614366921
+    },
+    {
+      "type": "edit",
+      "id": "d88910fda324824c",
+      "item": {
+        "type": "paragraph",
+        "id": "d88910fda324824c",
+        "text": "☑ Add tests for API"
+      },
+      "date": 1417614377404
     }
   ]
 }

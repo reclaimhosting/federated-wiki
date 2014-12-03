@@ -10,6 +10,31 @@
       "type": "paragraph",
       "id": "46a0239828604d9d",
       "text": "☑ Editor for existing Issue metadata (PW data only for now)"
+    },
+    {
+      "type": "pagefold",
+      "id": "7e03b2066ffc2424",
+      "text": "Scratch"
+    },
+    {
+      "type": "paragraph",
+      "id": "8fd81a247394130c",
+      "text": "As I always forget how to run an individual rake test:"
+    },
+    {
+      "type": "code",
+      "id": "13237e4a6a994ccf",
+      "text": "rake test TEST=t/api.rb"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f50da37ea2f8084",
+      "text": "Asserting that something is greater than a given value:"
+    },
+    {
+      "type": "code",
+      "id": "e0c902c827bbbab6",
+      "text": "array.size.must_be :>, 60"
     }
   ],
   "journal": [
@@ -158,6 +183,153 @@
         "text": "☑ Editor for existing Issue metadata (PW data only for now)"
       },
       "date": 1417610246294
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e03b2066ffc2424"
+      },
+      "id": "7e03b2066ffc2424",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417611288571
+    },
+    {
+      "type": "edit",
+      "id": "7e03b2066ffc2424",
+      "item": {
+        "type": "pagefold",
+        "id": "7e03b2066ffc2424",
+        "text": "Scratch"
+      },
+      "date": 1417611295722
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8fd81a247394130c"
+      },
+      "id": "8fd81a247394130c",
+      "type": "add",
+      "after": "7e03b2066ffc2424",
+      "date": 1417611297960
+    },
+    {
+      "type": "edit",
+      "id": "8fd81a247394130c",
+      "item": {
+        "type": "paragraph",
+        "id": "8fd81a247394130c",
+        "text": "As I always forget how to run an individual rake test:"
+      },
+      "date": 1417611308633
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ef8a9269a502df6",
+        "text": ""
+      },
+      "id": "5ef8a9269a502df6",
+      "type": "add",
+      "after": "8fd81a247394130c",
+      "date": 1417611308642
+    },
+    {
+      "type": "remove",
+      "id": "5ef8a9269a502df6",
+      "date": 1417611309122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13237e4a6a994ccf"
+      },
+      "id": "13237e4a6a994ccf",
+      "type": "add",
+      "after": "8fd81a247394130c",
+      "date": 1417611314135
+    },
+    {
+      "type": "edit",
+      "id": "13237e4a6a994ccf",
+      "item": {
+        "type": "code",
+        "id": "13237e4a6a994ccf",
+        "text": "rake test TEST=t/api.rb"
+      },
+      "date": 1417611317969
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f50da37ea2f8084"
+      },
+      "id": "7f50da37ea2f8084",
+      "type": "add",
+      "after": "13237e4a6a994ccf",
+      "date": 1417611526168
+    },
+    {
+      "type": "edit",
+      "id": "7f50da37ea2f8084",
+      "item": {
+        "type": "paragraph",
+        "id": "7f50da37ea2f8084",
+        "text": "Asserting that something is greater than a given value:"
+      },
+      "date": 1417611535370
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d87e11a44dbfd16e",
+        "text": ""
+      },
+      "id": "d87e11a44dbfd16e",
+      "type": "add",
+      "after": "7f50da37ea2f8084",
+      "date": 1417611535379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bb9d4baaa49b462"
+      },
+      "id": "9bb9d4baaa49b462",
+      "type": "add",
+      "after": "d87e11a44dbfd16e",
+      "date": 1417611536774
+    },
+    {
+      "type": "remove",
+      "id": "d87e11a44dbfd16e",
+      "date": 1417611538197
+    },
+    {
+      "type": "remove",
+      "id": "9bb9d4baaa49b462",
+      "date": 1417611541383
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0c902c827bbbab6"
+      },
+      "id": "e0c902c827bbbab6",
+      "type": "add",
+      "after": "7f50da37ea2f8084",
+      "date": 1417611554794
+    },
+    {
+      "type": "edit",
+      "id": "e0c902c827bbbab6",
+      "item": {
+        "type": "code",
+        "id": "e0c902c827bbbab6",
+        "text": "array.size.must_be :>, 60"
+      },
+      "date": 1417611563837
     }
   ]
 }

@@ -44,7 +44,12 @@
     {
       "type": "paragraph",
       "id": "650c008f8b605961",
-      "text": ""
+      "text": "Generating it was fairly simple, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0eb4a152478c09fb",
+      "text": "The harder part was testing to make sure that the data was correct. Since I originally generated the first version, many months ago, new Policies have been created, more motions have been added to existing Policies, and, more trickily, some motions appear to have been removed from existing Policies and replaced by slightly different ones. (Or I did something wrong in my initial, pre-Morph scraping.) To make sure everything was fine, I hand-checked some of the additions, and all of the removals, and the new data correctly matches what's currently on PublicWhip."
     },
     {
       "type": "pagefold",
@@ -861,6 +866,53 @@
       "type": "add",
       "after": "080614a438162161",
       "date": 1417625309796
+    },
+    {
+      "type": "edit",
+      "id": "650c008f8b605961",
+      "item": {
+        "type": "paragraph",
+        "id": "650c008f8b605961",
+        "text": "Generating it was fairly simple. The hard part was testing to make sure that the data was correct. Since I originally generated the first version, many months ago, new Policies have been created, more motions have been added to existing Policies, and, more trickily, some motions appear to have been removed from existing Policies and replaced by slightly different ones. (Or I did something wrong in my initial, pre-Morph scraping.) To make sure everything was fine, I hand-checked some of the additions, and all of the removals, and the new data correctly matches what's currently on PublicWhip."
+      },
+      "date": 1417625448342
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a2655b34cbff60a",
+        "text": ""
+      },
+      "id": "8a2655b34cbff60a",
+      "type": "add",
+      "after": "650c008f8b605961",
+      "date": 1417625520260
+    },
+    {
+      "type": "remove",
+      "id": "8a2655b34cbff60a",
+      "date": 1417625553102
+    },
+    {
+      "type": "edit",
+      "id": "650c008f8b605961",
+      "item": {
+        "type": "paragraph",
+        "id": "650c008f8b605961",
+        "text": "Generating it was fairly simple, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable. "
+      },
+      "date": 1417625730879
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0eb4a152478c09fb",
+        "text": "The harder part was testing to make sure that the data was correct. Since I originally generated the first version, many months ago, new Policies have been created, more motions have been added to existing Policies, and, more trickily, some motions appear to have been removed from existing Policies and replaced by slightly different ones. (Or I did something wrong in my initial, pre-Morph scraping.) To make sure everything was fine, I hand-checked some of the additions, and all of the removals, and the new data correctly matches what's currently on PublicWhip."
+      },
+      "id": "0eb4a152478c09fb",
+      "type": "add",
+      "after": "650c008f8b605961",
+      "date": 1417625730902
     }
   ]
 }

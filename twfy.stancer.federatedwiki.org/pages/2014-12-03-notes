@@ -22,6 +22,11 @@
       "text": "This required tidying up how the CSV reading currently works, hand-editing my dump of the spreadsheet to have meaningful column names in the title row, so we can refer to them by name, rather than position number, merging these in the API call, and creating some tests for the API (which I should really have done yesterday)."
     },
     {
+      "type": "paragraph",
+      "id": "a7164d4e768c5a60",
+      "text": ""
+    },
+    {
       "type": "pagefold",
       "id": "d7a1e9e117d5c1f6",
       "text": "Done"
@@ -572,6 +577,17 @@
         "text": "☑ Add combined data to Editor"
       },
       "date": 1417615513927
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7164d4e768c5a60",
+        "text": ""
+      },
+      "id": "a7164d4e768c5a60",
+      "type": "add",
+      "after": "b90b3b0c74cafad7",
+      "date": 1417618607585
     }
   ]
 }

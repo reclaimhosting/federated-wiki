@@ -29,7 +29,7 @@
     {
       "type": "paragraph",
       "id": "a7164d4e768c5a60",
-      "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that both approaches could do the same thing. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
+      "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that we could just call it from either approach. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
     },
     {
       "type": "pagefold",
@@ -44,7 +44,7 @@
     {
       "type": "paragraph",
       "id": "650c008f8b605961",
-      "text": "Generating it was fairly simple, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable. "
+      "text": "Generating it was fairly straightforward, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable: [https://github.com/tmtmtmtm/stancer-twfy/blob/8d05b120468abfd29fb3d52d9be9618b5c7d2a24/bin/make_issues_json.rb code]"
     },
     {
       "type": "paragraph",
@@ -913,6 +913,36 @@
       "type": "add",
       "after": "650c008f8b605961",
       "date": 1417625730902
+    },
+    {
+      "type": "edit",
+      "id": "650c008f8b605961",
+      "item": {
+        "type": "paragraph",
+        "id": "650c008f8b605961",
+        "text": "Generating it was fairly straightforward, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable. "
+      },
+      "date": 1417626973981
+    },
+    {
+      "type": "edit",
+      "id": "650c008f8b605961",
+      "item": {
+        "type": "paragraph",
+        "id": "650c008f8b605961",
+        "text": "Generating it was fairly straightforward, other than having to make sure I was correctly converting the odd PublicWhip minority/majority approach to Stancer's more straightforward yes/no approach. For now I've done this simply as a simple lookup table that exhausts all options, to optimise for it being readable: [https://github.com/tmtmtmtm/stancer-twfy/blob/8d05b120468abfd29fb3d52d9be9618b5c7d2a24/bin/make_issues_json.rb code]"
+      },
+      "date": 1417627077256
+    },
+    {
+      "type": "edit",
+      "id": "a7164d4e768c5a60",
+      "item": {
+        "type": "paragraph",
+        "id": "a7164d4e768c5a60",
+        "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that we could just call it from either approach. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
+      },
+      "date": 1417627197074
     }
   ]
 }

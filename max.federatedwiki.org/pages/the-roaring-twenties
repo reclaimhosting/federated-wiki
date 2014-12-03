@@ -1,6 +1,11 @@
 {
   "title": "The Roaring Twenties",
-  "story": [],
+  "story": [
+    {
+      "type": "factory",
+      "id": "44026a4b228c8992"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +14,15 @@
         "story": []
       },
       "date": 1417641783844
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44026a4b228c8992"
+      },
+      "id": "44026a4b228c8992",
+      "type": "add",
+      "date": 1417644570706
     }
   ]
 }

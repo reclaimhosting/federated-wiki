@@ -4,22 +4,7 @@
     {
       "type": "pagefold",
       "id": "d7a1e9e117d5c1f6",
-      "text": "Notes"
-    },
-    {
-      "type": "paragraph",
-      "id": "46a0239828604d9d",
-      "text": "☐ Editor for existing Issues"
-    },
-    {
-      "type": "paragraph",
-      "id": "97996410c607d4d0",
-      "text": "☐ Move inflation to a Transformer"
-    },
-    {
-      "type": "paragraph",
-      "id": "2f352ae64483619d",
-      "text": "☐ Push Transformer into [[Stancer]]"
+      "text": "Done"
     }
   ],
   "journal": [
@@ -102,6 +87,31 @@
         "text": "☐ Editor for existing Issues"
       },
       "date": 1417604394668
+    },
+    {
+      "type": "remove",
+      "id": "46a0239828604d9d",
+      "date": 1417604459760
+    },
+    {
+      "type": "remove",
+      "id": "97996410c607d4d0",
+      "date": 1417604461882
+    },
+    {
+      "type": "remove",
+      "id": "2f352ae64483619d",
+      "date": 1417604463820
+    },
+    {
+      "type": "edit",
+      "id": "d7a1e9e117d5c1f6",
+      "item": {
+        "type": "pagefold",
+        "id": "d7a1e9e117d5c1f6",
+        "text": "Done"
+      },
+      "date": 1417604735110
     }
   ]
 }

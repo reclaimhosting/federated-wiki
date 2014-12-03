@@ -1,0 +1,532 @@
+{
+  "title": "TODO List",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "ecba0e48019ed637",
+      "text": "stancer-twfy"
+    },
+    {
+      "type": "paragraph",
+      "id": "97996410c607d4d0",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "1c6771abf86b6d25",
+      "text": "☐ Move inflation to a Transformer"
+    },
+    {
+      "type": "paragraph",
+      "id": "7aabecf4c6e4496f",
+      "text": "☐ Pull Party info from PopIt"
+    },
+    {
+      "type": "paragraph",
+      "id": "fbb01ad98b89620c",
+      "text": "☐ Better output format"
+    },
+    {
+      "type": "paragraph",
+      "id": "2194640c3b71c861",
+      "text": "☐ Include @aye/@nay lines"
+    },
+    {
+      "type": "paragraph",
+      "id": "c82a66187910640c",
+      "text": "☐ Copy [[TheyVoteForYou]]'s \"passed by a small majority\" etc."
+    },
+    {
+      "type": "paragraph",
+      "id": "d6a51d05bbde9b38",
+      "text": "☐ Note rebellions"
+    },
+    {
+      "type": "paragraph",
+      "id": "bfd36d996ffa1aab",
+      "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number"
+    },
+    {
+      "type": "pagefold",
+      "id": "f0a52d5d1add8d07",
+      "text": "Stancer"
+    },
+    {
+      "type": "paragraph",
+      "id": "2f352ae64483619d",
+      "text": "☐ Configurable Transformers"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae9ebfc78080b390",
+      "text": "☐ Configurable output format"
+    },
+    {
+      "type": "pagefold",
+      "id": "3f76baa1dbae66a7",
+      "text": "Policy Editor"
+    },
+    {
+      "type": "paragraph",
+      "id": "46a0239828604d9d",
+      "text": "☐ Editor for existing Issues"
+    },
+    {
+      "type": "paragraph",
+      "id": "417509f0b1cef774",
+      "text": "☐ Write API"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "TODO List",
+        "story": []
+      },
+      "date": 1417604444973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0a52d5d1add8d07"
+      },
+      "id": "f0a52d5d1add8d07",
+      "type": "add",
+      "date": 1417604456576
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Editor for existing Issues"
+      },
+      "id": "46a0239828604d9d",
+      "date": 1417604459762
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "97996410c607d4d0",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "after": "46a0239828604d9d",
+      "id": "97996410c607d4d0",
+      "date": 1417604461886
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ Push Transformer into [[Stancer]]"
+      },
+      "after": "97996410c607d4d0",
+      "id": "2f352ae64483619d",
+      "date": 1417604463822
+    },
+    {
+      "type": "move",
+      "order": [
+        "46a0239828604d9d",
+        "f0a52d5d1add8d07",
+        "97996410c607d4d0",
+        "2f352ae64483619d"
+      ],
+      "id": "f0a52d5d1add8d07",
+      "date": 1417604479156
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0a52d5d1add8d07",
+        "46a0239828604d9d",
+        "97996410c607d4d0",
+        "2f352ae64483619d"
+      ],
+      "id": "f0a52d5d1add8d07",
+      "date": 1417604480739
+    },
+    {
+      "type": "edit",
+      "id": "f0a52d5d1add8d07",
+      "item": {
+        "type": "pagefold",
+        "id": "f0a52d5d1add8d07",
+        "text": "Stancer"
+      },
+      "date": 1417604485879
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f76baa1dbae66a7"
+      },
+      "id": "3f76baa1dbae66a7",
+      "type": "add",
+      "after": "2f352ae64483619d",
+      "date": 1417604487764
+    },
+    {
+      "type": "edit",
+      "id": "3f76baa1dbae66a7",
+      "item": {
+        "type": "pagefold",
+        "id": "3f76baa1dbae66a7",
+        "text": "Policy Editor"
+      },
+      "date": 1417604492984
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0a52d5d1add8d07",
+        "97996410c607d4d0",
+        "46a0239828604d9d",
+        "2f352ae64483619d",
+        "3f76baa1dbae66a7"
+      ],
+      "id": "97996410c607d4d0",
+      "date": 1417604498638
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0a52d5d1add8d07",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "46a0239828604d9d",
+        "3f76baa1dbae66a7"
+      ],
+      "id": "2f352ae64483619d",
+      "date": 1417604500228
+    },
+    {
+      "type": "move",
+      "order": [
+        "f0a52d5d1add8d07",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "3f76baa1dbae66a7",
+        "46a0239828604d9d"
+      ],
+      "id": "3f76baa1dbae66a7",
+      "date": 1417604515076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ecba0e48019ed637"
+      },
+      "id": "ecba0e48019ed637",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417604536070
+    },
+    {
+      "type": "edit",
+      "id": "ecba0e48019ed637",
+      "item": {
+        "type": "pagefold",
+        "id": "ecba0e48019ed637",
+        "text": "stancer-twfy"
+      },
+      "date": 1417604549208
+    },
+    {
+      "type": "move",
+      "order": [
+        "ecba0e48019ed637",
+        "f0a52d5d1add8d07",
+        "97996410c607d4d0",
+        "2f352ae64483619d",
+        "3f76baa1dbae66a7",
+        "46a0239828604d9d"
+      ],
+      "id": "ecba0e48019ed637",
+      "date": 1417604552653
+    },
+    {
+      "type": "move",
+      "order": [
+        "ecba0e48019ed637",
+        "97996410c607d4d0",
+        "f0a52d5d1add8d07",
+        "2f352ae64483619d",
+        "3f76baa1dbae66a7",
+        "46a0239828604d9d"
+      ],
+      "id": "97996410c607d4d0",
+      "date": 1417604555579
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2e018c8614111d28",
+        "text": ""
+      },
+      "id": "2e018c8614111d28",
+      "type": "add",
+      "after": "97996410c607d4d0",
+      "date": 1417604558471
+    },
+    {
+      "type": "remove",
+      "id": "2e018c8614111d28",
+      "date": 1417604569748
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7aabecf4c6e4496f",
+        "text": ""
+      },
+      "id": "7aabecf4c6e4496f",
+      "type": "add",
+      "after": "97996410c607d4d0",
+      "date": 1417604574998
+    },
+    {
+      "type": "edit",
+      "id": "7aabecf4c6e4496f",
+      "item": {
+        "type": "paragraph",
+        "id": "7aabecf4c6e4496f",
+        "text": "☐ Pull Party info from PopIt"
+      },
+      "date": 1417604585715
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae9ebfc78080b390",
+        "text": ""
+      },
+      "id": "ae9ebfc78080b390",
+      "type": "add",
+      "after": "2f352ae64483619d",
+      "date": 1417604591935
+    },
+    {
+      "type": "edit",
+      "id": "ae9ebfc78080b390",
+      "item": {
+        "type": "paragraph",
+        "id": "ae9ebfc78080b390",
+        "text": "☐ Configurable output format"
+      },
+      "date": 1417604617924
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fbb01ad98b89620c",
+        "text": ""
+      },
+      "id": "fbb01ad98b89620c",
+      "type": "add",
+      "after": "7aabecf4c6e4496f",
+      "date": 1417604618848
+    },
+    {
+      "type": "edit",
+      "id": "fbb01ad98b89620c",
+      "item": {
+        "type": "paragraph",
+        "id": "fbb01ad98b89620c",
+        "text": "☐ Better output format"
+      },
+      "date": 1417604623160
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "417509f0b1cef774",
+        "text": ""
+      },
+      "id": "417509f0b1cef774",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417604634364
+    },
+    {
+      "type": "edit",
+      "id": "417509f0b1cef774",
+      "item": {
+        "type": "paragraph",
+        "id": "417509f0b1cef774",
+        "text": "☐ Write API"
+      },
+      "date": 1417604647642
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2194640c3b71c861",
+        "text": ""
+      },
+      "id": "2194640c3b71c861",
+      "type": "add",
+      "after": "fbb01ad98b89620c",
+      "date": 1417604715966
+    },
+    {
+      "type": "edit",
+      "id": "2194640c3b71c861",
+      "item": {
+        "type": "paragraph",
+        "id": "2194640c3b71c861",
+        "text": "☐ Include @aye/@nay lines"
+      },
+      "date": 1417604722454
+    },
+    {
+      "type": "edit",
+      "id": "97996410c607d4d0",
+      "item": {
+        "type": "paragraph",
+        "id": "97996410c607d4d0",
+        "text": " "
+      },
+      "date": 1417604830724
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c6771abf86b6d25",
+        "text": "☐ Move inflation to a Transformer"
+      },
+      "id": "1c6771abf86b6d25",
+      "type": "add",
+      "after": "97996410c607d4d0",
+      "date": 1417604830733
+    },
+    {
+      "type": "edit",
+      "id": "a58b847ad6c8de64",
+      "item": {
+        "type": "paragraph",
+        "id": "a58b847ad6c8de64",
+        "text": "The general working plan is to initially add functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself."
+      },
+      "date": 1417604876815
+    },
+    {
+      "type": "edit",
+      "id": "2f352ae64483619d",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ Configurable Transformers"
+      },
+      "date": 1417604884688
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c82a66187910640c",
+        "text": ""
+      },
+      "id": "c82a66187910640c",
+      "type": "add",
+      "after": "2194640c3b71c861",
+      "date": 1417604902780
+    },
+    {
+      "type": "edit",
+      "id": "c82a66187910640c",
+      "item": {
+        "type": "paragraph",
+        "id": "c82a66187910640c",
+        "text": "☐ Copy [[TheyVoteForYou]]'s \"passed by a small majority\" etc."
+      },
+      "date": 1417604917445
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6a51d05bbde9b38",
+        "text": ""
+      },
+      "id": "d6a51d05bbde9b38",
+      "type": "add",
+      "after": "c82a66187910640c",
+      "date": 1417604927154
+    },
+    {
+      "type": "edit",
+      "id": "d6a51d05bbde9b38",
+      "item": {
+        "type": "paragraph",
+        "id": "d6a51d05bbde9b38",
+        "text": "☐ Note rebellions"
+      },
+      "date": 1417604942369
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bfd36d996ffa1aab",
+        "text": ""
+      },
+      "id": "bfd36d996ffa1aab",
+      "type": "add",
+      "after": "d6a51d05bbde9b38",
+      "date": 1417604944640
+    },
+    {
+      "type": "edit",
+      "id": "bfd36d996ffa1aab",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd36d996ffa1aab",
+        "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number "
+      },
+      "date": 1417604978528
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f1ed68acf6d206e",
+        "text": ""
+      },
+      "id": "4f1ed68acf6d206e",
+      "type": "add",
+      "after": "bfd36d996ffa1aab",
+      "date": 1417604978536
+    },
+    {
+      "type": "remove",
+      "id": "4f1ed68acf6d206e",
+      "date": 1417605019038
+    },
+    {
+      "type": "edit",
+      "id": "bfd36d996ffa1aab",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd36d996ffa1aab",
+        "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number"
+      },
+      "date": 1417605021845
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fd0224f4d340533f",
+        "text": ""
+      },
+      "id": "fd0224f4d340533f",
+      "type": "add",
+      "after": "bfd36d996ffa1aab",
+      "date": 1417605021852
+    },
+    {
+      "type": "remove",
+      "id": "fd0224f4d340533f",
+      "date": 1417605023546
+    }
+  ]
+}

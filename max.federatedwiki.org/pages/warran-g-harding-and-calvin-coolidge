@@ -2,8 +2,14 @@
   "title": "Warran G. Harding and Calvin Coolidge",
   "story": [
     {
-      "type": "factory",
-      "id": "3a5cc6ab4bf24edd"
+      "type": "paragraph",
+      "id": "3a5cc6ab4bf24edd",
+      "text": "Warren G Harding died two years and five months into his term. He looked like a president. He also  made a lot of good things happen for our country. His only problem was that he trusted the companies that ran the oil foundry's who betrayed him and his country for the happiness of being rich."
+    },
+    {
+      "type": "paragraph",
+      "id": "392e1e995ea84dd3",
+      "text": "Calvin Collidge became a president when Warran G. Harding. He worked very hard for his country. When his son died he started to suffer from many ailments including deppression. he said that he thought he had"
     }
   ],
   "journal": [
@@ -23,6 +29,57 @@
       "id": "3a5cc6ab4bf24edd",
       "type": "add",
       "date": 1417640653923
+    },
+    {
+      "type": "edit",
+      "id": "3a5cc6ab4bf24edd",
+      "item": {
+        "type": "paragraph",
+        "id": "3a5cc6ab4bf24edd",
+        "text": "Warren G Harding died two years and five months into his term. He looked like a president . "
+      },
+      "date": 1417640868369
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "392e1e995ea84dd3",
+        "text": ""
+      },
+      "id": "392e1e995ea84dd3",
+      "type": "add",
+      "after": "3a5cc6ab4bf24edd",
+      "date": 1417640868379
+    },
+    {
+      "type": "edit",
+      "id": "392e1e995ea84dd3",
+      "item": {
+        "type": "paragraph",
+        "id": "392e1e995ea84dd3",
+        "text": "Calvin Collidge became a president when Warran G. Harding. He worked very hard for his country. When his son died he started to suffer from many ailments including deppression"
+      },
+      "date": 1417640987187
+    },
+    {
+      "type": "edit",
+      "id": "3a5cc6ab4bf24edd",
+      "item": {
+        "type": "paragraph",
+        "id": "3a5cc6ab4bf24edd",
+        "text": "Warren G Harding died two years and five months into his term. He looked like a president. He also  made a lot of good things happen for our country. His only problem was that he trusted the companies that ran the oil foundry's who betrayed him and his country for the happiness of being rich."
+      },
+      "date": 1417641198819
+    },
+    {
+      "type": "edit",
+      "id": "392e1e995ea84dd3",
+      "item": {
+        "type": "paragraph",
+        "id": "392e1e995ea84dd3",
+        "text": "Calvin Collidge became a president when Warran G. Harding. He worked very hard for his country. When his son died he started to suffer from many ailments including deppression. he said that he thought he had"
+      },
+      "date": 1417641381995
     }
   ]
 }

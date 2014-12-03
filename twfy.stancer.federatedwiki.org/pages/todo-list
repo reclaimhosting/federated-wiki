@@ -83,13 +83,23 @@
     },
     {
       "type": "paragraph",
-      "id": "46a0239828604d9d",
-      "text": "☐ Editor for existing Issues"
+      "id": "8bf54ff05d386cc4",
+      "text": "☐ Merge Richard's spreadsheet with PublicWhip data in API"
+    },
+    {
+      "type": "paragraph",
+      "id": "ceaeffeb49b11b0e",
+      "text": "☐ Add combined data to Editor"
+    },
+    {
+      "type": "paragraph",
+      "id": "838f639372ba7690",
+      "text": "☐ Load existing Indicators to Editor"
     },
     {
       "type": "paragraph",
       "id": "417509f0b1cef774",
-      "text": "☐ Write API"
+      "text": "☐ Add write functions to API"
     }
   ],
   "journal": [
@@ -638,6 +648,94 @@
     {
       "type": "fork",
       "date": 1417605742990
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8bf54ff05d386cc4",
+        "text": ""
+      },
+      "id": "8bf54ff05d386cc4",
+      "type": "add",
+      "after": "46a0239828604d9d",
+      "date": 1417610177353
+    },
+    {
+      "type": "edit",
+      "id": "8bf54ff05d386cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "8bf54ff05d386cc4",
+        "text": "☐ Merge Richard's spreadsheet with PublicWhip data"
+      },
+      "date": 1417610189548
+    },
+    {
+      "type": "remove",
+      "id": "46a0239828604d9d",
+      "date": 1417610216697
+    },
+    {
+      "type": "edit",
+      "id": "8bf54ff05d386cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "8bf54ff05d386cc4",
+        "text": "☐ Merge Richard's spreadsheet with PublicWhip data in API"
+      },
+      "date": 1417610260680
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ceaeffeb49b11b0e",
+        "text": ""
+      },
+      "id": "ceaeffeb49b11b0e",
+      "type": "add",
+      "after": "8bf54ff05d386cc4",
+      "date": 1417610260689
+    },
+    {
+      "type": "edit",
+      "id": "ceaeffeb49b11b0e",
+      "item": {
+        "type": "paragraph",
+        "id": "ceaeffeb49b11b0e",
+        "text": "☐ Add combined data to Editor"
+      },
+      "date": 1417610272451
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "838f639372ba7690",
+        "text": ""
+      },
+      "id": "838f639372ba7690",
+      "type": "add",
+      "after": "ceaeffeb49b11b0e",
+      "date": 1417610275475
+    },
+    {
+      "type": "edit",
+      "id": "838f639372ba7690",
+      "item": {
+        "type": "paragraph",
+        "id": "838f639372ba7690",
+        "text": "☐ Load existing Indicators to Editor"
+      },
+      "date": 1417610288010
+    },
+    {
+      "type": "edit",
+      "id": "417509f0b1cef774",
+      "item": {
+        "type": "paragraph",
+        "id": "417509f0b1cef774",
+        "text": "☐ Add write functions to API"
+      },
+      "date": 1417610311777
     }
   ]
 }

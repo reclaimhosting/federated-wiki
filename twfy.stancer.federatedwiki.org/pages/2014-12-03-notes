@@ -5,6 +5,11 @@
       "type": "pagefold",
       "id": "d7a1e9e117d5c1f6",
       "text": "Done"
+    },
+    {
+      "type": "paragraph",
+      "id": "46a0239828604d9d",
+      "text": "☑ Editor for existing Issue metadata (PW data only for now)"
     }
   ],
   "journal": [
@@ -112,6 +117,47 @@
         "text": "Done"
       },
       "date": 1417604735110
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☐ Editor for existing Issues"
+      },
+      "after": "d7a1e9e117d5c1f6",
+      "id": "46a0239828604d9d",
+      "date": 1417610216700
+    },
+    {
+      "type": "edit",
+      "id": "46a0239828604d9d",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☑ Editor for existing Issues"
+      },
+      "date": 1417610219836
+    },
+    {
+      "type": "edit",
+      "id": "46a0239828604d9d",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☑ Editor for existing Issues (PW data only for now)"
+      },
+      "date": 1417610232019
+    },
+    {
+      "type": "edit",
+      "id": "46a0239828604d9d",
+      "item": {
+        "type": "paragraph",
+        "id": "46a0239828604d9d",
+        "text": "☑ Editor for existing Issue metadata (PW data only for now)"
+      },
+      "date": 1417610246294
     }
   ]
 }

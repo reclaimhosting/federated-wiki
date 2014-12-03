@@ -1,6 +1,11 @@
 {
   "title": "history",
-  "story": [],
+  "story": [
+    {
+      "type": "factory",
+      "id": "c62c6c1c573125ca"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +14,31 @@
         "story": []
       },
       "date": 1415598315567
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c62c6c1c573125ca"
+      },
+      "id": "c62c6c1c573125ca",
+      "type": "add",
+      "date": 1417639489329
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e2a391ad7cb2f0fb",
+        "text": ""
+      },
+      "id": "e2a391ad7cb2f0fb",
+      "type": "add",
+      "after": "c62c6c1c573125ca",
+      "date": 1417639498863
+    },
+    {
+      "type": "remove",
+      "id": "e2a391ad7cb2f0fb",
+      "date": 1417639499851
     }
   ]
 }

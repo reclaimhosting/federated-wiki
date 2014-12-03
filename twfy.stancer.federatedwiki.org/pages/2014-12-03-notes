@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "a7164d4e768c5a60",
-      "text": ""
+      "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that both approaches could do the same thing. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
     },
     {
       "type": "pagefold",
@@ -588,6 +588,32 @@
       "type": "add",
       "after": "b90b3b0c74cafad7",
       "date": 1417618607585
+    },
+    {
+      "type": "edit",
+      "id": "a7164d4e768c5a60",
+      "item": {
+        "type": "paragraph",
+        "id": "a7164d4e768c5a60",
+        "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that both approaches could do the same thing. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
+      },
+      "date": 1417618937132
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c79c1106bea4a418",
+        "text": ""
+      },
+      "id": "c79c1106bea4a418",
+      "type": "add",
+      "after": "a7164d4e768c5a60",
+      "date": 1417618937155
+    },
+    {
+      "type": "remove",
+      "id": "c79c1106bea4a418",
+      "date": 1417618970759
     }
   ]
 }

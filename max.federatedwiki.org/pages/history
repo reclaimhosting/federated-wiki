@@ -10,6 +10,10 @@
       "type": "paragraph",
       "id": "6f934b6b506ee6fe",
       "text": "[[Warran G. Harding and Calvin Coolidge]]"
+    },
+    {
+      "type": "factory",
+      "id": "1f92509282d461ad"
     }
   ],
   "journal": [
@@ -91,6 +95,32 @@
         "text": "[[Warran G. Harding and Calvin Coolidge]]"
       },
       "date": 1417640646531
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f92509282d461ad"
+      },
+      "id": "1f92509282d461ad",
+      "type": "add",
+      "after": "6f934b6b506ee6fe",
+      "date": 1417641525745
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18969a375a6dca40",
+        "text": ""
+      },
+      "id": "18969a375a6dca40",
+      "type": "add",
+      "after": "1f92509282d461ad",
+      "date": 1417641560310
+    },
+    {
+      "type": "remove",
+      "id": "18969a375a6dca40",
+      "date": 1417641562438
     }
   ]
 }

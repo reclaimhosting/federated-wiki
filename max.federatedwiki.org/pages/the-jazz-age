@@ -1,0 +1,55 @@
+{
+  "title": "The Jazz Age",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8beea2b2030ee144",
+      "text": "[[The Roaring Twenties]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Jazz Age",
+        "story": []
+      },
+      "date": 1417641723244
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8beea2b2030ee144"
+      },
+      "id": "8beea2b2030ee144",
+      "type": "add",
+      "date": 1417641726719
+    },
+    {
+      "type": "edit",
+      "id": "8beea2b2030ee144",
+      "item": {
+        "type": "paragraph",
+        "id": "8beea2b2030ee144",
+        "text": "[[The Roaring Twenties]]"
+      },
+      "date": 1417641777852
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9afdea7f5fb2b550",
+        "text": ""
+      },
+      "id": "9afdea7f5fb2b550",
+      "type": "add",
+      "after": "8beea2b2030ee144",
+      "date": 1417641777860
+    },
+    {
+      "type": "remove",
+      "id": "9afdea7f5fb2b550",
+      "date": 1417641779204
+    }
+  ]
+}

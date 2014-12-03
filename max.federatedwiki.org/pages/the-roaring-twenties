@@ -2,6 +2,11 @@
   "title": "The Roaring Twenties",
   "story": [
     {
+      "type": "paragraph",
+      "id": "71c56812b0d9169b",
+      "text": "[[the charelston]]"
+    },
+    {
       "type": "factory",
       "id": "44026a4b228c8992"
     }
@@ -23,6 +28,25 @@
       "id": "44026a4b228c8992",
       "type": "add",
       "date": 1417644570706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "71c56812b0d9169b"
+      },
+      "id": "71c56812b0d9169b",
+      "type": "add",
+      "date": 1417645401370
+    },
+    {
+      "type": "edit",
+      "id": "71c56812b0d9169b",
+      "item": {
+        "type": "paragraph",
+        "id": "71c56812b0d9169b",
+        "text": "[[the charelston]]"
+      },
+      "date": 1417645511781
     }
   ]
 }

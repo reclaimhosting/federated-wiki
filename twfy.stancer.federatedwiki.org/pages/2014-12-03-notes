@@ -2,9 +2,14 @@
   "title": "2014-12-03 Notes",
   "story": [
     {
+      "type": "pagefold",
+      "id": "293b88a0da0a1f30",
+      "text": "Consolidated Issue Data"
+    },
+    {
       "type": "paragraph",
       "id": "b72b53dda6856d71",
-      "text": "The key task today was to consolidate the different Issue data into one source. Currently we scrape policy data from the [[Public Whip]] pseudo-API, but then also have Richard's spreadsheet of extended information. [[stance-viewer-sinatra]] handles each of these separately, so we want to combine that into one source."
+      "text": "The first task today was to consolidate the different Issue data into one source. Currently we scrape policy data from the [[Public Whip]] pseudo-API, but then also have Richard's spreadsheet of extended information. [[stance-viewer-sinatra]] handles each of these separately, so we want to combine that into one source."
     },
     {
       "type": "paragraph",
@@ -25,6 +30,21 @@
       "type": "paragraph",
       "id": "a7164d4e768c5a60",
       "text": "I also had a brief look at automatically populating the existing Indicators, but hit a couple of snags. Firstly the current Issues file only includes IDs, rather than titles. (We could fix this either by regenerating the file with more info, or add a call to use the Morph API to look that up.) Secondly, the jQuery to populate this part of the form assumes the user clicking buttons etc. We could probably simulate those clicks, but it would presumably be better to refactor that code first so that both approaches could do the same thing. And finally, the current Indicator info — from either source — doesn't neatly tell us whether it should be attached as For/Against or Strong/Weak. Again, we could fix this, but this is a lot of fixes for something we're not sure we're going to use yet, and I think some of the other changes required over the next couple of days would make some of this better anyway. So I'm deferring this part for a while."
+    },
+    {
+      "type": "pagefold",
+      "id": "55c1b7414b39aa8a",
+      "text": "a new issue.json"
+    },
+    {
+      "type": "paragraph",
+      "id": "080614a438162161",
+      "text": "The current stancer-twfy gets its 'issues.json' from the [[stance-viewer-sinatra]] Github repo. This was just an interim measure to make sure everything was working as expected. This afternoon I fixed this to generate a new 'issues.json' file via the Morph API. "
+    },
+    {
+      "type": "paragraph",
+      "id": "650c008f8b605961",
+      "text": ""
     },
     {
       "type": "pagefold",
@@ -50,6 +70,11 @@
       "type": "paragraph",
       "id": "ceaeffeb49b11b0e",
       "text": "☑ Add combined data to Editor"
+    },
+    {
+      "type": "paragraph",
+      "id": "c73c37fdbe7c3ac6",
+      "text": "☑ Generate new Issues.json via Morph"
     },
     {
       "type": "pagefold",
@@ -614,6 +639,228 @@
       "type": "remove",
       "id": "c79c1106bea4a418",
       "date": 1417618970759
+    },
+    {
+      "type": "edit",
+      "id": "b72b53dda6856d71",
+      "item": {
+        "type": "paragraph",
+        "id": "b72b53dda6856d71",
+        "text": "The first task today was to consolidate the different Issue data into one source. Currently we scrape policy data from the [[Public Whip]] pseudo-API, but then also have Richard's spreadsheet of extended information. [[stance-viewer-sinatra]] handles each of these separately, so we want to combine that into one source."
+      },
+      "date": 1417625051745
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "16b2faf14b92230f"
+      },
+      "id": "16b2faf14b92230f",
+      "type": "add",
+      "after": "e0c902c827bbbab6",
+      "date": 1417625058445
+    },
+    {
+      "type": "move",
+      "order": [
+        "16b2faf14b92230f",
+        "b72b53dda6856d71",
+        "2a52ac2a2d381a58",
+        "557cfd7ab3cf454f",
+        "b90b3b0c74cafad7",
+        "a7164d4e768c5a60",
+        "d7a1e9e117d5c1f6",
+        "46a0239828604d9d",
+        "8bf54ff05d386cc4",
+        "d88910fda324824c",
+        "ceaeffeb49b11b0e",
+        "7e03b2066ffc2424",
+        "8fd81a247394130c",
+        "13237e4a6a994ccf",
+        "7f50da37ea2f8084",
+        "e0c902c827bbbab6"
+      ],
+      "id": "16b2faf14b92230f",
+      "date": 1417625066476
+    },
+    {
+      "type": "edit",
+      "id": "16b2faf14b92230f",
+      "item": {
+        "type": "paragraph",
+        "id": "16b2faf14b92230f",
+        "text": "Consolidated Issue Data"
+      },
+      "date": 1417625076329
+    },
+    {
+      "type": "remove",
+      "id": "16b2faf14b92230f",
+      "date": 1417625079214
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "293b88a0da0a1f30"
+      },
+      "id": "293b88a0da0a1f30",
+      "type": "add",
+      "after": "e0c902c827bbbab6",
+      "date": 1417625081280
+    },
+    {
+      "type": "edit",
+      "id": "293b88a0da0a1f30",
+      "item": {
+        "type": "pagefold",
+        "id": "293b88a0da0a1f30",
+        "text": "Consolidated Issue Data"
+      },
+      "date": 1417625084929
+    },
+    {
+      "type": "move",
+      "order": [
+        "293b88a0da0a1f30",
+        "b72b53dda6856d71",
+        "2a52ac2a2d381a58",
+        "557cfd7ab3cf454f",
+        "b90b3b0c74cafad7",
+        "a7164d4e768c5a60",
+        "d7a1e9e117d5c1f6",
+        "46a0239828604d9d",
+        "8bf54ff05d386cc4",
+        "d88910fda324824c",
+        "ceaeffeb49b11b0e",
+        "7e03b2066ffc2424",
+        "8fd81a247394130c",
+        "13237e4a6a994ccf",
+        "7f50da37ea2f8084",
+        "e0c902c827bbbab6"
+      ],
+      "id": "293b88a0da0a1f30",
+      "date": 1417625090290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "55c1b7414b39aa8a"
+      },
+      "id": "55c1b7414b39aa8a",
+      "type": "add",
+      "after": "e0c902c827bbbab6",
+      "date": 1417625093483
+    },
+    {
+      "type": "move",
+      "order": [
+        "293b88a0da0a1f30",
+        "b72b53dda6856d71",
+        "2a52ac2a2d381a58",
+        "557cfd7ab3cf454f",
+        "b90b3b0c74cafad7",
+        "a7164d4e768c5a60",
+        "55c1b7414b39aa8a",
+        "d7a1e9e117d5c1f6",
+        "46a0239828604d9d",
+        "8bf54ff05d386cc4",
+        "d88910fda324824c",
+        "ceaeffeb49b11b0e",
+        "7e03b2066ffc2424",
+        "8fd81a247394130c",
+        "13237e4a6a994ccf",
+        "7f50da37ea2f8084",
+        "e0c902c827bbbab6"
+      ],
+      "id": "55c1b7414b39aa8a",
+      "date": 1417625102299
+    },
+    {
+      "type": "edit",
+      "id": "55c1b7414b39aa8a",
+      "item": {
+        "type": "pagefold",
+        "id": "55c1b7414b39aa8a",
+        "text": "a new issue.json"
+      },
+      "date": 1417625120828
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "080614a438162161"
+      },
+      "id": "080614a438162161",
+      "type": "add",
+      "after": "e0c902c827bbbab6",
+      "date": 1417625125161
+    },
+    {
+      "type": "move",
+      "order": [
+        "293b88a0da0a1f30",
+        "b72b53dda6856d71",
+        "2a52ac2a2d381a58",
+        "557cfd7ab3cf454f",
+        "b90b3b0c74cafad7",
+        "a7164d4e768c5a60",
+        "55c1b7414b39aa8a",
+        "080614a438162161",
+        "d7a1e9e117d5c1f6",
+        "46a0239828604d9d",
+        "8bf54ff05d386cc4",
+        "d88910fda324824c",
+        "ceaeffeb49b11b0e",
+        "7e03b2066ffc2424",
+        "8fd81a247394130c",
+        "13237e4a6a994ccf",
+        "7f50da37ea2f8084",
+        "e0c902c827bbbab6"
+      ],
+      "id": "080614a438162161",
+      "date": 1417625126935
+    },
+    {
+      "type": "edit",
+      "id": "080614a438162161",
+      "item": {
+        "type": "paragraph",
+        "id": "080614a438162161",
+        "text": "The current stancer-twfy gets its 'issues.json' from the [[stance-viewer-sinatra]] Github repo. This was just an interim measure to make sure everything was working as expected. This afternoon I fixed this to generate a new 'issues.json' file via the Morph API. "
+      },
+      "date": 1417625219493
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c73c37fdbe7c3ac6",
+        "text": ""
+      },
+      "id": "c73c37fdbe7c3ac6",
+      "type": "add",
+      "after": "ceaeffeb49b11b0e",
+      "date": 1417625249546
+    },
+    {
+      "type": "edit",
+      "id": "c73c37fdbe7c3ac6",
+      "item": {
+        "type": "paragraph",
+        "id": "c73c37fdbe7c3ac6",
+        "text": "☑ Generate new Issues.json via Morph"
+      },
+      "date": 1417625259925
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "650c008f8b605961",
+        "text": ""
+      },
+      "id": "650c008f8b605961",
+      "type": "add",
+      "after": "080614a438162161",
+      "date": 1417625309796
     }
   ]
 }

@@ -62,6 +62,16 @@
       "text": "☐ Configurable output format"
     },
     {
+      "type": "paragraph",
+      "id": "3f77ddbb2ee27126",
+      "text": "☐ Expandable Indicator Weightings"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f654e363f35cae6",
+      "text": "☐ Multi-person stance by intervals (e.g. for Party graph)"
+    },
+    {
       "type": "pagefold",
       "id": "3f76baa1dbae66a7",
       "text": "Policy Editor"
@@ -527,6 +537,48 @@
       "type": "remove",
       "id": "fd0224f4d340533f",
       "date": 1417605023546
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f77ddbb2ee27126",
+        "text": ""
+      },
+      "id": "3f77ddbb2ee27126",
+      "type": "add",
+      "after": "ae9ebfc78080b390",
+      "date": 1417605031885
+    },
+    {
+      "type": "edit",
+      "id": "3f77ddbb2ee27126",
+      "item": {
+        "type": "paragraph",
+        "id": "3f77ddbb2ee27126",
+        "text": "☐ Expandable Indicator Weightings"
+      },
+      "date": 1417605079823
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f654e363f35cae6",
+        "text": ""
+      },
+      "id": "4f654e363f35cae6",
+      "type": "add",
+      "after": "3f77ddbb2ee27126",
+      "date": 1417605190671
+    },
+    {
+      "type": "edit",
+      "id": "4f654e363f35cae6",
+      "item": {
+        "type": "paragraph",
+        "id": "4f654e363f35cae6",
+        "text": "☐ Multi-person stance by intervals (e.g. for Party graph)"
+      },
+      "date": 1417605240910
     }
   ]
 }

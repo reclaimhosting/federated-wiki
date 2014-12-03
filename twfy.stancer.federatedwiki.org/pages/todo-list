@@ -2,6 +2,11 @@
   "title": "TODO List",
   "story": [
     {
+      "type": "paragraph",
+      "id": "a58b847ad6c8de64",
+      "text": "The goal is to move as much logic out of the [[stance-viewer-sinatra]] demo as possible, by generating all the data in [[Stancer]] and using the resulting JSON for display only. This will then let us do minimal processing in [[TheyWorkForYou]] as well. The working plan is to initially add the functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself, where applicable. "
+    },
+    {
       "type": "pagefold",
       "id": "ecba0e48019ed637",
       "text": "stancer-twfy"
@@ -405,6 +410,17 @@
     {
       "item": {
         "type": "paragraph",
+        "id": "a58b847ad6c8de64",
+        "text": "The goal is to move as much logic out of the [[stance-viewer-sinatra]] demo as possible, by generating all the data in [[Stancer]] and using the resulting JSON for display only. This will then let us do minimal processing in [[TheyWorkForYou]] as well. The working plan is to initially add the functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself, where applicable. "
+      },
+      "id": "a58b847ad6c8de64",
+      "type": "add",
+      "after": "97996410c607d4d0",
+      "date": 1417604830736
+    },
+    {
+      "item": {
+        "type": "paragraph",
         "id": "1c6771abf86b6d25",
         "text": "☐ Move inflation to a Transformer"
       },
@@ -419,7 +435,7 @@
       "item": {
         "type": "paragraph",
         "id": "a58b847ad6c8de64",
-        "text": "The general working plan is to initially add functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself."
+        "text": "The goal is to move as much logic out of the [[stance-viewer-sinatra]] demo as possible, by generating all the data in [[Stancer]] and using the resulting JSON for display only. This will then let us do minimal processing in [[TheyWorkForYou]] as well. The working plan is to initially add the functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself, where applicable. "
       },
       "date": 1417604876815
     },
@@ -437,7 +453,7 @@
       "item": {
         "type": "paragraph",
         "id": "c82a66187910640c",
-        "text": ""
+        "text": "☐ Copy [[TheyVoteForYou]]'s \"passed by a small majority\" etc."
       },
       "id": "c82a66187910640c",
       "type": "add",
@@ -458,7 +474,7 @@
       "item": {
         "type": "paragraph",
         "id": "d6a51d05bbde9b38",
-        "text": ""
+        "text": "☐ Note rebellions"
       },
       "id": "d6a51d05bbde9b38",
       "type": "add",
@@ -479,7 +495,7 @@
       "item": {
         "type": "paragraph",
         "id": "bfd36d996ffa1aab",
-        "text": ""
+        "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number"
       },
       "id": "bfd36d996ffa1aab",
       "type": "add",
@@ -492,7 +508,7 @@
       "item": {
         "type": "paragraph",
         "id": "bfd36d996ffa1aab",
-        "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number "
+        "text": "☐ Inline the textual description (“voted very strongly for”, etc) rather than just a raw Stance number"
       },
       "date": 1417604978528
     },
@@ -542,7 +558,7 @@
       "item": {
         "type": "paragraph",
         "id": "3f77ddbb2ee27126",
-        "text": ""
+        "text": "☐ Expandable Indicator Weightings"
       },
       "id": "3f77ddbb2ee27126",
       "type": "add",
@@ -563,7 +579,7 @@
       "item": {
         "type": "paragraph",
         "id": "4f654e363f35cae6",
-        "text": ""
+        "text": "☐ Multi-person stance by intervals (e.g. for Party graph)"
       },
       "id": "4f654e363f35cae6",
       "type": "add",
@@ -579,6 +595,49 @@
         "text": "☐ Multi-person stance by intervals (e.g. for Party graph)"
       },
       "date": 1417605240910
+    },
+    {
+      "type": "edit",
+      "id": "a58b847ad6c8de64",
+      "item": {
+        "type": "paragraph",
+        "id": "a58b847ad6c8de64",
+        "text": "The goal is to move as much logic out of the [[stance-viewer-sinatra]] demo as possible, by generating all the data in [[Stancer]] and using the resulting JSON for display only. This will then let us do minimal processing in [[TheyWorkForYou]] as well. The working plan is to initially add the functionality to [[stancer-twfy]], and then push it upwards into [[Stancer]] itself, where applicable. "
+      },
+      "date": 1417605710091
+    },
+    {
+      "type": "move",
+      "order": [
+        "a58b847ad6c8de64",
+        "ecba0e48019ed637",
+        "97996410c607d4d0",
+        "1c6771abf86b6d25",
+        "7aabecf4c6e4496f",
+        "fbb01ad98b89620c",
+        "2194640c3b71c861",
+        "c82a66187910640c",
+        "d6a51d05bbde9b38",
+        "bfd36d996ffa1aab",
+        "f0a52d5d1add8d07",
+        "2f352ae64483619d",
+        "ae9ebfc78080b390",
+        "3f77ddbb2ee27126",
+        "4f654e363f35cae6",
+        "3f76baa1dbae66a7",
+        "46a0239828604d9d",
+        "417509f0b1cef774"
+      ],
+      "id": "a58b847ad6c8de64",
+      "date": 1417605713053,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1417605742990
     }
   ]
 }

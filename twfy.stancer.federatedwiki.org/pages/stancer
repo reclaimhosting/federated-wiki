@@ -1,0 +1,73 @@
+{
+  "title": "Stancer",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5a5401fed31e4540",
+      "text": "A tool for turning the voting records from your legislature into something understandable by non-experts.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4cd7687d00c53d58",
+      "text": "[https://github.com/tmtmtmtm/stancer https://github.com/tmtmtmtm/stancer]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Stancer",
+        "story": []
+      },
+      "date": 1417605857214
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cd7687d00c53d58"
+      },
+      "id": "4cd7687d00c53d58",
+      "type": "add",
+      "date": 1417605866735
+    },
+    {
+      "type": "edit",
+      "id": "4cd7687d00c53d58",
+      "item": {
+        "type": "paragraph",
+        "id": "4cd7687d00c53d58",
+        "text": "[https://github.com/tmtmtmtm/stancer https://github.com/tmtmtmtm/stancer]"
+      },
+      "date": 1417605870084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a5401fed31e4540"
+      },
+      "id": "5a5401fed31e4540",
+      "type": "add",
+      "after": "4cd7687d00c53d58",
+      "date": 1417605880878
+    },
+    {
+      "type": "edit",
+      "id": "5a5401fed31e4540",
+      "item": {
+        "type": "paragraph",
+        "id": "5a5401fed31e4540",
+        "text": "A tool for turning the voting records from your legislature into something understandable by non-experts.\n"
+      },
+      "date": 1417605898614
+    },
+    {
+      "type": "move",
+      "order": [
+        "5a5401fed31e4540",
+        "4cd7687d00c53d58"
+      ],
+      "id": "5a5401fed31e4540",
+      "date": 1417605901635
+    }
+  ]
+}

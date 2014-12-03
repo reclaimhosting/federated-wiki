@@ -1,6 +1,12 @@
 {
   "title": "jazz",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8b23a349ff57a3fa",
+      "text": "coming soon"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,25 @@
         "story": []
       },
       "date": 1417646561439
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8b23a349ff57a3fa"
+      },
+      "id": "8b23a349ff57a3fa",
+      "type": "add",
+      "date": 1417647297711
+    },
+    {
+      "type": "edit",
+      "id": "8b23a349ff57a3fa",
+      "item": {
+        "type": "paragraph",
+        "id": "8b23a349ff57a3fa",
+        "text": "coming soon"
+      },
+      "date": 1417647312676
     }
   ]
 }

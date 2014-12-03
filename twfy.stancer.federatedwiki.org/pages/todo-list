@@ -99,7 +99,32 @@
     {
       "type": "paragraph",
       "id": "417509f0b1cef774",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "bf12575888aec48e",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "ea2e852b965525e1",
+      "text": "☐ Tidy up all the show/hide code to not use explicit IDs"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf7ed80c6f0a6f76",
       "text": "☐ Add write functions to API"
+    },
+    {
+      "type": "pagefold",
+      "id": "d7af2c2da726fd68",
+      "text": "stance-viewer-sinatra"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7e7c7b022d6be2c",
+      "text": "☐ get Issue info through the API, rather than directly from file storage."
     }
   ],
   "journal": [
@@ -736,6 +761,99 @@
         "text": "☐ Add write functions to API"
       },
       "date": 1417610311777
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d7af2c2da726fd68"
+      },
+      "id": "d7af2c2da726fd68",
+      "type": "add",
+      "after": "417509f0b1cef774",
+      "date": 1417613708279
+    },
+    {
+      "type": "edit",
+      "id": "d7af2c2da726fd68",
+      "item": {
+        "type": "pagefold",
+        "id": "d7af2c2da726fd68",
+        "text": "stance-viewer-sinatra"
+      },
+      "date": 1417613718781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7e7c7b022d6be2c"
+      },
+      "id": "b7e7c7b022d6be2c",
+      "type": "add",
+      "after": "d7af2c2da726fd68",
+      "date": 1417613720585
+    },
+    {
+      "type": "edit",
+      "id": "b7e7c7b022d6be2c",
+      "item": {
+        "type": "paragraph",
+        "id": "b7e7c7b022d6be2c",
+        "text": "☐ get Issue info through the API, rather than directly from file storage."
+      },
+      "date": 1417613767504
+    },
+    {
+      "type": "edit",
+      "id": "417509f0b1cef774",
+      "item": {
+        "type": "paragraph",
+        "id": "417509f0b1cef774",
+        "text": " "
+      },
+      "date": 1417613801314
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bf7ed80c6f0a6f76",
+        "text": "☐ Add write functions to API"
+      },
+      "id": "bf7ed80c6f0a6f76",
+      "type": "add",
+      "after": "417509f0b1cef774",
+      "date": 1417613801325
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bf12575888aec48e",
+        "text": ""
+      },
+      "id": "bf12575888aec48e",
+      "type": "add",
+      "after": "417509f0b1cef774",
+      "date": 1417613801328
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ea2e852b965525e1",
+        "text": ""
+      },
+      "id": "ea2e852b965525e1",
+      "type": "add",
+      "after": "bf12575888aec48e",
+      "date": 1417613822503
+    },
+    {
+      "type": "edit",
+      "id": "ea2e852b965525e1",
+      "item": {
+        "type": "paragraph",
+        "id": "ea2e852b965525e1",
+        "text": "☐ Tidy up all the show/hide code to not use explicit IDs"
+      },
+      "date": 1417613842772
     }
   ]
 }

@@ -2,6 +2,26 @@
   "title": "2014-12-03 Notes",
   "story": [
     {
+      "type": "paragraph",
+      "id": "b72b53dda6856d71",
+      "text": "The key task today was to consolidate the different Issue data into one source. Currently we scrape policy data from the [[Public Whip]] pseudo-API, but then also have Richard's spreadsheet of extended information. [[stance-viewer-sinatra]] handles each of these separately, so we want to combine that into one source."
+    },
+    {
+      "type": "paragraph",
+      "id": "2a52ac2a2d381a58",
+      "text": "To bootstrap that up, I'm having the new Issue API from yesterday simply read both when it's asked to serve them. We can then pre-fill those into the [[Bellagio Editor]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "557cfd7ab3cf454f",
+      "text": "Once we decide where that will actually *store* any data, we can combine them properly and have the API read from the store instead."
+    },
+    {
+      "type": "paragraph",
+      "id": "b90b3b0c74cafad7",
+      "text": "This required tidying up how the CSV reading currently works (and editing my dump of the spreadsheet to have meaningful column names in the title row)"
+    },
+    {
       "type": "pagefold",
       "id": "d7a1e9e117d5c1f6",
       "text": "Done"
@@ -330,6 +350,104 @@
         "text": "array.size.must_be :>, 60"
       },
       "date": 1417611563837
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b72b53dda6856d71"
+      },
+      "id": "b72b53dda6856d71",
+      "type": "add",
+      "after": "e0c902c827bbbab6",
+      "date": 1417612933479
+    },
+    {
+      "type": "move",
+      "order": [
+        "b72b53dda6856d71",
+        "d7a1e9e117d5c1f6",
+        "46a0239828604d9d",
+        "7e03b2066ffc2424",
+        "8fd81a247394130c",
+        "13237e4a6a994ccf",
+        "7f50da37ea2f8084",
+        "e0c902c827bbbab6"
+      ],
+      "id": "b72b53dda6856d71",
+      "date": 1417612936570
+    },
+    {
+      "type": "edit",
+      "id": "b72b53dda6856d71",
+      "item": {
+        "type": "paragraph",
+        "id": "b72b53dda6856d71",
+        "text": "The key task today was to consolidate the different Issue data into one source. Currently we scrape policy data from the [[Public Whip]] pseudo-API, but then also have Richard's spreadsheet of extended information. [[stance-viewer-sinatra]] handles each of these separately, so we want to combine that into one source."
+      },
+      "date": 1417613028278
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2a52ac2a2d381a58",
+        "text": ""
+      },
+      "id": "2a52ac2a2d381a58",
+      "type": "add",
+      "after": "b72b53dda6856d71",
+      "date": 1417613028287
+    },
+    {
+      "type": "edit",
+      "id": "2a52ac2a2d381a58",
+      "item": {
+        "type": "paragraph",
+        "id": "2a52ac2a2d381a58",
+        "text": "To bootstrap that up, I'm having the new Issue API from yesterday simply read both when it's asked to serve them. We can then pre-fill those into the [[Bellagio Editor]]."
+      },
+      "date": 1417613136750
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "557cfd7ab3cf454f",
+        "text": ""
+      },
+      "id": "557cfd7ab3cf454f",
+      "type": "add",
+      "after": "2a52ac2a2d381a58",
+      "date": 1417613136758
+    },
+    {
+      "type": "edit",
+      "id": "557cfd7ab3cf454f",
+      "item": {
+        "type": "paragraph",
+        "id": "557cfd7ab3cf454f",
+        "text": "Once we decide where that will actually *store* any data, we can combine them properly and have the API read from the store instead."
+      },
+      "date": 1417613172074
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b90b3b0c74cafad7",
+        "text": ""
+      },
+      "id": "b90b3b0c74cafad7",
+      "type": "add",
+      "after": "557cfd7ab3cf454f",
+      "date": 1417613292584
+    },
+    {
+      "type": "edit",
+      "id": "b90b3b0c74cafad7",
+      "item": {
+        "type": "paragraph",
+        "id": "b90b3b0c74cafad7",
+        "text": "This required tidying up how the CSV reading currently works (and editing my dump of the spreadsheet to have meaningful column names in the title row)"
+      },
+      "date": 1417613325381
     }
   ]
 }

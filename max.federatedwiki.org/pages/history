@@ -2,8 +2,14 @@
   "title": "history",
   "story": [
     {
-      "type": "factory",
-      "id": "c62c6c1c573125ca"
+      "type": "paragraph",
+      "id": "c62c6c1c573125ca",
+      "text": "[[seeing red]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6f934b6b506ee6fe",
+      "text": "[[Warran G. Harding and Calvin Coolidge]]"
     }
   ],
   "journal": [
@@ -39,6 +45,52 @@
       "type": "remove",
       "id": "e2a391ad7cb2f0fb",
       "date": 1417639499851
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cfd551ec043673b7",
+        "text": ""
+      },
+      "id": "cfd551ec043673b7",
+      "type": "add",
+      "after": "c62c6c1c573125ca",
+      "date": 1417640244802
+    },
+    {
+      "type": "remove",
+      "id": "cfd551ec043673b7",
+      "date": 1417640246028
+    },
+    {
+      "type": "edit",
+      "id": "c62c6c1c573125ca",
+      "item": {
+        "type": "paragraph",
+        "id": "c62c6c1c573125ca",
+        "text": "[[seeing red]]"
+      },
+      "date": 1417640253121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f934b6b506ee6fe"
+      },
+      "id": "6f934b6b506ee6fe",
+      "type": "add",
+      "after": "c62c6c1c573125ca",
+      "date": 1417640296928
+    },
+    {
+      "type": "edit",
+      "id": "6f934b6b506ee6fe",
+      "item": {
+        "type": "paragraph",
+        "id": "6f934b6b506ee6fe",
+        "text": "[[Warran G. Harding and Calvin Coolidge]]"
+      },
+      "date": 1417640646531
     }
   ]
 }

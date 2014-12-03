@@ -9,13 +9,23 @@
     },
     {
       "type": "paragraph",
-      "id": "d696cb9f1649254e",
-      "text": "[[grammer]]"
+      "id": "1d19c5a8834b4508",
+      "text": "[[history]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1af4a6139ca7a45b",
+      "text": "[[vocabulary]]"
     },
     {
       "type": "paragraph",
       "id": "b931335661e245c7",
       "text": "[[composition]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d696cb9f1649254e",
+      "text": "[[grammer]]"
     },
     {
       "type": "paragraph",
@@ -26,16 +36,6 @@
       "type": "paragraph",
       "id": "5f5342f3a12fac68",
       "text": "[[mechanics]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "1af4a6139ca7a45b",
-      "text": "[[vocabulary]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "1d19c5a8834b4508",
-      "text": "[[history]]"
     },
     {
       "type": "paragraph",
@@ -168,6 +168,51 @@
       "type": "remove",
       "id": "927e1a7af7ae076a",
       "date": 1417640170273
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "b931335661e245c7",
+        "d696cb9f1649254e",
+        "236cb595c949a93e",
+        "5f5342f3a12fac68",
+        "1af4a6139ca7a45b",
+        "1d19c5a8834b4508",
+        "244ee7cf1bdd2097"
+      ],
+      "id": "d696cb9f1649254e",
+      "date": 1417640274978
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "1d19c5a8834b4508",
+        "b931335661e245c7",
+        "d696cb9f1649254e",
+        "236cb595c949a93e",
+        "5f5342f3a12fac68",
+        "1af4a6139ca7a45b",
+        "244ee7cf1bdd2097"
+      ],
+      "id": "1d19c5a8834b4508",
+      "date": 1417640279882
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "1d19c5a8834b4508",
+        "1af4a6139ca7a45b",
+        "b931335661e245c7",
+        "d696cb9f1649254e",
+        "236cb595c949a93e",
+        "5f5342f3a12fac68",
+        "244ee7cf1bdd2097"
+      ],
+      "id": "1af4a6139ca7a45b",
+      "date": 1417640287119
     }
   ]
 }

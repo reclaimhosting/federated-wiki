@@ -7,6 +7,15 @@
       "text": "[[the charelston]]"
     },
     {
+      "type": "paragraph",
+      "id": "8d86236db169aa93",
+      "text": "[[jazz]]"
+    },
+    {
+      "type": "factory",
+      "id": "8f26951f20ca5ba3"
+    },
+    {
       "type": "factory",
       "id": "44026a4b228c8992"
     }
@@ -47,6 +56,37 @@
         "text": "[[the charelston]]"
       },
       "date": 1417645511781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f26951f20ca5ba3"
+      },
+      "id": "8f26951f20ca5ba3",
+      "type": "add",
+      "after": "71c56812b0d9169b",
+      "date": 1417646529848
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8d86236db169aa93",
+        "text": ""
+      },
+      "id": "8d86236db169aa93",
+      "type": "add",
+      "after": "71c56812b0d9169b",
+      "date": 1417646549576
+    },
+    {
+      "type": "edit",
+      "id": "8d86236db169aa93",
+      "item": {
+        "type": "paragraph",
+        "id": "8d86236db169aa93",
+        "text": "[[jazz]]"
+      },
+      "date": 1417646557603
     }
   ]
 }

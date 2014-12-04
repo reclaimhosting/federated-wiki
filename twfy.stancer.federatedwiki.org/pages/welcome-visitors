@@ -30,6 +30,11 @@
     },
     {
       "type": "paragraph",
+      "id": "11a6e245956fd5ee",
+      "text": "[[2014-12-04 Notes]]"
+    },
+    {
+      "type": "paragraph",
       "id": "050becf171e6a74b",
       "text": "[[TODO List]]"
     },
@@ -579,6 +584,48 @@
         "text": "[[TODO List]]"
       },
       "date": 1417604439445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6066a4842acb7a60"
+      },
+      "id": "6066a4842acb7a60",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1417700392924
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "9a659e6d7acbc069",
+        "05e2fa92643677ca",
+        "ea8ed133766958ea",
+        "cef595ece54d3598",
+        "6066a4842acb7a60",
+        "050becf171e6a74b",
+        "e4fe4490700b47d2",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "6066a4842acb7a60",
+      "date": 1417700395461
+    },
+    {
+      "type": "remove",
+      "id": "6066a4842acb7a60",
+      "date": 1417700398261
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "11a6e245956fd5ee",
+        "text": "[[2014-12-04 Notes]]"
+      },
+      "id": "11a6e245956fd5ee",
+      "type": "add",
+      "after": "cef595ece54d3598",
+      "date": 1417700407014
     }
   ]
 }

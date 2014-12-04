@@ -40,6 +40,21 @@
       "type": "pagefold",
       "id": "1d49a426dbe2458a",
       "text": "Done"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae9ebfc78080b390",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "1c7ae5863dbaa1de",
+      "text": "☑ Configurable output format"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea6c36c93be5f1aa",
+      "text": "☑ Remove less useful pages from stance-viewer-sinatra"
     }
   ],
   "journal": [
@@ -246,6 +261,59 @@
         "text": "Done"
       },
       "date": 1417710628134
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ae9ebfc78080b390",
+        "text": "☐ Configurable output format"
+      },
+      "after": "1d49a426dbe2458a",
+      "id": "ae9ebfc78080b390",
+      "date": 1417710639177
+    },
+    {
+      "type": "edit",
+      "id": "ae9ebfc78080b390",
+      "item": {
+        "type": "paragraph",
+        "id": "ae9ebfc78080b390",
+        "text": " "
+      },
+      "date": 1417710671526
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ea6c36c93be5f1aa",
+        "text": ""
+      },
+      "id": "ea6c36c93be5f1aa",
+      "type": "add",
+      "after": "ae9ebfc78080b390",
+      "date": 1417710671539
+    },
+    {
+      "type": "edit",
+      "id": "ea6c36c93be5f1aa",
+      "item": {
+        "type": "paragraph",
+        "id": "ea6c36c93be5f1aa",
+        "text": "☑ Remove less useful pages from stance-viewer-sinatra"
+      },
+      "date": 1417710706064
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c7ae5863dbaa1de",
+        "text": "☑ Configurable output format"
+      },
+      "id": "1c7ae5863dbaa1de",
+      "type": "add",
+      "after": "ae9ebfc78080b390",
+      "date": 1417710671536
     }
   ]
 }

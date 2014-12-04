@@ -115,6 +115,11 @@
       "type": "paragraph",
       "id": "b7e7c7b022d6be2c",
       "text": "☐ get Issue info through the API, rather than directly from file storage."
+    },
+    {
+      "type": "paragraph",
+      "id": "a1ee223a0258c416",
+      "text": "☐ remove calls to Morph"
     }
   ],
   "journal": [
@@ -854,6 +859,27 @@
       "type": "remove",
       "id": "ceaeffeb49b11b0e",
       "date": 1417615498381
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a1ee223a0258c416",
+        "text": ""
+      },
+      "id": "a1ee223a0258c416",
+      "type": "add",
+      "after": "b7e7c7b022d6be2c",
+      "date": 1417701058891
+    },
+    {
+      "type": "edit",
+      "id": "a1ee223a0258c416",
+      "item": {
+        "type": "paragraph",
+        "id": "a1ee223a0258c416",
+        "text": "☐ remove calls to Morph"
+      },
+      "date": 1417701091474
     }
   ]
 }

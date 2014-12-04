@@ -15,6 +15,31 @@
       "type": "paragraph",
       "id": "b270e15477a184f2",
       "text": "So for now the key pages are simply: the giant list of MPs; a page for each MP listing all their stances; and an MP/stance detail page. This makes it obvious that the page that's \"missing\", in the sense that it doesn't really do anything atm, is the overarching page for an Issue generally (i.e. not one MP's stance on it). This used to list party stances with link to the Party page to explore further, but now that there is no Party page, this leaves this very bare. We do have a brief description of what this should be in the work notes, but I'm leaving it stark for now as a reminder that we need to flesh that out more. (In particular, if we're going to simply show data for the 'main parties', we'll need to make sure that's not just England-centric)."
+    },
+    {
+      "type": "paragraph",
+      "id": "330a5a92d8a0e38a",
+      "text": "Next up: starting to tweak the possible output formats from Stancer. The goal here is to considerably extend this, so as to include pretty much all the data that we will want to display, rather than having to post-process that in the viewing application."
+    },
+    {
+      "type": "paragraph",
+      "id": "e8d7430c285ce933",
+      "text": "The first step was to simply add a configuration option to switch the output between a list of stance records, each containing a 'voter' field (the more traditional JSON / Ruby way), or a hash, keyed on the 'voter' (less common, but which was needed in [[stance-viewer-jekyll]] (taking advantage of an un(der)documented feature for hash access by a dynamic key) for generation to finish within the Github Pages timeout limit.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "25efe795688a4be6",
+      "text": "Next: more elaborate options."
+    },
+    {
+      "type": "paragraph",
+      "id": "cecc787ac31edfa6",
+      "text": " "
+    },
+    {
+      "type": "pagefold",
+      "id": "1d49a426dbe2458a",
+      "text": "Done"
     }
   ],
   "journal": [
@@ -107,6 +132,120 @@
       "type": "remove",
       "id": "055caf450e0d8da3",
       "date": 1417700959537
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "330a5a92d8a0e38a",
+        "text": ""
+      },
+      "id": "330a5a92d8a0e38a",
+      "type": "add",
+      "after": "b270e15477a184f2",
+      "date": 1417710277343
+    },
+    {
+      "type": "edit",
+      "id": "330a5a92d8a0e38a",
+      "item": {
+        "type": "paragraph",
+        "id": "330a5a92d8a0e38a",
+        "text": "Next up: starting to tweak the possible output formats from Stancer. The goal here is to considerably extend this, so as to include pretty much all the data that we will want to display, rather than having to post-process that in the viewing application."
+      },
+      "date": 1417710334575
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e8d7430c285ce933",
+        "text": ""
+      },
+      "id": "e8d7430c285ce933",
+      "type": "add",
+      "after": "330a5a92d8a0e38a",
+      "date": 1417710334589
+    },
+    {
+      "type": "edit",
+      "id": "e8d7430c285ce933",
+      "item": {
+        "type": "paragraph",
+        "id": "e8d7430c285ce933",
+        "text": "The first step is to simply add a configuration option to switch the output between a list of stance records, each containing a 'voter' field (the more traditional JSON / Ruby way), or a hash, keyed on the 'voter' (less common, but which was needed in [stance-viewer-jekyll] (taking advantage of an un(der)documented feature for hash access by a dynamic key) for generation to finish within the Github Pages timeout limit.)"
+      },
+      "date": 1417710513621
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cecc787ac31edfa6",
+        "text": " "
+      },
+      "id": "cecc787ac31edfa6",
+      "type": "add",
+      "after": "e8d7430c285ce933",
+      "date": 1417710513632
+    },
+    {
+      "type": "edit",
+      "id": "e8d7430c285ce933",
+      "item": {
+        "type": "paragraph",
+        "id": "e8d7430c285ce933",
+        "text": "The first step is to simply add a configuration option to switch the output between a list of stance records, each containing a 'voter' field (the more traditional JSON / Ruby way), or a hash, keyed on the 'voter' (less common, but which was needed in [[stance-viewer-jekyll]] (taking advantage of an un(der)documented feature for hash access by a dynamic key) for generation to finish within the Github Pages timeout limit.)"
+      },
+      "date": 1417710521658
+    },
+    {
+      "type": "edit",
+      "id": "e8d7430c285ce933",
+      "item": {
+        "type": "paragraph",
+        "id": "e8d7430c285ce933",
+        "text": "The first step was to simply add a configuration option to switch the output between a list of stance records, each containing a 'voter' field (the more traditional JSON / Ruby way), or a hash, keyed on the 'voter' (less common, but which was needed in [[stance-viewer-jekyll]] (taking advantage of an un(der)documented feature for hash access by a dynamic key) for generation to finish within the Github Pages timeout limit.)"
+      },
+      "date": 1417710539232
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "25efe795688a4be6",
+        "text": ""
+      },
+      "id": "25efe795688a4be6",
+      "type": "add",
+      "after": "e8d7430c285ce933",
+      "date": 1417710554502
+    },
+    {
+      "type": "edit",
+      "id": "25efe795688a4be6",
+      "item": {
+        "type": "paragraph",
+        "id": "25efe795688a4be6",
+        "text": "Next: more elaborate options."
+      },
+      "date": 1417710558437
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d49a426dbe2458a"
+      },
+      "id": "1d49a426dbe2458a",
+      "type": "add",
+      "after": "cecc787ac31edfa6",
+      "date": 1417710618767
+    },
+    {
+      "type": "edit",
+      "id": "1d49a426dbe2458a",
+      "item": {
+        "type": "pagefold",
+        "id": "1d49a426dbe2458a",
+        "text": "Done"
+      },
+      "date": 1417710628134
     }
   ]
 }

@@ -59,6 +59,21 @@
     {
       "type": "paragraph",
       "id": "2f352ae64483619d",
+      "text": "☐ "
+    },
+    {
+      "type": "paragraph",
+      "id": "0626a20939ee4578",
+      "text": "☐ Configurable plain-language output rather than just raw Stance weights"
+    },
+    {
+      "type": "paragraph",
+      "id": "5185c5dd9f48cdc5",
+      "text": "☐ Multi-type Stances in output (not separate People/Party files)"
+    },
+    {
+      "type": "paragraph",
+      "id": "1d416f87bdc9e9fa",
       "text": "☐ Configurable Transformers"
     },
     {
@@ -880,6 +895,69 @@
       "type": "remove",
       "id": "ae9ebfc78080b390",
       "date": 1417710639174
+    },
+    {
+      "type": "edit",
+      "id": "2f352ae64483619d",
+      "item": {
+        "type": "paragraph",
+        "id": "2f352ae64483619d",
+        "text": "☐ "
+      },
+      "date": 1417711975861
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1d416f87bdc9e9fa",
+        "text": "☐ Configurable Transformers"
+      },
+      "id": "1d416f87bdc9e9fa",
+      "type": "add",
+      "after": "2f352ae64483619d",
+      "date": 1417711975872
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0626a20939ee4578",
+        "text": ""
+      },
+      "id": "0626a20939ee4578",
+      "type": "add",
+      "after": "2f352ae64483619d",
+      "date": 1417712023200
+    },
+    {
+      "type": "edit",
+      "id": "0626a20939ee4578",
+      "item": {
+        "type": "paragraph",
+        "id": "0626a20939ee4578",
+        "text": "☐ Configurable plain-language output rather than just raw Stance weights"
+      },
+      "date": 1417712044922
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5185c5dd9f48cdc5",
+        "text": ""
+      },
+      "id": "5185c5dd9f48cdc5",
+      "type": "add",
+      "after": "0626a20939ee4578",
+      "date": 1417712044928
+    },
+    {
+      "type": "edit",
+      "id": "5185c5dd9f48cdc5",
+      "item": {
+        "type": "paragraph",
+        "id": "5185c5dd9f48cdc5",
+        "text": "☐ Multi-type Stances in output (not separate People/Party files)"
+      },
+      "date": 1417712087351
     }
   ]
 }

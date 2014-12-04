@@ -2,8 +2,19 @@
   "title": "2014-12-04 Notes",
   "story": [
     {
-      "type": "factory",
-      "id": "9564129650a8471a"
+      "type": "paragraph",
+      "id": "9564129650a8471a",
+      "text": "First up today: cleaning up [[stance-viewer-sinatra]]. This started out as a clone of [[stance-viewer-jekyll]], but evolved to be the de facto testbed for the new TWFY work. So to make it easier to see what's there, and what still needs to happen, I'm switching it to <b>only</b> be things related to the TWFY work."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b90077d5caac717",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "b270e15477a184f2",
+      "text": "So for now the key pages are simply: the giant list of MPs; a page for each MP listing all their stances; and an MP/stance detail page. This makes it obvious that the page that's \"missing\", in the sense that it doesn't really do anything atm, is the overarching page for an Issue generally (i.e. not one MP's stance on it). This used to list party stances with link to the Party page to explore further, but now that there is no Party page, this leaves this very bare. We do have a brief description of what this should be in the work notes, but I'm leaving it stark for now as a reminder that we need to flesh that out more. (In particular, if we're going to simply show data for the 'main parties', we'll need to make sure that's not just England-centric)."
     }
   ],
   "journal": [
@@ -23,6 +34,79 @@
       "id": "9564129650a8471a",
       "type": "add",
       "date": 1417700415965
+    },
+    {
+      "type": "edit",
+      "id": "9564129650a8471a",
+      "item": {
+        "type": "paragraph",
+        "id": "9564129650a8471a",
+        "text": "First up today: cleaning up [[stance-viewer-sinatra]]. This started out as a clone of [[stance-viewer-jekyll]], but evolved to be the de facto testbed for the new TWFY work. So to make it easier to see what's there, and what still needs to happen, I'm switching it to <b>only</b> be things related to the TWFY work."
+      },
+      "date": 1417700501831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1b90077d5caac717",
+        "text": ""
+      },
+      "id": "1b90077d5caac717",
+      "type": "add",
+      "after": "9564129650a8471a",
+      "date": 1417700501847
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b270e15477a184f2",
+        "text": ""
+      },
+      "id": "b270e15477a184f2",
+      "type": "add",
+      "after": "1b90077d5caac717",
+      "date": 1417700630708
+    },
+    {
+      "type": "edit",
+      "id": "b270e15477a184f2",
+      "item": {
+        "type": "paragraph",
+        "id": "b270e15477a184f2",
+        "text": "So for now the key pages are simply: the giant list of MPs; a page for each MP listing all their stances; and an MP/stance detail page. This makes it obvious that the page that's \"missing\", in the sense that it doesn't really do anything atm, is the overarching page for an Issue generally (i.e. not one MP's stance on it). This used to list party stances with link to the Party page to explore further, but now that there is no Party page, this leaves this very bare. We do have a brief description of what this should be in the work notes, but I'm leaving it stark for now as a reminder that we need to flesh that out more. (In particular, if we're going to simply show data for the 'main parties', we'll need to make sure that's not just England-centric)."
+      },
+      "date": 1417700864459
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "564f7e18b34f6a2b",
+        "text": ""
+      },
+      "id": "564f7e18b34f6a2b",
+      "type": "add",
+      "after": "b270e15477a184f2",
+      "date": 1417700864470
+    },
+    {
+      "type": "remove",
+      "id": "564f7e18b34f6a2b",
+      "date": 1417700865379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "055caf450e0d8da3"
+      },
+      "id": "055caf450e0d8da3",
+      "type": "add",
+      "after": "b270e15477a184f2",
+      "date": 1417700955118
+    },
+    {
+      "type": "remove",
+      "id": "055caf450e0d8da3",
+      "date": 1417700959537
     }
   ]
 }

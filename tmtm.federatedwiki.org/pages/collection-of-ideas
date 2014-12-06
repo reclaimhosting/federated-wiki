@@ -45,6 +45,11 @@
       "type": "paragraph",
       "id": "43aef1d2be67e799",
       "text": "*Fedwiki* is a collection of ideas an individual is willing to maintain, in cooperation with a community."
+    },
+    {
+      "type": "paragraph",
+      "id": "552ba2303fe454e7",
+      "text": "See also [[Thinking Through Examples]]"
     }
   ],
   "journal": [
@@ -284,14 +289,83 @@
       "date": 1414884240190
     },
     {
-      "type": "fork",
-      "site": "journal14.hapgood.net:3000",
-      "date": 1415115804257
+      "item": {
+        "type": "paragraph",
+        "id": "4c6323371456dfd8",
+        "text": ""
+      },
+      "id": "4c6323371456dfd8",
+      "type": "add",
+      "after": "f5e7308351851823",
+      "date": 1416666171370
+    },
+    {
+      "type": "remove",
+      "id": "4c6323371456dfd8",
+      "date": 1416666173226
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "552ba2303fe454e7",
+        "text": ""
+      },
+      "id": "552ba2303fe454e7",
+      "type": "add",
+      "after": "168ccf5033506396",
+      "date": 1416666221502
+    },
+    {
+      "type": "edit",
+      "id": "552ba2303fe454e7",
+      "item": {
+        "type": "paragraph",
+        "id": "552ba2303fe454e7",
+        "text": "[[Thinking In Examples]]"
+      },
+      "date": 1416666246691
+    },
+    {
+      "type": "edit",
+      "id": "552ba2303fe454e7",
+      "item": {
+        "type": "paragraph",
+        "id": "552ba2303fe454e7",
+        "text": "[[Thinking Through Examples]]"
+      },
+      "date": 1416666260549
+    },
+    {
+      "type": "move",
+      "order": [
+        "3b464502e189f1d3",
+        "6f6b18047be855fb",
+        "f5e7308351851823",
+        "32f6bc828106adba",
+        "168ccf5033506396",
+        "ff970d1741b7860c",
+        "ceffc10fc4a23ae3",
+        "0b533e1ea3cb89d2",
+        "43aef1d2be67e799",
+        "552ba2303fe454e7"
+      ],
+      "id": "552ba2303fe454e7",
+      "date": 1416680207685
+    },
+    {
+      "type": "edit",
+      "id": "552ba2303fe454e7",
+      "item": {
+        "type": "paragraph",
+        "id": "552ba2303fe454e7",
+        "text": "See also [[Thinking Through Examples]]"
+      },
+      "date": 1416680215163
     },
     {
       "type": "fork",
-      "site": "forage.ward.fed.wiki.org",
-      "date": 1416306612161
+      "site": "journal14.hapgood.net:3000",
+      "date": 1417868881798
     }
   ]
 }

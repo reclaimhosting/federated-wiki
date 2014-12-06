@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "18ea1bbca8f7d75d"
+      "id": "dc38e135109f1142"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "e2c250c6ecdd20d2"
+      "id": "b2e0c4a052c37394"
     },
     {
-      "date": 1417867801000,
+      "date": 1417868848000,
+      "site": "tmtm.federatedwiki.org",
+      "slug": "collection-of-ideas",
+      "title": "Collection of Ideas",
+      "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 28 pages.",
+      "type": "reference",
+      "id": "5c4b94805bb2926d"
+    },
+    {
+      "date": 1417868401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "477865eb5ad3be58"
+      "id": "1a7d647d17d4c6b8"
     },
     {
       "date": 1417712056000,
@@ -27,7 +36,7 @@
       "title": "TODO List",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 17 pages.",
       "type": "reference",
-      "id": "4552408d5d1623e9"
+      "id": "4b19efe1c9e25614"
     },
     {
       "date": 1417643324000,
@@ -36,16 +45,7 @@
       "title": "jazz",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 45 pages.",
       "type": "reference",
-      "id": "737860c39868e49a"
-    },
-    {
-      "date": 1417552696000,
-      "site": "tmtm.federatedwiki.org",
-      "slug": "user-directory",
-      "title": "User Directory",
-      "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 28 pages.",
-      "type": "reference",
-      "id": "ef6e098048f33b14"
+      "id": "d97540487377134e"
     },
     {
       "date": 1417492681000,
@@ -54,55 +54,69 @@
       "title": "DFWs",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
       "type": "reference",
-      "id": "b9d1d66dadd80564"
+      "id": "1954805e79fbb534"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "6bc8f8a6f62e521a",
+      "id": "1d314d0093fb65db",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "18ea1bbca8f7d75d",
+      "id": "dc38e135109f1142",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "18ea1bbca8f7d75d"
+        "id": "dc38e135109f1142"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "e2c250c6ecdd20d2",
+      "id": "b2e0c4a052c37394",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "e2c250c6ecdd20d2"
+        "id": "b2e0c4a052c37394"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "477865eb5ad3be58",
+      "id": "5c4b94805bb2926d",
       "item": {
-        "date": 1417867801000,
+        "date": 1417868848000,
+        "site": "tmtm.federatedwiki.org",
+        "slug": "collection-of-ideas",
+        "title": "Collection of Ideas",
+        "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 28 pages.",
+        "type": "reference",
+        "id": "5c4b94805bb2926d"
+      },
+      "date": 1417869001000
+    },
+    {
+      "type": "add",
+      "id": "1a7d647d17d4c6b8",
+      "item": {
+        "date": 1417868401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "477865eb5ad3be58"
+        "id": "1a7d647d17d4c6b8"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "4552408d5d1623e9",
+      "id": "4b19efe1c9e25614",
       "item": {
         "date": 1417712056000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -110,13 +124,13 @@
         "title": "TODO List",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 17 pages.",
         "type": "reference",
-        "id": "4552408d5d1623e9"
+        "id": "4b19efe1c9e25614"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "737860c39868e49a",
+      "id": "d97540487377134e",
       "item": {
         "date": 1417643324000,
         "site": "max.federatedwiki.org",
@@ -124,27 +138,13 @@
         "title": "jazz",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 45 pages.",
         "type": "reference",
-        "id": "737860c39868e49a"
+        "id": "d97540487377134e"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     },
     {
       "type": "add",
-      "id": "ef6e098048f33b14",
-      "item": {
-        "date": 1417552696000,
-        "site": "tmtm.federatedwiki.org",
-        "slug": "user-directory",
-        "title": "User Directory",
-        "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 28 pages.",
-        "type": "reference",
-        "id": "ef6e098048f33b14"
-      },
-      "date": 1417868401000
-    },
-    {
-      "type": "add",
-      "id": "b9d1d66dadd80564",
+      "id": "1954805e79fbb534",
       "item": {
         "date": 1417492681000,
         "site": "jason.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "DFWs",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
         "type": "reference",
-        "id": "b9d1d66dadd80564"
+        "id": "1954805e79fbb534"
       },
-      "date": 1417868401000
+      "date": 1417869001000
     }
   ]
 }

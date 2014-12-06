@@ -1,0 +1,145 @@
+{
+  "title": "Lateral Join",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1f62746efb246b0a",
+      "text": "PostgreSQL’s Powerful New Join Type: LATERAL\nby Dan Robinson on December 2, 2014. [http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/ post]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e193c6f0c9ab2210",
+      "text": "Without lateral joins, we would need to resort to PL/pgSQL to do this analysis. Or, if our data set were small, we could get away with complex, inefficient queries. In an exploratory data science use case, you might just pull your data out of PostgreSQL and analyze it with your scripting language of choice."
+    },
+    {
+      "type": "paragraph",
+      "id": "944e7ee159b43a46",
+      "text": "But there is considerable power in being able to express these questions in SQL, especially if you’re wrapping it all in an approachable UI and exposing the functionality to nontechnical users."
+    },
+    {
+      "type": "pagefold",
+      "id": "29c4f4ecb154b648",
+      "text": "."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lateral Join",
+        "story": []
+      },
+      "date": 1417551108653
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f62746efb246b0a"
+      },
+      "id": "1f62746efb246b0a",
+      "type": "add",
+      "date": 1417551144343
+    },
+    {
+      "type": "edit",
+      "id": "1f62746efb246b0a",
+      "item": {
+        "type": "paragraph",
+        "id": "1f62746efb246b0a",
+        "text": "PostgreSQL’s Powerful New Join Type: LATERAL\nby Dan Robinson on December 2, 2014."
+      },
+      "date": 1417551150315
+    },
+    {
+      "type": "edit",
+      "id": "1f62746efb246b0a",
+      "item": {
+        "type": "paragraph",
+        "id": "1f62746efb246b0a",
+        "text": "PostgreSQL’s Powerful New Join Type: LATERAL\nby Dan Robinson on December 2, 2014. [http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/ post]"
+      },
+      "date": 1417551171514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e193c6f0c9ab2210"
+      },
+      "id": "e193c6f0c9ab2210",
+      "type": "add",
+      "after": "1f62746efb246b0a",
+      "date": 1417551255454
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40815145f60a3476"
+      },
+      "id": "40815145f60a3476",
+      "type": "add",
+      "after": "e193c6f0c9ab2210",
+      "date": 1417551260743
+    },
+    {
+      "type": "edit",
+      "id": "e193c6f0c9ab2210",
+      "item": {
+        "type": "paragraph",
+        "id": "e193c6f0c9ab2210",
+        "text": "Without lateral joins, we would need to resort to PL/pgSQL to do this analysis. Or, if our data set were small, we could get away with complex, inefficient queries. In an exploratory data science use case, you might just pull your data out of PostgreSQL and analyze it with your scripting language of choice. But there is considerable power in being able to express these questions in SQL, especially if you’re wrapping it all in an approachable UI and exposing the functionality to nontechnical users."
+      },
+      "date": 1417551262335
+    },
+    {
+      "type": "remove",
+      "id": "40815145f60a3476",
+      "date": 1417551264062
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29c4f4ecb154b648"
+      },
+      "id": "29c4f4ecb154b648",
+      "type": "add",
+      "after": "e193c6f0c9ab2210",
+      "date": 1417551265619
+    },
+    {
+      "type": "edit",
+      "id": "29c4f4ecb154b648",
+      "item": {
+        "type": "pagefold",
+        "id": "29c4f4ecb154b648",
+        "text": "."
+      },
+      "date": 1417551269106
+    },
+    {
+      "type": "edit",
+      "id": "e193c6f0c9ab2210",
+      "item": {
+        "type": "paragraph",
+        "id": "e193c6f0c9ab2210",
+        "text": "Without lateral joins, we would need to resort to PL/pgSQL to do this analysis. Or, if our data set were small, we could get away with complex, inefficient queries. In an exploratory data science use case, you might just pull your data out of PostgreSQL and analyze it with your scripting language of choice."
+      },
+      "date": 1417551290859
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "944e7ee159b43a46",
+        "text": "But there is considerable power in being able to express these questions in SQL, especially if you’re wrapping it all in an approachable UI and exposing the functionality to nontechnical users."
+      },
+      "id": "944e7ee159b43a46",
+      "type": "add",
+      "after": "e193c6f0c9ab2210",
+      "date": 1417551290869
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1417869793935
+    }
+  ]
+}

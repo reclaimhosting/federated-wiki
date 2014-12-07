@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "1038fd40a717e747",
-      "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by [[Eddie Kohler|  http://read.seas.harvard.edu/~kohler/ ]]http://www.lcdf.org/gifsicle/"
+      "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by [http://read.seas.harvard.edu/~kohler Eddie Kohler], [http://www.lcdf.org/gifsicle/ Gifsicle] can create animated gifs from a set of single gifs, break gifs apart, optimise them and more."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5d911cbee0ee75e",
+      "text": " "
     }
   ],
   "journal": [
@@ -80,6 +85,89 @@
         "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by [[Eddie Kohler|  http://read.seas.harvard.edu/~kohler/ ]]http://www.lcdf.org/gifsicle/"
       },
       "date": 1417951834044
+    },
+    {
+      "type": "edit",
+      "id": "1038fd40a717e747",
+      "item": {
+        "type": "paragraph",
+        "id": "1038fd40a717e747",
+        "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by Eddie Kohler|  http://read.seas.harvard.edu/~kohler/ "
+      },
+      "date": 1417951850141
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a5d911cbee0ee75e",
+        "text": "http://www.lcdf.org/gifsicle/"
+      },
+      "id": "a5d911cbee0ee75e",
+      "type": "add",
+      "after": "1038fd40a717e747",
+      "date": 1417951850186
+    },
+    {
+      "type": "edit",
+      "id": "a5d911cbee0ee75e",
+      "item": {
+        "type": "paragraph",
+        "id": "a5d911cbee0ee75e",
+        "text": " "
+      },
+      "date": 1417951854167
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97816a54a74e0429",
+        "text": "http://www.lcdf.org/gifsicle/"
+      },
+      "id": "97816a54a74e0429",
+      "type": "add",
+      "after": "a5d911cbee0ee75e",
+      "date": 1417951854175
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a45b308e96aaf947",
+        "text": ""
+      },
+      "id": "a45b308e96aaf947",
+      "type": "add",
+      "after": "a5d911cbee0ee75e",
+      "date": 1417951854195
+    },
+    {
+      "type": "remove",
+      "id": "a45b308e96aaf947",
+      "date": 1417951855521
+    },
+    {
+      "type": "edit",
+      "id": "1038fd40a717e747",
+      "item": {
+        "type": "paragraph",
+        "id": "1038fd40a717e747",
+        "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by [http://read.seas.harvard.edu/~kohler Eddie Kohler]"
+      },
+      "date": 1417951903337
+    },
+    {
+      "type": "remove",
+      "id": "97816a54a74e0429",
+      "date": 1417951910854
+    },
+    {
+      "type": "edit",
+      "id": "1038fd40a717e747",
+      "item": {
+        "type": "paragraph",
+        "id": "1038fd40a717e747",
+        "text": "Gifsicle is a command line application for dealing with animated gifs in may ways. Created by [http://read.seas.harvard.edu/~kohler Eddie Kohler], [http://www.lcdf.org/gifsicle/ Gifsicle] can create animated gifs from a set of single gifs, break gifs apart, optimise them and more."
+      },
+      "date": 1417951969828
     }
   ]
 }

@@ -1,0 +1,165 @@
+{
+  "title": "gifboard",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1968299625e93258",
+      "text": "I've [http://johnjohnston.info/106/storyboard-and-gifboard/ blogged a bit] about gifboard. It is part of [http://markolson.github.io/storyboard/ storyboard] which makes pdfs from movies with subtitles."
+    },
+    {
+      "type": "paragraph",
+      "id": "b6400a905ae469d3",
+      "text": "Once you have gifboard installed you pass it a movie as an argument, if you do not have a string of text to search for, it will list the subtitles. The subtitles should have the same filename as the video file except fro the extension."
+    },
+    {
+      "type": "factory",
+      "id": "91f19ccd10931b61",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://johnjohnston.info/106/wp-content/uploads/2013/02/kill_us_all.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://johnjohnston.info/106/wp-content/uploads/2013/02/kill_us_all.gif",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+      }
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "gifboard",
+        "story": []
+      },
+      "date": 1417952016585
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1968299625e93258"
+      },
+      "id": "1968299625e93258",
+      "type": "add",
+      "date": 1417952026570
+    },
+    {
+      "type": "edit",
+      "id": "1968299625e93258",
+      "item": {
+        "type": "paragraph",
+        "id": "1968299625e93258",
+        "text": "I've [http://johnjohnston.info/106/storyboard-and-gifboard/ blogged a bit] about gifboard. It is part of the "
+      },
+      "date": 1417952051323
+    },
+    {
+      "type": "edit",
+      "id": "1968299625e93258",
+      "item": {
+        "type": "paragraph",
+        "id": "1968299625e93258",
+        "text": "I've [http://johnjohnston.info/106/storyboard-and-gifboard/ blogged a bit] about gifboard. It is part of [http://markolson.github.io/storyboard/ storyboard] which makes pdfs from movies with subtitles."
+      },
+      "date": 1417952115718
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1bece0da0ed55695",
+        "text": ""
+      },
+      "id": "1bece0da0ed55695",
+      "type": "add",
+      "after": "1968299625e93258",
+      "date": 1417952115745
+    },
+    {
+      "type": "remove",
+      "id": "1bece0da0ed55695",
+      "date": 1417952118784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6400a905ae469d3"
+      },
+      "id": "b6400a905ae469d3",
+      "type": "add",
+      "after": "1968299625e93258",
+      "date": 1417952175063
+    },
+    {
+      "type": "edit",
+      "id": "b6400a905ae469d3",
+      "item": {
+        "type": "paragraph",
+        "id": "b6400a905ae469d3",
+        "text": "Once you have gifboard installed you pass it a movie as an argument, if you do not have a string of text to search or"
+      },
+      "date": 1417952210549
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a42874e690cb24f5",
+        "text": ""
+      },
+      "id": "a42874e690cb24f5",
+      "type": "add",
+      "after": "b6400a905ae469d3",
+      "date": 1417952210575
+    },
+    {
+      "type": "remove",
+      "id": "a42874e690cb24f5",
+      "date": 1417952210579
+    },
+    {
+      "type": "edit",
+      "id": "b6400a905ae469d3",
+      "item": {
+        "type": "paragraph",
+        "id": "b6400a905ae469d3",
+        "text": "Once you have gifboard installed you pass it a movie as an argument, if you do not have a string of text to search for, it will list the subtitles. The subtitles should have the same filename as the video file except fro the extension."
+      },
+      "date": 1417952248506
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6024ab74e5073053",
+        "text": ""
+      },
+      "id": "6024ab74e5073053",
+      "type": "add",
+      "after": "b6400a905ae469d3",
+      "date": 1417952248529
+    },
+    {
+      "type": "remove",
+      "id": "6024ab74e5073053",
+      "date": 1417952250801
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91f19ccd10931b61"
+      },
+      "id": "91f19ccd10931b61",
+      "type": "add",
+      "after": "b6400a905ae469d3",
+      "date": 1417952252561
+    },
+    {
+      "type": "edit",
+      "id": "91f19ccd10931b61",
+      "item": {
+        "type": "factory",
+        "id": "91f19ccd10931b61",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://johnjohnston.info/106/wp-content/uploads/2013/02/kill_us_all.gif\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://johnjohnston.info/106/wp-content/uploads/2013/02/kill_us_all.gif",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25"
+        }
+      },
+      "date": 1417952313270
+    }
+  ]
+}

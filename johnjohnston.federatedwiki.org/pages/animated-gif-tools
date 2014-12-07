@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "7f958fe22f8b6c92",
       "text": "[[gifsicle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b33dc6f9c8e71813",
+      "text": "[[gifboard]]"
     }
   ],
   "journal": [
@@ -112,6 +117,42 @@
       "type": "remove",
       "id": "1a689a8ba83255f9",
       "date": 1417951653988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b33dc6f9c8e71813"
+      },
+      "id": "b33dc6f9c8e71813",
+      "type": "add",
+      "after": "7f958fe22f8b6c92",
+      "date": 1417952005385
+    },
+    {
+      "type": "edit",
+      "id": "b33dc6f9c8e71813",
+      "item": {
+        "type": "paragraph",
+        "id": "b33dc6f9c8e71813",
+        "text": "[[gifboard]]"
+      },
+      "date": 1417952013593
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ff7adb11bf8dafa5",
+        "text": ""
+      },
+      "id": "ff7adb11bf8dafa5",
+      "type": "add",
+      "after": "b33dc6f9c8e71813",
+      "date": 1417952013621
+    },
+    {
+      "type": "remove",
+      "id": "ff7adb11bf8dafa5",
+      "date": 1417952016470
     }
   ]
 }

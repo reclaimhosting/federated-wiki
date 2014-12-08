@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "66ef015512490011"
+      "id": "67249178af6a323e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "55794c6ec6460df8"
+      "id": "5781831309c03e7e"
     },
     {
-      "date": 1418020801000,
+      "date": 1418021777000,
+      "site": "tmtm.federatedwiki.org",
+      "slug": "idea-mining",
+      "title": "Idea Mining",
+      "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 32 pages.",
+      "type": "reference",
+      "id": "9e6c38d611a1de00"
+    },
+    {
+      "date": 1418021401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "3321e3ad0b269545"
+      "id": "7e8ed4723373c22d"
     },
     {
       "date": 1417952444000,
@@ -27,7 +36,7 @@
       "title": "Animated Gif Tools",
       "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 8 pages.",
       "type": "reference",
-      "id": "8f746189aaea3ac1"
+      "id": "8ed9b59f7ab827b6"
     },
     {
       "date": 1417925826000,
@@ -36,7 +45,7 @@
       "title": "Mike Caulfield",
       "text": "In [http://mike.federatedwiki.org mike.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "a9393904d52d452e"
+      "id": "cc5ac98aba2f6f26"
     },
     {
       "date": 1417900802000,
@@ -45,16 +54,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
       "type": "reference",
-      "id": "adc6e47b3b404b3f"
-    },
-    {
-      "date": 1417869760000,
-      "site": "tmtm.federatedwiki.org",
-      "slug": "lateral-join",
-      "title": "Lateral Join",
-      "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 29 pages.",
-      "type": "reference",
-      "id": "b43a4be71aecdbd3"
+      "id": "6a8123c2d048b58a"
     },
     {
       "date": 1417712056000,
@@ -63,7 +63,7 @@
       "title": "TODO List",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 17 pages.",
       "type": "reference",
-      "id": "560a44dac8526e67"
+      "id": "21eb3702a2de33f0"
     },
     {
       "date": 1417643324000,
@@ -72,55 +72,69 @@
       "title": "jazz",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 45 pages.",
       "type": "reference",
-      "id": "141625594a503f61"
+      "id": "f6488f81db382da0"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4808fbba86fde470",
+      "id": "1cb2c9efa3f6e618",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "66ef015512490011",
+      "id": "67249178af6a323e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "66ef015512490011"
+        "id": "67249178af6a323e"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "55794c6ec6460df8",
+      "id": "5781831309c03e7e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "55794c6ec6460df8"
+        "id": "5781831309c03e7e"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "3321e3ad0b269545",
+      "id": "9e6c38d611a1de00",
       "item": {
-        "date": 1418020801000,
+        "date": 1418021777000,
+        "site": "tmtm.federatedwiki.org",
+        "slug": "idea-mining",
+        "title": "Idea Mining",
+        "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 32 pages.",
+        "type": "reference",
+        "id": "9e6c38d611a1de00"
+      },
+      "date": 1418022001000
+    },
+    {
+      "type": "add",
+      "id": "7e8ed4723373c22d",
+      "item": {
+        "date": 1418021401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "3321e3ad0b269545"
+        "id": "7e8ed4723373c22d"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "8f746189aaea3ac1",
+      "id": "8ed9b59f7ab827b6",
       "item": {
         "date": 1417952444000,
         "site": "johnjohnston.federatedwiki.org",
@@ -128,13 +142,13 @@
         "title": "Animated Gif Tools",
         "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 8 pages.",
         "type": "reference",
-        "id": "8f746189aaea3ac1"
+        "id": "8ed9b59f7ab827b6"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "a9393904d52d452e",
+      "id": "cc5ac98aba2f6f26",
       "item": {
         "date": 1417925826000,
         "site": "mike.federatedwiki.org",
@@ -142,13 +156,13 @@
         "title": "Mike Caulfield",
         "text": "In [http://mike.federatedwiki.org mike.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "a9393904d52d452e"
+        "id": "cc5ac98aba2f6f26"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "adc6e47b3b404b3f",
+      "id": "6a8123c2d048b58a",
       "item": {
         "date": 1417900802000,
         "site": "jason.federatedwiki.org",
@@ -156,27 +170,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
         "type": "reference",
-        "id": "adc6e47b3b404b3f"
+        "id": "6a8123c2d048b58a"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "b43a4be71aecdbd3",
-      "item": {
-        "date": 1417869760000,
-        "site": "tmtm.federatedwiki.org",
-        "slug": "lateral-join",
-        "title": "Lateral Join",
-        "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 29 pages.",
-        "type": "reference",
-        "id": "b43a4be71aecdbd3"
-      },
-      "date": 1418021401000
-    },
-    {
-      "type": "add",
-      "id": "560a44dac8526e67",
+      "id": "21eb3702a2de33f0",
       "item": {
         "date": 1417712056000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "TODO List",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 17 pages.",
         "type": "reference",
-        "id": "560a44dac8526e67"
+        "id": "21eb3702a2de33f0"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     },
     {
       "type": "add",
-      "id": "141625594a503f61",
+      "id": "f6488f81db382da0",
       "item": {
         "date": 1417643324000,
         "site": "max.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "jazz",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 45 pages.",
         "type": "reference",
-        "id": "141625594a503f61"
+        "id": "f6488f81db382da0"
       },
-      "date": 1418021401000
+      "date": 1418022001000
     }
   ]
 }

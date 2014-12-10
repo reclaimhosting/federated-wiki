@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "99b0feccebca6f8d",
       "text": "before"
+    },
+    {
+      "type": "paragraph",
+      "id": "dabddd04a5ccc589",
+      "text": "prefix"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "before"
       },
       "date": 1418246285344
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dabddd04a5ccc589"
+      },
+      "id": "dabddd04a5ccc589",
+      "type": "add",
+      "after": "99b0feccebca6f8d",
+      "date": 1418249404497
+    },
+    {
+      "type": "edit",
+      "id": "dabddd04a5ccc589",
+      "item": {
+        "type": "paragraph",
+        "id": "dabddd04a5ccc589",
+        "text": "prefix"
+      },
+      "date": 1418249450274
     }
   ]
 }

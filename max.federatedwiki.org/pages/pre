@@ -1,0 +1,39 @@
+{
+  "title": "pre",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "187fe55902cbb21a",
+      "text": "before"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "pre",
+        "story": []
+      },
+      "date": 1418246295289
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "187fe55902cbb21a"
+      },
+      "id": "187fe55902cbb21a",
+      "type": "add",
+      "date": 1418246297013
+    },
+    {
+      "type": "edit",
+      "id": "187fe55902cbb21a",
+      "item": {
+        "type": "paragraph",
+        "id": "187fe55902cbb21a",
+        "text": "before"
+      },
+      "date": 1418246303995
+    }
+  ]
+}

@@ -15,17 +15,17 @@
     },
     {
       "type": "reference",
-      "id": "9302476145b71d88",
-      "site": "rosano.federatedwiki.org",
-      "title": "Rosano Coutinho",
-      "text": "Hello!"
-    },
-    {
-      "type": "reference",
       "id": "0c6298446b678ba6",
       "site": "tim.federatedwiki.org",
       "title": "Tim Owens",
       "text": "@timmmmyboy"
+    },
+    {
+      "type": "reference",
+      "id": "9302476145b71d88",
+      "site": "rosano.federatedwiki.org",
+      "title": "Rosano Coutinho",
+      "text": "Hello!"
     },
     {
       "type": "reference",
@@ -366,6 +366,49 @@
       "type": "fork",
       "site": "jason.federatedwiki.org",
       "date": 1415670000373
+    },
+    {
+      "type": "remove",
+      "id": "9302476145b71d88",
+      "date": 1418238176836
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f0586493e6266ef7"
+      },
+      "id": "f0586493e6266ef7",
+      "type": "add",
+      "after": "dea11b5f742c5089",
+      "date": 1418238228459
+    },
+    {
+      "type": "edit",
+      "id": "f0586493e6266ef7",
+      "item": {
+        "type": "paragraph",
+        "id": "f0586493e6266ef7",
+        "text": "http://max.federatedwiki.org/rosano-coutinho.html"
+      },
+      "date": 1418238244878
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "9302476145b71d88",
+        "site": "rosano.federatedwiki.org",
+        "title": "Rosano Coutinho",
+        "text": "Hello!"
+      },
+      "after": "0c6298446b678ba6",
+      "id": "9302476145b71d88",
+      "date": 1418238264835
+    },
+    {
+      "type": "remove",
+      "id": "f0586493e6266ef7",
+      "date": 1418238287944
     }
   ]
 }

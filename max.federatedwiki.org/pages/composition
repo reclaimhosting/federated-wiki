@@ -25,6 +25,21 @@
       "type": "paragraph",
       "id": "52a657b918d765a8",
       "text": "[[media for your essay]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cf42f6735803f12e",
+      "text": "[[writing a research paper]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "172ee5809c1262d4",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "b5b9ba9ec74ddec4",
+      "text": ""
     }
   ],
   "journal": [
@@ -199,6 +214,64 @@
       "type": "remove",
       "id": "21653fba79f679fc",
       "date": 1415910603950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf42f6735803f12e"
+      },
+      "id": "cf42f6735803f12e",
+      "type": "add",
+      "after": "52a657b918d765a8",
+      "date": 1418238662934
+    },
+    {
+      "type": "edit",
+      "id": "cf42f6735803f12e",
+      "item": {
+        "type": "paragraph",
+        "id": "cf42f6735803f12e",
+        "text": "[[writing a research paper]]"
+      },
+      "date": 1418238723571
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10d9112867689a1d",
+        "text": ""
+      },
+      "id": "10d9112867689a1d",
+      "type": "add",
+      "after": "cf42f6735803f12e",
+      "date": 1418238723582
+    },
+    {
+      "type": "remove",
+      "id": "10d9112867689a1d",
+      "date": 1418238724784
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "172ee5809c1262d4",
+        "text": ""
+      },
+      "id": "172ee5809c1262d4",
+      "type": "add",
+      "after": "cf42f6735803f12e",
+      "date": 1418238948611
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5b9ba9ec74ddec4",
+        "text": ""
+      },
+      "id": "b5b9ba9ec74ddec4",
+      "type": "add",
+      "after": "172ee5809c1262d4",
+      "date": 1418238967863
     }
   ]
 }

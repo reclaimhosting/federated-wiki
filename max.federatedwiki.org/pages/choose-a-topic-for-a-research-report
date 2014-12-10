@@ -1,0 +1,100 @@
+{
+  "title": "choose a topic for a research report",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7319354cab8134b4",
+      "text": "now you can go on to complete your research report on [[writing a research paper]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f014a281929c1b7c",
+      "text": "to choose a topic for your research report you should think about topics that other people don't usually know a lot about so that you are teaching the people who read your research report something new."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "choose a topic for a research report",
+        "story": []
+      },
+      "date": 1418239169796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f014a281929c1b7c"
+      },
+      "id": "f014a281929c1b7c",
+      "type": "add",
+      "date": 1418239176760
+    },
+    {
+      "type": "edit",
+      "id": "f014a281929c1b7c",
+      "item": {
+        "type": "paragraph",
+        "id": "f014a281929c1b7c",
+        "text": "to choose a topic for your research report you should think about topics that other people don't usually know a lot about so that you are teaching the people who read your research report something new."
+      },
+      "date": 1418239321054
+    },
+    {
+      "type": "edit",
+      "id": "ddadfe7a2d67e4a5",
+      "item": {
+        "type": "paragraph",
+        "id": "ddadfe7a2d67e4a5",
+        "text": "when you are writing a research report you should also think about how long you want to make your report.if you are aiming for 100 page book you probably want a very broad topic but, if you are only trying to write a few pages of research you need to find a much less broad subject."
+      },
+      "date": 1418239481592
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7319354cab8134b4"
+      },
+      "id": "7319354cab8134b4",
+      "type": "add",
+      "after": "ddadfe7a2d67e4a5",
+      "date": 1418239490228
+    },
+    {
+      "type": "edit",
+      "id": "7319354cab8134b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7319354cab8134b4",
+        "text": "now you can go on to complete your research report on [[writing a research report]]"
+      },
+      "date": 1418239552156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b862edea0581a4a",
+        "text": ""
+      },
+      "id": "8b862edea0581a4a",
+      "type": "add",
+      "after": "7319354cab8134b4",
+      "date": 1418239552165
+    },
+    {
+      "type": "remove",
+      "id": "8b862edea0581a4a",
+      "date": 1418239553481
+    },
+    {
+      "type": "edit",
+      "id": "7319354cab8134b4",
+      "item": {
+        "type": "paragraph",
+        "id": "7319354cab8134b4",
+        "text": "now you can go on to complete your research report on [[writing a research paper]]"
+      },
+      "date": 1418239573164
+    }
+  ]
+}

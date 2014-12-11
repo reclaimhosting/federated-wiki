@@ -1,11 +1,6 @@
 {
   "title": "introduction to the jungle book",
-  "story": [
-    {
-      "type": "factory",
-      "id": "f19e82832c418049"
-    }
-  ],
+  "story": [],
   "journal": [
     {
       "type": "create",
@@ -37,6 +32,11 @@
       "id": "f19e82832c418049",
       "type": "add",
       "date": 1418329945033
+    },
+    {
+      "type": "remove",
+      "id": "f19e82832c418049",
+      "date": 1418330886059
     }
   ]
 }

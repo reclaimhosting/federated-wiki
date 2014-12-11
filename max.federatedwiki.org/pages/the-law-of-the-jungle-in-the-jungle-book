@@ -1,0 +1,65 @@
+{
+  "title": "the law of the jungle in the jungle book",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "67e8c322ba943a1e",
+      "text": "the law of the jungle is that the strength of the pack is the wolf and the strength of the wolf of pack."
+    },
+    {
+      "type": "paragraph",
+      "id": "908862a4ff8f7ab1",
+      "text": "it also says that if the wolf breaks the law it dies."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "the law of the jungle in the jungle book",
+        "story": []
+      },
+      "date": 1418330908272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "67e8c322ba943a1e"
+      },
+      "id": "67e8c322ba943a1e",
+      "type": "add",
+      "date": 1418330919237
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "908862a4ff8f7ab1",
+        "text": ""
+      },
+      "id": "908862a4ff8f7ab1",
+      "type": "add",
+      "after": "67e8c322ba943a1e",
+      "date": 1418331060496
+    },
+    {
+      "type": "edit",
+      "id": "67e8c322ba943a1e",
+      "item": {
+        "type": "paragraph",
+        "id": "67e8c322ba943a1e",
+        "text": "the law of the jungle is that the strength of the pack is the wolf and the strength of the wolf of pack."
+      },
+      "date": 1418331060488
+    },
+    {
+      "type": "edit",
+      "id": "908862a4ff8f7ab1",
+      "item": {
+        "type": "paragraph",
+        "id": "908862a4ff8f7ab1",
+        "text": "it also says that if the wolf breaks the law it dies."
+      },
+      "date": 1418331119324
+    }
+  ]
+}

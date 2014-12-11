@@ -1,0 +1,42 @@
+{
+  "title": "introduction to the jungle book",
+  "story": [
+    {
+      "type": "factory",
+      "id": "f19e82832c418049"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "introduction to the jungle book",
+        "story": []
+      },
+      "date": 1418329861659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e70c93172af5c9d"
+      },
+      "id": "5e70c93172af5c9d",
+      "type": "add",
+      "date": 1418329863995
+    },
+    {
+      "type": "remove",
+      "id": "5e70c93172af5c9d",
+      "date": 1418329943111
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f19e82832c418049"
+      },
+      "id": "f19e82832c418049",
+      "type": "add",
+      "date": 1418329945033
+    }
+  ]
+}

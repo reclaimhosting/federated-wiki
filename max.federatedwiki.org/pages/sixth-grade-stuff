@@ -41,6 +41,11 @@
       "type": "paragraph",
       "id": "244ee7cf1bdd2097",
       "text": "[[music]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9c5b78248fa287cc",
+      "text": "[[literature]]"
     }
   ],
   "journal": [
@@ -213,6 +218,26 @@
       ],
       "id": "1af4a6139ca7a45b",
       "date": 1417640287119
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c5b78248fa287cc"
+      },
+      "id": "9c5b78248fa287cc",
+      "type": "add",
+      "after": "244ee7cf1bdd2097",
+      "date": 1418329705637
+    },
+    {
+      "type": "edit",
+      "id": "9c5b78248fa287cc",
+      "item": {
+        "type": "paragraph",
+        "id": "9c5b78248fa287cc",
+        "text": "[[literature]]"
+      },
+      "date": 1418329723085
     }
   ]
 }

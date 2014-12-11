@@ -1,0 +1,90 @@
+{
+  "title": "literature",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f765335a699470ea",
+      "text": "[[introduction to the jungle book]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "afd853cb2bdce4bb",
+      "text": "[[the law of the jungle in the jungle book]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "literature",
+        "story": []
+      },
+      "date": 1418329726073
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f765335a699470ea"
+      },
+      "id": "f765335a699470ea",
+      "type": "add",
+      "date": 1418329745328
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "433c072645edcc99"
+      },
+      "id": "433c072645edcc99",
+      "type": "add",
+      "after": "f765335a699470ea",
+      "date": 1418329763320
+    },
+    {
+      "type": "remove",
+      "id": "433c072645edcc99",
+      "date": 1418329789308
+    },
+    {
+      "type": "edit",
+      "id": "f765335a699470ea",
+      "item": {
+        "type": "paragraph",
+        "id": "f765335a699470ea",
+        "text": "introduction to the jungle book"
+      },
+      "date": 1418329809282
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "afd853cb2bdce4bb",
+        "text": ""
+      },
+      "id": "afd853cb2bdce4bb",
+      "type": "add",
+      "after": "f765335a699470ea",
+      "date": 1418329809290
+    },
+    {
+      "type": "edit",
+      "id": "afd853cb2bdce4bb",
+      "item": {
+        "type": "paragraph",
+        "id": "afd853cb2bdce4bb",
+        "text": "[[the law of the jungle in the jungle book]]"
+      },
+      "date": 1418329847315
+    },
+    {
+      "type": "edit",
+      "id": "f765335a699470ea",
+      "item": {
+        "type": "paragraph",
+        "id": "f765335a699470ea",
+        "text": "[[introduction to the jungle book]]"
+      },
+      "date": 1418329855919
+    }
+  ]
+}

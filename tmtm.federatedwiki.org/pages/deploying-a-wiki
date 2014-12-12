@@ -1,0 +1,1038 @@
+{
+  "title": "Deploying a wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c973180a103e32af",
+      "text": "There are lots of ways to deploy Federated Wiki. Here we are just talking about the easiest way to deploy the Node version to it's own, otherwise empty, Ubuntu 14.04 VPS from Digital Ocean."
+    },
+    {
+      "type": "paragraph",
+      "id": "31bfacaf7f769a1f",
+      "text": "Start by creating a 'droplet' after creating an account and logging in at Digital Ocean. [http://digitalocean.com website]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6aa5f825bf8d1a2c",
+      "text": "Enter a host name (can be anything), and select a size."
+    },
+    {
+      "type": "paragraph",
+      "id": "fab60b5581f7ff21",
+      "text": "If this is for personal use, or just you and a few friends, go ahead and choose the cheapest possible VPS (512mb ram). If you're planning on having a lot of wikis or a lot of traffic, spring for the 2gb ram 2 cpu option."
+    },
+    {
+      "type": "paragraph",
+      "id": "7fa4c2ef2a181159",
+      "text": "Choose the data center nearest you, and don't worry about any of 'additional options', we don't need them."
+    },
+    {
+      "type": "paragraph",
+      "id": "8e2a9d4b1127f55f",
+      "text": "Select Ubuntu 14.04 x64 as your operating system. If you use SSH go ahead and add your key and select it. If not, don't worry about it, it's not necessary."
+    },
+    {
+      "type": "paragraph",
+      "id": "0ea5fc73877c9094",
+      "text": "Click create droplet, wait about a minute, and you have a nice new server of your very own!"
+    },
+    {
+      "type": "paragraph",
+      "id": "cff7065b1ecdb489",
+      "text": "The install script can be found here: [https://gist.github.com/nrn/f818fa7decfd910362b7 gist]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f764851918adee8c",
+      "text": "Log into your server as the user 'root', either by sshing into the IP address with the key you provided, or by clicking on the access tab, followed by the console access button. The only disadvantage of the web console is you can't copy and paste into it. So you will have to type in the password they emailed to you."
+    },
+    {
+      "type": "code",
+      "id": "0a68d848f484ea58",
+      "text": "ssh root@128.199.166.158"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2fab94d1e5fcd12",
+      "text": "Enter the command below exactly as it appears:"
+    },
+    {
+      "type": "code",
+      "id": "063b120663a9c147",
+      "text": "curl -L https://goo.gl/HeJ5HP | bash"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ba6d5daefdb528b",
+      "text": "This will install the latest 0.10 version of node, and the corresponding npm, then use npm to install the nave node version manager globally, and the latest version of wiki. It will then add an upstart script for wiki to your system, and start it in farm mode listening to port 80."
+    },
+    {
+      "type": "paragraph",
+      "id": "d9b1512369088ae6",
+      "text": "You can use standard upstart commands like `start wiki`, `stop wiki`, and `restart wiki` to control your wiki instance. It will start automatically on boot after the networking layer is started, and stop as the machine is shutting off its network. It should also restart if the wiki experiences an error."
+    },
+    {
+      "type": "paragraph",
+      "id": "b7f7b0ea50f69f05",
+      "text": "At this point you have a wiki farm running! You can get to it by going to the ip address of your new server from any web browser. This will spawn your first wiki instance. Be careful getting started though, because each wiki is addressed by the host name you use to visit it. So content you add using the ip address will only be visible if the visitor comes directly to the ip address."
+    },
+    {
+      "type": "pagefold",
+      "id": "77ea39660de3013f",
+      "text": "done"
+    },
+    {
+      "type": "paragraph",
+      "id": "984a1873fbab85ba",
+      "text": "You will want to point a domain name at your server, like example.com, or maybe just a sub domain like foo.example.com. The cool trick about farm mode is that any domain name you point at this server will get its own wiki when it gets visited. So if you use a wild card record, like *.example.com then each time you use a different thing.example.com you start a new site for that thing."
+    },
+    {
+      "type": "paragraph",
+      "id": "b2f7c19b77927e08",
+      "text": "All data is stored using flat json files in /root/.wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "8db50f3fcab05565",
+      "text": "The reason this needs its own machine is because it greedily takes port 80 (the main port for web services), and updates the machine's global node version/installs node. FedWiki can be run on most machines along side other applications, but doing so is out of scope for this install script."
+    },
+    {
+      "type": "reference",
+      "id": "93d290e2561bd4f1",
+      "site": "128.199.166.158",
+      "title": "Wiki at a Distance",
+      "text": "We're running this wiki on a fractional virtual machine in a data center in Singapore. Our goal is to understand what goes wrong when we see global communication delays."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Deploying a wiki",
+        "story": []
+      },
+      "date": 1418018753359
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c973180a103e32af"
+      },
+      "id": "c973180a103e32af",
+      "type": "add",
+      "date": 1418018758197
+    },
+    {
+      "type": "edit",
+      "id": "c973180a103e32af",
+      "item": {
+        "type": "paragraph",
+        "id": "c973180a103e32af",
+        "text": "There are lots of ways to deploy Federated Wiki. Here we are just talking about the easiest way to deploy the Node version to it's own, otherwise empty, Ubuntu 14.04 VPS from Digital Ocean."
+      },
+      "date": 1418018839159
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fab60b5581f7ff21",
+        "text": ""
+      },
+      "id": "fab60b5581f7ff21",
+      "type": "add",
+      "after": "c973180a103e32af",
+      "date": 1418018839664
+    },
+    {
+      "type": "edit",
+      "id": "fab60b5581f7ff21",
+      "item": {
+        "type": "paragraph",
+        "id": "fab60b5581f7ff21",
+        "text": "If this is for personal use, or just you and a few friends, go ahead and choose the cheapest possible VPS, in a location near you. If you're planning on scaling this up, having a lot of wikis or a lot of traffic, I'd recommend the $20/month 2gb ram 2 cpu option. It's probably the best bang for you buck running node wikis, any more than it can handle and you need to scale to more machines."
+      },
+      "date": 1418019009418
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0c16160726293541",
+        "text": ""
+      },
+      "id": "0c16160726293541",
+      "type": "add",
+      "after": "fab60b5581f7ff21",
+      "date": 1418019009922
+    },
+    {
+      "type": "remove",
+      "id": "0c16160726293541",
+      "date": 1418019022498
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": ""
+      },
+      "id": "cff7065b1ecdb489",
+      "type": "add",
+      "after": "fab60b5581f7ff21",
+      "date": 1418019065545
+    },
+    {
+      "type": "edit",
+      "id": "cff7065b1ecdb489",
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": "The install script can be found here: https://gist.github.com/nrn/f818fa7decfd910362b7"
+      },
+      "date": 1418019089940
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c44c22912f76938c",
+        "text": ""
+      },
+      "id": "c44c22912f76938c",
+      "type": "add",
+      "after": "cff7065b1ecdb489",
+      "date": 1418019090446
+    },
+    {
+      "type": "remove",
+      "id": "c44c22912f76938c",
+      "date": 1418019112767
+    },
+    {
+      "type": "edit",
+      "id": "cff7065b1ecdb489",
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": "The install script can be found [here. https://gist.github.com/nrn/f818fa7decfd910362b7]"
+      },
+      "date": 1418019128020
+    },
+    {
+      "type": "edit",
+      "id": "cff7065b1ecdb489",
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": "The install script can be found here. https://gist.github.com/nrn/f818fa7decfd910362b7"
+      },
+      "date": 1418019142154
+    },
+    {
+      "type": "edit",
+      "id": "cff7065b1ecdb489",
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": "The install script can be found here: https://gist.github.com/nrn/f818fa7decfd910362b7"
+      },
+      "date": 1418019154442
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f764851918adee8c",
+        "text": ""
+      },
+      "id": "f764851918adee8c",
+      "type": "add",
+      "after": "cff7065b1ecdb489",
+      "date": 1418019154948
+    },
+    {
+      "type": "edit",
+      "id": "f764851918adee8c",
+      "item": {
+        "type": "paragraph",
+        "id": "f764851918adee8c",
+        "text": "And it can be installed as a one liner by logging into the new empty box as root, and running:"
+      },
+      "date": 1418019183275
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "063b120663a9c147"
+      },
+      "id": "063b120663a9c147",
+      "type": "add",
+      "after": "f764851918adee8c",
+      "date": 1418019184900
+    },
+    {
+      "type": "edit",
+      "id": "063b120663a9c147",
+      "item": {
+        "type": "code",
+        "id": "063b120663a9c147",
+        "text": "curl -L | bash"
+      },
+      "date": 1418019199517
+    },
+    {
+      "type": "edit",
+      "id": "063b120663a9c147",
+      "item": {
+        "type": "code",
+        "id": "063b120663a9c147",
+        "text": "curl -L https://goo.gl/HeJ5HP | bash"
+      },
+      "date": 1418019282690
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ba6d5daefdb528b"
+      },
+      "id": "4ba6d5daefdb528b",
+      "type": "add",
+      "after": "063b120663a9c147",
+      "date": 1418019350912
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "fab60b5581f7ff21",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "4ba6d5daefdb528b",
+        "063b120663a9c147"
+      ],
+      "id": "4ba6d5daefdb528b",
+      "date": 1418019354242
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "fab60b5581f7ff21",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b"
+      ],
+      "id": "4ba6d5daefdb528b",
+      "date": 1418019359916
+    },
+    {
+      "type": "edit",
+      "id": "4ba6d5daefdb528b",
+      "item": {
+        "type": "paragraph",
+        "id": "4ba6d5daefdb528b",
+        "text": "This will install the latest 0.10 version of node, and the corresponding npm, then use npm to install the nave node version manager globally, and the latest version of wiki. It will then add an upstart script for wiki to your system, and start it in farm mode listening to port 80."
+      },
+      "date": 1418019478798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b2f7c19b77927e08",
+        "text": ""
+      },
+      "id": "b2f7c19b77927e08",
+      "type": "add",
+      "after": "4ba6d5daefdb528b",
+      "date": 1418019479304
+    },
+    {
+      "type": "edit",
+      "id": "b2f7c19b77927e08",
+      "item": {
+        "type": "paragraph",
+        "id": "b2f7c19b77927e08",
+        "text": "All data is stored using flat json files in /root/.wiki"
+      },
+      "date": 1418019503266
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9b1512369088ae6",
+        "text": ""
+      },
+      "id": "d9b1512369088ae6",
+      "type": "add",
+      "after": "b2f7c19b77927e08",
+      "date": 1418019503771
+    },
+    {
+      "type": "edit",
+      "id": "d9b1512369088ae6",
+      "item": {
+        "type": "paragraph",
+        "id": "d9b1512369088ae6",
+        "text": "You can use standard upstart commands like `start wiki`, `stop wiki`, and `restart wiki` to control your wiki instance. It will start automatically on boot after the networking layer is started, and stop as the machine is shutting off its network."
+      },
+      "date": 1418019599755
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8db50f3fcab05565",
+        "text": ""
+      },
+      "id": "8db50f3fcab05565",
+      "type": "add",
+      "after": "d9b1512369088ae6",
+      "date": 1418019600260
+    },
+    {
+      "type": "edit",
+      "id": "8db50f3fcab05565",
+      "item": {
+        "type": "paragraph",
+        "id": "8db50f3fcab05565",
+        "text": "The reason this needs its own machine is because it greedily takes port 80 (the main port for web services), and updates the machine's global node version/installs node. FedWiki can be run on most machines along side other applications, but doing so is out of scope for this install script."
+      },
+      "date": 1418019933368
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "84fbaeda15ceeb0f",
+        "text": ""
+      },
+      "id": "84fbaeda15ceeb0f",
+      "type": "add",
+      "after": "8db50f3fcab05565",
+      "date": 1418019933872
+    },
+    {
+      "type": "remove",
+      "id": "84fbaeda15ceeb0f",
+      "date": 1418019997806
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "fab60b5581f7ff21",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "d9b1512369088ae6",
+      "date": 1418020014891
+    },
+    {
+      "type": "edit",
+      "id": "d9b1512369088ae6",
+      "item": {
+        "type": "paragraph",
+        "id": "d9b1512369088ae6",
+        "text": "You can use standard upstart commands like `start wiki`, `stop wiki`, and `restart wiki` to control your wiki instance. It will start automatically on boot after the networking layer is started, and stop as the machine is shutting off its network. It should also restart if the wiki experiences an error."
+      },
+      "date": 1418020061156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b7f7b0ea50f69f05",
+        "text": ""
+      },
+      "id": "b7f7b0ea50f69f05",
+      "type": "add",
+      "after": "d9b1512369088ae6",
+      "date": 1418020082601
+    },
+    {
+      "type": "edit",
+      "id": "b7f7b0ea50f69f05",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f7b0ea50f69f05",
+        "text": "At this point you have a wiki farm running! You can get to it by going to the ip address of your new server from any web browser. This will spawn your first wiki instance. Be careful getting started though, because each wiki is addressed by the host name you use to visit it. So content you add using the ip address will only be visible if the visitor comes directly to the ip address."
+      },
+      "date": 1418020199408
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "984a1873fbab85ba",
+        "text": ""
+      },
+      "id": "984a1873fbab85ba",
+      "type": "add",
+      "after": "b7f7b0ea50f69f05",
+      "date": 1418020199911
+    },
+    {
+      "type": "edit",
+      "id": "984a1873fbab85ba",
+      "item": {
+        "type": "paragraph",
+        "id": "984a1873fbab85ba",
+        "text": "You will want to point a domain name at your server, like example.com, or maybe just a sub domain like foo.example.com. The cool trick about farm mode is that any domain name you point at this server will get its own wiki when it gets visited. So if you use a wild card record, like *.example.com then each time you use a different thing.example.com you start a new site for that thing."
+      },
+      "date": 1418020328069
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "31bfacaf7f769a1f",
+        "text": ""
+      },
+      "id": "31bfacaf7f769a1f",
+      "type": "add",
+      "after": "c973180a103e32af",
+      "date": 1418020404590
+    },
+    {
+      "type": "edit",
+      "id": "31bfacaf7f769a1f",
+      "item": {
+        "type": "paragraph",
+        "id": "31bfacaf7f769a1f",
+        "text": "Start by going to digitalocean.com, creating an account, and logging in and clicking create droplet."
+      },
+      "date": 1418020442015
+    },
+    {
+      "type": "edit",
+      "id": "31bfacaf7f769a1f",
+      "item": {
+        "type": "paragraph",
+        "id": "31bfacaf7f769a1f",
+        "text": "Start by going to digitalocean.com, creating an account, and logging in and clicking create droplet. Enter a host name (can be anything), and select a size."
+      },
+      "date": 1418020501770
+    },
+    {
+      "type": "edit",
+      "id": "fab60b5581f7ff21",
+      "item": {
+        "type": "paragraph",
+        "id": "fab60b5581f7ff21",
+        "text": "If this is for personal use, or just you and a few friends, go ahead and choose the cheapest possible VPS, in a location near you. If you're planning on having a lot of wikis or a lot of traffic, spring for the 2gb ram 2 cpu option."
+      },
+      "date": 1418020631748
+    },
+    {
+      "type": "edit",
+      "id": "fab60b5581f7ff21",
+      "item": {
+        "type": "paragraph",
+        "id": "fab60b5581f7ff21",
+        "text": "If this is for personal use, or just you and a few friends, go ahead and choose the cheapest possible VPS (512mb ram). If you're planning on having a lot of wikis or a lot of traffic, spring for the 2gb ram 2 cpu option."
+      },
+      "date": 1418020692960
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7fa4c2ef2a181159",
+        "text": ""
+      },
+      "id": "7fa4c2ef2a181159",
+      "type": "add",
+      "after": "fab60b5581f7ff21",
+      "date": 1418020697546
+    },
+    {
+      "type": "edit",
+      "id": "7fa4c2ef2a181159",
+      "item": {
+        "type": "paragraph",
+        "id": "7fa4c2ef2a181159",
+        "text": "Choose the data center nearest you, and don't worry about any of extra options, we don't need them."
+      },
+      "date": 1418020721830
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9fa91c07c1ee7433",
+        "text": ""
+      },
+      "id": "9fa91c07c1ee7433",
+      "type": "add",
+      "after": "7fa4c2ef2a181159",
+      "date": 1418020746056
+    },
+    {
+      "type": "remove",
+      "id": "9fa91c07c1ee7433",
+      "date": 1418020753723
+    },
+    {
+      "type": "edit",
+      "id": "7fa4c2ef2a181159",
+      "item": {
+        "type": "paragraph",
+        "id": "7fa4c2ef2a181159",
+        "text": "Choose the data center nearest you, and don't worry about any of 'aditional options', we don't need them."
+      },
+      "date": 1418020767167
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8e2a9d4b1127f55f",
+        "text": ""
+      },
+      "id": "8e2a9d4b1127f55f",
+      "type": "add",
+      "after": "7fa4c2ef2a181159",
+      "date": 1418020767672
+    },
+    {
+      "type": "edit",
+      "id": "8e2a9d4b1127f55f",
+      "item": {
+        "type": "paragraph",
+        "id": "8e2a9d4b1127f55f",
+        "text": "Select Ubuntu 14.04 (lts) as your operating system."
+      },
+      "date": 1418020794382
+    },
+    {
+      "type": "edit",
+      "id": "8e2a9d4b1127f55f",
+      "item": {
+        "type": "paragraph",
+        "id": "8e2a9d4b1127f55f",
+        "text": "Select Ubuntu 14.04 x64 as your operating system."
+      },
+      "date": 1418020819129
+    },
+    {
+      "type": "edit",
+      "id": "8e2a9d4b1127f55f",
+      "item": {
+        "type": "paragraph",
+        "id": "8e2a9d4b1127f55f",
+        "text": "Select Ubuntu 14.04 x64 as your operating system. If you use SSH go ahead and add your key and select it. If not, don't worry about it, it's not necessary."
+      },
+      "date": 1418020892634
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0ea5fc73877c9094",
+        "text": ""
+      },
+      "id": "0ea5fc73877c9094",
+      "type": "add",
+      "after": "8e2a9d4b1127f55f",
+      "date": 1418020906454
+    },
+    {
+      "type": "edit",
+      "id": "0ea5fc73877c9094",
+      "item": {
+        "type": "paragraph",
+        "id": "0ea5fc73877c9094",
+        "text": "Click create droplet, wait about a minute, and you have a nice new server of your very own!"
+      },
+      "date": 1418020935542
+    },
+    {
+      "type": "edit",
+      "id": "f764851918adee8c",
+      "item": {
+        "type": "paragraph",
+        "id": "f764851918adee8c",
+        "text": "Log into your server as root, either by sshing into the IP address with the key you provided, or by clicking on the "
+      },
+      "date": 1418020993940
+    },
+    {
+      "type": "edit",
+      "id": "f764851918adee8c",
+      "item": {
+        "type": "paragraph",
+        "id": "f764851918adee8c",
+        "text": "Log into your server as root, either by sshing into the IP address with the key you provided, or by clicking on the access tab, followed by the console access button. The only disadvantage of the web console is you can't copy and paste into it."
+      },
+      "date": 1418021105188
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b9291c0b3b3bc6a",
+        "text": ""
+      },
+      "id": "7b9291c0b3b3bc6a",
+      "type": "add",
+      "after": "f764851918adee8c",
+      "date": 1418021105692
+    },
+    {
+      "type": "remove",
+      "id": "7b9291c0b3b3bc6a",
+      "date": 1418021113017
+    },
+    {
+      "type": "edit",
+      "id": "f764851918adee8c",
+      "item": {
+        "type": "paragraph",
+        "id": "f764851918adee8c",
+        "text": "Log into your server as the user 'root', either by sshing into the IP address with the key you provided, or by clicking on the access tab, followed by the console access button. The only disadvantage of the web console is you can't copy and paste into it. So you will have to type in the password they emailed to you."
+      },
+      "date": 1418021166376
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c2fab94d1e5fcd12",
+        "text": ""
+      },
+      "id": "c2fab94d1e5fcd12",
+      "type": "add",
+      "after": "f764851918adee8c",
+      "date": 1418021166881
+    },
+    {
+      "type": "edit",
+      "id": "c2fab94d1e5fcd12",
+      "item": {
+        "type": "paragraph",
+        "id": "c2fab94d1e5fcd12",
+        "text": "Enter the command below exactly as it appears:"
+      },
+      "date": 1418021194665
+    },
+    {
+      "type": "edit",
+      "id": "7fa4c2ef2a181159",
+      "item": {
+        "type": "paragraph",
+        "id": "7fa4c2ef2a181159",
+        "text": "Choose the data center nearest you, and don't worry about any of 'additional options', we don't need them."
+      },
+      "date": 1418021507413
+    },
+    {
+      "type": "fork",
+      "site": "nrn.io",
+      "date": 1418022313228
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6aa5f825bf8d1a2c",
+        "text": "Enter a host name (can be anything), and select a size."
+      },
+      "id": "6aa5f825bf8d1a2c",
+      "type": "add",
+      "after": "31bfacaf7f769a1f",
+      "date": 1418022656723
+    },
+    {
+      "type": "edit",
+      "id": "31bfacaf7f769a1f",
+      "item": {
+        "type": "paragraph",
+        "id": "31bfacaf7f769a1f",
+        "text": "Start by creating a 'droplet' after creating an account and logging in at Digital Ocean. [http://digitalocean.com website]"
+      },
+      "date": 1418022758011
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77ea39660de3013f"
+      },
+      "id": "77ea39660de3013f",
+      "type": "add",
+      "after": "8db50f3fcab05565",
+      "date": 1418023808361
+    },
+    {
+      "type": "edit",
+      "id": "77ea39660de3013f",
+      "item": {
+        "type": "pagefold",
+        "id": "77ea39660de3013f",
+        "text": "done"
+      },
+      "date": 1418023813985
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "77ea39660de3013f",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "77ea39660de3013f",
+      "date": 1418023826283
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a68d848f484ea58"
+      },
+      "id": "0a68d848f484ea58",
+      "type": "add",
+      "after": "8db50f3fcab05565",
+      "date": 1418024352476
+    },
+    {
+      "type": "edit",
+      "id": "0a68d848f484ea58",
+      "item": {
+        "type": "code",
+        "id": "0a68d848f484ea58",
+        "text": "ssh root@128.199.166.158"
+      },
+      "date": 1418024356900
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0a68d848f484ea58",
+        "0ea5fc73877c9094",
+        "77ea39660de3013f",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "0a68d848f484ea58",
+      "date": 1418024365749
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "0a68d848f484ea58",
+        "77ea39660de3013f",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "0a68d848f484ea58",
+      "date": 1418024370958
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4cca43fa8d7b7766",
+        "text": ""
+      },
+      "id": "4cca43fa8d7b7766",
+      "type": "add",
+      "after": "0ea5fc73877c9094",
+      "date": 1418024380248
+    },
+    {
+      "type": "edit",
+      "id": "4cca43fa8d7b7766",
+      "item": {
+        "type": "paragraph",
+        "id": "4cca43fa8d7b7766",
+        "text": "Login with ssh. Remember that you are root."
+      },
+      "date": 1418024400770
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "4cca43fa8d7b7766",
+        "77ea39660de3013f",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "0a68d848f484ea58",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "0a68d848f484ea58",
+      "date": 1418024431548
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "77ea39660de3013f",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "4cca43fa8d7b7766",
+        "0a68d848f484ea58",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "4cca43fa8d7b7766",
+      "date": 1418024435305
+    },
+    {
+      "type": "edit",
+      "id": "cff7065b1ecdb489",
+      "item": {
+        "type": "paragraph",
+        "id": "cff7065b1ecdb489",
+        "text": "The install script can be found here: [https://gist.github.com/nrn/f818fa7decfd910362b7 gist]"
+      },
+      "date": 1418024511254
+    },
+    {
+      "type": "remove",
+      "id": "4cca43fa8d7b7766",
+      "date": 1418024568914
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "0a68d848f484ea58",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "77ea39660de3013f",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "77ea39660de3013f",
+      "date": 1418024698731
+    },
+    {
+      "type": "move",
+      "order": [
+        "c973180a103e32af",
+        "31bfacaf7f769a1f",
+        "6aa5f825bf8d1a2c",
+        "fab60b5581f7ff21",
+        "7fa4c2ef2a181159",
+        "8e2a9d4b1127f55f",
+        "0ea5fc73877c9094",
+        "cff7065b1ecdb489",
+        "f764851918adee8c",
+        "0a68d848f484ea58",
+        "c2fab94d1e5fcd12",
+        "063b120663a9c147",
+        "4ba6d5daefdb528b",
+        "d9b1512369088ae6",
+        "b7f7b0ea50f69f05",
+        "77ea39660de3013f",
+        "984a1873fbab85ba",
+        "b2f7c19b77927e08",
+        "8db50f3fcab05565"
+      ],
+      "id": "77ea39660de3013f",
+      "date": 1418025714809
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "93d290e2561bd4f1"
+      },
+      "id": "93d290e2561bd4f1",
+      "type": "add",
+      "after": "8db50f3fcab05565",
+      "date": 1418025911889
+    },
+    {
+      "type": "edit",
+      "id": "93d290e2561bd4f1",
+      "item": {
+        "type": "reference",
+        "id": "93d290e2561bd4f1",
+        "site": "128.199.166.158",
+        "title": "Wiki at a Distance",
+        "text": "We're running this wiki on a fractional virtual machine in a data center in Singapore. Our goal is to understand what goes wrong when we see global communication delays."
+      },
+      "date": 1418025937917
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1418056754523
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1418393029936
+    }
+  ]
+}

@@ -2,13 +2,13 @@
   "title": "Alan Levine",
   "story": [
     {
+      "type": "factory",
+      "id": "1e2f203d7d6d0068"
+    },
+    {
       "type": "paragraph",
       "id": "ec6f8d9c025e2818",
       "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [http://cogdogblog.com CogDogB"
-    },
-    {
-      "type": "factory",
-      "id": "1e2f203d7d6d0068"
     },
     {
       "type": "paragraph",
@@ -294,6 +294,42 @@
       "type": "remove",
       "id": "e3ccf0d2e5c1ea69",
       "date": 1418624029412
+    },
+    {
+      "type": "move",
+      "order": [
+        "1e2f203d7d6d0068",
+        "ec6f8d9c025e2818",
+        "5795f87bdf815091"
+      ],
+      "id": "1e2f203d7d6d0068",
+      "date": 1418625668551
+    },
+    {
+      "type": "move",
+      "order": [
+        "1e2f203d7d6d0068",
+        "ec6f8d9c025e2818",
+        "5795f87bdf815091"
+      ],
+      "id": "1e2f203d7d6d0068",
+      "date": 1418625891834
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5d876fc57e1c6d7b",
+        "text": ""
+      },
+      "id": "5d876fc57e1c6d7b",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418625896690
+    },
+    {
+      "type": "remove",
+      "id": "5d876fc57e1c6d7b",
+      "date": 1418625899937
     }
   ]
 }

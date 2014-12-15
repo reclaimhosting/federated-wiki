@@ -4,7 +4,11 @@
     {
       "type": "paragraph",
       "id": "ec6f8d9c025e2818",
-      "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [http://cogdogblog.com]"
+      "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [http://cogdogblog.com CogDogB"
+    },
+    {
+      "type": "factory",
+      "id": "1e2f203d7d6d0068"
     },
     {
       "type": "paragraph",
@@ -160,6 +164,136 @@
       "type": "add",
       "after": "ec6f8d9c025e2818",
       "date": 1418623666306
+    },
+    {
+      "type": "edit",
+      "id": "ec6f8d9c025e2818",
+      "item": {
+        "type": "paragraph",
+        "id": "ec6f8d9c025e2818",
+        "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [ http://cogdogblog.com "
+      },
+      "date": 1418623850712
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22b72f215955120e",
+        "text": "]"
+      },
+      "id": "22b72f215955120e",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418623850722
+    },
+    {
+      "type": "remove",
+      "id": "22b72f215955120e",
+      "date": 1418623852735
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "72e8daaf6d84e378",
+        "text": ""
+      },
+      "id": "72e8daaf6d84e378",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418623854987
+    },
+    {
+      "type": "remove",
+      "id": "72e8daaf6d84e378",
+      "date": 1418623858986
+    },
+    {
+      "type": "edit",
+      "id": "ec6f8d9c025e2818",
+      "item": {
+        "type": "paragraph",
+        "id": "ec6f8d9c025e2818",
+        "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [http://cogdogblog.com CogDogBlog]"
+      },
+      "date": 1418623867985
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9bc3ceb0017ea05",
+        "text": ""
+      },
+      "id": "d9bc3ceb0017ea05",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418623867992
+    },
+    {
+      "type": "remove",
+      "id": "d9bc3ceb0017ea05",
+      "date": 1418623872511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e2f203d7d6d0068"
+      },
+      "id": "1e2f203d7d6d0068",
+      "type": "add",
+      "after": "5795f87bdf815091",
+      "date": 1418623899615
+    },
+    {
+      "type": "move",
+      "order": [
+        "ec6f8d9c025e2818",
+        "1e2f203d7d6d0068",
+        "5795f87bdf815091"
+      ],
+      "id": "1e2f203d7d6d0068",
+      "date": 1418623918931
+    },
+    {
+      "type": "edit",
+      "id": "ec6f8d9c025e2818",
+      "item": {
+        "type": "paragraph",
+        "id": "ec6f8d9c025e2818",
+        "text": "I bark and growl and play with web technologies. The barking and growling is a front. I do have my shots. Regular haunts are [http://cogdogblog.com CogDogB"
+      },
+      "date": 1418624021541
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b4ea1d6e8d763067",
+        "text": "log]"
+      },
+      "id": "b4ea1d6e8d763067",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418624021551
+    },
+    {
+      "type": "remove",
+      "id": "b4ea1d6e8d763067",
+      "date": 1418624023301
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e3ccf0d2e5c1ea69",
+        "text": ""
+      },
+      "id": "e3ccf0d2e5c1ea69",
+      "type": "add",
+      "after": "ec6f8d9c025e2818",
+      "date": 1418624025865
+    },
+    {
+      "type": "remove",
+      "id": "e3ccf0d2e5c1ea69",
+      "date": 1418624029412
     }
   ]
 }

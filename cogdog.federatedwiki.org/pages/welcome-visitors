@@ -12,8 +12,9 @@
       "text": "Pages about us."
     },
     {
-      "type": "factory",
-      "id": "0a70e8ab4b04cb6d"
+      "type": "paragraph",
+      "id": "0a70e8ab4b04cb6d",
+      "text": "[[Alan Levine]]"
     },
     {
       "type": "paragraph",
@@ -412,6 +413,64 @@
       "type": "remove",
       "id": "6e47d30abaed628a",
       "date": 1418623558705
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a791f3b1cfcfc397",
+        "text": ""
+      },
+      "id": "a791f3b1cfcfc397",
+      "type": "add",
+      "after": "0a70e8ab4b04cb6d",
+      "date": 1418624072046
+    },
+    {
+      "type": "remove",
+      "id": "a791f3b1cfcfc397",
+      "date": 1418624088850
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8233bad31edc0386",
+        "text": ""
+      },
+      "id": "8233bad31edc0386",
+      "type": "add",
+      "after": "0a70e8ab4b04cb6d",
+      "date": 1418624156350
+    },
+    {
+      "type": "remove",
+      "id": "8233bad31edc0386",
+      "date": 1418624180714
+    },
+    {
+      "type": "edit",
+      "id": "0a70e8ab4b04cb6d",
+      "item": {
+        "type": "paragraph",
+        "id": "0a70e8ab4b04cb6d",
+        "text": "[[Alan Levine]]"
+      },
+      "date": 1418624329431
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87cfbd76270d71c7",
+        "text": ""
+      },
+      "id": "87cfbd76270d71c7",
+      "type": "add",
+      "after": "0a70e8ab4b04cb6d",
+      "date": 1418624329437
+    },
+    {
+      "type": "remove",
+      "id": "87cfbd76270d71c7",
+      "date": 1418624338476
     }
   ]
 }

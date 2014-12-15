@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "852a4dcbb0abe86b"
+      "id": "12272c9ff3f0d5de"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "3b487a7e43ad0d66"
+      "id": "8d68dfb631f1612d"
     },
     {
-      "date": 1418640001000,
+      "date": 1418641200000,
+      "site": "klapdor.federatedwiki.org",
+      "slug": "tim-klapdor",
+      "title": "Tim Klapdor",
+      "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
+      "type": "reference",
+      "id": "92b4b364cf7ca4ad"
+    },
+    {
+      "date": 1418640601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "d190cbd476887804"
+      "id": "c820476012b66a14"
     },
     {
       "date": 1418625851000,
@@ -27,7 +36,7 @@
       "title": "Alan Levine",
       "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "5b623fc31b16e0b6"
+      "id": "979c7e6555d45391"
     },
     {
       "date": 1418393432000,
@@ -36,7 +45,7 @@
       "title": "Fedwiki as Memex-Journal",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 36 pages.",
       "type": "reference",
-      "id": "3f44f19e3b27e2b6"
+      "id": "62271dbec1fd0457"
     },
     {
       "date": 1418327119000,
@@ -45,7 +54,7 @@
       "title": "the law of the jungle in the jungle book",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 64 pages.",
       "type": "reference",
-      "id": "02b32e0cae64abec"
+      "id": "b973fe74dc79b423"
     },
     {
       "date": 1417952444000,
@@ -54,7 +63,7 @@
       "title": "Animated Gif Tools",
       "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 8 pages.",
       "type": "reference",
-      "id": "23e111f7826287a9"
+      "id": "ec4770b2e33951d7"
     },
     {
       "date": 1417925826000,
@@ -63,7 +72,7 @@
       "title": "Mike Caulfield",
       "text": "In [http://mike.federatedwiki.org mike.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "1bf2cb0525530130"
+      "id": "7a64aab91ee892a3"
     },
     {
       "date": 1417900802000,
@@ -72,55 +81,69 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
       "type": "reference",
-      "id": "5affd4bee1e6a44a"
+      "id": "729609a41c9ef277"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "d6f0c00bf16b3df1",
+      "id": "2c20e9f17dc4c052",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "852a4dcbb0abe86b",
+      "id": "12272c9ff3f0d5de",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "852a4dcbb0abe86b"
+        "id": "12272c9ff3f0d5de"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "3b487a7e43ad0d66",
+      "id": "8d68dfb631f1612d",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "3b487a7e43ad0d66"
+        "id": "8d68dfb631f1612d"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "d190cbd476887804",
+      "id": "92b4b364cf7ca4ad",
       "item": {
-        "date": 1418640001000,
+        "date": 1418641200000,
+        "site": "klapdor.federatedwiki.org",
+        "slug": "tim-klapdor",
+        "title": "Tim Klapdor",
+        "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
+        "type": "reference",
+        "id": "92b4b364cf7ca4ad"
+      },
+      "date": 1418641201000
+    },
+    {
+      "type": "add",
+      "id": "c820476012b66a14",
+      "item": {
+        "date": 1418640601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "d190cbd476887804"
+        "id": "c820476012b66a14"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "5b623fc31b16e0b6",
+      "id": "979c7e6555d45391",
       "item": {
         "date": 1418625851000,
         "site": "cogdog.federatedwiki.org",
@@ -128,13 +151,13 @@
         "title": "Alan Levine",
         "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "5b623fc31b16e0b6"
+        "id": "979c7e6555d45391"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "3f44f19e3b27e2b6",
+      "id": "62271dbec1fd0457",
       "item": {
         "date": 1418393432000,
         "site": "tmtm.federatedwiki.org",
@@ -142,13 +165,13 @@
         "title": "Fedwiki as Memex-Journal",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 36 pages.",
         "type": "reference",
-        "id": "3f44f19e3b27e2b6"
+        "id": "62271dbec1fd0457"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "02b32e0cae64abec",
+      "id": "b973fe74dc79b423",
       "item": {
         "date": 1418327119000,
         "site": "max.federatedwiki.org",
@@ -156,13 +179,13 @@
         "title": "the law of the jungle in the jungle book",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 64 pages.",
         "type": "reference",
-        "id": "02b32e0cae64abec"
+        "id": "b973fe74dc79b423"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "23e111f7826287a9",
+      "id": "ec4770b2e33951d7",
       "item": {
         "date": 1417952444000,
         "site": "johnjohnston.federatedwiki.org",
@@ -170,13 +193,13 @@
         "title": "Animated Gif Tools",
         "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 8 pages.",
         "type": "reference",
-        "id": "23e111f7826287a9"
+        "id": "ec4770b2e33951d7"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "1bf2cb0525530130",
+      "id": "7a64aab91ee892a3",
       "item": {
         "date": 1417925826000,
         "site": "mike.federatedwiki.org",
@@ -184,13 +207,13 @@
         "title": "Mike Caulfield",
         "text": "In [http://mike.federatedwiki.org mike.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "1bf2cb0525530130"
+        "id": "7a64aab91ee892a3"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     },
     {
       "type": "add",
-      "id": "5affd4bee1e6a44a",
+      "id": "729609a41c9ef277",
       "item": {
         "date": 1417900802000,
         "site": "jason.federatedwiki.org",
@@ -198,9 +221,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 51 pages.",
         "type": "reference",
-        "id": "5affd4bee1e6a44a"
+        "id": "729609a41c9ef277"
       },
-      "date": 1418640601000
+      "date": 1418641201000
     }
   ]
 }

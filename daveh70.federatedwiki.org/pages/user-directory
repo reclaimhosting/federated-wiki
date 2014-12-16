@@ -26,6 +26,11 @@
       "site": "tim.federatedwiki.org",
       "title": "Tim Owens",
       "text": "@timmmmyboy"
+    },
+    {
+      "type": "paragraph",
+      "id": "3a7e5c8dcd24a5cd",
+      "text": "[[David A. Hale]]"
     }
   ],
   "journal": [
@@ -315,6 +320,26 @@
       "type": "fork",
       "site": "federatedwiki.org",
       "date": 1418719602295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a7e5c8dcd24a5cd"
+      },
+      "id": "3a7e5c8dcd24a5cd",
+      "type": "add",
+      "after": "0c6298446b678ba6",
+      "date": 1418720962271
+    },
+    {
+      "type": "edit",
+      "id": "3a7e5c8dcd24a5cd",
+      "item": {
+        "type": "paragraph",
+        "id": "3a7e5c8dcd24a5cd",
+        "text": "[[David A. Hale]]"
+      },
+      "date": 1418720985692
     }
   ]
 }

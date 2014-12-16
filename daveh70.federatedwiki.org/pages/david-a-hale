@@ -2,14 +2,14 @@
   "title": "David A. Hale",
   "story": [
     {
+      "type": "paragraph",
+      "id": "3db78cd22992f72d",
+      "text": "I'm interested in programming, music, and a little of everything else. I'm an enthusiastic MOOC student. I think we can find solutions to most of our problems; but we need to do better. Tools like Federated Wiki are very good steps in the right direction."
+    },
+    {
       "type": "html",
       "id": "db0e08a1eca23850",
       "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
-    },
-    {
-      "type": "paragraph",
-      "id": "3db78cd22992f72d",
-      "text": "I'm interested in programming, music, and a little of everything else. I'm a hardcore MOOC student."
     }
   ],
   "journal": [
@@ -73,6 +73,25 @@
         "text": "I'm interested in programming, music, and a little of everything else. I'm a hardcore MOOC student."
       },
       "date": 1418723722357
+    },
+    {
+      "type": "edit",
+      "id": "3db78cd22992f72d",
+      "item": {
+        "type": "paragraph",
+        "id": "3db78cd22992f72d",
+        "text": "I'm interested in programming, music, and a little of everything else. I'm an enthusiastic MOOC student. I think we can find solutions to most of our problems; but we need to do better. Tools like Federated Wiki are very good steps in the right direction."
+      },
+      "date": 1418724178155
+    },
+    {
+      "type": "move",
+      "order": [
+        "3db78cd22992f72d",
+        "db0e08a1eca23850"
+      ],
+      "id": "3db78cd22992f72d",
+      "date": 1418724207832
     }
   ]
 }

@@ -4,7 +4,7 @@
     {
       "type": "html",
       "id": "f14ed868983319f0",
-      "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking,  Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking,  Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\n\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: 'Comic Sans', Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Trykker', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
     },
     {
       "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
@@ -26,6 +26,11 @@
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
       "text": "Pages where we do and share."
+    },
+    {
+      "type": "paragraph",
+      "id": "3faa394a8e7feac2",
+      "text": "[[Journal]]"
     },
     {
       "type": "paragraph",
@@ -539,7 +544,7 @@
     {
       "type": "fork",
       "site": "jason.federatedwiki.org",
-      "date": 1418702715267
+      "date": 1418678463214
     },
     {
       "type": "edit",
@@ -547,14 +552,326 @@
       "item": {
         "type": "html",
         "id": "f14ed868983319f0",
-        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking,  Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, Papyrus, Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, Papyrus, Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, Papyrus, Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
       },
-      "site": "jason.federatedwiki.org",
-      "date": 1418702715254
+      "date": 1418678510465
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3faa394a8e7feac2"
+      },
+      "id": "3faa394a8e7feac2",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418699700739
+    },
+    {
+      "type": "edit",
+      "id": "3faa394a8e7feac2",
+      "item": {
+        "type": "paragraph",
+        "id": "3faa394a8e7feac2",
+        "text": "Journal"
+      },
+      "date": 1418699710639
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7627cdb00accc0c4",
+        "text": ""
+      },
+      "id": "7627cdb00accc0c4",
+      "type": "add",
+      "after": "3faa394a8e7feac2",
+      "date": 1418699710650
+    },
+    {
+      "type": "move",
+      "order": [
+        "f14ed868983319f0",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "3faa394a8e7feac2",
+        "1d52d99985a92185",
+        "88348e6dcda89ebe",
+        "ee416d431ebf4fb4",
+        "7627cdb00accc0c4"
+      ],
+      "id": "3faa394a8e7feac2",
+      "date": 1418699727013
+    },
+    {
+      "type": "remove",
+      "id": "7627cdb00accc0c4",
+      "date": 1418699729839
+    },
+    {
+      "type": "edit",
+      "id": "3faa394a8e7feac2",
+      "item": {
+        "type": "paragraph",
+        "id": "3faa394a8e7feac2",
+        "text": "[[Journal]]"
+      },
+      "date": 1418699736470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df2bc6e9d3df8339",
+        "text": ""
+      },
+      "id": "df2bc6e9d3df8339",
+      "type": "add",
+      "after": "3faa394a8e7feac2",
+      "date": 1418699736493
+    },
+    {
+      "type": "remove",
+      "id": "df2bc6e9d3df8339",
+      "date": 1418699740413
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, Orchidee, Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, Papyrus, Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418700567432
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, Orchidee, Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, Orchidee, Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418700606806
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, 'Orchidee Light', Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Orchidee Light', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418700722620
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, Unical, Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Orchidee Light', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418701226464
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Uncial+Antiqua);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking, Unical, Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Uncial Antiqua', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418742684355
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Uncial+Antiqua);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Uncial Antiqua', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418742736710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0069b58fe30c5a1"
+      },
+      "id": "d0069b58fe30c5a1",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418742756313
+    },
+    {
+      "type": "edit",
+      "id": "d0069b58fe30c5a1",
+      "item": {
+        "type": "paragraph",
+        "id": "d0069b58fe30c5a1",
+        "text": "<h1>Test</h1>"
+      },
+      "date": 1418742772837
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "528c0625e69b7d5f",
+        "text": ""
+      },
+      "id": "528c0625e69b7d5f",
+      "type": "add",
+      "after": "d0069b58fe30c5a1",
+      "date": 1418742772870
+    },
+    {
+      "type": "remove",
+      "id": "528c0625e69b7d5f",
+      "date": 1418742781393
+    },
+    {
+      "type": "edit",
+      "id": "d0069b58fe30c5a1",
+      "item": {
+        "type": "paragraph",
+        "id": "d0069b58fe30c5a1",
+        "text": "<h1>Test<\\h1>"
+      },
+      "date": 1418742928041
+    },
+    {
+      "type": "remove",
+      "id": "d0069b58fe30c5a1",
+      "date": 1418743399181
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Uncial+Antiqua);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Uncial Antiqua', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418743440539
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Eagle Lake', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418744543806
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: Trykker, Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Eagle Lake', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418745109931
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: Trykker, Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Trykker', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418745140445
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your <c>copy</c>"
+      },
+      "date": 1418745500030
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a515ea885af0e59",
+        "text": " of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "id": "0a515ea885af0e59",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418745500074
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "89571596fb0adfc5",
+        "text": "c>"
+      },
+      "id": "89571596fb0adfc5",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418745515207
+    },
+    {
+      "type": "remove",
+      "id": "89571596fb0adfc5",
+      "date": 1418745517638
+    },
+    {
+      "type": "remove",
+      "id": "0a515ea885af0e59",
+      "date": 1418745614263
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your <c>copy<\\c> of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418745617834
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:  Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Trykker', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418749499689
+    },
+    {
+      "type": "edit",
+      "id": "f14ed868983319f0",
+      "item": {
+        "type": "html",
+        "id": "f14ed868983319f0",
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: 'Comic Sans', Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Trykker', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+      },
+      "date": 1418749602885
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418750213517
     },
     {
       "type": "fork",
-      "date": 1418702761002
+      "site": "wiki.jasongreen.net",
+      "date": 1418762728289
     },
     {
       "type": "edit",
@@ -562,9 +879,49 @@
       "item": {
         "type": "html",
         "id": "f14ed868983319f0",
-        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family:Viking,  Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking,  Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
+        "text": "<aside>(Style: Aurora. Image credit: Tamura Wikimedia Commons)</aside>\n<header>Aurora</header>\n\n<!-- For Style CSS scroll down -->\n\n\n\n\n\n\n\n\n<style>\n\n@import url(http://fonts.googleapis.com/css?family=Eagle+Lake);\n\n@import url(http://fonts.googleapis.com/css?family=Trykker&subset=latin-ext,latin);\n\nc {color:#8B0000; text-decoration:underline}\nASIDE {font-size:10pt; background-color:whitesmoke}\n\nHEADER {padding-left:40px; position:absolute; top:0; left:0; background-color: ; color:white; width:100%; font-size:10pt; }\n\nbody {\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  position: absolute;\n  background-color: #eeeeee;\n  background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aurora_1_in_Kiruna.JPG/1024px-Aurora_1_in_Kiruna.JPG');\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: 100%;\n  background-repeat: repeat; \n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n  font-family: 'Comic Sans', Sans-Serif;\n  line-height: 1.3;\n  color: #333333; }\n.ghost {\n  opacity: 0.7;\n  border-color: #eef2fe;\n}\n\nh1 {font-size:14pt}\n.page {\nwidth:300px !important; \nheight: 60% !important;\nmargin-top:20px;\nfont-family:Viking, 'Trykker', Serif; !important; \nletter-spacing: 0.009rem !important; \nfont-weight: 400 !important; \nfont-style: normal !important; \nfont-size: 12px !important; \nline-height: 1.5 !important;\nopacity:0.7 !important}\n\n.page.local {background-color: #E0E0E0  !important}\n\n.page.active {\nopacity:1 !important; \nwidth:700px !important;\nheight: 98% !important;\nfont-size:17px !important}\n.journal {width:290px !important}\n.active h1 {font-size:20pt !important}\n.active .journal {width:680px !important;}\n\n.factory {height:190px !important}\n\n\n</style>"
       },
-      "date": 1418702797126
+      "date": 1418762781281
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your (c)copy</c) of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418762863665
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your (c)copy(/c) of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418762874910
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your <c>copy</c> of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418762895499
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1418762927635
     }
   ]
 }

@@ -1,0 +1,86 @@
+{
+  "title": "Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "13d5c990fd810deb",
+      "text": "2014"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9a1d5664a96e72d",
+      "text": "[[December 2014 Journal]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journal",
+        "story": []
+      },
+      "date": 1418750213660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13d5c990fd810deb"
+      },
+      "id": "13d5c990fd810deb",
+      "type": "add",
+      "date": 1418750225991
+    },
+    {
+      "type": "edit",
+      "id": "13d5c990fd810deb",
+      "item": {
+        "type": "paragraph",
+        "id": "13d5c990fd810deb",
+        "text": "2014"
+      },
+      "date": 1418750233470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e9a1d5664a96e72d",
+        "text": ""
+      },
+      "id": "e9a1d5664a96e72d",
+      "type": "add",
+      "after": "13d5c990fd810deb",
+      "date": 1418750233502
+    },
+    {
+      "type": "edit",
+      "id": "e9a1d5664a96e72d",
+      "item": {
+        "type": "paragraph",
+        "id": "e9a1d5664a96e72d",
+        "text": "[[December 2014 Journal]]"
+      },
+      "date": 1418750262271
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e4e39b8b24a4e44b",
+        "text": ""
+      },
+      "id": "e4e39b8b24a4e44b",
+      "type": "add",
+      "after": "e9a1d5664a96e72d",
+      "date": 1418750262303
+    },
+    {
+      "type": "remove",
+      "id": "e4e39b8b24a4e44b",
+      "date": 1418750268332
+    },
+    {
+      "type": "fork",
+      "site": "wiki.jasongreen.net",
+      "date": 1418762822454
+    }
+  ]
+}

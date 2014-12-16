@@ -7,8 +7,9 @@
       "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
     },
     {
-      "type": "factory",
-      "id": "3db78cd22992f72d"
+      "type": "paragraph",
+      "id": "3db78cd22992f72d",
+      "text": "I'm interested in programming, music, and a little of everything else. I'm a hardcore MOOC student."
     }
   ],
   "journal": [
@@ -62,6 +63,16 @@
       "type": "add",
       "after": "db0e08a1eca23850",
       "date": 1418722995640
+    },
+    {
+      "type": "edit",
+      "id": "3db78cd22992f72d",
+      "item": {
+        "type": "paragraph",
+        "id": "3db78cd22992f72d",
+        "text": "I'm interested in programming, music, and a little of everything else. I'm a hardcore MOOC student."
+      },
+      "date": 1418723722357
     }
   ]
 }

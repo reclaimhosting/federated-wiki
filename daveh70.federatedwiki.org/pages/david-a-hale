@@ -2,8 +2,9 @@
   "title": "David A. Hale",
   "story": [
     {
-      "type": "factory",
-      "id": "6c51e611abe8708d"
+      "type": "html",
+      "id": "db0e08a1eca23850",
+      "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
     }
   ],
   "journal": [
@@ -23,6 +24,30 @@
       "id": "6c51e611abe8708d",
       "type": "add",
       "date": 1418721020354
+    },
+    {
+      "type": "remove",
+      "id": "6c51e611abe8708d",
+      "date": 1418721176147
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db0e08a1eca23850"
+      },
+      "id": "db0e08a1eca23850",
+      "type": "add",
+      "date": 1418721261978
+    },
+    {
+      "type": "edit",
+      "id": "db0e08a1eca23850",
+      "item": {
+        "type": "html",
+        "id": "db0e08a1eca23850",
+        "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
+      },
+      "date": 1418721278041
     }
   ]
 }

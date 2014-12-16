@@ -12,9 +12,8 @@
       "text": "Pages about us."
     },
     {
-      "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "type": "html",
+      "id": "b439aafc60827e3f",
       "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
     },
     {
@@ -434,6 +433,44 @@
         "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
       },
       "date": 1417888119573
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418712076061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b439aafc60827e3f"
+      },
+      "id": "b439aafc60827e3f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418712088626
+    },
+    {
+      "type": "edit",
+      "id": "b439aafc60827e3f",
+      "item": {
+        "type": "html",
+        "id": "b439aafc60827e3f",
+        "text": "[https://twitter.com/_daveh70 twitter.com/_daveh70]<br>[http://daveh70.wordpress.com/ daveh70.wordpress.com]<br>[https://www.diigo.com/user/daveh70 www.diigo.com/user/daveh70]"
+      },
+      "date": 1418712108057
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "b439aafc60827e3f",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "b439aafc60827e3f",
+      "date": 1418712130062
     }
   ]
 }

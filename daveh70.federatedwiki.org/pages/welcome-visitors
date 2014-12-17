@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to the [[Smallest Federated Wiki]]. You can start your own FedWiki  [http://federatedwiki.org/view/get-a-wiki here].",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -491,6 +491,46 @@
       "type": "remove",
       "id": "05e2fa92643677ca",
       "date": 1418735615334
+    },
+    {
+      "type": "fork",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418814113629
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You can start your own FedWiki here: [[get a wiki]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418814113611
+    },
+    {
+      "type": "fork",
+      "date": 1418814192644
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You can start your own FedWiki  [[http://federatedwiki.org/view/get-a-wiki here]].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418814284422
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You can start your own FedWiki  [http://federatedwiki.org/view/get-a-wiki here].",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418814402313
     }
   ]
 }

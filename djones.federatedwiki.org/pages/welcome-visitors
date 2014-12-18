@@ -32,6 +32,15 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4285c188989396f",
+      "text": "Related sites"
+    },
+    {
+      "type": "factory",
+      "id": "ae4187bc6f4e3b24"
     }
   ],
   "journal": [
@@ -381,6 +390,87 @@
       "type": "remove",
       "id": "ff562781e513cc54",
       "date": 1418873271992
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4285c188989396f"
+      },
+      "id": "c4285c188989396f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418877404456
+    },
+    {
+      "type": "edit",
+      "id": "c4285c188989396f",
+      "item": {
+        "type": "paragraph",
+        "id": "c4285c188989396f",
+        "text": "Related sites"
+      },
+      "date": 1418877410042
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fbbb2c3e99fb68d5",
+        "text": ""
+      },
+      "id": "fbbb2c3e99fb68d5",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877410049
+    },
+    {
+      "type": "edit",
+      "id": "fbbb2c3e99fb68d5",
+      "item": {
+        "type": "paragraph",
+        "id": "fbbb2c3e99fb68d5",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877421935
+    },
+    {
+      "type": "remove",
+      "id": "fbbb2c3e99fb68d5",
+      "date": 1418877574210
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d24822b6d00125b"
+      },
+      "id": "3d24822b6d00125b",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877575402
+    },
+    {
+      "type": "edit",
+      "id": "3d24822b6d00125b",
+      "item": {
+        "type": "pagefold",
+        "id": "3d24822b6d00125b",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877586630
+    },
+    {
+      "type": "remove",
+      "id": "3d24822b6d00125b",
+      "date": 1418877593351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae4187bc6f4e3b24"
+      },
+      "id": "ae4187bc6f4e3b24",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877594807
     }
   ]
 }

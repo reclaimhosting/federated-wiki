@@ -1,0 +1,832 @@
+{
+  "title": "React vs Respond",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d8f9017588a7e297",
+      "text": "Seth Godin's latest post [http://sethgodin.typepad.com/seths_blog/2014/12/retribution.html Retribution] reminded me of some earlier work I'd done this year around trying to re-think (and re-name) the concept of Distance Education. In particular this quote:"
+    },
+    {
+      "type": "paragraph",
+      "id": "7aae749abac9eb59",
+      "text": "\"We can react or respond, as my friend Zig used to say. When we react to a medicine, that's a bad thing. When we respond, it's working.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "d6c4eef53dec304c",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "4999c7f80772e223",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "dcc6c4c9ce99cff8",
+      "text": "In a very broad and generalised way I'd suggest that education, and educational technology in particular, has fallen in to the trap of being purely reactive. The actions and behaviour enacted and embodied in educational institutions are those that are sadly unproductive, inhumane and counter-productive. Jumping on bandwagons, mindlessly following trends, buying into the hype are purely reactive traits based almost entirely on emotion. "
+    },
+    {
+      "type": "paragraph",
+      "id": "87884832bed3a2db",
+      "text": "Which seems at odds with the goal of education being as a vehicle and a space for thinking and learning. "
+    },
+    {
+      "type": "paragraph",
+      "id": "555da3a85b18fbfe",
+      "text": "My original idea was to rethink Distance Education as being Responsive Education. It came from my experience of [http://alistapart.com/article/responsive-web-design Responsive Web Design] practices. "
+    },
+    {
+      "type": "markdown",
+      "id": "503aa5de8992a0a7",
+      "text": "The term Responsive Design has been part of the web lexicon for the last 4–5 years and essentially means:"
+    },
+    {
+      "type": "paragraph",
+      "id": "b674ff29bc1ff97e",
+      "text": "...the same HTML is served to all devices… page elements reshuffle as the screen size grows or shrinks.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "15bd3aec7b3edfde",
+      "text": "In this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site."
+    },
+    {
+      "type": "paragraph",
+      "id": "899cb5a47d0abfa3",
+      "text": "What if Education looked like that:\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d5ce0634d0ae64e4",
+      "text": "The same Education is served to all students… locations, spaces, assessment and content reshuffle to suit the learning context."
+    },
+    {
+      "type": "paragraph",
+      "id": "0992eb5009dbb332",
+      "text": "My original aim for this shift was to actually shift discussion and effort into areas of \"effective action\" as Seth discusses. In doing so we could create a system that is responsive to the learner and develop students who respond to that experience. "
+    },
+    {
+      "type": "paragraph",
+      "id": "bb9b66e6980b4ed8",
+      "text": "It's a proactive, relational, interactive, symbiotic vision that directly combats the dystopian vision of leaners as automatons. "
+    },
+    {
+      "type": "paragraph",
+      "id": "00e48375b4c44125",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "757644e2e3f30dd0",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b6a9b317303fd395",
+      "text": "With this model as a foundation my thoughts would be to bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns] and [http://timklapdor.wordpress.com/2014/05/16/digital-literacy-interaction-as-language/ Interaction as Language] which nicely fit with the concept of Pattern Languages. "
+    },
+    {
+      "type": "pagefold",
+      "id": "d3551f1177fee8f5",
+      "text": "Commentary"
+    },
+    {
+      "type": "factory",
+      "id": "13b3ff2320850f08"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "React vs Respond",
+        "story": []
+      },
+      "date": 1418861642147
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7aae749abac9eb59"
+      },
+      "id": "7aae749abac9eb59",
+      "type": "add",
+      "date": 1418861644178
+    },
+    {
+      "type": "edit",
+      "id": "7aae749abac9eb59",
+      "item": {
+        "type": "paragraph",
+        "id": "7aae749abac9eb59",
+        "text": "\"We can react or respond, as my friend Zig used to say. When we react to a medicine, that's a bad thing. When we respond, it's working.\""
+      },
+      "date": 1418861656823
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6c4eef53dec304c",
+        "text": ""
+      },
+      "id": "d6c4eef53dec304c",
+      "type": "add",
+      "after": "7aae749abac9eb59",
+      "date": 1418861656834
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a17606fa40acb43"
+      },
+      "id": "1a17606fa40acb43",
+      "type": "add",
+      "after": "d6c4eef53dec304c",
+      "date": 1418861666891
+    },
+    {
+      "type": "remove",
+      "id": "1a17606fa40acb43",
+      "date": 1418861669513
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d8f9017588a7e297"
+      },
+      "id": "d8f9017588a7e297",
+      "type": "add",
+      "after": "d6c4eef53dec304c",
+      "date": 1418861670837
+    },
+    {
+      "type": "edit",
+      "id": "d8f9017588a7e297",
+      "item": {
+        "type": "paragraph",
+        "id": "d8f9017588a7e297",
+        "text": "Seth Godin's latest post [http://sethgodin.typepad.com/seths_blog/2014/12/retribution.html Retribution] reminded me of some earlier work I'd done this year around trying to re-think (and re-name) the concept of Distance Education. In particular this quote:"
+      },
+      "date": 1418861676190
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4999c7f80772e223",
+        "text": ""
+      },
+      "id": "4999c7f80772e223",
+      "type": "add",
+      "after": "d8f9017588a7e297",
+      "date": 1418861676207
+    },
+    {
+      "type": "move",
+      "order": [
+        "d8f9017588a7e297",
+        "7aae749abac9eb59",
+        "d6c4eef53dec304c",
+        "4999c7f80772e223"
+      ],
+      "id": "d8f9017588a7e297",
+      "date": 1418861680524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dcc6c4c9ce99cff8"
+      },
+      "id": "dcc6c4c9ce99cff8",
+      "type": "add",
+      "after": "4999c7f80772e223",
+      "date": 1418861689640
+    },
+    {
+      "type": "edit",
+      "id": "dcc6c4c9ce99cff8",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc6c4c9ce99cff8",
+        "text": "In a very broad and generalised way I'd suggest that education, and educational technology in particular, has fallen in to the trap of being purely reactive. If"
+      },
+      "date": 1418861692028
+    },
+    {
+      "type": "edit",
+      "id": "dcc6c4c9ce99cff8",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc6c4c9ce99cff8",
+        "text": "In a very broad and generalised way I'd suggest that education, and educational technology in particular, has fallen in to the trap of being purely reactive. The "
+      },
+      "date": 1418861723255
+    },
+    {
+      "type": "edit",
+      "id": "dcc6c4c9ce99cff8",
+      "item": {
+        "type": "paragraph",
+        "id": "dcc6c4c9ce99cff8",
+        "text": "In a very broad and generalised way I'd suggest that education, and educational technology in particular, has fallen in to the trap of being purely reactive. The actions and behaviour enacted and embodied in educational institutions are those that are sadly unproductive, inhumane and counter-productive. Jumping on bandwagons, mindlessly following trends, buying into the hype are purely reactive traits based almost entirely on emotion. "
+      },
+      "date": 1418861916874
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87884832bed3a2db",
+        "text": "Which seems at odds with the goal of education being as a vehicle and a space for thinking and learning. "
+      },
+      "id": "87884832bed3a2db",
+      "type": "add",
+      "after": "dcc6c4c9ce99cff8",
+      "date": 1418861916890
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1378e3d9aefef0a4",
+        "text": ""
+      },
+      "id": "1378e3d9aefef0a4",
+      "type": "add",
+      "after": "87884832bed3a2db",
+      "date": 1418861919268
+    },
+    {
+      "type": "remove",
+      "id": "1378e3d9aefef0a4",
+      "date": 1418861926393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3429006cd4da572"
+      },
+      "id": "f3429006cd4da572",
+      "type": "add",
+      "after": "87884832bed3a2db",
+      "date": 1418861961377
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "555da3a85b18fbfe",
+        "text": ""
+      },
+      "id": "555da3a85b18fbfe",
+      "type": "add",
+      "after": "87884832bed3a2db",
+      "date": 1418861964364
+    },
+    {
+      "type": "edit",
+      "id": "555da3a85b18fbfe",
+      "item": {
+        "type": "paragraph",
+        "id": "555da3a85b18fbfe",
+        "text": "My original idea was to rethink Distance Education as being Responsive Education "
+      },
+      "date": 1418861992630
+    },
+    {
+      "type": "edit",
+      "id": "555da3a85b18fbfe",
+      "item": {
+        "type": "paragraph",
+        "id": "555da3a85b18fbfe",
+        "text": "My original idea was to rethink Distance Education as being Responsive Education. It came from the experience of developing Responsive Web Design practices. "
+      },
+      "date": 1418862048248
+    },
+    {
+      "type": "edit",
+      "id": "555da3a85b18fbfe",
+      "item": {
+        "type": "paragraph",
+        "id": "555da3a85b18fbfe",
+        "text": "My original idea was to rethink Distance Education as being Responsive Education. It came from my experience of [http://alistapart.com/article/responsive-web-design Responsive Web Design] practices. "
+      },
+      "date": 1418862125008
+    },
+    {
+      "type": "remove",
+      "id": "f3429006cd4da572",
+      "date": 1418862155480
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "105db5ccbdb210a6"
+      },
+      "id": "105db5ccbdb210a6",
+      "type": "add",
+      "after": "555da3a85b18fbfe",
+      "date": 1418862167861
+    },
+    {
+      "type": "edit",
+      "id": "105db5ccbdb210a6",
+      "item": {
+        "type": "paragraph",
+        "id": "105db5ccbdb210a6",
+        "text": "The term Responsive Design has been part of the web lexicon for the last 4–5 years and essentially means\nThe same HTML is served to all devices… page elements reshuffle as the screen size grows or shrinks.\nIn this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site.\nWhat if Education looked like that:\nThe same Education is served to all students… locations, spaces, assessment and content reshuffle to suit the learning context.\n"
+      },
+      "date": 1418862177834
+    },
+    {
+      "type": "remove",
+      "id": "105db5ccbdb210a6",
+      "date": 1418862181808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "503aa5de8992a0a7"
+      },
+      "id": "503aa5de8992a0a7",
+      "type": "add",
+      "after": "555da3a85b18fbfe",
+      "date": 1418862183049
+    },
+    {
+      "type": "edit",
+      "id": "503aa5de8992a0a7",
+      "item": {
+        "type": "markdown",
+        "id": "503aa5de8992a0a7",
+        "text": "The term Responsive Design has been part of the web lexicon for the last 4–5 years and essentially means\n\n>The same HTML is served to all devices… page elements reshuffle as the screen size grows or shrinks.\n\nIn this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site.\n\nWhat if Education looked like that:\n\n>The same Education is served to all students… locations, spaces, assessment and content reshuffle to suit the learning context."
+      },
+      "date": 1418862212470
+    },
+    {
+      "type": "edit",
+      "id": "503aa5de8992a0a7",
+      "item": {
+        "type": "markdown",
+        "id": "503aa5de8992a0a7",
+        "text": "The term Responsive Design has been part of the web lexicon for the last 4–5 years and essentially means\n\n...the same HTML is served to all devices… page elements reshuffle as the screen size grows or shrinks.\n\nIn this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site."
+      },
+      "date": 1418862259951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "899cb5a47d0abfa3"
+      },
+      "id": "899cb5a47d0abfa3",
+      "type": "add",
+      "after": "503aa5de8992a0a7",
+      "date": 1418862261399
+    },
+    {
+      "type": "edit",
+      "id": "899cb5a47d0abfa3",
+      "item": {
+        "type": "paragraph",
+        "id": "899cb5a47d0abfa3",
+        "text": "What if Education looked like that:\n\n"
+      },
+      "date": 1418862274589
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d5ce0634d0ae64e4",
+        "text": "The same Education is served to all students… locations, spaces, assessment and content reshuffle to suit the learning context."
+      },
+      "id": "d5ce0634d0ae64e4",
+      "type": "add",
+      "after": "899cb5a47d0abfa3",
+      "date": 1418862274606
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e324db8f81cbf002",
+        "text": ""
+      },
+      "id": "e324db8f81cbf002",
+      "type": "add",
+      "after": "d5ce0634d0ae64e4",
+      "date": 1418862277271
+    },
+    {
+      "type": "remove",
+      "id": "e324db8f81cbf002",
+      "date": 1418862283043
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0992eb5009dbb332"
+      },
+      "id": "0992eb5009dbb332",
+      "type": "add",
+      "after": "d5ce0634d0ae64e4",
+      "date": 1418862288258
+    },
+    {
+      "type": "edit",
+      "id": "0992eb5009dbb332",
+      "item": {
+        "type": "paragraph",
+        "id": "0992eb5009dbb332",
+        "text": "My original aim for this shift was to actually shift discussion and effort into areas of \"effective action\" as Seth "
+      },
+      "date": 1418862341512
+    },
+    {
+      "type": "edit",
+      "id": "0992eb5009dbb332",
+      "item": {
+        "type": "paragraph",
+        "id": "0992eb5009dbb332",
+        "text": "My original aim for this shift was to actually shift discussion and effort into areas of \"effective action\" as Seth discusses. That in doing so we could create an vision for system that is responsive to the learner "
+      },
+      "date": 1418862435416
+    },
+    {
+      "type": "edit",
+      "id": "0992eb5009dbb332",
+      "item": {
+        "type": "paragraph",
+        "id": "0992eb5009dbb332",
+        "text": "My original aim for this shift was to actually shift discussion and effort into areas of \"effective action\" as Seth discusses. In doing so we could create a system that is responsive to the learner and develop students who respond to that experience. "
+      },
+      "date": 1418862534284
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb9b66e6980b4ed8",
+        "text": ""
+      },
+      "id": "bb9b66e6980b4ed8",
+      "type": "add",
+      "after": "0992eb5009dbb332",
+      "date": 1418862534302
+    },
+    {
+      "type": "edit",
+      "id": "bb9b66e6980b4ed8",
+      "item": {
+        "type": "paragraph",
+        "id": "bb9b66e6980b4ed8",
+        "text": "It's a proactive, relational, interactive, symbiotic vision that directly combats the dystopian vision of leaners as automatons. "
+      },
+      "date": 1418862626516
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aa0797f39c77e9d8",
+        "text": ""
+      },
+      "id": "aa0797f39c77e9d8",
+      "type": "add",
+      "after": "bb9b66e6980b4ed8",
+      "date": 1418862626534
+    },
+    {
+      "type": "remove",
+      "id": "aa0797f39c77e9d8",
+      "date": 1418862637452
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b674ff29bc1ff97e"
+      },
+      "id": "b674ff29bc1ff97e",
+      "type": "add",
+      "after": "bb9b66e6980b4ed8",
+      "date": 1418862664081
+    },
+    {
+      "type": "edit",
+      "id": "503aa5de8992a0a7",
+      "item": {
+        "type": "markdown",
+        "id": "503aa5de8992a0a7",
+        "text": "The term Responsive Design has been part of the web lexicon for the last 4–5 years and essentially means:"
+      },
+      "date": 1418862665607
+    },
+    {
+      "type": "edit",
+      "id": "b674ff29bc1ff97e",
+      "item": {
+        "type": "paragraph",
+        "id": "b674ff29bc1ff97e",
+        "text": "...the same HTML is served to all devices… page elements reshuffle as the screen size grows or shrinks.\n\n"
+      },
+      "date": 1418862671177
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "00e48375b4c44125",
+        "text": "In this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site."
+      },
+      "id": "00e48375b4c44125",
+      "type": "add",
+      "after": "b674ff29bc1ff97e",
+      "date": 1418862671193
+    },
+    {
+      "type": "edit",
+      "id": "00e48375b4c44125",
+      "item": {
+        "type": "paragraph",
+        "id": "00e48375b4c44125",
+        "text": " "
+      },
+      "date": 1418862672726
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f67f402a9d598163",
+        "text": "In this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site."
+      },
+      "id": "f67f402a9d598163",
+      "type": "add",
+      "after": "00e48375b4c44125",
+      "date": 1418862672743
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "757644e2e3f30dd0",
+        "text": ""
+      },
+      "id": "757644e2e3f30dd0",
+      "type": "add",
+      "after": "00e48375b4c44125",
+      "date": 1418862672751
+    },
+    {
+      "type": "edit",
+      "id": "757644e2e3f30dd0",
+      "item": {
+        "type": "paragraph",
+        "id": "757644e2e3f30dd0",
+        "text": " "
+      },
+      "date": 1418862681438
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15bd3aec7b3edfde",
+        "text": "In this case the “content” of the page is exactly the same, but how it is presented changes to suit the device that the users is accessing the site."
+      },
+      "id": "15bd3aec7b3edfde",
+      "type": "add",
+      "after": "757644e2e3f30dd0",
+      "date": 1418862681458
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "adf46b33525a755b",
+        "text": ""
+      },
+      "id": "adf46b33525a755b",
+      "type": "add",
+      "after": "757644e2e3f30dd0",
+      "date": 1418862681466
+    },
+    {
+      "type": "remove",
+      "id": "adf46b33525a755b",
+      "date": 1418862684308
+    },
+    {
+      "type": "move",
+      "order": [
+        "d8f9017588a7e297",
+        "7aae749abac9eb59",
+        "d6c4eef53dec304c",
+        "4999c7f80772e223",
+        "dcc6c4c9ce99cff8",
+        "87884832bed3a2db",
+        "555da3a85b18fbfe",
+        "503aa5de8992a0a7",
+        "b674ff29bc1ff97e",
+        "899cb5a47d0abfa3",
+        "d5ce0634d0ae64e4",
+        "0992eb5009dbb332",
+        "bb9b66e6980b4ed8",
+        "00e48375b4c44125",
+        "757644e2e3f30dd0",
+        "15bd3aec7b3edfde",
+        "f67f402a9d598163"
+      ],
+      "id": "b674ff29bc1ff97e",
+      "date": 1418862697439
+    },
+    {
+      "type": "move",
+      "order": [
+        "d8f9017588a7e297",
+        "7aae749abac9eb59",
+        "d6c4eef53dec304c",
+        "4999c7f80772e223",
+        "dcc6c4c9ce99cff8",
+        "87884832bed3a2db",
+        "555da3a85b18fbfe",
+        "503aa5de8992a0a7",
+        "b674ff29bc1ff97e",
+        "15bd3aec7b3edfde",
+        "899cb5a47d0abfa3",
+        "d5ce0634d0ae64e4",
+        "0992eb5009dbb332",
+        "bb9b66e6980b4ed8",
+        "00e48375b4c44125",
+        "757644e2e3f30dd0",
+        "f67f402a9d598163"
+      ],
+      "id": "15bd3aec7b3edfde",
+      "date": 1418862700461
+    },
+    {
+      "type": "remove",
+      "id": "f67f402a9d598163",
+      "date": 1418862707317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6a9b317303fd395"
+      },
+      "id": "b6a9b317303fd395",
+      "type": "add",
+      "after": "757644e2e3f30dd0",
+      "date": 1418862713032
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation ideas like "
+      },
+      "date": 1418862799868
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation we could bring in ideas like learning design patterns as an alternative model of course design"
+      },
+      "date": 1418862851492
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation we could bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns as an alternative model of course design]"
+      },
+      "date": 1418862862503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d626e87eb4b69ef7",
+        "text": ""
+      },
+      "id": "d626e87eb4b69ef7",
+      "type": "add",
+      "after": "b6a9b317303fd395",
+      "date": 1418862862521
+    },
+    {
+      "type": "remove",
+      "id": "d626e87eb4b69ef7",
+      "date": 1418862872091
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation we could bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns as an alternative model of course design] which bring in really interesting concepts"
+      },
+      "date": 1418862887423
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation we could bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns as an alternative model of course design] which bring in really interesting concepts like Pattern Languages. "
+      },
+      "date": 1418862914881
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation we could bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns] and [Interaction as Language] which bring in really interesting concepts like Pattern Languages. "
+      },
+      "date": 1418863005633
+    },
+    {
+      "type": "edit",
+      "id": "b6a9b317303fd395",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a9b317303fd395",
+        "text": "With this model as a foundation my thoughts would be to bring in ideas like [http://mikecaulfield.com/2014/09/10/learning-design-patterns-as-an-alternative-model-of-course-design/ learning design patterns] and [http://timklapdor.wordpress.com/2014/05/16/digital-literacy-interaction-as-language/ Interaction as Language] which nicely fit with the concept of Pattern Languages. "
+      },
+      "date": 1418863064074
+    },
+    {
+      "type": "fork",
+      "site": "tim.au.fedwikihappening.net",
+      "date": 1418886258108
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf4d1da8537c3dcc"
+      },
+      "id": "cf4d1da8537c3dcc",
+      "type": "add",
+      "after": "b6a9b317303fd395",
+      "date": 1418886394637
+    },
+    {
+      "type": "remove",
+      "id": "cf4d1da8537c3dcc",
+      "date": 1418886402378
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3551f1177fee8f5"
+      },
+      "id": "d3551f1177fee8f5",
+      "type": "add",
+      "after": "b6a9b317303fd395",
+      "date": 1418886404399
+    },
+    {
+      "type": "edit",
+      "id": "d3551f1177fee8f5",
+      "item": {
+        "type": "pagefold",
+        "id": "d3551f1177fee8f5",
+        "text": "Commentary"
+      },
+      "date": 1418886417229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e67195948b3fcb8f"
+      },
+      "id": "e67195948b3fcb8f",
+      "type": "add",
+      "after": "d3551f1177fee8f5",
+      "date": 1418886421681
+    },
+    {
+      "type": "edit",
+      "id": "e67195948b3fcb8f",
+      "item": {
+        "type": "paragraph",
+        "id": "e67195948b3fcb8f",
+        "text": "[[David Jones]]: I think we largely agree on the current status of ed tech in higher ed. But I'm struggling to see how responsive design can help. Some of this"
+      },
+      "date": 1418886490240
+    },
+    {
+      "type": "remove",
+      "id": "e67195948b3fcb8f",
+      "date": 1418886495376
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13b3ff2320850f08"
+      },
+      "id": "13b3ff2320850f08",
+      "type": "add",
+      "after": "d3551f1177fee8f5",
+      "date": 1418886496870
+    }
+  ]
+}

@@ -13,12 +13,6 @@
     },
     {
       "type": "paragraph",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "text": "[[David Jones]]"
-    },
-    {
-      "type": "paragraph",
       "id": "2bbd646ff3f44b51",
       "text": "Pages where we do and share."
     },
@@ -26,7 +20,7 @@
       "type": "paragraph",
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[December Journal]]"
+      "text": "[[December, 2014 Journal]]"
     },
     {
       "type": "paragraph",
@@ -42,6 +36,11 @@
       "type": "paragraph",
       "id": "ae4187bc6f4e3b24",
       "text": "[[Happening Folks]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f9a828dcdcd530fa",
+      "text": "[[David Jones]]"
     }
   ],
   "journal": [
@@ -524,6 +523,157 @@
       "type": "remove",
       "id": "b95d496b5f1bfaa2",
       "date": 1418877810284
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[December, 2014 Journal]]"
+      },
+      "date": 1418884274394
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884595178
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[David Jones]]"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884635550
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884656459
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2758b7703ea626b4"
+      },
+      "id": "2758b7703ea626b4",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884763749
+    },
+    {
+      "type": "edit",
+      "id": "2758b7703ea626b4",
+      "item": {
+        "type": "paragraph",
+        "id": "2758b7703ea626b4",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884770280
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2be8857dd45fc00f",
+        "text": ""
+      },
+      "id": "2be8857dd45fc00f",
+      "type": "add",
+      "after": "2758b7703ea626b4",
+      "date": 1418884770298
+    },
+    {
+      "type": "remove",
+      "id": "2758b7703ea626b4",
+      "date": 1418884779086
+    },
+    {
+      "type": "remove",
+      "id": "2be8857dd45fc00f",
+      "date": 1418884781678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a6ec030b56886fe"
+      },
+      "id": "2a6ec030b56886fe",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884788099
+    },
+    {
+      "type": "edit",
+      "id": "2a6ec030b56886fe",
+      "item": {
+        "type": "paragraph",
+        "id": "2a6ec030b56886fe",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884793057
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87710325317d694b",
+        "text": ""
+      },
+      "id": "87710325317d694b",
+      "type": "add",
+      "after": "2a6ec030b56886fe",
+      "date": 1418884793063
+    },
+    {
+      "type": "remove",
+      "id": "87710325317d694b",
+      "date": 1418884795777
+    },
+    {
+      "type": "remove",
+      "id": "2a6ec030b56886fe",
+      "date": 1418884804050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9a828dcdcd530fa"
+      },
+      "id": "f9a828dcdcd530fa",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884829912
+    },
+    {
+      "type": "edit",
+      "id": "f9a828dcdcd530fa",
+      "item": {
+        "type": "paragraph",
+        "id": "f9a828dcdcd530fa",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884835425
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cddef65923b8ad6e",
+        "text": ""
+      },
+      "id": "cddef65923b8ad6e",
+      "type": "add",
+      "after": "f9a828dcdcd530fa",
+      "date": 1418884835434
+    },
+    {
+      "type": "remove",
+      "id": "cddef65923b8ad6e",
+      "date": 1418884836538
     }
   ]
 }

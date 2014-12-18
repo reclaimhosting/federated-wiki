@@ -1,0 +1,1362 @@
+{
+  "title": "Abstraction of Method",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "273dfd143e7d6af0",
+      "text": "We reflect on the various ways this wiki separates method from quantity such that what will be done can be considered independently from the doing. We focus on dispatch as a kind of condition that is open to an increasing number of alternatives that will be managed by other than the immediate programmer. See also [[Upper Name Hierarchy]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "babcfbb6f6e34cea",
+      "text": "We follow in the tradition initiated by Charles Babbage, recognized by Ada Lovelace, and developed to its full potential by Alan Turing."
+    },
+    {
+      "type": "paragraph",
+      "id": "090557cdae1f4e20",
+      "text": "By interpreting quantities as instructions a generalization of purpose becomes possible. We exercise tremendous influence over the thoughts of others by choosing who will select the meaning of quantities and who will provide the quantities to be so interpreted."
+    },
+    {
+      "type": "html",
+      "id": "0a1b173b7f12b861",
+      "text": "<h3> Dispatch"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4524da454d73f60",
+      "text": "Mechanical interpretation happens when we attach meaning to symbols and then choose to do one thing or another based on the symbols we encounter. The symbols may be numbers or strings depending only on the convenience of mechanism and representation in available quantities."
+    },
+    {
+      "type": "paragraph",
+      "id": "7496fecea9f19e84",
+      "text": "A program can be cast as an interpreter as follows: for each symbol, if the symbol has one meaning, apply that, else if it has another meaning, apply that, and so on. This can be written in modern programming languages pretty much this way."
+    },
+    {
+      "type": "code",
+      "id": "d84d5f96ae5aba40",
+      "text": "for each symbol\n    if symbol is \"sum\" then a+b\n    if symbol is \"product\" then a*b\n    if symbol is ..."
+    },
+    {
+      "type": "paragraph",
+      "id": "d061120db02374b5",
+      "text": "The programmer who writes an interpreter will in one way or another dispatch computer resources based on symbols to be provided later. The programmer thereby gives names to resources, the names being a code that represents those resources before they are applied."
+    },
+    {
+      "type": "html",
+      "id": "b07854f602457912",
+      "text": "<h3> Interpreters"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f432023922720ee",
+      "text": "Federated Wiki makes use of various interpreters and leaves room for further interpreters to appear later."
+    },
+    {
+      "type": "html",
+      "id": "0f2b2b443b10a53f",
+      "text": "<b>Site Names</b> dispatch to collections of pages through the mechanisms of domain name registration and the hosting of web page servers."
+    },
+    {
+      "type": "html",
+      "id": "1b08af7963d067ab",
+      "text": "<b>Page Names</b> dispatch to page contents when one clicks a link. Each site in the federation has the opportunity to provide a different interpretation for a page name."
+    },
+    {
+      "type": "html",
+      "id": "5ab3b32505332117",
+      "text": "<b>Journal Actions</b> dispatch to editing operations that create or modify page contents. Symbols like [+] or [x] code for adding or removing story items. Reinterpreting a subset of actions will recreate any version of a page."
+    },
+    {
+      "type": "html",
+      "id": "03b3b812163df827",
+      "text": "<b>Story Items</b> dispatch to plugins that will interpret the item's content as one or another kind of markup. Each item contains a type, the symbol that identifies the plugin by name. Each site in the federation provides its own plugin for each item type."
+    },
+    {
+      "type": "paragraph",
+      "id": "32b8e442167cb7f6",
+      "text": "Federated Wiki is open to any number of plugins. We can only sample representitive plugins to suggest the variety of interpretation that is possible."
+    },
+    {
+      "type": "html",
+      "id": "bfb3eb14d8acdc6e",
+      "text": "The <b>Method</b> plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+    },
+    {
+      "type": "html",
+      "id": "9d309a40f2f083d8",
+      "text": "The <b>Data</b> plugin dispatches thumb events to display information from corresponding columns."
+    },
+    {
+      "type": "html",
+      "id": "62ecbc9571662413",
+      "text": "The <b>Radar</b> plugin dispatches on the format of configuration lines. It also dispatches thumb events to orient the display."
+    },
+    {
+      "type": "html",
+      "id": "1c96fcd3891330e8",
+      "text": "The <b>Factory</b> plugin dispatches based on dropped file type to create appropriately typed story items."
+    },
+    {
+      "type": "html",
+      "id": "67fa541d75b79e5f",
+      "text": "<h3> Federation"
+    },
+    {
+      "type": "paragraph",
+      "id": "91bcdf16e23a9070",
+      "text": "We consider who in the federation does what when and who checks the results."
+    },
+    {
+      "type": "paragraph",
+      "id": "626618695996f19e",
+      "text": "A federated wiki site represents a single author/editor who is expected to preserve that domain name as a reference for attribution."
+    },
+    {
+      "type": "paragraph",
+      "id": "766c47d102ecdab5",
+      "text": "A site operator can configure the complement of plugin versions used to interpret pages. Others are free to interpret pages differently but may return to a particular site to discover its preferred interpretation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7da737f5f150f63e",
+      "text": "Many plugins select content from adjacent pages in a reader's browser. This gives the reader control over environment within which plugins run. Plugins which retrieve events or data from that environment will respond accordingly."
+    },
+    {
+      "type": "paragraph",
+      "id": "b58d64ec945e74ac",
+      "text": "Evolution favors this approach. "
+    },
+    {
+      "type": "paragraph",
+      "id": "95936089bd3184be",
+      "text": "Developers favor this approach."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f46b441eec04678",
+      "text": "Distinguish mechanical and cultural interpretation."
+    },
+    {
+      "type": "html",
+      "id": "f7d8408369e5a85f",
+      "text": "<h3> Notes"
+    },
+    {
+      "type": "paragraph",
+      "id": "dfd978b7bf7901b4",
+      "text": "[http://www.fourmilab.ch/documents/comp_mem_nat_life/ John Walker] describes in simple terms how universal computation depends on large, reliable memory."
+    },
+    {
+      "type": "paragraph",
+      "id": "717e800eee583b29",
+      "text": "[http://www.youtube.com/watch?v=LgLNyMAi-0I Ivan Godard] describes the central role of dispatching in modern chip design. [http://ootbcomp.com/ website]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Abstraction of Method"
+      },
+      "date": 1352300400305
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "273dfd143e7d6af0"
+      },
+      "id": "273dfd143e7d6af0",
+      "type": "add",
+      "date": 1352300410435
+    },
+    {
+      "type": "edit",
+      "id": "273dfd143e7d6af0",
+      "item": {
+        "type": "paragraph",
+        "id": "273dfd143e7d6af0",
+        "text": "We consider the various ways this wiki separates method from quantity such that what will be done can be considered independently from the doing."
+      },
+      "date": 1352300722619
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "babcfbb6f6e34cea",
+        "text": ""
+      },
+      "id": "babcfbb6f6e34cea",
+      "type": "add",
+      "after": "273dfd143e7d6af0",
+      "date": 1352300723125
+    },
+    {
+      "type": "edit",
+      "id": "babcfbb6f6e34cea",
+      "item": {
+        "type": "paragraph",
+        "id": "babcfbb6f6e34cea",
+        "text": "We follow in the tradition initiated by Charles Babbage, recognized by Ada Lovelace, and developed to its full potential by Alan Turing."
+      },
+      "date": 1352300863550
+    },
+    {
+      "type": "edit",
+      "id": "babcfbb6f6e34cea",
+      "item": {
+        "type": "paragraph",
+        "id": "babcfbb6f6e34cea",
+        "text": "We follow in the tradition initiated by Charles Babbage, recognized by Ada Lovelace, and developed to its full potential by Alan Turing. By interpreting quantities as instructions a generalization of purpose becomes possible. We exercise tremendous influence over the thoughts of others by choosing who will select the meaning of quantities and who will provide the quantities to be so interpreted."
+      },
+      "date": 1352301418605
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a1b173b7f12b861",
+        "text": ""
+      },
+      "id": "0a1b173b7f12b861",
+      "type": "add",
+      "after": "babcfbb6f6e34cea",
+      "date": 1352301419110
+    },
+    {
+      "type": "edit",
+      "id": "0a1b173b7f12b861",
+      "item": {
+        "type": "paragraph",
+        "id": "0a1b173b7f12b861",
+        "text": "<h3> Dispatch"
+      },
+      "date": 1352301445781
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f4524da454d73f60",
+        "text": ""
+      },
+      "id": "f4524da454d73f60",
+      "type": "add",
+      "after": "0a1b173b7f12b861",
+      "date": 1352301446289
+    },
+    {
+      "type": "edit",
+      "id": "f4524da454d73f60",
+      "item": {
+        "type": "paragraph",
+        "id": "f4524da454d73f60",
+        "text": "Mechanical interpretation happens when we attach meaning to symbols and then choose to do one thing or another based on the symbols we encounter. The symbols may be numbers or strings depending only on the convenience of mechanism and representation in available quantities."
+      },
+      "date": 1352301962197
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7496fecea9f19e84",
+        "text": ""
+      },
+      "id": "7496fecea9f19e84",
+      "type": "add",
+      "after": "f4524da454d73f60",
+      "date": 1352301962704
+    },
+    {
+      "type": "edit",
+      "id": "7496fecea9f19e84",
+      "item": {
+        "type": "paragraph",
+        "id": "7496fecea9f19e84",
+        "text": "A program can be cast as an interpreter as follows: for each symbol, if the symbol has one meaning, apply that, else if it has another meaning, apply that, and so on. This can be written in modern programming languages pretty much this way."
+      },
+      "date": 1352302254484
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d84d5f96ae5aba40"
+      },
+      "id": "d84d5f96ae5aba40",
+      "type": "add",
+      "after": "7496fecea9f19e84",
+      "date": 1352302263612
+    },
+    {
+      "type": "edit",
+      "id": "d84d5f96ae5aba40",
+      "item": {
+        "type": "code",
+        "id": "d84d5f96ae5aba40",
+        "text": "for each symbol\n    if symbol is \"sum\" then a+b\n    if symbol is \"product\" then a*b\n    if symbol is ..."
+      },
+      "date": 1352302346465
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd2c792431444c09"
+      },
+      "id": "fd2c792431444c09",
+      "type": "add",
+      "after": "d84d5f96ae5aba40",
+      "date": 1352302444844
+    },
+    {
+      "type": "edit",
+      "id": "fd2c792431444c09",
+      "item": {
+        "type": "code",
+        "id": "fd2c792431444c09",
+        "text": "for each symbol\n    choose rule for symbol\n    apply rule to a and b"
+      },
+      "date": 1352302544015
+    },
+    {
+      "type": "remove",
+      "id": "fd2c792431444c09",
+      "date": 1352302568121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b78197fd77cd167"
+      },
+      "id": "3b78197fd77cd167",
+      "type": "add",
+      "after": "d84d5f96ae5aba40",
+      "date": 1352302595797
+    },
+    {
+      "type": "edit",
+      "id": "3b78197fd77cd167",
+      "item": {
+        "type": "code",
+        "id": "3b78197fd77cd167",
+        "text": "for each symbol\n    rule = rules[symbol]\n    apply (rule, a, b)"
+      },
+      "date": 1352302665955
+    },
+    {
+      "type": "remove",
+      "id": "3b78197fd77cd167",
+      "date": 1352302672310
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d061120db02374b5"
+      },
+      "id": "d061120db02374b5",
+      "type": "add",
+      "after": "d84d5f96ae5aba40",
+      "date": 1352302678142
+    },
+    {
+      "type": "edit",
+      "id": "d061120db02374b5",
+      "item": {
+        "type": "paragraph",
+        "id": "d061120db02374b5",
+        "text": "The programmer who writes an interpreter will in one way or another dispatch computer resources based on symbols to be provided later. The programmer thereby gives names to resources, the names being a code that represents those resources before they are applied."
+      },
+      "date": 1352303060260
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b07854f602457912",
+        "text": ""
+      },
+      "id": "b07854f602457912",
+      "type": "add",
+      "after": "d061120db02374b5",
+      "date": 1352303060768
+    },
+    {
+      "type": "edit",
+      "id": "b07854f602457912",
+      "item": {
+        "type": "paragraph",
+        "id": "b07854f602457912",
+        "text": "<h3> Interpreters"
+      },
+      "date": 1352303114449
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f432023922720ee",
+        "text": ""
+      },
+      "id": "3f432023922720ee",
+      "type": "add",
+      "after": "b07854f602457912",
+      "date": 1352303114955
+    },
+    {
+      "type": "edit",
+      "id": "3f432023922720ee",
+      "item": {
+        "type": "paragraph",
+        "id": "3f432023922720ee",
+        "text": "Federated Wiki makes use of various interpreters and leaves room for further interpreters to appear later."
+      },
+      "date": 1352303231268
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1b08af7963d067ab",
+        "text": ""
+      },
+      "id": "1b08af7963d067ab",
+      "type": "add",
+      "after": "3f432023922720ee",
+      "date": 1352303231773
+    },
+    {
+      "type": "edit",
+      "id": "1b08af7963d067ab",
+      "item": {
+        "type": "paragraph",
+        "id": "1b08af7963d067ab",
+        "text": "<b>Page Names</b> dispatch to page contents when one clicks a link. Each site in the federation has the opportunity to provide a different interpretation for a page name."
+      },
+      "date": 1352303435813
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f2b2b443b10a53f",
+        "text": ""
+      },
+      "id": "0f2b2b443b10a53f",
+      "type": "add",
+      "after": "1b08af7963d067ab",
+      "date": 1352303436320
+    },
+    {
+      "type": "edit",
+      "id": "0f2b2b443b10a53f",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2b2b443b10a53f",
+        "text": "<b>Site Names</b> dispatch to collections of pages through the mechanisms of domain name registration and the hosting of web page servers."
+      },
+      "date": 1352303606450
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "03b3b812163df827",
+        "text": ""
+      },
+      "id": "03b3b812163df827",
+      "type": "add",
+      "after": "0f2b2b443b10a53f",
+      "date": 1352303606956
+    },
+    {
+      "type": "edit",
+      "id": "03b3b812163df827",
+      "item": {
+        "type": "paragraph",
+        "id": "03b3b812163df827",
+        "text": "<b>Story Items</b> within a page each have a type, a symbol that identifies in part how the remainder of the item is to be interpreted as content."
+      },
+      "date": 1352303830467
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9ee1d9ed45e75a2f",
+        "text": ""
+      },
+      "id": "9ee1d9ed45e75a2f",
+      "type": "add",
+      "after": "03b3b812163df827",
+      "date": 1352303830975
+    },
+    {
+      "type": "remove",
+      "id": "9ee1d9ed45e75a2f",
+      "date": 1352303932377
+    },
+    {
+      "type": "edit",
+      "id": "03b3b812163df827",
+      "item": {
+        "type": "paragraph",
+        "id": "03b3b812163df827",
+        "text": "<b>Story Items</b> within a page each have a type, a symbol that identifies how the remainder of the item is to be interpreted. Wiki dispatches to plugins based on type. Each site in the federation has the opportunity to provide a different plugin interpreter for each type symbol."
+      },
+      "date": 1352304111490
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "32b8e442167cb7f6",
+        "text": ""
+      },
+      "id": "32b8e442167cb7f6",
+      "type": "add",
+      "after": "03b3b812163df827",
+      "date": 1352304111998
+    },
+    {
+      "type": "edit",
+      "id": "32b8e442167cb7f6",
+      "item": {
+        "type": "paragraph",
+        "id": "32b8e442167cb7f6",
+        "text": "<b>Story Item Content<b> is interpreted by the selected plugin. For example, the Method plugin interprets the first word of each line to be operations like SUM and PRODUCT to be applied to data found elsewhere."
+      },
+      "date": 1352304369944
+    },
+    {
+      "type": "edit",
+      "id": "32b8e442167cb7f6",
+      "item": {
+        "type": "paragraph",
+        "id": "32b8e442167cb7f6",
+        "text": "<b>Story Item Content</b> is interpreted by the selected plugin. For example, the Method plugin interprets the first word of each line to be operations like SUM and PRODUCT to be applied to data found elsewhere."
+      },
+      "date": 1352304375105
+    },
+    {
+      "type": "edit",
+      "id": "03b3b812163df827",
+      "item": {
+        "type": "paragraph",
+        "id": "03b3b812163df827",
+        "text": "<b>Story Item Types</b> dispatch to plugins that will interpret the item's content as one or another kind of markup. Each site in the federation has the opportunity to provide a different plugin interpreter for each type symbol."
+      },
+      "date": 1352304609258
+    },
+    {
+      "type": "edit",
+      "id": "32b8e442167cb7f6",
+      "item": {
+        "type": "paragraph",
+        "id": "32b8e442167cb7f6",
+        "text": "<b>Story Item Content</b> is interpreted by the selected plugin. For example, the Method plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+      },
+      "date": 1352304753411
+    },
+    {
+      "type": "move",
+      "order": [
+        "273dfd143e7d6af0",
+        "babcfbb6f6e34cea",
+        "0a1b173b7f12b861",
+        "f4524da454d73f60",
+        "7496fecea9f19e84",
+        "d84d5f96ae5aba40",
+        "d061120db02374b5",
+        "b07854f602457912",
+        "3f432023922720ee",
+        "0f2b2b443b10a53f",
+        "1b08af7963d067ab",
+        "03b3b812163df827",
+        "32b8e442167cb7f6"
+      ],
+      "id": "0f2b2b443b10a53f",
+      "date": 1352304780755
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ab3b32505332117",
+        "text": ""
+      },
+      "id": "5ab3b32505332117",
+      "type": "add",
+      "after": "32b8e442167cb7f6",
+      "date": 1352304824615
+    },
+    {
+      "type": "edit",
+      "id": "5ab3b32505332117",
+      "item": {
+        "type": "paragraph",
+        "id": "5ab3b32505332117",
+        "text": "<b>Journal Actions</b> dispatch to editing operations that create or modify page contents. Symbols like [+] or [x] code for adding or removing story items. Reinterpreting a subset of actions will recreate any version of a page."
+      },
+      "date": 1352305343547
+    },
+    {
+      "type": "move",
+      "order": [
+        "273dfd143e7d6af0",
+        "babcfbb6f6e34cea",
+        "0a1b173b7f12b861",
+        "f4524da454d73f60",
+        "7496fecea9f19e84",
+        "d84d5f96ae5aba40",
+        "d061120db02374b5",
+        "b07854f602457912",
+        "3f432023922720ee",
+        "0f2b2b443b10a53f",
+        "1b08af7963d067ab",
+        "5ab3b32505332117",
+        "03b3b812163df827",
+        "32b8e442167cb7f6"
+      ],
+      "id": "5ab3b32505332117",
+      "date": 1352305350913
+    },
+    {
+      "type": "edit",
+      "id": "03b3b812163df827",
+      "item": {
+        "type": "paragraph",
+        "id": "03b3b812163df827",
+        "text": "<b>Story Items</b> dispatch to plugins that will interpret the item's content as one or another kind of markup. Each item contains a type, the symbol that identifies the plugin by name. Each site in the federation provides its own plugin for each item type."
+      },
+      "date": 1352305597675
+    },
+    {
+      "type": "edit",
+      "id": "32b8e442167cb7f6",
+      "item": {
+        "type": "paragraph",
+        "id": "32b8e442167cb7f6",
+        "text": "Federated Wiki is open to any number of plugins. We can only sample representitive plugins to suggest the variety of interpretation that is possible."
+      },
+      "date": 1352305940834
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bfb3eb14d8acdc6e",
+        "text": " is interpreted by the selected plugin. For example, the Method plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+      },
+      "id": "bfb3eb14d8acdc6e",
+      "type": "add",
+      "after": "32b8e442167cb7f6",
+      "date": 1352305941341
+    },
+    {
+      "type": "edit",
+      "id": "bfb3eb14d8acdc6e",
+      "item": {
+        "type": "paragraph",
+        "id": "bfb3eb14d8acdc6e",
+        "text": "The <b>Method<b> plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+      },
+      "date": 1352305973021
+    },
+    {
+      "type": "edit",
+      "id": "bfb3eb14d8acdc6e",
+      "item": {
+        "type": "paragraph",
+        "id": "bfb3eb14d8acdc6e",
+        "text": "The <b>Method</b> plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+      },
+      "date": 1352305978398
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9d309a40f2f083d8",
+        "text": ""
+      },
+      "id": "9d309a40f2f083d8",
+      "type": "add",
+      "after": "bfb3eb14d8acdc6e",
+      "date": 1352307029845
+    },
+    {
+      "type": "edit",
+      "id": "9d309a40f2f083d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9d309a40f2f083d8",
+        "text": "Data plugin."
+      },
+      "date": 1352307058243
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62ecbc9571662413",
+        "text": ""
+      },
+      "id": "62ecbc9571662413",
+      "type": "add",
+      "after": "9d309a40f2f083d8",
+      "date": 1352307058749
+    },
+    {
+      "type": "edit",
+      "id": "62ecbc9571662413",
+      "item": {
+        "type": "paragraph",
+        "id": "62ecbc9571662413",
+        "text": "Radar plugin."
+      },
+      "date": 1352307063507
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0dc5882ae7cb33a1",
+        "text": ""
+      },
+      "id": "0dc5882ae7cb33a1",
+      "type": "add",
+      "after": "62ecbc9571662413",
+      "date": 1352307064012
+    },
+    {
+      "type": "edit",
+      "id": "0dc5882ae7cb33a1",
+      "item": {
+        "type": "paragraph",
+        "id": "0dc5882ae7cb33a1",
+        "text": "Paragraph plugin."
+      },
+      "date": 1352307074379
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c96fcd3891330e8",
+        "text": ""
+      },
+      "id": "1c96fcd3891330e8",
+      "type": "add",
+      "after": "0dc5882ae7cb33a1",
+      "date": 1352307074884
+    },
+    {
+      "type": "edit",
+      "id": "1c96fcd3891330e8",
+      "item": {
+        "type": "paragraph",
+        "id": "1c96fcd3891330e8",
+        "text": "Factory plugin."
+      },
+      "date": 1352307112828
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de68ac8160d54fb9",
+        "text": ""
+      },
+      "id": "de68ac8160d54fb9",
+      "type": "add",
+      "after": "1c96fcd3891330e8",
+      "date": 1352307113337
+    },
+    {
+      "type": "remove",
+      "id": "de68ac8160d54fb9",
+      "date": 1352307132979
+    },
+    {
+      "type": "edit",
+      "id": "273dfd143e7d6af0",
+      "item": {
+        "type": "paragraph",
+        "id": "273dfd143e7d6af0",
+        "text": "We reflect on the various ways this wiki separates method from quantity such that what will be done can be considered independently from the doing."
+      },
+      "date": 1352307142648
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67fa541d75b79e5f",
+        "text": ""
+      },
+      "id": "67fa541d75b79e5f",
+      "type": "add",
+      "after": "1c96fcd3891330e8",
+      "date": 1352307162336
+    },
+    {
+      "type": "edit",
+      "id": "67fa541d75b79e5f",
+      "item": {
+        "type": "paragraph",
+        "id": "67fa541d75b79e5f",
+        "text": "<h3> Federation"
+      },
+      "date": 1352307183255
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "91bcdf16e23a9070",
+        "text": ""
+      },
+      "id": "91bcdf16e23a9070",
+      "type": "add",
+      "after": "67fa541d75b79e5f",
+      "date": 1352307183760
+    },
+    {
+      "type": "edit",
+      "id": "91bcdf16e23a9070",
+      "item": {
+        "type": "paragraph",
+        "id": "91bcdf16e23a9070",
+        "text": "We consider who does what when and who checks the result."
+      },
+      "date": 1352307225742
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b58d64ec945e74ac",
+        "text": ""
+      },
+      "id": "b58d64ec945e74ac",
+      "type": "add",
+      "after": "91bcdf16e23a9070",
+      "date": 1352307243556
+    },
+    {
+      "type": "edit",
+      "id": "b58d64ec945e74ac",
+      "item": {
+        "type": "paragraph",
+        "id": "b58d64ec945e74ac",
+        "text": "Evolution favors this approach. "
+      },
+      "date": 1352307291420
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95936089bd3184be",
+        "text": ""
+      },
+      "id": "95936089bd3184be",
+      "type": "add",
+      "after": "b58d64ec945e74ac",
+      "date": 1352307291926
+    },
+    {
+      "type": "edit",
+      "id": "95936089bd3184be",
+      "item": {
+        "type": "paragraph",
+        "id": "95936089bd3184be",
+        "text": "Developers favor this approach."
+      },
+      "date": 1352307343915
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1151736d6564492b",
+        "text": ""
+      },
+      "id": "1151736d6564492b",
+      "type": "add",
+      "after": "95936089bd3184be",
+      "date": 1352307344422
+    },
+    {
+      "type": "remove",
+      "id": "1151736d6564492b",
+      "date": 1352307397849
+    },
+    {
+      "type": "edit",
+      "id": "babcfbb6f6e34cea",
+      "item": {
+        "type": "paragraph",
+        "id": "babcfbb6f6e34cea",
+        "text": "We follow in the tradition initiated by Charles Babbage, recognized by Ada Lovelace, and developed to its full potential by Alan Turing."
+      },
+      "date": 1352307402594
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "090557cdae1f4e20",
+        "text": "By interpreting quantities as instructions a generalization of purpose becomes possible. We exercise tremendous influence over the thoughts of others by choosing who will select the meaning of quantities and who will provide the quantities to be so interpreted."
+      },
+      "id": "090557cdae1f4e20",
+      "type": "add",
+      "after": "babcfbb6f6e34cea",
+      "date": 1352307403101
+    },
+    {
+      "type": "edit",
+      "id": "9d309a40f2f083d8",
+      "item": {
+        "type": "paragraph",
+        "id": "9d309a40f2f083d8",
+        "text": "The <b>Data</b> plugin dispatches thumb events to display information from corresponding columns."
+      },
+      "date": 1352338249749
+    },
+    {
+      "type": "edit",
+      "id": "62ecbc9571662413",
+      "item": {
+        "type": "paragraph",
+        "id": "62ecbc9571662413",
+        "text": "The <b>Radar</b> plugin dispatches on the format of configuration lines. It also dispatches thumb events to orient the display."
+      },
+      "date": 1352342637997
+    },
+    {
+      "type": "remove",
+      "id": "0dc5882ae7cb33a1",
+      "date": 1352342668044
+    },
+    {
+      "type": "edit",
+      "id": "1c96fcd3891330e8",
+      "item": {
+        "type": "paragraph",
+        "id": "1c96fcd3891330e8",
+        "text": "The <b>Factory</b> plugin dispatches based on dropped file type to create appropriately typed story items."
+      },
+      "date": 1352342767425
+    },
+    {
+      "type": "edit",
+      "id": "91bcdf16e23a9070",
+      "item": {
+        "type": "paragraph",
+        "id": "91bcdf16e23a9070",
+        "text": "We consider who does what when and who checks the results."
+      },
+      "date": 1352343924757
+    },
+    {
+      "type": "edit",
+      "id": "91bcdf16e23a9070",
+      "item": {
+        "type": "paragraph",
+        "id": "91bcdf16e23a9070",
+        "text": "We consider who in the federation does what when and who checks the results."
+      },
+      "date": 1352343947133
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "626618695996f19e",
+        "text": ""
+      },
+      "id": "626618695996f19e",
+      "type": "add",
+      "after": "91bcdf16e23a9070",
+      "date": 1352343969957
+    },
+    {
+      "type": "edit",
+      "id": "626618695996f19e",
+      "item": {
+        "type": "paragraph",
+        "id": "626618695996f19e",
+        "text": "We prefer to think that all participants in the federation will acquire a domain name and will use that to represent themselves. Domain name registrars will allow these names to direct to any server. This gives the owner of the domain name control over all server configurations whether they choose to exercise that control immediately or not."
+      },
+      "date": 1352344883689
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2dda266a88d813d0",
+        "text": ""
+      },
+      "id": "2dda266a88d813d0",
+      "type": "add",
+      "after": "626618695996f19e",
+      "date": 1352344884198
+    },
+    {
+      "type": "remove",
+      "id": "2dda266a88d813d0",
+      "date": 1352345139975
+    },
+    {
+      "type": "edit",
+      "id": "626618695996f19e",
+      "item": {
+        "type": "paragraph",
+        "id": "626618695996f19e",
+        "text": "We prefer to think that all participants in the federation will acquire a domain name and will use that to represent themselves."
+      },
+      "date": 1352345147170
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e0e26ebd44e6e6e7",
+        "text": "Domain name registrars will allow these names to direct to any server. This gives the owner of the domain name control over all server configurations whether they choose to exercise that control immediately or not."
+      },
+      "id": "e0e26ebd44e6e6e7",
+      "type": "add",
+      "after": "626618695996f19e",
+      "date": 1352345147677
+    },
+    {
+      "type": "remove",
+      "id": "e0e26ebd44e6e6e7",
+      "date": 1352345277164
+    },
+    {
+      "type": "edit",
+      "id": "626618695996f19e",
+      "item": {
+        "type": "paragraph",
+        "id": "626618695996f19e",
+        "text": "A federated wiki site represents a single author/editor who is expected to preserve that domain name as a reference for attribution."
+      },
+      "date": 1352345924937
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "766c47d102ecdab5",
+        "text": ""
+      },
+      "id": "766c47d102ecdab5",
+      "type": "add",
+      "after": "626618695996f19e",
+      "date": 1352345925444
+    },
+    {
+      "type": "edit",
+      "id": "766c47d102ecdab5",
+      "item": {
+        "type": "paragraph",
+        "id": "766c47d102ecdab5",
+        "text": "A site operator can configure the complement of plugins used to interpret pages. Others are free to interpret pages differently but may return to a particular site to discover its interpretation. "
+      },
+      "date": 1352346244702
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7da737f5f150f63e",
+        "text": ""
+      },
+      "id": "7da737f5f150f63e",
+      "type": "add",
+      "after": "766c47d102ecdab5",
+      "date": 1352346245207
+    },
+    {
+      "type": "edit",
+      "id": "7da737f5f150f63e",
+      "item": {
+        "type": "paragraph",
+        "id": "7da737f5f150f63e",
+        "text": "Many plugins select content from adjacent pages in a reader's browser. This gives the reader control over environment within which plugins run. Plugins which retrieve events or data from that environment will respond accordingly."
+      },
+      "date": 1352346685754
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "735955eb68a0ff04",
+        "text": ""
+      },
+      "id": "735955eb68a0ff04",
+      "type": "add",
+      "after": "7da737f5f150f63e",
+      "date": 1352346686261
+    },
+    {
+      "type": "remove",
+      "id": "735955eb68a0ff04",
+      "date": 1352346722010
+    },
+    {
+      "type": "edit",
+      "id": "766c47d102ecdab5",
+      "item": {
+        "type": "paragraph",
+        "id": "766c47d102ecdab5",
+        "text": "A site operator can configure the complement of plugin versions used to interpret pages. Others are free to interpret pages differently but may return to a particular site to discover its preferred interpretation. "
+      },
+      "date": 1352346757262
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f7d8408369e5a85f",
+        "text": ""
+      },
+      "id": "f7d8408369e5a85f",
+      "type": "add",
+      "after": "95936089bd3184be",
+      "date": 1352745800586
+    },
+    {
+      "type": "edit",
+      "id": "f7d8408369e5a85f",
+      "item": {
+        "type": "paragraph",
+        "id": "f7d8408369e5a85f",
+        "text": "<h3> Notes"
+      },
+      "date": 1352745805853
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfd978b7bf7901b4",
+        "text": ""
+      },
+      "id": "dfd978b7bf7901b4",
+      "type": "add",
+      "after": "f7d8408369e5a85f",
+      "date": 1352745806359
+    },
+    {
+      "type": "edit",
+      "id": "dfd978b7bf7901b4",
+      "item": {
+        "type": "paragraph",
+        "id": "dfd978b7bf7901b4",
+        "text": "John Walker describes in simple terms how universal computation depends on large, reliable memory. [http://www.fourmilab.ch/documents/comp_mem_nat_life/ essay]."
+      },
+      "date": 1352745895193
+    },
+    {
+      "type": "edit",
+      "id": "dfd978b7bf7901b4",
+      "item": {
+        "type": "paragraph",
+        "id": "dfd978b7bf7901b4",
+        "text": "John Walker describes in simple terms how universal computation depends on large, reliable memory. [http://www.fourmilab.ch/documents/comp_mem_nat_life/ essay]"
+      },
+      "date": 1352745904474
+    },
+    {
+      "type": "edit",
+      "id": "dfd978b7bf7901b4",
+      "item": {
+        "type": "paragraph",
+        "id": "dfd978b7bf7901b4",
+        "text": "[http://www.fourmilab.ch/documents/comp_mem_nat_life/ John Walker] describes in simple terms how universal computation depends on large, reliable memory."
+      },
+      "date": 1352745977007
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f46b441eec04678",
+        "text": ""
+      },
+      "id": "3f46b441eec04678",
+      "type": "add",
+      "after": "95936089bd3184be",
+      "date": 1352746009590
+    },
+    {
+      "type": "edit",
+      "id": "3f46b441eec04678",
+      "item": {
+        "type": "paragraph",
+        "id": "3f46b441eec04678",
+        "text": "Distinguish mechanical and cultural interpretation."
+      },
+      "date": 1352746042540
+    },
+    {
+      "type": "edit",
+      "id": "273dfd143e7d6af0",
+      "item": {
+        "type": "paragraph",
+        "id": "273dfd143e7d6af0",
+        "text": "We reflect on the various ways this wiki separates method from quantity such that what will be done can be considered independently from the doing. We focus on dispatch as a kind of condition that is open to an increasing number of alternatives that will be managed by other than the immediate programmer."
+      },
+      "date": 1353685395351
+    },
+    {
+      "type": "edit",
+      "id": "273dfd143e7d6af0",
+      "item": {
+        "type": "paragraph",
+        "id": "273dfd143e7d6af0",
+        "text": "We reflect on the various ways this wiki separates method from quantity such that what will be done can be considered independently from the doing. We focus on dispatch as a kind of condition that is open to an increasing number of alternatives that will be managed by other than the immediate programmer. See also [[Upper Name Hierarchy]]."
+      },
+      "date": 1353685656102
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "717e800eee583b29",
+        "text": ""
+      },
+      "id": "717e800eee583b29",
+      "type": "add",
+      "after": "dfd978b7bf7901b4",
+      "date": 1371133184400
+    },
+    {
+      "type": "edit",
+      "id": "717e800eee583b29",
+      "item": {
+        "type": "paragraph",
+        "id": "717e800eee583b29",
+        "text": "[http://www.youtube.com/watch?v=LgLNyMAi-0I Ivan Godard] describes the central role of dispatching in modern chip design."
+      },
+      "date": 1371133225353
+    },
+    {
+      "type": "edit",
+      "id": "717e800eee583b29",
+      "item": {
+        "type": "paragraph",
+        "id": "717e800eee583b29",
+        "text": "[http://www.youtube.com/watch?v=LgLNyMAi-0I Ivan Godard] describes the central role of dispatching in modern chip design. [http://ootbcomp.com/ website]"
+      },
+      "date": 1371140719583
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1418598799498
+    },
+    {
+      "type": "edit",
+      "id": "0a1b173b7f12b861",
+      "item": {
+        "type": "html",
+        "id": "0a1b173b7f12b861",
+        "text": "<h3> Dispatch"
+      },
+      "site": "ward.fed.wiki.org",
+      "date": 1418598799496
+    },
+    {
+      "type": "fork",
+      "date": 1418598835920
+    },
+    {
+      "type": "edit",
+      "id": "b07854f602457912",
+      "item": {
+        "type": "html",
+        "id": "b07854f602457912",
+        "text": "<h3> Interpreters"
+      },
+      "date": 1418598846829
+    },
+    {
+      "type": "fork",
+      "date": 1418598893382
+    },
+    {
+      "type": "edit",
+      "id": "0f2b2b443b10a53f",
+      "item": {
+        "type": "html",
+        "id": "0f2b2b443b10a53f",
+        "text": "<b>Site Names</b> dispatch to collections of pages through the mechanisms of domain name registration and the hosting of web page servers."
+      },
+      "date": 1418598905028
+    },
+    {
+      "type": "edit",
+      "id": "1b08af7963d067ab",
+      "item": {
+        "type": "html",
+        "id": "1b08af7963d067ab",
+        "text": "<b>Page Names</b> dispatch to page contents when one clicks a link. Each site in the federation has the opportunity to provide a different interpretation for a page name."
+      },
+      "date": 1418598906819
+    },
+    {
+      "type": "edit",
+      "id": "5ab3b32505332117",
+      "item": {
+        "type": "html",
+        "id": "5ab3b32505332117",
+        "text": "<b>Journal Actions</b> dispatch to editing operations that create or modify page contents. Symbols like [+] or [x] code for adding or removing story items. Reinterpreting a subset of actions will recreate any version of a page."
+      },
+      "date": 1418598908934
+    },
+    {
+      "type": "edit",
+      "id": "03b3b812163df827",
+      "item": {
+        "type": "html",
+        "id": "03b3b812163df827",
+        "text": "<b>Story Items</b> dispatch to plugins that will interpret the item's content as one or another kind of markup. Each item contains a type, the symbol that identifies the plugin by name. Each site in the federation provides its own plugin for each item type."
+      },
+      "date": 1418598911571
+    },
+    {
+      "type": "edit",
+      "id": "bfb3eb14d8acdc6e",
+      "item": {
+        "type": "html",
+        "id": "bfb3eb14d8acdc6e",
+        "text": "The <b>Method</b> plugin dispatches on the first word of each line. Words like SUM and PRODUCT lead to computations applied to data found by the plugin elsewhere."
+      },
+      "date": 1418598914074
+    },
+    {
+      "type": "edit",
+      "id": "9d309a40f2f083d8",
+      "item": {
+        "type": "html",
+        "id": "9d309a40f2f083d8",
+        "text": "The <b>Data</b> plugin dispatches thumb events to display information from corresponding columns."
+      },
+      "date": 1418598915753
+    },
+    {
+      "type": "edit",
+      "id": "62ecbc9571662413",
+      "item": {
+        "type": "html",
+        "id": "62ecbc9571662413",
+        "text": "The <b>Radar</b> plugin dispatches on the format of configuration lines. It also dispatches thumb events to orient the display."
+      },
+      "date": 1418598917317
+    },
+    {
+      "type": "edit",
+      "id": "1c96fcd3891330e8",
+      "item": {
+        "type": "html",
+        "id": "1c96fcd3891330e8",
+        "text": "The <b>Factory</b> plugin dispatches based on dropped file type to create appropriately typed story items."
+      },
+      "date": 1418598919348
+    },
+    {
+      "type": "edit",
+      "id": "67fa541d75b79e5f",
+      "item": {
+        "type": "html",
+        "id": "67fa541d75b79e5f",
+        "text": "<h3> Federation"
+      },
+      "date": 1418598920781
+    },
+    {
+      "type": "edit",
+      "id": "f7d8408369e5a85f",
+      "item": {
+        "type": "html",
+        "id": "f7d8408369e5a85f",
+        "text": "<h3> Notes"
+      },
+      "date": 1418598926711
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1418903143170
+    }
+  ]
+}

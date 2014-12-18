@@ -308,7 +308,7 @@
     },
     {
       "type": "factory",
-      "id": "0bc19fb867252fb5"
+      "id": "dedea8862769593b"
     }
   ],
   "journal": [
@@ -3425,6 +3425,35 @@
       "type": "add",
       "after": "4791e85670ebdaca",
       "date": 1418884820809
+    },
+    {
+      "type": "edit",
+      "id": "0bc19fb867252fb5",
+      "item": {
+        "type": "factory",
+        "id": "0bc19fb867252fb5",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://djones.federatedwiki.org/david-jones.html\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://djones.federatedwiki.org/david-jones.html",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0"
+        }
+      },
+      "date": 1418884851057
+    },
+    {
+      "type": "remove",
+      "id": "0bc19fb867252fb5",
+      "date": 1418884858101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dedea8862769593b"
+      },
+      "id": "dedea8862769593b",
+      "type": "add",
+      "after": "4791e85670ebdaca",
+      "date": 1418884865008
     }
   ]
 }

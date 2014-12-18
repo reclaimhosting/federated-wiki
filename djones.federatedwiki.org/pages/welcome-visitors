@@ -2,19 +2,19 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "id": "2bbd646ff3f44b51",
+      "text": "Currently an experiment as part of #fedwikihappening with the [[Happening Folks]]"
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "id": "0e4e7af9af4172c7",
+      "text": "Stuff I'm writing about as part of all this"
     },
     {
       "type": "paragraph",
@@ -26,21 +26,6 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "paragraph",
-      "id": "c4285c188989396f",
-      "text": "Related sites"
-    },
-    {
-      "type": "paragraph",
-      "id": "ae4187bc6f4e3b24",
-      "text": "[[Happening Folks]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f9a828dcdcd530fa",
-      "text": "[[David Jones]]"
     }
   ],
   "journal": [
@@ -674,6 +659,177 @@
       "type": "remove",
       "id": "cddef65923b8ad6e",
       "date": 1418884836538
+    },
+    {
+      "type": "remove",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884880958
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f9a828dcdcd530fa",
+        "text": "[[David Jones]]"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884889132
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418884923144
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7c2ddba5b3d7b9a9",
+        "text": ""
+      },
+      "id": "7c2ddba5b3d7b9a9",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1418884923152
+    },
+    {
+      "type": "remove",
+      "id": "7c2ddba5b3d7b9a9",
+      "date": 1418884925694
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1418884929487
+    },
+    {
+      "type": "remove",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884932261
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of Fed"
+      },
+      "date": 1418884958048
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of #fedwikihappening"
+      },
+      "date": 1418884969798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": ""
+      },
+      "id": "0e4e7af9af4172c7",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1418884969806
+    },
+    {
+      "type": "edit",
+      "id": "0e4e7af9af4172c7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": "Stuff I'm writing about"
+      },
+      "date": 1418884978650
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3bacfe3c246436a0",
+        "text": ""
+      },
+      "id": "3bacfe3c246436a0",
+      "type": "add",
+      "after": "0e4e7af9af4172c7",
+      "date": 1418884978659
+    },
+    {
+      "type": "remove",
+      "id": "3bacfe3c246436a0",
+      "date": 1418884981574
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of #fedwikihappening with the [[Happening Folks]]"
+      },
+      "date": 1418885002932
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d8ac0bcef61e4d95",
+        "text": ""
+      },
+      "id": "d8ac0bcef61e4d95",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1418885002938
+    },
+    {
+      "type": "remove",
+      "id": "d8ac0bcef61e4d95",
+      "date": 1418885004283
+    },
+    {
+      "type": "edit",
+      "id": "0e4e7af9af4172c7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": "Stuff I'm writing about as part of all this"
+      },
+      "date": 1418885010100
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5b9af7c77752d3eb",
+        "text": ""
+      },
+      "id": "5b9af7c77752d3eb",
+      "type": "add",
+      "after": "0e4e7af9af4172c7",
+      "date": 1418885010106
+    },
+    {
+      "type": "remove",
+      "id": "5b9af7c77752d3eb",
+      "date": 1418885012630
+    },
+    {
+      "type": "remove",
+      "id": "c4285c188989396f",
+      "date": 1418885026295
+    },
+    {
+      "type": "remove",
+      "id": "ae4187bc6f4e3b24",
+      "date": 1418885028588
     }
   ]
 }

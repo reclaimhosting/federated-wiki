@@ -39,8 +39,9 @@
       "text": "Related sites"
     },
     {
-      "type": "factory",
-      "id": "ae4187bc6f4e3b24"
+      "type": "paragraph",
+      "id": "ae4187bc6f4e3b24",
+      "text": "[[Happening Folks]]"
     }
   ],
   "journal": [
@@ -471,6 +472,58 @@
       "type": "add",
       "after": "c4285c188989396f",
       "date": 1418877594807
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e421b54e65e5ef62",
+        "text": ""
+      },
+      "id": "e421b54e65e5ef62",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418877766271
+    },
+    {
+      "type": "edit",
+      "id": "ae4187bc6f4e3b24",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4187bc6f4e3b24",
+        "text": "[[Happening Folk]]"
+      },
+      "date": 1418877766256
+    },
+    {
+      "type": "remove",
+      "id": "e421b54e65e5ef62",
+      "date": 1418877774931
+    },
+    {
+      "type": "edit",
+      "id": "ae4187bc6f4e3b24",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4187bc6f4e3b24",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877782990
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b95d496b5f1bfaa2",
+        "text": ""
+      },
+      "id": "b95d496b5f1bfaa2",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418877783002
+    },
+    {
+      "type": "remove",
+      "id": "b95d496b5f1bfaa2",
+      "date": 1418877810284
     }
   ]
 }

@@ -44,8 +44,19 @@
       "text": "You modify, adapt, engage in bricolage and generally renovate the environment that you are given to suit the task."
     },
     {
-      "type": "factory",
-      "id": "7ffd80a233d2c59e"
+      "type": "paragraph",
+      "id": "188eeaf5a7d07ae0",
+      "text": "The problem is that when it comes to learning and teaching, the environment provided by most universities (for a huge variety of tasks) is no more fit for purpose than a concrete lounge."
+    },
+    {
+      "type": "paragraph",
+      "id": "36726b6047fde31f",
+      "text": "What's even worse is that there is essentially no capacity to modify, adapt, engage in bricolage and generally renovate the environment."
+    },
+    {
+      "type": "html",
+      "id": "3053285371583e41",
+      "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web page] identify the low digital fluency of staff as the number 1 “significant challenge impeding higher education technology adoption”.</p>\n        <p>Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.</p> <p>But perhaps the low digital fluency makes renovation a step too far.</p></li>\n  <li> A mindset that has technology SET in concrete.\n     <p>That's the argument in this paper [https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ web page]. The mindset underpinning university education technology has SET (acronym from the paper) the technology in concrete. i.e. it can't be changed.</p> </li>\n</ol>"
     }
   ],
   "journal": [
@@ -285,6 +296,199 @@
       "type": "add",
       "after": "346cbc4135ecf964",
       "date": 1418887847710
+    },
+    {
+      "type": "remove",
+      "id": "7ffd80a233d2c59e",
+      "date": 1418887853339
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "188eeaf5a7d07ae0"
+      },
+      "id": "188eeaf5a7d07ae0",
+      "type": "add",
+      "after": "346cbc4135ecf964",
+      "date": 1418887859688
+    },
+    {
+      "type": "edit",
+      "id": "188eeaf5a7d07ae0",
+      "item": {
+        "type": "paragraph",
+        "id": "188eeaf5a7d07ae0",
+        "text": "The problem is that university ed tech (and technology in general) is just like a concrete lounge."
+      },
+      "date": 1418887900955
+    },
+    {
+      "type": "edit",
+      "id": "188eeaf5a7d07ae0",
+      "item": {
+        "type": "paragraph",
+        "id": "188eeaf5a7d07ae0",
+        "text": "The problem is that when it comes to learning and teaching, the technology provided by most universities (for a huge variety of tasks) is no more fit for purpose than a concrete lounge"
+      },
+      "date": 1418887945710
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4611c5e3495f0acd",
+        "text": "."
+      },
+      "id": "4611c5e3495f0acd",
+      "type": "add",
+      "after": "188eeaf5a7d07ae0",
+      "date": 1418887945726
+    },
+    {
+      "type": "remove",
+      "id": "4611c5e3495f0acd",
+      "date": 1418887950006
+    },
+    {
+      "type": "edit",
+      "id": "188eeaf5a7d07ae0",
+      "item": {
+        "type": "paragraph",
+        "id": "188eeaf5a7d07ae0",
+        "text": "The problem is that when it comes to learning and teaching, the technology provided by most universities (for a huge variety of tasks) is no more fit for purpose than a concrete lounge."
+      },
+      "date": 1418887951699
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "36726b6047fde31f",
+        "text": ""
+      },
+      "id": "36726b6047fde31f",
+      "type": "add",
+      "after": "188eeaf5a7d07ae0",
+      "date": 1418887951705
+    },
+    {
+      "type": "edit",
+      "id": "36726b6047fde31f",
+      "item": {
+        "type": "paragraph",
+        "id": "36726b6047fde31f",
+        "text": "What's even worse is that there is essentially no capacity to modify, adapt, engage in bricolage and generally renovate the environment."
+      },
+      "date": 1418887991018
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db081a40cd30fb36",
+        "text": ""
+      },
+      "id": "db081a40cd30fb36",
+      "type": "add",
+      "after": "36726b6047fde31f",
+      "date": 1418887991034
+    },
+    {
+      "type": "remove",
+      "id": "db081a40cd30fb36",
+      "date": 1418887992678
+    },
+    {
+      "type": "edit",
+      "id": "188eeaf5a7d07ae0",
+      "item": {
+        "type": "paragraph",
+        "id": "188eeaf5a7d07ae0",
+        "text": "The problem is that when it comes to learning and teaching, the environment provided by most universities (for a huge variety of tasks) is no more fit for purpose than a concrete lounge."
+      },
+      "date": 1418887998622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3be253fe5636bc41"
+      },
+      "id": "3be253fe5636bc41",
+      "type": "add",
+      "after": "36726b6047fde31f",
+      "date": 1418888051637
+    },
+    {
+      "type": "remove",
+      "id": "3be253fe5636bc41",
+      "date": 1418888101724
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3053285371583e41"
+      },
+      "id": "3053285371583e41",
+      "type": "add",
+      "after": "36726b6047fde31f",
+      "date": 1418888103573
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) ["
+      },
+      "date": 1418888139556
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web] identify the low digital fluency of staff as a major impediment"
+      },
+      "date": 1418888177220
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web] identify the low digital fluency of staff as the number 1 “significant challenge impeding higher education technology adoption”.</p>\n        <p>Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.</p> <p>But perhaps the low digital fluency makes renovation a step too far.</p></li>\n  <li> "
+      },
+      "date": 1418888285346
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web] identify the low digital fluency of staff as the number 1 “significant challenge impeding higher education technology adoption”.</p>\n        <p>Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.</p> <p>But perhaps the low digital fluency makes renovation a step too far.</p></li>\n  <li> Technology that is set in concrete.\n     <p"
+      },
+      "date": 1418888309994
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web page] identify the low digital fluency of staff as the number 1 “significant challenge impeding higher education technology adoption”.</p>\n        <p>Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.</p> <p>But perhaps the low digital fluency makes renovation a step too far.</p></li>\n  <li> A mindset that has technology set in concrete.\n     <p>That's the argument in this paper [https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ web page]. The mindset underpinning university education technology has SET (acronym from the paper) the technology in concrete. i.e. it can't be changed.</p> </li>\n</ol>"
+      },
+      "date": 1418888420968
+    },
+    {
+      "type": "edit",
+      "id": "3053285371583e41",
+      "item": {
+        "type": "html",
+        "id": "3053285371583e41",
+        "text": "The inability to renovate arises from two sources\n<ol>\n  <li> Low digital fluency.\n      <p>The 2014 Horizon report(s) [http://www.nmc.org/publications/2014-horizon-report-higher-ed web page] identify the low digital fluency of staff as the number 1 “significant challenge impeding higher education technology adoption”.</p>\n        <p>Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.</p> <p>But perhaps the low digital fluency makes renovation a step too far.</p></li>\n  <li> A mindset that has technology SET in concrete.\n     <p>That's the argument in this paper [https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ web page]. The mindset underpinning university education technology has SET (acronym from the paper) the technology in concrete. i.e. it can't be changed.</p> </li>\n</ol>"
+      },
+      "date": 1418888447240
     }
   ]
 }

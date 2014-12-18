@@ -27,6 +27,15 @@
       "type": "html",
       "id": "b4dd70eb4b76718a",
       "text": "<ul>\n  <li> Blog: <a href=\"http://davidtjones.wordpress.com\">http://davidtjones.wordpress.com</a> </li>\n  <li> Twitter: <a href=\"https://twitter.com/djplaner\">@djplaner</a> </li>\n</ul>"
+    },
+    {
+      "type": "factory",
+      "id": "8311e6b649b44e68",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://journal14.hapgood.net:3000/digital-renovator.html\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://journal14.hapgood.net:3000/digital-renovator.html",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0"
+      }
     }
   ],
   "journal": [
@@ -252,6 +261,30 @@
         "text": "A tinker and [[Digital Renovator]], always looking for ways ICTs can help help enhance/transform my own learning. Mainly because university e-learning sux!"
       },
       "date": 1418875233586
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8311e6b649b44e68"
+      },
+      "id": "8311e6b649b44e68",
+      "type": "add",
+      "after": "b4dd70eb4b76718a",
+      "date": 1418876272050
+    },
+    {
+      "type": "edit",
+      "id": "8311e6b649b44e68",
+      "item": {
+        "type": "factory",
+        "id": "8311e6b649b44e68",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://journal14.hapgood.net:3000/digital-renovator.html\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://journal14.hapgood.net:3000/digital-renovator.html",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0"
+        }
+      },
+      "date": 1418876278022
     }
   ]
 }

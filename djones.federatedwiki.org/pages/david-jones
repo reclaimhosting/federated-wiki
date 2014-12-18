@@ -2,8 +2,19 @@
   "title": "David Jones",
   "story": [
     {
-      "type": "factory",
-      "id": "d7c22e565995344c"
+      "type": "html",
+      "id": "d7c22e565995344c",
+      "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])"
+    },
+    {
+      "type": "paragraph",
+      "id": "904d067b5d5a7831",
+      "text": "Currently helping pre-service and in-service teachers get a handle on how ICTs can help enhance/transform their students' learning."
+    },
+    {
+      "type": "paragraph",
+      "id": "523cf2d446e9eb90",
+      "text": "A tinker and [[Digital Renovator]], always looking for ways ICTs can help help enhance/transform my own learning."
     }
   ],
   "journal": [
@@ -23,6 +34,91 @@
       "id": "d7c22e565995344c",
       "type": "add",
       "date": 1418872953924
+    },
+    {
+      "type": "edit",
+      "id": "d7c22e565995344c",
+      "item": {
+        "type": "html",
+        "id": "d7c22e565995344c",
+        "text": "Senior Lecturer at the University of Southern Queensland [http://usq.edu.au uni website]"
+      },
+      "date": 1418873688244
+    },
+    {
+      "type": "edit",
+      "id": "d7c22e565995344c",
+      "item": {
+        "type": "html",
+        "id": "d7c22e565995344c",
+        "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])\n\n"
+      },
+      "date": 1418873703695
+    },
+    {
+      "type": "edit",
+      "id": "d7c22e565995344c",
+      "item": {
+        "type": "html",
+        "id": "d7c22e565995344c",
+        "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])\n\nCurrently helping pre-service and in-service teachers get a handle on how ICTs can help enhance/transform their students' learning."
+      },
+      "date": 1418873763950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "904d067b5d5a7831"
+      },
+      "id": "904d067b5d5a7831",
+      "type": "add",
+      "after": "d7c22e565995344c",
+      "date": 1418873767088
+    },
+    {
+      "type": "edit",
+      "id": "d7c22e565995344c",
+      "item": {
+        "type": "html",
+        "id": "d7c22e565995344c",
+        "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])"
+      },
+      "date": 1418873774242
+    },
+    {
+      "type": "edit",
+      "id": "904d067b5d5a7831",
+      "item": {
+        "type": "paragraph",
+        "id": "904d067b5d5a7831",
+        "text": "Currently helping pre-service and in-service teachers get a handle on how ICTs can help enhance/transform their students' learning."
+      },
+      "date": 1418873784706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "523cf2d446e9eb90"
+      },
+      "id": "523cf2d446e9eb90",
+      "type": "add",
+      "after": "904d067b5d5a7831",
+      "date": 1418873798282
+    },
+    {
+      "type": "edit",
+      "id": "523cf2d446e9eb90",
+      "item": {
+        "type": "paragraph",
+        "id": "523cf2d446e9eb90",
+        "text": "A tinker and [[Digital Renovator]], always looking for ways ICTs can help help enhance/transform my own learning."
+      },
+      "date": 1418873858937
+    },
+    {
+      "type": "remove",
+      "id": "53e34ad3928fcad1",
+      "date": 1418873868549
     }
   ]
 }

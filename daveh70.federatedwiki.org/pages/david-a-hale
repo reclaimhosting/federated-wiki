@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "6743b232795dea34",
+      "text": "@_daveh70"
+    },
+    {
+      "type": "paragraph",
       "id": "3db78cd22992f72d",
       "text": "I'm interested in programming, music, and a little of everything else. I'm an enthusiastic MOOC student. I think we can find solutions to most of our problems; but we need to do better. Tools like Federated Wiki are very good steps in the right direction."
     },
@@ -92,6 +97,46 @@
       ],
       "id": "3db78cd22992f72d",
       "date": 1418724207832
+    },
+    {
+      "type": "fork",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418966120994
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6743b232795dea34"
+      },
+      "id": "6743b232795dea34",
+      "type": "add",
+      "after": "db0e08a1eca23850",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418966120984
+    },
+    {
+      "type": "edit",
+      "id": "6743b232795dea34",
+      "item": {
+        "type": "paragraph",
+        "id": "6743b232795dea34",
+        "text": "@_daveh70"
+      },
+      "date": 1418966207884
+    },
+    {
+      "type": "move",
+      "order": [
+        "6743b232795dea34",
+        "3db78cd22992f72d",
+        "db0e08a1eca23850"
+      ],
+      "id": "6743b232795dea34",
+      "date": 1418966213510
+    },
+    {
+      "type": "fork",
+      "date": 1418966316628
     }
   ]
 }

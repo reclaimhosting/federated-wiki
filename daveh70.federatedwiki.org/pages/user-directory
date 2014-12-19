@@ -28,9 +28,11 @@
       "text": "@timmmmyboy"
     },
     {
-      "type": "paragraph",
-      "id": "3a7e5c8dcd24a5cd",
-      "text": "[[David A. Hale]]"
+      "type": "reference",
+      "id": "c55baeb66101d15f",
+      "site": "daveh70.federatedwiki.org",
+      "title": "David A. Hale",
+      "text": "@_daveh70"
     }
   ],
   "journal": [
@@ -340,6 +342,70 @@
         "text": "[[David A. Hale]]"
       },
       "date": 1418720985692
+    },
+    {
+      "type": "fork",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418965763377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63c33ba938f22082"
+      },
+      "id": "63c33ba938f22082",
+      "type": "add",
+      "after": "3a7e5c8dcd24a5cd",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1418965763335
+    },
+    {
+      "type": "edit",
+      "id": "63c33ba938f22082",
+      "item": {
+        "type": "reference",
+        "id": "63c33ba938f22082",
+        "site": "daveh70.federatedwiki.org",
+        "title": "David A. Hale",
+        "text": "I'm interested in programming, music, and a little of everything else. I'm an enthusiastic MOOC student. I think we can find solutions to most of our problems; but we need to do better. Tools like Federated Wiki are very good steps in the right direction."
+      },
+      "date": 1418965775249
+    },
+    {
+      "type": "remove",
+      "id": "63c33ba938f22082",
+      "date": 1418965977008
+    },
+    {
+      "type": "fork",
+      "date": 1418966298496
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c55baeb66101d15f"
+      },
+      "id": "c55baeb66101d15f",
+      "type": "add",
+      "after": "3a7e5c8dcd24a5cd",
+      "date": 1418966380877
+    },
+    {
+      "type": "edit",
+      "id": "c55baeb66101d15f",
+      "item": {
+        "type": "reference",
+        "id": "c55baeb66101d15f",
+        "site": "daveh70.federatedwiki.org",
+        "title": "David A. Hale",
+        "text": "@_daveh70"
+      },
+      "date": 1418966390404
+    },
+    {
+      "type": "remove",
+      "id": "3a7e5c8dcd24a5cd",
+      "date": 1418966411441
     }
   ]
 }

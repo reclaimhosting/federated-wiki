@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "333aa53932378c52"
+      "id": "a973941ccf7ba7ed"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "2dcd5dbd5751a401"
+      "id": "1e592bb78fa17856"
     },
     {
-      "date": 1418976001000,
+      "date": 1418976997000,
+      "site": "daveh70.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
+      "type": "reference",
+      "id": "a0200c96b8f764df"
+    },
+    {
+      "date": 1418976601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "8da163cb656c9a85"
+      "id": "a4e59194028ee11e"
     },
     {
       "date": 1418972630000,
@@ -27,16 +36,7 @@
       "title": "Types of Process",
       "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 12 pages.",
       "type": "reference",
-      "id": "71f0e0e6989813c9"
-    },
-    {
-      "date": 1418965728000,
-      "site": "daveh70.federatedwiki.org",
-      "slug": "user-directory",
-      "title": "User Directory",
-      "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
-      "type": "reference",
-      "id": "c40d43c0ad3f0ee2"
+      "id": "71ca980e856b940f"
     },
     {
       "date": 1418903095000,
@@ -45,7 +45,7 @@
       "title": "Abstraction of Method",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 37 pages.",
       "type": "reference",
-      "id": "fbd613f9293981db"
+      "id": "2c86b45435b12cd0"
     },
     {
       "date": 1418829182000,
@@ -54,7 +54,7 @@
       "title": "Nick Persona",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "b0518df8f364f19c"
+      "id": "2a4555a0ed0a1ecb"
     },
     {
       "date": 1418762881000,
@@ -63,7 +63,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 53 pages.",
       "type": "reference",
-      "id": "0867506c7df53aa5"
+      "id": "43386ba5d689b105"
     },
     {
       "date": 1418641956000,
@@ -72,7 +72,7 @@
       "title": "Tim Klapdor",
       "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "22e9cdfc35299f0f"
+      "id": "6ce1952bca6ed0f8"
     },
     {
       "date": 1418625851000,
@@ -81,7 +81,7 @@
       "title": "Alan Levine",
       "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "3ee5d4716542f2bf"
+      "id": "2fe923196a3ed3a0"
     },
     {
       "date": 1418327119000,
@@ -90,55 +90,69 @@
       "title": "the law of the jungle in the jungle book",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 64 pages.",
       "type": "reference",
-      "id": "5853185bae8645f8"
+      "id": "2406706d3ae29372"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4ae8de33407987cd",
+      "id": "306bbde8be121911",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "333aa53932378c52",
+      "id": "a973941ccf7ba7ed",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "333aa53932378c52"
+        "id": "a973941ccf7ba7ed"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "2dcd5dbd5751a401",
+      "id": "1e592bb78fa17856",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "2dcd5dbd5751a401"
+        "id": "1e592bb78fa17856"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "8da163cb656c9a85",
+      "id": "a0200c96b8f764df",
       "item": {
-        "date": 1418976001000,
+        "date": 1418976997000,
+        "site": "daveh70.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
+        "type": "reference",
+        "id": "a0200c96b8f764df"
+      },
+      "date": 1418977201000
+    },
+    {
+      "type": "add",
+      "id": "a4e59194028ee11e",
+      "item": {
+        "date": 1418976601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "8da163cb656c9a85"
+        "id": "a4e59194028ee11e"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "71f0e0e6989813c9",
+      "id": "71ca980e856b940f",
       "item": {
         "date": 1418972630000,
         "site": "djones.federatedwiki.org",
@@ -146,27 +160,13 @@
         "title": "Types of Process",
         "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 12 pages.",
         "type": "reference",
-        "id": "71f0e0e6989813c9"
+        "id": "71ca980e856b940f"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "c40d43c0ad3f0ee2",
-      "item": {
-        "date": 1418965728000,
-        "site": "daveh70.federatedwiki.org",
-        "slug": "user-directory",
-        "title": "User Directory",
-        "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
-        "type": "reference",
-        "id": "c40d43c0ad3f0ee2"
-      },
-      "date": 1418976601000
-    },
-    {
-      "type": "add",
-      "id": "fbd613f9293981db",
+      "id": "2c86b45435b12cd0",
       "item": {
         "date": 1418903095000,
         "site": "tmtm.federatedwiki.org",
@@ -174,13 +174,13 @@
         "title": "Abstraction of Method",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 37 pages.",
         "type": "reference",
-        "id": "fbd613f9293981db"
+        "id": "2c86b45435b12cd0"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "b0518df8f364f19c",
+      "id": "2a4555a0ed0a1ecb",
       "item": {
         "date": 1418829182000,
         "site": "ward.federatedwiki.org",
@@ -188,13 +188,13 @@
         "title": "Nick Persona",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "b0518df8f364f19c"
+        "id": "2a4555a0ed0a1ecb"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "0867506c7df53aa5",
+      "id": "43386ba5d689b105",
       "item": {
         "date": 1418762881000,
         "site": "jason.federatedwiki.org",
@@ -202,13 +202,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 53 pages.",
         "type": "reference",
-        "id": "0867506c7df53aa5"
+        "id": "43386ba5d689b105"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "22e9cdfc35299f0f",
+      "id": "6ce1952bca6ed0f8",
       "item": {
         "date": 1418641956000,
         "site": "klapdor.federatedwiki.org",
@@ -216,13 +216,13 @@
         "title": "Tim Klapdor",
         "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "22e9cdfc35299f0f"
+        "id": "6ce1952bca6ed0f8"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "3ee5d4716542f2bf",
+      "id": "2fe923196a3ed3a0",
       "item": {
         "date": 1418625851000,
         "site": "cogdog.federatedwiki.org",
@@ -230,13 +230,13 @@
         "title": "Alan Levine",
         "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "3ee5d4716542f2bf"
+        "id": "2fe923196a3ed3a0"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     },
     {
       "type": "add",
-      "id": "5853185bae8645f8",
+      "id": "2406706d3ae29372",
       "item": {
         "date": 1418327119000,
         "site": "max.federatedwiki.org",
@@ -244,9 +244,9 @@
         "title": "the law of the jungle in the jungle book",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 64 pages.",
         "type": "reference",
-        "id": "5853185bae8645f8"
+        "id": "2406706d3ae29372"
       },
-      "date": 1418976601000
+      "date": 1418977201000
     }
   ]
 }

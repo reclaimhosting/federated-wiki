@@ -2,8 +2,24 @@
   "title": "Types of Process",
   "story": [
     {
-      "type": "factory",
-      "id": "4dbb220570a642d7"
+      "type": "paragraph",
+      "id": "7b61990a5d46dd11",
+      "text": "The \"learning school\" tend to favour [[Ateleological Design]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "918c60e68d946001",
+      "text": "There's a long list of literature (summarised in a table in this [https://davidtjones.wordpress.com/2009/05/25/teleological-and-ateleological-processes/ blog post]) talking about: deliberate versus emergent strategy; push systems versus pull systems; idealistic versus naturalistic approaches; supervisory reflection and intervention versus local adjustment etc."
+    },
+    {
+      "type": "paragraph",
+      "id": "0afa2a27479161db",
+      "text": "There's an argument to be made that the question isn't \"which type of process you should use?\", but rather \"What mix of the two is most appropriate to your task/context?\" "
+    },
+    {
+      "type": "paragraph",
+      "id": "4dbb220570a642d7",
+      "text": "Clegg (2002) suggests that one of the most pervasive debates in management has been between the “planning school” and the “learning school”."
     }
   ],
   "journal": [
@@ -37,6 +53,99 @@
       "id": "4dbb220570a642d7",
       "type": "add",
       "date": 1418972449584
+    },
+    {
+      "type": "edit",
+      "id": "4dbb220570a642d7",
+      "item": {
+        "type": "paragraph",
+        "id": "4dbb220570a642d7",
+        "text": "Clegg (2002) suggests that one of the most pervasive debates in management has been between the “planning school” and the “learning school”."
+      },
+      "date": 1418972455541
+    },
+    {
+      "type": "edit",
+      "id": "92f5dda545b3cc89",
+      "item": {
+        "type": "paragraph",
+        "id": "92f5dda545b3cc89",
+        "text": "The \"planning school\" can be said to be proponents of [[Teleological Design]]."
+      },
+      "date": 1418972475342
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7b61990a5d46dd11",
+        "text": ""
+      },
+      "id": "7b61990a5d46dd11",
+      "type": "add",
+      "after": "92f5dda545b3cc89",
+      "date": 1418972475354
+    },
+    {
+      "type": "edit",
+      "id": "7b61990a5d46dd11",
+      "item": {
+        "type": "paragraph",
+        "id": "7b61990a5d46dd11",
+        "text": "The \"learning school\" tend to favour [[Ateleological Design]]"
+      },
+      "date": 1418972492846
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "918c60e68d946001",
+        "text": ""
+      },
+      "id": "918c60e68d946001",
+      "type": "add",
+      "after": "7b61990a5d46dd11",
+      "date": 1418972492853
+    },
+    {
+      "type": "edit",
+      "id": "918c60e68d946001",
+      "item": {
+        "type": "paragraph",
+        "id": "918c60e68d946001",
+        "text": "There's a long list of literature (summarised in a table in this blog post"
+      },
+      "date": 1418972512886
+    },
+    {
+      "type": "edit",
+      "id": "918c60e68d946001",
+      "item": {
+        "type": "paragraph",
+        "id": "918c60e68d946001",
+        "text": "There's a long list of literature (summarised in a table in this [https://davidtjones.wordpress.com/2009/05/25/teleological-and-ateleological-processes/ blog post]) talking about: deliberate versus emergent strategy; push systems versus pull systems; idealistic versus naturalistic approaches; supervisory reflection and intervention versus local adjustment etc."
+      },
+      "date": 1418972575248
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0afa2a27479161db",
+        "text": ""
+      },
+      "id": "0afa2a27479161db",
+      "type": "add",
+      "after": "918c60e68d946001",
+      "date": 1418972575264
+    },
+    {
+      "type": "edit",
+      "id": "0afa2a27479161db",
+      "item": {
+        "type": "paragraph",
+        "id": "0afa2a27479161db",
+        "text": "There's an argument to be made that the question isn't \"which type of process you should use?\", but rather \"What mix of the two is most appropriate to your task/context?\" "
+      },
+      "date": 1418972681205
     }
   ]
 }

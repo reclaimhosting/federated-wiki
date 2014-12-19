@@ -1,0 +1,42 @@
+{
+  "title": "Types of Process",
+  "story": [
+    {
+      "type": "factory",
+      "id": "4dbb220570a642d7"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Types of Process",
+        "story": []
+      },
+      "date": 1418972433706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c90f6ffc4950129"
+      },
+      "id": "5c90f6ffc4950129",
+      "type": "add",
+      "date": 1418972437116
+    },
+    {
+      "type": "remove",
+      "id": "5c90f6ffc4950129",
+      "date": 1418972441426
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4dbb220570a642d7"
+      },
+      "id": "4dbb220570a642d7",
+      "type": "add",
+      "date": 1418972449584
+    }
+  ]
+}

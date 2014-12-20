@@ -1,0 +1,835 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. ",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Currently an experiment as part of #fedwikihappening with the [[Happening Folks]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e4e7af9af4172c7",
+      "text": "Stuff I'm writing about as part of all this"
+    },
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[December, 2014 Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "7b56f22a30118509",
+      "date": 1309114800000,
+      "item": {
+        "title": "Welcome Visitors"
+      }
+    },
+    {
+      "id": "7b56f22a4b9ee974",
+      "type": "edit",
+      "date": 1309114800000,
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. This page was first drafted Sunday, June 26th, 2011, at [[Indie Web Camp]]. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1344306124590
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Create a page about yourself. Start by making a link to that page right here. Double-click the gray box below. That opens an editor. Type your name enclosed in double square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1344306133455
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1344306138935
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Create a page about things you do on this wiki. Double-click the gray box below. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1344306143742
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca"
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1344306148580
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "<b>Three:</b> Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1344306151782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Start writing. Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "after": "0cbb4ef5f5d7e472",
+      "id": "ee416d431ebf4fb4",
+      "date": 1344306168918
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> A page about myself."
+      },
+      "date": 1361751371185
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages about what we do here."
+      },
+      "date": 1361751496155
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "<b>One:</b> Pages about us."
+      },
+      "date": 1361751512280
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751649467
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this introductory page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751711554
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "<b>Two:</b> Pages where we do and share."
+      },
+      "date": 1361751811972
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1361751965824
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "date": 1361752195146
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "date": 1361752202873
+    },
+    {
+      "type": "edit",
+      "id": "0cbb4ef5f5d7e472",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbb4ef5f5d7e472",
+        "text": "Look for the <i>claim</i> button below this page. If you have your own OpenID you can use it to claim these pages so that only you can edit them. If you have a Google account you can use that too. Press the (G) button. Press the (Y) button to use your Yahoo account. You get the idea."
+      },
+      "date": 1361752223856
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Click either link. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Track changes with [[Recent Changes]] and [[Local Editing]]."
+      },
+      "date": 1361752251367
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752421212
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces."
+      },
+      "date": 1361752436556
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas. Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "78a8278db93c6ed2",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1361752437061
+    },
+    {
+      "type": "edit",
+      "id": "78a8278db93c6ed2",
+      "item": {
+        "type": "paragraph",
+        "id": "78a8278db93c6ed2",
+        "text": "Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752441155
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67a126ec849b55ed",
+        "text": "Discover [[Recent Changes]] here and nearby."
+      },
+      "id": "67a126ec849b55ed",
+      "type": "add",
+      "after": "78a8278db93c6ed2",
+      "date": 1361752441668
+    },
+    {
+      "type": "remove",
+      "id": "78a8278db93c6ed2",
+      "date": 1361752452012
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas."
+      },
+      "date": 1361752459193
+    },
+    {
+      "type": "remove",
+      "id": "67a126ec849b55ed",
+      "date": 1361752461793
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752483992
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1361752498310
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1376164176294
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418521420269
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418872942108
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[December Journal]]"
+      },
+      "date": 1418873268675
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ff562781e513cc54",
+        "text": ""
+      },
+      "id": "ff562781e513cc54",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1418873268683
+    },
+    {
+      "type": "remove",
+      "id": "ff562781e513cc54",
+      "date": 1418873271992
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4285c188989396f"
+      },
+      "id": "c4285c188989396f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1418877404456
+    },
+    {
+      "type": "edit",
+      "id": "c4285c188989396f",
+      "item": {
+        "type": "paragraph",
+        "id": "c4285c188989396f",
+        "text": "Related sites"
+      },
+      "date": 1418877410042
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fbbb2c3e99fb68d5",
+        "text": ""
+      },
+      "id": "fbbb2c3e99fb68d5",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877410049
+    },
+    {
+      "type": "edit",
+      "id": "fbbb2c3e99fb68d5",
+      "item": {
+        "type": "paragraph",
+        "id": "fbbb2c3e99fb68d5",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877421935
+    },
+    {
+      "type": "remove",
+      "id": "fbbb2c3e99fb68d5",
+      "date": 1418877574210
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d24822b6d00125b"
+      },
+      "id": "3d24822b6d00125b",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877575402
+    },
+    {
+      "type": "edit",
+      "id": "3d24822b6d00125b",
+      "item": {
+        "type": "pagefold",
+        "id": "3d24822b6d00125b",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877586630
+    },
+    {
+      "type": "remove",
+      "id": "3d24822b6d00125b",
+      "date": 1418877593351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae4187bc6f4e3b24"
+      },
+      "id": "ae4187bc6f4e3b24",
+      "type": "add",
+      "after": "c4285c188989396f",
+      "date": 1418877594807
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e421b54e65e5ef62",
+        "text": ""
+      },
+      "id": "e421b54e65e5ef62",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418877766271
+    },
+    {
+      "type": "edit",
+      "id": "ae4187bc6f4e3b24",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4187bc6f4e3b24",
+        "text": "[[Happening Folk]]"
+      },
+      "date": 1418877766256
+    },
+    {
+      "type": "remove",
+      "id": "e421b54e65e5ef62",
+      "date": 1418877774931
+    },
+    {
+      "type": "edit",
+      "id": "ae4187bc6f4e3b24",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4187bc6f4e3b24",
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1418877782990
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b95d496b5f1bfaa2",
+        "text": ""
+      },
+      "id": "b95d496b5f1bfaa2",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418877783002
+    },
+    {
+      "type": "remove",
+      "id": "b95d496b5f1bfaa2",
+      "date": 1418877810284
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[December, 2014 Journal]]"
+      },
+      "date": 1418884274394
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884595178
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "text": "[[David Jones]]"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884635550
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1418884656459
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2758b7703ea626b4"
+      },
+      "id": "2758b7703ea626b4",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884763749
+    },
+    {
+      "type": "edit",
+      "id": "2758b7703ea626b4",
+      "item": {
+        "type": "paragraph",
+        "id": "2758b7703ea626b4",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884770280
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2be8857dd45fc00f",
+        "text": ""
+      },
+      "id": "2be8857dd45fc00f",
+      "type": "add",
+      "after": "2758b7703ea626b4",
+      "date": 1418884770298
+    },
+    {
+      "type": "remove",
+      "id": "2758b7703ea626b4",
+      "date": 1418884779086
+    },
+    {
+      "type": "remove",
+      "id": "2be8857dd45fc00f",
+      "date": 1418884781678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a6ec030b56886fe"
+      },
+      "id": "2a6ec030b56886fe",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884788099
+    },
+    {
+      "type": "edit",
+      "id": "2a6ec030b56886fe",
+      "item": {
+        "type": "paragraph",
+        "id": "2a6ec030b56886fe",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884793057
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87710325317d694b",
+        "text": ""
+      },
+      "id": "87710325317d694b",
+      "type": "add",
+      "after": "2a6ec030b56886fe",
+      "date": 1418884793063
+    },
+    {
+      "type": "remove",
+      "id": "87710325317d694b",
+      "date": 1418884795777
+    },
+    {
+      "type": "remove",
+      "id": "2a6ec030b56886fe",
+      "date": 1418884804050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9a828dcdcd530fa"
+      },
+      "id": "f9a828dcdcd530fa",
+      "type": "add",
+      "after": "ae4187bc6f4e3b24",
+      "date": 1418884829912
+    },
+    {
+      "type": "edit",
+      "id": "f9a828dcdcd530fa",
+      "item": {
+        "type": "paragraph",
+        "id": "f9a828dcdcd530fa",
+        "text": "[[David Jones]]"
+      },
+      "date": 1418884835425
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cddef65923b8ad6e",
+        "text": ""
+      },
+      "id": "cddef65923b8ad6e",
+      "type": "add",
+      "after": "f9a828dcdcd530fa",
+      "date": 1418884835434
+    },
+    {
+      "type": "remove",
+      "id": "cddef65923b8ad6e",
+      "date": 1418884836538
+    },
+    {
+      "type": "remove",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884880958
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f9a828dcdcd530fa",
+        "text": "[[David Jones]]"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884889132
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418884923144
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7c2ddba5b3d7b9a9",
+        "text": ""
+      },
+      "id": "7c2ddba5b3d7b9a9",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1418884923152
+    },
+    {
+      "type": "remove",
+      "id": "7c2ddba5b3d7b9a9",
+      "date": 1418884925694
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1418884929487
+    },
+    {
+      "type": "remove",
+      "id": "f9a828dcdcd530fa",
+      "date": 1418884932261
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of Fed"
+      },
+      "date": 1418884958048
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of #fedwikihappening"
+      },
+      "date": 1418884969798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": ""
+      },
+      "id": "0e4e7af9af4172c7",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1418884969806
+    },
+    {
+      "type": "edit",
+      "id": "0e4e7af9af4172c7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": "Stuff I'm writing about"
+      },
+      "date": 1418884978650
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3bacfe3c246436a0",
+        "text": ""
+      },
+      "id": "3bacfe3c246436a0",
+      "type": "add",
+      "after": "0e4e7af9af4172c7",
+      "date": 1418884978659
+    },
+    {
+      "type": "remove",
+      "id": "3bacfe3c246436a0",
+      "date": 1418884981574
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Currently an experiment as part of #fedwikihappening with the [[Happening Folks]]"
+      },
+      "date": 1418885002932
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d8ac0bcef61e4d95",
+        "text": ""
+      },
+      "id": "d8ac0bcef61e4d95",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1418885002938
+    },
+    {
+      "type": "remove",
+      "id": "d8ac0bcef61e4d95",
+      "date": 1418885004283
+    },
+    {
+      "type": "edit",
+      "id": "0e4e7af9af4172c7",
+      "item": {
+        "type": "paragraph",
+        "id": "0e4e7af9af4172c7",
+        "text": "Stuff I'm writing about as part of all this"
+      },
+      "date": 1418885010100
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5b9af7c77752d3eb",
+        "text": ""
+      },
+      "id": "5b9af7c77752d3eb",
+      "type": "add",
+      "after": "0e4e7af9af4172c7",
+      "date": 1418885010106
+    },
+    {
+      "type": "remove",
+      "id": "5b9af7c77752d3eb",
+      "date": 1418885012630
+    },
+    {
+      "type": "remove",
+      "id": "c4285c188989396f",
+      "date": 1418885026295
+    },
+    {
+      "type": "remove",
+      "id": "ae4187bc6f4e3b24",
+      "date": 1418885028588
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "title": "That scene in Jaws",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "04b48f08a88adbe0",
+      "text": "There's a story told in [[Carl Gottlieb's Jaws Log]] to explain why the plot of Jaws the movie differs from the novel. In the 1973 novel, the handsome shark expert Hooper has an affair with Chief Brody's sexually frustrated wife, Ellen. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+    },
+    {
+      "type": "video",
+      "id": "2a36f57c6a60e617",
+      "text": "<iframe width=\"420\" height=\"236\" src=\"//www.youtube.com/embed/cW7Q7UySxRA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f0fabcf45aa4f9d",
+      "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the plot was changed to explain that Hooper had already escaped the cage. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7ba68cc18f4c4155",
+      "text": "This accident of [[reverse creativity]] then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+    },
+    {
+      "type": "paragraph",
+      "id": "38b660dd57e57e6d",
+      "text": "It's about time the sharks showed up; big metaphors. People should stop talking about \"elephants in the room\", but \"sharks in the surf\". "
+    },
+    {
+      "type": "paragraph",
+      "id": "7d63bf94465e7113",
+      "text": "I wonder about if creativity has a direction that goes forward or reverse. It \"seems\" like the \"proper\" approach to planning, software, scripts, courses is all this upfront craftfully detailed, tested design. Then the implementation is just routine. I'm finding a different approach in some of the software projects I am working on, there is a sketched out idea, and some thinking about basic functions. But I find most of the functionally emerges in the iterative (flow?) process of building it out, then as people try it, they are giving me ideas I never thought of. So its never scripted out to a high degree, nor is it completely improvised, somewhere in between. It would seem this happens in filming, that when characters are in character and on the set, and things go off script, its either an opportunity to panic about not following the script or an opportunity to go in a new, unexpected direction (is this like you call elsewhere moving on \"Desire Paths\")? [[Alan Levine]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "299766056f8fa4c0",
+      "text": "[[David Jones]]: This all speaks to one of my pet ideas: [[Ateleological Design]] and its hated (by me) flipside [[Telological Design]] and perhaps [[Types of Process]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "That scene in Jaws",
+        "story": []
+      },
+      "date": 1418941220869
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04b48f08a88adbe0"
+      },
+      "id": "04b48f08a88adbe0",
+      "type": "add",
+      "date": 1418941227570
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a famous story told in Carl Gottlieb's Jaws Log that explains why the narrative of Jaws the movie is so different from the slightly earlier novel. In the 1973 novel, the handsome young icthyologist Hooper has an affair with Chief Brody's wife, and goes on to be eaten by the shark during the scene in which he fights shark from the diving cage. "
+      },
+      "date": 1418941333374
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "517526c1d50e5c9f",
+        "text": ""
+      },
+      "id": "517526c1d50e5c9f",
+      "type": "add",
+      "after": "04b48f08a88adbe0",
+      "date": 1418941333394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81cc528f714ac0de"
+      },
+      "id": "81cc528f714ac0de",
+      "type": "add",
+      "after": "517526c1d50e5c9f",
+      "date": 1418941369654
+    },
+    {
+      "type": "remove",
+      "id": "517526c1d50e5c9f",
+      "date": 1418941376522
+    },
+    {
+      "type": "edit",
+      "id": "81cc528f714ac0de",
+      "item": {
+        "type": "pagefold",
+        "id": "81cc528f714ac0de",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the narrative was changed to explain that Hooper had already escaped the cage. This accident of reverse creativity then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "date": 1418941709266
+    },
+    {
+      "type": "remove",
+      "id": "81cc528f714ac0de",
+      "date": 1418941739122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f0fabcf45aa4f9d"
+      },
+      "id": "8f0fabcf45aa4f9d",
+      "type": "add",
+      "after": "04b48f08a88adbe0",
+      "date": 1418941800298
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a famous story told in Carl Gottlieb's Jaws Log that explains why the narrative of Jaws the movie is so different from the slightly earlier novel. In the 1973 novel, the handsome shark expert Hooper has an explicitly depicted affair with Chief Brody's sexually frustrated wife. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+      },
+      "date": 1418941804828
+    },
+    {
+      "type": "edit",
+      "id": "8f0fabcf45aa4f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the narrative was changed to explain that Hooper had already escaped the cage. This accident of reverse creativity then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "date": 1418941808835
+    },
+    {
+      "type": "edit",
+      "id": "8f0fabcf45aa4f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the narrative was changed to explain that Hooper had already escaped the cage. This accident of [[reverse creativity]] then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "date": 1418941836231
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34c1b99047138685"
+      },
+      "id": "34c1b99047138685",
+      "type": "add",
+      "after": "8f0fabcf45aa4f9d",
+      "date": 1418941860188
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a famous story told in [[Carl Gottlieb's Jaws Log]] that explains why the narrative of Jaws the movie is so different from the slightly earlier novel. In the 1973 novel, the handsome shark expert Hooper has an explicitly depicted affair with Chief Brody's sexually frustrated wife. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+      },
+      "date": 1418942033061
+    },
+    {
+      "type": "edit",
+      "id": "34c1b99047138685",
+      "item": {
+        "type": "paragraph",
+        "id": "34c1b99047138685",
+        "text": "What we do we learn from this about the [[Law of Unintended Consequences]] that might be useful to the way we practice [[educational design]]?"
+      },
+      "date": 1418942418078
+    },
+    {
+      "type": "remove",
+      "id": "8f0fabcf45aa4f9d",
+      "date": 1418949213066
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the narrative was changed to explain that Hooper had already escaped the cage. This accident of [[reverse creativity]] then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "after": "04b48f08a88adbe0",
+      "id": "8f0fabcf45aa4f9d",
+      "date": 1418949234961
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a story told in [[Carl Gottlieb's Jaws Log]] to explain why the plot of Jaws the movie differs from the novel. In the 1973 novel, the handsome shark expert Hooper has an explicitly depicted affair with Chief Brody's sexually frustrated wife. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+      },
+      "date": 1418949292275
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a story told in [[Carl Gottlieb's Jaws Log]] to explain why the plot of Jaws the movie differs from the novel. In the 1973 novel, the handsome shark expert Hooper has an affair with Chief Brody's sexually frustrated wife. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+      },
+      "date": 1418949312034
+    },
+    {
+      "type": "edit",
+      "id": "04b48f08a88adbe0",
+      "item": {
+        "type": "paragraph",
+        "id": "04b48f08a88adbe0",
+        "text": "There's a story told in [[Carl Gottlieb's Jaws Log]] to explain why the plot of Jaws the movie differs from the novel. In the 1973 novel, the handsome shark expert Hooper has an affair with Chief Brody's sexually frustrated wife, Ellen. Hooper goes on to be eaten by the shark during the scene in which he fights shark from the diving cage."
+      },
+      "date": 1418949322095
+    },
+    {
+      "type": "edit",
+      "id": "8f0fabcf45aa4f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the plot was changed to explain that Hooper had already escaped the cage. This accident of [[reverse creativity]] then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "date": 1418949361307
+    },
+    {
+      "type": "remove",
+      "id": "34c1b99047138685",
+      "date": 1418949399311
+    },
+    {
+      "type": "edit",
+      "id": "8f0fabcf45aa4f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed in from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the plot was changed to explain that Hooper had already escaped the cage. "
+      },
+      "date": 1418949408891
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7ba68cc18f4c4155",
+        "text": ""
+      },
+      "id": "7ba68cc18f4c4155",
+      "type": "add",
+      "after": "8f0fabcf45aa4f9d",
+      "date": 1418949408902
+    },
+    {
+      "type": "edit",
+      "id": "7ba68cc18f4c4155",
+      "item": {
+        "type": "paragraph",
+        "id": "7ba68cc18f4c4155",
+        "text": "This accident of [[reverse creativity]] then redesigned Hooper's role as geeky yet cute homosocial love interest for the police chief himself, and relegated Brody's wife Ellen to a more minor and conservative role."
+      },
+      "date": 1418949412622
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38b660dd57e57e6d"
+      },
+      "id": "38b660dd57e57e6d",
+      "type": "add",
+      "after": "7ba68cc18f4c4155",
+      "date": 1418956285158
+    },
+    {
+      "type": "edit",
+      "id": "38b660dd57e57e6d",
+      "item": {
+        "type": "paragraph",
+        "id": "38b660dd57e57e6d",
+        "text": "It's about time the sharks showed up; =big metaphors. People should stop talking about \"elephants in the room\", but \"sharks in the surf\". "
+      },
+      "date": 1418956409218
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d63bf94465e7113",
+        "text": "I wonder about if creativity has a direction that goes forward or reverse. I"
+      },
+      "id": "7d63bf94465e7113",
+      "type": "add",
+      "after": "38b660dd57e57e6d",
+      "date": 1418956409229
+    },
+    {
+      "type": "edit",
+      "id": "38b660dd57e57e6d",
+      "item": {
+        "type": "paragraph",
+        "id": "38b660dd57e57e6d",
+        "text": "It's about time the sharks showed up; big metaphors. People should stop talking about \"elephants in the room\", but \"sharks in the surf\". "
+      },
+      "date": 1418956417895
+    },
+    {
+      "type": "edit",
+      "id": "7d63bf94465e7113",
+      "item": {
+        "type": "paragraph",
+        "id": "7d63bf94465e7113",
+        "text": "I wonder about if creativity has a direction that goes forward or reverse. It \"seems\" like the \"proper\" approach to planning, software, scripts, courses is all this upfront craftfully detailed, tested design. Then the implementation is just routine. I'm finding a different approach in some of the software projects I am working on, there is a sketched out idea, and some thinking about basic functions. But I find most of the functionally emerges in the iterative (flow?) process of building it out, then as people try it, they are giving me ideas I never thought of. So its never scripted out to a high degree, nor is it completely improvised, somewhere in between. It would seem this happens in filming, that when characters are in character and on the set, and things go off script, its either an opportunity to panic about not following the script or an opportunity to go in a new, unexpected direction (is this like you call elsewhere moving on \"Desire Paths\")? [[Alan Levine]]"
+      },
+      "date": 1418956730330
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99053167a20c133c",
+        "text": ""
+      },
+      "id": "99053167a20c133c",
+      "type": "add",
+      "after": "7d63bf94465e7113",
+      "date": 1418956730339
+    },
+    {
+      "type": "remove",
+      "id": "99053167a20c133c",
+      "date": 1418956735355
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "80adafb97bedfe7c",
+        "text": ""
+      },
+      "id": "80adafb97bedfe7c",
+      "type": "add",
+      "after": "8f0fabcf45aa4f9d",
+      "date": 1418956868806
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a36f57c6a60e617"
+      },
+      "id": "2a36f57c6a60e617",
+      "type": "add",
+      "after": "7d63bf94465e7113",
+      "date": 1418956873219
+    },
+    {
+      "type": "remove",
+      "id": "80adafb97bedfe7c",
+      "date": 1418956876632
+    },
+    {
+      "type": "edit",
+      "id": "2a36f57c6a60e617",
+      "item": {
+        "type": "video",
+        "id": "2a36f57c6a60e617",
+        "text": "<iframe width=\"420\" height=\"236\" src=\"//www.youtube.com/embed/cW7Q7UySxRA?rel=0\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1418956883769
+    },
+    {
+      "type": "move",
+      "order": [
+        "04b48f08a88adbe0",
+        "2a36f57c6a60e617",
+        "8f0fabcf45aa4f9d",
+        "7ba68cc18f4c4155",
+        "38b660dd57e57e6d",
+        "7d63bf94465e7113"
+      ],
+      "id": "2a36f57c6a60e617",
+      "date": 1418956932938
+    },
+    {
+      "type": "fork",
+      "site": "cogdog.sf.fedwikihappening.net"
+    },
+    {
+      "type": "edit",
+      "id": "8f0fabcf45aa4f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "8f0fabcf45aa4f9d",
+        "text": "During the movie's traumatic live shark filming in South Australia, in which a very young Spielberg discovered that sharks aren't trainable \"like dolphins\", a near-catastrophe occurred. As the crew were preparing the shark cage for the Richard Dreyfuss stand-in (a professional jockey, chosen for his small size to make the available sharks look bigger), the only substantial shark ever to show up appeared and violently attacked the cage. Because all the fake shark underwater footage required the shark never to be viewed from snout to tail, mechanical operation being what it is, this footage of an actual white pointer actually violently attacking something was a triumph. But the cage was empty. So, the story goes, the plot was changed to explain that Hooper had already escaped the cage. "
+      },
+      "date": 1418967311052
+    },
+    {
+      "type": "fork",
+      "site": "kate.au.fedwikihappening.net",
+      "date": 1418971204901
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "299766056f8fa4c0"
+      },
+      "id": "299766056f8fa4c0",
+      "type": "add",
+      "after": "7d63bf94465e7113",
+      "date": 1418971204887
+    },
+    {
+      "type": "edit",
+      "id": "299766056f8fa4c0",
+      "item": {
+        "type": "paragraph",
+        "id": "299766056f8fa4c0",
+        "text": "[[David Jones]] This all speaks to one of my pet ideas: [[Ateleological Design]] and its hated (by me) flipside [[Telological Design]]"
+      },
+      "date": 1418971310379
+    },
+    {
+      "type": "edit",
+      "id": "299766056f8fa4c0",
+      "item": {
+        "type": "paragraph",
+        "id": "299766056f8fa4c0",
+        "text": "[[David Jones]]: This all speaks to one of my pet ideas: [[Ateleological Design]] and its hated (by me) flipside [[Telological Design]]"
+      },
+      "date": 1418971316569
+    },
+    {
+      "type": "fork",
+      "date": 1418972271828
+    },
+    {
+      "type": "edit",
+      "id": "299766056f8fa4c0",
+      "item": {
+        "type": "paragraph",
+        "id": "299766056f8fa4c0",
+        "text": "[[David Jones]]: This all speaks to one of my pet ideas: [[Ateleological Design]] and its hated (by me) flipside [[Telological Design]] and perhaps [[Types of Process]]"
+      },
+      "date": 1418972428008
+    }
+  ]
+}

@@ -24,8 +24,17 @@
     },
     {
       "type": "paragraph",
+      "id": "2a11ad3ca524f4e2",
+      "text": "[[Paper Ideas]]"
+    },
+    {
+      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "factory",
+      "id": "6885ff5b4815110a"
     }
   ],
   "journal": [
@@ -830,6 +839,63 @@
       "type": "remove",
       "id": "ae4187bc6f4e3b24",
       "date": 1418885028588
+    },
+    {
+      "type": "fork",
+      "site": "djones.federatedwiki.org",
+      "date": 1419120020006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6885ff5b4815110a"
+      },
+      "id": "6885ff5b4815110a",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "site": "djones.federatedwiki.org",
+      "date": 1419120020003
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2a11ad3ca524f4e2",
+        "text": ""
+      },
+      "id": "2a11ad3ca524f4e2",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1419120024019
+    },
+    {
+      "type": "edit",
+      "id": "2a11ad3ca524f4e2",
+      "item": {
+        "type": "paragraph",
+        "id": "2a11ad3ca524f4e2",
+        "text": "[[Paper Ideas]]"
+      },
+      "date": 1419120031175
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9ad62f658c504c3b",
+        "text": ""
+      },
+      "id": "9ad62f658c504c3b",
+      "type": "add",
+      "after": "2a11ad3ca524f4e2",
+      "date": 1419120031195
+    },
+    {
+      "type": "remove",
+      "id": "9ad62f658c504c3b",
+      "date": 1419120035863
+    },
+    {
+      "type": "fork",
+      "date": 1419120930997
     }
   ]
 }

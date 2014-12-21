@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "539128ffc3a67fad",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
       "id": "2bbd646ff3f44b51",
       "text": "Currently an experiment as part of #fedwikihappening with the [[Happening Folks]]"
     },
@@ -24,13 +29,13 @@
     },
     {
       "type": "paragraph",
-      "id": "2a11ad3ca524f4e2",
-      "text": "[[Paper Ideas]]"
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
     {
       "type": "paragraph",
-      "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "id": "2a11ad3ca524f4e2",
+      "text": "[[Paper Ideas]]"
     },
     {
       "type": "factory",
@@ -896,6 +901,83 @@
     {
       "type": "fork",
       "date": 1419120930997
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2bbd646ff3f44b51",
+        "0e4e7af9af4172c7",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "2a11ad3ca524f4e2",
+        "6885ff5b4815110a"
+      ],
+      "id": "2a11ad3ca524f4e2",
+      "date": 1419147091798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "625256bf164be443",
+        "text": ""
+      },
+      "id": "625256bf164be443",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1419147100286
+    },
+    {
+      "type": "remove",
+      "id": "625256bf164be443",
+      "date": 1419147101955
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "539128ffc3a67fad",
+        "text": ""
+      },
+      "id": "539128ffc3a67fad",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1419147113700
+    },
+    {
+      "type": "edit",
+      "id": "539128ffc3a67fad",
+      "item": {
+        "type": "paragraph",
+        "id": "539128ffc3a67fad",
+        "text": " "
+      },
+      "date": 1419147121708
+    },
+    {
+      "type": "remove",
+      "id": "5daf2fa01450fda6",
+      "date": 1419147121715
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4078e4d0696d637c",
+        "text": ""
+      },
+      "id": "4078e4d0696d637c",
+      "type": "add",
+      "after": "539128ffc3a67fad",
+      "date": 1419147121723
+    },
+    {
+      "type": "remove",
+      "id": "4078e4d0696d637c",
+      "date": 1419147127990
+    },
+    {
+      "type": "remove",
+      "id": "5ea675f0dfa238fb",
+      "date": 1419147132322
     }
   ]
 }

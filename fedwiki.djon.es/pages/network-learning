@@ -4,7 +4,12 @@
     {
       "type": "html",
       "id": "8d5c8a03d9f25664",
-      "text": "Goodyear et al (1998) define network learning as \"learning in which C&IT [computer and internet technology] is used to promote <em>connections</em>: between one learner and other learners, between learners and tutors; between a learning community and its learning resources\""
+      "text": "Goodyear et al (1998) define network learning as <blockquote>learning in which C&IT [computer and internet technology] is used to promote <em>connections</em>: between one learner and other learners, between learners and tutors; between a learning community and its learning resources</blockquote>"
+    },
+    {
+      "type": "html",
+      "id": "999aa7a1f92cc443",
+      "text": "Bell, Zenios and Parchoma (2010, p. 904)<blockquote>Networked learning is characterised as a social process of learning...focused on the connections between learners and their relationshipo with other learners, tutors and resources</blockquote>"
     }
   ],
   "journal": [
@@ -48,6 +53,36 @@
         "text": "Goodyear et al (1998) define network learning as \"learning in which C&IT [computer and internet technology] is used to promote <em>connections</em>: between one learner and other learners, between learners and tutors; between a learning community and its learning resources\""
       },
       "date": 1419211849538
+    },
+    {
+      "type": "edit",
+      "id": "8d5c8a03d9f25664",
+      "item": {
+        "type": "html",
+        "id": "8d5c8a03d9f25664",
+        "text": "Goodyear et al (1998) define network learning as <blockquote>learning in which C&IT [computer and internet technology] is used to promote <em>connections</em>: between one learner and other learners, between learners and tutors; between a learning community and its learning resources</blockquote>"
+      },
+      "date": 1419211868654
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "999aa7a1f92cc443"
+      },
+      "id": "999aa7a1f92cc443",
+      "type": "add",
+      "after": "8d5c8a03d9f25664",
+      "date": 1419211932138
+    },
+    {
+      "type": "edit",
+      "id": "999aa7a1f92cc443",
+      "item": {
+        "type": "html",
+        "id": "999aa7a1f92cc443",
+        "text": "Bell, Zenios and Parchoma (2010, p. 904)<blockquote>Networked learning is characterised as a social process of learning...focused on the connections between learners and their relationshipo with other learners, tutors and resources</blockquote>"
+      },
+      "date": 1419211979740
     }
   ]
 }

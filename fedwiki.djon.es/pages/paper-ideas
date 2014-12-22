@@ -13,12 +13,26 @@
     },
     {
       "type": "paragraph",
+      "id": "f770850af86ecbc0",
+      "text": "[[Academic Staff Development: difficult connections and limited learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c19a30042bd90e91",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
       "id": "32da10755c275988",
       "text": ""
     },
     {
       "type": "factory",
       "id": "92cdec1648ce2eb6"
+    },
+    {
+      "type": "factory",
+      "id": "f8933a8746c43d45"
     }
   ],
   "journal": [
@@ -111,6 +125,48 @@
       "type": "add",
       "after": "8700a1b851b52719",
       "date": 1419211736996
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f770850af86ecbc0",
+        "text": ""
+      },
+      "id": "f770850af86ecbc0",
+      "type": "add",
+      "after": "8700a1b851b52719",
+      "date": 1419211988921
+    },
+    {
+      "type": "edit",
+      "id": "f770850af86ecbc0",
+      "item": {
+        "type": "paragraph",
+        "id": "f770850af86ecbc0",
+        "text": "[[Academic Staff Development: difficult connections and limited learning]]"
+      },
+      "date": 1419212041486
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c19a30042bd90e91",
+        "text": " "
+      },
+      "id": "c19a30042bd90e91",
+      "type": "add",
+      "after": "f770850af86ecbc0",
+      "date": 1419212041494
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8933a8746c43d45"
+      },
+      "id": "f8933a8746c43d45",
+      "type": "add",
+      "after": "92cdec1648ce2eb6",
+      "date": 1419212395531
     }
   ]
 }

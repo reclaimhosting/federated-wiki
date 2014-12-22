@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "3de31103576ba744"
+      "id": "56857f1e69c64ca1"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "7c532407f241c152"
+      "id": "82f1ae417bf659ea"
     },
     {
-      "date": 1419208201000,
+      "date": 1419209214000,
+      "site": "fedwiki.djon.es",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 12 pages.",
+      "type": "reference",
+      "id": "c01c6e1aed6cadfd"
+    },
+    {
+      "date": 1419208801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "d714d86fb965221c"
+      "id": "3652f5fdce6aeb40"
     },
     {
       "date": 1419147080000,
@@ -27,16 +36,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
       "type": "reference",
-      "id": "5a92654e8c3fe62f"
-    },
-    {
-      "date": 1419049641000,
-      "site": "fedwiki.djon.es",
-      "slug": "david-jones",
-      "title": "David Jones",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 12 pages.",
-      "type": "reference",
-      "id": "9fcb83cc1592e402"
+      "id": "d104a518df71325d"
     },
     {
       "date": 1418976997000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
       "type": "reference",
-      "id": "b3a0608e600d7369"
+      "id": "67d1faa14274f0e8"
     },
     {
       "date": 1418903095000,
@@ -54,7 +54,7 @@
       "title": "Abstraction of Method",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 37 pages.",
       "type": "reference",
-      "id": "d38c3369f44f6e1c"
+      "id": "72b326b0a69d6de5"
     },
     {
       "date": 1418829182000,
@@ -63,7 +63,7 @@
       "title": "Nick Persona",
       "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "ab5ff35ed0b9ed9f"
+      "id": "0f06e68a8702d35c"
     },
     {
       "date": 1418762881000,
@@ -72,7 +72,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 53 pages.",
       "type": "reference",
-      "id": "0059e2f3a456af00"
+      "id": "ff583f73a9122702"
     },
     {
       "date": 1418641956000,
@@ -81,7 +81,7 @@
       "title": "Tim Klapdor",
       "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "f9bdeeece84f910c"
+      "id": "fe287be075e489c0"
     },
     {
       "date": 1418625851000,
@@ -90,55 +90,69 @@
       "title": "Alan Levine",
       "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "e6a99457b8db2eaa"
+      "id": "0674deed02b01944"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "5506ee706f89b66b",
+      "id": "3fdaa0df699cafd4",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "3de31103576ba744",
+      "id": "56857f1e69c64ca1",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "3de31103576ba744"
+        "id": "56857f1e69c64ca1"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "7c532407f241c152",
+      "id": "82f1ae417bf659ea",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "7c532407f241c152"
+        "id": "82f1ae417bf659ea"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "d714d86fb965221c",
+      "id": "c01c6e1aed6cadfd",
       "item": {
-        "date": 1419208201000,
+        "date": 1419209214000,
+        "site": "fedwiki.djon.es",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 12 pages.",
+        "type": "reference",
+        "id": "c01c6e1aed6cadfd"
+      },
+      "date": 1419209401000
+    },
+    {
+      "type": "add",
+      "id": "3652f5fdce6aeb40",
+      "item": {
+        "date": 1419208801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "d714d86fb965221c"
+        "id": "3652f5fdce6aeb40"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "5a92654e8c3fe62f",
+      "id": "d104a518df71325d",
       "item": {
         "date": 1419147080000,
         "site": "djones.federatedwiki.org",
@@ -146,27 +160,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
         "type": "reference",
-        "id": "5a92654e8c3fe62f"
+        "id": "d104a518df71325d"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "9fcb83cc1592e402",
-      "item": {
-        "date": 1419049641000,
-        "site": "fedwiki.djon.es",
-        "slug": "david-jones",
-        "title": "David Jones",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 12 pages.",
-        "type": "reference",
-        "id": "9fcb83cc1592e402"
-      },
-      "date": 1419208801000
-    },
-    {
-      "type": "add",
-      "id": "b3a0608e600d7369",
+      "id": "67d1faa14274f0e8",
       "item": {
         "date": 1418976997000,
         "site": "daveh70.federatedwiki.org",
@@ -174,13 +174,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
         "type": "reference",
-        "id": "b3a0608e600d7369"
+        "id": "67d1faa14274f0e8"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "d38c3369f44f6e1c",
+      "id": "72b326b0a69d6de5",
       "item": {
         "date": 1418903095000,
         "site": "tmtm.federatedwiki.org",
@@ -188,13 +188,13 @@
         "title": "Abstraction of Method",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 37 pages.",
         "type": "reference",
-        "id": "d38c3369f44f6e1c"
+        "id": "72b326b0a69d6de5"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "ab5ff35ed0b9ed9f",
+      "id": "0f06e68a8702d35c",
       "item": {
         "date": 1418829182000,
         "site": "ward.federatedwiki.org",
@@ -202,13 +202,13 @@
         "title": "Nick Persona",
         "text": "In [http://ward.federatedwiki.org ward.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "ab5ff35ed0b9ed9f"
+        "id": "0f06e68a8702d35c"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "0059e2f3a456af00",
+      "id": "ff583f73a9122702",
       "item": {
         "date": 1418762881000,
         "site": "jason.federatedwiki.org",
@@ -216,13 +216,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jason.federatedwiki.org jason.federatedwiki.org] with 53 pages.",
         "type": "reference",
-        "id": "0059e2f3a456af00"
+        "id": "ff583f73a9122702"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "f9bdeeece84f910c",
+      "id": "fe287be075e489c0",
       "item": {
         "date": 1418641956000,
         "site": "klapdor.federatedwiki.org",
@@ -230,13 +230,13 @@
         "title": "Tim Klapdor",
         "text": "In [http://klapdor.federatedwiki.org klapdor.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "f9bdeeece84f910c"
+        "id": "fe287be075e489c0"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     },
     {
       "type": "add",
-      "id": "e6a99457b8db2eaa",
+      "id": "0674deed02b01944",
       "item": {
         "date": 1418625851000,
         "site": "cogdog.federatedwiki.org",
@@ -244,9 +244,9 @@
         "title": "Alan Levine",
         "text": "In [http://cogdog.federatedwiki.org cogdog.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "e6a99457b8db2eaa"
+        "id": "0674deed02b01944"
       },
-      "date": 1419208801000
+      "date": 1419209401000
     }
   ]
 }

@@ -28,6 +28,11 @@
     },
     {
       "type": "html",
+      "id": "72b1dfb3938f3fea",
+      "text": "<strong>The need for change</strong> Outcomes and methods of network learning implementations may need to change after initial introduction (McCarthy, 2010; Silias et al, 2010)"
+    },
+    {
+      "type": "html",
       "id": "c560672990c518b9",
       "text": "<h3>Alternative titles</h3>"
     },
@@ -406,6 +411,56 @@
       ],
       "id": "538a80a688169f2c",
       "date": 1419211105447
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "291f129299ca647e"
+      },
+      "id": "291f129299ca647e",
+      "type": "add",
+      "after": "2e1de5a89ae75512",
+      "date": 1419213702378
+    },
+    {
+      "type": "remove",
+      "id": "291f129299ca647e",
+      "date": 1419213706721
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72b1dfb3938f3fea"
+      },
+      "id": "72b1dfb3938f3fea",
+      "type": "add",
+      "after": "2e1de5a89ae75512",
+      "date": 1419213708126
+    },
+    {
+      "type": "edit",
+      "id": "72b1dfb3938f3fea",
+      "item": {
+        "type": "html",
+        "id": "72b1dfb3938f3fea",
+        "text": "<strong>The need for change</strong> Outcomes and methods of network learning implementations may need to change after initial introduction (McCarthy, 2010; Silias et al, 2010)"
+      },
+      "date": 1419213754319
+    },
+    {
+      "type": "move",
+      "order": [
+        "0bb04ab3adb5da03",
+        "51b43bdaee128dbc",
+        "6c7b482bb4a5dc05",
+        "6698b449abb2ef66",
+        "538a80a688169f2c",
+        "72b1dfb3938f3fea",
+        "c560672990c518b9",
+        "2e1de5a89ae75512"
+      ],
+      "id": "72b1dfb3938f3fea",
+      "date": 1419213757534
     }
   ]
 }

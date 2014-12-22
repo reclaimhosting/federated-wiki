@@ -27,8 +27,9 @@
       "text": ""
     },
     {
-      "type": "factory",
-      "id": "92cdec1648ce2eb6"
+      "type": "paragraph",
+      "id": "92cdec1648ce2eb6",
+      "text": "[[BAM, BIM, Blogs and Breaking BAD: Making good learning]]"
     },
     {
       "type": "factory",
@@ -167,6 +168,32 @@
       "type": "add",
       "after": "92cdec1648ce2eb6",
       "date": 1419212395531
+    },
+    {
+      "type": "edit",
+      "id": "92cdec1648ce2eb6",
+      "item": {
+        "type": "paragraph",
+        "id": "92cdec1648ce2eb6",
+        "text": "[[BAM, BIM, Blogs and Breaking BAD: Making good learning]]"
+      },
+      "date": 1419212462348
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "26f8bbd785585624",
+        "text": ""
+      },
+      "id": "26f8bbd785585624",
+      "type": "add",
+      "after": "92cdec1648ce2eb6",
+      "date": 1419212462353
+    },
+    {
+      "type": "remove",
+      "id": "26f8bbd785585624",
+      "date": 1419212467366
     }
   ]
 }

@@ -118,7 +118,12 @@
     {
       "type": "paragraph",
       "id": "270c960795afcff3",
-      "text": "[[David Jones]] a little test"
+      "text": "[[David Jones]] - getting a 403 response from the server after following the above. Assuming this is due to the configuration of the server that I'm using."
+    },
+    {
+      "type": "paragraph",
+      "id": "d520dd9824fea1c7",
+      "text": ""
     }
   ],
   "journal": [
@@ -1510,6 +1515,27 @@
       "type": "remove",
       "id": "57e1e72ee8b5d81d",
       "date": 1419227660563
+    },
+    {
+      "type": "edit",
+      "id": "270c960795afcff3",
+      "item": {
+        "type": "paragraph",
+        "id": "270c960795afcff3",
+        "text": "[[David Jones]] - getting a 403 response from the server after following the above. Assuming this is due to the configuration of the server that I'm using."
+      },
+      "date": 1419228132550
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d520dd9824fea1c7",
+        "text": ""
+      },
+      "id": "d520dd9824fea1c7",
+      "type": "add",
+      "after": "270c960795afcff3",
+      "date": 1419228132571
     }
   ]
 }

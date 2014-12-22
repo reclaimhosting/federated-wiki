@@ -1,0 +1,453 @@
+{
+  "title": "Special Interest Groups",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b4489b5d42bd361e",
+      "text": "Save time refreshing Recent Changes by narrowing your neighborhood with one or more of these SIGs."
+    },
+    {
+      "type": "paragraph",
+      "id": "aff072a39c7bf9c7",
+      "text": "Nominate yourself or others for membership by adding more references to any of these lists. List administrators will look to larger groups for nominations."
+    },
+    {
+      "type": "paragraph",
+      "id": "105c42da134612d1",
+      "text": "See [[About Reference Plugin]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "5bb20dafef554f5a",
+      "text": "large"
+    },
+    {
+      "type": "paragraph",
+      "id": "5e63f462a2be2f92",
+      "text": "[[Happening Folks]] with their happening journals"
+    },
+    {
+      "type": "pagefold",
+      "id": "4d8efd421e407b3f",
+      "text": "medium"
+    },
+    {
+      "type": "paragraph",
+      "id": "77470751e16f76c1",
+      "text": "[[FedWiki Teaching Folks]] discussing FedWiki in the classroom."
+    },
+    {
+      "type": "pagefold",
+      "id": "a7d806dc47371bde",
+      "text": "small"
+    },
+    {
+      "type": "paragraph",
+      "id": "b62e73db95baf462",
+      "text": "[[Coding Folks]] talking about wiki's implementation"
+    },
+    {
+      "type": "paragraph",
+      "id": "04f9c1a3b3f4715b",
+      "text": "[[Bicycle Commuters]] in warm weather or otherwise."
+    },
+    {
+      "type": "pagefold",
+      "id": "f4d958cf66bc29ab",
+      "text": "."
+    },
+    {
+      "type": "factory",
+      "id": "4d852ef235d38439"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Special Interest Groups",
+        "story": []
+      },
+      "date": 1419108432441
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4489b5d42bd361e"
+      },
+      "id": "b4489b5d42bd361e",
+      "type": "add",
+      "date": 1419108443453
+    },
+    {
+      "type": "edit",
+      "id": "b4489b5d42bd361e",
+      "item": {
+        "type": "paragraph",
+        "id": "b4489b5d42bd361e",
+        "text": "Save time refreshing Recent Changes by narrowing your neighborhood with one or more of these SIGs."
+      },
+      "date": 1419108504511
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5e63f462a2be2f92",
+        "text": ""
+      },
+      "id": "5e63f462a2be2f92",
+      "type": "add",
+      "after": "b4489b5d42bd361e",
+      "date": 1419108504520
+    },
+    {
+      "type": "edit",
+      "id": "5e63f462a2be2f92",
+      "item": {
+        "type": "paragraph",
+        "id": "5e63f462a2be2f92",
+        "text": "[[Happening Folks]] with their happening journals"
+      },
+      "date": 1419108539006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5bb20dafef554f5a"
+      },
+      "id": "5bb20dafef554f5a",
+      "type": "add",
+      "after": "5e63f462a2be2f92",
+      "date": 1419108551461
+    },
+    {
+      "type": "edit",
+      "id": "5bb20dafef554f5a",
+      "item": {
+        "type": "pagefold",
+        "id": "5bb20dafef554f5a",
+        "text": "big"
+      },
+      "date": 1419108556469
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d8efd421e407b3f"
+      },
+      "id": "4d8efd421e407b3f",
+      "type": "add",
+      "after": "5bb20dafef554f5a",
+      "date": 1419108558557
+    },
+    {
+      "type": "edit",
+      "id": "4d8efd421e407b3f",
+      "item": {
+        "type": "pagefold",
+        "id": "4d8efd421e407b3f",
+        "text": "medium"
+      },
+      "date": 1419108565864
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b62e73db95baf462"
+      },
+      "id": "b62e73db95baf462",
+      "type": "add",
+      "after": "4d8efd421e407b3f",
+      "date": 1419108568295
+    },
+    {
+      "type": "edit",
+      "id": "b62e73db95baf462",
+      "item": {
+        "type": "paragraph",
+        "id": "b62e73db95baf462",
+        "text": "small"
+      },
+      "date": 1419108572207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7d806dc47371bde"
+      },
+      "id": "a7d806dc47371bde",
+      "type": "add",
+      "after": "b62e73db95baf462",
+      "date": 1419108573938
+    },
+    {
+      "type": "edit",
+      "id": "a7d806dc47371bde",
+      "item": {
+        "type": "pagefold",
+        "id": "a7d806dc47371bde",
+        "text": "small"
+      },
+      "date": 1419108577856
+    },
+    {
+      "type": "edit",
+      "id": "5bb20dafef554f5a",
+      "item": {
+        "type": "pagefold",
+        "id": "5bb20dafef554f5a",
+        "text": "large"
+      },
+      "date": 1419108587378
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4d958cf66bc29ab"
+      },
+      "id": "f4d958cf66bc29ab",
+      "type": "add",
+      "after": "a7d806dc47371bde",
+      "date": 1419108593171
+    },
+    {
+      "type": "edit",
+      "id": "f4d958cf66bc29ab",
+      "item": {
+        "type": "pagefold",
+        "id": "f4d958cf66bc29ab",
+        "text": "."
+      },
+      "date": 1419108597908
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4489b5d42bd361e",
+        "5e63f462a2be2f92",
+        "5bb20dafef554f5a",
+        "4d8efd421e407b3f",
+        "a7d806dc47371bde",
+        "b62e73db95baf462",
+        "f4d958cf66bc29ab"
+      ],
+      "id": "b62e73db95baf462",
+      "date": 1419108601521
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4489b5d42bd361e",
+        "5bb20dafef554f5a",
+        "5e63f462a2be2f92",
+        "4d8efd421e407b3f",
+        "a7d806dc47371bde",
+        "b62e73db95baf462",
+        "f4d958cf66bc29ab"
+      ],
+      "id": "5e63f462a2be2f92",
+      "date": 1419108604845
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aff072a39c7bf9c7",
+        "text": ""
+      },
+      "id": "aff072a39c7bf9c7",
+      "type": "add",
+      "after": "b4489b5d42bd361e",
+      "date": 1419108628595
+    },
+    {
+      "type": "edit",
+      "id": "aff072a39c7bf9c7",
+      "item": {
+        "type": "paragraph",
+        "id": "aff072a39c7bf9c7",
+        "text": "Nominate yourself or others for membership by adding more references to any of these lists. See [[About Reference Plugin]]"
+      },
+      "date": 1419108699987
+    },
+    {
+      "type": "edit",
+      "id": "aff072a39c7bf9c7",
+      "item": {
+        "type": "paragraph",
+        "id": "aff072a39c7bf9c7",
+        "text": "Nominate yourself or others for membership by adding more references to any of these lists."
+      },
+      "date": 1419108705978
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7c307c50a0bb3de2",
+        "text": "See [[About Reference Plugin]]"
+      },
+      "id": "7c307c50a0bb3de2",
+      "type": "add",
+      "after": "aff072a39c7bf9c7",
+      "date": 1419108705988
+    },
+    {
+      "type": "remove",
+      "id": "7c307c50a0bb3de2",
+      "date": 1419108741769
+    },
+    {
+      "type": "edit",
+      "id": "aff072a39c7bf9c7",
+      "item": {
+        "type": "paragraph",
+        "id": "aff072a39c7bf9c7",
+        "text": "Nominate yourself or others for membership by adding more references to any of these lists. List administrators will look to larger groups for nominations. See [[About Reference Plugin]]"
+      },
+      "date": 1419108772445
+    },
+    {
+      "type": "edit",
+      "id": "aff072a39c7bf9c7",
+      "item": {
+        "type": "paragraph",
+        "id": "aff072a39c7bf9c7",
+        "text": "Nominate yourself or others for membership by adding more references to any of these lists. List administrators will look to larger groups for nominations."
+      },
+      "date": 1419108786198
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "105c42da134612d1",
+        "text": "See [[About Reference Plugin]]"
+      },
+      "id": "105c42da134612d1",
+      "type": "add",
+      "after": "aff072a39c7bf9c7",
+      "date": 1419108786209
+    },
+    {
+      "type": "edit",
+      "id": "b62e73db95baf462",
+      "item": {
+        "type": "paragraph",
+        "id": "b62e73db95baf462",
+        "text": "[[Coding Folks]] talking about wiki's implementation"
+      },
+      "date": 1419108821248
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77470751e16f76c1"
+      },
+      "id": "77470751e16f76c1",
+      "type": "add",
+      "after": "f4d958cf66bc29ab",
+      "date": 1419182206136
+    },
+    {
+      "type": "edit",
+      "id": "77470751e16f76c1",
+      "item": {
+        "type": "paragraph",
+        "id": "77470751e16f76c1",
+        "text": "[[FedWiki Teaching Folks]] discussing FedWiki in the classroom."
+      },
+      "date": 1419182230152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e71c15afc684ab0",
+        "text": ""
+      },
+      "id": "0e71c15afc684ab0",
+      "type": "add",
+      "after": "77470751e16f76c1",
+      "date": 1419182230172
+    },
+    {
+      "type": "move",
+      "order": [
+        "b4489b5d42bd361e",
+        "aff072a39c7bf9c7",
+        "105c42da134612d1",
+        "5bb20dafef554f5a",
+        "5e63f462a2be2f92",
+        "4d8efd421e407b3f",
+        "77470751e16f76c1",
+        "a7d806dc47371bde",
+        "b62e73db95baf462",
+        "f4d958cf66bc29ab",
+        "0e71c15afc684ab0"
+      ],
+      "id": "77470751e16f76c1",
+      "date": 1419182235067
+    },
+    {
+      "type": "remove",
+      "id": "0e71c15afc684ab0",
+      "date": 1419182265307
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.jeffist.com"
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "04f9c1a3b3f4715b",
+        "text": ""
+      },
+      "id": "04f9c1a3b3f4715b",
+      "type": "add",
+      "after": "b62e73db95baf462",
+      "date": 1419223943120
+    },
+    {
+      "type": "edit",
+      "id": "04f9c1a3b3f4715b",
+      "item": {
+        "type": "paragraph",
+        "id": "04f9c1a3b3f4715b",
+        "text": "[[Bicycle Commuters]] in warm weather or otherwise."
+      },
+      "date": 1419223973705
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0216fc14456cdf81",
+        "text": ""
+      },
+      "id": "0216fc14456cdf81",
+      "type": "add",
+      "after": "04f9c1a3b3f4715b",
+      "date": 1419225372361
+    },
+    {
+      "type": "remove",
+      "id": "0216fc14456cdf81",
+      "date": 1419225488755
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d852ef235d38439"
+      },
+      "id": "4d852ef235d38439",
+      "type": "add",
+      "after": "f4d958cf66bc29ab",
+      "date": 1419228494065
+    }
+  ]
+}

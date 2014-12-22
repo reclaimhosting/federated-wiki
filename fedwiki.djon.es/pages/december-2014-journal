@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "d39ca29473472dda",
       "text": "[[Concrete Lounge]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4370b9b7cde856a",
+      "text": "[[Network Learning]]"
     }
   ],
   "journal": [
@@ -69,6 +74,43 @@
         "text": "[[Concrete Lounge]]"
       },
       "date": 1418886905699
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b4370b9b7cde856a",
+        "text": ""
+      },
+      "id": "b4370b9b7cde856a",
+      "type": "add",
+      "after": "d39ca29473472dda",
+      "date": 1419211772033
+    },
+    {
+      "type": "edit",
+      "id": "b4370b9b7cde856a",
+      "item": {
+        "type": "paragraph",
+        "id": "b4370b9b7cde856a",
+        "text": "[[Network Learning]]"
+      },
+      "date": 1419211778900
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fd5101ac24d7bd1d",
+        "text": ""
+      },
+      "id": "fd5101ac24d7bd1d",
+      "type": "add",
+      "after": "b4370b9b7cde856a",
+      "date": 1419211778906
+    },
+    {
+      "type": "remove",
+      "id": "fd5101ac24d7bd1d",
+      "date": 1419211782149
     }
   ]
 }

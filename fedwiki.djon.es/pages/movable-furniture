@@ -27,8 +27,9 @@
       "text": "[[Jenny Mackness]] Also reminds me of a JISC Institutional Innovation programme that I worked on where one project designed a new library space in which students could collect a laptop from a docking station and go and sit anywhere with it, in groups or on their own. At the time not many universities were taking this approach. [http://www.canterbury.ac.uk/projects/iborrow/ html]"
     },
     {
-      "type": "factory",
-      "id": "4512f28e03e45672"
+      "type": "paragraph",
+      "id": "4512f28e03e45672",
+      "text": "[[David Jones]]: I've been wondering whether these problems also hinder the development of teachers. Does a [[Concrete Lounge]] limit teaching staff exploring and changing the pedagogy they use?"
     }
   ],
   "journal": [
@@ -215,6 +216,32 @@
       "type": "add",
       "after": "8cc4df1db2d1e654",
       "date": 1419229833147
+    },
+    {
+      "type": "edit",
+      "id": "4512f28e03e45672",
+      "item": {
+        "type": "paragraph",
+        "id": "4512f28e03e45672",
+        "text": "[[David Jones]]: I've been wondering whether these problems also hinder the development of teachers. Does a [[Concrete Lounge]] limit teaching staff exploring and changing the pedagogy they use?"
+      },
+      "date": 1419229931499
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d779757ba5f973a",
+        "text": ""
+      },
+      "id": "7d779757ba5f973a",
+      "type": "add",
+      "after": "4512f28e03e45672",
+      "date": 1419229931508
+    },
+    {
+      "type": "remove",
+      "id": "7d779757ba5f973a",
+      "date": 1419229932863
     }
   ]
 }

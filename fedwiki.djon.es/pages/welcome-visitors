@@ -34,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "id": "e9c94306fda826a8",
+      "id": "ceb5aa409b3fb82b",
       "text": "testing"
     }
   ],
@@ -971,6 +971,48 @@
       "type": "remove",
       "id": "9cb4d2d7b3a7d578",
       "date": 1419226769926
+    },
+    {
+      "type": "remove",
+      "id": "e9c94306fda826a8",
+      "date": 1419369843582
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ceb5aa409b3fb82b",
+        "text": ""
+      },
+      "id": "ceb5aa409b3fb82b",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1419369859986
+    },
+    {
+      "type": "edit",
+      "id": "ceb5aa409b3fb82b",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb5aa409b3fb82b",
+        "text": "testing"
+      },
+      "date": 1419369861693
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69bec9f64d67a3b3",
+        "text": ""
+      },
+      "id": "69bec9f64d67a3b3",
+      "type": "add",
+      "after": "ceb5aa409b3fb82b",
+      "date": 1419369861698
+    },
+    {
+      "type": "remove",
+      "id": "69bec9f64d67a3b3",
+      "date": 1419369866266
     }
   ]
 }

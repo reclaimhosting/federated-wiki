@@ -117,11 +117,6 @@
     },
     {
       "type": "paragraph",
-      "id": "270c960795afcff3",
-      "text": "[[David Jones]] - getting a 403 response from the server after following the above. Assuming this is due to the configuration of the server that I'm using."
-    },
-    {
-      "type": "paragraph",
       "id": "d520dd9824fea1c7",
       "text": ""
     }
@@ -1536,6 +1531,11 @@
       "type": "add",
       "after": "270c960795afcff3",
       "date": 1419228132571
+    },
+    {
+      "type": "remove",
+      "id": "270c960795afcff3",
+      "date": 1419370747580
     }
   ]
 }

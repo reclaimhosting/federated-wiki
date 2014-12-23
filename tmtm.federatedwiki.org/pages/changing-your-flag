@@ -109,11 +109,6 @@
       "type": "markdown",
       "id": "2f5882fb8255ddc7",
       "text": "#For Windows Users\n\n[[Jon Udell]] This method hack presumes a Unix-style system. The tools required -- curl, base64 -- can run on Windows. I happen not to have them on the Windows machine I'm on at the moment. But I do have Fiddler, a tool that can debug and even manufacture HTTP requests. So I used that, along with an [http://www.motobit.com/util/base64-decoder-encoder.asp online tool] that converted my flag.png into the textual representation the server expects.\n<p>\nI don't think anyone but me is likely to use this method. As Alex said, the result is clearly interesting to folks here, and so may become accessible without gymnastics. \n<p>\nBut it sure is refreshing to be reminded, yet again, how radically flexible systems based on web technology are. "
-    },
-    {
-      "type": "markdown",
-      "id": "8e608dba146d74a4",
-      "text": "##For Programmer-Wannabes\n"
     }
   ],
   "journal": [
@@ -1459,6 +1454,11 @@
     {
       "type": "fork",
       "date": 1419318482515
+    },
+    {
+      "type": "remove",
+      "id": "8e608dba146d74a4",
+      "date": 1419329319352
     }
   ]
 }

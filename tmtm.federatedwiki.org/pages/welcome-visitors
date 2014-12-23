@@ -30,6 +30,16 @@
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "[[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "paragraph",
+      "id": "e013b025582c0e24",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fedwikihappening.rodwell.me/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://fedwikihappening.rodwell.me/favicon.png",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+      },
+      "text": "[[Happening Folks]]"
     }
   ],
   "journal": [
@@ -602,6 +612,75 @@
       "type": "remove",
       "id": "2bbd646ff3f44b51",
       "date": 1417552533519
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd70dc1c0bfb1336"
+      },
+      "id": "fd70dc1c0bfb1336",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1419328929880
+    },
+    {
+      "type": "remove",
+      "id": "fd70dc1c0bfb1336",
+      "date": 1419328937635
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e013b025582c0e24"
+      },
+      "id": "e013b025582c0e24",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1419328943207
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "after": "ee416d431ebf4fb4",
+      "id": "e9e9f102158e1382",
+      "date": 1419328946305
+    },
+    {
+      "type": "remove",
+      "id": "e9e9f102158e1382",
+      "date": 1419328963096
+    },
+    {
+      "type": "edit",
+      "id": "e013b025582c0e24",
+      "item": {
+        "type": "factory",
+        "id": "e013b025582c0e24",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fedwikihappening.rodwell.me/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fedwikihappening.rodwell.me/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+        }
+      },
+      "date": 1419328982961
+    },
+    {
+      "type": "edit",
+      "id": "e013b025582c0e24",
+      "item": {
+        "type": "paragraph",
+        "id": "e013b025582c0e24",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fedwikihappening.rodwell.me/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fedwikihappening.rodwell.me/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+        },
+        "text": "[[Happening Folks]]"
+      },
+      "date": 1419328990857
     }
   ]
 }

@@ -68,10 +68,6 @@
     },
     {
       "type": "factory",
-      "id": "b9b55db1fddc72eb"
-    },
-    {
-      "type": "factory",
       "id": "54f2948c486c15e1"
     }
   ],
@@ -609,6 +605,57 @@
       "type": "add",
       "after": "b9b55db1fddc72eb",
       "date": 1419329826550
+    },
+    {
+      "type": "edit",
+      "id": "b9b55db1fddc72eb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9b55db1fddc72eb",
+        "text": "Tony Bowden: Forks are also for me, as they make a new copy of the content, and I no longer have to worry about the original copy disappearing over time. There are many times I've 'like'd something, but when I go back to reread it later, it's no longer there. "
+      },
+      "date": 1419330059867
+    },
+    {
+      "type": "edit",
+      "id": "b9b55db1fddc72eb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9b55db1fddc72eb",
+        "text": "[[Tony Bowden]]: Forks are also for me, as they make a new copy of the content, and I no longer have to worry about the original copy disappearing over time. There are many times I've 'like'd something, but when I go back to reread it later, it's no longer there. Pinboard have built their entire model around this: a basic account costs ~$10 (one off) — but archiving everything you ever bookmark so that it never vanishes costs an extra $25 per year."
+      },
+      "date": 1419330282956
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cb3f9759d4b1c600",
+        "text": ""
+      },
+      "id": "cb3f9759d4b1c600",
+      "type": "add",
+      "after": "b9b55db1fddc72eb",
+      "date": 1419330282971
+    },
+    {
+      "type": "remove",
+      "id": "cb3f9759d4b1c600",
+      "date": 1419330293007
+    },
+    {
+      "type": "edit",
+      "id": "b9b55db1fddc72eb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9b55db1fddc72eb",
+        "text": "[[Tony Bowden]]: Forks are also for me, as they make a new copy of the content, and I no longer have to worry about the original copy disappearing over time. There are many times I've 'like'd something, but when I go back to reread it later, it's no longer there. [https://pinboard.in Pinboard] have built their entire model around this: a basic account costs ~$10 (one off) — but archiving everything you ever bookmark so that it never vanishes costs an extra $25 per year."
+      },
+      "date": 1419330298484
+    },
+    {
+      "type": "remove",
+      "id": "b9b55db1fddc72eb",
+      "date": 1419330395881
     }
   ]
 }

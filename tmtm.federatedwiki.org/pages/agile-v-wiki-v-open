@@ -1,0 +1,82 @@
+{
+  "title": "Agile v. Wiki v. Open",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "604ce0d6ae233cea",
+      "text": "I consider the dimensions upon which three methods compare. In my mind they are all the same thing but I tease apart the differences in this 2009 keynote."
+    },
+    {
+      "type": "video",
+      "id": "841b5711e84907a2",
+      "text": "YOUTUBE 8oSdiSWt8Yo\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "factory",
+      "id": "3c2346d62ed0b542"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Agile v. Wiki v. Open",
+        "story": []
+      },
+      "date": 1419053469617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "604ce0d6ae233cea"
+      },
+      "id": "604ce0d6ae233cea",
+      "type": "add",
+      "date": 1419053473742
+    },
+    {
+      "type": "edit",
+      "id": "604ce0d6ae233cea",
+      "item": {
+        "type": "paragraph",
+        "id": "604ce0d6ae233cea",
+        "text": "I consider the dimensions upon which three methods compare. In my mind they are all the same thing but I tease apart the differences in this 2009 keynote."
+      },
+      "date": 1419053617179
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "841b5711e84907a2"
+      },
+      "id": "841b5711e84907a2",
+      "type": "add",
+      "after": "604ce0d6ae233cea",
+      "date": 1419053619227
+    },
+    {
+      "type": "edit",
+      "id": "841b5711e84907a2",
+      "item": {
+        "type": "video",
+        "id": "841b5711e84907a2",
+        "text": "YOUTUBE 8oSdiSWt8Yo\n(double-click to edit caption)\n"
+      },
+      "date": 1419053636065
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c2346d62ed0b542"
+      },
+      "id": "3c2346d62ed0b542",
+      "type": "add",
+      "after": "841b5711e84907a2",
+      "date": 1419330853544
+    }
+  ]
+}

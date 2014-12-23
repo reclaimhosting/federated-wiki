@@ -43,7 +43,7 @@
     {
       "type": "paragraph",
       "id": "dd3cf74c26acb120",
-      "text": "Click one of the PUT items and look for the line beginning \"Cookie:\" in the Headers tab. Copy the remainder of that line to your clipboard. It should start with \"session=\"."
+      "text": "Click one of the PUT items and look for the line beginning \"Cookie:\" in the Headers tab. Copy the remainder of that line to your clipboard. It should include a part with \"session=\". [Mine started with \"connect.sid=\"]"
     },
     {
       "type": "paragraph",
@@ -1459,6 +1459,26 @@
       "type": "remove",
       "id": "8e608dba146d74a4",
       "date": 1419329319352
+    },
+    {
+      "type": "edit",
+      "id": "dd3cf74c26acb120",
+      "item": {
+        "type": "paragraph",
+        "id": "dd3cf74c26acb120",
+        "text": "Click one of the PUT items and look for the line beginning \"Cookie:\" in the Headers tab. Copy the remainder of that line to your clipboard. It should include a part with \"session=\"."
+      },
+      "date": 1419329482441
+    },
+    {
+      "type": "edit",
+      "id": "dd3cf74c26acb120",
+      "item": {
+        "type": "paragraph",
+        "id": "dd3cf74c26acb120",
+        "text": "Click one of the PUT items and look for the line beginning \"Cookie:\" in the Headers tab. Copy the remainder of that line to your clipboard. It should include a part with \"session=\". [Mine started with \"connect.sid=\"]"
+      },
+      "date": 1419329498550
     }
   ]
 }

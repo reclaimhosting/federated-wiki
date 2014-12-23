@@ -1,0 +1,614 @@
+{
+  "title": "A FedWiki Second Screen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b5e4b81f0ac41a54",
+      "text": "(Full title: A FedWiki second screen, and why I like Likes)"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e48f0d22ab81090",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "2dfce99dc6016689",
+      "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can export a version of the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?"
+    },
+    {
+      "type": "paragraph",
+      "id": "ea4259bf6edde2cf",
+      "text": "[[BillSeitz]] notes that if you put a [[Recent Changes]] link at the bottom of your [[Happening Folks]] page then you can follow that series of clicks (from Welcome to Folks to Recent) and end up with a URL you can bookmark and jump right to."
+    },
+    {
+      "type": "paragraph",
+      "id": "9805d1764939df98",
+      "text": "On Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], as well as ideas about forming the community dynamically, which are presented in [[we make the road by walking]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them."
+    },
+    {
+      "type": "paragraph",
+      "id": "be5454ecb64fce67",
+      "text": "I can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version."
+    },
+    {
+      "type": "paragraph",
+      "id": "1df7b58ed89791fa",
+      "text": "[[BillSeitz]] wonders whether Forking a page could count as Liking it?"
+    },
+    {
+      "type": "paragraph",
+      "id": "7eca239a80c55ed5",
+      "text": "[[Catherine Cronin]] Hi Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it there (at 2:55) \"instead of hitting a Like button, Maria decides to fork it to her site. The way we like things is we make copies of them...\". This was not intuitive for me, but is making more sense as I traverse our pages (knowledge networks)."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae10f0afa8c291b5",
+      "text": "[[Jeff Rimland]]: Bill and Catherine, I agree that there is some overlap between liking and forking, but I still feel that there’s a subtle distinction between the two.  I may Like someone’s comment because it’s witty or well written, even if it doesn’t have significance for my research or anything that I’m thinking about.  The Like is for them.  Forking, at least the way I look at it, is for me.  I fork someone’s writing because I have something to add to it, or I want to link it to past/future posts, or I want to save it to read again later.  The Like is probably unnecessary from a practical standpoint, but I feel like the gamification that it provides could make the experience “stickier” for students and new users while they slog up the initial learning curve."
+    },
+    {
+      "type": "paragraph",
+      "id": "d51692e952759d37",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5623b4d9f6b78b3e",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "876be06d02f0e5c6",
+      "text": ""
+    },
+    {
+      "type": "markdown",
+      "id": "6b58b2a537e451cf",
+      "text": "Above para continues conversation in a new page [[Likes are for you, Forks are for me]]"
+    },
+    {
+      "type": "factory",
+      "id": "b9b55db1fddc72eb"
+    },
+    {
+      "type": "factory",
+      "id": "54f2948c486c15e1"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A FedWiki Second Screen",
+        "story": []
+      },
+      "date": 1419178223112
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5e4b81f0ac41a54"
+      },
+      "id": "b5e4b81f0ac41a54",
+      "type": "add",
+      "date": 1419178225705
+    },
+    {
+      "type": "edit",
+      "id": "b5e4b81f0ac41a54",
+      "item": {
+        "type": "paragraph",
+        "id": "b5e4b81f0ac41a54",
+        "text": "(Full title: A FedWiki Second Screen, and why I like Likes)"
+      },
+      "date": 1419178249514
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2cf9f0e8c148c0c7",
+        "text": ""
+      },
+      "id": "2cf9f0e8c148c0c7",
+      "type": "add",
+      "after": "b5e4b81f0ac41a54",
+      "date": 1419178249534
+    },
+    {
+      "type": "remove",
+      "id": "2cf9f0e8c148c0c7",
+      "date": 1419178256251
+    },
+    {
+      "type": "edit",
+      "id": "b5e4b81f0ac41a54",
+      "item": {
+        "type": "paragraph",
+        "id": "b5e4b81f0ac41a54",
+        "text": "(Full title: A FedWiki second screen, and why I like Likes)"
+      },
+      "date": 1419178262538
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9e48f0d22ab81090",
+        "text": ""
+      },
+      "id": "9e48f0d22ab81090",
+      "type": "add",
+      "after": "b5e4b81f0ac41a54",
+      "date": 1419178280680
+    },
+    {
+      "type": "edit",
+      "id": "9e48f0d22ab81090",
+      "item": {
+        "type": "paragraph",
+        "id": "9e48f0d22ab81090",
+        "text": " "
+      },
+      "date": 1419178281173
+    },
+    {
+      "type": "remove",
+      "id": "5623b4d9f6b78b3e",
+      "date": 1419178281185
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5623b4d9f6b78b3e",
+        "text": ""
+      },
+      "id": "5623b4d9f6b78b3e",
+      "type": "add",
+      "after": "9e48f0d22ab81090",
+      "date": 1419178281196
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": ""
+      },
+      "id": "2dfce99dc6016689",
+      "type": "add",
+      "after": "9e48f0d22ab81090",
+      "date": 1419178281198
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changes in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets, so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scene to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178283200
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a24d31cdef9b7a30",
+        "text": ""
+      },
+      "id": "a24d31cdef9b7a30",
+      "type": "add",
+      "after": "2dfce99dc6016689",
+      "date": 1419178283223
+    },
+    {
+      "type": "remove",
+      "id": "a24d31cdef9b7a30",
+      "date": 1419178324999
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets, so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scene to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178351126
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets, so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178384777
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178597172
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178611476
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can modify the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], as well as ideas about forming the community dynamically, which are presented in [[we make the road by walking]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419178815502
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can export a version of the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?\n\nOn Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], as well as ideas about forming the community dynamically, which are presented in [[we make the road by walking]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419186502883
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.jeffist.com",
+      "date": 1419187276118
+    },
+    {
+      "type": "edit",
+      "id": "2dfce99dc6016689",
+      "item": {
+        "type": "paragraph",
+        "id": "2dfce99dc6016689",
+        "text": "There’s been a lot of buzz around using mobile devices as the [[Second screen]] for watching TV shows and using other desktop or web page-based applications.\n\nI’ve tried this out in a few different formats with varying success/interest, but I’m convinced that a mobile app second screen is exactly what federated wiki needs.  There are two reasons why I believe this: 1) News Feeds and 2) Feedback\n\nOn Newsfeeds:\n\nI use the Feedly app on my phone to catch up on news/RSS feeds when I’m standing in line or otherwise have a few seconds to kill.  If something resonates with me, I’ll make a quick note in Evernote or jot it on a napkin if I happen to have a pen with me.  Then I’ll follow up on that thought (by emailing someone, tweeting, writing a paper, making a blog post, drawing on my whiteboard -- whatever) when I get back to my office.\n\nIn FedWiki, I’ve been grabbing my laptop, clicking “Happening Folks”, clicking “Recent Changes”, and watching the icons spin while the latest stories filter in.  Ideally, I’d love to be able to pick up my phone and see this feed immediately – maybe even see a preview of how many items changed in the last hour (or some other interval) via the little red number on the app icon (ASIDE:  I feel like I should know what that number is called).  Maybe we can export a version of the JSON for that page into an XML RSS format so I can see it in Feedly?  Maybe we can write an iOS app that shows updates?"
+      },
+      "date": 1419187309714
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ea4259bf6edde2cf",
+        "text": "[[BillSeitz]] notes that if you put a [[Recent Changes]] link at the bottom of your [[Happening Folks]] page then you can follow that series of clicks (from Welcome to Folks to Recent) and end up with a URL you can bookmark and jump right to."
+      },
+      "id": "ea4259bf6edde2cf",
+      "type": "add",
+      "after": "2dfce99dc6016689",
+      "date": 1419187309728
+    },
+    {
+      "type": "edit",
+      "id": "ea4259bf6edde2cf",
+      "item": {
+        "type": "paragraph",
+        "id": "ea4259bf6edde2cf",
+        "text": "[[BillSeitz]] notes that if you put a [[Recent Changes]] link at the bottom of your [[Happening Folks]] page then you can follow that series of clicks (from Welcome to Folks to Recent) and end up with a URL you can bookmark and jump right to."
+      },
+      "date": 1419187312887
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9805d1764939df98",
+        "text": "On Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], as well as ideas about forming the community dynamically, which are presented in [[we make the road by walking]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them.\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "id": "9805d1764939df98",
+      "type": "add",
+      "after": "ea4259bf6edde2cf",
+      "date": 1419187312896,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "JSON::ParserError: A JSON text must at least contain two octets!\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/json-1.7.7/lib/json/common.rb:155:in `initialize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/json-1.7.7/lib/json/common.rb:155:in `new'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/json-1.7.7/lib/json/common.rb:155:in `parse'\n\t/Users/ward/wiki/farm-8080/server/sinatra/stores/store.rb:22:in `get_hash'\n\t/Users/ward/wiki/farm-8080/server/sinatra/page.rb:35:in `get'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:249:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1419187321522
+    },
+    {
+      "type": "edit",
+      "id": "9805d1764939df98",
+      "item": {
+        "type": "paragraph",
+        "id": "9805d1764939df98",
+        "text": "On Feedback:\n\nI really like this FedWiki happening.  I really like a lot of the articles and a lot if the comments.   I realize that I’m about to make a lame-sounding statement, and at the risk of sounding like a Facebook fanatic:  There have been many times that I really wished there was a Like button.  \n\nI realize that this goes against many of the FedWiki collaborative tenets (such as [[Dissertation over Discourse]], as well as ideas about forming the community dynamically, which are presented in [[we make the road by walking]]), so that’s where the App comes in.  Maybe the web interface doesn’t show likes, but the App does.  Also, the likes could be used behind the scenes to help decide which posts appear in your feed (based on posts you’ve liked in the past).\n\nAdditionally, it would be great to get a notification when someone forks or comments on one of my posts.  Keeping these out of the web interface but putting them in an App may be a way to maintain those FedWiki tenets while still offering notifications for those who want them."
+      },
+      "date": 1419187350494
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1df7b58ed89791fa",
+        "text": "\n\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "id": "1df7b58ed89791fa",
+      "type": "add",
+      "after": "9805d1764939df98",
+      "date": 1419187350502
+    },
+    {
+      "type": "edit",
+      "id": "1df7b58ed89791fa",
+      "item": {
+        "type": "paragraph",
+        "id": "1df7b58ed89791fa",
+        "text": "[[BillSeitz]] wonders whether Forking a page could count as Liking it?"
+      },
+      "date": 1419187352347
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d51692e952759d37",
+        "text": "\nI can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "id": "d51692e952759d37",
+      "type": "add",
+      "after": "1df7b58ed89791fa",
+      "date": 1419187352353
+    },
+    {
+      "type": "edit",
+      "id": "d51692e952759d37",
+      "item": {
+        "type": "paragraph",
+        "id": "d51692e952759d37",
+        "text": "I can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version.\n"
+      },
+      "date": 1419187353811
+    },
+    {
+      "type": "fork",
+      "site": "billseitz.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": ""
+      },
+      "id": "7eca239a80c55ed5",
+      "type": "add",
+      "after": "1df7b58ed89791fa",
+      "date": 1419208837471
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's early videos about "
+      },
+      "date": 1419208872606
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos "
+      },
+      "date": 1419208905166
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it: "
+      },
+      "date": 1419208949151
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it: \"instead of hitting a Like button, she decides to fork it to her site. "
+      },
+      "date": 1419208992152
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it: \"instead of hitting a Like button, she decides to fork it to her site. The way we like things is we make copies of them...\""
+      },
+      "date": 1419209019420
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it there : \"instead of hitting a Like button, she decides to fork it to her site. The way we like things is we make copies of them...\""
+      },
+      "date": 1419209065368
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hey Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it there (at 2:55)\"instead of hitting a Like button, Maria decides to fork it to her site. The way we like things is we make copies of them...\". This was not intuitive for me, but is making more sense as I traverse our pages (knowledge networks)."
+      },
+      "date": 1419209160538
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hi Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it there (at 2:55)\"instead of hitting a Like button, Maria decides to fork it to her site. The way we like things is we make copies of them...\". This was not intuitive for me, but is making more sense as I traverse our pages (knowledge networks)."
+      },
+      "date": 1419209178957
+    },
+    {
+      "type": "edit",
+      "id": "7eca239a80c55ed5",
+      "item": {
+        "type": "paragraph",
+        "id": "7eca239a80c55ed5",
+        "text": "[[Catherine Cronin]] Hi Bill -- I recently re-viewed one of Mike's videos [https://www.youtube.com/watch?v=2Gi9SRsRrE4 Federated Wiki: Information Lifecycle] and that's exactly how he describes it there (at 2:55) \"instead of hitting a Like button, Maria decides to fork it to her site. The way we like things is we make copies of them...\". This was not intuitive for me, but is making more sense as I traverse our pages (knowledge networks)."
+      },
+      "date": 1419209192809
+    },
+    {
+      "type": "edit",
+      "id": "d51692e952759d37",
+      "item": {
+        "type": "paragraph",
+        "id": "d51692e952759d37",
+        "text": "\n"
+      },
+      "date": 1419209382661
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "be5454ecb64fce67",
+        "text": ""
+      },
+      "id": "be5454ecb64fce67",
+      "type": "add",
+      "after": "9805d1764939df98",
+      "date": 1419209384903
+    },
+    {
+      "type": "edit",
+      "id": "be5454ecb64fce67",
+      "item": {
+        "type": "paragraph",
+        "id": "be5454ecb64fce67",
+        "text": "I can picture using the App to catch up on what’s happening in my FedWiki community while I’m waiting in line, and also using it side-by-side with the web version."
+      },
+      "date": 1419209393301
+    },
+    {
+      "type": "fork",
+      "site": "catherine.uk.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae10f0afa8c291b5"
+      },
+      "id": "ae10f0afa8c291b5",
+      "type": "add",
+      "after": "5623b4d9f6b78b3e",
+      "date": 1419211572239
+    },
+    {
+      "type": "edit",
+      "id": "ae10f0afa8c291b5",
+      "item": {
+        "type": "paragraph",
+        "id": "ae10f0afa8c291b5",
+        "text": "[[Jeff Rimland]]: Bill and Catherine, I agree that there is some overlap between liking and forking, but I still feel that there’s a subtle distinction between the two.  I may Like someone’s comment because it’s witty or well written, even if it doesn’t have significance for my research or anything that I’m thinking about.  The Like is for them.  Forking, at least the way I look at it, is for me.  I fork someone’s writing because I have something to add to it, or I want to link it to past/future posts, or I want to save it to read again later.  The Like is probably unnecessary from a practical standpoint, but I feel like the gamification that it provides could make the experience “stickier” for students and new users while they slog up the initial learning curve."
+      },
+      "date": 1419211677258
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "876be06d02f0e5c6",
+        "text": ""
+      },
+      "id": "876be06d02f0e5c6",
+      "type": "add",
+      "after": "ae10f0afa8c291b5",
+      "date": 1419211677292
+    },
+    {
+      "type": "move",
+      "order": [
+        "b5e4b81f0ac41a54",
+        "9e48f0d22ab81090",
+        "2dfce99dc6016689",
+        "ea4259bf6edde2cf",
+        "9805d1764939df98",
+        "be5454ecb64fce67",
+        "1df7b58ed89791fa",
+        "7eca239a80c55ed5",
+        "ae10f0afa8c291b5",
+        "d51692e952759d37",
+        "5623b4d9f6b78b3e",
+        "876be06d02f0e5c6"
+      ],
+      "id": "ae10f0afa8c291b5",
+      "date": 1419256867261
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.jeffist.com",
+      "date": 1419283852539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b58b2a537e451cf"
+      },
+      "id": "6b58b2a537e451cf",
+      "type": "add",
+      "after": "876be06d02f0e5c6",
+      "date": 1419283877829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b9b55db1fddc72eb"
+      },
+      "id": "b9b55db1fddc72eb",
+      "type": "add",
+      "after": "6b58b2a537e451cf",
+      "date": 1419283911694
+    },
+    {
+      "type": "edit",
+      "id": "6b58b2a537e451cf",
+      "item": {
+        "type": "markdown",
+        "id": "6b58b2a537e451cf",
+        "text": "Above para continues conversation in a new page [[Likes are for you, Forks are for me]]"
+      },
+      "date": 1419283913055
+    },
+    {
+      "type": "fork",
+      "site": "maha.uk.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54f2948c486c15e1"
+      },
+      "id": "54f2948c486c15e1",
+      "type": "add",
+      "after": "b9b55db1fddc72eb",
+      "date": 1419329826550
+    }
+  ]
+}

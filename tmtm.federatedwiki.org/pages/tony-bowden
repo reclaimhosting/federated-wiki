@@ -10,13 +10,8 @@
     },
     {
       "type": "paragraph",
-      "id": "5472984694c22bcd",
-      "text": "[https://twitter.com/tmtm @tmtm]"
-    },
-    {
-      "type": "paragraph",
       "id": "9654182012a65808",
-      "text": "Long time wiki user and abuser:"
+      "text": "Long time wiki user and abuser."
     },
     {
       "type": "paragraph",
@@ -37,6 +32,11 @@
       "type": "paragraph",
       "id": "34a46afb7afce93a",
       "text": "[[Spreadsheet Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5472984694c22bcd",
+      "text": "[https://twitter.com/tmtm @tmtm]"
     }
   ],
   "journal": [
@@ -308,6 +308,44 @@
         "text": "[https://twitter.com/tmtm @tmtm]"
       },
       "date": 1416045275833
+    },
+    {
+      "type": "move",
+      "order": [
+        "89467b84f1ad655c",
+        "9654182012a65808",
+        "9d564c71bb307c92",
+        "99cc7548f962b5c5",
+        "351d4404c52d007c",
+        "5472984694c22bcd",
+        "34a46afb7afce93a"
+      ],
+      "id": "5472984694c22bcd",
+      "date": 1419329558566
+    },
+    {
+      "type": "move",
+      "order": [
+        "89467b84f1ad655c",
+        "9654182012a65808",
+        "9d564c71bb307c92",
+        "99cc7548f962b5c5",
+        "351d4404c52d007c",
+        "34a46afb7afce93a",
+        "5472984694c22bcd"
+      ],
+      "id": "34a46afb7afce93a",
+      "date": 1419329562147
+    },
+    {
+      "type": "edit",
+      "id": "9654182012a65808",
+      "item": {
+        "type": "paragraph",
+        "id": "9654182012a65808",
+        "text": "Long time wiki user and abuser."
+      },
+      "date": 1419329567231
     }
   ]
 }

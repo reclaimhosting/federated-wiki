@@ -1,0 +1,55 @@
+{
+  "title": "Changing the Background",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a4453fe5ebc849e5",
+      "text": "Quick customisation to change the background:"
+    },
+    {
+      "type": "markdown",
+      "id": "b0f8cff35af3d889",
+      "text": "<ol>\n<li>On your site double click the Style area above the changes area.</li> \n<li>You can change the image information in the *aside* area - Image Credit, by and licence.</li>\n<li>Scroll down further to the CSS area. and find the Background info area.</li>\n<li>For a Tiling background just change the URL info in the background-image:  url('https://YOURFILESNAMEGOESHERE.jpg'); tag</li>\n<li>If you want a single non tiled image change the background-image tag to background: url('https://YOURFILESNAMEGOESHERE.jpg') no-repeat center center fixed; scroll down a little further and delete   background-repeat: repeat; \n</li>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Changing the Background",
+        "story": []
+      },
+      "date": 1419314886509
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a4453fe5ebc849e5",
+        "text": "Quick customisation to change the background:"
+      },
+      "id": "a4453fe5ebc849e5",
+      "date": 1419314892432
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "b0f8cff35af3d889",
+        "text": "<ol>\n<li>On your site double click the Style area above the changes area.</li> \n<li>You can change the image information in the *aside* area - Image Credit, by and licence.</li>\n<li>Scroll down further to the CSS area. and find the Background info area.</li>\n<li>For a Tiling background just change the URL info in the background-image:  url('https://YOURFILESNAMEGOESHERE.jpg'); tag</li>\n<li>If you want a single non tiled image change the background-image tag to background: url('https://YOURFILESNAMEGOESHERE.jpg') no-repeat center center fixed; scroll down a little further and delete   background-repeat: repeat; \n</li>"
+      },
+      "after": "a4453fe5ebc849e5",
+      "id": "b0f8cff35af3d889",
+      "date": 1419314895496
+    },
+    {
+      "type": "fork",
+      "site": "tim.au.fedwikihappening.net",
+      "date": 1419317646923
+    },
+    {
+      "type": "fork",
+      "date": 1419318508349
+    }
+  ]
+}

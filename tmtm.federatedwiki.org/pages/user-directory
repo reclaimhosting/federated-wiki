@@ -96,6 +96,20 @@
       "site": "hhol.mike.fed.wiki.org",
       "title": "The Hidden History of Online Learning",
       "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
+    },
+    {
+      "type": "reference",
+      "id": "fcb6fb4320ed3a0e",
+      "site": "forage.ward.fed.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
+    },
+    {
+      "type": "reference",
+      "id": "2ee168861ffeed18",
+      "site": "jon.sf.fedwikihappening.net",
+      "title": "Jon Udell",
+      "text": "\n"
     }
   ],
   "journal": [
@@ -566,6 +580,60 @@
         "text": "This collection of articles details some of the predecessors to today's online education initiatives. "
       },
       "date": 1417552726871
+    },
+    {
+      "type": "fork",
+      "site": "tmtm.federatedwiki.org",
+      "date": 1418628981999
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fcb6fb4320ed3a0e"
+      },
+      "id": "fcb6fb4320ed3a0e",
+      "type": "add",
+      "after": "7cce05602b47a046",
+      "site": "tmtm.federatedwiki.org",
+      "date": 1418628981997
+    },
+    {
+      "type": "edit",
+      "id": "fcb6fb4320ed3a0e",
+      "item": {
+        "type": "reference",
+        "id": "fcb6fb4320ed3a0e",
+        "site": "forage.ward.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
+      },
+      "date": 1418628992654
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ee168861ffeed18"
+      },
+      "id": "2ee168861ffeed18",
+      "type": "add",
+      "after": "fcb6fb4320ed3a0e",
+      "date": 1419052003758
+    },
+    {
+      "type": "edit",
+      "id": "2ee168861ffeed18",
+      "item": {
+        "type": "reference",
+        "id": "2ee168861ffeed18",
+        "site": "jon.sf.fedwikihappening.net",
+        "title": "Jon Udell",
+        "text": "\n"
+      },
+      "date": 1419052006606
+    },
+    {
+      "type": "fork",
+      "date": 1419318501554
     }
   ]
 }

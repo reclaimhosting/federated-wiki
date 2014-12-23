@@ -1,0 +1,513 @@
+{
+  "title": "Before the Breakthrough Moment",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "82c609bfd2090fb5",
+      "text": "Some groping precedes each breakthrough. Programmers who pair together support each other when the way forward is anything but obvious."
+    },
+    {
+      "type": "pagefold",
+      "id": "f1d7241b8c775a87",
+      "text": "scenario"
+    },
+    {
+      "type": "paragraph",
+      "id": "b581be46a2080302",
+      "text": "One admits, I have no idea why that's happening."
+    },
+    {
+      "type": "paragraph",
+      "id": "8cb19c83f0b88274",
+      "text": "Another confirms, Me neither."
+    },
+    {
+      "type": "paragraph",
+      "id": "ca17c91d56870f37",
+      "text": "A sense of relief washes over the team as they find new energy to continue problem solving."
+    },
+    {
+      "type": "pagefold",
+      "id": "5c68a233ed2ea3d8",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "3bba9f72bb9864b7",
+      "text": "Programming involves long sequences of small discoveries."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a04825d6d1c7b29",
+      "text": "Aside: A quirk of the Smalltalk-80 system was that it could lose a morning's work. Damn. How frustrating. But I was always surprised how quickly the work could be redone with the discoveries still fresh in my mind. This confirmed to me that most time programming is spent in the uncomfortable state of not knowing what is going on."
+    },
+    {
+      "type": "paragraph",
+      "id": "190cebfef71bee81",
+      "text": "Unknowing isn't fun."
+    },
+    {
+      "type": "paragraph",
+      "id": "af34b0dee4057eed",
+      "text": "Prolonged unknowing fills one with doubt."
+    },
+    {
+      "type": "paragraph",
+      "id": "cb982c045248eb52",
+      "text": "The computer responds to input so quickly, but it says, no, that doesn't work either. "
+    },
+    {
+      "type": "paragraph",
+      "id": "f021fde59ccebdc6",
+      "text": "We were once advised, don't start programming until all these questions have been worked out. That didn't work."
+    },
+    {
+      "type": "paragraph",
+      "id": "9ce4640f7ec4010f",
+      "text": "Aside: Smalltalk-80 was the first truly excellent visually interactive work environments. Two people could program together because they could both clearly see what was happening. Within Smalltalk we developed the practice of pair-programming."
+    },
+    {
+      "type": "paragraph",
+      "id": "23b339fdcb152ccc",
+      "text": "We now suggest developers jump into programming just to learn what they do and don't know. But do so together and support each other through the struggle before each breakthrough moment."
+    },
+    {
+      "type": "factory",
+      "id": "63842d58de085ad1"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Before the Breakthrough Moment",
+        "story": []
+      },
+      "date": 1419172433700
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82c609bfd2090fb5"
+      },
+      "id": "82c609bfd2090fb5",
+      "type": "add",
+      "date": 1419172435829
+    },
+    {
+      "type": "edit",
+      "id": "82c609bfd2090fb5",
+      "item": {
+        "type": "paragraph",
+        "id": "82c609bfd2090fb5",
+        "text": "Some groping precedes "
+      },
+      "date": 1419172640919
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b581be46a2080302",
+        "text": ""
+      },
+      "id": "b581be46a2080302",
+      "type": "add",
+      "after": "82c609bfd2090fb5",
+      "date": 1419172762868
+    },
+    {
+      "type": "edit",
+      "id": "82c609bfd2090fb5",
+      "item": {
+        "type": "paragraph",
+        "id": "82c609bfd2090fb5",
+        "text": "Some groping precedes each breakthrough. Programmers who pair together support each other when the way forward is anything but obvious."
+      },
+      "date": 1419172762862
+    },
+    {
+      "type": "edit",
+      "id": "b581be46a2080302",
+      "item": {
+        "type": "paragraph",
+        "id": "b581be46a2080302",
+        "text": "One admits, I have no idea why it does that."
+      },
+      "date": 1419172819870
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8cb19c83f0b88274",
+        "text": ""
+      },
+      "id": "8cb19c83f0b88274",
+      "type": "add",
+      "after": "b581be46a2080302",
+      "date": 1419172819877
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ca17c91d56870f37",
+        "text": ""
+      },
+      "id": "ca17c91d56870f37",
+      "type": "add",
+      "after": "8cb19c83f0b88274",
+      "date": 1419172840213
+    },
+    {
+      "type": "edit",
+      "id": "8cb19c83f0b88274",
+      "item": {
+        "type": "paragraph",
+        "id": "8cb19c83f0b88274",
+        "text": "Another confirms, Me neither."
+      },
+      "date": 1419172840208
+    },
+    {
+      "type": "edit",
+      "id": "ca17c91d56870f37",
+      "item": {
+        "type": "paragraph",
+        "id": "ca17c91d56870f37",
+        "text": "A sense of relief washes over the team as they find new energy to continue problem solving."
+      },
+      "date": 1419172894074
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bba9f72bb9864b7"
+      },
+      "id": "3bba9f72bb9864b7",
+      "type": "add",
+      "after": "ca17c91d56870f37",
+      "date": 1419172907316
+    },
+    {
+      "type": "edit",
+      "id": "3bba9f72bb9864b7",
+      "item": {
+        "type": "paragraph",
+        "id": "3bba9f72bb9864b7",
+        "text": "Programming involves long sequences of small discoveries. A quirk of the Smalltalk-80 system was that it could lose a morning's work. Damn. How frustrating. But I was always surprised how quickly the work could be redone with the discoveries still fresh in my mind. This confirmed to me that most time programming is spent in the uncomfortable state of not knowing what is going on."
+      },
+      "date": 1419173262682
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9ce4640f7ec4010f",
+        "text": ""
+      },
+      "id": "9ce4640f7ec4010f",
+      "type": "add",
+      "after": "3bba9f72bb9864b7",
+      "date": 1419173270248
+    },
+    {
+      "type": "edit",
+      "id": "9ce4640f7ec4010f",
+      "item": {
+        "type": "paragraph",
+        "id": "9ce4640f7ec4010f",
+        "text": "Smalltalk-80 was also one of the first truly excellent visually interactive work environments. Two people could program together because they could both clearly see what was happening. "
+      },
+      "date": 1419173409177
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1d7241b8c775a87"
+      },
+      "id": "f1d7241b8c775a87",
+      "type": "add",
+      "after": "9ce4640f7ec4010f",
+      "date": 1419173412039
+    },
+    {
+      "type": "edit",
+      "id": "f1d7241b8c775a87",
+      "item": {
+        "type": "pagefold",
+        "id": "f1d7241b8c775a87",
+        "text": "scenario"
+      },
+      "date": 1419173419816
+    },
+    {
+      "type": "move",
+      "order": [
+        "82c609bfd2090fb5",
+        "f1d7241b8c775a87",
+        "b581be46a2080302",
+        "8cb19c83f0b88274",
+        "ca17c91d56870f37",
+        "3bba9f72bb9864b7",
+        "9ce4640f7ec4010f"
+      ],
+      "id": "f1d7241b8c775a87",
+      "date": 1419173425056
+    },
+    {
+      "type": "edit",
+      "id": "b581be46a2080302",
+      "item": {
+        "type": "paragraph",
+        "id": "b581be46a2080302",
+        "text": "One admits, I have no idea why that's happening."
+      },
+      "date": 1419173454710
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c68a233ed2ea3d8"
+      },
+      "id": "5c68a233ed2ea3d8",
+      "type": "add",
+      "after": "9ce4640f7ec4010f",
+      "date": 1419173459304
+    },
+    {
+      "type": "edit",
+      "id": "5c68a233ed2ea3d8",
+      "item": {
+        "type": "pagefold",
+        "id": "5c68a233ed2ea3d8",
+        "text": "."
+      },
+      "date": 1419173463975
+    },
+    {
+      "type": "move",
+      "order": [
+        "82c609bfd2090fb5",
+        "f1d7241b8c775a87",
+        "b581be46a2080302",
+        "8cb19c83f0b88274",
+        "ca17c91d56870f37",
+        "5c68a233ed2ea3d8",
+        "3bba9f72bb9864b7",
+        "9ce4640f7ec4010f"
+      ],
+      "id": "5c68a233ed2ea3d8",
+      "date": 1419173468061
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "190cebfef71bee81",
+        "text": ""
+      },
+      "id": "190cebfef71bee81",
+      "type": "add",
+      "after": "3bba9f72bb9864b7",
+      "date": 1419173502643
+    },
+    {
+      "type": "edit",
+      "id": "190cebfef71bee81",
+      "item": {
+        "type": "paragraph",
+        "id": "190cebfef71bee81",
+        "text": "Unknowing isn't fun."
+      },
+      "date": 1419173601843
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "af34b0dee4057eed",
+        "text": ""
+      },
+      "id": "af34b0dee4057eed",
+      "type": "add",
+      "after": "190cebfef71bee81",
+      "date": 1419173601850
+    },
+    {
+      "type": "edit",
+      "id": "af34b0dee4057eed",
+      "item": {
+        "type": "paragraph",
+        "id": "af34b0dee4057eed",
+        "text": "Prolonged unknowing fills one with doubt."
+      },
+      "date": 1419173631917
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cb982c045248eb52",
+        "text": ""
+      },
+      "id": "cb982c045248eb52",
+      "type": "add",
+      "after": "af34b0dee4057eed",
+      "date": 1419173631922
+    },
+    {
+      "type": "edit",
+      "id": "cb982c045248eb52",
+      "item": {
+        "type": "paragraph",
+        "id": "cb982c045248eb52",
+        "text": "The computer responds to input so quickly, but it says, no, that doesn't work either. "
+      },
+      "date": 1419173733526
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f021fde59ccebdc6",
+        "text": ""
+      },
+      "id": "f021fde59ccebdc6",
+      "type": "add",
+      "after": "cb982c045248eb52",
+      "date": 1419173744010
+    },
+    {
+      "type": "edit",
+      "id": "f021fde59ccebdc6",
+      "item": {
+        "type": "paragraph",
+        "id": "f021fde59ccebdc6",
+        "text": "We were once advised, don't start programming until all these questions have been worked out."
+      },
+      "date": 1419173826232
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "efe07c20e92db793",
+        "text": ""
+      },
+      "id": "efe07c20e92db793",
+      "type": "add",
+      "after": "f021fde59ccebdc6",
+      "date": 1419173841418
+    },
+    {
+      "type": "remove",
+      "id": "efe07c20e92db793",
+      "date": 1419173848579
+    },
+    {
+      "type": "edit",
+      "id": "f021fde59ccebdc6",
+      "item": {
+        "type": "paragraph",
+        "id": "f021fde59ccebdc6",
+        "text": "We were once advised, don't start programming until all these questions have been worked out. Don't go through the confusion."
+      },
+      "date": 1419173877979
+    },
+    {
+      "type": "edit",
+      "id": "f021fde59ccebdc6",
+      "item": {
+        "type": "paragraph",
+        "id": "f021fde59ccebdc6",
+        "text": "We were once advised, don't start programming until all these questions have been worked out. That didn't work."
+      },
+      "date": 1419173908136
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1bad36701c15bd3a",
+        "text": ""
+      },
+      "id": "1bad36701c15bd3a",
+      "type": "add",
+      "after": "f021fde59ccebdc6",
+      "date": 1419173914963
+    },
+    {
+      "type": "remove",
+      "id": "1bad36701c15bd3a",
+      "date": 1419173983201
+    },
+    {
+      "type": "edit",
+      "id": "3bba9f72bb9864b7",
+      "item": {
+        "type": "paragraph",
+        "id": "3bba9f72bb9864b7",
+        "text": "Programming involves long sequences of small discoveries."
+      },
+      "date": 1419173992449
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a04825d6d1c7b29",
+        "text": "A quirk of the Smalltalk-80 system was that it could lose a morning's work. Damn. How frustrating. But I was always surprised how quickly the work could be redone with the discoveries still fresh in my mind. This confirmed to me that most time programming is spent in the uncomfortable state of not knowing what is going on."
+      },
+      "id": "9a04825d6d1c7b29",
+      "type": "add",
+      "after": "3bba9f72bb9864b7",
+      "date": 1419173992459
+    },
+    {
+      "type": "edit",
+      "id": "9a04825d6d1c7b29",
+      "item": {
+        "type": "paragraph",
+        "id": "9a04825d6d1c7b29",
+        "text": "Aside: A quirk of the Smalltalk-80 system was that it could lose a morning's work. Damn. How frustrating. But I was always surprised how quickly the work could be redone with the discoveries still fresh in my mind. This confirmed to me that most time programming is spent in the uncomfortable state of not knowing what is going on."
+      },
+      "date": 1419174001873
+    },
+    {
+      "type": "edit",
+      "id": "9ce4640f7ec4010f",
+      "item": {
+        "type": "paragraph",
+        "id": "9ce4640f7ec4010f",
+        "text": "Aside: Smalltalk-80 was the first truly excellent visually interactive work environments. Two people could program together because they could both clearly see what was happening. Within Smalltalk we developed the practice of pair-programming."
+      },
+      "date": 1419174106910
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23b339fdcb152ccc",
+        "text": ""
+      },
+      "id": "23b339fdcb152ccc",
+      "type": "add",
+      "after": "9ce4640f7ec4010f",
+      "date": 1419174132379
+    },
+    {
+      "type": "edit",
+      "id": "23b339fdcb152ccc",
+      "item": {
+        "type": "paragraph",
+        "id": "23b339fdcb152ccc",
+        "text": "We now suggest developers jump into programming just to learn what they do and don't know. But do so together and support each other through the struggle before each breakthrough moment."
+      },
+      "date": 1419174399351
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63842d58de085ad1"
+      },
+      "id": "63842d58de085ad1",
+      "type": "add",
+      "after": "23b339fdcb152ccc",
+      "date": 1419328561352
+    }
+  ]
+}

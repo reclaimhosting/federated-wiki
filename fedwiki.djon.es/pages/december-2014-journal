@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "b9411f1a7a0eeac9",
       "text": "[[Pattern Entrainment]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "66aec2837c721aa2",
+      "text": "[[Confusion of simulation with prediction]]"
     }
   ],
   "journal": [
@@ -153,6 +158,43 @@
       "type": "remove",
       "id": "69bc8fac597800ab",
       "date": 1419550012792
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "66aec2837c721aa2",
+        "text": ""
+      },
+      "id": "66aec2837c721aa2",
+      "type": "add",
+      "after": "b9411f1a7a0eeac9",
+      "date": 1419550893117
+    },
+    {
+      "type": "edit",
+      "id": "66aec2837c721aa2",
+      "item": {
+        "type": "paragraph",
+        "id": "66aec2837c721aa2",
+        "text": "[[Confusion of simulation with prediction]]"
+      },
+      "date": 1419550912765
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bc6966e740cd6e39",
+        "text": ""
+      },
+      "id": "bc6966e740cd6e39",
+      "type": "add",
+      "after": "66aec2837c721aa2",
+      "date": 1419550912774
+    },
+    {
+      "type": "remove",
+      "id": "bc6966e740cd6e39",
+      "date": 1419550947328
     }
   ]
 }

@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "b4370b9b7cde856a",
       "text": "[[Network Learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b9411f1a7a0eeac9",
+      "text": "[[Pattern Entrainment]]"
     }
   ],
   "journal": [
@@ -111,6 +116,43 @@
       "type": "remove",
       "id": "fd5101ac24d7bd1d",
       "date": 1419211782149
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9411f1a7a0eeac9",
+        "text": ""
+      },
+      "id": "b9411f1a7a0eeac9",
+      "type": "add",
+      "after": "b4370b9b7cde856a",
+      "date": 1419550003741
+    },
+    {
+      "type": "edit",
+      "id": "b9411f1a7a0eeac9",
+      "item": {
+        "type": "paragraph",
+        "id": "b9411f1a7a0eeac9",
+        "text": "[[Pattern Entrainment]]"
+      },
+      "date": 1419550010479
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69bc8fac597800ab",
+        "text": ""
+      },
+      "id": "69bc8fac597800ab",
+      "type": "add",
+      "after": "b9411f1a7a0eeac9",
+      "date": 1419550010486
+    },
+    {
+      "type": "remove",
+      "id": "69bc8fac597800ab",
+      "date": 1419550012792
     }
   ]
 }

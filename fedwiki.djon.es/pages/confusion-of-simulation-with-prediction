@@ -9,7 +9,17 @@
     {
       "type": "paragraph",
       "id": "e90ce737dca29476",
-      "text": "Increasingly computer modeling is being used to model and understand complex systems. For example, Boids [http://en.wikipedia.org/wiki/Boids Wikipedia article]"
+      "text": "Increasingly computer modeling is being used to model and understand complex systems. For example, Boids [http://en.wikipedia.org/wiki/Boids Wikipedia article]. This is achieved by identifying the simpler (than the entire system) collection of rules and actors that is capable of simulating the complex system."
+    },
+    {
+      "type": "paragraph",
+      "id": "23dc46e6ff5838df",
+      "text": "The ability to simulate a complex system, however, does not imply the ability to make predictions about what will happen in the actual system."
+    },
+    {
+      "type": "paragraph",
+      "id": "df5203f63c787f8b",
+      "text": "The focus of this type of modelling is on \"possibility and plausibility, not accuracy and probability\" [https://books.google.com.au/books?id=Jzc3IKAhnrUC&pg=PA57&lpg=PA57&dq=%22pattern+entrainment%22+-snowden&source=bl&ots=Hmqzxolk6u&sig=JtJduQJIZ2TbXv4BhM0EESAFk94&hl=en&sa=X&ei=zp2cVKjaOo_s8AXE_oDICw&ved=0CCIQ6AEwAQ#v=onepage&q=%22pattern%20entrainment%22%20-snowden&f=false Amazon book]"
     }
   ],
   "journal": [
@@ -116,6 +126,114 @@
         "text": "Increasingly computer modeling is being used to model and understand complex systems. For example, Boids [http://en.wikipedia.org/wiki/Boids Wikipedia article]"
       },
       "date": 1419552001369
+    },
+    {
+      "type": "edit",
+      "id": "e90ce737dca29476",
+      "item": {
+        "type": "paragraph",
+        "id": "e90ce737dca29476",
+        "text": "Increasingly computer modeling is being used to model and understand complex systems. For example, Boids [http://en.wikipedia.org/wiki/Boids Wikipedia article]. This is achieved by identifying the simpler (than the entire system) collection of rules and actors that is capable of simulating the complex system."
+      },
+      "date": 1419552169115
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23dc46e6ff5838df",
+        "text": ""
+      },
+      "id": "23dc46e6ff5838df",
+      "type": "add",
+      "after": "e90ce737dca29476",
+      "date": 1419552169136
+    },
+    {
+      "type": "edit",
+      "id": "23dc46e6ff5838df",
+      "item": {
+        "type": "paragraph",
+        "id": "23dc46e6ff5838df",
+        "text": "The ability to simulate a complex system, however, does not imply the ability to make predictions about what will happen in the actual system."
+      },
+      "date": 1419552217965
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7183760f94bb0870",
+        "text": ""
+      },
+      "id": "7183760f94bb0870",
+      "type": "add",
+      "after": "23dc46e6ff5838df",
+      "date": 1419552217972
+    },
+    {
+      "type": "remove",
+      "id": "7183760f94bb0870",
+      "date": 1419552220868
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4479a05996faa72c"
+      },
+      "id": "4479a05996faa72c",
+      "type": "add",
+      "after": "23dc46e6ff5838df",
+      "date": 1419552224696
+    },
+    {
+      "type": "remove",
+      "id": "4479a05996faa72c",
+      "date": 1419552237790
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df5203f63c787f8b"
+      },
+      "id": "df5203f63c787f8b",
+      "type": "add",
+      "after": "23dc46e6ff5838df",
+      "date": 1419552239084
+    },
+    {
+      "type": "edit",
+      "id": "df5203f63c787f8b",
+      "item": {
+        "type": "paragraph",
+        "id": "df5203f63c787f8b",
+        "text": "The focus of this type of modelling is on \"possibility and plausibility, not accuracy and probability\""
+      },
+      "date": 1419552299574
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6bab8b3fe03c104d",
+        "text": ""
+      },
+      "id": "6bab8b3fe03c104d",
+      "type": "add",
+      "after": "df5203f63c787f8b",
+      "date": 1419552299583
+    },
+    {
+      "type": "remove",
+      "id": "6bab8b3fe03c104d",
+      "date": 1419552302518
+    },
+    {
+      "type": "edit",
+      "id": "df5203f63c787f8b",
+      "item": {
+        "type": "paragraph",
+        "id": "df5203f63c787f8b",
+        "text": "The focus of this type of modelling is on \"possibility and plausibility, not accuracy and probability\" [https://books.google.com.au/books?id=Jzc3IKAhnrUC&pg=PA57&lpg=PA57&dq=%22pattern+entrainment%22+-snowden&source=bl&ots=Hmqzxolk6u&sig=JtJduQJIZ2TbXv4BhM0EESAFk94&hl=en&sa=X&ei=zp2cVKjaOo_s8AXE_oDICw&ved=0CCIQ6AEwAQ#v=onepage&q=%22pattern%20entrainment%22%20-snowden&f=false Amazon book]"
+      },
+      "date": 1419552313320
     }
   ]
 }

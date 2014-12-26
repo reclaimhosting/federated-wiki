@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "5b88c0b5cf3574b5",
-      "text": "[http://cognitive-edge.com/blog/entry/6402/anticipatory-awareness blog page] "
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "a57136da1c1204ec",
+      "text": "Rather than being objective decision makers that gather all available knowledge and make informed decisions, human beings are pattern-matching intelligences. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9a3c9c0ce8ad2525",
+      "text": "Patterns that arise, develop, and increasingly enshrined from personal experience. Leading to the problem of how we see, understand, and act within the world is limited"
     },
     {
       "type": "html",
@@ -84,6 +94,89 @@
         "text": "[https://books.google.com.au/books?id=Jzc3IKAhnrUC&pg=PA57&lpg=PA57&dq=%22pattern+entrainment%22+-snowden&source=bl&ots=Hmqzxolk6u&sig=JtJduQJIZ2TbXv4BhM0EESAFk94&hl=en&sa=X&ei=zp2cVKjaOo_s8AXE_oDICw&ved=0CCIQ6AEwAQ#v=onepage&q=%22pattern%20entrainment%22%20-snowden&f=false Google book page]\n<blockquote>If we match data against known <em>patterns</em> (models) we have seen before, then our models are predictive. But if we are dealing with emerging patterns, then the patterns we know can actually blind us and prevent us from \"seeing\" the new patterns. We also have a strong tendency to attribute \"cause\" where is may not exist: a variant of the fundamental attribution error. This phenomenon is rife throughout the great surprise in history. We refer to this phenomenon as <em>pattern entrainment</em>.....To avoid pattern entrainment, we need to \"<em>anticipate</em>\" new patterns to enable us to \"see\" those patterns as they emerge and to understand the key changes of the situation which will almost certainly also require a way to disrupt the pattern entrainment of intelligence analysts.</blockquote>"
       },
       "date": 1419550806140
+    },
+    {
+      "type": "edit",
+      "id": "5b88c0b5cf3574b5",
+      "item": {
+        "type": "paragraph",
+        "id": "5b88c0b5cf3574b5",
+        "text": " "
+      },
+      "date": 1419552696939
+    },
+    {
+      "type": "remove",
+      "id": "84338545fe0b563c",
+      "date": 1419552696949
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "84338545fe0b563c",
+        "text": ""
+      },
+      "id": "84338545fe0b563c",
+      "type": "add",
+      "after": "5b88c0b5cf3574b5",
+      "date": 1419552696953
+    },
+    {
+      "type": "remove",
+      "id": "18900f7094b755d0",
+      "date": 1419552728907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a57136da1c1204ec"
+      },
+      "id": "a57136da1c1204ec",
+      "type": "add",
+      "after": "077e27a59b8d0575",
+      "date": 1419552745212
+    },
+    {
+      "type": "edit",
+      "id": "a57136da1c1204ec",
+      "item": {
+        "type": "paragraph",
+        "id": "a57136da1c1204ec",
+        "text": "Rather than being objective decision makers that gather all available knowledge and make informed decisions, human beings are pattern-matching intelligences. Patterns that arise, develop, and increasingly enshrined from personal experience. Leading to the problem of how we see, understand, and act within the world is limited"
+      },
+      "date": 1419552929273
+    },
+    {
+      "type": "move",
+      "order": [
+        "5b88c0b5cf3574b5",
+        "a57136da1c1204ec",
+        "7aeb054ec92331cd",
+        "077e27a59b8d0575"
+      ],
+      "id": "a57136da1c1204ec",
+      "date": 1419553092420
+    },
+    {
+      "type": "edit",
+      "id": "a57136da1c1204ec",
+      "item": {
+        "type": "paragraph",
+        "id": "a57136da1c1204ec",
+        "text": "Rather than being objective decision makers that gather all available knowledge and make informed decisions, human beings are pattern-matching intelligences. "
+      },
+      "date": 1419553113030
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a3c9c0ce8ad2525",
+        "text": "Patterns that arise, develop, and increasingly enshrined from personal experience. Leading to the problem of how we see, understand, and act within the world is limited"
+      },
+      "id": "9a3c9c0ce8ad2525",
+      "type": "add",
+      "after": "a57136da1c1204ec",
+      "date": 1419553113050
     }
   ]
 }

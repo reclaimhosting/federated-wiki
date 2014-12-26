@@ -1,0 +1,288 @@
+{
+  "title": "Incremental Caging",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "90edca7a13472977",
+      "text": "In [[The Human Reprsentation of Thought]] Bret Victor points out technological incrementalism's problem -- it finds certain \"veins of human capability\" and drills further and further into those, leaving the \"rest of the landscape untouched\":"
+    },
+    {
+      "type": "pagefold",
+      "id": "107af16d881b4a9d",
+      "text": "Quoting Bret Victor"
+    },
+    {
+      "type": "paragraph",
+      "id": "84ee724e47ef963b",
+      "text": "\"This technology he is talking about is going to be here before we know it. It's up to us to prepare for that. We have the choice to say let's start sketching and envisioning and prototyping, designing something that we understand to be humane so that when the technology is ready we're like 'We know what we want to build with this...or you can do the incremental thing and...let technology follow it's own course. And I can guarantee you that is not going to be humane. That result is just going to lead you into a tighter and tighter cage, because when technology takes it's own path, it finds certain veins of human capability and drills further in those and leaves the rest of the capability landscape untouched.\""
+    },
+    {
+      "type": "pagefold",
+      "id": "35579fa77a54c9a2",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "d56f94263de5ba0f",
+      "text": "Bret is talking about drilling further into the \"pictures under glass\" model he despises. But the same is true with  our mental models. We've pushed further and further into our conception of the web as a personal event stream since the early 00s. Our conception of the web gets smaller and smaller as each product comes out. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3345e9ca11e1ba66",
+      "text": "Everything must work like Twitter, or Instagram, or Reddit, or support the things these do well. Alternate visions have been slowly crowded out. "
+    },
+    {
+      "type": "paragraph",
+      "id": "833c4a9f1f6a482c",
+      "text": "Entreprenuers claim they are just providing consumers what they want, but the result is not humane. It is up to us to think bigger thoughts, that's actually our job. "
+    },
+    {
+      "type": "paragraph",
+      "id": "9e4499900376bdd6",
+      "text": "See also [[Paper Thoughts]], [[Pattern Entrainment]], [[Psychological Dissonance]], and [[Adaptive Stretch]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Incremental Caging",
+        "story": []
+      },
+      "date": 1419290153825
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90edca7a13472977"
+      },
+      "id": "90edca7a13472977",
+      "type": "add",
+      "date": 1419290155547
+    },
+    {
+      "type": "edit",
+      "id": "90edca7a13472977",
+      "item": {
+        "type": "paragraph",
+        "id": "90edca7a13472977",
+        "text": "Bret Victor points out technological incrementalism's problem -- it finds certain \"veins of human capability\" and drills further and further into those, leaving the \"rest of the landscape untouched\":"
+      },
+      "date": 1419290258339
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "54e33c21ec94a47e",
+        "text": ""
+      },
+      "id": "54e33c21ec94a47e",
+      "type": "add",
+      "after": "90edca7a13472977",
+      "date": 1419290258344
+    },
+    {
+      "type": "remove",
+      "id": "54e33c21ec94a47e",
+      "date": 1419290259800
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84ee724e47ef963b"
+      },
+      "id": "84ee724e47ef963b",
+      "type": "add",
+      "after": "90edca7a13472977",
+      "date": 1419290262151
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35579fa77a54c9a2"
+      },
+      "id": "35579fa77a54c9a2",
+      "type": "add",
+      "after": "84ee724e47ef963b",
+      "date": 1419290274889
+    },
+    {
+      "type": "edit",
+      "id": "84ee724e47ef963b",
+      "item": {
+        "type": "paragraph",
+        "id": "84ee724e47ef963b",
+        "text": "\"This technology he is talking about is going to be here before we know it. It's up to us to prepare for that. We have the choice to say let's start sketching and envisioning and prototyping, designing something that we understand to be humane so that when the technology is ready we're like 'We know what we want to build with this...or you can do the incremental thing and...let technology follow it's own course. And I can guarantee you that is not going to be humane. That result is just going to lead you into a tighter and tighter cage, because when technology takes it's own path, it finds certain veins of human capability and drills further in those and leaves the rest of the capability landscape untouched.\""
+      },
+      "date": 1419290276187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "107af16d881b4a9d"
+      },
+      "id": "107af16d881b4a9d",
+      "type": "add",
+      "after": "35579fa77a54c9a2",
+      "date": 1419290279718
+    },
+    {
+      "type": "edit",
+      "id": "35579fa77a54c9a2",
+      "item": {
+        "type": "pagefold",
+        "id": "35579fa77a54c9a2",
+        "text": "."
+      },
+      "date": 1419290283058
+    },
+    {
+      "type": "edit",
+      "id": "107af16d881b4a9d",
+      "item": {
+        "type": "pagefold",
+        "id": "107af16d881b4a9d",
+        "text": "Quoting Bret Victor"
+      },
+      "date": 1419290293552
+    },
+    {
+      "type": "move",
+      "order": [
+        "90edca7a13472977",
+        "107af16d881b4a9d",
+        "84ee724e47ef963b",
+        "35579fa77a54c9a2"
+      ],
+      "id": "107af16d881b4a9d",
+      "date": 1419290296574
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d56f94263de5ba0f"
+      },
+      "id": "d56f94263de5ba0f",
+      "type": "add",
+      "after": "35579fa77a54c9a2",
+      "date": 1419290308908
+    },
+    {
+      "type": "edit",
+      "id": "d56f94263de5ba0f",
+      "item": {
+        "type": "paragraph",
+        "id": "d56f94263de5ba0f",
+        "text": "Bret is talking about drilling further into the "
+      },
+      "date": 1419290363670
+    },
+    {
+      "type": "edit",
+      "id": "90edca7a13472977",
+      "item": {
+        "type": "paragraph",
+        "id": "90edca7a13472977",
+        "text": "In [[The Human Reprsentation of Thought]]] Bret Victor points out technological incrementalism's problem -- it finds certain \"veins of human capability\" and drills further and further into those, leaving the \"rest of the landscape untouched\":"
+      },
+      "date": 1419290393556
+    },
+    {
+      "type": "edit",
+      "id": "d56f94263de5ba0f",
+      "item": {
+        "type": "paragraph",
+        "id": "d56f94263de5ba0f",
+        "text": "Bret is talking about drilling further into the \"pictures under glass\" model he despises. But the same is true with  our mental models. We've pushed further and further into our conception of the web as a personal event stream since the early 00s. Our conception of the web gets smaller and smaller as each product comes out. "
+      },
+      "date": 1419290496771
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3345e9ca11e1ba66",
+        "text": ""
+      },
+      "id": "3345e9ca11e1ba66",
+      "type": "add",
+      "after": "d56f94263de5ba0f",
+      "date": 1419290496778
+    },
+    {
+      "type": "edit",
+      "id": "3345e9ca11e1ba66",
+      "item": {
+        "type": "paragraph",
+        "id": "3345e9ca11e1ba66",
+        "text": "Everything must work like Twitter, or Instagram, or Reddit, or support the things these do well. Alternate visions have been slowly crowded out. "
+      },
+      "date": 1419290561328
+    },
+    {
+      "type": "edit",
+      "id": "90edca7a13472977",
+      "item": {
+        "type": "paragraph",
+        "id": "90edca7a13472977",
+        "text": "In [[The Human Reprsentation of Thought]] Bret Victor points out technological incrementalism's problem -- it finds certain \"veins of human capability\" and drills further and further into those, leaving the \"rest of the landscape untouched\":"
+      },
+      "date": 1419290577285
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e4499900376bdd6"
+      },
+      "id": "9e4499900376bdd6",
+      "type": "add",
+      "after": "3345e9ca11e1ba66",
+      "date": 1419290622952
+    },
+    {
+      "type": "edit",
+      "id": "9e4499900376bdd6",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4499900376bdd6",
+        "text": "See also [[Paper Thoughts]]."
+      },
+      "date": 1419290635867
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "833c4a9f1f6a482c",
+        "text": ""
+      },
+      "id": "833c4a9f1f6a482c",
+      "type": "add",
+      "after": "3345e9ca11e1ba66",
+      "date": 1419290646905
+    },
+    {
+      "type": "edit",
+      "id": "833c4a9f1f6a482c",
+      "item": {
+        "type": "paragraph",
+        "id": "833c4a9f1f6a482c",
+        "text": "Entreprenuers claim they are just providing consumers what they want, but the result is not humane. It is up to us to think bigger thoughts, that's actually our job. "
+      },
+      "date": 1419290701371
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1419555607368
+    },
+    {
+      "type": "edit",
+      "id": "9e4499900376bdd6",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4499900376bdd6",
+        "text": "See also [[Paper Thoughts]], [[Pattern Entrainment]], [[Psychological Dissonance]], and [[Adaptive Stretch]]"
+      },
+      "date": 1419555644994
+    }
+  ]
+}

@@ -14,17 +14,22 @@
     {
       "type": "paragraph",
       "id": "f1582e4cccebbcf6",
-      "text": "How we see and act within the world is constrained by our patterns."
+      "text": "How we see and act within the world is constrained by our patterns. It is why those with expertise/significant experience with a particular subject/way of working find it hard to make the transition when the subject changes. The changes don't make sense."
     },
     {
       "type": "paragraph",
       "id": "534eb5b73fc9cc9d",
-      "text": "Echoes of this can be seen in the [http://en.wikipedia.org/wiki/Law_of_the_instrument Law of Instrument (Wikipedia)]"
+      "text": "Echoes of this can be seen in the [http://en.wikipedia.org/wiki/Law_of_the_instrument Law of Instrument (Wikipedia)] and in Tyack and Cuban's (1995) idea of the \"grammar of school\" that captures the existing patterns of formal schooling. Patterns which lead to any different approach that doesn't fit with this grammar being seen as an ungrammatical utterance and not making sense (Cavallo, 2004). Papert (1995) suggests that this pattern entrainment also leads to the situation where any attempt to transform schooling is seen as ungrammatical and tends to be transformed so that it fits the closest utterance that fits with the grammar of school (the existing patterns). "
     },
     {
       "type": "paragraph",
-      "id": "f0a07c474dc3f511",
-      "text": "It is why those with expertise/significant experience with a particular subject/way of working find it hard to make the transition when the subject changes."
+      "id": "7dbdc16da7988396",
+      "text": "Also connects to the concept of [http://en.wikipedia.org/wiki/Schema_%28psychology%29 schema (Wikipedia)] from psychology."
+    },
+    {
+      "type": "html",
+      "id": "13f056e310ee4d03",
+      "text": "<h3>References</h3>\n\n<p>Papert, S. (1995). Why School Reform is Impossible. The Journal of the Learning Sciences, 6(4), 417–427. Retrieved from http://www.papert.org/articles/school_reform.html</p>\n<p>Tyack, D., & Cuban, L. (1995). Tinkering towards utopia: A century of public school reform. Cambridge, MA: Harvard University Press.</p>"
     }
   ],
   "journal": [
@@ -297,6 +302,132 @@
       "type": "remove",
       "id": "eb881251f81c01d2",
       "date": 1419553682131
+    },
+    {
+      "type": "edit",
+      "id": "f0a07c474dc3f511",
+      "item": {
+        "type": "paragraph",
+        "id": "f0a07c474dc3f511",
+        "text": "It is why those with expertise/significant experience with a particular subject/way of working find it hard to make the transition when the subject changes. "
+      },
+      "date": 1419553893131
+    },
+    {
+      "type": "edit",
+      "id": "534eb5b73fc9cc9d",
+      "item": {
+        "type": "paragraph",
+        "id": "534eb5b73fc9cc9d",
+        "text": "Echoes of this can be seen in the [http://en.wikipedia.org/wiki/Law_of_the_instrument Law of Instrument (Wikipedia)]. Also visible in Tyack and Cuban's (1995) idea of the \"grammar of school\" that captures the existing patterns of formal schooling. Patterns which lead to any different approach that doesn't fit with this grammar being seen as an ungrammatical utterance and not making sense (Cavallo, 2004). Papert (1995) suggests that this pattern entrainment also leads to the situation where any attempt to transform schooling is seen as ungrammatical and tends to be transformed so that it fits the closest utterance that fits with the grammar of school (the existing patterns). "
+      },
+      "date": 1419554141451
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a3bf1da124a1b64",
+        "text": ""
+      },
+      "id": "0a3bf1da124a1b64",
+      "type": "add",
+      "after": "534eb5b73fc9cc9d",
+      "date": 1419554141478
+    },
+    {
+      "type": "remove",
+      "id": "0a3bf1da124a1b64",
+      "date": 1419554145130
+    },
+    {
+      "type": "remove",
+      "id": "f0a07c474dc3f511",
+      "date": 1419554149070
+    },
+    {
+      "type": "edit",
+      "id": "f1582e4cccebbcf6",
+      "item": {
+        "type": "paragraph",
+        "id": "f1582e4cccebbcf6",
+        "text": "How we see and act within the world is constrained by our patterns. It is why those with expertise/significant experience with a particular subject/way of working find it hard to make the transition when the subject changes. The changes don't make sense."
+      },
+      "date": 1419554164334
+    },
+    {
+      "type": "edit",
+      "id": "534eb5b73fc9cc9d",
+      "item": {
+        "type": "paragraph",
+        "id": "534eb5b73fc9cc9d",
+        "text": "Echoes of this can be seen in the [http://en.wikipedia.org/wiki/Law_of_the_instrument Law of Instrument (Wikipedia)] and in Tyack and Cuban's (1995) idea of the \"grammar of school\" that captures the existing patterns of formal schooling. Patterns which lead to any different approach that doesn't fit with this grammar being seen as an ungrammatical utterance and not making sense (Cavallo, 2004). Papert (1995) suggests that this pattern entrainment also leads to the situation where any attempt to transform schooling is seen as ungrammatical and tends to be transformed so that it fits the closest utterance that fits with the grammar of school (the existing patterns). "
+      },
+      "date": 1419554185845
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b4d0aaf5ccce93e"
+      },
+      "id": "9b4d0aaf5ccce93e",
+      "type": "add",
+      "after": "534eb5b73fc9cc9d",
+      "date": 1419554245655
+    },
+    {
+      "type": "remove",
+      "id": "9b4d0aaf5ccce93e",
+      "date": 1419554248747
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dbdc16da7988396"
+      },
+      "id": "7dbdc16da7988396",
+      "type": "add",
+      "after": "534eb5b73fc9cc9d",
+      "date": 1419554254968
+    },
+    {
+      "type": "edit",
+      "id": "7dbdc16da7988396",
+      "item": {
+        "type": "paragraph",
+        "id": "7dbdc16da7988396",
+        "text": "Also connects to the concept of [http://en.wikipedia.org/wiki/Schema_%28psychology%29 schema (Wikipedia)] from psychology."
+      },
+      "date": 1419554298513
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13f056e310ee4d03"
+      },
+      "id": "13f056e310ee4d03",
+      "type": "add",
+      "after": "7dbdc16da7988396",
+      "date": 1419554366667
+    },
+    {
+      "type": "edit",
+      "id": "13f056e310ee4d03",
+      "item": {
+        "type": "html",
+        "id": "13f056e310ee4d03",
+        "text": "<h3>References</h3>\n\nTyack, D., & Cuban, L. (1995). Tinkering towards utopia: A century of public school reform. Cambridge, MA: Harvard University Press."
+      },
+      "date": 1419554377675
+    },
+    {
+      "type": "edit",
+      "id": "13f056e310ee4d03",
+      "item": {
+        "type": "html",
+        "id": "13f056e310ee4d03",
+        "text": "<h3>References</h3>\n\n<p>Papert, S. (1995). Why School Reform is Impossible. The Journal of the Learning Sciences, 6(4), 417–427. Retrieved from http://www.papert.org/articles/school_reform.html</p>\n<p>Tyack, D., & Cuban, L. (1995). Tinkering towards utopia: A century of public school reform. Cambridge, MA: Harvard University Press.</p>"
+      },
+      "date": 1419554403629
     }
   ]
 }

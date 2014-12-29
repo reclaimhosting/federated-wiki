@@ -1,0 +1,292 @@
+{
+  "title": "Before Posting to NetNews",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "53e811af66b166de",
+      "text": "Intel guidelines for posting to NetNews newsgroup from their 1995 Netiquette document. Note this advice: you should read a mailing list for one to two *months* before posting anything. [https://www.ietf.org/rfc/rfc1855.txt txt]"
+    },
+    {
+      "type": "html",
+      "id": "21d27904131727fa",
+      "text": "<blockquote>\n3.1.1 General Guidelines for mailing lists and NetNews\n<ul>\n\n   <li> Read both mailing lists and newsgroups for one to two months before\n      you post anything.  This helps you to get an understanding of\n      the culture of the group.\n\n    <li> Do not blame the system administrator for the behavior of the\n      system users...\n</ul>\n</blockquote>"
+    },
+    {
+      "type": "paragraph",
+      "id": "df581973c569d135",
+      "text": "This is not bad advice, but it is part of the problem with communities. Because the community knowledge and culture is buried in discourse, entry is time-consuming. God forbid you come into the community and post something someone already posted or use the wrong acronyms."
+    },
+    {
+      "type": "paragraph",
+      "id": "dfa8cc9ed771f7c3",
+      "text": "Compare Twitter, where there is no Noob Status."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Before Posting to NetNews",
+        "story": []
+      },
+      "date": 1419363431271
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a851e2caae1227d9"
+      },
+      "id": "a851e2caae1227d9",
+      "type": "add",
+      "date": 1419363434245
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a78a1630a0911c0"
+      },
+      "id": "6a78a1630a0911c0",
+      "type": "add",
+      "after": "a851e2caae1227d9",
+      "date": 1419363446314
+    },
+    {
+      "type": "remove",
+      "id": "a851e2caae1227d9",
+      "date": 1419363450300
+    },
+    {
+      "type": "edit",
+      "id": "6a78a1630a0911c0",
+      "item": {
+        "type": "markdown",
+        "id": "6a78a1630a0911c0",
+        "text": "3.1.1 General Guidelines for mailing lists and NetNews\n\n    - Read both mailing lists and newsgroups for one to two months before\n      you post anything.  This helps you to get an understanding of\n      the culture of the group.\n\n    - Do not blame the system administrator for the behavior of the\n      system users.\n\n    - Consider that a large audience will see your posts.\n      That may include your present or your next boss.  Take\n      care in what you write.  Remember too, that mailing lists and\n      Newsgroups are frequently archived, and that your words may be"
+      },
+      "date": 1419363455637
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53e811af66b166de"
+      },
+      "id": "53e811af66b166de",
+      "type": "add",
+      "after": "6a78a1630a0911c0",
+      "date": 1419363464199
+    },
+    {
+      "type": "edit",
+      "id": "53e811af66b166de",
+      "item": {
+        "type": "paragraph",
+        "id": "53e811af66b166de",
+        "text": "Intel guidelines for posting to NetNews newsgroup from their 1995 Netiquette document. Note: you should read a mailing list for one to two *months* before posting anything. "
+      },
+      "date": 1419363568840
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": ""
+      },
+      "id": "df581973c569d135",
+      "type": "add",
+      "after": "53e811af66b166de",
+      "date": 1419363568849
+    },
+    {
+      "type": "move",
+      "order": [
+        "53e811af66b166de",
+        "6a78a1630a0911c0",
+        "df581973c569d135"
+      ],
+      "id": "53e811af66b166de",
+      "date": 1419363595061
+    },
+    {
+      "type": "edit",
+      "id": "df581973c569d135",
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": "This is part of the problem with cultures of the now. "
+      },
+      "date": 1419363596994
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21d27904131727fa"
+      },
+      "id": "21d27904131727fa",
+      "type": "add",
+      "after": "df581973c569d135",
+      "date": 1419363611784
+    },
+    {
+      "type": "remove",
+      "id": "6a78a1630a0911c0",
+      "date": 1419363613479
+    },
+    {
+      "type": "edit",
+      "id": "21d27904131727fa",
+      "item": {
+        "type": "html",
+        "id": "21d27904131727fa",
+        "text": "<blockquote>\n3.1.1 General Guidelines for mailing lists and NetNews\n\n   <li> Read both mailing lists and newsgroups for one to two months before\n      you post anything.  This helps you to get an understanding of\n      the culture of the group.\n\n    <li> Do not blame the system administrator for the behavior of the\n      system users.\n\n    <li> Consider that a large audience will see your posts.\n      That may include your present or your next boss.  Take\n      care in what you write...\n</blockquote>"
+      },
+      "date": 1419363696285
+    },
+    {
+      "type": "edit",
+      "id": "21d27904131727fa",
+      "item": {
+        "type": "html",
+        "id": "21d27904131727fa",
+        "text": "<blockquote>\n3.1.1 General Guidelines for mailing lists and NetNews\n<ul>\n\n   <li> Read both mailing lists and newsgroups for one to two months before\n      you post anything.  This helps you to get an understanding of\n      the culture of the group.\n\n    <li> Do not blame the system administrator for the behavior of the\n      system users.\n\n    <li> Consider that a large audience will see your posts.\n      That may include your present or your next boss.  Take\n      care in what you write...\n</ul>\n</blockquote>"
+      },
+      "date": 1419363727085
+    },
+    {
+      "type": "move",
+      "order": [
+        "53e811af66b166de",
+        "21d27904131727fa",
+        "df581973c569d135"
+      ],
+      "id": "df581973c569d135",
+      "date": 1419363733372
+    },
+    {
+      "type": "edit",
+      "id": "df581973c569d135",
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": "This is not bad advice, but it is part of the problem with cultures of the now. Because the discussion and information is buried in discourse, entry is time-consuming. God forbid you come into the community and post something someone already posted."
+      },
+      "date": 1419363825217
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9eea873a1d763bd9",
+        "text": ""
+      },
+      "id": "9eea873a1d763bd9",
+      "type": "add",
+      "after": "df581973c569d135",
+      "date": 1419363825227
+    },
+    {
+      "type": "edit",
+      "id": "9eea873a1d763bd9",
+      "item": {
+        "type": "paragraph",
+        "id": "9eea873a1d763bd9",
+        "text": "Wiki attempts to make culture and community knowledge accessible through refactoring discourse into dissertation. "
+      },
+      "date": 1419363939138
+    },
+    {
+      "type": "edit",
+      "id": "df581973c569d135",
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": "This is not bad advice, but it is part of the problem with cultures of the now. Because the community knowledge and culture is buried in discourse, entry is time-consuming. God forbid you come into the community and post something someone already posted."
+      },
+      "date": 1419363951927
+    },
+    {
+      "type": "edit",
+      "id": "53e811af66b166de",
+      "item": {
+        "type": "paragraph",
+        "id": "53e811af66b166de",
+        "text": "Intel guidelines for posting to NetNews newsgroup from their 1995 Netiquette document. Note: you should read a mailing list for one to two *months* before posting anything. [https://www.ietf.org/rfc/rfc1855.txt txt]"
+      },
+      "date": 1419363987188
+    },
+    {
+      "type": "edit",
+      "id": "53e811af66b166de",
+      "item": {
+        "type": "paragraph",
+        "id": "53e811af66b166de",
+        "text": "Intel guidelines for posting to NetNews newsgroup from their 1995 Netiquette document. Note this advice: you should read a mailing list for one to two *months* before posting anything. [https://www.ietf.org/rfc/rfc1855.txt txt]"
+      },
+      "date": 1419364004366
+    },
+    {
+      "type": "edit",
+      "id": "21d27904131727fa",
+      "item": {
+        "type": "html",
+        "id": "21d27904131727fa",
+        "text": "<blockquote>\n3.1.1 General Guidelines for mailing lists and NetNews\n<ul>\n\n   <li> Read both mailing lists and newsgroups for one to two months before\n      you post anything.  This helps you to get an understanding of\n      the culture of the group.\n\n    <li> Do not blame the system administrator for the behavior of the\n      system users...\n</ul>\n</blockquote>"
+      },
+      "date": 1419364045762
+    },
+    {
+      "type": "edit",
+      "id": "df581973c569d135",
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": "This is not bad advice, but it is part of the problem with cultures of the now. Because the community knowledge and culture is buried in discourse, entry is time-consuming. God forbid you come into the community and post something someone already posted or use the wrong acronyms."
+      },
+      "date": 1419364079090
+    },
+    {
+      "type": "remove",
+      "id": "9eea873a1d763bd9",
+      "date": 1419364153346
+    },
+    {
+      "type": "edit",
+      "id": "df581973c569d135",
+      "item": {
+        "type": "paragraph",
+        "id": "df581973c569d135",
+        "text": "This is not bad advice, but it is part of the problem with communities. Because the community knowledge and culture is buried in discourse, entry is time-consuming. God forbid you come into the community and post something someone already posted or use the wrong acronyms."
+      },
+      "date": 1419364169069
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfa8cc9ed771f7c3",
+        "text": ""
+      },
+      "id": "dfa8cc9ed771f7c3",
+      "type": "add",
+      "after": "df581973c569d135",
+      "date": 1419364177595
+    },
+    {
+      "type": "edit",
+      "id": "dfa8cc9ed771f7c3",
+      "item": {
+        "type": "paragraph",
+        "id": "dfa8cc9ed771f7c3",
+        "text": "Compare Twitter, where there is no Noob Status."
+      },
+      "date": 1419364202615
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1419489777192
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1419845552771
+    }
+  ]
+}

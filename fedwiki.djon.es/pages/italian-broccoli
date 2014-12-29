@@ -1,0 +1,303 @@
+{
+  "title": "Italian Broccoli",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "769ca819d79a64d7",
+      "text": "This recipe may not be original or authentic but it's pretty damn tasty."
+    },
+    {
+      "type": "paragraph",
+      "id": "1de97c4fb1f10995",
+      "text": "In a microwaveable dish, scald a crushed clove of garlic in oil (30 seconds in microwave).  Add broccoli with a splash of water and microwave for approx 5 mins (depending on quantity).  Then enjoy:)"
+    },
+    {
+      "type": "paragraph",
+      "id": "1335ad71827fd0d7",
+      "text": "Related to [[Favorite Broccoli Recipes]]"
+    },
+    {
+      "type": "method",
+      "id": "471f41bf4ce54f1b",
+      "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\n120 (calories) per (tbsp sunflower oil)\nSUM Italian Broccoli (calories)"
+    },
+    {
+      "type": "factory",
+      "id": "a3df306e674a6317"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Italian Broccoli",
+        "story": []
+      },
+      "date": 1419720327559
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "769ca819d79a64d7"
+      },
+      "id": "769ca819d79a64d7",
+      "type": "add",
+      "date": 1419720335269
+    },
+    {
+      "type": "edit",
+      "id": "769ca819d79a64d7",
+      "item": {
+        "type": "paragraph",
+        "id": "769ca819d79a64d7",
+        "text": "This recipe may not be original or authentic but it's pretty damn tasty."
+      },
+      "date": 1419720393108
+    },
+    {
+      "type": "add",
+      "id": "1de97c4fb1f10995",
+      "item": {
+        "type": "paragraph",
+        "id": "1de97c4fb1f10995",
+        "text": "In a microwaveable dish, scald a crushed clove of garlic in oil.  Then add broccoli with a splash of water and microwave for approx 5 mins (depending on quantity).  Then enjoy:)"
+      },
+      "after": "769ca819d79a64d7",
+      "date": 1419720667357
+    },
+    {
+      "type": "fork",
+      "site": "frances.uk.fedwikihappening.net",
+      "date": 1419746238127
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1335ad71827fd0d7"
+      },
+      "id": "1335ad71827fd0d7",
+      "type": "add",
+      "after": "1de97c4fb1f10995",
+      "date": 1419746354016
+    },
+    {
+      "type": "edit",
+      "id": "1335ad71827fd0d7",
+      "item": {
+        "type": "paragraph",
+        "id": "1335ad71827fd0d7",
+        "text": "Related to [[Favorite Broccoli Recipes]]"
+      },
+      "date": 1419746370902
+    },
+    {
+      "type": "fork",
+      "site": "maha.uk.fedwikihappening.net",
+      "date": 1419769560666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3620b81126ef34ca"
+      },
+      "id": "3620b81126ef34ca",
+      "type": "add",
+      "after": "1335ad71827fd0d7",
+      "date": 1419769566212
+    },
+    {
+      "type": "edit",
+      "id": "3620b81126ef34ca",
+      "item": {
+        "type": "calculator",
+        "id": "3620b81126ef34ca",
+        "text": "200 (calories) per 1 (bunch of broccoli)\n5 (calories) per 1 (clove of garlic)\nSUM (calories)",
+        "data": []
+      },
+      "date": 1419769632702
+    },
+    {
+      "type": "remove",
+      "id": "3620b81126ef34ca",
+      "date": 1419769816135
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62455f6246cac9f0"
+      },
+      "id": "62455f6246cac9f0",
+      "type": "add",
+      "after": "1335ad71827fd0d7",
+      "date": 1419770030148
+    },
+    {
+      "type": "remove",
+      "id": "62455f6246cac9f0",
+      "date": 1419770037880
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "471f41bf4ce54f1b"
+      },
+      "id": "471f41bf4ce54f1b",
+      "type": "add",
+      "after": "1335ad71827fd0d7",
+      "date": 1419770054564
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "4 (calories) per (celery stalks)\n200 (calories) per (can of minestrone soup)\n50 (calories) per (oz chocolate)"
+      },
+      "date": 1419770061635
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\n50 (calories) per (oz chocolate)"
+      },
+      "date": 1419770117993
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM Italian Broccoli"
+      },
+      "date": 1419770144018
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM (Italian Broccoli"
+      },
+      "date": 1419770161816
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM Italian Broccoli (calories)"
+      },
+      "date": 1419770180602
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM (calories) Italian Broccoli "
+      },
+      "date": 1419770202915
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\n"
+      },
+      "date": 1419770231229
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)"
+      },
+      "date": 1419770238402
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM Italian Broccoli"
+      },
+      "date": 1419770286357
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\nSUM Italian Broccoli (calories)"
+      },
+      "date": 1419770387710
+    },
+    {
+      "type": "fork",
+      "site": "jon.sf.fedwikihappening.net"
+    },
+    {
+      "type": "edit",
+      "id": "471f41bf4ce54f1b",
+      "item": {
+        "type": "method",
+        "id": "471f41bf4ce54f1b",
+        "text": "5 (calories) per (garlic clove)\n200 (calories) per (bunch of broccoli)\n120 (calories) per (tbsp sunflower oil)\nSUM Italian Broccoli (calories)"
+      },
+      "date": 1419770450629
+    },
+    {
+      "type": "fork",
+      "site": "mura.uk.fedwikihappening.net",
+      "date": 1419809505665
+    },
+    {
+      "type": "edit",
+      "id": "1de97c4fb1f10995",
+      "item": {
+        "type": "paragraph",
+        "id": "1de97c4fb1f10995",
+        "text": "In a microwaveable dish, scald a crushed clove of garlic in oil (30 seconds in microwave).  A"
+      },
+      "date": 1419809562367
+    },
+    {
+      "type": "edit",
+      "id": "1de97c4fb1f10995",
+      "item": {
+        "type": "paragraph",
+        "id": "1de97c4fb1f10995",
+        "text": "In a microwaveable dish, scald a crushed clove of garlic in oil (30 seconds in microwave).  Add broccoli with a splash of water and microwave for approx 5 mins (depending on quantity).  Then enjoy:)"
+      },
+      "date": 1419809567629
+    },
+    {
+      "type": "fork",
+      "site": "frances.uk.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3df306e674a6317"
+      },
+      "id": "a3df306e674a6317",
+      "type": "add",
+      "after": "471f41bf4ce54f1b",
+      "date": 1419830837870
+    }
+  ]
+}

@@ -12,6 +12,27 @@
       "text": "<h3>See also</h3>"
     },
     {
+      "type": "reference",
+      "id": "cacbc28ceadad1e3",
+      "site": "fedwiki.djon.es",
+      "title": "The BAD Mindset",
+      "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+    },
+    {
+      "type": "reference",
+      "id": "cc9553dd2cd6d0be",
+      "site": "fedwiki.djon.es",
+      "title": "Small public spaces",
+      "text": "Related: [[Tell a Passing Stranger]], [[We Make the Road by Walking]]"
+    },
+    {
+      "type": "reference",
+      "id": "6f9786decec5fa6c",
+      "site": "fedwiki.djon.es",
+      "title": "Third Place",
+      "text": "\"Until the rise of the coffeehouse you had a a population that was essentially drunk all day\" Steven Johnson on the rise of coffeehouse culture in the 18th (??) century."
+    },
+    {
       "type": "html",
       "id": "3092ce68dabf45e5",
       "text": "<h3>References</h3>"
@@ -30,10 +51,6 @@
       "type": "paragraph",
       "id": "5fa44d9f1ccfef7f",
       "text": "Scribner, J. (2005). The problems of practice: Bricolage as a metaphor for teachers’ work and learning. Alberta Journal of Educational Research, 51(4), 295-310. Retrieved from [http://ajer.journalhosting.ucalgary.ca/ajer/index.php/ajer/article/view/587 (web page)]"
-    },
-    {
-      "type": "factory",
-      "id": "6f9786decec5fa6c"
     }
   ],
   "journal": [
@@ -315,6 +332,107 @@
       "type": "add",
       "after": "5fa44d9f1ccfef7f",
       "date": 1419819057444
+    },
+    {
+      "type": "edit",
+      "id": "6f9786decec5fa6c",
+      "item": {
+        "type": "reference",
+        "id": "6f9786decec5fa6c",
+        "site": "fedwiki.djon.es",
+        "title": "Third Place",
+        "text": "\"Until the rise of the coffeehouse you had a a population that was essentially drunk all day\" Steven Johnson on the rise of coffeehouse culture in the 18th (??) century."
+      },
+      "date": 1419819167636
+    },
+    {
+      "type": "move",
+      "order": [
+        "214997f772d2edf2",
+        "8dfbef3031ffd149",
+        "6f9786decec5fa6c",
+        "3092ce68dabf45e5",
+        "17f12e428be12e80",
+        "69c9369407c89fb5",
+        "5fa44d9f1ccfef7f"
+      ],
+      "id": "6f9786decec5fa6c",
+      "date": 1419819171712
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc9553dd2cd6d0be"
+      },
+      "id": "cc9553dd2cd6d0be",
+      "type": "add",
+      "after": "5fa44d9f1ccfef7f",
+      "date": 1419819211137
+    },
+    {
+      "type": "edit",
+      "id": "cc9553dd2cd6d0be",
+      "item": {
+        "type": "reference",
+        "id": "cc9553dd2cd6d0be",
+        "site": "fedwiki.djon.es",
+        "title": "Small public spaces",
+        "text": "Related: [[Tell a Passing Stranger]], [[We Make the Road by Walking]]"
+      },
+      "date": 1419819216129
+    },
+    {
+      "type": "move",
+      "order": [
+        "214997f772d2edf2",
+        "8dfbef3031ffd149",
+        "cc9553dd2cd6d0be",
+        "6f9786decec5fa6c",
+        "3092ce68dabf45e5",
+        "17f12e428be12e80",
+        "69c9369407c89fb5",
+        "5fa44d9f1ccfef7f"
+      ],
+      "id": "cc9553dd2cd6d0be",
+      "date": 1419819222161
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cacbc28ceadad1e3"
+      },
+      "id": "cacbc28ceadad1e3",
+      "type": "add",
+      "after": "5fa44d9f1ccfef7f",
+      "date": 1419819584384
+    },
+    {
+      "type": "edit",
+      "id": "cacbc28ceadad1e3",
+      "item": {
+        "type": "reference",
+        "id": "cacbc28ceadad1e3",
+        "site": "fedwiki.djon.es",
+        "title": "The BAD Mindset",
+        "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+      },
+      "date": 1419819587987
+    },
+    {
+      "type": "move",
+      "order": [
+        "214997f772d2edf2",
+        "8dfbef3031ffd149",
+        "cacbc28ceadad1e3",
+        "cc9553dd2cd6d0be",
+        "6f9786decec5fa6c",
+        "3092ce68dabf45e5",
+        "17f12e428be12e80",
+        "69c9369407c89fb5",
+        "5fa44d9f1ccfef7f"
+      ],
+      "id": "cacbc28ceadad1e3",
+      "date": 1419819593078
     }
   ]
 }

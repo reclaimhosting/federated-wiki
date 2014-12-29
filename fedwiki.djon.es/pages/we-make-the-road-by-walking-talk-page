@@ -1,0 +1,144 @@
+{
+  "title": "We Make the Road by Walking Talk Page",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "99e76cf618c5f24e",
+      "text": "Carrying out an experiment started by [[Jon Udell]]. Add your comment to the *top* of the comments. This way we keep the page clean. (Leave this instruction at top)."
+    },
+    {
+      "type": "paragraph",
+      "id": "a44561b9318d32ff",
+      "text": "[[David Jones]]: I don't think so. I came to this page thinking/writing about [[Bricolage]] with links to the [[Third Place]] and other related pages, including perhaps the currently unwritten [[Desire Paths]]. In the absence of a real community, I think the SFW developers are going to suffer [[Pattern Entrainment]] but more importantly not gain the experience that arises from a bunch of other people using the tool and doing unexpected things."
+    },
+    {
+      "type": "paragraph",
+      "id": "2af3ac2c804d1576",
+      "text": "[[Mike Caulfield]]: I think I get this, but I'm worried I'm putting my own spin on it. I want to see \"In order to start it must be necessary to start\" as relating to this Happening -- I know the software is buggy, and some interface elements can be confusing -- but Ward and co. can't buid for an imagined audience. They need a real community to code to, one they can react to on a daily basis. In order to start we have to start. Is that seeing too much of my issue in it?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "We Make the Road by Walking Talk Page",
+        "story": []
+      },
+      "date": 1419008612115
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99e76cf618c5f24e"
+      },
+      "id": "99e76cf618c5f24e",
+      "type": "add",
+      "date": 1419008613516
+    },
+    {
+      "type": "edit",
+      "id": "99e76cf618c5f24e",
+      "item": {
+        "type": "paragraph",
+        "id": "99e76cf618c5f24e",
+        "text": "Carrying out an experiment started by [[Jon Udell]]. Add you comment to the top of the page. This way we keep the page clean."
+      },
+      "date": 1419008660868
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2af3ac2c804d1576",
+        "text": ""
+      },
+      "id": "2af3ac2c804d1576",
+      "type": "add",
+      "after": "99e76cf618c5f24e",
+      "date": 1419008660874
+    },
+    {
+      "type": "edit",
+      "id": "2af3ac2c804d1576",
+      "item": {
+        "type": "paragraph",
+        "id": "2af3ac2c804d1576",
+        "text": "[["
+      },
+      "date": 1419008680328
+    },
+    {
+      "type": "edit",
+      "id": "2af3ac2c804d1576",
+      "item": {
+        "type": "paragraph",
+        "id": "2af3ac2c804d1576",
+        "text": "[[Mike Caulfield]]: I think I get this, but I'm worried I'm putting my own spin on it. I want to see \"In order to start it must be necessary to start\" as relating to this Happening -- I know the software is buggy, and some interface elements can be confusing -- but Ward and co. can't buid for an imagined audience. They need a real community to code to, one they can react to on a daily basis. Is that seeing too much of my issue in it?"
+      },
+      "date": 1419009107719
+    },
+    {
+      "type": "edit",
+      "id": "99e76cf618c5f24e",
+      "item": {
+        "type": "paragraph",
+        "id": "99e76cf618c5f24e",
+        "text": "Carrying out an experiment started by [[Jon Udell]]. Add your comment to the *top* of the comments. This way we keep the page clean. (Leave this instruction at top)."
+      },
+      "date": 1419009161476
+    },
+    {
+      "type": "edit",
+      "id": "2af3ac2c804d1576",
+      "item": {
+        "type": "paragraph",
+        "id": "2af3ac2c804d1576",
+        "text": "[[Mike Caulfield]]: I think I get this, but I'm worried I'm putting my own spin on it. I want to see \"In order to start it must be necessary to start\" as relating to this Happening -- I know the software is buggy, and some interface elements can be confusing -- but Ward and co. can't buid for an imagined audience. They need a real community to code to, one they can react to on a daily basis. In order to start we have to start. Is that seeing too much of my issue in it?"
+      },
+      "date": 1419009188984
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a44561b9318d32ff"
+      },
+      "id": "a44561b9318d32ff",
+      "type": "add",
+      "after": "2af3ac2c804d1576",
+      "date": 1419819325321
+    },
+    {
+      "type": "edit",
+      "id": "a44561b9318d32ff",
+      "item": {
+        "type": "paragraph",
+        "id": "a44561b9318d32ff",
+        "text": "[[David Jones]]: I don't think so. I came to this page thinking/writing about [[Bricolage]] with links to the [[Third Place]] and other related pages, including perhaps the currently unwritten [[Desire Paths]]. In the absence of a real community, I think the SFW developers are going to suffer [[Pattern Entrainment]] but more importantly not "
+      },
+      "date": 1419819462059
+    },
+    {
+      "type": "edit",
+      "id": "a44561b9318d32ff",
+      "item": {
+        "type": "paragraph",
+        "id": "a44561b9318d32ff",
+        "text": "[[David Jones]]: I don't think so. I came to this page thinking/writing about [[Bricolage]] with links to the [[Third Place]] and other related pages, including perhaps the currently unwritten [[Desire Paths]]. In the absence of a real community, I think the SFW developers are going to suffer [[Pattern Entrainment]] but more importantly not gain the experience that arises from a bunch of other people using the tool and doing unexpected things."
+      },
+      "date": 1419819518354
+    },
+    {
+      "type": "move",
+      "order": [
+        "99e76cf618c5f24e",
+        "a44561b9318d32ff",
+        "2af3ac2c804d1576"
+      ],
+      "id": "a44561b9318d32ff",
+      "date": 1419819521463
+    }
+  ]
+}

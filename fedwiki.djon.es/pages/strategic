@@ -18,6 +18,13 @@
     },
     {
       "type": "reference",
+      "id": "de7072fca09272d0",
+      "site": "fedwiki.djon.es",
+      "title": "Telological Design",
+      "text": "No time to write this one, even roughly.  Until then see this [https://davidtjones.wordpress.com/2009/06/05/teleological-design-definition-and-weaknesses/ blog post] for a description "
+    },
+    {
+      "type": "reference",
       "id": "c4ef012651bbf264",
       "site": "fedwiki.djon.es",
       "title": "The SET Mindset",
@@ -144,6 +151,40 @@
       "type": "remove",
       "id": "de607a0e90a16279",
       "date": 1419822084866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de7072fca09272d0"
+      },
+      "id": "de7072fca09272d0",
+      "type": "add",
+      "after": "c4ef012651bbf264",
+      "date": 1419825041722
+    },
+    {
+      "type": "edit",
+      "id": "de7072fca09272d0",
+      "item": {
+        "type": "reference",
+        "id": "de7072fca09272d0",
+        "site": "fedwiki.djon.es",
+        "title": "Telological Design",
+        "text": "No time to write this one, even roughly.  Until then see this [https://davidtjones.wordpress.com/2009/06/05/teleological-design-definition-and-weaknesses/ blog post] for a description "
+      },
+      "date": 1419825044570
+    },
+    {
+      "type": "move",
+      "order": [
+        "f41d70b2785467b0",
+        "8a8c242c7259d7c6",
+        "6a464d259a0fc487",
+        "de7072fca09272d0",
+        "c4ef012651bbf264"
+      ],
+      "id": "de7072fca09272d0",
+      "date": 1419825047216
     }
   ]
 }

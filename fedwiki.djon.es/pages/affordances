@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "7aec0b50c448da1e",
-      "text": "An affordance is the relationship between an object and an actor/individual/organism. The relationship between the features of the object and the perceptions/capabilities of the actor give rise to an affordance to perform some action."
+      "text": "An affordance ([http://en.wikipedia.org/wiki/Affordance Wikipedia]) is the relationship between an object and an actor/individual/organism. The relationship between the features of the object and the perceptions/capabilities of the actor give rise to an affordance to perform some action."
+    },
+    {
+      "type": "paragraph",
+      "id": "081ba80b0aca334c",
+      "text": "Alan Kay (1984) discussed the \"protean nature of the computer\" (p. 59). Suggesting that Information and Communication Technologies (ICT) are mutable, adaptable, and flexible. They can be changed. Leading Kay (1984) to describe the computer as \"the first metamedium, and as such has degrees of freedom and expression never before encountered\" (p. 59)."
+    },
+    {
+      "type": "paragraph",
+      "id": "c61fa0e61fb78a09",
+      "text": ""
     }
   ],
   "journal": [
@@ -60,6 +70,67 @@
       "type": "remove",
       "id": "874769f46a7c353f",
       "date": 1419819839624
+    },
+    {
+      "type": "edit",
+      "id": "7aec0b50c448da1e",
+      "item": {
+        "type": "paragraph",
+        "id": "7aec0b50c448da1e",
+        "text": "An affordance ([http://en.wikipedia.org/wiki/Affordance Wikipedia]) is the relationship between an object and an actor/individual/organism. The relationship between the features of the object and the perceptions/capabilities of the actor give rise to an affordance to perform some action."
+      },
+      "date": 1419820329269
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "081ba80b0aca334c"
+      },
+      "id": "081ba80b0aca334c",
+      "type": "add",
+      "after": "7aec0b50c448da1e",
+      "date": 1419820413269
+    },
+    {
+      "type": "edit",
+      "id": "081ba80b0aca334c",
+      "item": {
+        "type": "paragraph",
+        "id": "081ba80b0aca334c",
+        "text": "Alan Kay (1984) discussed the \"protean nature of the computer\" (p. 59). Suggesting that Information and Communication Technologies (ICT) are "
+      },
+      "date": 1419820474694
+    },
+    {
+      "type": "edit",
+      "id": "081ba80b0aca334c",
+      "item": {
+        "type": "paragraph",
+        "id": "081ba80b0aca334c",
+        "text": "Alan Kay (1984) discussed the \"protean nature of the computer\" (p. 59). Suggesting that Information and Communication Technologies (ICT) are mutable, adaptable, and flexible. They can be changed."
+      },
+      "date": 1419820811385
+    },
+    {
+      "type": "edit",
+      "id": "081ba80b0aca334c",
+      "item": {
+        "type": "paragraph",
+        "id": "081ba80b0aca334c",
+        "text": "Alan Kay (1984) discussed the \"protean nature of the computer\" (p. 59). Suggesting that Information and Communication Technologies (ICT) are mutable, adaptable, and flexible. They can be changed. Leading Kay (1984) to describe the computer as \"the first metamedium, and as such has degrees of freedom and expression never before encountered\" (p. 59)."
+      },
+      "date": 1419820850076
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c61fa0e61fb78a09",
+        "text": ""
+      },
+      "id": "c61fa0e61fb78a09",
+      "type": "add",
+      "after": "081ba80b0aca334c",
+      "date": 1419820850084
     }
   ]
 }

@@ -25,6 +25,11 @@
       "type": "paragraph",
       "id": "66aec2837c721aa2",
       "text": "[[Confusion of simulation with prediction]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c8cb9c57e5bbe0d3",
+      "text": "[[The BAD Mindset]]"
     }
   ],
   "journal": [
@@ -195,6 +200,42 @@
       "type": "remove",
       "id": "bc6966e740cd6e39",
       "date": 1419550947328
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c8cb9c57e5bbe0d3"
+      },
+      "id": "c8cb9c57e5bbe0d3",
+      "type": "add",
+      "after": "66aec2837c721aa2",
+      "date": 1419817985966
+    },
+    {
+      "type": "edit",
+      "id": "c8cb9c57e5bbe0d3",
+      "item": {
+        "type": "paragraph",
+        "id": "c8cb9c57e5bbe0d3",
+        "text": "[[The BAD Mindset]]"
+      },
+      "date": 1419817995092
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c1a1d692d1b5def6",
+        "text": ""
+      },
+      "id": "c1a1d692d1b5def6",
+      "type": "add",
+      "after": "c8cb9c57e5bbe0d3",
+      "date": 1419817995107
+    },
+    {
+      "type": "remove",
+      "id": "c1a1d692d1b5def6",
+      "date": 1419818002016
     }
   ]
 }

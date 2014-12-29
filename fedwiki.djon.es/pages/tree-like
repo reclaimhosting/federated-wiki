@@ -8,21 +8,6 @@
     },
     {
       "type": "paragraph",
-      "id": "07bcd66886223884",
-      "text": "(The following map is not meant to be here. Copy and pasted some text into a factory and the map auto-magically appeared.  Double clicking on it only allows the caption to be removed. Drag only moves the map around.  Help!!! Suggestions?)"
-    },
-    {
-      "type": "map",
-      "id": "777dbe57234d1f5d",
-      "text": "",
-      "latlng": {
-        "lat": 40.77677176280305,
-        "lng": -74.0365219116211
-      },
-      "zoom": 13
-    },
-    {
-      "type": "paragraph",
       "id": "37397f4321e3b03c",
       "text": "These tree-like structures are the result of the reliance on methods that use analysis and logical decomposition to reduce larger complex wholes into smaller more easily understood and manageable parts (Truex, Baskerville, & Travis, 2000). These methods produce tree-like structures of independent, largely black-boxed components that interact through formally approved mechanisms that typically involve oversight or approval from further up the hierarchy."
     },
@@ -366,6 +351,33 @@
         "text": "(The following map is not meant to be here. Copy and pasted some text into a factory and the map auto-magically appeared.  Double clicking on it only allows the caption to be removed. Drag only moves the map around.  Help!!! Suggestions?)"
       },
       "date": 1419824970944
+    },
+    {
+      "type": "move",
+      "order": [
+        "e10eda197e97c5fb",
+        "07bcd66886223884",
+        "37397f4321e3b03c",
+        "dfbf885c5fd6a54c",
+        "608a12375faa441a",
+        "fc4b8daee78f9159",
+        "d8f6e3311f345bcb",
+        "777dbe57234d1f5d",
+        "9eeff155a9643614",
+        "a81c7c05489a2a5d"
+      ],
+      "id": "777dbe57234d1f5d",
+      "date": 1419848596977
+    },
+    {
+      "type": "remove",
+      "id": "777dbe57234d1f5d",
+      "date": 1419848656561
+    },
+    {
+      "type": "remove",
+      "id": "07bcd66886223884",
+      "date": 1419848667566
     }
   ]
 }

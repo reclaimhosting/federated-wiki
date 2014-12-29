@@ -1,0 +1,40 @@
+{
+  "title": "Scratch",
+  "story": [
+    {
+      "type": "map",
+      "id": "777dbe57234d1f5d",
+      "text": "Map Caption",
+      "latlng": {
+        "lat": 40.77677176280305,
+        "lng": -74.0365219116211
+      },
+      "zoom": 13
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Scratch",
+        "story": []
+      },
+      "date": 1419848650888
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "map",
+        "id": "777dbe57234d1f5d",
+        "text": "Map Caption",
+        "latlng": {
+          "lat": 40.77677176280305,
+          "lng": -74.0365219116211
+        },
+        "zoom": 13
+      },
+      "id": "777dbe57234d1f5d",
+      "date": 1419848656563
+    }
+  ]
+}

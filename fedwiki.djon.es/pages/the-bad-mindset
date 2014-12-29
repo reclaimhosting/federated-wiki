@@ -7,8 +7,16 @@
       "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
     },
     {
-      "type": "factory",
-      "id": "ee8d0e4c19091708"
+      "type": "html",
+      "id": "56aae2ff0046fec4",
+      "text": "The BAD Mindset is an acronym based on how the mindset answers three questions\n<ol>  \n  <li> What work gets done? <p>[[Bricolage]]</p></li>\n  <li> How are Information and Communication Technologies (ICT) perceived?<p><strong>A</strong>ffordances</p> </li>\n  <li> How do you see the world? <p><strong>D</strong>istributed</p></li>\n</ol>"
+    },
+    {
+      "type": "reference",
+      "id": "cc632f74dd2d1c0b",
+      "site": "alyson.sf.fedwikihappening.net",
+      "title": "Third Place",
+      "text": "\"Until the rise of the coffeehouse you had a a population that was essentially drunk all day\" Steven Johnson on the rise of coffeehouse culture in the 18th (??) century."
     }
   ],
   "journal": [
@@ -108,6 +116,143 @@
       "type": "add",
       "after": "02bb7734b4d9eafe",
       "date": 1419818442288
+    },
+    {
+      "type": "remove",
+      "id": "ee8d0e4c19091708",
+      "date": 1419818473062
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56aae2ff0046fec4"
+      },
+      "id": "56aae2ff0046fec4",
+      "type": "add",
+      "after": "02bb7734b4d9eafe",
+      "date": 1419818474334
+    },
+    {
+      "type": "edit",
+      "id": "56aae2ff0046fec4",
+      "item": {
+        "type": "html",
+        "id": "56aae2ff0046fec4",
+        "text": "The BAD Mindset is an acronym based on how the mindset answers three questions\n<ol>  \n  <li> What work gets done? </li>\n  <li> How are Information and Communication Technologies (ICT) perceived? </li>\n  <li> How do you see the world? </li>\n</ol>"
+      },
+      "date": 1419818515398
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3002335472ed591d"
+      },
+      "id": "3002335472ed591d",
+      "type": "add",
+      "after": "56aae2ff0046fec4",
+      "date": 1419818530108
+    },
+    {
+      "type": "edit",
+      "id": "3002335472ed591d",
+      "item": {
+        "type": "html",
+        "id": "3002335472ed591d",
+        "text": "<h2>Bricolage</h2>"
+      },
+      "date": 1419818575382
+    },
+    {
+      "type": "edit",
+      "id": "3002335472ed591d",
+      "item": {
+        "type": "html",
+        "id": "3002335472ed591d",
+        "text": "<h3>Bricolage</h3>"
+      },
+      "date": 1419818582969
+    },
+    {
+      "type": "edit",
+      "id": "56aae2ff0046fec4",
+      "item": {
+        "type": "html",
+        "id": "56aae2ff0046fec4",
+        "text": "The BAD Mindset is an acronym based on how the mindset answers three questions\n<ol>  \n  <li> What work gets done? <p><strong>B</strong>ricolage</p></li>\n  <li> How are Information and Communication Technologies (ICT) perceived? </li>\n  <li> How do you see the world? </li>\n</ol>"
+      },
+      "date": 1419818602248
+    },
+    {
+      "type": "edit",
+      "id": "56aae2ff0046fec4",
+      "item": {
+        "type": "html",
+        "id": "56aae2ff0046fec4",
+        "text": "The BAD Mindset is an acronym based on how the mindset answers three questions\n<ol>  \n  <li> What work gets done? <p><strong>B</strong>ricolage</p></li>\n  <li> How are Information and Communication Technologies (ICT) perceived?<p><strong>A</strong>ffordances</p> </li>\n  <li> How do you see the world? <p><strong>D</strong>istributed</p></li>\n</ol>"
+      },
+      "date": 1419818629461
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1b3a128161eda63"
+      },
+      "id": "f1b3a128161eda63",
+      "type": "add",
+      "after": "3002335472ed591d",
+      "date": 1419818637541
+    },
+    {
+      "type": "edit",
+      "id": "f1b3a128161eda63",
+      "item": {
+        "type": "paragraph",
+        "id": "f1b3a128161eda63",
+        "text": "Bricolage, \"the art of creating with what is at hand\" (Scribner, 2005, p. 297) or \"designing immediately\" (Buscher, Gill, Mogensen, & Shapiro, 2001, p. 23) involves the manipulation and creative repurposing of existing, and often unlikely, resources into new arrangements to solve a concrete, contextualized problem. Ciborra (1992) argues that bricolage – defined as the \"capability of integrating unique ideas and practical design solutions at the end-user level\" (p. 299) – is more important in developing organisational applications of ICT that provide competitive advantage than traditional strategic approaches. "
+      },
+      "date": 1419818681819
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc632f74dd2d1c0b"
+      },
+      "id": "cc632f74dd2d1c0b",
+      "type": "add",
+      "after": "f1b3a128161eda63",
+      "date": 1419818706407
+    },
+    {
+      "type": "edit",
+      "id": "cc632f74dd2d1c0b",
+      "item": {
+        "type": "reference",
+        "id": "cc632f74dd2d1c0b",
+        "site": "alyson.sf.fedwikihappening.net",
+        "title": "Third Place",
+        "text": "\"Until the rise of the coffeehouse you had a a population that was essentially drunk all day\" Steven Johnson on the rise of coffeehouse culture in the 18th (??) century."
+      },
+      "date": 1419818711332
+    },
+    {
+      "type": "edit",
+      "id": "56aae2ff0046fec4",
+      "item": {
+        "type": "html",
+        "id": "56aae2ff0046fec4",
+        "text": "The BAD Mindset is an acronym based on how the mindset answers three questions\n<ol>  \n  <li> What work gets done? <p>[[Bricolage]]</p></li>\n  <li> How are Information and Communication Technologies (ICT) perceived?<p><strong>A</strong>ffordances</p> </li>\n  <li> How do you see the world? <p><strong>D</strong>istributed</p></li>\n</ol>"
+      },
+      "date": 1419818837356
+    },
+    {
+      "type": "remove",
+      "id": "f1b3a128161eda63",
+      "date": 1419818846334
+    },
+    {
+      "type": "remove",
+      "id": "3002335472ed591d",
+      "date": 1419818851577
     }
   ]
 }

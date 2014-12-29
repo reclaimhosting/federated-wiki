@@ -1,0 +1,109 @@
+{
+  "title": "Strategic",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f41d70b2785467b0",
+      "text": "A strategic approach involves the creation of a vision identifying a desired future state and the development of operational plans to bring about the desired future state. The only work that is deemed acceptable is that which fits within the established operational plan and is seen to contribute to the desired future state. All other work is deemed inefficient. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8a8c242c7259d7c6",
+      "text": ""
+    },
+    {
+      "type": "html",
+      "id": "6a464d259a0fc487",
+      "text": "<H3>See Also</h3>"
+    },
+    {
+      "type": "reference",
+      "id": "c4ef012651bbf264",
+      "site": "fedwiki.djon.es",
+      "title": "The SET Mindset",
+      "text": "Proposed as the dominant way of thinking that underpins most organisational practice, including university e-learning. It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that this way of thinking creates numerous limitations and may be a major contributor to the limited quality of university e-learning. It is proposed that incorporating more of [[The BAD Mindset]] offers some potential benefits."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Strategic",
+        "story": []
+      },
+      "date": 1419821985208
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f41d70b2785467b0"
+      },
+      "id": "f41d70b2785467b0",
+      "type": "add",
+      "date": 1419822005722
+    },
+    {
+      "type": "edit",
+      "id": "f41d70b2785467b0",
+      "item": {
+        "type": "paragraph",
+        "id": "f41d70b2785467b0",
+        "text": "A strategic approach involves the creation of a vision identifying a desired future state and the development of operational plans to bring about the desired future state. The only work that is deemed acceptable is that which fits within the established operational plan and is seen to contribute to the desired future state. All other work is deemed inefficient. "
+      },
+      "date": 1419822014360
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a464d259a0fc487"
+      },
+      "id": "6a464d259a0fc487",
+      "type": "add",
+      "after": "f41d70b2785467b0",
+      "date": 1419822016367
+    },
+    {
+      "type": "edit",
+      "id": "6a464d259a0fc487",
+      "item": {
+        "type": "html",
+        "id": "6a464d259a0fc487",
+        "text": "<H3>See Also</h3>"
+      },
+      "date": 1419822022968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4ef012651bbf264"
+      },
+      "id": "c4ef012651bbf264",
+      "type": "add",
+      "after": "6a464d259a0fc487",
+      "date": 1419822039087
+    },
+    {
+      "type": "edit",
+      "id": "c4ef012651bbf264",
+      "item": {
+        "type": "reference",
+        "id": "c4ef012651bbf264",
+        "site": "fedwiki.djon.es",
+        "title": "The SET Mindset",
+        "text": "Proposed as the dominant way of thinking that underpins most organisational practice, including university e-learning. It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that this way of thinking creates numerous limitations and may be a major contributor to the limited quality of university e-learning. It is proposed that incorporating more of [[The BAD Mindset]] offers some potential benefits."
+      },
+      "date": 1419822042296
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a8c242c7259d7c6",
+        "text": ""
+      },
+      "id": "8a8c242c7259d7c6",
+      "type": "add",
+      "after": "f41d70b2785467b0",
+      "date": 1419822061903
+    }
+  ]
+}

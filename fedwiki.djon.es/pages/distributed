@@ -9,7 +9,19 @@
     {
       "type": "paragraph",
       "id": "5c371673138fe7e7",
-      "text": "[[Hierarchical]] is an alternate way of understanding the world, and one more common within organisations and their operations."
+      "text": "[[Tree-like]] is an alternate way of understanding the world, and one more common within organisations and their operations."
+    },
+    {
+      "type": "html",
+      "id": "36af1b854008f21e",
+      "text": "<h3>See also</h3>\n"
+    },
+    {
+      "type": "reference",
+      "id": "ddc179da0568e69f",
+      "site": "fedwiki.djon.es",
+      "title": "The BAD Mindset",
+      "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
     }
   ],
   "journal": [
@@ -90,6 +102,58 @@
         "text": "[[Hierarchical]] is an alternate way of understanding the world, and one more common within organisations and their operations."
       },
       "date": 1419821337859
+    },
+    {
+      "type": "edit",
+      "id": "5c371673138fe7e7",
+      "item": {
+        "type": "paragraph",
+        "id": "5c371673138fe7e7",
+        "text": "[[Tree-like]] is an alternate way of understanding the world, and one more common within organisations and their operations."
+      },
+      "date": 1419821872088
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36af1b854008f21e"
+      },
+      "id": "36af1b854008f21e",
+      "type": "add",
+      "after": "5c371673138fe7e7",
+      "date": 1419821933525
+    },
+    {
+      "type": "edit",
+      "id": "36af1b854008f21e",
+      "item": {
+        "type": "html",
+        "id": "36af1b854008f21e",
+        "text": "<h3>See also</h3>\n"
+      },
+      "date": 1419821945781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ddc179da0568e69f"
+      },
+      "id": "ddc179da0568e69f",
+      "type": "add",
+      "after": "36af1b854008f21e",
+      "date": 1419821947560
+    },
+    {
+      "type": "edit",
+      "id": "ddc179da0568e69f",
+      "item": {
+        "type": "reference",
+        "id": "ddc179da0568e69f",
+        "site": "fedwiki.djon.es",
+        "title": "The BAD Mindset",
+        "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+      },
+      "date": 1419821950440
     }
   ]
 }

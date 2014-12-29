@@ -34,6 +34,13 @@
       "text": " "
     },
     {
+      "type": "reference",
+      "id": "ba22f3c8603deecc",
+      "site": "fedwiki.djon.es",
+      "title": "The BAD Mindset",
+      "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+    },
+    {
       "type": "html",
       "id": "357091b02824fac8",
       "text": "<h3>References</h3>\n"
@@ -343,6 +350,63 @@
       ],
       "id": "dc3b63800c2044ba",
       "date": 1419821069448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba22f3c8603deecc"
+      },
+      "id": "ba22f3c8603deecc",
+      "type": "add",
+      "after": "f3960f2c0638e60f",
+      "date": 1419821893756
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "cacbc28ceadad1e3",
+        "site": "fedwiki.djon.es",
+        "title": "The BAD Mindset",
+        "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+      },
+      "after": "357091b02824fac8",
+      "id": "cacbc28ceadad1e3",
+      "date": 1419821898058
+    },
+    {
+      "type": "remove",
+      "id": "cacbc28ceadad1e3",
+      "date": 1419821902829
+    },
+    {
+      "type": "edit",
+      "id": "ba22f3c8603deecc",
+      "item": {
+        "type": "reference",
+        "id": "ba22f3c8603deecc",
+        "site": "fedwiki.djon.es",
+        "title": "The BAD Mindset",
+        "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+      },
+      "date": 1419821910503
+    },
+    {
+      "type": "move",
+      "order": [
+        "7aec0b50c448da1e",
+        "081ba80b0aca334c",
+        "c61fa0e61fb78a09",
+        "661daabf5916e5b0",
+        "6e87660c30a9f697",
+        "dc3b63800c2044ba",
+        "ba22f3c8603deecc",
+        "357091b02824fac8",
+        "d87c007786e67135",
+        "f3960f2c0638e60f"
+      ],
+      "id": "ba22f3c8603deecc",
+      "date": 1419821915617
     }
   ]
 }

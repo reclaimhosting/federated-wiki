@@ -1,0 +1,453 @@
+{
+  "title": "Social men women",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9fbde1a879839a98",
+      "text": "containing some sample data to test graph plugins"
+    },
+    {
+      "type": "data",
+      "id": "62e419c8f7a11f81",
+      "columns": [
+        "word",
+        "sex",
+        "frequency",
+        "normalized"
+      ],
+      "data": [
+        {
+          "word": "0",
+          "sex": "1",
+          "frequency": "9",
+          "normalized": "0.15"
+        },
+        {
+          "word": "0",
+          "sex": "2",
+          "frequency": "29",
+          "normalized": "0.33"
+        }
+      ]
+    },
+    {
+      "type": "data",
+      "id": "ebc69c34e10e82cf",
+      "columns": [
+        "word",
+        "sex",
+        "frequency",
+        "normalized"
+      ],
+      "data": [
+        {
+          "word": "social",
+          "sex": "men",
+          "frequency": "9",
+          "normalized": "0.15"
+        },
+        {
+          "word": "social",
+          "sex": "women",
+          "frequency": "29",
+          "normalized": "0.33"
+        }
+      ]
+    },
+    {
+      "type": "data",
+      "id": "94fe01e979ae9d04",
+      "columns": [
+        "0",
+        "1",
+        "9",
+        "0.15"
+      ],
+      "data": [
+        {
+          "0": "0",
+          "1": "2",
+          "9": "29",
+          "0.15": "0.33"
+        }
+      ]
+    },
+    {
+      "type": "factory",
+      "id": "5daab4f8572c412d"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Social men women",
+        "story": []
+      },
+      "date": 1418833991778
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61bc601eac930f70"
+      },
+      "id": "61bc601eac930f70",
+      "type": "add",
+      "date": 1418833993746
+    },
+    {
+      "type": "edit",
+      "id": "61bc601eac930f70",
+      "item": {
+        "type": "bytebeat",
+        "id": "61bc601eac930f70",
+        "text": "50\n100"
+      },
+      "date": 1418835223426
+    },
+    {
+      "type": "edit",
+      "id": "61bc601eac930f70",
+      "item": {
+        "type": "bytebeat",
+        "id": "61bc601eac930f70",
+        "text": "50\n100\n10\n5\n1"
+      },
+      "date": 1418835239775
+    },
+    {
+      "type": "remove",
+      "id": "61bc601eac930f70",
+      "date": 1418835257936
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8d786efe5695ad9"
+      },
+      "id": "f8d786efe5695ad9",
+      "type": "add",
+      "date": 1418835260808
+    },
+    {
+      "type": "remove",
+      "id": "f8d786efe5695ad9",
+      "date": 1418835267466
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b016d60108f656e0"
+      },
+      "id": "b016d60108f656e0",
+      "type": "add",
+      "date": 1418835269036
+    },
+    {
+      "type": "edit",
+      "id": "b016d60108f656e0",
+      "item": {
+        "type": "method",
+        "id": "b016d60108f656e0",
+        "text": "5+10"
+      },
+      "date": 1418835286238
+    },
+    {
+      "type": "edit",
+      "id": "b016d60108f656e0",
+      "item": {
+        "type": "method",
+        "id": "b016d60108f656e0",
+        "text": "5+10="
+      },
+      "date": 1418835291345
+    },
+    {
+      "type": "remove",
+      "id": "b016d60108f656e0",
+      "date": 1418835298351
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c8f6a84f25797e0"
+      },
+      "id": "7c8f6a84f25797e0",
+      "type": "add",
+      "date": 1418835300100
+    },
+    {
+      "type": "edit",
+      "id": "7c8f6a84f25797e0",
+      "item": {
+        "type": "pagefold",
+        "id": "7c8f6a84f25797e0",
+        "text": "tee"
+      },
+      "date": 1418835308773
+    },
+    {
+      "type": "remove",
+      "id": "7c8f6a84f25797e0",
+      "date": 1418835316202
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8940f4e040be4e7a"
+      },
+      "id": "8940f4e040be4e7a",
+      "type": "add",
+      "date": 1419174960854
+    },
+    {
+      "type": "edit",
+      "id": "8940f4e040be4e7a",
+      "item": {
+        "type": "data",
+        "id": "8940f4e040be4e7a",
+        "columns": [
+          "word",
+          "sex",
+          "frequency",
+          "normalized"
+        ],
+        "data": [
+          {
+            "word": "social",
+            "sex": "men",
+            "frequency": "9",
+            "normalized": "0.15"
+          },
+          {
+            "word": "social",
+            "sex": "women",
+            "frequency": "29",
+            "normalized": "0.33"
+          }
+        ]
+      },
+      "date": 1419174972857
+    },
+    {
+      "type": "remove",
+      "id": "8940f4e040be4e7a",
+      "date": 1419175166859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebc69c34e10e82cf"
+      },
+      "id": "ebc69c34e10e82cf",
+      "type": "add",
+      "date": 1419175208340
+    },
+    {
+      "type": "edit",
+      "id": "ebc69c34e10e82cf",
+      "item": {
+        "type": "data",
+        "id": "ebc69c34e10e82cf",
+        "columns": [
+          "word",
+          "sex",
+          "frequency",
+          "normalized"
+        ],
+        "data": [
+          {
+            "word": "social",
+            "sex": "men",
+            "frequency": "9",
+            "normalized": "0.15"
+          },
+          {
+            "word": "social",
+            "sex": "women",
+            "frequency": "29",
+            "normalized": "0.33"
+          }
+        ]
+      },
+      "date": 1419175210715
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82705f4884fc79ba"
+      },
+      "id": "82705f4884fc79ba",
+      "type": "add",
+      "after": "ebc69c34e10e82cf",
+      "date": 1419175956071
+    },
+    {
+      "type": "remove",
+      "id": "82705f4884fc79ba",
+      "date": 1419176010932
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fbde1a879839a98"
+      },
+      "id": "9fbde1a879839a98",
+      "type": "add",
+      "after": "ebc69c34e10e82cf",
+      "date": 1419176037010
+    },
+    {
+      "type": "edit",
+      "id": "9fbde1a879839a98",
+      "item": {
+        "type": "paragraph",
+        "id": "9fbde1a879839a98",
+        "text": "containing some sample data to test graph plugins"
+      },
+      "date": 1419176070969
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "40aca0157e6f8cf0",
+        "type": "bars"
+      },
+      "id": "40aca0157e6f8cf0",
+      "date": 1419179586367
+    },
+    {
+      "type": "remove",
+      "id": "40aca0157e6f8cf0",
+      "date": 1419179596199
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62e419c8f7a11f81"
+      },
+      "id": "62e419c8f7a11f81",
+      "type": "add",
+      "after": "9fbde1a879839a98",
+      "date": 1419179723640
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "3b5471ff65bc4067",
+        "text": "20 Alpha\n30 Beta\n50 Gamma"
+      },
+      "id": "3b5471ff65bc4067",
+      "date": 1419179728635
+    },
+    {
+      "type": "remove",
+      "id": "3b5471ff65bc4067",
+      "date": 1419179775728
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94a02cc5a3f36b00"
+      },
+      "id": "94a02cc5a3f36b00",
+      "type": "add",
+      "after": "62e419c8f7a11f81",
+      "date": 1419814409639
+    },
+    {
+      "type": "edit",
+      "id": "62e419c8f7a11f81",
+      "item": {
+        "type": "data",
+        "id": "62e419c8f7a11f81",
+        "columns": [
+          "word",
+          "sex",
+          "frequency",
+          "normalized"
+        ],
+        "data": [
+          {
+            "word": "0",
+            "sex": "1",
+            "frequency": "9",
+            "normalized": "0.15"
+          },
+          {
+            "word": "0",
+            "sex": "2",
+            "frequency": "29",
+            "normalized": "0.33"
+          }
+        ]
+      },
+      "date": 1419814428971
+    },
+    {
+      "type": "move",
+      "order": [
+        "9fbde1a879839a98",
+        "62e419c8f7a11f81",
+        "94a02cc5a3f36b00",
+        "ebc69c34e10e82cf"
+      ],
+      "id": "ebc69c34e10e82cf",
+      "date": 1419814453931
+    },
+    {
+      "type": "remove",
+      "id": "94a02cc5a3f36b00",
+      "date": 1419814464718
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94fe01e979ae9d04"
+      },
+      "id": "94fe01e979ae9d04",
+      "type": "add",
+      "after": "ebc69c34e10e82cf",
+      "date": 1419814772418
+    },
+    {
+      "type": "edit",
+      "id": "94fe01e979ae9d04",
+      "item": {
+        "type": "data",
+        "id": "94fe01e979ae9d04",
+        "columns": [
+          "0",
+          "1",
+          "9",
+          "0.15"
+        ],
+        "data": [
+          {
+            "0": "0",
+            "1": "2",
+            "9": "29",
+            "0.15": "0.33"
+          }
+        ]
+      },
+      "date": 1419814787755
+    },
+    {
+      "type": "fork",
+      "site": "mura.uk.fedwikihappening.net"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5daab4f8572c412d"
+      },
+      "id": "5daab4f8572c412d",
+      "type": "add",
+      "after": "94fe01e979ae9d04",
+      "date": 1419827317800
+    }
+  ]
+}

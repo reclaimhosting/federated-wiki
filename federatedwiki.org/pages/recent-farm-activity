@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ad6c38f577b686e9"
+      "id": "9e25713af49d7522"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f60538b82b457cfb"
+      "id": "cd092503370df15e"
     },
     {
-      "date": 1419891602000,
+      "date": 1419892541000,
+      "site": "fedwiki.djon.es",
+      "slug": "strategic",
+      "title": "Strategic",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 42 pages.",
+      "type": "reference",
+      "id": "1ed840f164523fd2"
+    },
+    {
+      "date": 1419892201000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "bd021719aa5ad1a3"
-    },
-    {
-      "date": 1419848606000,
-      "site": "fedwiki.djon.es",
-      "slug": "tree-like",
-      "title": "Tree-like",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 41 pages.",
-      "type": "reference",
-      "id": "9066b1be0c68944b"
+      "id": "ee2b5530d76785a7"
     },
     {
       "date": 1419845492000,
@@ -36,7 +36,7 @@
       "title": "Before Posting to NetNews",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "9015ff7f5d260db0"
+      "id": "79fcad1acce78e3d"
     },
     {
       "date": 1419147080000,
@@ -45,69 +45,69 @@
       "title": "Welcome Visitors",
       "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
       "type": "reference",
-      "id": "e81b31a0eb7d665f"
+      "id": "a2cf95bda98e0bf1"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4f039d9aaf91384f",
+      "id": "b82179fb1fb2d3be",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     },
     {
       "type": "add",
-      "id": "ad6c38f577b686e9",
+      "id": "9e25713af49d7522",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ad6c38f577b686e9"
+        "id": "9e25713af49d7522"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     },
     {
       "type": "add",
-      "id": "f60538b82b457cfb",
+      "id": "cd092503370df15e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f60538b82b457cfb"
+        "id": "cd092503370df15e"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     },
     {
       "type": "add",
-      "id": "bd021719aa5ad1a3",
+      "id": "1ed840f164523fd2",
       "item": {
-        "date": 1419891602000,
+        "date": 1419892541000,
+        "site": "fedwiki.djon.es",
+        "slug": "strategic",
+        "title": "Strategic",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 42 pages.",
+        "type": "reference",
+        "id": "1ed840f164523fd2"
+      },
+      "date": 1419892801000
+    },
+    {
+      "type": "add",
+      "id": "ee2b5530d76785a7",
+      "item": {
+        "date": 1419892201000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "bd021719aa5ad1a3"
+        "id": "ee2b5530d76785a7"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     },
     {
       "type": "add",
-      "id": "9066b1be0c68944b",
-      "item": {
-        "date": 1419848606000,
-        "site": "fedwiki.djon.es",
-        "slug": "tree-like",
-        "title": "Tree-like",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 41 pages.",
-        "type": "reference",
-        "id": "9066b1be0c68944b"
-      },
-      "date": 1419892201000
-    },
-    {
-      "type": "add",
-      "id": "9015ff7f5d260db0",
+      "id": "79fcad1acce78e3d",
       "item": {
         "date": 1419845492000,
         "site": "tmtm.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "Before Posting to NetNews",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "9015ff7f5d260db0"
+        "id": "79fcad1acce78e3d"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     },
     {
       "type": "add",
-      "id": "e81b31a0eb7d665f",
+      "id": "a2cf95bda98e0bf1",
       "item": {
         "date": 1419147080000,
         "site": "djones.federatedwiki.org",
@@ -129,9 +129,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
         "type": "reference",
-        "id": "e81b31a0eb7d665f"
+        "id": "a2cf95bda98e0bf1"
       },
-      "date": 1419892201000
+      "date": 1419892801000
     }
   ]
 }

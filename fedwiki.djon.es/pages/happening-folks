@@ -305,6 +305,13 @@
       "site": "tim.au.fedwikihappening.net",
       "title": "Tim Klapdor",
       "text": "I’m an Innovation Technology Officer at [http://www.csu.edu.au/ Charles Sturt University] in [http://goo.gl/PQxZ6U Wagga Wagga], Australia."
+    },
+    {
+      "type": "reference",
+      "id": "1d91d3e64f88254f",
+      "site": "fedwiki.djon.es",
+      "title": "David Jones",
+      "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])"
     }
   ],
   "journal": [
@@ -3538,6 +3545,55 @@
       "type": "remove",
       "id": "1813c711439c131f",
       "date": 1419814169194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "515dd300fbfe44f5"
+      },
+      "id": "515dd300fbfe44f5",
+      "type": "add",
+      "after": "4791e85670ebdaca",
+      "date": 1419814421631
+    },
+    {
+      "type": "edit",
+      "id": "515dd300fbfe44f5",
+      "item": {
+        "type": "reference",
+        "id": "515dd300fbfe44f5",
+        "site": "fedwiki.djon.es",
+        "title": "David Jones",
+        "text": "Uploaded image"
+      },
+      "date": 1419814425746
+    },
+    {
+      "type": "remove",
+      "id": "515dd300fbfe44f5",
+      "date": 1419814498382
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d91d3e64f88254f"
+      },
+      "id": "1d91d3e64f88254f",
+      "type": "add",
+      "after": "4791e85670ebdaca",
+      "date": 1419814500753
+    },
+    {
+      "type": "edit",
+      "id": "1d91d3e64f88254f",
+      "item": {
+        "type": "reference",
+        "id": "1d91d3e64f88254f",
+        "site": "fedwiki.djon.es",
+        "title": "David Jones",
+        "text": "Senior Lecturer at the University of Southern Queensland ([http://usq.edu.au uni website])"
+      },
+      "date": 1419814503358
     }
   ]
 }

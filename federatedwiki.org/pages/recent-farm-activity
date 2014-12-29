@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c0ce9c9fbf0c1dff"
+      "id": "1ad7dbed110060da"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "65d9356aa85c6c5e"
+      "id": "84386d583b2ad3ce"
+    },
+    {
+      "date": 1419846001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "4ef8a19f4e2ad48e"
     },
     {
       "date": 1419845492000,
@@ -18,16 +27,7 @@
       "title": "Before Posting to NetNews",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "9ec1c57556894488"
-    },
-    {
-      "date": 1419845401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "3aac39165eea09e4"
+      "id": "a6d0a41c5e7ce9b1"
     },
     {
       "date": 1419830776000,
@@ -36,7 +36,7 @@
       "title": "Italian Broccoli",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 40 pages.",
       "type": "reference",
-      "id": "f14b6c559f8df50e"
+      "id": "4ac236bab2f52725"
     },
     {
       "date": 1419147080000,
@@ -45,41 +45,55 @@
       "title": "Welcome Visitors",
       "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
       "type": "reference",
-      "id": "02d835c5f9d53827"
+      "id": "57f3dc3c70c54cc6"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "86a1f9cc69be677f",
+      "id": "c1d98ca9b3772272",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     },
     {
       "type": "add",
-      "id": "c0ce9c9fbf0c1dff",
+      "id": "1ad7dbed110060da",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c0ce9c9fbf0c1dff"
+        "id": "1ad7dbed110060da"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     },
     {
       "type": "add",
-      "id": "65d9356aa85c6c5e",
+      "id": "84386d583b2ad3ce",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "65d9356aa85c6c5e"
+        "id": "84386d583b2ad3ce"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     },
     {
       "type": "add",
-      "id": "9ec1c57556894488",
+      "id": "4ef8a19f4e2ad48e",
+      "item": {
+        "date": 1419846001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "4ef8a19f4e2ad48e"
+      },
+      "date": 1419846601000
+    },
+    {
+      "type": "add",
+      "id": "a6d0a41c5e7ce9b1",
       "item": {
         "date": 1419845492000,
         "site": "tmtm.federatedwiki.org",
@@ -87,27 +101,13 @@
         "title": "Before Posting to NetNews",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "9ec1c57556894488"
+        "id": "a6d0a41c5e7ce9b1"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     },
     {
       "type": "add",
-      "id": "3aac39165eea09e4",
-      "item": {
-        "date": 1419845401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "3aac39165eea09e4"
-      },
-      "date": 1419846001000
-    },
-    {
-      "type": "add",
-      "id": "f14b6c559f8df50e",
+      "id": "4ac236bab2f52725",
       "item": {
         "date": 1419830776000,
         "site": "fedwiki.djon.es",
@@ -115,13 +115,13 @@
         "title": "Italian Broccoli",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 40 pages.",
         "type": "reference",
-        "id": "f14b6c559f8df50e"
+        "id": "4ac236bab2f52725"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     },
     {
       "type": "add",
-      "id": "02d835c5f9d53827",
+      "id": "57f3dc3c70c54cc6",
       "item": {
         "date": 1419147080000,
         "site": "djones.federatedwiki.org",
@@ -129,9 +129,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
         "type": "reference",
-        "id": "02d835c5f9d53827"
+        "id": "57f3dc3c70c54cc6"
       },
-      "date": 1419846001000
+      "date": 1419846601000
     }
   ]
 }

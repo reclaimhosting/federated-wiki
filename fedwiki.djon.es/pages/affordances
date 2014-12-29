@@ -14,7 +14,39 @@
     {
       "type": "paragraph",
       "id": "c61fa0e61fb78a09",
-      "text": ""
+      "text": "Rushkoff (2010) later observed that computers are \"biased toward those with the capacity to write code\". (p. 128)"
+    },
+    {
+      "type": "paragraph",
+      "id": "661daabf5916e5b0",
+      "text": "An alternate perspective is the [[Established]] view of ICT."
+    },
+    {
+      "type": "html",
+      "id": "6e87660c30a9f697",
+      "text": "<h3>See also</h3>\n"
+    },
+    {
+      "type": "reference",
+      "id": "dc3b63800c2044ba",
+      "site": "fedwiki.djon.es",
+      "title": "Concrete Lounge",
+      "text": " "
+    },
+    {
+      "type": "html",
+      "id": "357091b02824fac8",
+      "text": "<h3>References</h3>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d87c007786e67135",
+      "text": "Kay, A. (1984). Computer Software. Scientific American, 251(3), 53-59."
+    },
+    {
+      "type": "paragraph",
+      "id": "f3960f2c0638e60f",
+      "text": "Rushkoff, D. (2010). Program or be programmed: Ten commands for a digital age. New York: OR Books."
     }
   ],
   "journal": [
@@ -131,6 +163,186 @@
       "type": "add",
       "after": "081ba80b0aca334c",
       "date": 1419820850084
+    },
+    {
+      "type": "edit",
+      "id": "c61fa0e61fb78a09",
+      "item": {
+        "type": "paragraph",
+        "id": "c61fa0e61fb78a09",
+        "text": "Rushkoff (2010) later observed that computers are \"biased toward those with the capacity to write code\". (p. 128)"
+      },
+      "date": 1419820907086
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "357091b02824fac8"
+      },
+      "id": "357091b02824fac8",
+      "type": "add",
+      "after": "c61fa0e61fb78a09",
+      "date": 1419820910124
+    },
+    {
+      "type": "edit",
+      "id": "357091b02824fac8",
+      "item": {
+        "type": "html",
+        "id": "357091b02824fac8",
+        "text": "<h3>References</h3>\n"
+      },
+      "date": 1419820919086
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d87c007786e67135"
+      },
+      "id": "d87c007786e67135",
+      "type": "add",
+      "after": "357091b02824fac8",
+      "date": 1419820938191
+    },
+    {
+      "type": "edit",
+      "id": "d87c007786e67135",
+      "item": {
+        "type": "paragraph",
+        "id": "d87c007786e67135",
+        "text": "Kay, A. (1984). Computer Software. Scientific American, 251(3), 53-59."
+      },
+      "date": 1419820940750
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d769b0ccce25b058",
+        "text": ""
+      },
+      "id": "d769b0ccce25b058",
+      "type": "add",
+      "after": "d87c007786e67135",
+      "date": 1419820940757
+    },
+    {
+      "type": "remove",
+      "id": "d769b0ccce25b058",
+      "date": 1419820942009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3960f2c0638e60f"
+      },
+      "id": "f3960f2c0638e60f",
+      "type": "add",
+      "after": "d87c007786e67135",
+      "date": 1419820949021
+    },
+    {
+      "type": "edit",
+      "id": "f3960f2c0638e60f",
+      "item": {
+        "type": "paragraph",
+        "id": "f3960f2c0638e60f",
+        "text": "Rushkoff, D. (2010). Program or be programmed: Ten commands for a digital age. New York: OR Books."
+      },
+      "date": 1419820951725
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "661daabf5916e5b0",
+        "text": ""
+      },
+      "id": "661daabf5916e5b0",
+      "type": "add",
+      "after": "c61fa0e61fb78a09",
+      "date": 1419820960434
+    },
+    {
+      "type": "edit",
+      "id": "661daabf5916e5b0",
+      "item": {
+        "type": "paragraph",
+        "id": "661daabf5916e5b0",
+        "text": "An alternate perspective is the [[Established]] view of ICT."
+      },
+      "date": 1419820988084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e87660c30a9f697"
+      },
+      "id": "6e87660c30a9f697",
+      "type": "add",
+      "after": "f3960f2c0638e60f",
+      "date": 1419821001151
+    },
+    {
+      "type": "edit",
+      "id": "6e87660c30a9f697",
+      "item": {
+        "type": "html",
+        "id": "6e87660c30a9f697",
+        "text": "<h3>See also</h3>\n"
+      },
+      "date": 1419821013554
+    },
+    {
+      "type": "move",
+      "order": [
+        "7aec0b50c448da1e",
+        "081ba80b0aca334c",
+        "c61fa0e61fb78a09",
+        "661daabf5916e5b0",
+        "6e87660c30a9f697",
+        "357091b02824fac8",
+        "d87c007786e67135",
+        "f3960f2c0638e60f"
+      ],
+      "id": "6e87660c30a9f697",
+      "date": 1419821015939
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc3b63800c2044ba"
+      },
+      "id": "dc3b63800c2044ba",
+      "type": "add",
+      "after": "f3960f2c0638e60f",
+      "date": 1419821059018
+    },
+    {
+      "type": "edit",
+      "id": "dc3b63800c2044ba",
+      "item": {
+        "type": "reference",
+        "id": "dc3b63800c2044ba",
+        "site": "fedwiki.djon.es",
+        "title": "Concrete Lounge",
+        "text": " "
+      },
+      "date": 1419821064498
+    },
+    {
+      "type": "move",
+      "order": [
+        "7aec0b50c448da1e",
+        "081ba80b0aca334c",
+        "c61fa0e61fb78a09",
+        "661daabf5916e5b0",
+        "6e87660c30a9f697",
+        "dc3b63800c2044ba",
+        "357091b02824fac8",
+        "d87c007786e67135",
+        "f3960f2c0638e60f"
+      ],
+      "id": "dc3b63800c2044ba",
+      "date": 1419821069448
     }
   ]
 }

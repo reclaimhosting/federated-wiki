@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "1259bab2deee1361"
+      "id": "114629d5c24e1a22"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "340fa70fc68fe9ae"
+      "id": "f86e0d36d6a7d959"
+    },
+    {
+      "date": 1419831001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "43b6f7c04d6bfdf6"
     },
     {
       "date": 1419830776000,
@@ -18,16 +27,7 @@
       "title": "Italian Broccoli",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 40 pages.",
       "type": "reference",
-      "id": "f008b0deaa6b4a58"
-    },
-    {
-      "date": 1419830401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "2012e6b16209a0cd"
+      "id": "178057ae43a2816e"
     },
     {
       "date": 1419330799000,
@@ -36,7 +36,7 @@
       "title": "Agile v. Wiki v. Open",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 48 pages.",
       "type": "reference",
-      "id": "97398fbac68ac0fb"
+      "id": "3090e05787618d94"
     },
     {
       "date": 1419147080000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
       "type": "reference",
-      "id": "2ab72e368e24d5cc"
+      "id": "591dfcfc76b5f53d"
     },
     {
       "date": 1418976997000,
@@ -54,41 +54,55 @@
       "title": "Welcome Visitors",
       "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
       "type": "reference",
-      "id": "7fb3a2a5b15b6c2c"
+      "id": "446b3704c94a85f3"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "328aae982f5fe550",
+      "id": "3b20c1a6f0b1c3cb",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "1259bab2deee1361",
+      "id": "114629d5c24e1a22",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "1259bab2deee1361"
+        "id": "114629d5c24e1a22"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "340fa70fc68fe9ae",
+      "id": "f86e0d36d6a7d959",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "340fa70fc68fe9ae"
+        "id": "f86e0d36d6a7d959"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "f008b0deaa6b4a58",
+      "id": "43b6f7c04d6bfdf6",
+      "item": {
+        "date": 1419831001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "43b6f7c04d6bfdf6"
+      },
+      "date": 1419831601000
+    },
+    {
+      "type": "add",
+      "id": "178057ae43a2816e",
       "item": {
         "date": 1419830776000,
         "site": "fedwiki.djon.es",
@@ -96,27 +110,13 @@
         "title": "Italian Broccoli",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 40 pages.",
         "type": "reference",
-        "id": "f008b0deaa6b4a58"
+        "id": "178057ae43a2816e"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "2012e6b16209a0cd",
-      "item": {
-        "date": 1419830401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "2012e6b16209a0cd"
-      },
-      "date": 1419831001000
-    },
-    {
-      "type": "add",
-      "id": "97398fbac68ac0fb",
+      "id": "3090e05787618d94",
       "item": {
         "date": 1419330799000,
         "site": "tmtm.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "Agile v. Wiki v. Open",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 48 pages.",
         "type": "reference",
-        "id": "97398fbac68ac0fb"
+        "id": "3090e05787618d94"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "2ab72e368e24d5cc",
+      "id": "591dfcfc76b5f53d",
       "item": {
         "date": 1419147080000,
         "site": "djones.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://djones.federatedwiki.org djones.federatedwiki.org] with 14 pages.",
         "type": "reference",
-        "id": "2ab72e368e24d5cc"
+        "id": "591dfcfc76b5f53d"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     },
     {
       "type": "add",
-      "id": "7fb3a2a5b15b6c2c",
+      "id": "446b3704c94a85f3",
       "item": {
         "date": 1418976997000,
         "site": "daveh70.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
         "type": "reference",
-        "id": "7fb3a2a5b15b6c2c"
+        "id": "446b3704c94a85f3"
       },
-      "date": 1419831001000
+      "date": 1419831601000
     }
   ]
 }

@@ -305,10 +305,6 @@
       "site": "tim.au.fedwikihappening.net",
       "title": "Tim Klapdor",
       "text": "I’m an Innovation Technology Officer at [http://www.csu.edu.au/ Charles Sturt University] in [http://goo.gl/PQxZ6U Wagga Wagga], Australia."
-    },
-    {
-      "type": "factory",
-      "id": "dedea8862769593b"
     }
   ],
   "journal": [
@@ -3454,6 +3450,94 @@
       "type": "add",
       "after": "4791e85670ebdaca",
       "date": 1418884865008
+    },
+    {
+      "type": "remove",
+      "id": "dedea8862769593b",
+      "date": 1419814079724
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1813c711439c131f"
+      },
+      "id": "1813c711439c131f",
+      "type": "add",
+      "after": "4791e85670ebdaca",
+      "date": 1419814127944
+    },
+    {
+      "type": "edit",
+      "id": "1813c711439c131f",
+      "item": {
+        "type": "paragraph",
+        "id": "1813c711439c131f",
+        "text": "fedwiki.djon.es/david-jones.html"
+      },
+      "date": 1419814132352
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b4a8a9d75cdd4bc",
+        "text": ""
+      },
+      "id": "8b4a8a9d75cdd4bc",
+      "type": "add",
+      "after": "1813c711439c131f",
+      "date": 1419814132359
+    },
+    {
+      "type": "remove",
+      "id": "8b4a8a9d75cdd4bc",
+      "date": 1419814136178
+    },
+    {
+      "type": "edit",
+      "id": "1813c711439c131f",
+      "item": {
+        "type": "paragraph",
+        "id": "1813c711439c131f",
+        "text": "[David Jones]"
+      },
+      "date": 1419814140511
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "28fd527f76004929",
+        "text": ""
+      },
+      "id": "28fd527f76004929",
+      "type": "add",
+      "after": "1813c711439c131f",
+      "date": 1419814140528
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "after": "1813c711439c131f",
+      "id": "7b56f22a4b9ee974",
+      "date": 1419814154058
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1419814160028
+    },
+    {
+      "type": "remove",
+      "id": "28fd527f76004929",
+      "date": 1419814163011
+    },
+    {
+      "type": "remove",
+      "id": "1813c711439c131f",
+      "date": 1419814169194
     }
   ]
 }

@@ -1,0 +1,400 @@
+{
+  "title": "Conversation Clubs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc1853f445feb928",
+      "text": "We're generating an index of conversations that links to all copies of that conversation. This opens a new tab where the neighborhood will contain only the sites owning and mentioned on those pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d0373c4146a4b0e",
+      "text": "Fork this page. Then click here:"
+    },
+    {
+      "type": "paragraph",
+      "id": "502daf259efd2859",
+      "text": "See [http://fed.wiki.org/trending.html Conversations]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f8c4fa29fdf19b1",
+      "text": "(We want the referrer to be your site, not any other.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "149f37e90d078407",
+      "text": "We generate the conversations index by retrieving a recent sitemap for every site in the happening. This is somewhat like Recent Changes when you have loaded every site into your neighborhood. Except we do this loading for you every five minutes."
+    },
+    {
+      "type": "paragraph",
+      "id": "19ab31c2c06841fb",
+      "text": "We generate a link to a conversation by adding every version of a page to a lineup in that link. When you click a conversation link you will see those pages with the most recently edited ones first. You will also be filling the neighborhood of that tab with just these people. The feeling should be that you've entered a conversation with all the right people."
+    },
+    {
+      "type": "paragraph",
+      "id": "e5ef281fa9906f28",
+      "text": "If you fork one of these pages then your fork will automatically be in the next release of the conversation index. This works because we're reading your sitemap too. We read all of the sitemaps for sites mentioned in Happening Folks. If you're on that list we'll share what you've been doing with all the conversation clubs."
+    },
+    {
+      "type": "paragraph",
+      "id": "37e4f7d610259cc7",
+      "text": "See [[Old to New, Left to Right]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e58943c146d8002f",
+      "text": "Ward and Paul wrote the first version of the index generating script during [[Office Hours]]. [https://gist.github.com/WardCunningham/fcdf01be9c23fdf652b1 gist]"
+    },
+    {
+      "type": "paragraph",
+      "id": "90ef514ebabe2e9f",
+      "text": "The idea came from pondering how we might read conversations [[As If I Were You]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Conversation Clubs",
+        "story": []
+      },
+      "date": 1419347819414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc1853f445feb928"
+      },
+      "id": "cc1853f445feb928",
+      "type": "add",
+      "date": 1419347821606
+    },
+    {
+      "type": "edit",
+      "id": "cc1853f445feb928",
+      "item": {
+        "type": "paragraph",
+        "id": "cc1853f445feb928",
+        "text": "We're generating an index of conversations that links to all copies of that conversation. This opens a new tab where the neighborhood will contain only the sites owning and mentioned on those pages."
+      },
+      "date": 1419348015746
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "502daf259efd2859"
+      },
+      "id": "502daf259efd2859",
+      "type": "add",
+      "after": "cc1853f445feb928",
+      "date": 1419348018569
+    },
+    {
+      "type": "edit",
+      "id": "502daf259efd2859",
+      "item": {
+        "type": "paragraph",
+        "id": "502daf259efd2859",
+        "text": "[http://localhost:3000/trending.html Conversations Now]"
+      },
+      "date": 1419348121465
+    },
+    {
+      "type": "edit",
+      "id": "502daf259efd2859",
+      "item": {
+        "type": "paragraph",
+        "id": "502daf259efd2859",
+        "text": "See [http://localhost:3000/trending.html Conversations]"
+      },
+      "date": 1419348133899
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "149f37e90d078407"
+      },
+      "id": "149f37e90d078407",
+      "type": "add",
+      "after": "502daf259efd2859",
+      "date": 1419351658417
+    },
+    {
+      "type": "edit",
+      "id": "149f37e90d078407",
+      "item": {
+        "type": "paragraph",
+        "id": "149f37e90d078407",
+        "text": "We generate the index by retrieving a recent sitemap for every site in the happening. "
+      },
+      "date": 1419351748192
+    },
+    {
+      "type": "edit",
+      "id": "502daf259efd2859",
+      "item": {
+        "type": "paragraph",
+        "id": "502daf259efd2859",
+        "text": "See [http://localhost:3000/trending.html Conversations] index."
+      },
+      "date": 1419351752502
+    },
+    {
+      "type": "edit",
+      "id": "502daf259efd2859",
+      "item": {
+        "type": "paragraph",
+        "id": "502daf259efd2859",
+        "text": "See [http://localhost:3000/trending.html Conversations]"
+      },
+      "date": 1419351761768
+    },
+    {
+      "type": "edit",
+      "id": "149f37e90d078407",
+      "item": {
+        "type": "paragraph",
+        "id": "149f37e90d078407",
+        "text": "We generate the conversations index by retrieving a recent sitemap for every site in the happening. This is somewhat like Recent Changes when you have loaded every site into your neighborhood. Except we do this loading for you every five minutes."
+      },
+      "date": 1419351843895
+    },
+    {
+      "type": "add",
+      "id": "19ab31c2c06841fb",
+      "item": {
+        "type": "paragraph",
+        "id": "19ab31c2c06841fb",
+        "text": "We generate a link to a conversation by adding every version of a page to a lineup in that link. When you click a conversation link you will see those pages with the most recently edited ones first. You will also be filling the neighborhood of that tab with just these people. The feeling should be that you've entered a conversation with all the right people."
+      },
+      "after": "149f37e90d078407",
+      "date": 1419352072319
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5ef281fa9906f28"
+      },
+      "id": "e5ef281fa9906f28",
+      "type": "add",
+      "after": "19ab31c2c06841fb",
+      "date": 1419352080216
+    },
+    {
+      "type": "edit",
+      "id": "e5ef281fa9906f28",
+      "item": {
+        "type": "paragraph",
+        "id": "e5ef281fa9906f28",
+        "text": "If you fork one of these pages then you will automatically be in the next release of the conversation index. You will be included because we're reading your sitemap too."
+      },
+      "date": 1419352167544
+    },
+    {
+      "type": "edit",
+      "id": "e5ef281fa9906f28",
+      "item": {
+        "type": "paragraph",
+        "id": "e5ef281fa9906f28",
+        "text": "If you fork one of these pages then your fork will automatically be in the next release of the conversation index. This works because we're reading your sitemap too."
+      },
+      "date": 1419352338083
+    },
+    {
+      "type": "edit",
+      "id": "e5ef281fa9906f28",
+      "item": {
+        "type": "paragraph",
+        "id": "e5ef281fa9906f28",
+        "text": "If you fork one of these pages then your fork will automatically be in the next release of the conversation index. This works because we're reading your sitemap too. We read all of the sitemaps for sites mentioned in Happening Folks."
+      },
+      "date": 1419352417457
+    },
+    {
+      "type": "edit",
+      "id": "e5ef281fa9906f28",
+      "item": {
+        "type": "paragraph",
+        "id": "e5ef281fa9906f28",
+        "text": "If you fork one of these pages then your fork will automatically be in the next release of the conversation index. This works because we're reading your sitemap too. We read all of the sitemaps for sites mentioned in Happening Folks. If you're on that list we'll share what you've been doing with all the conversation clubs."
+      },
+      "date": 1419352473508
+    },
+    {
+      "type": "edit",
+      "id": "502daf259efd2859",
+      "item": {
+        "type": "paragraph",
+        "id": "502daf259efd2859",
+        "text": "See [http://fed.wiki.org/trending.html Conversations]"
+      },
+      "date": 1419353253846
+    },
+    {
+      "type": "fork",
+      "site": "localhost:3000",
+      "date": 1419353369701
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2d0373c4146a4b0e",
+        "text": ""
+      },
+      "id": "2d0373c4146a4b0e",
+      "type": "add",
+      "after": "cc1853f445feb928",
+      "date": 1419353478977
+    },
+    {
+      "type": "edit",
+      "id": "2d0373c4146a4b0e",
+      "item": {
+        "type": "paragraph",
+        "id": "2d0373c4146a4b0e",
+        "text": "Fork this page. Then click Conversations."
+      },
+      "date": 1419353528696
+    },
+    {
+      "type": "edit",
+      "id": "2d0373c4146a4b0e",
+      "item": {
+        "type": "paragraph",
+        "id": "2d0373c4146a4b0e",
+        "text": "Fork this page. Then click here:"
+      },
+      "date": 1419353536878
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7f8c4fa29fdf19b1",
+        "text": ""
+      },
+      "id": "7f8c4fa29fdf19b1",
+      "type": "add",
+      "after": "502daf259efd2859",
+      "date": 1419353563772
+    },
+    {
+      "type": "edit",
+      "id": "7f8c4fa29fdf19b1",
+      "item": {
+        "type": "paragraph",
+        "id": "7f8c4fa29fdf19b1",
+        "text": "(The script knows you because your fork will be its referrer.)"
+      },
+      "date": 1419353632442
+    },
+    {
+      "type": "edit",
+      "id": "7f8c4fa29fdf19b1",
+      "item": {
+        "type": "paragraph",
+        "id": "7f8c4fa29fdf19b1",
+        "text": "(When you fork, you become the referrer used by the scrip.)"
+      },
+      "date": 1419353661364
+    },
+    {
+      "type": "edit",
+      "id": "7f8c4fa29fdf19b1",
+      "item": {
+        "type": "paragraph",
+        "id": "7f8c4fa29fdf19b1",
+        "text": "(When you fork, you become the referrer.)"
+      },
+      "date": 1419353677585
+    },
+    {
+      "type": "edit",
+      "id": "7f8c4fa29fdf19b1",
+      "item": {
+        "type": "paragraph",
+        "id": "7f8c4fa29fdf19b1",
+        "text": "(We want the referrer to be your site, not any other.)"
+      },
+      "date": 1419353751680
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e58943c146d8002f",
+        "text": ""
+      },
+      "id": "e58943c146d8002f",
+      "type": "add",
+      "after": "e5ef281fa9906f28",
+      "date": 1419353993785
+    },
+    {
+      "type": "edit",
+      "id": "e58943c146d8002f",
+      "item": {
+        "type": "paragraph",
+        "id": "e58943c146d8002f",
+        "text": "Ward and Paul wrote this script during Office Hours. [https://gist.github.com/WardCunningham/fcdf01be9c23fdf652b1 gist]"
+      },
+      "date": 1419354052757
+    },
+    {
+      "type": "edit",
+      "id": "e58943c146d8002f",
+      "item": {
+        "type": "paragraph",
+        "id": "e58943c146d8002f",
+        "text": "Ward and Paul wrote the first version of the index generating script during Office Hours. [https://gist.github.com/WardCunningham/fcdf01be9c23fdf652b1 gist]"
+      },
+      "date": 1419354088724
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "90ef514ebabe2e9f",
+        "text": ""
+      },
+      "id": "90ef514ebabe2e9f",
+      "type": "add",
+      "after": "e58943c146d8002f",
+      "date": 1419354096719
+    },
+    {
+      "type": "edit",
+      "id": "90ef514ebabe2e9f",
+      "item": {
+        "type": "paragraph",
+        "id": "90ef514ebabe2e9f",
+        "text": "The idea came from pondering how we might read conversations [[As If I Were You]]."
+      },
+      "date": 1419354155086
+    },
+    {
+      "type": "edit",
+      "id": "e58943c146d8002f",
+      "item": {
+        "type": "paragraph",
+        "id": "e58943c146d8002f",
+        "text": "Ward and Paul wrote the first version of the index generating script during [[Office Hours]]. [https://gist.github.com/WardCunningham/fcdf01be9c23fdf652b1 gist]"
+      },
+      "date": 1419354295289
+    },
+    {
+      "type": "add",
+      "id": "37e4f7d610259cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "37e4f7d610259cc7",
+        "text": "See [[Old to New, Left to Right]]"
+      },
+      "after": "e5ef281fa9906f28",
+      "date": 1419385847893
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1419917753559
+    }
+  ]
+}

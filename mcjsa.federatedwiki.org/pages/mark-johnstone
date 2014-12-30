@@ -1,6 +1,17 @@
 {
   "title": "Mark Johnstone",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9c653ea464a06c6b",
+      "text": "Mark is based in Qatar where he works as an English Language Instructor for the University of New Haven's program in Fire  Safety Management and Fire Safety Engineering. Mark also works as an instructional designers, language education specialist at Clemson University Online, Clemson, South Carolina."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac1286b72ff234aa",
+      "text": ""
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -23,6 +34,50 @@
       "type": "remove",
       "id": "cf675f507f2db2b4",
       "date": 1419955472896
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c0d4b0cc8d8cd877"
+      },
+      "id": "c0d4b0cc8d8cd877",
+      "type": "add",
+      "date": 1419956213498
+    },
+    {
+      "type": "remove",
+      "id": "c0d4b0cc8d8cd877",
+      "date": 1419956315714
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c653ea464a06c6b"
+      },
+      "id": "9c653ea464a06c6b",
+      "type": "add",
+      "date": 1419956326118
+    },
+    {
+      "type": "edit",
+      "id": "9c653ea464a06c6b",
+      "item": {
+        "type": "paragraph",
+        "id": "9c653ea464a06c6b",
+        "text": "Mark is based in Qatar where he works as an English Language Instructor for the University of New Haven's program in Fire  Safety Management and Fire Safety Engineering. Mark also works as an instructional designers, language education specialist at Clemson University Online, Clemson, South Carolina."
+      },
+      "date": 1419956451504
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ac1286b72ff234aa",
+        "text": ""
+      },
+      "id": "ac1286b72ff234aa",
+      "type": "add",
+      "after": "9c653ea464a06c6b",
+      "date": 1419956451510
     }
   ]
 }

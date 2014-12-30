@@ -2,14 +2,13 @@
   "title": "Mark Johnstone",
   "story": [
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "9c653ea464a06c6b",
-      "text": "Mark is based in Qatar where he works as an English Language Instructor for the University of New Haven's program in Fire  Safety Management and Fire Safety Engineering. Mark also works as an instructional designers, language education specialist at Clemson University Online, Clemson, South Carolina."
+      "text": "Mark is an instructional designer for Clemson University Online in Clemson, South Carolina. "
     },
     {
-      "type": "paragraph",
-      "id": "ac1286b72ff234aa",
-      "text": ""
+      "type": "factory",
+      "id": "480b429ab398f05e"
     }
   ],
   "journal": [
@@ -78,6 +77,51 @@
       "type": "add",
       "after": "9c653ea464a06c6b",
       "date": 1419956451510
+    },
+    {
+      "type": "remove",
+      "id": "ac1286b72ff234aa",
+      "date": 1419956458623
+    },
+    {
+      "type": "edit",
+      "id": "9c653ea464a06c6b",
+      "item": {
+        "type": "html",
+        "id": "9c653ea464a06c6b",
+        "text": "Mark is based in Qatar where he works as an English Language Instructor for the University of New Haven's program in Fire  Safety Management and Fire Safety Engineering. Mark also works as an instructional designers, language education specialist at Clemson University Online, Clemson, South Carolina."
+      },
+      "date": 1419956469380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "480b429ab398f05e"
+      },
+      "id": "480b429ab398f05e",
+      "type": "add",
+      "after": "9c653ea464a06c6b",
+      "date": 1419956518528
+    },
+    {
+      "type": "edit",
+      "id": "9c653ea464a06c6b",
+      "item": {
+        "type": "html",
+        "id": "9c653ea464a06c6b",
+        "text": "Mark "
+      },
+      "date": 1419956559105
+    },
+    {
+      "type": "edit",
+      "id": "9c653ea464a06c6b",
+      "item": {
+        "type": "html",
+        "id": "9c653ea464a06c6b",
+        "text": "Mark is an instructional designer for Clemson University Online in Clemson, South Carolina. "
+      },
+      "date": 1419956671420
     }
   ]
 }

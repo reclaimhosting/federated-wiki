@@ -3,11 +3,6 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "75f070fa7e1a2de7",
-      "text": " "
-    },
-    {
-      "type": "paragraph",
       "id": "4ef7d93c883276dd",
       "text": "The first step in teleological design is to identify the purpose. Teleological design then focuses on achieving that purpose. Strategic goals, operational plans, software development and instructional design are all examples where teleological design dominates."
     },
@@ -15,6 +10,11 @@
       "type": "paragraph",
       "id": "e6535256045a1555",
       "text": "All are based on the idea of engaging in a process that has identified a current state (deemed to be problematic in some way) and some desired future state (the purpose). Teleological design focuses on achieving the purpose."
+    },
+    {
+      "type": "paragraph",
+      "id": "75f070fa7e1a2de7",
+      "text": " "
     },
     {
       "type": "paragraph",
@@ -32,8 +32,14 @@
       "text": "<table>\n  <tr> <th>Attribute </th>\n       <th> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose </td> <td>\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
     },
     {
-      "type": "factory",
-      "id": "0bcd0ed9cae433c4"
+      "type": "paragraph",
+      "id": "0bcd0ed9cae433c4",
+      "text": "Introna (1996) also identifies three necessary conditions for teleological design"
+    },
+    {
+      "type": "html",
+      "id": "670acec71de08f21",
+      "text": "<ol>\n  <li> The system's behaviour must be relatively stable and predictable.\n     <p>Otherwise you are unable to identify what the appropriate future state should be. </p> </li>\n  <li> The designers are able to manipulate the system's behaviour directly.\n       <p>If you can't change the system (including people and their behaviour), then how can you achieve the future state?</p> </li>\n  <li> The designers are able to accurately determine the goals or criterias for success. </li>\n</ol>"
     }
   ],
   "journal": [
@@ -47,8 +53,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "75f070fa7e1a2de7"
+        "type": "paragraph",
+        "id": "75f070fa7e1a2de7",
+        "text": " "
       },
       "id": "75f070fa7e1a2de7",
       "type": "add",
@@ -60,7 +67,7 @@
       "item": {
         "type": "paragraph",
         "id": "75f070fa7e1a2de7",
-        "text": "Teleological design is based on the idea of modernism where human rationality and methods of inquiry can achieve their ultimate purpose of discovering and identifying universal truths (Baskerville, Travis et al. 1992). Designers commence by identifying the purpose of the design process, the end point."
+        "text": " "
       },
       "date": 1420080060384
     },
@@ -77,19 +84,8 @@
     {
       "item": {
         "type": "paragraph",
-        "id": "c6fffc1054b76b36",
-        "text": "Teleological design is based on the idea of modernism where human rationality and methods of inquiry can achieve their ultimate purpose of discovering and identifying universal truths (Baskerville, Travis et al. 1992). Designers commence by identifying the purpose of the design process, the end point."
-      },
-      "id": "c6fffc1054b76b36",
-      "type": "add",
-      "after": "75f070fa7e1a2de7",
-      "date": 1420080117421
-    },
-    {
-      "item": {
-        "type": "paragraph",
         "id": "4ef7d93c883276dd",
-        "text": ""
+        "text": "The first step in teleological design is to identify the purpose. Teleological design then focuses on achieving that purpose. Strategic goals, operational plans, software development and instructional design are all examples where teleological design dominates."
       },
       "id": "4ef7d93c883276dd",
       "type": "add",
@@ -97,12 +93,23 @@
       "date": 1420080117423
     },
     {
+      "item": {
+        "type": "paragraph",
+        "id": "c6fffc1054b76b36",
+        "text": "Introna (1996) suggests the following attributes of teleological design"
+      },
+      "id": "c6fffc1054b76b36",
+      "type": "add",
+      "after": "75f070fa7e1a2de7",
+      "date": 1420080117421
+    },
+    {
       "type": "edit",
       "id": "4ef7d93c883276dd",
       "item": {
         "type": "paragraph",
         "id": "4ef7d93c883276dd",
-        "text": "The first step in teleological design is to identify the purpose. Teleological design then focuses on achieving that purpose."
+        "text": "The first step in teleological design is to identify the purpose. Teleological design then focuses on achieving that purpose. Strategic goals, operational plans, software development and instructional design are all examples where teleological design dominates."
       },
       "date": 1420080191263
     },
@@ -139,7 +146,7 @@
       "item": {
         "type": "paragraph",
         "id": "df004884030a3b61",
-        "text": "Teleological design is "
+        "text": ""
       },
       "date": 1420080228163
     },
@@ -157,7 +164,7 @@
       "item": {
         "type": "paragraph",
         "id": "e6535256045a1555",
-        "text": ""
+        "text": "All are based on the idea of engaging in a process that has identified a current state (deemed to be problematic in some way) and some desired future state (the purpose). Teleological design focuses on achieving the purpose."
       },
       "id": "e6535256045a1555",
       "type": "add",
@@ -206,7 +213,7 @@
       "item": {
         "type": "paragraph",
         "id": "f8c9e7ac6cd1a3aa",
-        "text": "<table>"
+        "text": ""
       },
       "date": 1420080396006
     },
@@ -214,7 +221,7 @@
       "item": {
         "type": "paragraph",
         "id": "1be7d1fc4fe932c3",
-        "text": ""
+        "text": "  "
       },
       "id": "1be7d1fc4fe932c3",
       "type": "add",
@@ -238,8 +245,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "09aa0931aaf233e7"
+        "type": "html",
+        "id": "09aa0931aaf233e7",
+        "text": "<table>\n  <tr> <th>Attribute </th>\n       <th> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose </td> <td>\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
       },
       "id": "09aa0931aaf233e7",
       "type": "add",
@@ -252,7 +260,7 @@
       "item": {
         "type": "html",
         "id": "09aa0931aaf233e7",
-        "text": "<table>\n  <tr> <th>Attribute </th>\n       <tr> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
+        "text": "<table>\n  <tr> <th>Attribute </th>\n       <th> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose </td> <td>\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
       },
       "date": 1420080572093
     },
@@ -262,7 +270,7 @@
       "item": {
         "type": "html",
         "id": "09aa0931aaf233e7",
-        "text": "<table>\n  <tr> <th>Attribute </th>\n       <th> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
+        "text": "<table>\n  <tr> <th>Attribute </th>\n       <th> Value </th>\n  </tr>\n  <tr>\n    <td>\nUltimate purpose </td> <td>\nIdentified goal or purpose\n    </td>\n  </tr>\n  <tr>\n    <td>\nIntermediate goals </td> <td>\nEfficiency and effectiveness\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign focus </td> <td>\nAchieving the end result\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesigners </td> <td>\nExplicit designer\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign scope </td> <td>\nIndividuals concentrate on their part of the problem\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign process </td> <td>\nProblem solving\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nDesign problems </td> <td>\nComplexity and conflict\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nManagement </td> <td>\nCentralised\n    </td>\n  </tr>\n  <tr>\n    <td>\n\nControl </td> <td>\nMaster plan\n  </tr>\n</table>"
       },
       "date": 1420080583514
     },
@@ -278,13 +286,113 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "0bcd0ed9cae433c4"
+        "type": "paragraph",
+        "id": "0bcd0ed9cae433c4",
+        "text": "Introna (1996) also identifies three necessary conditions for teleological design"
       },
       "id": "0bcd0ed9cae433c4",
       "type": "add",
       "after": "09aa0931aaf233e7",
       "date": 1420080644340
+    },
+    {
+      "type": "edit",
+      "id": "0bcd0ed9cae433c4",
+      "item": {
+        "type": "paragraph",
+        "id": "0bcd0ed9cae433c4",
+        "text": "Introna (1996) also identifies three necessary conditions for teleological design"
+      },
+      "date": 1420080668348
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "253041b3c31648f6",
+        "text": ""
+      },
+      "id": "253041b3c31648f6",
+      "type": "add",
+      "after": "0bcd0ed9cae433c4",
+      "date": 1420080668355
+    },
+    {
+      "type": "remove",
+      "id": "253041b3c31648f6",
+      "date": 1420080670085
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "c749f255cb702ffa",
+        "text": ""
+      },
+      "id": "c749f255cb702ffa",
+      "type": "add",
+      "after": "0bcd0ed9cae433c4",
+      "date": 1420080671589
+    },
+    {
+      "type": "remove",
+      "id": "c749f255cb702ffa",
+      "date": 1420080678382,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1420080698498
+    },
+    {
+      "type": "move",
+      "order": [
+        "4ef7d93c883276dd",
+        "75f070fa7e1a2de7",
+        "c6fffc1054b76b36",
+        "1be7d1fc4fe932c3",
+        "09aa0931aaf233e7",
+        "0bcd0ed9cae433c4",
+        "e6535256045a1555"
+      ],
+      "id": "4ef7d93c883276dd",
+      "date": 1420080712702
+    },
+    {
+      "type": "move",
+      "order": [
+        "4ef7d93c883276dd",
+        "e6535256045a1555",
+        "75f070fa7e1a2de7",
+        "c6fffc1054b76b36",
+        "1be7d1fc4fe932c3",
+        "09aa0931aaf233e7",
+        "0bcd0ed9cae433c4"
+      ],
+      "id": "e6535256045a1555",
+      "date": 1420080718418
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "670acec71de08f21"
+      },
+      "id": "670acec71de08f21",
+      "type": "add",
+      "after": "0bcd0ed9cae433c4",
+      "date": 1420080722303
+    },
+    {
+      "type": "edit",
+      "id": "670acec71de08f21",
+      "item": {
+        "type": "html",
+        "id": "670acec71de08f21",
+        "text": "<ol>\n  <li> The system's behaviour must be relatively stable and predictable.\n     <p>Otherwise you are unable to identify what the appropriate future state should be. </p> </li>\n  <li> The designers are able to manipulate the system's behaviour directly.\n       <p>If you can't change the system (including people and their behaviour), then how can you achieve the future state?</p> </li>\n  <li> The designers are able to accurately determine the goals or criterias for success. </li>\n</ol>"
+      },
+      "date": 1420080823757
     }
   ]
 }

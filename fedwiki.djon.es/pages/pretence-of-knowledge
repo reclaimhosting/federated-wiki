@@ -5,6 +5,26 @@
       "type": "paragraph",
       "id": "04aafb7ad3f4b128",
       "text": "\"The Pretence of Knowledge\" is the title of a [http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1974/hayek-lecture.html lecture (web page)] given by Friedrich Hayek on receiving the \"Nobel Prize\" (for Economics) in 1974."
+    },
+    {
+      "type": "paragraph",
+      "id": "e6b48f6030cd3359",
+      "text": "In it Hayek bemoans the rise of the \"scientistic attitude\" within the field of economics and more broadly in other social science disciplines. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3d6ea9813c4889d9",
+      "text": "The problem with this attitude is that the social sciences deal with phenomena of organised complexity. Phenomena that require full information about the individual components of a structure in order for predictions to be made."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d48ec6606845c53",
+      "text": "The use of mathematics enables the use of statistics information in place of full information about each of the components. But this creates an illusion that this can be used for determination and prediction. Appears related to \"[[confusion of simulation with prediction]]\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "0aaafac2fccd3116",
+      "text": ""
     }
   ],
   "journal": [
@@ -44,6 +64,140 @@
         "text": "\"The Pretence of Knowledge\" is the title of a [http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1974/hayek-lecture.html lecture (web page)] given by Friedrich Hayek on receiving the \"Nobel Prize\" (for Economics) in 1974."
       },
       "date": 1420076645416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6b48f6030cd3359"
+      },
+      "id": "e6b48f6030cd3359",
+      "type": "add",
+      "after": "04aafb7ad3f4b128",
+      "date": 1420078280581
+    },
+    {
+      "type": "edit",
+      "id": "e6b48f6030cd3359",
+      "item": {
+        "type": "paragraph",
+        "id": "e6b48f6030cd3359",
+        "text": "In it Hayek bemoans the rise of the \"scientistic attitude\" within the field of economics and more broadly in other social science disciplines. "
+      },
+      "date": 1420078429714
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d6ea9813c4889d9",
+        "text": ""
+      },
+      "id": "3d6ea9813c4889d9",
+      "type": "add",
+      "after": "e6b48f6030cd3359",
+      "date": 1420078429722
+    },
+    {
+      "type": "edit",
+      "id": "3d6ea9813c4889d9",
+      "item": {
+        "type": "paragraph",
+        "id": "3d6ea9813c4889d9",
+        "text": "The problem with this attitude is that the social sciences deal with phenomena of organised complexity. Phenomena that require full information about the individual components of a structure in order for predictions to be made."
+      },
+      "date": 1420078588480
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cf1f7b98037fdd1c",
+        "text": ""
+      },
+      "id": "cf1f7b98037fdd1c",
+      "type": "add",
+      "after": "3d6ea9813c4889d9",
+      "date": 1420078588494
+    },
+    {
+      "type": "remove",
+      "id": "cf1f7b98037fdd1c",
+      "date": 1420078606305
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2d48ec6606845c53"
+      },
+      "id": "2d48ec6606845c53",
+      "type": "add",
+      "after": "3d6ea9813c4889d9",
+      "date": 1420078649178
+    },
+    {
+      "type": "edit",
+      "id": "2d48ec6606845c53",
+      "item": {
+        "type": "paragraph",
+        "id": "2d48ec6606845c53",
+        "text": "The use of mathematics enables the use of statistics information in place of full information about each of the components. But this creates an illusion that this can be used for determination and prediction."
+      },
+      "date": 1420078782045
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9046a23abb85abee",
+        "text": ""
+      },
+      "id": "9046a23abb85abee",
+      "type": "add",
+      "after": "2d48ec6606845c53",
+      "date": 1420078782054
+    },
+    {
+      "type": "remove",
+      "id": "9046a23abb85abee",
+      "date": 1420078783962
+    },
+    {
+      "type": "edit",
+      "id": "2d48ec6606845c53",
+      "item": {
+        "type": "paragraph",
+        "id": "2d48ec6606845c53",
+        "text": "The use of mathematics enables the use of statistics information in place of full information about each of the components. But this creates an illusion that this can be used for determination and prediction. Appears related to"
+      },
+      "date": 1420078815708
+    },
+    {
+      "type": "edit",
+      "id": "2d48ec6606845c53",
+      "item": {
+        "type": "paragraph",
+        "id": "2d48ec6606845c53",
+        "text": "The use of mathematics enables the use of statistics information in place of full information about each of the components. But this creates an illusion that this can be used for determination and prediction. Appears related to \"[[confusion of simulation with prediction]]\""
+      },
+      "date": 1420078835702
+    },
+    {
+      "type": "edit",
+      "id": "2d48ec6606845c53",
+      "item": {
+        "type": "paragraph",
+        "id": "2d48ec6606845c53",
+        "text": "The use of mathematics enables the use of statistics information in place of full information about each of the components. But this creates an illusion that this can be used for determination and prediction. Appears related to \"[[confusion of simulation with prediction]]\"."
+      },
+      "date": 1420078864663
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0aaafac2fccd3116",
+        "text": ""
+      },
+      "id": "0aaafac2fccd3116",
+      "type": "add",
+      "after": "2d48ec6606845c53",
+      "date": 1420078864671
     }
   ]
 }

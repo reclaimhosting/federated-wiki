@@ -9,7 +9,12 @@
     {
       "type": "paragraph",
       "id": "b97df6449e2a4819",
-      "text": "Yosemite installs Apache 2.4 "
+      "text": "Yosemite installs Apache 2.4. But I've installed my own version in /usr/local/bin"
+    },
+    {
+      "type": "paragraph",
+      "id": "f943d395f019e2c3",
+      "text": "Problem with ulimit (open files) - line 70 and missing expat."
     },
     {
       "type": "factory",
@@ -106,6 +111,53 @@
       "type": "add",
       "after": "b97df6449e2a4819",
       "date": 1420172427853
+    },
+    {
+      "type": "edit",
+      "id": "b97df6449e2a4819",
+      "item": {
+        "type": "paragraph",
+        "id": "b97df6449e2a4819",
+        "text": "Yosemite installs Apache 2.4. But I've installed my own version in /usr/local/bin"
+      },
+      "date": 1420172613481
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f943d395f019e2c3",
+        "text": ""
+      },
+      "id": "f943d395f019e2c3",
+      "type": "add",
+      "after": "b97df6449e2a4819",
+      "date": 1420172637281
+    },
+    {
+      "type": "edit",
+      "id": "f943d395f019e2c3",
+      "item": {
+        "type": "paragraph",
+        "id": "f943d395f019e2c3",
+        "text": "Problem with ulimit (open files) - line 70 and missing expat."
+      },
+      "date": 1420172667040
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e09263430ee39577",
+        "text": ""
+      },
+      "id": "e09263430ee39577",
+      "type": "add",
+      "after": "f943d395f019e2c3",
+      "date": 1420172667055
+    },
+    {
+      "type": "remove",
+      "id": "e09263430ee39577",
+      "date": 1420172670234
     }
   ]
 }

@@ -1,0 +1,100 @@
+{
+  "title": "Dev Environment",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c5064a7eac033a0d",
+      "text": "Yosemite installed."
+    },
+    {
+      "type": "html",
+      "id": "0c24753833ac82c9",
+      "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dev Environment",
+        "story": []
+      },
+      "date": 1420172102699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5064a7eac033a0d"
+      },
+      "id": "c5064a7eac033a0d",
+      "type": "add",
+      "date": 1420172104635
+    },
+    {
+      "type": "edit",
+      "id": "c5064a7eac033a0d",
+      "item": {
+        "type": "paragraph",
+        "id": "c5064a7eac033a0d",
+        "text": "Yosemite installed."
+      },
+      "date": 1420172109912
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5d58403c2ce38439",
+        "text": ""
+      },
+      "id": "5d58403c2ce38439",
+      "type": "add",
+      "after": "c5064a7eac033a0d",
+      "date": 1420172109949
+    },
+    {
+      "type": "remove",
+      "id": "5d58403c2ce38439",
+      "date": 1420172111258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c24753833ac82c9"
+      },
+      "id": "0c24753833ac82c9",
+      "type": "add",
+      "after": "c5064a7eac033a0d",
+      "date": 1420172112511
+    },
+    {
+      "type": "edit",
+      "id": "0c24753833ac82c9",
+      "item": {
+        "type": "html",
+        "id": "0c24753833ac82c9",
+        "text": "Moodle\n<ul>\n  <li> "
+      },
+      "date": 1420172122695
+    },
+    {
+      "type": "edit",
+      "id": "0c24753833ac82c9",
+      "item": {
+        "type": "html",
+        "id": "0c24753833ac82c9",
+        "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs "
+      },
+      "date": 1420172143154
+    },
+    {
+      "type": "edit",
+      "id": "0c24753833ac82c9",
+      "item": {
+        "type": "html",
+        "id": "0c24753833ac82c9",
+        "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
+      },
+      "date": 1420172169518
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title": "2nd Jan - Yosemite recovery",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fea948c98881527b",
+      "text": "Yosemite installed, now time to get all the development stuff working again."
+    },
+    {
+      "type": "paragraph",
+      "id": "b97df6449e2a4819",
+      "text": "Yosemite installs Apache 2.4 "
+    },
+    {
+      "type": "factory",
+      "id": "e027ea6c68231293"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "2nd Jan - Yosemite recovery",
+        "story": []
+      },
+      "date": 1420172374514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fea948c98881527b"
+      },
+      "id": "fea948c98881527b",
+      "type": "add",
+      "date": 1420172376634
+    },
+    {
+      "type": "edit",
+      "id": "fea948c98881527b",
+      "item": {
+        "type": "paragraph",
+        "id": "fea948c98881527b",
+        "text": "Yosemite installed, now time to get all the development stuff working again."
+      },
+      "date": 1420172389915
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "93dbd9f5d34a9577",
+        "text": ""
+      },
+      "id": "93dbd9f5d34a9577",
+      "type": "add",
+      "after": "fea948c98881527b",
+      "date": 1420172389930
+    },
+    {
+      "type": "remove",
+      "id": "93dbd9f5d34a9577",
+      "date": 1420172393816
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b97df6449e2a4819",
+        "text": ""
+      },
+      "id": "b97df6449e2a4819",
+      "type": "add",
+      "after": "fea948c98881527b",
+      "date": 1420172402490
+    },
+    {
+      "type": "edit",
+      "id": "b97df6449e2a4819",
+      "item": {
+        "type": "paragraph",
+        "id": "b97df6449e2a4819",
+        "text": "Yosemite installs Apache 2.4 "
+      },
+      "date": 1420172419881
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "84261064aea736e3",
+        "text": ""
+      },
+      "id": "84261064aea736e3",
+      "type": "add",
+      "after": "fea948c98881527b",
+      "date": 1420172421673
+    },
+    {
+      "type": "remove",
+      "id": "84261064aea736e3",
+      "date": 1420172425737
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e027ea6c68231293"
+      },
+      "id": "e027ea6c68231293",
+      "type": "add",
+      "after": "b97df6449e2a4819",
+      "date": 1420172427853
+    }
+  ]
+}

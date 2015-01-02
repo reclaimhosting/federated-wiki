@@ -20,6 +20,16 @@
       "type": "paragraph",
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "6cfb4fd4da5c4e6b",
+      "text": "[[Dev Journal]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "702928b29655f50b",
       "text": "[[December, 2014 Journal]] - [[January, 2015 Journal]]"
     },
     {
@@ -1138,6 +1148,65 @@
         "text": "[[December, 2014 Journal]] - [[January, 2015 Journal]]"
       },
       "date": 1420076465444
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": " "
+      },
+      "date": 1420172054652
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "702928b29655f50b",
+        "text": "[[December, 2014 Journal]] - [[January, 2015 Journal]]"
+      },
+      "id": "702928b29655f50b",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1420172054666
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6cfb4fd4da5c4e6b",
+        "text": ""
+      },
+      "id": "6cfb4fd4da5c4e6b",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1420172054668
+    },
+    {
+      "type": "edit",
+      "id": "6cfb4fd4da5c4e6b",
+      "item": {
+        "type": "paragraph",
+        "id": "6cfb4fd4da5c4e6b",
+        "text": "[[Dev Journal]]"
+      },
+      "date": 1420172061195
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95df41de18691d2d",
+        "text": ""
+      },
+      "id": "95df41de18691d2d",
+      "type": "add",
+      "after": "6cfb4fd4da5c4e6b",
+      "date": 1420172061202
+    },
+    {
+      "type": "remove",
+      "id": "95df41de18691d2d",
+      "date": 1420172067598
     }
   ]
 }

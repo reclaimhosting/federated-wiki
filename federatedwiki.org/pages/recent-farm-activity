@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "a4c1d3cdd15a8ee2"
+      "id": "2749e32bfda62653"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "269a7c6e1df3a528"
+      "id": "0c7ad05bda54bd79"
+    },
+    {
+      "date": 1420168201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "26b138073376c450"
     },
     {
       "date": 1420168041000,
@@ -18,16 +27,7 @@
       "title": "Happening Folks",
       "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
       "type": "reference",
-      "id": "ada5363a8f618e16"
-    },
-    {
-      "date": 1420167601000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "cd4888e88f6242e4"
+      "id": "db07a44246b92919"
     },
     {
       "date": 1420110261000,
@@ -36,7 +36,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://mcjsa.federatedwiki.org mcjsa.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "e624d4ea974ddfba"
+      "id": "0491bbce9e6f236f"
     },
     {
       "date": 1420080759000,
@@ -45,7 +45,7 @@
       "title": "Teleological Design",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 49 pages.",
       "type": "reference",
-      "id": "0a65e5aeef8cb5eb"
+      "id": "2cbc0ed300a3ff52"
     },
     {
       "date": 1419845492000,
@@ -54,41 +54,55 @@
       "title": "Before Posting to NetNews",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "e0dc1189225e3efa"
+      "id": "c0d1a4663293677c"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "9c57cb358462e757",
+      "id": "23597f9eaefaaa56",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1420168201000
+      "date": 1420168801000
     },
     {
       "type": "add",
-      "id": "a4c1d3cdd15a8ee2",
+      "id": "2749e32bfda62653",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "a4c1d3cdd15a8ee2"
+        "id": "2749e32bfda62653"
       },
-      "date": 1420168201000
+      "date": 1420168801000
     },
     {
       "type": "add",
-      "id": "269a7c6e1df3a528",
+      "id": "0c7ad05bda54bd79",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "269a7c6e1df3a528"
+        "id": "0c7ad05bda54bd79"
       },
-      "date": 1420168201000
+      "date": 1420168801000
     },
     {
       "type": "add",
-      "id": "ada5363a8f618e16",
+      "id": "26b138073376c450",
+      "item": {
+        "date": 1420168201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "26b138073376c450"
+      },
+      "date": 1420168802000
+    },
+    {
+      "type": "add",
+      "id": "db07a44246b92919",
       "item": {
         "date": 1420168041000,
         "site": "daveh70.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "Happening Folks",
         "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
         "type": "reference",
-        "id": "ada5363a8f618e16"
+        "id": "db07a44246b92919"
       },
-      "date": 1420168201000
+      "date": 1420168802000
     },
     {
       "type": "add",
-      "id": "cd4888e88f6242e4",
-      "item": {
-        "date": 1420167601000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "cd4888e88f6242e4"
-      },
-      "date": 1420168201000
-    },
-    {
-      "type": "add",
-      "id": "e624d4ea974ddfba",
+      "id": "0491bbce9e6f236f",
       "item": {
         "date": 1420110261000,
         "site": "mcjsa.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://mcjsa.federatedwiki.org mcjsa.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "e624d4ea974ddfba"
+        "id": "0491bbce9e6f236f"
       },
-      "date": 1420168201000
+      "date": 1420168802000
     },
     {
       "type": "add",
-      "id": "0a65e5aeef8cb5eb",
+      "id": "2cbc0ed300a3ff52",
       "item": {
         "date": 1420080759000,
         "site": "fedwiki.djon.es",
@@ -138,13 +138,13 @@
         "title": "Teleological Design",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 49 pages.",
         "type": "reference",
-        "id": "0a65e5aeef8cb5eb"
+        "id": "2cbc0ed300a3ff52"
       },
-      "date": 1420168201000
+      "date": 1420168802000
     },
     {
       "type": "add",
-      "id": "e0dc1189225e3efa",
+      "id": "c0d1a4663293677c",
       "item": {
         "date": 1419845492000,
         "site": "tmtm.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "Before Posting to NetNews",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "e0dc1189225e3efa"
+        "id": "c0d1a4663293677c"
       },
-      "date": 1420168201000
+      "date": 1420168802000
     }
   ]
 }

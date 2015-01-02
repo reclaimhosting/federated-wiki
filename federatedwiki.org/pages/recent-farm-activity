@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "2744ea089be7041c"
+      "id": "6eb32aa105edcc16"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6ff4c65208a5c319"
+      "id": "9eb847fbc1dd57d8"
+    },
+    {
+      "date": 1420173001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "3c57877e71399493"
     },
     {
       "date": 1420172604000,
@@ -18,16 +27,7 @@
       "title": "2nd Jan - Yosemite recovery",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 52 pages.",
       "type": "reference",
-      "id": "87af689036e630ab"
-    },
-    {
-      "date": 1420172401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "6423c07dcafeccc4"
+      "id": "2c0e7cc7f64de08c"
     },
     {
       "date": 1420168041000,
@@ -36,7 +36,7 @@
       "title": "Happening Folks",
       "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
       "type": "reference",
-      "id": "39fa36249876f807"
+      "id": "e50c418a6766cb7b"
     },
     {
       "date": 1420110261000,
@@ -45,7 +45,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://mcjsa.federatedwiki.org mcjsa.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "ec739d11901b4515"
+      "id": "067bbc8da57e3add"
     },
     {
       "date": 1419845492000,
@@ -54,41 +54,55 @@
       "title": "Before Posting to NetNews",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "932f33cee00e6fa5"
+      "id": "f0a6ea2518daf300"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "ca72da45c7190706",
+      "id": "c7c590e35830706b",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "2744ea089be7041c",
+      "id": "6eb32aa105edcc16",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "2744ea089be7041c"
+        "id": "6eb32aa105edcc16"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "6ff4c65208a5c319",
+      "id": "9eb847fbc1dd57d8",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6ff4c65208a5c319"
+        "id": "9eb847fbc1dd57d8"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "87af689036e630ab",
+      "id": "3c57877e71399493",
+      "item": {
+        "date": 1420173001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "3c57877e71399493"
+      },
+      "date": 1420173601000
+    },
+    {
+      "type": "add",
+      "id": "2c0e7cc7f64de08c",
       "item": {
         "date": 1420172604000,
         "site": "fedwiki.djon.es",
@@ -96,27 +110,13 @@
         "title": "2nd Jan - Yosemite recovery",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 52 pages.",
         "type": "reference",
-        "id": "87af689036e630ab"
+        "id": "2c0e7cc7f64de08c"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "6423c07dcafeccc4",
-      "item": {
-        "date": 1420172401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "6423c07dcafeccc4"
-      },
-      "date": 1420173001000
-    },
-    {
-      "type": "add",
-      "id": "39fa36249876f807",
+      "id": "e50c418a6766cb7b",
       "item": {
         "date": 1420168041000,
         "site": "daveh70.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "Happening Folks",
         "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 6 pages.",
         "type": "reference",
-        "id": "39fa36249876f807"
+        "id": "e50c418a6766cb7b"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "ec739d11901b4515",
+      "id": "067bbc8da57e3add",
       "item": {
         "date": 1420110261000,
         "site": "mcjsa.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://mcjsa.federatedwiki.org mcjsa.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "ec739d11901b4515"
+        "id": "067bbc8da57e3add"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     },
     {
       "type": "add",
-      "id": "932f33cee00e6fa5",
+      "id": "f0a6ea2518daf300",
       "item": {
         "date": 1419845492000,
         "site": "tmtm.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "Before Posting to NetNews",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "932f33cee00e6fa5"
+        "id": "f0a6ea2518daf300"
       },
-      "date": 1420173001000
+      "date": 1420173601000
     }
   ]
 }

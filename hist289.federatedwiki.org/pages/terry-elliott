@@ -1,0 +1,43 @@
+{
+  "title": "Terry Elliott",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f87a3f34abfc8735",
+      "text": "I am Terry.  I teach. I write. I farm. I husband.  I am a lucky man."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Terry Elliott",
+        "story": []
+      },
+      "date": 1420324737731
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f87a3f34abfc8735"
+      },
+      "id": "f87a3f34abfc8735",
+      "type": "add",
+      "date": 1420324754774
+    },
+    {
+      "type": "edit",
+      "id": "f87a3f34abfc8735",
+      "item": {
+        "type": "paragraph",
+        "id": "f87a3f34abfc8735",
+        "text": "I am Terry.  I teach. I write. I farm. I husband.  I am a lucky man."
+      },
+      "date": 1420324822002
+    },
+    {
+      "type": "fork",
+      "date": 1420324854736
+    }
+  ]
+}

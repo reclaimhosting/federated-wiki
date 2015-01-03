@@ -14,7 +14,12 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "text": "[[MOOC_HOSTEL]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "83f206fe734c2098",
+      "text": " "
     },
     {
       "type": "paragraph",
@@ -407,6 +412,43 @@
       "type": "remove",
       "id": "315e6e657ad42a90",
       "date": 1420324695112
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ecbb71dc6beb664e",
+        "text": ""
+      },
+      "id": "ecbb71dc6beb664e",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1420328838021
+    },
+    {
+      "type": "remove",
+      "id": "ecbb71dc6beb664e",
+      "date": 1420328842383
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[MOOC_HOSTEL]]"
+      },
+      "date": 1420328865027
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "83f206fe734c2098",
+        "text": " "
+      },
+      "id": "83f206fe734c2098",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1420328865046
     }
   ]
 }

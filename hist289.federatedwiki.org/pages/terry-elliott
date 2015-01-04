@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "f87a3f34abfc8735",
       "text": "I am Terry.  I teach. I write. I farm. I husband.  I am a lucky man.  "
+    },
+    {
+      "type": "factory",
+      "id": "4ac1ad85a4811b99"
     }
   ],
   "journal": [
@@ -48,6 +52,31 @@
         "text": "I am Terry.  I teach. I write. I farm. I husband.  I am a lucky man.  "
       },
       "date": 1420328012806
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "491a87de389de168"
+      },
+      "id": "491a87de389de168",
+      "type": "add",
+      "after": "f87a3f34abfc8735",
+      "date": 1420329297521
+    },
+    {
+      "type": "remove",
+      "id": "491a87de389de168",
+      "date": 1420329303266
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ac1ad85a4811b99"
+      },
+      "id": "4ac1ad85a4811b99",
+      "type": "add",
+      "after": "f87a3f34abfc8735",
+      "date": 1420329450765
     }
   ]
 }

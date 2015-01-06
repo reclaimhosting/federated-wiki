@@ -14,6 +14,16 @@
     {
       "type": "paragraph",
       "id": "e90d55349e3e0a66",
+      "text": "[[https://jamesfriend.com.au/running-hypercard-stack-2014]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f70215ccb482583",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "d8d2e0de0ba28905",
       "text": ""
     },
     {
@@ -34,7 +44,7 @@
     {
       "type": "paragraph",
       "id": "143dc7c80664efcf",
-      "text": "[[Macintosh Simulator]]. I had this running once and found it quite good though I only had the system disk image mounted."
+      "text": "[[/code.fed.wiki.org/Macintosh Simulator]]. I had this running once and found it quite good though I only had the system disk image mounted."
     },
     {
       "type": "paragraph",
@@ -488,6 +498,68 @@
       "type": "remove",
       "id": "ba768dcb52430c8c",
       "date": 1420533031430
+    },
+    {
+      "type": "edit",
+      "id": "e90d55349e3e0a66",
+      "item": {
+        "type": "paragraph",
+        "id": "e90d55349e3e0a66",
+        "text": "[[https://jamesfriend.com.au/running-hypercard-stack-2014]]"
+      },
+      "date": 1420533063868
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f70215ccb482583",
+        "text": ""
+      },
+      "id": "9f70215ccb482583",
+      "type": "add",
+      "after": "e90d55349e3e0a66",
+      "date": 1420533087842
+    },
+    {
+      "type": "remove",
+      "id": "d8d2e0de0ba28905",
+      "date": 1420533088157
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d8d2e0de0ba28905",
+        "text": ""
+      },
+      "id": "d8d2e0de0ba28905",
+      "type": "add",
+      "after": "9f70215ccb482583",
+      "date": 1420533088161
+    },
+    {
+      "type": "remove",
+      "id": "438de773426dee5e",
+      "date": 1420533094502
+    },
+    {
+      "type": "edit",
+      "id": "143dc7c80664efcf",
+      "item": {
+        "type": "paragraph",
+        "id": "143dc7c80664efcf",
+        "text": "[[code.fed.wiki.org/Macintosh Simulator]]. I had this running once and found it quite good though I only had the system disk image mounted."
+      },
+      "date": 1420533148479
+    },
+    {
+      "type": "edit",
+      "id": "143dc7c80664efcf",
+      "item": {
+        "type": "paragraph",
+        "id": "143dc7c80664efcf",
+        "text": "[[/code.fed.wiki.org/Macintosh Simulator]]. I had this running once and found it quite good though I only had the system disk image mounted."
+      },
+      "date": 1420533156912
     }
   ]
 }

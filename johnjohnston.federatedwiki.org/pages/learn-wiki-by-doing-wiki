@@ -1,0 +1,2277 @@
+{
+  "title": "Learn Wiki by Doing Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "501c1ba3c930332d",
+      "text": "I've given enough one on one introductions that I know some paths work better than others. Hopefully a detail understanding with enable more canned training and maybe even suggest simplifying affordances."
+    },
+    {
+      "type": "html",
+      "id": "d0e7aa2927339ffd",
+      "text": "<h3> Principles"
+    },
+    {
+      "type": "paragraph",
+      "id": "008d2033524f266c",
+      "text": "Let the student pace the work."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9c0ae5b6bbe680f",
+      "text": "Have simple goals. Let's look around. Let's make some changes. Move on quickly."
+    },
+    {
+      "type": "paragraph",
+      "id": "4988d4978932d6f1",
+      "text": "Differentiate between skills needing practice and features that need only be acknowledged. "
+    },
+    {
+      "type": "html",
+      "id": "ae1c31f0d53b882c",
+      "text": "<h3> Topics"
+    },
+    {
+      "type": "pagefold",
+      "id": "bcea1924d23f6953",
+      "text": "Look Around"
+    },
+    {
+      "type": "paragraph",
+      "id": "54f011075e706e01",
+      "text": "URLs that go to sites on fed.wiki.org."
+    },
+    {
+      "type": "paragraph",
+      "id": "8aa4cb82870970f7",
+      "text": "Internal links add wiki pages to the wiki page."
+    },
+    {
+      "type": "paragraph",
+      "id": "a26c1723750fa2ab",
+      "text": "Arrow keys scroll pages. (Browser history works too.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "e083c72e26fdc16f",
+      "text": "Links replace pages to the right. (Shift-click piles on.)"
+    },
+    {
+      "type": "pagefold",
+      "id": "be8960477a232703",
+      "text": "Change Paragraphs"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9aee6f840335cd1",
+      "text": "Drag to reorder paragraphs. (Works between pages.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "65e50b1a3aad0e7c",
+      "text": "Double-click to edit. Cmd-S to save. (Click-out works.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "bc3b22449f286193",
+      "text": "Yellow border means browser storage. (Persistent)"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c474ee0ba5acf1a",
+      "text": "Journal shows edit history. (Hover shows where.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "f62a8b4991d71c96",
+      "text": "Click action to see previous versions."
+    },
+    {
+      "type": "paragraph",
+      "id": "d659b3be0214248d",
+      "text": "Find Local Editing home page."
+    },
+    {
+      "type": "paragraph",
+      "id": "5d421c1fd1897ff0",
+      "text": "Return splits paragraphs. (Smaller is better.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "6e47c0d85cc2679b",
+      "text": "Backspace joins paragraphs."
+    },
+    {
+      "type": "pagefold",
+      "id": "e854c7c7a1cb7ea7",
+      "text": "New Wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "b5b7a1de25e22b3b",
+      "text": "Name a fed.wiki.org subdomain. (Research farm.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "43684a41bfe7b9d4",
+      "text": "Take time to read instructions."
+    },
+    {
+      "type": "paragraph",
+      "id": "b02178f3a993af1e",
+      "text": "Create a page about yourself."
+    },
+    {
+      "type": "paragraph",
+      "id": "a1116c8fc7315a58",
+      "text": "Link with [ [ Square Brackets ] ]. (Caps and spaces.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d2cd7bf386523c3",
+      "text": "Click link then create. (Other choices might appear.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "6a0033a46b8e928e",
+      "text": "[+] to make new Factory"
+    },
+    {
+      "type": "paragraph",
+      "id": "f2e068308641f519",
+      "text": "Double click to edit. (Four clicks to be editing.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9762b6edba72324",
+      "text": "Start each page with a summary. (Keywords.)"
+    },
+    {
+      "type": "pagefold",
+      "id": "c81cd828ba785d20",
+      "text": "Cross Site Links"
+    },
+    {
+      "type": "paragraph",
+      "id": "68528dffd30648e2",
+      "text": "Link to [ [ Ward Cunningham ] ]."
+    },
+    {
+      "type": "paragraph",
+      "id": "d1ba4c6696a105d0",
+      "text": "Observe no such page."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f060640e2523f23",
+      "text": "Add /ward.fed.wiki.org/welcome-visitors to URL."
+    },
+    {
+      "type": "paragraph",
+      "id": "2765a9e95249a2d7",
+      "text": "Observe remote page with link to Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef426325de6f510b",
+      "text": "Return to personal page, click Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "04896cff7cf3904d",
+      "text": "Notice additional choice. (Browser neighborhood.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "d2429ad499b91c17",
+      "text": "Click neighborhood link. (No need to edit URL now.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "2a6b0755426320c2",
+      "text": "Click fork to make copy of Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "31ed8379e30d73c2",
+      "text": "Click flag for clean Welcome Visitors."
+    },
+    {
+      "type": "paragraph",
+      "id": "8f709ec560fbe1cb",
+      "text": "Navigate to Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "cabc892f8dedef2e",
+      "text": "Click fork action in journal. (Observe original page.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcb3467d94c6029c",
+      "text": "Observe that connection is now permanent."
+    },
+    {
+      "type": "paragraph",
+      "id": "385254a72b0bb641",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "bd833ae36f25f3e0",
+      "text": ""
+    },
+    {
+      "type": "pagefold",
+      "id": "465ee4888b62a2c8",
+      "text": "Implicit Fork"
+    },
+    {
+      "type": "paragraph",
+      "id": "bddd35bcf1f3d927",
+      "text": "Navigate to original Ward Cunningham."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f985ffafbb59022",
+      "text": "Navigate one more page."
+    },
+    {
+      "type": "paragraph",
+      "id": "9b30856eaa0e3bde",
+      "text": "Move paragraph. (Observe that it has been forked.)"
+    },
+    {
+      "type": "pagefold",
+      "id": "db60ebc7caf31ccc",
+      "text": "Reference"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ec39054d0ecbcaa",
+      "text": "Open another tab on, say, pi.fed.wiki.org."
+    },
+    {
+      "type": "paragraph",
+      "id": "0c3e15c8c3690047",
+      "text": "Add a Factory to personal page."
+    },
+    {
+      "type": "paragraph",
+      "id": "235acaa94a7fbeca",
+      "text": "Drag location around. (Notice what else drags.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e53c16e710b9c4e",
+      "text": "Drag location to Factory. (New cross-site link.)"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6c94f1c78885eb5",
+      "text": "Observe tool-tips over links."
+    },
+    {
+      "type": "paragraph",
+      "id": "3b0342f976b374bc",
+      "text": "Fork remote page."
+    },
+    {
+      "type": "paragraph",
+      "id": "a3228e4eded12f10",
+      "text": "Reference flag and link now different."
+    },
+    {
+      "type": "pagefold",
+      "id": "2a91f9274bfee017",
+      "text": "Search"
+    },
+    {
+      "type": "paragraph",
+      "id": "be23a0eb406d8387",
+      "text": "Try search for simple word."
+    },
+    {
+      "type": "paragraph",
+      "id": "ca44a6ac3152e55d",
+      "text": "Try empty search."
+    },
+    {
+      "type": "paragraph",
+      "id": "e39174a4750c64f6",
+      "text": "Drag reference from search result."
+    },
+    {
+      "type": "paragraph",
+      "id": "822616263969adb2",
+      "text": "Find List of Lists of Sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ae29771848d8aa8",
+      "text": "Grow neighborhood and repeat search."
+    },
+    {
+      "type": "paragraph",
+      "id": "f85a2278bbae3e11",
+      "text": "Click flag to leave neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "b894751f209f3704",
+      "text": "Find Track Changes in How To Wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "bf98cdf8df4fe5ae",
+      "text": "Observe neighborhood activity."
+    },
+    {
+      "type": "paragraph",
+      "id": "aeeaf2222742e657",
+      "text": "Click more pages. (Neighborhood can grow.)"
+    },
+    {
+      "type": "pagefold",
+      "id": "deb5590c1584b622",
+      "text": "Claim"
+    },
+    {
+      "type": "paragraph",
+      "id": "778c5248cac6fcfa",
+      "text": "Return to Welcome Visitors."
+    },
+    {
+      "type": "paragraph",
+      "id": "b808cdbe6fa9e0b7",
+      "text": "Claim site with Google."
+    },
+    {
+      "type": "paragraph",
+      "id": "26920698768b2943",
+      "text": "Logout and back in."
+    },
+    {
+      "type": "paragraph",
+      "id": "7270aeeb8f04d31e",
+      "text": "Logout and make change."
+    },
+    {
+      "type": "paragraph",
+      "id": "d197a0cb3001e1f6",
+      "text": "Login and fork (push) public."
+    },
+    {
+      "type": "paragraph",
+      "id": "5501fd9994e11f44",
+      "text": "Observe claim/login/logout prompt."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learn Wiki by Doing Wiki"
+      },
+      "date": 1357879267716
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "501c1ba3c930332d"
+      },
+      "id": "501c1ba3c930332d",
+      "type": "add",
+      "date": 1357879271476
+    },
+    {
+      "type": "edit",
+      "id": "501c1ba3c930332d",
+      "item": {
+        "type": "paragraph",
+        "id": "501c1ba3c930332d",
+        "text": "I've given enough one on one introductions that I know some paths work better than others. Hopefully a detail understanding with enable more canned training and maybe even suggest simplifying affordances."
+      },
+      "date": 1357879519737
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d0e7aa2927339ffd",
+        "text": ""
+      },
+      "id": "d0e7aa2927339ffd",
+      "type": "add",
+      "after": "501c1ba3c930332d",
+      "date": 1357879520244
+    },
+    {
+      "type": "edit",
+      "id": "d0e7aa2927339ffd",
+      "item": {
+        "type": "paragraph",
+        "id": "d0e7aa2927339ffd",
+        "text": "<h3> Principles"
+      },
+      "date": 1357879538189
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "008d2033524f266c",
+        "text": ""
+      },
+      "id": "008d2033524f266c",
+      "type": "add",
+      "after": "d0e7aa2927339ffd",
+      "date": 1357879538695
+    },
+    {
+      "type": "edit",
+      "id": "008d2033524f266c",
+      "item": {
+        "type": "paragraph",
+        "id": "008d2033524f266c",
+        "text": "Let the student pace the work."
+      },
+      "date": 1357879607331
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4988d4978932d6f1",
+        "text": ""
+      },
+      "id": "4988d4978932d6f1",
+      "type": "add",
+      "after": "008d2033524f266c",
+      "date": 1357879607836
+    },
+    {
+      "type": "edit",
+      "id": "4988d4978932d6f1",
+      "item": {
+        "type": "paragraph",
+        "id": "4988d4978932d6f1",
+        "text": "Differentiate between skills needing practice and features that need only be acknowledged. "
+      },
+      "date": 1357879699290
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae1c31f0d53b882c",
+        "text": ""
+      },
+      "id": "ae1c31f0d53b882c",
+      "type": "add",
+      "after": "4988d4978932d6f1",
+      "date": 1357879699798
+    },
+    {
+      "type": "edit",
+      "id": "ae1c31f0d53b882c",
+      "item": {
+        "type": "paragraph",
+        "id": "ae1c31f0d53b882c",
+        "text": "<h3> Topics"
+      },
+      "date": 1357879825320
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3415c49eee6790ba",
+        "text": ""
+      },
+      "id": "3415c49eee6790ba",
+      "type": "add",
+      "after": "ae1c31f0d53b882c",
+      "date": 1357879825827
+    },
+    {
+      "type": "remove",
+      "id": "3415c49eee6790ba",
+      "date": 1357879896112
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "54f011075e706e01",
+        "text": ""
+      },
+      "id": "54f011075e706e01",
+      "type": "add",
+      "after": "ae1c31f0d53b882c",
+      "date": 1357879901044
+    },
+    {
+      "type": "edit",
+      "id": "54f011075e706e01",
+      "item": {
+        "type": "paragraph",
+        "id": "54f011075e706e01",
+        "text": "URLs that go to sites on fed.wiki.org."
+      },
+      "date": 1357879950770
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8aa4cb82870970f7",
+        "text": ""
+      },
+      "id": "8aa4cb82870970f7",
+      "type": "add",
+      "after": "54f011075e706e01",
+      "date": 1357879951276
+    },
+    {
+      "type": "edit",
+      "id": "8aa4cb82870970f7",
+      "item": {
+        "type": "paragraph",
+        "id": "8aa4cb82870970f7",
+        "text": "Internal links add wiki pages to the wiki page."
+      },
+      "date": 1357879988280
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a26c1723750fa2ab",
+        "text": ""
+      },
+      "id": "a26c1723750fa2ab",
+      "type": "add",
+      "after": "8aa4cb82870970f7",
+      "date": 1357879988786
+    },
+    {
+      "type": "edit",
+      "id": "a26c1723750fa2ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a26c1723750fa2ab",
+        "text": "Arrow keys scroll pages."
+      },
+      "date": 1357880091742
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e083c72e26fdc16f",
+        "text": ""
+      },
+      "id": "e083c72e26fdc16f",
+      "type": "add",
+      "after": "a26c1723750fa2ab",
+      "date": 1357880092251
+    },
+    {
+      "type": "edit",
+      "id": "e083c72e26fdc16f",
+      "item": {
+        "type": "paragraph",
+        "id": "e083c72e26fdc16f",
+        "text": "Links replace pages to the right. (Shift-click piles on.)"
+      },
+      "date": 1357880142229
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "871e6bca5a6084e4",
+        "text": ""
+      },
+      "id": "871e6bca5a6084e4",
+      "type": "add",
+      "after": "e083c72e26fdc16f",
+      "date": 1357880142735
+    },
+    {
+      "type": "remove",
+      "id": "871e6bca5a6084e4",
+      "date": 1357880179635
+    },
+    {
+      "type": "edit",
+      "id": "a26c1723750fa2ab",
+      "item": {
+        "type": "paragraph",
+        "id": "a26c1723750fa2ab",
+        "text": "Arrow keys scroll pages. (Browser history works too.)"
+      },
+      "date": 1357880192490
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65e50b1a3aad0e7c",
+        "text": ""
+      },
+      "id": "65e50b1a3aad0e7c",
+      "type": "add",
+      "after": "e083c72e26fdc16f",
+      "date": 1357880199313
+    },
+    {
+      "type": "edit",
+      "id": "65e50b1a3aad0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "65e50b1a3aad0e7c",
+        "text": "Double-click to edit. Clover-S to save. "
+      },
+      "date": 1357880290727
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c9aee6f840335cd1",
+        "text": ""
+      },
+      "id": "c9aee6f840335cd1",
+      "type": "add",
+      "after": "e083c72e26fdc16f",
+      "date": 1357880298158
+    },
+    {
+      "type": "edit",
+      "id": "c9aee6f840335cd1",
+      "item": {
+        "type": "paragraph",
+        "id": "c9aee6f840335cd1",
+        "text": "Drag to reorder paragraphs. (Works between pages.)"
+      },
+      "date": 1357880327031
+    },
+    {
+      "type": "edit",
+      "id": "65e50b1a3aad0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "65e50b1a3aad0e7c",
+        "text": "Double-click to edit. Clover-S to save. (Click-out works too.)"
+      },
+      "date": 1357880369664
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e4359464ca1f33ab",
+        "text": ""
+      },
+      "id": "e4359464ca1f33ab",
+      "type": "add",
+      "after": "65e50b1a3aad0e7c",
+      "date": 1357880370172
+    },
+    {
+      "type": "remove",
+      "id": "e4359464ca1f33ab",
+      "date": 1357880373543
+    },
+    {
+      "type": "edit",
+      "id": "65e50b1a3aad0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "65e50b1a3aad0e7c",
+        "text": "Double-click to edit. Clover-S to save. (Click-out works.)"
+      },
+      "date": 1357880378126
+    },
+    {
+      "type": "edit",
+      "id": "65e50b1a3aad0e7c",
+      "item": {
+        "type": "paragraph",
+        "id": "65e50b1a3aad0e7c",
+        "text": "Double-click to edit. Cmd-S to save. (Click-out works.)"
+      },
+      "date": 1357880398123
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bc3b22449f286193",
+        "text": ""
+      },
+      "id": "bc3b22449f286193",
+      "type": "add",
+      "after": "65e50b1a3aad0e7c",
+      "date": 1357880417947
+    },
+    {
+      "type": "edit",
+      "id": "bc3b22449f286193",
+      "item": {
+        "type": "paragraph",
+        "id": "bc3b22449f286193",
+        "text": "Yellow border means browser storage."
+      },
+      "date": 1357880488203
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "781006fb54037e4f",
+        "text": ""
+      },
+      "id": "781006fb54037e4f",
+      "type": "add",
+      "after": "bc3b22449f286193",
+      "date": 1357880488709
+    },
+    {
+      "type": "remove",
+      "id": "781006fb54037e4f",
+      "date": 1357880497324
+    },
+    {
+      "type": "edit",
+      "id": "bc3b22449f286193",
+      "item": {
+        "type": "paragraph",
+        "id": "bc3b22449f286193",
+        "text": "Yellow border means browser storage. (Persistent)"
+      },
+      "date": 1357880508186
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0c474ee0ba5acf1a",
+        "text": ""
+      },
+      "id": "0c474ee0ba5acf1a",
+      "type": "add",
+      "after": "bc3b22449f286193",
+      "date": 1357880508691
+    },
+    {
+      "type": "edit",
+      "id": "0c474ee0ba5acf1a",
+      "item": {
+        "type": "paragraph",
+        "id": "0c474ee0ba5acf1a",
+        "text": "Journal shows edit history."
+      },
+      "date": 1357880545176
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "252a93132358868f",
+        "text": ""
+      },
+      "id": "252a93132358868f",
+      "type": "add",
+      "after": "0c474ee0ba5acf1a",
+      "date": 1357880545681
+    },
+    {
+      "type": "remove",
+      "id": "252a93132358868f",
+      "date": 1357880613888
+    },
+    {
+      "type": "edit",
+      "id": "0c474ee0ba5acf1a",
+      "item": {
+        "type": "paragraph",
+        "id": "0c474ee0ba5acf1a",
+        "text": "Journal shows edit history. (Hover shows where.)"
+      },
+      "date": 1357880624519
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f62a8b4991d71c96",
+        "text": ""
+      },
+      "id": "f62a8b4991d71c96",
+      "type": "add",
+      "after": "0c474ee0ba5acf1a",
+      "date": 1357880625023
+    },
+    {
+      "type": "edit",
+      "id": "f62a8b4991d71c96",
+      "item": {
+        "type": "paragraph",
+        "id": "f62a8b4991d71c96",
+        "text": "Click action to see previous versions."
+      },
+      "date": 1357880652949
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d6149e2d530ff36",
+        "text": ""
+      },
+      "id": "3d6149e2d530ff36",
+      "type": "add",
+      "after": "f62a8b4991d71c96",
+      "date": 1357880653454
+    },
+    {
+      "type": "remove",
+      "id": "3d6149e2d530ff36",
+      "date": 1357881041369
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9c0ae5b6bbe680f",
+        "text": ""
+      },
+      "id": "b9c0ae5b6bbe680f",
+      "type": "add",
+      "after": "008d2033524f266c",
+      "date": 1357881048904
+    },
+    {
+      "type": "edit",
+      "id": "b9c0ae5b6bbe680f",
+      "item": {
+        "type": "paragraph",
+        "id": "b9c0ae5b6bbe680f",
+        "text": "Have simple goals. Let's look around. Let's make some changes. Move on quickly."
+      },
+      "date": 1357881082969
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bcea1924d23f6953"
+      },
+      "id": "bcea1924d23f6953",
+      "type": "add",
+      "after": "f62a8b4991d71c96",
+      "date": 1357881100489
+    },
+    {
+      "type": "edit",
+      "id": "bcea1924d23f6953",
+      "item": {
+        "type": "pagefold",
+        "id": "bcea1924d23f6953",
+        "text": "Let's Look Around"
+      },
+      "date": 1357881111921
+    },
+    {
+      "type": "move",
+      "order": [
+        "501c1ba3c930332d",
+        "d0e7aa2927339ffd",
+        "008d2033524f266c",
+        "b9c0ae5b6bbe680f",
+        "4988d4978932d6f1",
+        "ae1c31f0d53b882c",
+        "bcea1924d23f6953",
+        "54f011075e706e01",
+        "8aa4cb82870970f7",
+        "a26c1723750fa2ab",
+        "e083c72e26fdc16f",
+        "c9aee6f840335cd1",
+        "65e50b1a3aad0e7c",
+        "bc3b22449f286193",
+        "0c474ee0ba5acf1a",
+        "f62a8b4991d71c96"
+      ],
+      "id": "bcea1924d23f6953",
+      "date": 1357881119413
+    },
+    {
+      "type": "edit",
+      "id": "bcea1924d23f6953",
+      "item": {
+        "type": "pagefold",
+        "id": "bcea1924d23f6953",
+        "text": "Look Around"
+      },
+      "date": 1357881137910
+    },
+    {
+      "type": "edit",
+      "id": "bcea1924d23f6953",
+      "item": {
+        "type": "pagefold",
+        "id": "bcea1924d23f6953",
+        "text": "Looking Around"
+      },
+      "date": 1357881144294
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be8960477a232703"
+      },
+      "id": "be8960477a232703",
+      "type": "add",
+      "after": "f62a8b4991d71c96",
+      "date": 1357881156515
+    },
+    {
+      "type": "edit",
+      "id": "be8960477a232703",
+      "item": {
+        "type": "pagefold",
+        "id": "be8960477a232703",
+        "text": "Making Changes"
+      },
+      "date": 1357881165319
+    },
+    {
+      "type": "move",
+      "order": [
+        "501c1ba3c930332d",
+        "d0e7aa2927339ffd",
+        "008d2033524f266c",
+        "b9c0ae5b6bbe680f",
+        "4988d4978932d6f1",
+        "ae1c31f0d53b882c",
+        "bcea1924d23f6953",
+        "54f011075e706e01",
+        "8aa4cb82870970f7",
+        "a26c1723750fa2ab",
+        "e083c72e26fdc16f",
+        "be8960477a232703",
+        "c9aee6f840335cd1",
+        "65e50b1a3aad0e7c",
+        "bc3b22449f286193",
+        "0c474ee0ba5acf1a",
+        "f62a8b4991d71c96"
+      ],
+      "id": "be8960477a232703",
+      "date": 1357881172693
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d659b3be0214248d",
+        "text": ""
+      },
+      "id": "d659b3be0214248d",
+      "type": "add",
+      "after": "f62a8b4991d71c96",
+      "date": 1357881202879
+    },
+    {
+      "type": "edit",
+      "id": "d659b3be0214248d",
+      "item": {
+        "type": "paragraph",
+        "id": "d659b3be0214248d",
+        "text": "Find [[Local Editing]] to see page changes."
+      },
+      "date": 1357881240188
+    },
+    {
+      "type": "edit",
+      "id": "d659b3be0214248d",
+      "item": {
+        "type": "paragraph",
+        "id": "d659b3be0214248d",
+        "text": "Find Local Editing home page."
+      },
+      "date": 1357881289626
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5d421c1fd1897ff0",
+        "text": ""
+      },
+      "id": "5d421c1fd1897ff0",
+      "type": "add",
+      "after": "d659b3be0214248d",
+      "date": 1357881357681
+    },
+    {
+      "type": "edit",
+      "id": "5d421c1fd1897ff0",
+      "item": {
+        "type": "paragraph",
+        "id": "5d421c1fd1897ff0",
+        "text": "Return splits paragraph."
+      },
+      "date": 1357881388194
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6e47c0d85cc2679b",
+        "text": "Backspace joins them."
+      },
+      "id": "6e47c0d85cc2679b",
+      "type": "add",
+      "after": "5d421c1fd1897ff0",
+      "date": 1357881388701
+    },
+    {
+      "type": "edit",
+      "id": "5d421c1fd1897ff0",
+      "item": {
+        "type": "paragraph",
+        "id": "5d421c1fd1897ff0",
+        "text": "Return splits paragraph. (Smaller is better.)"
+      },
+      "date": 1357881452870
+    },
+    {
+      "type": "edit",
+      "id": "be8960477a232703",
+      "item": {
+        "type": "pagefold",
+        "id": "be8960477a232703",
+        "text": "Change Paragraphs"
+      },
+      "date": 1357881505309
+    },
+    {
+      "type": "edit",
+      "id": "bcea1924d23f6953",
+      "item": {
+        "type": "pagefold",
+        "id": "bcea1924d23f6953",
+        "text": "Look Around"
+      },
+      "date": 1357881511885
+    },
+    {
+      "type": "edit",
+      "id": "5d421c1fd1897ff0",
+      "item": {
+        "type": "paragraph",
+        "id": "5d421c1fd1897ff0",
+        "text": "Return splits paragraphs. (Smaller is better.)"
+      },
+      "date": 1357881542218
+    },
+    {
+      "type": "edit",
+      "id": "6e47c0d85cc2679b",
+      "item": {
+        "type": "paragraph",
+        "id": "6e47c0d85cc2679b",
+        "text": "Backspace joins paragraphs."
+      },
+      "date": 1357881551420
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f02391c919b152e5",
+        "text": ""
+      },
+      "id": "f02391c919b152e5",
+      "type": "add",
+      "after": "6e47c0d85cc2679b",
+      "date": 1357881582466
+    },
+    {
+      "type": "remove",
+      "id": "f02391c919b152e5",
+      "date": 1357881599025
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e854c7c7a1cb7ea7"
+      },
+      "id": "e854c7c7a1cb7ea7",
+      "type": "add",
+      "after": "6e47c0d85cc2679b",
+      "date": 1357881601601
+    },
+    {
+      "type": "edit",
+      "id": "e854c7c7a1cb7ea7",
+      "item": {
+        "type": "pagefold",
+        "id": "e854c7c7a1cb7ea7",
+        "text": "New Wiki"
+      },
+      "date": 1357881615674
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5b7a1de25e22b3b"
+      },
+      "id": "b5b7a1de25e22b3b",
+      "type": "add",
+      "after": "e854c7c7a1cb7ea7",
+      "date": 1357881623630
+    },
+    {
+      "type": "edit",
+      "id": "b5b7a1de25e22b3b",
+      "item": {
+        "type": "paragraph",
+        "id": "b5b7a1de25e22b3b",
+        "text": "Name a fed.wiki.org subdomain. (Research farm.)"
+      },
+      "date": 1357881675503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "43684a41bfe7b9d4",
+        "text": ""
+      },
+      "id": "43684a41bfe7b9d4",
+      "type": "add",
+      "after": "b5b7a1de25e22b3b",
+      "date": 1357881676008
+    },
+    {
+      "type": "edit",
+      "id": "43684a41bfe7b9d4",
+      "item": {
+        "type": "paragraph",
+        "id": "43684a41bfe7b9d4",
+        "text": "Take time to read instructions."
+      },
+      "date": 1357881699159
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b02178f3a993af1e",
+        "text": ""
+      },
+      "id": "b02178f3a993af1e",
+      "type": "add",
+      "after": "43684a41bfe7b9d4",
+      "date": 1357881699664
+    },
+    {
+      "type": "edit",
+      "id": "b02178f3a993af1e",
+      "item": {
+        "type": "paragraph",
+        "id": "b02178f3a993af1e",
+        "text": "Create a page about yourself."
+      },
+      "date": 1357881729206
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a1116c8fc7315a58",
+        "text": ""
+      },
+      "id": "a1116c8fc7315a58",
+      "type": "add",
+      "after": "b02178f3a993af1e",
+      "date": 1357881729712
+    },
+    {
+      "type": "edit",
+      "id": "a1116c8fc7315a58",
+      "item": {
+        "type": "paragraph",
+        "id": "a1116c8fc7315a58",
+        "text": "Link with [ [ Square Brackets ] ]. (Caps and spaces.)"
+      },
+      "date": 1357881768915
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d2cd7bf386523c3",
+        "text": ""
+      },
+      "id": "7d2cd7bf386523c3",
+      "type": "add",
+      "after": "a1116c8fc7315a58",
+      "date": 1357881769421
+    },
+    {
+      "type": "edit",
+      "id": "7d2cd7bf386523c3",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2cd7bf386523c3",
+        "text": "Click link then create. (Other choices might appear.)"
+      },
+      "date": 1357881939609
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6a0033a46b8e928e",
+        "text": ""
+      },
+      "id": "6a0033a46b8e928e",
+      "type": "add",
+      "after": "7d2cd7bf386523c3",
+      "date": 1357881940118
+    },
+    {
+      "type": "edit",
+      "id": "6a0033a46b8e928e",
+      "item": {
+        "type": "paragraph",
+        "id": "6a0033a46b8e928e",
+        "text": "[+] to make new Factory"
+      },
+      "date": 1357882053514
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c2fdcc9cbe0bc0b7",
+        "text": ""
+      },
+      "id": "c2fdcc9cbe0bc0b7",
+      "type": "add",
+      "after": "6a0033a46b8e928e",
+      "date": 1357882054025
+    },
+    {
+      "type": "remove",
+      "id": "c2fdcc9cbe0bc0b7",
+      "date": 1357882080653
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f2e068308641f519",
+        "text": ""
+      },
+      "id": "f2e068308641f519",
+      "type": "add",
+      "after": "6a0033a46b8e928e",
+      "date": 1357882132953
+    },
+    {
+      "type": "edit",
+      "id": "f2e068308641f519",
+      "item": {
+        "type": "paragraph",
+        "id": "f2e068308641f519",
+        "text": "Double click to edit. (Four clicks to be editing.)"
+      },
+      "date": 1357882214538
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d9762b6edba72324",
+        "text": ""
+      },
+      "id": "d9762b6edba72324",
+      "type": "add",
+      "after": "f2e068308641f519",
+      "date": 1357882215043
+    },
+    {
+      "type": "edit",
+      "id": "d9762b6edba72324",
+      "item": {
+        "type": "paragraph",
+        "id": "d9762b6edba72324",
+        "text": "Start each page with a summary. (Keywords.)"
+      },
+      "date": 1357882256958
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5e78633c24ac2cc6",
+        "text": ""
+      },
+      "id": "5e78633c24ac2cc6",
+      "type": "add",
+      "after": "d9762b6edba72324",
+      "date": 1357882257464
+    },
+    {
+      "type": "remove",
+      "id": "5e78633c24ac2cc6",
+      "date": 1357882265428
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c81cd828ba785d20"
+      },
+      "id": "c81cd828ba785d20",
+      "type": "add",
+      "after": "d9762b6edba72324",
+      "date": 1357882304863
+    },
+    {
+      "type": "edit",
+      "id": "c81cd828ba785d20",
+      "item": {
+        "type": "pagefold",
+        "id": "c81cd828ba785d20",
+        "text": "Cross Site Links"
+      },
+      "date": 1357882390050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68528dffd30648e2"
+      },
+      "id": "68528dffd30648e2",
+      "type": "add",
+      "after": "c81cd828ba785d20",
+      "date": 1357882400463
+    },
+    {
+      "type": "edit",
+      "id": "68528dffd30648e2",
+      "item": {
+        "type": "paragraph",
+        "id": "68528dffd30648e2",
+        "text": "Link to [ [ Ward Cunningham ] ]."
+      },
+      "date": 1357882434817
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d1ba4c6696a105d0",
+        "text": ""
+      },
+      "id": "d1ba4c6696a105d0",
+      "type": "add",
+      "after": "68528dffd30648e2",
+      "date": 1357882435322
+    },
+    {
+      "type": "edit",
+      "id": "d1ba4c6696a105d0",
+      "item": {
+        "type": "paragraph",
+        "id": "d1ba4c6696a105d0",
+        "text": "Observe no such page."
+      },
+      "date": 1357882455111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f060640e2523f23",
+        "text": ""
+      },
+      "id": "3f060640e2523f23",
+      "type": "add",
+      "after": "d1ba4c6696a105d0",
+      "date": 1357882455616
+    },
+    {
+      "type": "edit",
+      "id": "3f060640e2523f23",
+      "item": {
+        "type": "paragraph",
+        "id": "3f060640e2523f23",
+        "text": "Add /ward.fed.wiki.org/welcome-visitors to URL."
+      },
+      "date": 1357882491696
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2765a9e95249a2d7",
+        "text": ""
+      },
+      "id": "2765a9e95249a2d7",
+      "type": "add",
+      "after": "3f060640e2523f23",
+      "date": 1357882492201
+    },
+    {
+      "type": "edit",
+      "id": "2765a9e95249a2d7",
+      "item": {
+        "type": "paragraph",
+        "id": "2765a9e95249a2d7",
+        "text": "Observe remote page with link to Ward Cunningham."
+      },
+      "date": 1357882593747
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef426325de6f510b",
+        "text": ""
+      },
+      "id": "ef426325de6f510b",
+      "type": "add",
+      "after": "2765a9e95249a2d7",
+      "date": 1357882594253
+    },
+    {
+      "type": "edit",
+      "id": "ef426325de6f510b",
+      "item": {
+        "type": "paragraph",
+        "id": "ef426325de6f510b",
+        "text": "Return to personal page, click Ward Cunningham."
+      },
+      "date": 1357882636434
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "04896cff7cf3904d",
+        "text": ""
+      },
+      "id": "04896cff7cf3904d",
+      "type": "add",
+      "after": "ef426325de6f510b",
+      "date": 1357882636939
+    },
+    {
+      "type": "edit",
+      "id": "04896cff7cf3904d",
+      "item": {
+        "type": "paragraph",
+        "id": "04896cff7cf3904d",
+        "text": "Notice additional choice. (Browser neighborhood.)"
+      },
+      "date": 1357882674146
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d2429ad499b91c17",
+        "text": ""
+      },
+      "id": "d2429ad499b91c17",
+      "type": "add",
+      "after": "04896cff7cf3904d",
+      "date": 1357882674657
+    },
+    {
+      "type": "edit",
+      "id": "d2429ad499b91c17",
+      "item": {
+        "type": "paragraph",
+        "id": "d2429ad499b91c17",
+        "text": "Click neighborhood link. (No need to edit URL now.)"
+      },
+      "date": 1357882724305
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2a6b0755426320c2",
+        "text": ""
+      },
+      "id": "2a6b0755426320c2",
+      "type": "add",
+      "after": "d2429ad499b91c17",
+      "date": 1357882724810
+    },
+    {
+      "type": "edit",
+      "id": "2a6b0755426320c2",
+      "item": {
+        "type": "paragraph",
+        "id": "2a6b0755426320c2",
+        "text": "Click fork to make copy of Ward Cunningham."
+      },
+      "date": 1357882765878
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "31ed8379e30d73c2",
+        "text": ""
+      },
+      "id": "31ed8379e30d73c2",
+      "type": "add",
+      "after": "2a6b0755426320c2",
+      "date": 1357882766384
+    },
+    {
+      "type": "edit",
+      "id": "31ed8379e30d73c2",
+      "item": {
+        "type": "paragraph",
+        "id": "31ed8379e30d73c2",
+        "text": "Click flag for clean Welcome Visitors."
+      },
+      "date": 1357882826238
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8f709ec560fbe1cb",
+        "text": ""
+      },
+      "id": "8f709ec560fbe1cb",
+      "type": "add",
+      "after": "31ed8379e30d73c2",
+      "date": 1357882826744
+    },
+    {
+      "type": "edit",
+      "id": "8f709ec560fbe1cb",
+      "item": {
+        "type": "paragraph",
+        "id": "8f709ec560fbe1cb",
+        "text": "Navigate to Ward Cunningham"
+      },
+      "date": 1357882835844
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bd833ae36f25f3e0",
+        "text": ""
+      },
+      "id": "bd833ae36f25f3e0",
+      "type": "add",
+      "after": "8f709ec560fbe1cb",
+      "date": 1357882836349
+    },
+    {
+      "type": "edit",
+      "id": "8f709ec560fbe1cb",
+      "item": {
+        "type": "paragraph",
+        "id": "8f709ec560fbe1cb",
+        "text": "Navigate to Ward Cunningham."
+      },
+      "date": 1357882840590
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "385254a72b0bb641",
+        "text": ""
+      },
+      "id": "385254a72b0bb641",
+      "type": "add",
+      "after": "8f709ec560fbe1cb",
+      "date": 1357882841094
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cabc892f8dedef2e",
+        "text": ""
+      },
+      "id": "cabc892f8dedef2e",
+      "type": "add",
+      "after": "8f709ec560fbe1cb",
+      "date": 1357882850778
+    },
+    {
+      "type": "edit",
+      "id": "cabc892f8dedef2e",
+      "item": {
+        "type": "paragraph",
+        "id": "cabc892f8dedef2e",
+        "text": "Click fork action in journal. (Observe original page.)"
+      },
+      "date": 1357882947674
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dcb3467d94c6029c",
+        "text": ""
+      },
+      "id": "dcb3467d94c6029c",
+      "type": "add",
+      "after": "cabc892f8dedef2e",
+      "date": 1357882948183
+    },
+    {
+      "type": "edit",
+      "id": "dcb3467d94c6029c",
+      "item": {
+        "type": "paragraph",
+        "id": "dcb3467d94c6029c",
+        "text": "Observe that connection is now permanent."
+      },
+      "date": 1357883015835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "465ee4888b62a2c8"
+      },
+      "id": "465ee4888b62a2c8",
+      "type": "add",
+      "after": "bd833ae36f25f3e0",
+      "date": 1357883090424
+    },
+    {
+      "type": "edit",
+      "id": "465ee4888b62a2c8",
+      "item": {
+        "type": "pagefold",
+        "id": "465ee4888b62a2c8",
+        "text": "Implicit Fork"
+      },
+      "date": 1357883130061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bddd35bcf1f3d927"
+      },
+      "id": "bddd35bcf1f3d927",
+      "type": "add",
+      "after": "465ee4888b62a2c8",
+      "date": 1357883133961
+    },
+    {
+      "type": "edit",
+      "id": "bddd35bcf1f3d927",
+      "item": {
+        "type": "paragraph",
+        "id": "bddd35bcf1f3d927",
+        "text": "Navigate to original Ward Cunningham."
+      },
+      "date": 1357883171156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f985ffafbb59022",
+        "text": ""
+      },
+      "id": "6f985ffafbb59022",
+      "type": "add",
+      "after": "bddd35bcf1f3d927",
+      "date": 1357883171662
+    },
+    {
+      "type": "edit",
+      "id": "6f985ffafbb59022",
+      "item": {
+        "type": "paragraph",
+        "id": "6f985ffafbb59022",
+        "text": "Navigate one more page."
+      },
+      "date": 1357883211626
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b30856eaa0e3bde",
+        "text": ""
+      },
+      "id": "9b30856eaa0e3bde",
+      "type": "add",
+      "after": "6f985ffafbb59022",
+      "date": 1357883212132
+    },
+    {
+      "type": "edit",
+      "id": "9b30856eaa0e3bde",
+      "item": {
+        "type": "paragraph",
+        "id": "9b30856eaa0e3bde",
+        "text": "Move paragraph. (Observe that it has been forked.)"
+      },
+      "date": 1357883236561
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "135ff70bd618755c",
+        "text": ""
+      },
+      "id": "135ff70bd618755c",
+      "type": "add",
+      "after": "9b30856eaa0e3bde",
+      "date": 1357883237066
+    },
+    {
+      "type": "remove",
+      "id": "135ff70bd618755c",
+      "date": 1357883273935
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db60ebc7caf31ccc"
+      },
+      "id": "db60ebc7caf31ccc",
+      "type": "add",
+      "after": "9b30856eaa0e3bde",
+      "date": 1357883278353
+    },
+    {
+      "type": "edit",
+      "id": "db60ebc7caf31ccc",
+      "item": {
+        "type": "pagefold",
+        "id": "db60ebc7caf31ccc",
+        "text": "Reference"
+      },
+      "date": 1357883288184
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ec39054d0ecbcaa"
+      },
+      "id": "4ec39054d0ecbcaa",
+      "type": "add",
+      "after": "db60ebc7caf31ccc",
+      "date": 1357883291076
+    },
+    {
+      "type": "edit",
+      "id": "4ec39054d0ecbcaa",
+      "item": {
+        "type": "paragraph",
+        "id": "4ec39054d0ecbcaa",
+        "text": "Open another tab on, say, pi.fed.wiki.org."
+      },
+      "date": 1357883340455
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0c3e15c8c3690047",
+        "text": ""
+      },
+      "id": "0c3e15c8c3690047",
+      "type": "add",
+      "after": "4ec39054d0ecbcaa",
+      "date": 1357883340961
+    },
+    {
+      "type": "edit",
+      "id": "0c3e15c8c3690047",
+      "item": {
+        "type": "paragraph",
+        "id": "0c3e15c8c3690047",
+        "text": "Add a Factory to personal page."
+      },
+      "date": 1357883429758
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "235acaa94a7fbeca",
+        "text": ""
+      },
+      "id": "235acaa94a7fbeca",
+      "type": "add",
+      "after": "0c3e15c8c3690047",
+      "date": 1357883430266
+    },
+    {
+      "type": "edit",
+      "id": "235acaa94a7fbeca",
+      "item": {
+        "type": "paragraph",
+        "id": "235acaa94a7fbeca",
+        "text": "Drag location around. (Notice what else drags.)"
+      },
+      "date": 1357883480363
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3e53c16e710b9c4e",
+        "text": ""
+      },
+      "id": "3e53c16e710b9c4e",
+      "type": "add",
+      "after": "235acaa94a7fbeca",
+      "date": 1357883480869
+    },
+    {
+      "type": "edit",
+      "id": "3e53c16e710b9c4e",
+      "item": {
+        "type": "paragraph",
+        "id": "3e53c16e710b9c4e",
+        "text": "Drag location to Factory. (New cross-site link.)"
+      },
+      "date": 1357883537658
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b6c94f1c78885eb5",
+        "text": ""
+      },
+      "id": "b6c94f1c78885eb5",
+      "type": "add",
+      "after": "3e53c16e710b9c4e",
+      "date": 1357883538164
+    },
+    {
+      "type": "edit",
+      "id": "b6c94f1c78885eb5",
+      "item": {
+        "type": "paragraph",
+        "id": "b6c94f1c78885eb5",
+        "text": "Observe tool-tips over links."
+      },
+      "date": 1357883598846
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3b0342f976b374bc",
+        "text": ""
+      },
+      "id": "3b0342f976b374bc",
+      "type": "add",
+      "after": "b6c94f1c78885eb5",
+      "date": 1357883599351
+    },
+    {
+      "type": "edit",
+      "id": "3b0342f976b374bc",
+      "item": {
+        "type": "paragraph",
+        "id": "3b0342f976b374bc",
+        "text": "Fork remote page."
+      },
+      "date": 1357883629223
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a3228e4eded12f10",
+        "text": ""
+      },
+      "id": "a3228e4eded12f10",
+      "type": "add",
+      "after": "3b0342f976b374bc",
+      "date": 1357883629728
+    },
+    {
+      "type": "edit",
+      "id": "a3228e4eded12f10",
+      "item": {
+        "type": "paragraph",
+        "id": "a3228e4eded12f10",
+        "text": "Reference flag and link now different."
+      },
+      "date": 1357883669500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a91f9274bfee017"
+      },
+      "id": "2a91f9274bfee017",
+      "type": "add",
+      "after": "a3228e4eded12f10",
+      "date": 1357883703951
+    },
+    {
+      "type": "edit",
+      "id": "2a91f9274bfee017",
+      "item": {
+        "type": "pagefold",
+        "id": "2a91f9274bfee017",
+        "text": "Search"
+      },
+      "date": 1357883712740
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6fa477ce1890864"
+      },
+      "id": "e6fa477ce1890864",
+      "type": "add",
+      "after": "2a91f9274bfee017",
+      "date": 1357883715962
+    },
+    {
+      "type": "remove",
+      "id": "e6fa477ce1890864",
+      "date": 1357883722187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76e2e23c401e9bc6"
+      },
+      "id": "76e2e23c401e9bc6",
+      "type": "add",
+      "after": "2a91f9274bfee017",
+      "date": 1357883724125
+    },
+    {
+      "type": "remove",
+      "id": "76e2e23c401e9bc6",
+      "date": 1357883774984
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be23a0eb406d8387"
+      },
+      "id": "be23a0eb406d8387",
+      "type": "add",
+      "after": "2a91f9274bfee017",
+      "date": 1357883779167
+    },
+    {
+      "type": "edit",
+      "id": "be23a0eb406d8387",
+      "item": {
+        "type": "paragraph",
+        "id": "be23a0eb406d8387",
+        "text": "Try search for simple word."
+      },
+      "date": 1357883801296
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ca44a6ac3152e55d",
+        "text": ""
+      },
+      "id": "ca44a6ac3152e55d",
+      "type": "add",
+      "after": "be23a0eb406d8387",
+      "date": 1357883801802
+    },
+    {
+      "type": "edit",
+      "id": "ca44a6ac3152e55d",
+      "item": {
+        "type": "paragraph",
+        "id": "ca44a6ac3152e55d",
+        "text": "Try empty search."
+      },
+      "date": 1357883825321
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e39174a4750c64f6",
+        "text": ""
+      },
+      "id": "e39174a4750c64f6",
+      "type": "add",
+      "after": "ca44a6ac3152e55d",
+      "date": 1357883825830
+    },
+    {
+      "type": "edit",
+      "id": "e39174a4750c64f6",
+      "item": {
+        "type": "paragraph",
+        "id": "e39174a4750c64f6",
+        "text": "Drag reference from search result."
+      },
+      "date": 1357883848656
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "822616263969adb2",
+        "text": ""
+      },
+      "id": "822616263969adb2",
+      "type": "add",
+      "after": "e39174a4750c64f6",
+      "date": 1357883849161
+    },
+    {
+      "type": "edit",
+      "id": "822616263969adb2",
+      "item": {
+        "type": "paragraph",
+        "id": "822616263969adb2",
+        "text": "Find List of Lists of Sites."
+      },
+      "date": 1357883902878
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1ae29771848d8aa8",
+        "text": ""
+      },
+      "id": "1ae29771848d8aa8",
+      "type": "add",
+      "after": "822616263969adb2",
+      "date": 1357883903384
+    },
+    {
+      "type": "edit",
+      "id": "1ae29771848d8aa8",
+      "item": {
+        "type": "paragraph",
+        "id": "1ae29771848d8aa8",
+        "text": "Grow neighborhood and repeat search."
+      },
+      "date": 1357883916870
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f85a2278bbae3e11",
+        "text": ""
+      },
+      "id": "f85a2278bbae3e11",
+      "type": "add",
+      "after": "1ae29771848d8aa8",
+      "date": 1357883917375
+    },
+    {
+      "type": "edit",
+      "id": "f85a2278bbae3e11",
+      "item": {
+        "type": "paragraph",
+        "id": "f85a2278bbae3e11",
+        "text": "Click flag to leave neighborhood."
+      },
+      "date": 1357883965741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "deb5590c1584b622"
+      },
+      "id": "deb5590c1584b622",
+      "type": "add",
+      "after": "f85a2278bbae3e11",
+      "date": 1357883982915
+    },
+    {
+      "type": "edit",
+      "id": "deb5590c1584b622",
+      "item": {
+        "type": "pagefold",
+        "id": "deb5590c1584b622",
+        "text": "Claim"
+      },
+      "date": 1357883990468
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "778c5248cac6fcfa"
+      },
+      "id": "778c5248cac6fcfa",
+      "type": "add",
+      "after": "deb5590c1584b622",
+      "date": 1357883994729
+    },
+    {
+      "type": "edit",
+      "id": "778c5248cac6fcfa",
+      "item": {
+        "type": "paragraph",
+        "id": "778c5248cac6fcfa",
+        "text": "Return to Welcome Visitors."
+      },
+      "date": 1357884018084
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b808cdbe6fa9e0b7",
+        "text": ""
+      },
+      "id": "b808cdbe6fa9e0b7",
+      "type": "add",
+      "after": "778c5248cac6fcfa",
+      "date": 1357884018589
+    },
+    {
+      "type": "edit",
+      "id": "b808cdbe6fa9e0b7",
+      "item": {
+        "type": "paragraph",
+        "id": "b808cdbe6fa9e0b7",
+        "text": "Claim site with Google."
+      },
+      "date": 1357884043009
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "26920698768b2943",
+        "text": ""
+      },
+      "id": "26920698768b2943",
+      "type": "add",
+      "after": "b808cdbe6fa9e0b7",
+      "date": 1357884055962
+    },
+    {
+      "type": "edit",
+      "id": "26920698768b2943",
+      "item": {
+        "type": "paragraph",
+        "id": "26920698768b2943",
+        "text": "Logout and back in."
+      },
+      "date": 1357884062515
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7270aeeb8f04d31e",
+        "text": ""
+      },
+      "id": "7270aeeb8f04d31e",
+      "type": "add",
+      "after": "26920698768b2943",
+      "date": 1357884070064
+    },
+    {
+      "type": "edit",
+      "id": "7270aeeb8f04d31e",
+      "item": {
+        "type": "paragraph",
+        "id": "7270aeeb8f04d31e",
+        "text": "Logout and make change."
+      },
+      "date": 1357884078234
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d197a0cb3001e1f6",
+        "text": ""
+      },
+      "id": "d197a0cb3001e1f6",
+      "type": "add",
+      "after": "7270aeeb8f04d31e",
+      "date": 1357884078740
+    },
+    {
+      "type": "edit",
+      "id": "d197a0cb3001e1f6",
+      "item": {
+        "type": "paragraph",
+        "id": "d197a0cb3001e1f6",
+        "text": "Login and fork (push) public."
+      },
+      "date": 1357884109785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5501fd9994e11f44"
+      },
+      "id": "5501fd9994e11f44",
+      "type": "add",
+      "after": "d197a0cb3001e1f6",
+      "date": 1357884123261
+    },
+    {
+      "type": "edit",
+      "id": "5501fd9994e11f44",
+      "item": {
+        "type": "paragraph",
+        "id": "5501fd9994e11f44",
+        "text": "Observe claim/login/logout prompt."
+      },
+      "date": 1357884156087
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b894751f209f3704",
+        "text": ""
+      },
+      "id": "b894751f209f3704",
+      "type": "add",
+      "after": "f85a2278bbae3e11",
+      "date": 1357884185141
+    },
+    {
+      "type": "edit",
+      "id": "b894751f209f3704",
+      "item": {
+        "type": "paragraph",
+        "id": "b894751f209f3704",
+        "text": "Find Track Changes in How To Wiki."
+      },
+      "date": 1357884247540
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bf98cdf8df4fe5ae",
+        "text": ""
+      },
+      "id": "bf98cdf8df4fe5ae",
+      "type": "add",
+      "after": "b894751f209f3704",
+      "date": 1357884248046
+    },
+    {
+      "type": "edit",
+      "id": "bf98cdf8df4fe5ae",
+      "item": {
+        "type": "paragraph",
+        "id": "bf98cdf8df4fe5ae",
+        "text": "Observe neighborhood activity."
+      },
+      "date": 1357884271892
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aeeaf2222742e657",
+        "text": ""
+      },
+      "id": "aeeaf2222742e657",
+      "type": "add",
+      "after": "bf98cdf8df4fe5ae",
+      "date": 1357884272398
+    },
+    {
+      "type": "edit",
+      "id": "aeeaf2222742e657",
+      "item": {
+        "type": "paragraph",
+        "id": "aeeaf2222742e657",
+        "text": "Click more pages. (Neighborhood can grow.)"
+      },
+      "date": 1357884307371
+    },
+    {
+      "type": "edit",
+      "id": "d0e7aa2927339ffd",
+      "item": {
+        "type": "html",
+        "id": "d0e7aa2927339ffd",
+        "text": "<h3> Principles"
+      },
+      "date": 1420343975052
+    },
+    {
+      "type": "edit",
+      "id": "ae1c31f0d53b882c",
+      "item": {
+        "type": "html",
+        "id": "ae1c31f0d53b882c",
+        "text": "<h3> Topics"
+      },
+      "date": 1420343977748
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1420532708680
+    }
+  ]
+}

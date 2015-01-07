@@ -3,8 +3,13 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "621bcc8da2108389",
+      "text": "I intend to use this single page for daily notes. Periodically, I'll move the paragraphs to topical pages, or to archive pages with a title format similar to \"2015-01 My Name\"."
+    },
+    {
+      "type": "paragraph",
       "id": "b62b3876a45da786",
-      "text": "Bret Victor's \"The Humane Representation of Thought\""
+      "text": "Bret Victor's \"The Humane Representation of Thought\" [https://vimeo.com/115154289 video] [http://tim.au.fedwikihappening.net/view/january-journal fedwiki]"
     }
   ],
   "journal": [
@@ -48,6 +53,55 @@
         "text": "Bret Victor's \"The Humane Representation of Thought\""
       },
       "date": 1420633434872
+    },
+    {
+      "type": "edit",
+      "id": "b62b3876a45da786",
+      "item": {
+        "type": "paragraph",
+        "id": "b62b3876a45da786",
+        "text": "Bret Victor's \"The Humane Representation of Thought\" [[https://vimeo.com/115154289 video]]"
+      },
+      "date": 1420633527434
+    },
+    {
+      "type": "edit",
+      "id": "b62b3876a45da786",
+      "item": {
+        "type": "paragraph",
+        "id": "b62b3876a45da786",
+        "text": "Bret Victor's \"The Humane Representation of Thought\" [https://vimeo.com/115154289 video] [http://tim.au.fedwikihappening.net/view/january-journal fedwiki]"
+      },
+      "date": 1420633586045
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "621bcc8da2108389"
+      },
+      "id": "621bcc8da2108389",
+      "type": "add",
+      "after": "b62b3876a45da786",
+      "date": 1420633806613
+    },
+    {
+      "type": "edit",
+      "id": "621bcc8da2108389",
+      "item": {
+        "type": "paragraph",
+        "id": "621bcc8da2108389",
+        "text": "I intend to use this single page for daily notes. Periodically, I'll move the paragraphs to topical pages, or to archive pages with a title format similar to \"2015-01 My Name\"."
+      },
+      "date": 1420634118139
+    },
+    {
+      "type": "move",
+      "order": [
+        "621bcc8da2108389",
+        "b62b3876a45da786"
+      ],
+      "id": "621bcc8da2108389",
+      "date": 1420634130288
     }
   ]
 }

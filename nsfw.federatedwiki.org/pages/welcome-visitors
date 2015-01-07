@@ -2,9 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": " ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "47ffa09c74ffcf06",
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
       "type": "paragraph",
@@ -416,6 +421,37 @@
       "type": "remove",
       "id": "2bbd646ff3f44b51",
       "date": 1420633732832
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": " ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1420635781209
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "47ffa09c74ffcf06",
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "id": "47ffa09c74ffcf06",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1420635781222
+    },
+    {
+      "type": "edit",
+      "id": "67aa6337de9dd815",
+      "item": {
+        "type": "paragraph",
+        "id": "67aa6337de9dd815",
+        "text": "NSFW.federatedwiki.org"
+      },
+      "date": 1420635790773
     }
   ]
 }

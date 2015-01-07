@@ -1,0 +1,64 @@
+{
+  "title": "Fedwiki Tutorials",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ef22998681f28380",
+      "text": "[[How To Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ccef780bcce49b77",
+      "text": "[http://maha.uk.fedwikihappening.net/view/first-tips-for-newbies First Tips for Newbies]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Fedwiki Tutorials",
+        "story": []
+      },
+      "date": 1420634301621
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef22998681f28380"
+      },
+      "id": "ef22998681f28380",
+      "type": "add",
+      "date": 1420634304434
+    },
+    {
+      "type": "edit",
+      "id": "ef22998681f28380",
+      "item": {
+        "type": "paragraph",
+        "id": "ef22998681f28380",
+        "text": "[[How To Wiki]]"
+      },
+      "date": 1420634381801
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ccef780bcce49b77"
+      },
+      "id": "ccef780bcce49b77",
+      "type": "add",
+      "after": "ef22998681f28380",
+      "date": 1420634439565
+    },
+    {
+      "type": "edit",
+      "id": "ccef780bcce49b77",
+      "item": {
+        "type": "paragraph",
+        "id": "ccef780bcce49b77",
+        "text": "[http://maha.uk.fedwikihappening.net/view/first-tips-for-newbies First Tips for Newbies]"
+      },
+      "date": 1420634530203
+    }
+  ]
+}

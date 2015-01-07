@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "b62b3876a45da786",
       "text": "Bret Victor's \"The Humane Representation of Thought\" [https://vimeo.com/115154289 video] [http://tim.au.fedwikihappening.net/view/january-journal fedwiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5196c91bf9e62ae4",
+      "text": "[[Fedwiki Tutorials]]"
     }
   ],
   "journal": [
@@ -102,6 +107,26 @@
       ],
       "id": "621bcc8da2108389",
       "date": 1420634130288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5196c91bf9e62ae4"
+      },
+      "id": "5196c91bf9e62ae4",
+      "type": "add",
+      "after": "b62b3876a45da786",
+      "date": 1420634258281
+    },
+    {
+      "type": "edit",
+      "id": "5196c91bf9e62ae4",
+      "item": {
+        "type": "paragraph",
+        "id": "5196c91bf9e62ae4",
+        "text": "[[Fedwiki Tutorials]]"
+      },
+      "date": 1420634286602
     }
   ]
 }

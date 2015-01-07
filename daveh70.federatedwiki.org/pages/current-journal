@@ -13,6 +13,11 @@
     },
     {
       "type": "paragraph",
+      "id": "178767e0d75bb10a",
+      "text": "Short article about UI designer Bret Victor. [https://medium.com/re-form/the-utopian-ui-architect-34dead42a28 article]"
+    },
+    {
+      "type": "paragraph",
       "id": "5196c91bf9e62ae4",
       "text": "[[Fedwiki Tutorials]]"
     }
@@ -147,6 +152,37 @@
         "text": "Bret Victor's \"The Humane Representation of Thought\" [https://vimeo.com/115154289 video] [http://worrydream.com/TheHumaneRepresentationOfThought/note.html blog] [http://tim.au.fedwikihappening.net/view/january-journal fedwiki] [http://cogdog.sf.fedwikihappening.net/view/humane-representation-of-thought fedwiki]"
       },
       "date": 1420637015155
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "178767e0d75bb10a"
+      },
+      "id": "178767e0d75bb10a",
+      "type": "add",
+      "after": "5196c91bf9e62ae4",
+      "date": 1420659634312
+    },
+    {
+      "type": "edit",
+      "id": "178767e0d75bb10a",
+      "item": {
+        "type": "paragraph",
+        "id": "178767e0d75bb10a",
+        "text": "Short article about UI designer Bret Victor. [https://medium.com/re-form/the-utopian-ui-architect-34dead42a28 article]"
+      },
+      "date": 1420659739025
+    },
+    {
+      "type": "move",
+      "order": [
+        "621bcc8da2108389",
+        "b62b3876a45da786",
+        "178767e0d75bb10a",
+        "5196c91bf9e62ae4"
+      ],
+      "id": "178767e0d75bb10a",
+      "date": 1420659755859
     }
   ]
 }

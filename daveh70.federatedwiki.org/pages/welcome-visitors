@@ -13,6 +13,11 @@
     },
     {
       "type": "paragraph",
+      "id": "99ee27b5a4559353",
+      "text": "[[Current Journal]]"
+    },
+    {
+      "type": "paragraph",
       "id": "2bbd646ff3f44b51",
       "text": "[[List of Lists of Sites]]"
     },
@@ -541,6 +546,53 @@
         "type": "paragraph"
       },
       "date": 1418977590748
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a0260c272250c7a"
+      },
+      "id": "1a0260c272250c7a",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1420632693216
+    },
+    {
+      "type": "remove",
+      "id": "1a0260c272250c7a",
+      "date": 1420632766971
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99ee27b5a4559353"
+      },
+      "id": "99ee27b5a4559353",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1420632784566
+    },
+    {
+      "type": "edit",
+      "id": "99ee27b5a4559353",
+      "item": {
+        "type": "paragraph",
+        "id": "99ee27b5a4559353",
+        "text": "[[Current Journal]]"
+      },
+      "date": 1420632882133
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "b439aafc60827e3f",
+        "99ee27b5a4559353",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "99ee27b5a4559353",
+      "date": 1420632890506
     }
   ]
 }

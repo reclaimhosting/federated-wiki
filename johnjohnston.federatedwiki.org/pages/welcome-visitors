@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "64245ceaad61088c",
+      "text": "**Yellow border means browser storage. (Persistent)**"
+    },
+    {
+      "type": "paragraph",
       "id": "821827c99b90cfd1",
       "text": "Pages about us."
     },
@@ -485,6 +490,43 @@
       "type": "remove",
       "id": "4b47188896d59b46",
       "date": 1417951567734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "64245ceaad61088c",
+        "text": ""
+      },
+      "id": "64245ceaad61088c",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1420619870939
+    },
+    {
+      "type": "edit",
+      "id": "64245ceaad61088c",
+      "item": {
+        "type": "paragraph",
+        "id": "64245ceaad61088c",
+        "text": "**Yellow border means browser storage. (Persistent)**"
+      },
+      "date": 1420619884455
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "01b2b33f7f8ce83a",
+        "text": ""
+      },
+      "id": "01b2b33f7f8ce83a",
+      "type": "add",
+      "after": "64245ceaad61088c",
+      "date": 1420619884470
+    },
+    {
+      "type": "remove",
+      "id": "01b2b33f7f8ce83a",
+      "date": 1420619886781
     }
   ]
 }

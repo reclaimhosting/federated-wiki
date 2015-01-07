@@ -1,6 +1,12 @@
 {
   "title": "Current Journal",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b62b3876a45da786",
+      "text": "Bret Victor's \"The Humane Representation of Thought\""
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,39 @@
         "story": []
       },
       "date": 1420632898055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "afcf77571a145879"
+      },
+      "id": "afcf77571a145879",
+      "type": "add",
+      "date": 1420633247937
+    },
+    {
+      "type": "remove",
+      "id": "afcf77571a145879",
+      "date": 1420633267524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b62b3876a45da786"
+      },
+      "id": "b62b3876a45da786",
+      "type": "add",
+      "date": 1420633345824
+    },
+    {
+      "type": "edit",
+      "id": "b62b3876a45da786",
+      "item": {
+        "type": "paragraph",
+        "id": "b62b3876a45da786",
+        "text": "Bret Victor's \"The Humane Representation of Thought\""
+      },
+      "date": 1420633434872
     }
   ]
 }

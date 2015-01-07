@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "ccef780bcce49b77",
       "text": "[http://maha.uk.fedwikihappening.net/view/first-tips-for-newbies First Tips for Newbies]"
+    },
+    {
+      "type": "html",
+      "id": "7a724e4b8f811e25",
+      "text": "Idea: Fedwiki tutorial site with several pages designed to walk users through various actions.<br>Browse<br>Search (Neighborhood)<br>Links (and References)<br>Edit (Factory)<br>Save (Fork)<br>History (Journal)"
     }
   ],
   "journal": [
@@ -59,6 +64,26 @@
         "text": "[http://maha.uk.fedwikihappening.net/view/first-tips-for-newbies First Tips for Newbies]"
       },
       "date": 1420634530203
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a724e4b8f811e25"
+      },
+      "id": "7a724e4b8f811e25",
+      "type": "add",
+      "after": "ccef780bcce49b77",
+      "date": 1420634847718
+    },
+    {
+      "type": "edit",
+      "id": "7a724e4b8f811e25",
+      "item": {
+        "type": "html",
+        "id": "7a724e4b8f811e25",
+        "text": "Idea: Fedwiki tutorial site with several pages designed to walk users through various actions.<br>Browse<br>Search (Neighborhood)<br>Links (and References)<br>Edit (Factory)<br>Save (Fork)<br>History (Journal)"
+      },
+      "date": 1420634856967
     }
   ]
 }

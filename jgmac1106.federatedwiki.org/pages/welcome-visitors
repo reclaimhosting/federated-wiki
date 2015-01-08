@@ -2,39 +2,24 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "paragraph",
-      "id": "e24755cd1a7461d4",
-      "text": "It will be the purpose I search for."
-    },
-    {
-      "type": "paragraph",
-      "id": "62f9958ce99ad3f1",
-      "text": ""
-    },
-    {
-      "text": "[[Greg McVerry]}",
+      "text": "[[Greg McVerry]]",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "a406c885b20e5d49",
-      "text": "I am trying out this federated wiki thing. I can probably figure out the techy stuff."
+      "id": "821827c99b90cfd1",
+      "text": "Welcome to my attempt to play in this federated wiki. I am sure I can figure out all the techy stuff. "
     },
     {
       "type": "paragraph",
-      "id": "6513564c09d9dfcd",
-      "text": ""
+      "id": "cc896a5cccc4b758",
+      "text": "It is the purpose that I may struggle with. I have some ideas of a how a federated space could work. For example what if teachers used something like this to make a text book, or learning activities?"
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
-      "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "id": "a8493081567cbcb0",
+      "text": "I also wonder if we could use this for #walkmyworld. Heard something about neighborhoods. Waiting to see what is."
     },
     {
       "type": "factory",
@@ -372,170 +357,138 @@
       "date": 1419345192436
     },
     {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "This is my attempt to play in this whole federated wiki space. I think I can learn the techy stuff. It will be the purpose I am searching for."
-      },
-      "date": 1420683432924
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "6513564c09d9dfcd",
-        "text": ""
-      },
-      "id": "6513564c09d9dfcd",
-      "type": "add",
-      "after": "821827c99b90cfd1",
-      "date": 1420683432932
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "48d4eb0a94d246c7",
-        "text": ""
-      },
-      "id": "48d4eb0a94d246c7",
-      "type": "add",
-      "after": "6513564c09d9dfcd",
-      "date": 1420683433075
-    },
-    {
-      "type": "remove",
-      "id": "48d4eb0a94d246c7",
-      "date": 1420683434847
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "This is my attempt to play in this whole federated wiki space. I think I can learn the techy stuff. It will be the purpose I am searching for.<hr>"
-      },
-      "date": 1420683442898
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "This is my attempt to play in this whole federated wiki space. I think I can learn the techy stuff. <br />It will be the purpose I am searching for."
-      },
-      "date": 1420683467797
-    },
-    {
-      "type": "edit",
-      "id": "821827c99b90cfd1",
-      "item": {
-        "type": "paragraph",
-        "id": "821827c99b90cfd1",
-        "text": "This is my attempt to play in this whole federated wiki space. I think I can learn the techy stuff. "
-      },
-      "date": 1420683491898
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "61b8933d2b231f9c",
-        "text": ""
-      },
-      "id": "61b8933d2b231f9c",
-      "type": "add",
-      "after": "821827c99b90cfd1",
-      "date": 1420683491905
-    },
-    {
-      "type": "remove",
-      "id": "61b8933d2b231f9c",
-      "date": 1420683494041
-    },
-    {
-      "type": "remove",
-      "id": "821827c99b90cfd1",
-      "date": 1420684788725
+      "type": "fork",
+      "site": "jgmac1106.federatedwiki.org",
+      "date": 1420217489706
     },
     {
       "type": "edit",
       "id": "7b56f22a4b9ee974",
       "item": {
-        "text": "[[Greg McVerry]}",
+        "text": "[[Greg McVerry]]",
         "id": "7b56f22a4b9ee974",
         "type": "paragraph"
       },
-      "date": 1420684797525
+      "site": "jgmac1106.federatedwiki.org",
+      "date": 1420217489704
     },
     {
       "item": {
         "type": "paragraph",
-        "id": "a406c885b20e5d49",
+        "id": "561edcd3248e98ea",
         "text": ""
       },
-      "id": "a406c885b20e5d49",
+      "id": "561edcd3248e98ea",
       "type": "add",
       "after": "7b56f22a4b9ee974",
-      "date": 1420684797534
-    },
-    {
-      "type": "edit",
-      "id": "a406c885b20e5d49",
-      "item": {
-        "type": "paragraph",
-        "id": "a406c885b20e5d49",
-        "text": "I am trying out this federated wiki thing. I can probably figure out the techy stuff."
-      },
-      "date": 1420684816908
-    },
-    {
-      "type": "edit",
-      "id": "61e6109638450391",
-      "item": {
-        "type": "paragraph",
-        "id": "61e6109638450391",
-        "text": " "
-      },
-      "date": 1420684817077
+      "date": 1420217489713
     },
     {
       "type": "remove",
-      "id": "62f9958ce99ad3f1",
-      "date": 1420684817081
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "62f9958ce99ad3f1",
-        "text": ""
-      },
-      "id": "62f9958ce99ad3f1",
-      "type": "add",
-      "after": "61e6109638450391",
-      "date": 1420684817084
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "e24755cd1a7461d4",
-        "text": ""
-      },
-      "id": "e24755cd1a7461d4",
-      "type": "add",
-      "after": "61e6109638450391",
-      "date": 1420684817084
+      "id": "561edcd3248e98ea",
+      "date": 1420217497573
     },
     {
       "type": "edit",
-      "id": "e24755cd1a7461d4",
+      "id": "821827c99b90cfd1",
       "item": {
         "type": "paragraph",
-        "id": "e24755cd1a7461d4",
-        "text": "It will be the purpose I search for."
+        "id": "821827c99b90cfd1",
+        "text": "Welcome to my attempt to play in this federated wiki. I am sure I can figure out all the techy stuff. "
       },
-      "date": 1420684835482
+      "date": 1420686265797
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc896a5cccc4b758",
+        "text": "It is the purpose that I may struggle with. I have some ideas of a how a federated space could work. For example what if teachers used something like this to make a text book, or learning activities?"
+      },
+      "id": "cc896a5cccc4b758",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1420686265807
+    },
+    {
+      "type": "edit",
+      "id": "cc896a5cccc4b758",
+      "item": {
+        "type": "paragraph",
+        "id": "cc896a5cccc4b758",
+        "text": "It is the purpose that I may struggle with. I have some ideas of a how a federated space could work. For example what if teachers used something like this to make a text book, or learning activities?"
+      },
+      "date": 1420686312476
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a8493081567cbcb0",
+        "text": "I also wonder if we could use this for #walkmyworld. Heard something about neighborhoods. Waiting to see what is."
+      },
+      "id": "a8493081567cbcb0",
+      "type": "add",
+      "after": "cc896a5cccc4b758",
+      "date": 1420686312484
+    },
+    {
+      "type": "edit",
+      "id": "a8493081567cbcb0",
+      "item": {
+        "type": "paragraph",
+        "id": "a8493081567cbcb0",
+        "text": "I also wonder if we could use this for #walkmyworld. Heard something about neighborhoods. Waiting to see what is."
+      },
+      "date": 1420686345522
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d756cb1971af314b",
+        "text": ""
+      },
+      "id": "d756cb1971af314b",
+      "type": "add",
+      "after": "a8493081567cbcb0",
+      "date": 1420686345529
+    },
+    {
+      "type": "fork",
+      "date": 1420686351237
+    },
+    {
+      "type": "edit",
+      "id": "d756cb1971af314b",
+      "item": {
+        "type": "paragraph",
+        "id": "d756cb1971af314b",
+        "text": "I "
+      },
+      "date": 1420686354020
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420686374302
+    },
+    {
+      "type": "remove",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420686381349
+    },
+    {
+      "type": "edit",
+      "id": "d756cb1971af314b",
+      "item": {
+        "type": "paragraph",
+        "id": "d756cb1971af314b",
+        "text": "I"
+      },
+      "date": 1420686383248
+    },
+    {
+      "type": "remove",
+      "id": "d756cb1971af314b",
+      "date": 1420686467622
     }
   ]
 }

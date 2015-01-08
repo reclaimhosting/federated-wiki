@@ -17,6 +17,11 @@
       "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg'>\n"
     },
     {
+      "type": "paragraph",
+      "id": "0f9e503a6294597e",
+      "text": "Digital Tinkerer researching the intersection of the web and literacy. Assistant Professor Southern Connecticut State University."
+    },
+    {
       "type": "html",
       "id": "c85ca599255c698c",
       "text": "<img src=\""
@@ -34,21 +39,27 @@
     {
       "type": "html",
       "id": "4108131ca1b2f657",
-      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n\n\n\n\n\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "0f9e503a6294597e",
-      "text": "I really wish I had a good personal tagline. I have used \"Engineering Better Teachers\" Too pretentious? It also doesn't get at all my web stuff. Maybe it does. Maybe I don't need a dichotomy in my tagline."
+      "text": "\n\n\n\n\n"
     },
     {
       "type": "paragraph",
       "id": "7d2dc4444fc0c984",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "7527f1e5824794f3",
+      "text": "I really wish I had a good personal tagline. I have used \"Engineering Better Teachers\" Too pretentious? It also doesn't get at all my web stuff. Maybe it does. Maybe I don't need a dichotomy in my tagline."
+    },
+    {
+      "type": "paragraph",
+      "id": "00bf9b27d581581d",
       "text": " I need something catchy. I don't even have my own theme music yet. Maybe I should start there."
     },
     {
-      "type": "factory",
-      "id": "0b606e4bc9fc9c45"
+      "type": "paragraph",
+      "id": "0b606e4bc9fc9c45",
+      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n"
     }
   ],
   "journal": [
@@ -673,6 +684,105 @@
     {
       "type": "fork",
       "date": 1420686167879
+    },
+    {
+      "type": "edit",
+      "id": "4108131ca1b2f657",
+      "item": {
+        "type": "html",
+        "id": "4108131ca1b2f657",
+        "text": "\n\n\n\n\n"
+      },
+      "date": 1420721191477
+    },
+    {
+      "type": "edit",
+      "id": "0b606e4bc9fc9c45",
+      "item": {
+        "type": "paragraph",
+        "id": "0b606e4bc9fc9c45",
+        "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n"
+      },
+      "date": 1420721197071
+    },
+    {
+      "type": "edit",
+      "id": "0f9e503a6294597e",
+      "item": {
+        "type": "paragraph",
+        "id": "0f9e503a6294597e",
+        "text": "Greg McVerry is "
+      },
+      "date": 1420721207580
+    },
+    {
+      "type": "move",
+      "order": [
+        "a2bdb18f37a06a5d",
+        "b8f9ff9425c94d5f",
+        "2610fba984f5857e",
+        "0f9e503a6294597e",
+        "c85ca599255c698c",
+        "4f27c0bb55f4235a",
+        "404902ba603b7903",
+        "4108131ca1b2f657",
+        "7d2dc4444fc0c984",
+        "0b606e4bc9fc9c45"
+      ],
+      "id": "0f9e503a6294597e",
+      "date": 1420721291765
+    },
+    {
+      "type": "edit",
+      "id": "0f9e503a6294597e",
+      "item": {
+        "type": "paragraph",
+        "id": "0f9e503a6294597e",
+        "text": "Digital Tinkerer researching the intersection of the web and literacy. Assistant Professor Southern Connecticut State University."
+      },
+      "date": 1420721381661
+    },
+    {
+      "type": "edit",
+      "id": "7d2dc4444fc0c984",
+      "item": {
+        "type": "paragraph",
+        "id": "7d2dc4444fc0c984",
+        "text": " "
+      },
+      "date": 1420721388162
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "00bf9b27d581581d",
+        "text": " I need something catchy. I don't even have my own theme music yet. Maybe I should start there."
+      },
+      "id": "00bf9b27d581581d",
+      "type": "add",
+      "after": "7d2dc4444fc0c984",
+      "date": 1420721388173
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7527f1e5824794f3",
+        "text": ""
+      },
+      "id": "7527f1e5824794f3",
+      "type": "add",
+      "after": "7d2dc4444fc0c984",
+      "date": 1420721388174
+    },
+    {
+      "type": "edit",
+      "id": "7527f1e5824794f3",
+      "item": {
+        "type": "paragraph",
+        "id": "7527f1e5824794f3",
+        "text": "I really wish I had a good personal tagline. I have used \"Engineering Better Teachers\" Too pretentious? It also doesn't get at all my web stuff. Maybe it does. Maybe I don't need a dichotomy in my tagline."
+      },
+      "date": 1420721395626
     }
   ]
 }

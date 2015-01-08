@@ -360,11 +360,8 @@
       "text": "To add your own external refs as internal people, check out [[[About Reference Plugin]] page that I just updated (the instructions in the original didn't work for me)."
     },
     {
-      "type": "reference",
-      "id": "5af1731c20890718",
-      "site": "jgmac1106.federatedwiki.org",
-      "title": "Greg McVerry",
-      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\"\n"
+      "type": "factory",
+      "id": "5f3a072ee57e3f8f"
     }
   ],
   "journal": [
@@ -4644,16 +4641,22 @@
       "date": 1420686858781
     },
     {
-      "type": "edit",
-      "id": "5af1731c20890718",
-      "item": {
-        "type": "reference",
-        "id": "5af1731c20890718",
-        "site": "jgmac1106.federatedwiki.org",
-        "title": "Greg McVerry",
-        "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\"\n"
-      },
-      "date": 1420686872215
+      "type": "fork",
+      "site": "daveh70.federatedwiki.org",
+      "date": 1420744326210
+    },
+    {
+      "type": "fork",
+      "date": 1420744578098,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1420744693054
     },
     {
       "type": "edit",
@@ -4665,7 +4668,22 @@
         "title": "Greg McVerry",
         "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\"\n"
       },
-      "date": 1420744470001
+      "date": 1420744739962
+    },
+    {
+      "type": "remove",
+      "id": "5af1731c20890718",
+      "date": 1420745039666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f3a072ee57e3f8f"
+      },
+      "id": "5f3a072ee57e3f8f",
+      "type": "add",
+      "after": "819ec1c27ed8ab8b",
+      "date": 1420745081686
     }
   ]
 }

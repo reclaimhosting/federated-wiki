@@ -23,6 +23,11 @@
     },
     {
       "type": "html",
+      "id": "9ac0e3f221665721",
+      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n\n"
+    },
+    {
+      "type": "html",
       "id": "c85ca599255c698c",
       "text": "<img src=\""
     },
@@ -55,11 +60,6 @@
       "type": "paragraph",
       "id": "00bf9b27d581581d",
       "text": " I need something catchy. I don't even have my own theme music yet. Maybe I should start there."
-    },
-    {
-      "type": "paragraph",
-      "id": "0b606e4bc9fc9c45",
-      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n"
     }
   ],
   "journal": [
@@ -783,6 +783,50 @@
         "text": "I really wish I had a good personal tagline. I have used \"Engineering Better Teachers\" Too pretentious? It also doesn't get at all my web stuff. Maybe it does. Maybe I don't need a dichotomy in my tagline."
       },
       "date": 1420721395626
+    },
+    {
+      "type": "remove",
+      "id": "0b606e4bc9fc9c45",
+      "date": 1420721496477
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ac0e3f221665721"
+      },
+      "id": "9ac0e3f221665721",
+      "type": "add",
+      "after": "00bf9b27d581581d",
+      "date": 1420721498941
+    },
+    {
+      "type": "move",
+      "order": [
+        "a2bdb18f37a06a5d",
+        "b8f9ff9425c94d5f",
+        "2610fba984f5857e",
+        "0f9e503a6294597e",
+        "9ac0e3f221665721",
+        "c85ca599255c698c",
+        "4f27c0bb55f4235a",
+        "404902ba603b7903",
+        "4108131ca1b2f657",
+        "7d2dc4444fc0c984",
+        "7527f1e5824794f3",
+        "00bf9b27d581581d"
+      ],
+      "id": "9ac0e3f221665721",
+      "date": 1420721505805
+    },
+    {
+      "type": "edit",
+      "id": "9ac0e3f221665721",
+      "item": {
+        "type": "html",
+        "id": "9ac0e3f221665721",
+        "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\" style=\"float:left;padding:10px;width:40%;\"><h3><a href=\"http://twitter.com/jgmac1106\"> @jgmac1106</a></h3><h3><a href=\"http://jgregorymcverry.com\">jgregorymcverry.com</a></h3>\n\n"
+      },
+      "date": 1420721513420
     }
   ]
 }

@@ -2,14 +2,24 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "type": "paragraph",
+      "id": "e24755cd1a7461d4",
+      "text": "It will be the purpose I search for."
+    },
+    {
+      "type": "paragraph",
+      "id": "62f9958ce99ad3f1",
+      "text": ""
+    },
+    {
+      "text": "[[Greg McVerry]}",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "This is my attempt to play in this whole federated wiki space. I think I can learn the techy stuff. "
+      "id": "a406c885b20e5d49",
+      "text": "I am trying out this federated wiki thing. I can probably figure out the techy stuff."
     },
     {
       "type": "paragraph",
@@ -443,6 +453,89 @@
       "type": "remove",
       "id": "61b8933d2b231f9c",
       "date": 1420683494041
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1420684788725
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "[[Greg McVerry]}",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1420684797525
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a406c885b20e5d49",
+        "text": ""
+      },
+      "id": "a406c885b20e5d49",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1420684797534
+    },
+    {
+      "type": "edit",
+      "id": "a406c885b20e5d49",
+      "item": {
+        "type": "paragraph",
+        "id": "a406c885b20e5d49",
+        "text": "I am trying out this federated wiki thing. I can probably figure out the techy stuff."
+      },
+      "date": 1420684816908
+    },
+    {
+      "type": "edit",
+      "id": "61e6109638450391",
+      "item": {
+        "type": "paragraph",
+        "id": "61e6109638450391",
+        "text": " "
+      },
+      "date": 1420684817077
+    },
+    {
+      "type": "remove",
+      "id": "62f9958ce99ad3f1",
+      "date": 1420684817081
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62f9958ce99ad3f1",
+        "text": ""
+      },
+      "id": "62f9958ce99ad3f1",
+      "type": "add",
+      "after": "61e6109638450391",
+      "date": 1420684817084
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e24755cd1a7461d4",
+        "text": ""
+      },
+      "id": "e24755cd1a7461d4",
+      "type": "add",
+      "after": "61e6109638450391",
+      "date": 1420684817084
+    },
+    {
+      "type": "edit",
+      "id": "e24755cd1a7461d4",
+      "item": {
+        "type": "paragraph",
+        "id": "e24755cd1a7461d4",
+        "text": "It will be the purpose I search for."
+      },
+      "date": 1420684835482
     }
   ]
 }

@@ -358,13 +358,6 @@
       "type": "paragraph",
       "id": "819ec1c27ed8ab8b",
       "text": "To add your own external refs as internal people, check out [[[About Reference Plugin]] page that I just updated (the instructions in the original didn't work for me)."
-    },
-    {
-      "type": "reference",
-      "id": "add4d081da2b5a41",
-      "site": "jgmac1106.federatedwiki.org",
-      "title": "Greg McVerry",
-      "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\"\n"
     }
   ],
   "journal": [
@@ -4753,6 +4746,11 @@
         "text": "<img src=\"http://jgregorymcverry.com/wp-content/uploads/2015/01/headshot.jpg\"\n"
       },
       "date": 1420813187076
+    },
+    {
+      "type": "remove",
+      "id": "add4d081da2b5a41",
+      "date": 1420814129609
     }
   ]
 }

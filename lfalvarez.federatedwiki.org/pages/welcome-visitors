@@ -2,19 +2,19 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": " ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "text": " "
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "id": "788849e333c677b6",
+      "text": ""
     },
     {
       "type": "paragraph",
@@ -356,6 +356,105 @@
       "type": "remove",
       "id": "4abe5636a2bbb9c3",
       "date": 1421097021871
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Recent changes]]"
+      },
+      "date": 1421097148095
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a4faa278076a9daa",
+        "text": ""
+      },
+      "id": "a4faa278076a9daa",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1421097148185
+    },
+    {
+      "type": "remove",
+      "id": "a4faa278076a9daa",
+      "date": 1421097150514
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": " ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1421097279017
+    },
+    {
+      "type": "remove",
+      "id": "35352613794a1ca3",
+      "date": 1421097279054
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "61cdaba43416e4ea",
+        "text": ""
+      },
+      "id": "61cdaba43416e4ea",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1421097279104
+    },
+    {
+      "type": "remove",
+      "id": "61cdaba43416e4ea",
+      "date": 1421097281211
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": " "
+      },
+      "date": 1421097290018
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "788849e333c677b6",
+        "text": ""
+      },
+      "id": "788849e333c677b6",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1421097290074
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0758c525efa25bba",
+        "text": ""
+      },
+      "id": "0758c525efa25bba",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1421097290077
+    },
+    {
+      "type": "remove",
+      "id": "0758c525efa25bba",
+      "date": 1421097292037
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1421097298872
     }
   ]
 }

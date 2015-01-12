@@ -305,6 +305,25 @@
       "site": "tim.au.fedwikihappening.net",
       "title": "Tim Klapdor",
       "text": "I’m an Innovation Technology Officer at [http://www.csu.edu.au/ Charles Sturt University] in [http://goo.gl/PQxZ6U Wagga Wagga], Australia."
+    },
+    {
+      "type": "reference",
+      "id": "5d5f4e88e998b671",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://tmtm.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://tmtm.federatedwiki.org/favicon.png",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+      },
+      "site": "sarah.au.fedwikihappening.net",
+      "title": "Sarah Gallagher",
+      "text": "I'm a [http://otago.libguides.com/prf.php?account_id=31252 subject librarian] at the [http://www.otago.ac.nz/ University of Otago] in [https://maps.google.com/maps?q=Dunedin,+Otago,+New+Zealand&hl=en&sll=37.0625,-95.677068&sspn=60.50566,122.431641&oq=dunedin+new+ze&hnear=Dunedin,+Otago,+New+Zealand&t=m&z=12 Dunedin], New Zealand. "
+    },
+    {
+      "type": "reference",
+      "id": "79cb9d2465d530cd",
+      "site": "sarah.au.fedwikihappening.net",
+      "title": "Sarah Gallagher",
+      "text": "I'm a [http://otago.libguides.com/prf.php?account_id=31252 subject librarian] at the [http://www.otago.ac.nz/ University of Otago] in [https://maps.google.com/maps?q=Dunedin,+Otago,+New+Zealand&hl=en&sll=37.0625,-95.677068&sspn=60.50566,122.431641&oq=dunedin+new+ze&hnear=Dunedin,+Otago,+New+Zealand&t=m&z=12 Dunedin], New Zealand. "
     }
   ],
   "journal": [
@@ -3402,6 +3421,69 @@
     {
       "type": "fork",
       "date": 1419318492933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d5f4e88e998b671"
+      },
+      "id": "5d5f4e88e998b671",
+      "type": "add",
+      "after": "4791e85670ebdaca",
+      "date": 1421097044941
+    },
+    {
+      "type": "edit",
+      "id": "5d5f4e88e998b671",
+      "item": {
+        "type": "factory",
+        "id": "5d5f4e88e998b671",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://tmtm.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://tmtm.federatedwiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+        }
+      },
+      "date": 1421097049949
+    },
+    {
+      "type": "edit",
+      "id": "5d5f4e88e998b671",
+      "item": {
+        "type": "reference",
+        "id": "5d5f4e88e998b671",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://tmtm.federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://tmtm.federatedwiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+        },
+        "site": "sarah.au.fedwikihappening.net",
+        "title": "Sarah Gallagher",
+        "text": "I'm a [http://otago.libguides.com/prf.php?account_id=31252 subject librarian] at the [http://www.otago.ac.nz/ University of Otago] in [https://maps.google.com/maps?q=Dunedin,+Otago,+New+Zealand&hl=en&sll=37.0625,-95.677068&sspn=60.50566,122.431641&oq=dunedin+new+ze&hnear=Dunedin,+Otago,+New+Zealand&t=m&z=12 Dunedin], New Zealand. "
+      },
+      "date": 1421097065836
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "79cb9d2465d530cd"
+      },
+      "id": "79cb9d2465d530cd",
+      "type": "add",
+      "after": "5d5f4e88e998b671",
+      "date": 1421097069643
+    },
+    {
+      "type": "edit",
+      "id": "79cb9d2465d530cd",
+      "item": {
+        "type": "reference",
+        "id": "79cb9d2465d530cd",
+        "site": "sarah.au.fedwikihappening.net",
+        "title": "Sarah Gallagher",
+        "text": "I'm a [http://otago.libguides.com/prf.php?account_id=31252 subject librarian] at the [http://www.otago.ac.nz/ University of Otago] in [https://maps.google.com/maps?q=Dunedin,+Otago,+New+Zealand&hl=en&sll=37.0625,-95.677068&sspn=60.50566,122.431641&oq=dunedin+new+ze&hnear=Dunedin,+Otago,+New+Zealand&t=m&z=12 Dunedin], New Zealand. "
+      },
+      "date": 1421097077563
     }
   ]
 }

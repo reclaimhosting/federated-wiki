@@ -14,7 +14,7 @@
     {
       "type": "html",
       "id": "91046a3457f96b9b",
-      "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
     }
   ],
   "journal": [
@@ -57,6 +57,16 @@
       "after": "2e7077e70d7029c5",
       "id": "91046a3457f96b9b",
       "date": 1421117285947
+    },
+    {
+      "type": "edit",
+      "id": "91046a3457f96b9b",
+      "item": {
+        "type": "html",
+        "id": "91046a3457f96b9b",
+        "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      },
+      "date": 1421117678977
     }
   ]
 }

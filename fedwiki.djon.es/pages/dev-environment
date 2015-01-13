@@ -12,6 +12,11 @@
       "text": "MAPP working - apachec http://localhost:8080 - Postgres port 5433"
     },
     {
+      "type": "paragraph",
+      "id": "48b89af148b840e2",
+      "text": "/Applications/mappstack-5.4.36-0 file system location"
+    },
+    {
       "type": "html",
       "id": "0c24753833ac82c9",
       "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
@@ -322,6 +327,53 @@
       "type": "remove",
       "id": "df92540efea85f96",
       "date": 1421117303923
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "48b89af148b840e2",
+        "text": ""
+      },
+      "id": "48b89af148b840e2",
+      "type": "add",
+      "after": "3d194af17b836410",
+      "date": 1421117563314
+    },
+    {
+      "type": "edit",
+      "id": "48b89af148b840e2",
+      "item": {
+        "type": "paragraph",
+        "id": "48b89af148b840e2",
+        "text": "/Applications/mappstack-5.4.36-0 file system location"
+      },
+      "date": 1421117569864
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "689917235452ceb5",
+        "text": ""
+      },
+      "id": "689917235452ceb5",
+      "type": "add",
+      "after": "48b89af148b840e2",
+      "date": 1421117569871
+    },
+    {
+      "type": "remove",
+      "id": "689917235452ceb5",
+      "date": 1421117571265
+    },
+    {
+      "type": "edit",
+      "id": "91046a3457f96b9b",
+      "item": {
+        "type": "html",
+        "id": "91046a3457f96b9b",
+        "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. \n  </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      },
+      "date": 1421117650058
     }
   ]
 }

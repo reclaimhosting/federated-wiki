@@ -64,8 +64,9 @@
       "text": "##Pitfalls"
     },
     {
-      "type": "factory",
-      "id": "d86ff266cd762d7f"
+      "type": "paragraph",
+      "id": "d86ff266cd762d7f",
+      "text": "Helping all involved (those selecting grants, other teaching staff, myself, students) explore and develop an understanding of the learning capabilities of a SFW-based \"book\"? Would this be a step to far?"
     }
   ],
   "journal": [
@@ -514,6 +515,32 @@
       "type": "add",
       "after": "c18919c192cddfe5",
       "date": 1421183421334
+    },
+    {
+      "type": "edit",
+      "id": "d86ff266cd762d7f",
+      "item": {
+        "type": "paragraph",
+        "id": "d86ff266cd762d7f",
+        "text": "Helping all involved (those selecting grants, other teaching staff, myself, students) explore and develop an understanding of the learning capabilities of a SFW-based \"book\"? Would this be a step to far?"
+      },
+      "date": 1421183482448
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a1814c74333ea9f",
+        "text": ""
+      },
+      "id": "4a1814c74333ea9f",
+      "type": "add",
+      "after": "d86ff266cd762d7f",
+      "date": 1421183482457
+    },
+    {
+      "type": "remove",
+      "id": "4a1814c74333ea9f",
+      "date": 1421183499278
     }
   ]
 }

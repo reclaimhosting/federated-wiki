@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "0ea4dd66f64c8ff4",
-      "text": "The intent is support the pursuit of using \"non-traditional open educational resources as an alternative to the traditional textbook\". However, I'm betting that most of the initial ideas are very much in the mold of the [Horseless Carriage] type of alternative. i.e. are designed, authored and are read much like a traditional textbook, but created with OERs (internal combustion engine)."
+      "text": "The intent is support the pursuit of using \"non-traditional open educational resources as an alternative to the traditional textbook\". However, I'm betting that most of the initial ideas are very much in the mold of the [[Horseless Carriage]] type of alternative. i.e. are designed, authored and are read much like a traditional textbook, but created with OERs (internal combustion engine)."
     },
     {
       "type": "image",
@@ -19,6 +19,11 @@
       "text": "Horseless carriage by [https://www.flickr.com/photos/karen_roe/8515798857/ Karen Roe]"
     },
     {
+      "type": "markdown",
+      "id": "3e871c9a1de917e6",
+      "text": "##Possibilities"
+    },
+    {
       "type": "paragraph",
       "id": "b7b01089320fa0b4",
       "text": " "
@@ -26,7 +31,7 @@
     {
       "type": "paragraph",
       "id": "fca736b0d5797125",
-      "text": "I see a \"book\" based on SFW potentially being something very \"alternative\". Particularly in terms of the authoring/reading process."
+      "text": "I see a \"book\" based on SFW potentially being something very \"alternative\". Particularly in terms of the authoring & reading processes."
     },
     {
       "type": "paragraph",
@@ -45,8 +50,22 @@
     },
     {
       "type": "paragraph",
-      "id": "1d800ecd28a6e926",
-      "text": ""
+      "id": "bafd624215513c8b",
+      "text": "And of course students would be able to fork their own versions of all or part of the book. In the early stages the creation of \"chapters\" could be tasks set in courses."
+    },
+    {
+      "type": "paragraph",
+      "id": "951c14ca2a8def48",
+      "text": "What other learning activities might be possible around a SFW-based \"book\"?"
+    },
+    {
+      "type": "markdown",
+      "id": "c18919c192cddfe5",
+      "text": "##Pitfalls"
+    },
+    {
+      "type": "factory",
+      "id": "d86ff266cd762d7f"
     }
   ],
   "journal": [
@@ -342,6 +361,159 @@
       "type": "add",
       "after": "1caafeda8dcdde58",
       "date": 1421182736454
+    },
+    {
+      "type": "remove",
+      "id": "1d800ecd28a6e926",
+      "date": 1421183192128
+    },
+    {
+      "type": "edit",
+      "id": "0ea4dd66f64c8ff4",
+      "item": {
+        "type": "paragraph",
+        "id": "0ea4dd66f64c8ff4",
+        "text": "The intent is support the pursuit of using \"non-traditional open educational resources as an alternative to the traditional textbook\". However, I'm betting that most of the initial ideas are very much in the mold of the [[Horseless Carriage]] type of alternative. i.e. are designed, authored and are read much like a traditional textbook, but created with OERs (internal combustion engine)."
+      },
+      "date": 1421183202613
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bafd624215513c8b",
+        "text": ""
+      },
+      "id": "bafd624215513c8b",
+      "type": "add",
+      "after": "1caafeda8dcdde58",
+      "date": 1421183224163
+    },
+    {
+      "type": "edit",
+      "id": "bafd624215513c8b",
+      "item": {
+        "type": "paragraph",
+        "id": "bafd624215513c8b",
+        "text": "And of course students would be able to fork their own versions of all or part of the book. In the early stages the creation of \"chapters\" could be tasks set in courses."
+      },
+      "date": 1421183330611
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "951c14ca2a8def48",
+        "text": ""
+      },
+      "id": "951c14ca2a8def48",
+      "type": "add",
+      "after": "bafd624215513c8b",
+      "date": 1421183330624
+    },
+    {
+      "type": "edit",
+      "id": "951c14ca2a8def48",
+      "item": {
+        "type": "paragraph",
+        "id": "951c14ca2a8def48",
+        "text": "What other learning activities might be possible around a SFW-based \"book\"?"
+      },
+      "date": 1421183352872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3e871c9a1de917e6"
+      },
+      "id": "3e871c9a1de917e6",
+      "type": "add",
+      "after": "951c14ca2a8def48",
+      "date": 1421183355056
+    },
+    {
+      "type": "edit",
+      "id": "3e871c9a1de917e6",
+      "item": {
+        "type": "markdown",
+        "id": "3e871c9a1de917e6",
+        "text": "##Possibilities"
+      },
+      "date": 1421183364772
+    },
+    {
+      "type": "move",
+      "order": [
+        "ce2e080357915f7c",
+        "0ea4dd66f64c8ff4",
+        "3e871c9a1de917e6",
+        "7096baf7b4033bf6",
+        "b7b01089320fa0b4",
+        "fca736b0d5797125",
+        "648f63a7fb705fc8",
+        "803cfce78610cc3a",
+        "1caafeda8dcdde58",
+        "bafd624215513c8b",
+        "951c14ca2a8def48"
+      ],
+      "id": "3e871c9a1de917e6",
+      "date": 1421183373649
+    },
+    {
+      "type": "move",
+      "order": [
+        "ce2e080357915f7c",
+        "0ea4dd66f64c8ff4",
+        "7096baf7b4033bf6",
+        "3e871c9a1de917e6",
+        "b7b01089320fa0b4",
+        "fca736b0d5797125",
+        "648f63a7fb705fc8",
+        "803cfce78610cc3a",
+        "1caafeda8dcdde58",
+        "bafd624215513c8b",
+        "951c14ca2a8def48"
+      ],
+      "id": "3e871c9a1de917e6",
+      "date": 1421183377219
+    },
+    {
+      "type": "edit",
+      "id": "fca736b0d5797125",
+      "item": {
+        "type": "paragraph",
+        "id": "fca736b0d5797125",
+        "text": "I see a \"book\" based on SFW potentially being something very \"alternative\". Particularly in terms of the authoring & reading processes."
+      },
+      "date": 1421183391159
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c18919c192cddfe5"
+      },
+      "id": "c18919c192cddfe5",
+      "type": "add",
+      "after": "951c14ca2a8def48",
+      "date": 1421183406873
+    },
+    {
+      "type": "edit",
+      "id": "c18919c192cddfe5",
+      "item": {
+        "type": "markdown",
+        "id": "c18919c192cddfe5",
+        "text": "##Pitfalls"
+      },
+      "date": 1421183417747
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d86ff266cd762d7f"
+      },
+      "id": "d86ff266cd762d7f",
+      "type": "add",
+      "after": "c18919c192cddfe5",
+      "date": 1421183421334
     }
   ]
 }

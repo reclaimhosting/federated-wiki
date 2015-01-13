@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "8611414263ccce19",
       "text": "[[2nd Jan - Yosemite recovery]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2f4af2098e27804",
+      "text": "[[13 Jan - Updating dev environment]]"
     }
   ],
   "journal": [
@@ -118,6 +123,26 @@
       "type": "remove",
       "id": "da6438a7d599031b",
       "date": 1420172374412
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2f4af2098e27804"
+      },
+      "id": "a2f4af2098e27804",
+      "type": "add",
+      "after": "8611414263ccce19",
+      "date": 1421117207820
+    },
+    {
+      "type": "edit",
+      "id": "a2f4af2098e27804",
+      "item": {
+        "type": "paragraph",
+        "id": "a2f4af2098e27804",
+        "text": "[[13 Jan - Updating dev environment]]"
+      },
+      "date": 1421117218967
     }
   ]
 }

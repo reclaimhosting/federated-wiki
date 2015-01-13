@@ -7,24 +7,14 @@
       "text": "Yosemite installed."
     },
     {
+      "type": "paragraph",
+      "id": "3d194af17b836410",
+      "text": "MAPP working - apachec http://localhost:8080 - Postgres port 5433"
+    },
+    {
       "type": "html",
       "id": "0c24753833ac82c9",
       "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
-    },
-    {
-      "type": "markdown",
-      "id": "df92540efea85f96",
-      "text": "## Updating dev environment"
-    },
-    {
-      "type": "paragraph",
-      "id": "a440c591abcc0c72",
-      "text": "Trying to install MAPP via bitnami - recommendation from Moodle.org."
-    },
-    {
-      "type": "html",
-      "id": "2e7077e70d7029c5",
-      "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional?</p>\n  </li>\n</ol>\n"
     }
   ],
   "journal": [
@@ -197,6 +187,141 @@
         "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional?</p>\n  </li>\n</ol>\n"
       },
       "date": 1421116740596
+    },
+    {
+      "type": "edit",
+      "id": "2e7077e70d7029c5",
+      "item": {
+        "type": "html",
+        "id": "2e7077e70d7029c5",
+        "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional? Worked - 5433</p>\n  </li>\n</ol>\n"
+      },
+      "date": 1421117031194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "244e1210d053e23e"
+      },
+      "id": "244e1210d053e23e",
+      "type": "add",
+      "after": "2e7077e70d7029c5",
+      "date": 1421117034601
+    },
+    {
+      "type": "edit",
+      "id": "244e1210d053e23e",
+      "item": {
+        "type": "paragraph",
+        "id": "244e1210d053e23e",
+        "text": "Configurat"
+      },
+      "date": 1421117041506
+    },
+    {
+      "type": "remove",
+      "id": "244e1210d053e23e",
+      "date": 1421117044431
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb264c7dbb7a3603"
+      },
+      "id": "cb264c7dbb7a3603",
+      "type": "add",
+      "after": "2e7077e70d7029c5",
+      "date": 1421117045664
+    },
+    {
+      "type": "remove",
+      "id": "cb264c7dbb7a3603",
+      "date": 1421117063002
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d194af17b836410",
+        "text": ""
+      },
+      "id": "3d194af17b836410",
+      "type": "add",
+      "after": "a440c591abcc0c72",
+      "date": 1421117071492
+    },
+    {
+      "type": "edit",
+      "id": "3d194af17b836410",
+      "item": {
+        "type": "paragraph",
+        "id": "3d194af17b836410",
+        "text": "Apparently working - http://localhost:8080"
+      },
+      "date": 1421117083830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91046a3457f96b9b"
+      },
+      "id": "91046a3457f96b9b",
+      "type": "add",
+      "after": "2e7077e70d7029c5",
+      "date": 1421117086346
+    },
+    {
+      "type": "edit",
+      "id": "91046a3457f96b9b",
+      "item": {
+        "type": "html",
+        "id": "91046a3457f96b9b",
+        "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      },
+      "date": 1421117201907
+    },
+    {
+      "type": "move",
+      "order": [
+        "c5064a7eac033a0d",
+        "3d194af17b836410",
+        "0c24753833ac82c9",
+        "df92540efea85f96",
+        "a440c591abcc0c72",
+        "2e7077e70d7029c5",
+        "91046a3457f96b9b"
+      ],
+      "id": "3d194af17b836410",
+      "date": 1421117240233
+    },
+    {
+      "type": "edit",
+      "id": "3d194af17b836410",
+      "item": {
+        "type": "paragraph",
+        "id": "3d194af17b836410",
+        "text": "MAPP working - apachec http://localhost:8080 - Postgres port 5433"
+      },
+      "date": 1421117264353
+    },
+    {
+      "type": "remove",
+      "id": "a440c591abcc0c72",
+      "date": 1421117268572
+    },
+    {
+      "type": "remove",
+      "id": "2e7077e70d7029c5",
+      "date": 1421117273033
+    },
+    {
+      "type": "remove",
+      "id": "91046a3457f96b9b",
+      "date": 1421117285945
+    },
+    {
+      "type": "remove",
+      "id": "df92540efea85f96",
+      "date": 1421117303923
     }
   ]
 }

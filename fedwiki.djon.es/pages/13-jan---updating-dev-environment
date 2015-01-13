@@ -1,0 +1,62 @@
+{
+  "title": "13 Jan - Updating dev environment",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a440c591abcc0c72",
+      "text": "Trying to install MAPP via bitnami - recommendation from Moodle.org."
+    },
+    {
+      "type": "html",
+      "id": "2e7077e70d7029c5",
+      "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional? Worked - 5433</p>\n  </li>\n</ol>\n"
+    },
+    {
+      "type": "html",
+      "id": "91046a3457f96b9b",
+      "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "13 Jan - Updating dev environment",
+        "story": []
+      },
+      "date": 1421117231815
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a440c591abcc0c72",
+        "text": "Trying to install MAPP via bitnami - recommendation from Moodle.org."
+      },
+      "id": "a440c591abcc0c72",
+      "date": 1421117268574
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "2e7077e70d7029c5",
+        "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional? Worked - 5433</p>\n  </li>\n</ol>\n"
+      },
+      "after": "a440c591abcc0c72",
+      "id": "2e7077e70d7029c5",
+      "date": 1421117273035
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "91046a3457f96b9b",
+        "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      },
+      "after": "2e7077e70d7029c5",
+      "id": "91046a3457f96b9b",
+      "date": 1421117285947
+    }
+  ]
+}

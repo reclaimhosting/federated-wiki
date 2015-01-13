@@ -10,6 +10,21 @@
       "type": "html",
       "id": "0c24753833ac82c9",
       "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "df92540efea85f96",
+      "text": "## Updating dev environment"
+    },
+    {
+      "type": "paragraph",
+      "id": "a440c591abcc0c72",
+      "text": "Trying to install MAPP via bitnami - recommendation from Moodle.org."
+    },
+    {
+      "type": "html",
+      "id": "2e7077e70d7029c5",
+      "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional?</p>\n  </li>\n</ol>\n"
     }
   ],
   "journal": [
@@ -95,6 +110,93 @@
         "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
       },
       "date": 1420172169518
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a440c591abcc0c72"
+      },
+      "id": "a440c591abcc0c72",
+      "type": "add",
+      "after": "0c24753833ac82c9",
+      "date": 1421116630534
+    },
+    {
+      "type": "edit",
+      "id": "a440c591abcc0c72",
+      "item": {
+        "type": "paragraph",
+        "id": "a440c591abcc0c72",
+        "text": "Trying to install MAPP via bitnami - recommendation from Moodle.org."
+      },
+      "date": 1421116662084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df92540efea85f96"
+      },
+      "id": "df92540efea85f96",
+      "type": "add",
+      "after": "a440c591abcc0c72",
+      "date": 1421116664450
+    },
+    {
+      "type": "edit",
+      "id": "df92540efea85f96",
+      "item": {
+        "type": "markdown",
+        "id": "df92540efea85f96",
+        "text": "## Updating dev environment"
+      },
+      "date": 1421116677764
+    },
+    {
+      "type": "move",
+      "order": [
+        "c5064a7eac033a0d",
+        "0c24753833ac82c9",
+        "df92540efea85f96",
+        "a440c591abcc0c72"
+      ],
+      "id": "df92540efea85f96",
+      "date": 1421116680488
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9bca5b1d510115b0",
+        "text": ""
+      },
+      "id": "9bca5b1d510115b0",
+      "type": "add",
+      "after": "a440c591abcc0c72",
+      "date": 1421116683277
+    },
+    {
+      "type": "remove",
+      "id": "9bca5b1d510115b0",
+      "date": 1421116691361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e7077e70d7029c5"
+      },
+      "id": "2e7077e70d7029c5",
+      "type": "add",
+      "after": "a440c591abcc0c72",
+      "date": 1421116693588
+    },
+    {
+      "type": "edit",
+      "id": "2e7077e70d7029c5",
+      "item": {
+        "type": "html",
+        "id": "2e7077e70d7029c5",
+        "text": "Problems\n<ol>\n  <li> Remove the old Postgres or simply make a copy so the MAPP version will work?\n       <p>Will try moving to a different port - 1 up from traditional?</p>\n  </li>\n</ol>\n"
+      },
+      "date": 1421116740596
     }
   ]
 }

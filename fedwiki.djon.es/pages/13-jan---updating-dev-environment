@@ -14,7 +14,7 @@
     {
       "type": "html",
       "id": "91046a3457f96b9b",
-      "text": "<h3>To do</h3>\n\n<ol>\n  <li> <del>Install Moodle</del> - success. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> Install BIM. <p>\n       <ul>\n         <li> git clone https://github.com/djplaner/moodle-mod_bim.git </li>\n         <li> visit admin on Moodle and install </li>\n       </ul></p>\n  </li>\n  <li> Restore course backups. \n     <p>Create course backup of EDC3100 (minus user details) and also obtain BIM backup from same course. </p>\n     <p>Restore those in order </p>\n      <p>Had to modify two php config options in php.ini to be able to upload files of that size.</p>\n</li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
+      "text": "<h3>To do</h3>\n\n<ol>\n  <li> <del>Install Moodle</del> - success. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> <del>Install BIM.</del> - success <p>\n       <ul>\n         <li> git clone https://github.com/djplaner/moodle-mod_bim.git </li>\n         <li> visit admin on Moodle and install </li>\n       </ul></p>\n  </li>\n  <li> <del>Restore course backups</del> - success\n     <p>Create course backup of EDC3100 (minus user details) and also obtain BIM backup from same course. </p>\n     <p>Restore those in order </p>\n      <p>Had to modify two php config options in php.ini to be able to upload files of that size.</p>\n      <p>Some issues with users, but no great problem.</p>\n</li>\n  <li> <del>Possible to copy old Postgres databases over?</del> - ignore for now</li>\n  <li> What about the course search option? </li>\n  <li> <del>Check operation of process analytics.</del>  - success. <p>apparently still working when tested on S2, 2014 course.  Will need to move onto next course soon.</p> </li>\n  <li> <del>What about local MAV???</del> - ignore for now </li>\n</ol>"
     }
   ],
   "journal": [
@@ -107,6 +107,16 @@
         "text": "<h3>To do</h3>\n\n<ol>\n  <li> <del>Install Moodle</del> - success. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> Install BIM. <p>\n       <ul>\n         <li> git clone https://github.com/djplaner/moodle-mod_bim.git </li>\n         <li> visit admin on Moodle and install </li>\n       </ul></p>\n  </li>\n  <li> Restore course backups. \n     <p>Create course backup of EDC3100 (minus user details) and also obtain BIM backup from same course. </p>\n     <p>Restore those in order </p>\n      <p>Had to modify two php config options in php.ini to be able to upload files of that size.</p>\n</li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
       },
       "date": 1421119452664
+    },
+    {
+      "type": "edit",
+      "id": "91046a3457f96b9b",
+      "item": {
+        "type": "html",
+        "id": "91046a3457f96b9b",
+        "text": "<h3>To do</h3>\n\n<ol>\n  <li> <del>Install Moodle</del> - success. \n     <p>Unpack source code in DOCROOT/m28 and try the web-based installation process.</p>\n  </li>\n  <li> <del>Install BIM.</del> - success <p>\n       <ul>\n         <li> git clone https://github.com/djplaner/moodle-mod_bim.git </li>\n         <li> visit admin on Moodle and install </li>\n       </ul></p>\n  </li>\n  <li> <del>Restore course backups</del> - success\n     <p>Create course backup of EDC3100 (minus user details) and also obtain BIM backup from same course. </p>\n     <p>Restore those in order </p>\n      <p>Had to modify two php config options in php.ini to be able to upload files of that size.</p>\n      <p>Some issues with users, but no great problem.</p>\n</li>\n  <li> <del>Possible to copy old Postgres databases over?</del> - ignore for now</li>\n  <li> What about the course search option? </li>\n  <li> <del>Check operation of process analytics.</del>  - success. <p>apparently still working when tested on S2, 2014 course.  Will need to move onto next course soon.</p> </li>\n  <li> <del>What about local MAV???</del> - ignore for now </li>\n</ol>"
+      },
+      "date": 1421120191029
     }
   ]
 }

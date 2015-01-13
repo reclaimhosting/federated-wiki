@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "a2f4af2098e27804",
       "text": "[[13 Jan - Updating dev environment]]"
+    },
+    {
+      "type": "html",
+      "id": "455deeb858f8d8c3",
+      "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n</ol>"
     }
   ],
   "journal": [
@@ -143,6 +148,41 @@
         "text": "[[13 Jan - Updating dev environment]]"
       },
       "date": 1421117218967
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "472bb01a068ca643"
+      },
+      "id": "472bb01a068ca643",
+      "type": "add",
+      "after": "a2f4af2098e27804",
+      "date": 1421120200568
+    },
+    {
+      "type": "remove",
+      "id": "472bb01a068ca643",
+      "date": 1421120207944
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "455deeb858f8d8c3"
+      },
+      "id": "455deeb858f8d8c3",
+      "type": "add",
+      "after": "a2f4af2098e27804",
+      "date": 1421120209208
+    },
+    {
+      "type": "edit",
+      "id": "455deeb858f8d8c3",
+      "item": {
+        "type": "html",
+        "id": "455deeb858f8d8c3",
+        "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n</ol>"
+      },
+      "date": 1421120272952
     }
   ]
 }

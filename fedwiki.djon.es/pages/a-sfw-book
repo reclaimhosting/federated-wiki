@@ -67,6 +67,16 @@
       "type": "paragraph",
       "id": "d86ff266cd762d7f",
       "text": "Helping all involved (those selecting grants, other teaching staff, myself, students) explore and develop an understanding of the learning capabilities of a SFW-based \"book\"? Would this be a step to far?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b333870e85fc6f05",
+      "text": "The authoring and viewing interface for SFW is somewhat limited in comparison to the expectations of most."
+    },
+    {
+      "type": "paragraph",
+      "id": "2cf8a2f90922afec",
+      "text": ""
     }
   ],
   "journal": [
@@ -541,6 +551,38 @@
       "type": "remove",
       "id": "4a1814c74333ea9f",
       "date": 1421183499278
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b333870e85fc6f05",
+        "text": ""
+      },
+      "id": "b333870e85fc6f05",
+      "type": "add",
+      "after": "d86ff266cd762d7f",
+      "date": 1421192742610
+    },
+    {
+      "type": "edit",
+      "id": "b333870e85fc6f05",
+      "item": {
+        "type": "paragraph",
+        "id": "b333870e85fc6f05",
+        "text": "The authoring and viewing interface for SFW is somewhat limited in comparison to the expectations of most."
+      },
+      "date": 1421192791503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2cf8a2f90922afec",
+        "text": ""
+      },
+      "id": "2cf8a2f90922afec",
+      "type": "add",
+      "after": "b333870e85fc6f05",
+      "date": 1421192791512
     }
   ]
 }

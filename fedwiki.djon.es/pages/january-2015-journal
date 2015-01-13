@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "8f7b94e31698d599",
       "text": "[[Pretence of Knowledge]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3c7805ab2054d6db",
+      "text": "[[A SFW \"Book\"]]"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "[[Pretence of Knowledge]]"
       },
       "date": 1420076484119
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3c7805ab2054d6db"
+      },
+      "id": "3c7805ab2054d6db",
+      "type": "add",
+      "after": "8f7b94e31698d599",
+      "date": 1421181962874
+    },
+    {
+      "type": "edit",
+      "id": "3c7805ab2054d6db",
+      "item": {
+        "type": "paragraph",
+        "id": "3c7805ab2054d6db",
+        "text": "[[A SFW \"Book\"]]"
+      },
+      "date": 1421181982289
     }
   ]
 }

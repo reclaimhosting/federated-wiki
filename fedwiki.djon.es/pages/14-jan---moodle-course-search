@@ -23,7 +23,11 @@
     {
       "type": "paragraph",
       "id": "1e1dcd41e7a93ddc",
-      "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install."
+      "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install. Also need the [https://moodle.org/plugins/pluginversions.php?plugin=theme_coursesearch theme_coursesearch]"
+    },
+    {
+      "type": "factory",
+      "id": "23eba280e7d60b69"
     }
   ],
   "journal": [
@@ -141,6 +145,26 @@
       "type": "remove",
       "id": "6413867399d4881f",
       "date": 1421291274194
+    },
+    {
+      "type": "edit",
+      "id": "1e1dcd41e7a93ddc",
+      "item": {
+        "type": "paragraph",
+        "id": "1e1dcd41e7a93ddc",
+        "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install. Also need the [https://moodle.org/plugins/pluginversions.php?plugin=theme_coursesearch theme_coursesearch]"
+      },
+      "date": 1421291929183
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23eba280e7d60b69"
+      },
+      "id": "23eba280e7d60b69",
+      "type": "add",
+      "after": "1e1dcd41e7a93ddc",
+      "date": 1421292068483
     }
   ]
 }

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "9364a3465266051e"
+      "id": "8f623e31f6e46953"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6aa7e16e62b0ce19"
+      "id": "3cc6b1f41e20905e"
+    },
+    {
+      "date": 1421295002000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "cb1db1c31790c9ba"
     },
     {
       "date": 1421294640000,
@@ -18,16 +27,7 @@
       "title": "14 Jan - Moodle course search",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 55 pages.",
       "type": "reference",
-      "id": "163de6252a4bcd1b"
-    },
-    {
-      "date": 1421294401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "2a37bc304b2f417b"
+      "id": "a237e364e95166b6"
     },
     {
       "date": 1421097011000,
@@ -36,7 +36,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "4d46e5ce7c37985e"
+      "id": "05fdbb484f6c6b51"
     },
     {
       "date": 1421095731000,
@@ -45,7 +45,7 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "4c7b78dbfd63cfac"
+      "id": "c0e1c879506d0d60"
     },
     {
       "date": 1420816055000,
@@ -54,7 +54,7 @@
       "title": "Greg McVerry",
       "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 10 pages.",
       "type": "reference",
-      "id": "8d9e1143de433c38"
+      "id": "e2dd3561650fd63e"
     },
     {
       "date": 1420812445000,
@@ -63,7 +63,7 @@
       "title": "Greg McVerry",
       "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "3b9c4166d7bc66b1"
+      "id": "2405ae2fa9d4147b"
     },
     {
       "date": 1420667984000,
@@ -72,41 +72,55 @@
       "title": "Learn Wiki by Doing Wiki",
       "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 10 pages.",
       "type": "reference",
-      "id": "53dc5c4ca6af0217"
+      "id": "7b07e2b78aea6050"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "86a67d2f12e565c9",
+      "id": "1aa49032b3937167",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "9364a3465266051e",
+      "id": "8f623e31f6e46953",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "9364a3465266051e"
+        "id": "8f623e31f6e46953"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "6aa7e16e62b0ce19",
+      "id": "3cc6b1f41e20905e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6aa7e16e62b0ce19"
+        "id": "3cc6b1f41e20905e"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "163de6252a4bcd1b",
+      "id": "cb1db1c31790c9ba",
+      "item": {
+        "date": 1421295002000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "cb1db1c31790c9ba"
+      },
+      "date": 1421295601000
+    },
+    {
+      "type": "add",
+      "id": "a237e364e95166b6",
       "item": {
         "date": 1421294640000,
         "site": "fedwiki.djon.es",
@@ -114,27 +128,13 @@
         "title": "14 Jan - Moodle course search",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 55 pages.",
         "type": "reference",
-        "id": "163de6252a4bcd1b"
+        "id": "a237e364e95166b6"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "2a37bc304b2f417b",
-      "item": {
-        "date": 1421294401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "2a37bc304b2f417b"
-      },
-      "date": 1421295002000
-    },
-    {
-      "type": "add",
-      "id": "4d46e5ce7c37985e",
+      "id": "05fdbb484f6c6b51",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -142,13 +142,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "4d46e5ce7c37985e"
+        "id": "05fdbb484f6c6b51"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "4c7b78dbfd63cfac",
+      "id": "c0e1c879506d0d60",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -156,13 +156,13 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "4c7b78dbfd63cfac"
+        "id": "c0e1c879506d0d60"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "8d9e1143de433c38",
+      "id": "e2dd3561650fd63e",
       "item": {
         "date": 1420816055000,
         "site": "daveh70.federatedwiki.org",
@@ -170,13 +170,13 @@
         "title": "Greg McVerry",
         "text": "In [http://daveh70.federatedwiki.org daveh70.federatedwiki.org] with 10 pages.",
         "type": "reference",
-        "id": "8d9e1143de433c38"
+        "id": "e2dd3561650fd63e"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "3b9c4166d7bc66b1",
+      "id": "2405ae2fa9d4147b",
       "item": {
         "date": 1420812445000,
         "site": "jgmac1106.federatedwiki.org",
@@ -184,13 +184,13 @@
         "title": "Greg McVerry",
         "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "3b9c4166d7bc66b1"
+        "id": "2405ae2fa9d4147b"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     },
     {
       "type": "add",
-      "id": "53dc5c4ca6af0217",
+      "id": "7b07e2b78aea6050",
       "item": {
         "date": 1420667984000,
         "site": "johnjohnston.federatedwiki.org",
@@ -198,9 +198,9 @@
         "title": "Learn Wiki by Doing Wiki",
         "text": "In [http://johnjohnston.federatedwiki.org johnjohnston.federatedwiki.org] with 10 pages.",
         "type": "reference",
-        "id": "53dc5c4ca6af0217"
+        "id": "7b07e2b78aea6050"
       },
-      "date": 1421295002000
+      "date": 1421295601000
     }
   ]
 }

@@ -26,8 +26,9 @@
       "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install. Also need the [https://moodle.org/plugins/pluginversions.php?plugin=theme_coursesearch theme_coursesearch]"
     },
     {
-      "type": "factory",
-      "id": "23eba280e7d60b69"
+      "type": "html",
+      "id": "23eba280e7d60b69",
+      "text": "Process\n<ol> <li> Install search theme. </li>\n  <li> Install the course search admin tool. </li>\n</ol>"
     }
   ],
   "journal": [
@@ -165,6 +166,26 @@
       "type": "add",
       "after": "1e1dcd41e7a93ddc",
       "date": 1421292068483
+    },
+    {
+      "type": "edit",
+      "id": "23eba280e7d60b69",
+      "item": {
+        "type": "html",
+        "id": "23eba280e7d60b69",
+        "text": "Process\n<ol> <li> Install search theme. </li>\n\n</ol>"
+      },
+      "date": 1421292092238
+    },
+    {
+      "type": "edit",
+      "id": "23eba280e7d60b69",
+      "item": {
+        "type": "html",
+        "id": "23eba280e7d60b69",
+        "text": "Process\n<ol> <li> Install search theme. </li>\n  <li> Install the course search admin tool. </li>\n</ol>"
+      },
+      "date": 1421292244351
     }
   ]
 }

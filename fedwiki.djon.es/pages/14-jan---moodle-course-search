@@ -2,8 +2,19 @@
   "title": "14 Jan - Moodle course search",
   "story": [
     {
-      "type": "factory",
-      "id": "666661e74cc093f9"
+      "type": "paragraph",
+      "id": "666661e74cc093f9",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "33a5472db0ec280c",
+      "text": "Sadly the course search isn't the right approach.  \"Global search\" is the right term and there has been some work implementing this (using the same \"search engine\" as course search) but it's not complete."
+    },
+    {
+      "type": "paragraph",
+      "id": "601456ecf7cb3b75",
+      "text": "One of the biggest [[concrete lounge]]s in my current institutional e-learning context is the absence of a search engine for course sites."
     },
     {
       "type": "paragraph",
@@ -186,6 +197,48 @@
         "text": "Process\n<ol> <li> Install search theme. </li>\n  <li> Install the course search admin tool. </li>\n</ol>"
       },
       "date": 1421292244351
+    },
+    {
+      "type": "edit",
+      "id": "666661e74cc093f9",
+      "item": {
+        "type": "paragraph",
+        "id": "666661e74cc093f9",
+        "text": " "
+      },
+      "date": 1421294678798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "601456ecf7cb3b75",
+        "text": "One of the biggest [[concrete lounge]]s in my current institutional e-learning context is the absence of a search engine for course sites."
+      },
+      "id": "601456ecf7cb3b75",
+      "type": "add",
+      "after": "666661e74cc093f9",
+      "date": 1421294678824
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "33a5472db0ec280c",
+        "text": ""
+      },
+      "id": "33a5472db0ec280c",
+      "type": "add",
+      "after": "666661e74cc093f9",
+      "date": 1421294678825
+    },
+    {
+      "type": "edit",
+      "id": "33a5472db0ec280c",
+      "item": {
+        "type": "paragraph",
+        "id": "33a5472db0ec280c",
+        "text": "Sadly the course search isn't the right approach.  \"Global search\" is the right term and there has been some work implementing this (using the same \"search engine\" as course search) but it's not complete."
+      },
+      "date": 1421294722526
     }
   ]
 }

@@ -1,0 +1,146 @@
+{
+  "title": "14 Jan - Moodle course search",
+  "story": [
+    {
+      "type": "factory",
+      "id": "666661e74cc093f9"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a87cfb2072031e5",
+      "text": "The institutional e-learning folk are arguing that students have problems finding what they need on course sites because of poor design. This has been used as the prime argument for developing a standard look and feel for all course sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "b3568d95c482361d",
+      "text": "My argument is that this won't fix the problem and that implementing a search engine will help more. The question is, can you implement an effective search engine on a Moodle LMS?"
+    },
+    {
+      "type": "markdown",
+      "id": "1d9f6ed19947e036",
+      "text": "##Course Search"
+    },
+    {
+      "type": "paragraph",
+      "id": "1e1dcd41e7a93ddc",
+      "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "14 Jan - Moodle course search",
+        "story": []
+      },
+      "date": 1421290990362
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "666661e74cc093f9"
+      },
+      "id": "666661e74cc093f9",
+      "type": "add",
+      "date": 1421290992525
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1a87cfb2072031e5",
+        "text": ""
+      },
+      "id": "1a87cfb2072031e5",
+      "type": "add",
+      "after": "666661e74cc093f9",
+      "date": 1421291028963
+    },
+    {
+      "type": "edit",
+      "id": "1a87cfb2072031e5",
+      "item": {
+        "type": "paragraph",
+        "id": "1a87cfb2072031e5",
+        "text": "The institutional e-learning folk are arguing that students have problems finding what they need on course sites because of poor design. This has been used as the prime argument for developing a standard look and feel for all course sites."
+      },
+      "date": 1421291093193
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3568d95c482361d",
+        "text": ""
+      },
+      "id": "b3568d95c482361d",
+      "type": "add",
+      "after": "1a87cfb2072031e5",
+      "date": 1421291093202
+    },
+    {
+      "type": "edit",
+      "id": "b3568d95c482361d",
+      "item": {
+        "type": "paragraph",
+        "id": "b3568d95c482361d",
+        "text": "My argument is that this won't fix the problem and that implementing a search engine will help more. The question is, can you implement an effective search engine on a Moodle LMS?"
+      },
+      "date": 1421291148766
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d9f6ed19947e036"
+      },
+      "id": "1d9f6ed19947e036",
+      "type": "add",
+      "after": "b3568d95c482361d",
+      "date": 1421291173369
+    },
+    {
+      "type": "edit",
+      "id": "1d9f6ed19947e036",
+      "item": {
+        "type": "markdown",
+        "id": "1d9f6ed19947e036",
+        "text": "##Course Search"
+      },
+      "date": 1421291193421
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e1dcd41e7a93ddc"
+      },
+      "id": "1e1dcd41e7a93ddc",
+      "type": "add",
+      "after": "1d9f6ed19947e036",
+      "date": 1421291232403
+    },
+    {
+      "type": "edit",
+      "id": "1e1dcd41e7a93ddc",
+      "item": {
+        "type": "paragraph",
+        "id": "1e1dcd41e7a93ddc",
+        "text": "The [https://moodle.org/plugins/view.php?plugin=tool_coursesearch Advance course search] plugin appears to be a solution.  The following tracks my attempts to install and test this on my local Moodle install."
+      },
+      "date": 1421291268435
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6413867399d4881f",
+        "text": ""
+      },
+      "id": "6413867399d4881f",
+      "type": "add",
+      "after": "1e1dcd41e7a93ddc",
+      "date": 1421291268452
+    },
+    {
+      "type": "remove",
+      "id": "6413867399d4881f",
+      "date": 1421291274194
+    }
+  ]
+}

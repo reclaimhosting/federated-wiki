@@ -22,6 +22,11 @@
       "text": "[[13 Jan - Updating dev environment]]"
     },
     {
+      "type": "paragraph",
+      "id": "24f0fcad25931e25",
+      "text": "[[14 Jan - Moodle course search]]"
+    },
+    {
       "type": "html",
       "id": "455deeb858f8d8c3",
       "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
@@ -193,6 +198,43 @@
         "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
       },
       "date": 1421120548593
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "24f0fcad25931e25",
+        "text": ""
+      },
+      "id": "24f0fcad25931e25",
+      "type": "add",
+      "after": "a2f4af2098e27804",
+      "date": 1421290978750
+    },
+    {
+      "type": "edit",
+      "id": "24f0fcad25931e25",
+      "item": {
+        "type": "paragraph",
+        "id": "24f0fcad25931e25",
+        "text": "[[14 Jan - Moodle course search]]"
+      },
+      "date": 1421290986701
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3112de96dcd49b19",
+        "text": ""
+      },
+      "id": "3112de96dcd49b19",
+      "type": "add",
+      "after": "24f0fcad25931e25",
+      "date": 1421290986708
+    },
+    {
+      "type": "remove",
+      "id": "3112de96dcd49b19",
+      "date": 1421290990241
     }
   ]
 }

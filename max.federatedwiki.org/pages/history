@@ -15,6 +15,16 @@
       "type": "paragraph",
       "id": "1f92509282d461ad",
       "text": "[[the Roaring twenties]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "60d2cf6d47dff75e",
+      "text": "[[a boy who loved history]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "221cb9f72f1865b5",
+      "text": "[[the teddy bear man]]"
     }
   ],
   "journal": [
@@ -142,6 +152,57 @@
         "text": "[[the Roaring twenties]]"
       },
       "date": 1417644557809
+    },
+    {
+      "type": "fork",
+      "site": "max.federatedwiki.org",
+      "date": 1420647232319
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60d2cf6d47dff75e"
+      },
+      "id": "60d2cf6d47dff75e",
+      "type": "add",
+      "after": "1f92509282d461ad",
+      "site": "max.federatedwiki.org",
+      "date": 1420647232317
+    },
+    {
+      "type": "edit",
+      "id": "60d2cf6d47dff75e",
+      "item": {
+        "type": "paragraph",
+        "id": "60d2cf6d47dff75e",
+        "text": "[[a boy who loved history]]"
+      },
+      "date": 1420647273066
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "221cb9f72f1865b5",
+        "text": ""
+      },
+      "id": "221cb9f72f1865b5",
+      "type": "add",
+      "after": "60d2cf6d47dff75e",
+      "date": 1421355414350
+    },
+    {
+      "type": "edit",
+      "id": "221cb9f72f1865b5",
+      "item": {
+        "type": "paragraph",
+        "id": "221cb9f72f1865b5",
+        "text": "[[the teddy bear man]]"
+      },
+      "date": 1421355433587
+    },
+    {
+      "type": "fork",
+      "date": 1421363971210
     }
   ]
 }

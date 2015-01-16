@@ -35,6 +35,36 @@
       "type": "html",
       "id": "c48c6a63243f6d3d",
       "text": "<ul>\n  <li> MAVROOT  \n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost  <em>Fixed??</em>\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> \n      <p>Includes a DBCONF in mav.</p>\n</li>\n  <li> DOCROOT/htmllib  <em>FIXED</em>\n      <p>Has the jquery stuff.  Need to copy that across to new doc root </p> \n  </li>\n</ul>"
+    },
+    {
+      "type": "markdown",
+      "id": "9b10a8f62a54a568",
+      "text": "##The visible DIV"
+    },
+    {
+      "type": "paragraph",
+      "id": "4e26bee2791f6fa7",
+      "text": "The DIV for the popup box is being appended at the bottom of the page.  This isn't happening when I comment out the code that adds it in the greasemonkey script.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f4a8c762c7952a2",
+      "text": "May imply that this is due to something wrong in the HTML for the DIV.  Change that to something simple to test it."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9a6606c920f6758",
+      "text": "**SOLUTION** The <div> needs to have a style=\"display:none\" to ensure that it is initially turned off."
+    },
+    {
+      "type": "markdown",
+      "id": "ecec8fe86a3a41bc",
+      "text": "##NO details link"
+    },
+    {
+      "type": "paragraph",
+      "id": "c5c95a5549d79fea",
+      "text": "Is this due to the code for detecting a link to a student profile isn't working?"
     }
   ],
   "journal": [
@@ -295,6 +325,154 @@
         "text": "<ul>\n  <li> MAVROOT  \n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost  <em>Fixed??</em>\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> \n      <p>Includes a DBCONF in mav.</p>\n</li>\n  <li> DOCROOT/htmllib  <em>FIXED</em>\n      <p>Has the jquery stuff.  Need to copy that across to new doc root </p> \n  </li>\n</ul>"
       },
       "date": 1421387647973
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b10a8f62a54a568"
+      },
+      "id": "9b10a8f62a54a568",
+      "type": "add",
+      "after": "c48c6a63243f6d3d",
+      "date": 1421388794768
+    },
+    {
+      "type": "edit",
+      "id": "9b10a8f62a54a568",
+      "item": {
+        "type": "markdown",
+        "id": "9b10a8f62a54a568",
+        "text": "##The visible DIV"
+      },
+      "date": 1421388848788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e26bee2791f6fa7"
+      },
+      "id": "4e26bee2791f6fa7",
+      "type": "add",
+      "after": "9b10a8f62a54a568",
+      "date": 1421388851086
+    },
+    {
+      "type": "edit",
+      "id": "4e26bee2791f6fa7",
+      "item": {
+        "type": "paragraph",
+        "id": "4e26bee2791f6fa7",
+        "text": "The DIV for the popup box is being appended at the bottom of the page.  This isn't happening when I comment out the code that adds it in the greasemonkey script.\n"
+      },
+      "date": 1421388859526
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f4a8c762c7952a2",
+        "text": ""
+      },
+      "id": "0f4a8c762c7952a2",
+      "type": "add",
+      "after": "4e26bee2791f6fa7",
+      "date": 1421388859541
+    },
+    {
+      "type": "edit",
+      "id": "0f4a8c762c7952a2",
+      "item": {
+        "type": "paragraph",
+        "id": "0f4a8c762c7952a2",
+        "text": "May imply that this is due to something wrong in the HTML for the DIV.  Change that to something simple to test it."
+      },
+      "date": 1421388879338
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9a6606c920f6758",
+        "text": ""
+      },
+      "id": "b9a6606c920f6758",
+      "type": "add",
+      "after": "0f4a8c762c7952a2",
+      "date": 1421388990047
+    },
+    {
+      "type": "edit",
+      "id": "b9a6606c920f6758",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a6606c920f6758",
+        "text": "<em>SOLUTION:</em> The <div> needs to have a style=\"display:none\" to ensure that it is initially turned off."
+      },
+      "date": 1421389012355
+    },
+    {
+      "type": "edit",
+      "id": "b9a6606c920f6758",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a6606c920f6758",
+        "text": "**SOLUTION** The <div> needs to have a style=\"display:none\" to ensure that it is initially turned off."
+      },
+      "date": 1421389031478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ecec8fe86a3a41bc"
+      },
+      "id": "ecec8fe86a3a41bc",
+      "type": "add",
+      "after": "b9a6606c920f6758",
+      "date": 1421389045330
+    },
+    {
+      "type": "edit",
+      "id": "ecec8fe86a3a41bc",
+      "item": {
+        "type": "markdown",
+        "id": "ecec8fe86a3a41bc",
+        "text": "##NO details link"
+      },
+      "date": 1421389061041
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5c95a5549d79fea"
+      },
+      "id": "c5c95a5549d79fea",
+      "type": "add",
+      "after": "ecec8fe86a3a41bc",
+      "date": 1421389065733
+    },
+    {
+      "type": "edit",
+      "id": "c5c95a5549d79fea",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c95a5549d79fea",
+        "text": "Is this due to the code for detecting a link to a student profile isn't working?"
+      },
+      "date": 1421389090126
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dcee8c8ccf417f79",
+        "text": ""
+      },
+      "id": "dcee8c8ccf417f79",
+      "type": "add",
+      "after": "c5c95a5549d79fea",
+      "date": 1421389090139
+    },
+    {
+      "type": "remove",
+      "id": "dcee8c8ccf417f79",
+      "date": 1421389092998
     }
   ]
 }

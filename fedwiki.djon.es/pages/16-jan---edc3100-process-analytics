@@ -109,7 +109,47 @@
     {
       "type": "html",
       "id": "02ebc206a7dbc2b4",
-      "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p>\n  </li>\n  <li>  the mav server log</li>\n</ul>"
+      "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p><p>Updated that but now getting an internal server error from the mav server...possibly related to the environment change.</p>\n  </li>\n  <li>  the mav server log</li>\n</ul>\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "09b53eb38f814c94",
+      "text": "##Ignition"
+    },
+    {
+      "type": "paragraph",
+      "id": "fadb75f74e2eef3f",
+      "text": "Problem here is"
+    },
+    {
+      "type": "paragraph",
+      "id": "b36ed9830d77b450",
+      "text": "PHP Warning:  include_once(): Failed opening 'ignition.php' for inclusion (include_path='.:/Applications/mappstack-5.4.36-0/php/lib/php:/Applications/mappstack-5.4.36-0/frameworks/smarty/libs') in /usr/local/www/mav/phpdocs/api/getUserDetails.php on line 5"
+    },
+    {
+      "type": "paragraph",
+      "id": "a24b3d328daa4c0b",
+      "text": "Fixed that by putting ignition.php from the MAV location into the smarty directory above"
+    },
+    {
+      "type": "markdown",
+      "id": "89faa7fc9ed4c105",
+      "text": "## Current status\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1ba4f25caa50983",
+      "text": "console log is suggesting that it's trying to open the accordion and display some information"
+    },
+    {
+      "type": "paragraph",
+      "id": "73b4275773024434",
+      "text": "Don't know whether the information is getting back to the greasemonkey script.  Need to dump that to see what's going on."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef451f5d7f94b4b1",
+      "text": "It is still making this call lots of times.  Need to do it only once."
     }
   ],
   "journal": [
@@ -826,6 +866,216 @@
         "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p>\n  </li>\n  <li>  the mav server log</li>\n</ul>"
       },
       "date": 1421391000741
+    },
+    {
+      "type": "edit",
+      "id": "02ebc206a7dbc2b4",
+      "item": {
+        "type": "html",
+        "id": "02ebc206a7dbc2b4",
+        "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p><p>Updated that but now getting an internal server error from the mav server...possibly related to the environment change.</p>\n  </li>\n  <li>  the mav server log</li>\n</ul>"
+      },
+      "date": 1421391186362
+    },
+    {
+      "type": "edit",
+      "id": "02ebc206a7dbc2b4",
+      "item": {
+        "type": "html",
+        "id": "02ebc206a7dbc2b4",
+        "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p><p>Updated that but now getting an internal server error from the mav server...possibly related to the environment change.</p>\n  </li>\n  <li>  the mav server log</li>\n</ul>\n\nGetting a problem with finding ignition <xmp>PHP Warning:  include_once(): Failed opening 'ignition.php' for inclusion (include_path='.:/Applications/mappstack-5.4.36-0/php/lib/php:/Applications/mappstack-5.4.36-0/frameworks/smarty/libs') in /usr/local/www/mav/phpdocs/api/getUserDetails.php on line 5</xmp>"
+      },
+      "date": 1421391387800
+    },
+    {
+      "type": "edit",
+      "id": "02ebc206a7dbc2b4",
+      "item": {
+        "type": "html",
+        "id": "02ebc206a7dbc2b4",
+        "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p><p>Updated that but now getting an internal server error from the mav server...possibly related to the environment change.</p>\n  </li>\n  <li>  the mav server log</li>\n</ul>\n\n"
+      },
+      "date": 1421391415063
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09b53eb38f814c94"
+      },
+      "id": "09b53eb38f814c94",
+      "type": "add",
+      "after": "02ebc206a7dbc2b4",
+      "date": 1421391424813
+    },
+    {
+      "type": "edit",
+      "id": "09b53eb38f814c94",
+      "item": {
+        "type": "markdown",
+        "id": "09b53eb38f814c94",
+        "text": "##Ignition"
+      },
+      "date": 1421391430925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fadb75f74e2eef3f"
+      },
+      "id": "fadb75f74e2eef3f",
+      "type": "add",
+      "after": "09b53eb38f814c94",
+      "date": 1421391433066
+    },
+    {
+      "type": "edit",
+      "id": "fadb75f74e2eef3f",
+      "item": {
+        "type": "paragraph",
+        "id": "fadb75f74e2eef3f",
+        "text": "Problem here is"
+      },
+      "date": 1421391439594
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b36ed9830d77b450",
+        "text": ""
+      },
+      "id": "b36ed9830d77b450",
+      "type": "add",
+      "after": "fadb75f74e2eef3f",
+      "date": 1421391439612
+    },
+    {
+      "type": "edit",
+      "id": "b36ed9830d77b450",
+      "item": {
+        "type": "paragraph",
+        "id": "b36ed9830d77b450",
+        "text": "PHP Warning:  include_once(): Failed opening 'ignition.php' for inclusion (include_path='.:/Applications/mappstack-5.4.36-0/php/lib/php:/Applications/mappstack-5.4.36-0/frameworks/smarty/libs') in /usr/local/www/mav/phpdocs/api/getUserDetails.php on line 5"
+      },
+      "date": 1421391454509
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a24b3d328daa4c0b",
+        "text": ""
+      },
+      "id": "a24b3d328daa4c0b",
+      "type": "add",
+      "after": "b36ed9830d77b450",
+      "date": 1421391571446
+    },
+    {
+      "type": "edit",
+      "id": "a24b3d328daa4c0b",
+      "item": {
+        "type": "paragraph",
+        "id": "a24b3d328daa4c0b",
+        "text": "Fixed that by putting ignition.php from the MAV location into the smarty directory above"
+      },
+      "date": 1421391590761
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52329d90519b7d9d",
+        "text": ""
+      },
+      "id": "52329d90519b7d9d",
+      "type": "add",
+      "after": "a24b3d328daa4c0b",
+      "date": 1421391590777
+    },
+    {
+      "type": "remove",
+      "id": "52329d90519b7d9d",
+      "date": 1421391592280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "89faa7fc9ed4c105"
+      },
+      "id": "89faa7fc9ed4c105",
+      "type": "add",
+      "after": "a24b3d328daa4c0b",
+      "date": 1421391618043
+    },
+    {
+      "type": "edit",
+      "id": "89faa7fc9ed4c105",
+      "item": {
+        "type": "markdown",
+        "id": "89faa7fc9ed4c105",
+        "text": "## Current status\n"
+      },
+      "date": 1421391624405
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1ba4f25caa50983"
+      },
+      "id": "c1ba4f25caa50983",
+      "type": "add",
+      "after": "89faa7fc9ed4c105",
+      "date": 1421391626421
+    },
+    {
+      "type": "edit",
+      "id": "c1ba4f25caa50983",
+      "item": {
+        "type": "paragraph",
+        "id": "c1ba4f25caa50983",
+        "text": "console log is suggesting that it's trying to open the accordion and display some information"
+      },
+      "date": 1421391641947
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "73b4275773024434",
+        "text": ""
+      },
+      "id": "73b4275773024434",
+      "type": "add",
+      "after": "c1ba4f25caa50983",
+      "date": 1421391641961
+    },
+    {
+      "type": "edit",
+      "id": "73b4275773024434",
+      "item": {
+        "type": "paragraph",
+        "id": "73b4275773024434",
+        "text": "Don't know whether the information is getting back to the greasemonkey script.  Need to dump that to see what's going on."
+      },
+      "date": 1421391657447
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef451f5d7f94b4b1",
+        "text": ""
+      },
+      "id": "ef451f5d7f94b4b1",
+      "type": "add",
+      "after": "73b4275773024434",
+      "date": 1421391657462
+    },
+    {
+      "type": "edit",
+      "id": "ef451f5d7f94b4b1",
+      "item": {
+        "type": "paragraph",
+        "id": "ef451f5d7f94b4b1",
+        "text": "It is still making this call lots of times.  Need to do it only once."
+      },
+      "date": 1421391674894
     }
   ]
 }

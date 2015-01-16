@@ -34,7 +34,7 @@
     {
       "type": "html",
       "id": "c48c6a63243f6d3d",
-      "text": "<ul>\n  <li> MAVROOT\n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> </li>\n</ul>"
+      "text": "<ul>\n  <li> MAVROOT\n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> \n      <p>Includes a DBCONF in mav.</p>\n</li>\n</ul>"
     }
   ],
   "journal": [
@@ -255,6 +255,26 @@
         "text": "<ul>\n  <li> MAVROOT\n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> </li>\n</ul>"
       },
       "date": 1421386175488
+    },
+    {
+      "type": "edit",
+      "id": "c48c6a63243f6d3d",
+      "item": {
+        "type": "html",
+        "id": "c48c6a63243f6d3d",
+        "text": "<ul>\n  <li> MAVROOT\n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> \n      <p>Includes a DBCONF\n</li>\n</ul>"
+      },
+      "date": 1421386396033
+    },
+    {
+      "type": "edit",
+      "id": "c48c6a63243f6d3d",
+      "item": {
+        "type": "html",
+        "id": "c48c6a63243f6d3d",
+        "text": "<ul>\n  <li> MAVROOT\n     <p>Directory containing the entire MAV code-based including the greasemonkey scripts, the PHP servers, their logs etc. </p>\n      <p><strong>CHANGE:</strong> Does all the PHP still work in the new install.  May need to change to use the version of PHP (and thus Postgres) installed using mamp</p>\n  </li>\n  <li> localhost\n     <p>website from which the greasemonkey script is downloaded.</p>\n      <p><strong>CHANGE:</strong> in apache config to point to MAVROOT </p> </li>\n  <li> Postgresql\n      <p>Database used to store the local information about students and the activiteis. </p> \n      <p><strong>CHANGE:</strong> will need to be based on the new version of Postgres. </p> \n      <p>Includes a DBCONF in mav.</p>\n</li>\n</ul>"
+      },
+      "date": 1421386407523
     }
   ]
 }

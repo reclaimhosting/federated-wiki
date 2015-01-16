@@ -74,7 +74,42 @@
     {
       "type": "paragraph",
       "id": "fdb2896caa3fffe4",
-      "text": ""
+      "text": "Have removed this initial strange call to JSON with a straight update based on searching the links.  This binds a json call to get user details."
+    },
+    {
+      "type": "paragraph",
+      "id": "5cf933cd4e269f74",
+      "text": "***SOLUTION**: This is working now. get user details is another question."
+    },
+    {
+      "type": "markdown",
+      "id": "73b34b426aa9fb93",
+      "text": "##GetUserDetails"
+    },
+    {
+      "type": "paragraph",
+      "id": "45ab1704ff2943d6",
+      "text": "User details now appears to be broken, probably because the server isn't working."
+    },
+    {
+      "type": "paragraph",
+      "id": "a782f614eea6edd9",
+      "text": "Put in some console log stuff to test"
+    },
+    {
+      "type": "paragraph",
+      "id": "213e15cfc74ec3b7",
+      "text": "Check the code for getUserDetails.php"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4df516301f41ba6",
+      "text": "There's also the problem of it being called somethin glike 120+ times.  e.g. seemingly related to the number of user links on the page - when it should really only be the one!!! Something to do with the use of the class for the [Details] link?"
+    },
+    {
+      "type": "html",
+      "id": "02ebc206a7dbc2b4",
+      "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p>\n  </li>\n  <li>  the mav server log</li>\n</ul>"
     }
   ],
   "journal": [
@@ -551,6 +586,246 @@
       "type": "add",
       "after": "b96c3d31565a1280",
       "date": 1421390483666
+    },
+    {
+      "type": "edit",
+      "id": "fdb2896caa3fffe4",
+      "item": {
+        "type": "paragraph",
+        "id": "fdb2896caa3fffe4",
+        "text": "Have removed this initial strange call to JSON with a straight update based on searching the links.  This binds a json call to get user details."
+      },
+      "date": 1421390523103
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5cf933cd4e269f74",
+        "text": ""
+      },
+      "id": "5cf933cd4e269f74",
+      "type": "add",
+      "after": "fdb2896caa3fffe4",
+      "date": 1421390544767
+    },
+    {
+      "type": "edit",
+      "id": "5cf933cd4e269f74",
+      "item": {
+        "type": "paragraph",
+        "id": "5cf933cd4e269f74",
+        "text": "***SOLUTION**: This is working now. get user details is another question."
+      },
+      "date": 1421390561085
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8f22752743b1511"
+      },
+      "id": "e8f22752743b1511",
+      "type": "add",
+      "after": "5cf933cd4e269f74",
+      "date": 1421390653000
+    },
+    {
+      "type": "edit",
+      "id": "e8f22752743b1511",
+      "item": {
+        "type": "paragraph",
+        "id": "e8f22752743b1511",
+        "text": "##GetUserDetails"
+      },
+      "date": 1421390659967
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1c17bb70226d9e4b",
+        "text": ""
+      },
+      "id": "1c17bb70226d9e4b",
+      "type": "add",
+      "after": "e8f22752743b1511",
+      "date": 1421390659981
+    },
+    {
+      "type": "remove",
+      "id": "1c17bb70226d9e4b",
+      "date": 1421390663291
+    },
+    {
+      "type": "remove",
+      "id": "e8f22752743b1511",
+      "date": 1421390666427
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73b34b426aa9fb93"
+      },
+      "id": "73b34b426aa9fb93",
+      "type": "add",
+      "after": "5cf933cd4e269f74",
+      "date": 1421390668460
+    },
+    {
+      "type": "edit",
+      "id": "73b34b426aa9fb93",
+      "item": {
+        "type": "markdown",
+        "id": "73b34b426aa9fb93",
+        "text": "##GetUserDetails"
+      },
+      "date": 1421390671033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "45ab1704ff2943d6"
+      },
+      "id": "45ab1704ff2943d6",
+      "type": "add",
+      "after": "73b34b426aa9fb93",
+      "date": 1421390673131
+    },
+    {
+      "type": "edit",
+      "id": "45ab1704ff2943d6",
+      "item": {
+        "type": "paragraph",
+        "id": "45ab1704ff2943d6",
+        "text": "User details now appears to be broken, probably because the server isn't working."
+      },
+      "date": 1421390701061
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a782f614eea6edd9",
+        "text": ""
+      },
+      "id": "a782f614eea6edd9",
+      "type": "add",
+      "after": "45ab1704ff2943d6",
+      "date": 1421390701078
+    },
+    {
+      "type": "edit",
+      "id": "a782f614eea6edd9",
+      "item": {
+        "type": "paragraph",
+        "id": "a782f614eea6edd9",
+        "text": "Put in some console log stuff to test"
+      },
+      "date": 1421390711711
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9e82ad69ec860467",
+        "text": ""
+      },
+      "id": "9e82ad69ec860467",
+      "type": "add",
+      "after": "a782f614eea6edd9",
+      "date": 1421390711718
+    },
+    {
+      "type": "edit",
+      "id": "9e82ad69ec860467",
+      "item": {
+        "type": "paragraph",
+        "id": "9e82ad69ec860467",
+        "text": "Check the server log"
+      },
+      "date": 1421390716223
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "213e15cfc74ec3b7",
+        "text": ""
+      },
+      "id": "213e15cfc74ec3b7",
+      "type": "add",
+      "after": "9e82ad69ec860467",
+      "date": 1421390716246
+    },
+    {
+      "type": "edit",
+      "id": "213e15cfc74ec3b7",
+      "item": {
+        "type": "paragraph",
+        "id": "213e15cfc74ec3b7",
+        "text": "Check the code for getUserDetails.php"
+      },
+      "date": 1421390732756
+    },
+    {
+      "type": "edit",
+      "id": "9e82ad69ec860467",
+      "item": {
+        "type": "paragraph",
+        "id": "9e82ad69ec860467",
+        "text": "Check the server log - both apache and the mav server log"
+      },
+      "date": 1421390749727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4df516301f41ba6"
+      },
+      "id": "c4df516301f41ba6",
+      "type": "add",
+      "after": "213e15cfc74ec3b7",
+      "date": 1421390844996
+    },
+    {
+      "type": "edit",
+      "id": "c4df516301f41ba6",
+      "item": {
+        "type": "paragraph",
+        "id": "c4df516301f41ba6",
+        "text": "There's also the problem of it being called somethin glike 120+ times.  e.g. seemingly related to the number of user links on the page - when it should really only be the one!!! Something to do with the use of the class for the [Details] link?"
+      },
+      "date": 1421390889600
+    },
+    {
+      "type": "edit",
+      "id": "9e82ad69ec860467",
+      "item": {
+        "type": "paragraph",
+        "id": "9e82ad69ec860467",
+        "text": "Check the server log - both apache (though this isn't used, apparently bypassed) and the mav server log"
+      },
+      "date": 1421390904695
+    },
+    {
+      "type": "remove",
+      "id": "9e82ad69ec860467",
+      "date": 1421390959551
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02ebc206a7dbc2b4"
+      },
+      "id": "02ebc206a7dbc2b4",
+      "type": "add",
+      "after": "c4df516301f41ba6",
+      "date": 1421390964823
+    },
+    {
+      "type": "edit",
+      "id": "02ebc206a7dbc2b4",
+      "item": {
+        "type": "html",
+        "id": "02ebc206a7dbc2b4",
+        "text": "Check the server log - \n<ul>\n  <li> both apache \n     <p>Not working, but that's the value of balmiHome </p>\n  </li>\n  <li>  the mav server log</li>\n</ul>"
+      },
+      "date": 1421391000741
     }
   ]
 }

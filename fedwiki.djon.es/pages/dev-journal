@@ -27,6 +27,11 @@
       "text": "[[14 Jan - Moodle course search]]"
     },
     {
+      "type": "paragraph",
+      "id": "be1c492f43a36eca",
+      "text": "[[16 Jan - EDC3100 process analytics]]"
+    },
+    {
       "type": "html",
       "id": "455deeb858f8d8c3",
       "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
@@ -235,6 +240,43 @@
       "type": "remove",
       "id": "3112de96dcd49b19",
       "date": 1421290990241
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "be1c492f43a36eca",
+        "text": ""
+      },
+      "id": "be1c492f43a36eca",
+      "type": "add",
+      "after": "24f0fcad25931e25",
+      "date": 1421384052871
+    },
+    {
+      "type": "edit",
+      "id": "be1c492f43a36eca",
+      "item": {
+        "type": "paragraph",
+        "id": "be1c492f43a36eca",
+        "text": "[[16 Jan - EDC3100 process analytics]]"
+      },
+      "date": 1421384067635
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "90d8415e9188a5fa",
+        "text": ""
+      },
+      "id": "90d8415e9188a5fa",
+      "type": "add",
+      "after": "be1c492f43a36eca",
+      "date": 1421384067642
+    },
+    {
+      "type": "remove",
+      "id": "90d8415e9188a5fa",
+      "date": 1421384073470
     }
   ]
 }

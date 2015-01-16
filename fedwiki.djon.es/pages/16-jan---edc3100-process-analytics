@@ -70,6 +70,11 @@
       "type": "paragraph",
       "id": "b96c3d31565a1280",
       "text": "It appears to be wanting to generate a JSON request now. But is that necessary?  Don't we just need to update the links with the user id?  Or is it meant to put all the data in now?"
+    },
+    {
+      "type": "paragraph",
+      "id": "fdb2896caa3fffe4",
+      "text": ""
     }
   ],
   "journal": [
@@ -535,6 +540,17 @@
         "text": "It appears to be wanting to generate a JSON request now. But is that necessary?  Don't we just need to update the links with the user id?  Or is it meant to put all the data in now?"
       },
       "date": 1421389737048
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fdb2896caa3fffe4",
+        "text": ""
+      },
+      "id": "fdb2896caa3fffe4",
+      "type": "add",
+      "after": "b96c3d31565a1280",
+      "date": 1421390483666
     }
   ]
 }

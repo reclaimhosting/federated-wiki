@@ -64,7 +64,12 @@
     {
       "type": "paragraph",
       "id": "c5c95a5549d79fea",
-      "text": "Is this due to the code for detecting a link to a student profile isn't working?"
+      "text": "Is this due to the code for detecting a link to a student profile isn't working? Appears that balmi.getMoodleUserLinks isn't working.  That's because it had a return links with nothing in it."
+    },
+    {
+      "type": "paragraph",
+      "id": "b96c3d31565a1280",
+      "text": "It appears to be wanting to generate a JSON request now. But is that necessary?  Don't we just need to update the links with the user id?  Or is it meant to put all the data in now?"
     }
   ],
   "journal": [
@@ -473,6 +478,63 @@
       "type": "remove",
       "id": "dcee8c8ccf417f79",
       "date": 1421389092998
+    },
+    {
+      "type": "edit",
+      "id": "c5c95a5549d79fea",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c95a5549d79fea",
+        "text": "Is this due to the code for detecting a link to a student profile isn't working? Appears that balmi.getMoodleUserLinks isn't working.  This is then not passing anything to a JASON request???"
+      },
+      "date": 1421389377694
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22cdbc0d7da989cd",
+        "text": ""
+      },
+      "id": "22cdbc0d7da989cd",
+      "type": "add",
+      "after": "c5c95a5549d79fea",
+      "date": 1421389377708
+    },
+    {
+      "type": "remove",
+      "id": "22cdbc0d7da989cd",
+      "date": 1421389378868
+    },
+    {
+      "type": "edit",
+      "id": "c5c95a5549d79fea",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c95a5549d79fea",
+        "text": "Is this due to the code for detecting a link to a student profile isn't working? Appears that balmi.getMoodleUserLinks isn't working.  That's because it had a return links with nothing in it."
+      },
+      "date": 1421389700052
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b96c3d31565a1280",
+        "text": ""
+      },
+      "id": "b96c3d31565a1280",
+      "type": "add",
+      "after": "c5c95a5549d79fea",
+      "date": 1421389700067
+    },
+    {
+      "type": "edit",
+      "id": "b96c3d31565a1280",
+      "item": {
+        "type": "paragraph",
+        "id": "b96c3d31565a1280",
+        "text": "It appears to be wanting to generate a JSON request now. But is that necessary?  Don't we just need to update the links with the user id?  Or is it meant to put all the data in now?"
+      },
+      "date": 1421389737048
     }
   ]
 }

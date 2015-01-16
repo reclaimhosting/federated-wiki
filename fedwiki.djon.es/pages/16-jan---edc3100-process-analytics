@@ -15,6 +15,16 @@
       "type": "markdown",
       "id": "f87d2712e8027095",
       "text": "## Current Status"
+    },
+    {
+      "type": "paragraph",
+      "id": "5a1412ac820ba17d",
+      "text": "The greasemonkey script is running. However, the [Details] link isn't appearing and the template for the popup is showing at the bottom of the course site page."
+    },
+    {
+      "type": "html",
+      "id": "f5232683e826099b",
+      "text": "Questions\n<ol>\n  <li> Is this just due to the half-finished nature of what I was doing before the break? </li>\n  <li> Is this arising due to the environment change? </li>\n</ol>"
     }
   ],
   "journal": [
@@ -135,6 +145,46 @@
         "text": "## Current Status"
       },
       "date": 1421384387225
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a1412ac820ba17d"
+      },
+      "id": "5a1412ac820ba17d",
+      "type": "add",
+      "after": "f87d2712e8027095",
+      "date": 1421384574293
+    },
+    {
+      "type": "edit",
+      "id": "5a1412ac820ba17d",
+      "item": {
+        "type": "paragraph",
+        "id": "5a1412ac820ba17d",
+        "text": "The greasemonkey script is running. However, the [Details] link isn't appearing and the template for the popup is showing at the bottom of the course site page."
+      },
+      "date": 1421384620482
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5232683e826099b"
+      },
+      "id": "f5232683e826099b",
+      "type": "add",
+      "after": "5a1412ac820ba17d",
+      "date": 1421384622347
+    },
+    {
+      "type": "edit",
+      "id": "f5232683e826099b",
+      "item": {
+        "type": "html",
+        "id": "f5232683e826099b",
+        "text": "Questions\n<ol>\n  <li> Is this just due to the half-finished nature of what I was doing before the break? </li>\n  <li> Is this arising due to the environment change? </li>\n</ol>"
+      },
+      "date": 1421384652842
     }
   ]
 }

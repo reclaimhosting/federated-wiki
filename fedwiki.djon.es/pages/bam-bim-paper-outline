@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "6c187803ae9e06e1",
       "text": "(An experiment in the paper writing process)"
+    },
+    {
+      "type": "markdown",
+      "id": "90cb0b0f2315ccd2",
+      "text": "##Introduction"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a19e6d927a1f7b6",
+      "text": "[[Promise of e-learning]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e01990f888251266",
+      "text": ""
     }
   ],
   "journal": [
@@ -50,6 +65,73 @@
       "type": "remove",
       "id": "34eca317b0d7ea98",
       "date": 1421794459991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90cb0b0f2315ccd2"
+      },
+      "id": "90cb0b0f2315ccd2",
+      "type": "add",
+      "after": "6c187803ae9e06e1",
+      "date": 1421795407347
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a19e6d927a1f7b6"
+      },
+      "id": "4a19e6d927a1f7b6",
+      "type": "add",
+      "after": "90cb0b0f2315ccd2",
+      "date": 1421795419755
+    },
+    {
+      "type": "edit",
+      "id": "90cb0b0f2315ccd2",
+      "item": {
+        "type": "markdown",
+        "id": "90cb0b0f2315ccd2",
+        "text": "##Introduction"
+      },
+      "date": 1421795421284
+    },
+    {
+      "type": "edit",
+      "id": "4a19e6d927a1f7b6",
+      "item": {
+        "type": "paragraph",
+        "id": "4a19e6d927a1f7b6",
+        "text": "[[Promise of e-learning]]"
+      },
+      "date": 1421795458693
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e01990f888251266",
+        "text": ""
+      },
+      "id": "e01990f888251266",
+      "type": "add",
+      "after": "4a19e6d927a1f7b6",
+      "date": 1421795458712
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a89bfc923b9edbf",
+        "text": ""
+      },
+      "id": "4a89bfc923b9edbf",
+      "type": "add",
+      "after": "e01990f888251266",
+      "date": 1421795478019
+    },
+    {
+      "type": "remove",
+      "id": "4a89bfc923b9edbf",
+      "date": 1421795482888
     }
   ]
 }

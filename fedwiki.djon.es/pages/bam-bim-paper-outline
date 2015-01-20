@@ -1,0 +1,55 @@
+{
+  "title": "BAM BIM Paper Outline",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6c187803ae9e06e1",
+      "text": "(An experiment in the paper writing process)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "BAM BIM Paper Outline",
+        "story": []
+      },
+      "date": 1421794436323
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c187803ae9e06e1"
+      },
+      "id": "6c187803ae9e06e1",
+      "type": "add",
+      "date": 1421794438015
+    },
+    {
+      "type": "edit",
+      "id": "6c187803ae9e06e1",
+      "item": {
+        "type": "paragraph",
+        "id": "6c187803ae9e06e1",
+        "text": "(An experiment in the paper writing process)"
+      },
+      "date": 1421794456711
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "34eca317b0d7ea98",
+        "text": ""
+      },
+      "id": "34eca317b0d7ea98",
+      "type": "add",
+      "after": "6c187803ae9e06e1",
+      "date": 1421794456738
+    },
+    {
+      "type": "remove",
+      "id": "34eca317b0d7ea98",
+      "date": 1421794459991
+    }
+  ]
+}

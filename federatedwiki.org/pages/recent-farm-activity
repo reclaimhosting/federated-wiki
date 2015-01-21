@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "7dea44d84517fde5"
+      "id": "95367ffc7654d5d8"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "7996e737a86496b8"
+      "id": "e69ac5a201a9786e"
+    },
+    {
+      "date": 1421816401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "7ed0b930b5b5affc"
     },
     {
       "date": 1421816159000,
@@ -18,16 +27,7 @@
       "title": "BAM BIM Strengths",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
       "type": "reference",
-      "id": "1cdec7c846bade5c"
-    },
-    {
-      "date": 1421815801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "348e758ce75f3902"
+      "id": "185ba5baa9c13a80"
     },
     {
       "date": 1421363891000,
@@ -36,7 +36,7 @@
       "title": "the teddy bear man",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 65 pages.",
       "type": "reference",
-      "id": "784bacac3836a11a"
+      "id": "92b0377cfa9b7b6a"
     },
     {
       "date": 1421097011000,
@@ -45,7 +45,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "b186d6205a801052"
+      "id": "5bc4009e3b84c943"
     },
     {
       "date": 1421095731000,
@@ -54,41 +54,55 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "63d5c949b41fd893"
+      "id": "0699a513fdb9010c"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "d736fc3cf84a722c",
+      "id": "70d8712055d0e5d3",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "7dea44d84517fde5",
+      "id": "95367ffc7654d5d8",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "7dea44d84517fde5"
+        "id": "95367ffc7654d5d8"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "7996e737a86496b8",
+      "id": "e69ac5a201a9786e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "7996e737a86496b8"
+        "id": "e69ac5a201a9786e"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "1cdec7c846bade5c",
+      "id": "7ed0b930b5b5affc",
+      "item": {
+        "date": 1421816401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "7ed0b930b5b5affc"
+      },
+      "date": 1421817001000
+    },
+    {
+      "type": "add",
+      "id": "185ba5baa9c13a80",
       "item": {
         "date": 1421816159000,
         "site": "fedwiki.djon.es",
@@ -96,27 +110,13 @@
         "title": "BAM BIM Strengths",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
         "type": "reference",
-        "id": "1cdec7c846bade5c"
+        "id": "185ba5baa9c13a80"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "348e758ce75f3902",
-      "item": {
-        "date": 1421815801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "348e758ce75f3902"
-      },
-      "date": 1421816401000
-    },
-    {
-      "type": "add",
-      "id": "784bacac3836a11a",
+      "id": "92b0377cfa9b7b6a",
       "item": {
         "date": 1421363891000,
         "site": "max.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "the teddy bear man",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 65 pages.",
         "type": "reference",
-        "id": "784bacac3836a11a"
+        "id": "92b0377cfa9b7b6a"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "b186d6205a801052",
+      "id": "5bc4009e3b84c943",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "b186d6205a801052"
+        "id": "5bc4009e3b84c943"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     },
     {
       "type": "add",
-      "id": "63d5c949b41fd893",
+      "id": "0699a513fdb9010c",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "63d5c949b41fd893"
+        "id": "0699a513fdb9010c"
       },
-      "date": 1421816401000
+      "date": 1421817001000
     }
   ]
 }

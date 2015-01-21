@@ -2,8 +2,14 @@
   "title": "sample notes for a research paper",
   "story": [
     {
-      "type": "factory",
-      "id": "c956703998e2aa5e"
+      "type": "paragraph",
+      "id": "5ca1ad284d908f2d",
+      "text": "[[note cards]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4777422b8149ab0f",
+      "text": "[[other notes]]"
     }
   ],
   "journal": [
@@ -23,6 +29,83 @@
       "id": "c956703998e2aa5e",
       "type": "add",
       "date": 1421861421776
+    },
+    {
+      "type": "remove",
+      "id": "c956703998e2aa5e",
+      "date": 1421861501270
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5ca1ad284d908f2d"
+      },
+      "id": "5ca1ad284d908f2d",
+      "type": "add",
+      "date": 1421861503146
+    },
+    {
+      "type": "edit",
+      "id": "5ca1ad284d908f2d",
+      "item": {
+        "type": "paragraph",
+        "id": "5ca1ad284d908f2d",
+        "text": "[[note cards]]"
+      },
+      "date": 1421861586223
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6a58579b139ba23b",
+        "text": ""
+      },
+      "id": "6a58579b139ba23b",
+      "type": "add",
+      "after": "5ca1ad284d908f2d",
+      "date": 1421861586233
+    },
+    {
+      "type": "remove",
+      "id": "6a58579b139ba23b",
+      "date": 1421861592824
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4777422b8149ab0f",
+        "text": ""
+      },
+      "id": "4777422b8149ab0f",
+      "type": "add",
+      "after": "5ca1ad284d908f2d",
+      "date": 1421861618510
+    },
+    {
+      "type": "edit",
+      "id": "4777422b8149ab0f",
+      "item": {
+        "type": "paragraph",
+        "id": "4777422b8149ab0f",
+        "text": "[[other notes]]"
+      },
+      "date": 1421861629157
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3ac04cd3208eb0a",
+        "text": ""
+      },
+      "id": "b3ac04cd3208eb0a",
+      "type": "add",
+      "after": "4777422b8149ab0f",
+      "date": 1421861629162
+    },
+    {
+      "type": "remove",
+      "id": "b3ac04cd3208eb0a",
+      "date": 1421861630454
     }
   ]
 }

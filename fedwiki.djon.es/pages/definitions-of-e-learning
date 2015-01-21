@@ -1,0 +1,73 @@
+{
+  "title": "Definitions of e-learning",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "1e7fe12bb3013adb",
+      "text": "##Liaw 2008"
+    },
+    {
+      "type": "paragraph",
+      "id": "73845a56b639004f",
+      "text": "\"In essence, e-learning is the most recent evolution of distance learning—a learning situation where instructors and learners are separated by distance, time, or both (Raab, Ellis, & Abdon, 2002). E-learning uses network technologies to create, foster, deliver, and facilitate learning, anytime and anywhere.\" (p. 864)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Definitions of e-learning",
+        "story": []
+      },
+      "date": 1421813407370
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "73845a56b639004f"
+      },
+      "id": "73845a56b639004f",
+      "type": "add",
+      "date": 1421813409405
+    },
+    {
+      "type": "edit",
+      "id": "73845a56b639004f",
+      "item": {
+        "type": "paragraph",
+        "id": "73845a56b639004f",
+        "text": "\"In essence, e-learning is the most recent evolution of distance learning—a learning situation where instructors and learners are separated by distance, time, or both (Raab, Ellis, & Abdon, 2002). E-learning uses network technologies to create, foster, deliver, and facilitate learning, anytime and anywhere.\" (p. 864)"
+      },
+      "date": 1421813428894
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e7fe12bb3013adb"
+      },
+      "id": "1e7fe12bb3013adb",
+      "type": "add",
+      "after": "73845a56b639004f",
+      "date": 1421813436380
+    },
+    {
+      "type": "edit",
+      "id": "1e7fe12bb3013adb",
+      "item": {
+        "type": "markdown",
+        "id": "1e7fe12bb3013adb",
+        "text": "##Liaw 2008"
+      },
+      "date": 1421813442580
+    },
+    {
+      "type": "move",
+      "order": [
+        "1e7fe12bb3013adb",
+        "73845a56b639004f"
+      ],
+      "id": "1e7fe12bb3013adb",
+      "date": 1421813446580
+    }
+  ]
+}

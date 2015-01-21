@@ -10,6 +10,16 @@
       "type": "html",
       "id": "788c88754bdc35b3",
       "text": "\"Friedland, Hürst, Knipping and Muhlhäuser (2009) and Toyama (2011) to observe that despite all the high expectations and the fact that the mass of evidence suggests that learning technologies can have a positive impact in certain contexts, they fail to be feasible and widely adopted in everyday teaching and learning.\" (p. 4)"
+    },
+    {
+      "type": "html",
+      "id": "23a7f9815ff4669c",
+      "text": "Daniel (2007) is saddened to admit that\n<blockquote>Technology and the media have transformed all aspects of human life—except education! here is the quest for the magic medium, the ultimate technology that will revolutionise education. Yesterday it was the Internet; today it is Open Educational Resources. But there is no magic medium and never will be.</blockquote> (p.4)"
+    },
+    {
+      "type": "paragraph",
+      "id": "1f68aa899a5e475e",
+      "text": "He asserts that most educational innovations start with vague assumptions that technology applications will enhance teaching and learning, providing teachers with fancier tools, whether"
     }
   ],
   "journal": [
@@ -69,6 +79,56 @@
         "text": "\"Friedland, Hürst, Knipping and Muhlhäuser (2009) and Toyama (2011) to observe that despite all the high expectations and the fact that the mass of evidence suggests that learning technologies can have a positive impact in certain contexts, they fail to be feasible and widely adopted in everyday teaching and learning.\" (p. 4)"
       },
       "date": 1421799284051
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23a7f9815ff4669c"
+      },
+      "id": "23a7f9815ff4669c",
+      "type": "add",
+      "after": "788c88754bdc35b3",
+      "date": 1421801429080
+    },
+    {
+      "type": "edit",
+      "id": "23a7f9815ff4669c",
+      "item": {
+        "type": "html",
+        "id": "23a7f9815ff4669c",
+        "text": "Daniel (2007) is saddened to admit that\n<blockquote>Technology and the media have transformed all aspects of human life—except education! here is the quest for the magic medium, the ultimate technology that will revolutionise education. Yesterday it was the Internet; today it is Open Educational Resources. But there is no magic medium and never will be.</blockquote>"
+      },
+      "date": 1421801443214
+    },
+    {
+      "type": "edit",
+      "id": "23a7f9815ff4669c",
+      "item": {
+        "type": "html",
+        "id": "23a7f9815ff4669c",
+        "text": "Daniel (2007) is saddened to admit that\n<blockquote>Technology and the media have transformed all aspects of human life—except education! here is the quest for the magic medium, the ultimate technology that will revolutionise education. Yesterday it was the Internet; today it is Open Educational Resources. But there is no magic medium and never will be.</blockquote> (p.4)"
+      },
+      "date": 1421801451990
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f68aa899a5e475e"
+      },
+      "id": "1f68aa899a5e475e",
+      "type": "add",
+      "after": "23a7f9815ff4669c",
+      "date": 1421801461661
+    },
+    {
+      "type": "edit",
+      "id": "1f68aa899a5e475e",
+      "item": {
+        "type": "paragraph",
+        "id": "1f68aa899a5e475e",
+        "text": "He asserts that most educational innovations start with vague assumptions that technology applications will enhance teaching and learning, providing teachers with fancier tools, whether"
+      },
+      "date": 1421801473507
     }
   ]
 }

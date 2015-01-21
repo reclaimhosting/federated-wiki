@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "234de5ea19dbefd3",
       "text": "Latchem, C. (2014). BJET Editorial: Opening up the educational technology research agenda. British Journal of Educational Technology, 45(1), 3–11. doi:10.1111/bjet.12122"
+    },
+    {
+      "type": "markdown",
+      "id": "dc5b1a5321c310c0",
+      "text": "##To examine"
+    },
+    {
+      "type": "paragraph",
+      "id": "d06a2dc07d1de3e1",
+      "text": "Friedland, Hürst, Knipping and Muhlhäuser (2009) and Toyama (2011) "
+    },
+    {
+      "type": "paragraph",
+      "id": "8c8b5974b26f4b9b",
+      "text": ",Zawacki-Richter,BäckerandVogt (2009)"
     }
   ],
   "journal": [
@@ -34,6 +49,72 @@
         "text": "Latchem, C. (2014). BJET Editorial: Opening up the educational technology research agenda. British Journal of Educational Technology, 45(1), 3–11. doi:10.1111/bjet.12122"
       },
       "date": 1421799326143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc5b1a5321c310c0"
+      },
+      "id": "dc5b1a5321c310c0",
+      "type": "add",
+      "after": "234de5ea19dbefd3",
+      "date": 1421801287044
+    },
+    {
+      "type": "edit",
+      "id": "dc5b1a5321c310c0",
+      "item": {
+        "type": "markdown",
+        "id": "dc5b1a5321c310c0",
+        "text": "##To examine"
+      },
+      "date": 1421801295303
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d06a2dc07d1de3e1"
+      },
+      "id": "d06a2dc07d1de3e1",
+      "type": "add",
+      "after": "dc5b1a5321c310c0",
+      "date": 1421801299500
+    },
+    {
+      "type": "edit",
+      "id": "d06a2dc07d1de3e1",
+      "item": {
+        "type": "paragraph",
+        "id": "d06a2dc07d1de3e1",
+        "text": "Friedland, Hürst, Knipping and Muhlhäuser (2009) and Toyama (2011) "
+      },
+      "date": 1421801319107
+    },
+    {
+      "type": "remove",
+      "id": "691a5daa8146b511",
+      "date": 1421801320968
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c8b5974b26f4b9b",
+        "text": ""
+      },
+      "id": "8c8b5974b26f4b9b",
+      "type": "add",
+      "after": "d06a2dc07d1de3e1",
+      "date": 1421801331197
+    },
+    {
+      "type": "edit",
+      "id": "8c8b5974b26f4b9b",
+      "item": {
+        "type": "paragraph",
+        "id": "8c8b5974b26f4b9b",
+        "text": ",Zawacki-Richter,BäckerandVogt (2009)"
+      },
+      "date": 1421801333200
     }
   ]
 }

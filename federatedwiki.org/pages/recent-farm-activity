@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f6228ac4f36184cb"
+      "id": "31d96a19752f9136"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6751827a4d9d14f5"
+      "id": "9f0026f93a54b9d3"
+    },
+    {
+      "date": 1421862001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "caf260c255572841"
     },
     {
       "date": 1421861556000,
@@ -18,16 +27,7 @@
       "title": "other notes",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
       "type": "reference",
-      "id": "871fd8edc8508fa5"
-    },
-    {
-      "date": 1421861401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "7e2853a1096f2db6"
+      "id": "507596e33679596a"
     },
     {
       "date": 1421816159000,
@@ -36,7 +36,7 @@
       "title": "BAM BIM Strengths",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
       "type": "reference",
-      "id": "a5640ebde4a9d5c0"
+      "id": "f49d6bb3804c7c1e"
     },
     {
       "date": 1421097011000,
@@ -45,7 +45,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "d31c67d8e09d96ed"
+      "id": "571f8f5f1491df30"
     },
     {
       "date": 1421095731000,
@@ -54,41 +54,55 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "ea4ae4f5274e617f"
+      "id": "798d772244ca0dc9"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "29af276891a91588",
+      "id": "e447f5720f389b8d",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "f6228ac4f36184cb",
+      "id": "31d96a19752f9136",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f6228ac4f36184cb"
+        "id": "31d96a19752f9136"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "6751827a4d9d14f5",
+      "id": "9f0026f93a54b9d3",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6751827a4d9d14f5"
+        "id": "9f0026f93a54b9d3"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "871fd8edc8508fa5",
+      "id": "caf260c255572841",
+      "item": {
+        "date": 1421862001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "caf260c255572841"
+      },
+      "date": 1421862601000
+    },
+    {
+      "type": "add",
+      "id": "507596e33679596a",
       "item": {
         "date": 1421861556000,
         "site": "max.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "other notes",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
         "type": "reference",
-        "id": "871fd8edc8508fa5"
+        "id": "507596e33679596a"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "7e2853a1096f2db6",
-      "item": {
-        "date": 1421861401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "7e2853a1096f2db6"
-      },
-      "date": 1421862001000
-    },
-    {
-      "type": "add",
-      "id": "a5640ebde4a9d5c0",
+      "id": "f49d6bb3804c7c1e",
       "item": {
         "date": 1421816159000,
         "site": "fedwiki.djon.es",
@@ -124,13 +124,13 @@
         "title": "BAM BIM Strengths",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
         "type": "reference",
-        "id": "a5640ebde4a9d5c0"
+        "id": "f49d6bb3804c7c1e"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "d31c67d8e09d96ed",
+      "id": "571f8f5f1491df30",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "d31c67d8e09d96ed"
+        "id": "571f8f5f1491df30"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     },
     {
       "type": "add",
-      "id": "ea4ae4f5274e617f",
+      "id": "798d772244ca0dc9",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "ea4ae4f5274e617f"
+        "id": "798d772244ca0dc9"
       },
-      "date": 1421862001000
+      "date": 1421862601000
     }
   ]
 }

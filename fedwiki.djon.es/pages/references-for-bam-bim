@@ -25,6 +25,21 @@
       "type": "paragraph",
       "id": "44f083605919e09e",
       "text": "Romiszowski (2004) opines"
+    },
+    {
+      "type": "paragraph",
+      "id": "82319a7f29aa2ddc",
+      "text": "Walker, Voce & Ahmed (2012)"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad28920ba99142ec",
+      "text": "Cook 2009"
+    },
+    {
+      "type": "paragraph",
+      "id": "061d649496edfb4b",
+      "text": "Latchem 2005"
     }
   ],
   "journal": [
@@ -141,6 +156,104 @@
         "text": "Romiszowski (2004) opines"
       },
       "date": 1421801734425
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82319a7f29aa2ddc"
+      },
+      "id": "82319a7f29aa2ddc",
+      "type": "add",
+      "after": "44f083605919e09e",
+      "date": 1421802116614
+    },
+    {
+      "type": "edit",
+      "id": "82319a7f29aa2ddc",
+      "item": {
+        "type": "paragraph",
+        "id": "82319a7f29aa2ddc",
+        "text": "Walker, Voce & Ahmed"
+      },
+      "date": 1421802124597
+    },
+    {
+      "type": "edit",
+      "id": "82319a7f29aa2ddc",
+      "item": {
+        "type": "paragraph",
+        "id": "82319a7f29aa2ddc",
+        "text": "Walker, Voce & Ahmed (2012)"
+      },
+      "date": 1421802130957
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ad28920ba99142ec",
+        "text": ""
+      },
+      "id": "ad28920ba99142ec",
+      "type": "add",
+      "after": "82319a7f29aa2ddc",
+      "date": 1421802359459
+    },
+    {
+      "type": "edit",
+      "id": "ad28920ba99142ec",
+      "item": {
+        "type": "paragraph",
+        "id": "ad28920ba99142ec",
+        "text": "Cook 200"
+      },
+      "date": 1421802365492
+    },
+    {
+      "type": "edit",
+      "id": "ad28920ba99142ec",
+      "item": {
+        "type": "paragraph",
+        "id": "ad28920ba99142ec",
+        "text": "Cook 2009"
+      },
+      "date": 1421802368575
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "061d649496edfb4b",
+        "text": ""
+      },
+      "id": "061d649496edfb4b",
+      "type": "add",
+      "after": "ad28920ba99142ec",
+      "date": 1421802595310
+    },
+    {
+      "type": "edit",
+      "id": "061d649496edfb4b",
+      "item": {
+        "type": "paragraph",
+        "id": "061d649496edfb4b",
+        "text": "Latchem 2005"
+      },
+      "date": 1421802597389
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb86a3d704150984",
+        "text": ""
+      },
+      "id": "eb86a3d704150984",
+      "type": "add",
+      "after": "061d649496edfb4b",
+      "date": 1421802597404
+    },
+    {
+      "type": "remove",
+      "id": "eb86a3d704150984",
+      "date": 1421802598495
     }
   ]
 }

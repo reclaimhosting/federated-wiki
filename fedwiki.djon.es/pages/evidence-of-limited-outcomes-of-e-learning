@@ -15,6 +15,11 @@
       "type": "html",
       "id": "23a7f9815ff4669c",
       "text": "Daniel (2007) is saddened to admit that\n<blockquote>Technology and the media have transformed all aspects of human life—except education! here is the quest for the magic medium, the ultimate technology that will revolutionise education. Yesterday it was the Internet; today it is Open Educational Resources. But there is no magic medium and never will be.</blockquote> (p.4)"
+    },
+    {
+      "type": "html",
+      "id": "087a81a60d7ae2d8",
+      "text": "\"Conducting a meta-analysis of over 200 studies into e-learning outcomes in the health profes- sions, Cook (2009) found that these revealed that although e-learning was better than no learning at all, it was little or no better than lecture- or book-based learning. His conclusion was that it was simply not worth conducing further comparative studies because there are simply too many significant differences in the contexts, circumstances and participants’ perspectives, both in e-learning and traditional methods.\" (p. 8)"
     }
   ],
   "journal": [
@@ -139,6 +144,41 @@
       "type": "remove",
       "id": "1f68aa899a5e475e",
       "date": 1421801499281
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c8c652e2d8f9ef6"
+      },
+      "id": "7c8c652e2d8f9ef6",
+      "type": "add",
+      "after": "23a7f9815ff4669c",
+      "date": 1421802329712
+    },
+    {
+      "type": "remove",
+      "id": "7c8c652e2d8f9ef6",
+      "date": 1421802336573
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "087a81a60d7ae2d8"
+      },
+      "id": "087a81a60d7ae2d8",
+      "type": "add",
+      "after": "23a7f9815ff4669c",
+      "date": 1421802337743
+    },
+    {
+      "type": "edit",
+      "id": "087a81a60d7ae2d8",
+      "item": {
+        "type": "html",
+        "id": "087a81a60d7ae2d8",
+        "text": "\"Conducting a meta-analysis of over 200 studies into e-learning outcomes in the health profes- sions, Cook (2009) found that these revealed that although e-learning was better than no learning at all, it was little or no better than lecture- or book-based learning. His conclusion was that it was simply not worth conducing further comparative studies because there are simply too many significant differences in the contexts, circumstances and participants’ perspectives, both in e-learning and traditional methods.\" (p. 8)"
+      },
+      "date": 1421802354183
     }
   ]
 }

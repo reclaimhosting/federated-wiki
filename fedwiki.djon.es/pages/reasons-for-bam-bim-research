@@ -7,8 +7,19 @@
       "text": "##Latchem, 2014"
     },
     {
-      "type": "factory",
-      "id": "8ea5dee0d035b393"
+      "type": "html",
+      "id": "eb69118fd68cc456",
+      "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <strong>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</strong>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <strong>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</strong>\" (p. 3)"
+    },
+    {
+      "type": "paragraph",
+      "id": "5be5c262e7c2f953",
+      "text": "\"majority of papers published in BJET and the other educational technology journals are in the formof small-scale, unconnected trials and applications and can have little influence on policy making\" (p. 3)"
+    },
+    {
+      "type": "paragraph",
+      "id": "e430ae10a4147983",
+      "text": "Voogt and Knezek (2008) argue experimental research designs ok for exploring potential of specific approaches under controlled situations. Transfering findings to \"reality of the classroom\" requires different approaches."
     }
   ],
   "journal": [
@@ -48,6 +59,147 @@
       "type": "add",
       "after": "2b607a76af94c783",
       "date": 1421798441412
+    },
+    {
+      "type": "remove",
+      "id": "8ea5dee0d035b393",
+      "date": 1421798518958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb69118fd68cc456"
+      },
+      "id": "eb69118fd68cc456",
+      "type": "add",
+      "after": "2b607a76af94c783",
+      "date": 1421798520874
+    },
+    {
+      "type": "edit",
+      "id": "eb69118fd68cc456",
+      "item": {
+        "type": "html",
+        "id": "eb69118fd68cc456",
+        "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <em>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</em>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <em>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</em>\" (p. )"
+      },
+      "date": 1421798570973
+    },
+    {
+      "type": "edit",
+      "id": "eb69118fd68cc456",
+      "item": {
+        "type": "html",
+        "id": "eb69118fd68cc456",
+        "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <em>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</em>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <em>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</em>\" (p. 3)"
+      },
+      "date": 1421798580649
+    },
+    {
+      "type": "edit",
+      "id": "eb69118fd68cc456",
+      "item": {
+        "type": "html",
+        "id": "eb69118fd68cc456",
+        "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <strong>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</stron>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <em>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</em>\" (p. 3)"
+      },
+      "date": 1421798598630
+    },
+    {
+      "type": "edit",
+      "id": "eb69118fd68cc456",
+      "item": {
+        "type": "html",
+        "id": "eb69118fd68cc456",
+        "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <strong>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</strong>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <em>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</em>\" (p. 3)"
+      },
+      "date": 1421798603905
+    },
+    {
+      "type": "edit",
+      "id": "eb69118fd68cc456",
+      "item": {
+        "type": "html",
+        "id": "eb69118fd68cc456",
+        "text": "\"Zawacki-Richter,Bäcker and Vogt (2009) concluded that the research in open and distance education is <strong>neglecting such important areas as innovation and change management, cross-cultural aspects, and costs and benefits</strong>...research is dominated by micro perspectives (reports on interventions in individual classes or programmes), and there is a <strong>dearth of issue articles dealing with issues at the meso level (reports on institutional management and change issues)</strong>\" (p. 3)"
+      },
+      "date": 1421798616342
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5be5c262e7c2f953"
+      },
+      "id": "5be5c262e7c2f953",
+      "type": "add",
+      "after": "eb69118fd68cc456",
+      "date": 1421798926576
+    },
+    {
+      "type": "edit",
+      "id": "5be5c262e7c2f953",
+      "item": {
+        "type": "paragraph",
+        "id": "5be5c262e7c2f953",
+        "text": "\"majority of papers published in BJET and the other educational technology journals are in the formof small-scale, unconnected trials and applications and can have little influence on policy making\" (p. 3)"
+      },
+      "date": 1421798935912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e430ae10a4147983"
+      },
+      "id": "e430ae10a4147983",
+      "type": "add",
+      "after": "5be5c262e7c2f953",
+      "date": 1421798985338
+    },
+    {
+      "type": "edit",
+      "id": "e430ae10a4147983",
+      "item": {
+        "type": "paragraph",
+        "id": "e430ae10a4147983",
+        "text": "Voogt and Knezek (2008) argue experimental research designs ok for "
+      },
+      "date": 1421799017678
+    },
+    {
+      "type": "edit",
+      "id": "e430ae10a4147983",
+      "item": {
+        "type": "paragraph",
+        "id": "e430ae10a4147983",
+        "text": "Voogt and Knezek (2008) argue experimental research designs ok for exploring potential of specific approaches under controlled situations. Transfering findings to \"reality of the classroom"
+      },
+      "date": 1421799051759
+    },
+    {
+      "type": "edit",
+      "id": "e430ae10a4147983",
+      "item": {
+        "type": "paragraph",
+        "id": "e430ae10a4147983",
+        "text": "Voogt and Knezek (2008) argue experimental research designs ok for exploring potential of specific approaches under controlled situations. Transfering findings to \"reality of the classroom\" requires different approaches."
+      },
+      "date": 1421799063964
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "674e0723f0e3bc3b",
+        "text": ""
+      },
+      "id": "674e0723f0e3bc3b",
+      "type": "add",
+      "after": "e430ae10a4147983",
+      "date": 1421799063971
+    },
+    {
+      "type": "remove",
+      "id": "674e0723f0e3bc3b",
+      "date": 1421799065252
     }
   ]
 }

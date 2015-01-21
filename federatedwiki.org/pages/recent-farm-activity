@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c0ba80152d11704f"
+      "id": "f8ad2040dccba892"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "78938786ca122baa"
+      "id": "79b212c01b74fdf1"
     },
     {
-      "date": 1421860201000,
+      "date": 1421861331000,
+      "site": "max.federatedwiki.org",
+      "slug": "sample-notes-for-a-research-paper",
+      "title": "sample notes for a research paper",
+      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 66 pages.",
+      "type": "reference",
+      "id": "71acf65e1b99e1b5"
+    },
+    {
+      "date": 1421860801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "9100d6ac4cafcc84"
+      "id": "d7b9e891beca57fb"
     },
     {
       "date": 1421816159000,
@@ -27,16 +36,7 @@
       "title": "BAM BIM Strengths",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
       "type": "reference",
-      "id": "061d569f1a1e34e7"
-    },
-    {
-      "date": 1421363891000,
-      "site": "max.federatedwiki.org",
-      "slug": "the-teddy-bear-man",
-      "title": "the teddy bear man",
-      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 65 pages.",
-      "type": "reference",
-      "id": "bc3e71e4aa5949ad"
+      "id": "0406545adbd552c6"
     },
     {
       "date": 1421097011000,
@@ -45,7 +45,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "7f3ce5780891ba64"
+      "id": "65a65e3a7dd96e52"
     },
     {
       "date": 1421095731000,
@@ -54,55 +54,69 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "258d517ea1134b1d"
+      "id": "6399ca59e3863387"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "8b9e0b26fe4568a7",
+      "id": "6e44e67302a936b7",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "c0ba80152d11704f",
+      "id": "f8ad2040dccba892",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c0ba80152d11704f"
+        "id": "f8ad2040dccba892"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "78938786ca122baa",
+      "id": "79b212c01b74fdf1",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "78938786ca122baa"
+        "id": "79b212c01b74fdf1"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "9100d6ac4cafcc84",
+      "id": "71acf65e1b99e1b5",
       "item": {
-        "date": 1421860201000,
+        "date": 1421861331000,
+        "site": "max.federatedwiki.org",
+        "slug": "sample-notes-for-a-research-paper",
+        "title": "sample notes for a research paper",
+        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 66 pages.",
+        "type": "reference",
+        "id": "71acf65e1b99e1b5"
+      },
+      "date": 1421861401000
+    },
+    {
+      "type": "add",
+      "id": "d7b9e891beca57fb",
+      "item": {
+        "date": 1421860801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "9100d6ac4cafcc84"
+        "id": "d7b9e891beca57fb"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "061d569f1a1e34e7",
+      "id": "0406545adbd552c6",
       "item": {
         "date": 1421816159000,
         "site": "fedwiki.djon.es",
@@ -110,27 +124,13 @@
         "title": "BAM BIM Strengths",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
         "type": "reference",
-        "id": "061d569f1a1e34e7"
+        "id": "0406545adbd552c6"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "bc3e71e4aa5949ad",
-      "item": {
-        "date": 1421363891000,
-        "site": "max.federatedwiki.org",
-        "slug": "the-teddy-bear-man",
-        "title": "the teddy bear man",
-        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 65 pages.",
-        "type": "reference",
-        "id": "bc3e71e4aa5949ad"
-      },
-      "date": 1421860801000
-    },
-    {
-      "type": "add",
-      "id": "7f3ce5780891ba64",
+      "id": "65a65e3a7dd96e52",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "7f3ce5780891ba64"
+        "id": "65a65e3a7dd96e52"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     },
     {
       "type": "add",
-      "id": "258d517ea1134b1d",
+      "id": "6399ca59e3863387",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "258d517ea1134b1d"
+        "id": "6399ca59e3863387"
       },
-      "date": 1421860801000
+      "date": 1421861401000
     }
   ]
 }

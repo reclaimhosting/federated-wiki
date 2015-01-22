@@ -1,0 +1,145 @@
+{
+  "title": "Dev Jan 2015",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8611414263ccce19",
+      "text": "[[2nd Jan - Yosemite recovery]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2f4af2098e27804",
+      "text": "[[13 Jan - Updating dev environment]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "24f0fcad25931e25",
+      "text": "[[14 Jan - Moodle course search]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "be1c492f43a36eca",
+      "text": "[[16 Jan - EDC3100 process analytics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8a46926c34e4b1ef",
+      "text": "[[22 Jan - EDC3100 process analytics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d85adb42306feb1d",
+      "text": "[[23 Jan - EDC3100 process analytics]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dev Jan 2015",
+        "story": []
+      },
+      "date": 1421966848930
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8611414263ccce19",
+        "text": "[[2nd Jan - Yosemite recovery]]"
+      },
+      "id": "8611414263ccce19",
+      "date": 1421966852538
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a2f4af2098e27804",
+        "text": "[[13 Jan - Updating dev environment]]"
+      },
+      "after": "8611414263ccce19",
+      "id": "a2f4af2098e27804",
+      "date": 1421966855769
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "24f0fcad25931e25",
+        "text": "[[14 Jan - Moodle course search]]"
+      },
+      "after": "a2f4af2098e27804",
+      "id": "24f0fcad25931e25",
+      "date": 1421966858820
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "be1c492f43a36eca",
+        "text": "[[16 Jan - EDC3100 process analytics]]"
+      },
+      "after": "24f0fcad25931e25",
+      "id": "be1c492f43a36eca",
+      "date": 1421966861861
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8a46926c34e4b1ef",
+        "text": "[[22 Jan - EDC3100 process analytics]]"
+      },
+      "after": "be1c492f43a36eca",
+      "id": "8a46926c34e4b1ef",
+      "date": 1421966865090
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d85adb42306feb1d",
+        "text": "[[23 Jan - EDC3100 process analytics]]"
+      },
+      "id": "d85adb42306feb1d",
+      "type": "add",
+      "after": "8a46926c34e4b1ef",
+      "date": 1421966972425
+    },
+    {
+      "type": "edit",
+      "id": "d85adb42306feb1d",
+      "item": {
+        "type": "paragraph",
+        "id": "d85adb42306feb1d",
+        "text": "[[23 Jan - EDC3100 process analytics]]"
+      },
+      "date": 1421966984686
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b1b9ce0178a42e97",
+        "text": ""
+      },
+      "id": "b1b9ce0178a42e97",
+      "type": "add",
+      "after": "d85adb42306feb1d",
+      "date": 1421966984747
+    },
+    {
+      "type": "remove",
+      "id": "b1b9ce0178a42e97",
+      "date": 1421966987087,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1421966994565
+    }
+  ]
+}

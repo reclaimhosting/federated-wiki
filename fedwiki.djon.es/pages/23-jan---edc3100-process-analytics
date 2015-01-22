@@ -1,0 +1,79 @@
+{
+  "title": "23 Jan - EDC3100 process analytics",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "dd939e3d36cc0e2e",
+      "text": "##To do"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4051b4cb5654925",
+      "text": "Get the server to return real data for the specific student and get that displayed in the dialog box"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "23 Jan - EDC3100 process analytics",
+        "story": []
+      },
+      "date": 1421967003330
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd939e3d36cc0e2e"
+      },
+      "id": "dd939e3d36cc0e2e",
+      "type": "add",
+      "date": 1421967005208
+    },
+    {
+      "type": "edit",
+      "id": "dd939e3d36cc0e2e",
+      "item": {
+        "type": "markdown",
+        "id": "dd939e3d36cc0e2e",
+        "text": "##To do"
+      },
+      "date": 1421967010050
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19bcb61cce6429a0"
+      },
+      "id": "19bcb61cce6429a0",
+      "type": "add",
+      "after": "dd939e3d36cc0e2e",
+      "date": 1421967011498
+    },
+    {
+      "type": "remove",
+      "id": "19bcb61cce6429a0",
+      "date": 1421967016648
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4051b4cb5654925"
+      },
+      "id": "a4051b4cb5654925",
+      "type": "add",
+      "after": "dd939e3d36cc0e2e",
+      "date": 1421967018111
+    },
+    {
+      "type": "edit",
+      "id": "a4051b4cb5654925",
+      "item": {
+        "type": "paragraph",
+        "id": "a4051b4cb5654925",
+        "text": "Get the server to return real data for the specific student and get that displayed in the dialog box"
+      },
+      "date": 1421967043921
+    }
+  ]
+}

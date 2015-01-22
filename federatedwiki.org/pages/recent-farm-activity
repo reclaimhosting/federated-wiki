@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "48f23bbfead0834f"
+      "id": "d278d0cfe0c1cec4"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "973aa5c8c7f453de"
+      "id": "315816fbb74500ce"
+    },
+    {
+      "date": 1421952601000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "47e0d8a99f434e02"
     },
     {
       "date": 1421952290000,
@@ -18,16 +27,7 @@
       "title": "composition",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
       "type": "reference",
-      "id": "0cac5c02357a9164"
-    },
-    {
-      "date": 1421952001000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "48cc6bedea5886b2"
+      "id": "f34d5d3cb0b70d90"
     },
     {
       "date": 1421904114000,
@@ -36,7 +36,7 @@
       "title": "22 Jan - EDC3100 process analytics",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 67 pages.",
       "type": "reference",
-      "id": "2bef61b5f677f245"
+      "id": "3612880a8f5f9c00"
     },
     {
       "date": 1421097011000,
@@ -45,7 +45,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "031dfa7445037570"
+      "id": "a7e8e2cc27ddc2a8"
     },
     {
       "date": 1421095731000,
@@ -54,41 +54,55 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "3dfe73ba73388013"
+      "id": "25f6577aec5d4883"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "8baecfa9f98e6e79",
+      "id": "837be765de135ad6",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "48f23bbfead0834f",
+      "id": "d278d0cfe0c1cec4",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "48f23bbfead0834f"
+        "id": "d278d0cfe0c1cec4"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "973aa5c8c7f453de",
+      "id": "315816fbb74500ce",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "973aa5c8c7f453de"
+        "id": "315816fbb74500ce"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "0cac5c02357a9164",
+      "id": "47e0d8a99f434e02",
+      "item": {
+        "date": 1421952601000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "47e0d8a99f434e02"
+      },
+      "date": 1421953201000
+    },
+    {
+      "type": "add",
+      "id": "f34d5d3cb0b70d90",
       "item": {
         "date": 1421952290000,
         "site": "max.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "composition",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
         "type": "reference",
-        "id": "0cac5c02357a9164"
+        "id": "f34d5d3cb0b70d90"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "48cc6bedea5886b2",
-      "item": {
-        "date": 1421952001000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "48cc6bedea5886b2"
-      },
-      "date": 1421952601000
-    },
-    {
-      "type": "add",
-      "id": "2bef61b5f677f245",
+      "id": "3612880a8f5f9c00",
       "item": {
         "date": 1421904114000,
         "site": "fedwiki.djon.es",
@@ -124,13 +124,13 @@
         "title": "22 Jan - EDC3100 process analytics",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 67 pages.",
         "type": "reference",
-        "id": "2bef61b5f677f245"
+        "id": "3612880a8f5f9c00"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "031dfa7445037570",
+      "id": "a7e8e2cc27ddc2a8",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "031dfa7445037570"
+        "id": "a7e8e2cc27ddc2a8"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     },
     {
       "type": "add",
-      "id": "3dfe73ba73388013",
+      "id": "25f6577aec5d4883",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "3dfe73ba73388013"
+        "id": "25f6577aec5d4883"
       },
-      "date": 1421952601000
+      "date": 1421953201000
     }
   ]
 }

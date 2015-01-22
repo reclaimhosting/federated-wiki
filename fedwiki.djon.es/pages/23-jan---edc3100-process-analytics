@@ -52,6 +52,11 @@
       "text": "The client is still sending multiple requests to the server after a click.  Need to reduce this to just one"
     },
     {
+      "type": "paragraph",
+      "id": "64b3e6b728aa4f53",
+      "text": "[details] link are all being set to class \"showMoreUserDetailsLink\".  getUserDetails is being run by an onclick to $(\".showMoreUserDetailsLink\").  My guess is that this use of class is causing it to run as many times as there is links of that class."
+    },
+    {
       "type": "markdown",
       "id": "a5c975eeb97c4227",
       "text": "##Structure"
@@ -466,6 +471,43 @@
       "type": "remove",
       "id": "49d1d228e4f465e4",
       "date": 1421968441067
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "64b3e6b728aa4f53",
+        "text": ""
+      },
+      "id": "64b3e6b728aa4f53",
+      "type": "add",
+      "after": "858952043a3da646",
+      "date": 1421970560025
+    },
+    {
+      "type": "edit",
+      "id": "64b3e6b728aa4f53",
+      "item": {
+        "type": "paragraph",
+        "id": "64b3e6b728aa4f53",
+        "text": "[details] link are all being set to class \"showMoreUserDetailsLink\".  getUserDetails is being run by an onclick to $(\".showMoreUserDetailsLink\").  My guess is that this use of class is causing it to run as many times as there is links of that class."
+      },
+      "date": 1421970635262
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23bec0ed4ac1ceef",
+        "text": ""
+      },
+      "id": "23bec0ed4ac1ceef",
+      "type": "add",
+      "after": "64b3e6b728aa4f53",
+      "date": 1421970635315
+    },
+    {
+      "type": "remove",
+      "id": "23bec0ed4ac1ceef",
+      "date": 1421970636808
     }
   ]
 }

@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "b34147e85c133b9e"
+      "id": "ff28401e7666636a"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "2d857c960de5937e"
+      "id": "2d07305316e17458"
     },
     {
-      "date": 1421898001000,
+      "date": 1421899167000,
+      "site": "fedwiki.djon.es",
+      "slug": "dev-journal",
+      "title": "Dev Journal",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
+      "type": "reference",
+      "id": "5b17d983c5707f57"
+    },
+    {
+      "date": 1421898601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "fb01a369f83e4ae1"
+      "id": "be8a7e632b24b326"
     },
     {
       "date": 1421863153000,
@@ -27,16 +36,7 @@
       "title": "sixth grade stuff",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
       "type": "reference",
-      "id": "2449eefa8123d806"
-    },
-    {
-      "date": 1421816159000,
-      "site": "fedwiki.djon.es",
-      "slug": "bam-bim-strengths",
-      "title": "BAM BIM Strengths",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
-      "type": "reference",
-      "id": "c2acdc99eb525ef9"
+      "id": "853090b76c968f87"
     },
     {
       "date": 1421097011000,
@@ -45,7 +45,7 @@
       "title": "Happening Folks",
       "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
       "type": "reference",
-      "id": "751526f6aee9dd50"
+      "id": "a5a8d1613d55fe73"
     },
     {
       "date": 1421095731000,
@@ -54,55 +54,69 @@
       "title": "stance-viewer-jekyll",
       "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
       "type": "reference",
-      "id": "4f226dcbf8ad8ec8"
+      "id": "c29002f5d3f0033f"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "a979bb7fe10f9231",
+      "id": "7821f58881ea0b08",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "b34147e85c133b9e",
+      "id": "ff28401e7666636a",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "b34147e85c133b9e"
+        "id": "ff28401e7666636a"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "2d857c960de5937e",
+      "id": "2d07305316e17458",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "2d857c960de5937e"
+        "id": "2d07305316e17458"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "fb01a369f83e4ae1",
+      "id": "5b17d983c5707f57",
       "item": {
-        "date": 1421898001000,
+        "date": 1421899167000,
+        "site": "fedwiki.djon.es",
+        "slug": "dev-journal",
+        "title": "Dev Journal",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
+        "type": "reference",
+        "id": "5b17d983c5707f57"
+      },
+      "date": 1421899201000
+    },
+    {
+      "type": "add",
+      "id": "be8a7e632b24b326",
+      "item": {
+        "date": 1421898601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "fb01a369f83e4ae1"
+        "id": "be8a7e632b24b326"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "2449eefa8123d806",
+      "id": "853090b76c968f87",
       "item": {
         "date": 1421863153000,
         "site": "max.federatedwiki.org",
@@ -110,27 +124,13 @@
         "title": "sixth grade stuff",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
         "type": "reference",
-        "id": "2449eefa8123d806"
+        "id": "853090b76c968f87"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "c2acdc99eb525ef9",
-      "item": {
-        "date": 1421816159000,
-        "site": "fedwiki.djon.es",
-        "slug": "bam-bim-strengths",
-        "title": "BAM BIM Strengths",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 66 pages.",
-        "type": "reference",
-        "id": "c2acdc99eb525ef9"
-      },
-      "date": 1421898601000
-    },
-    {
-      "type": "add",
-      "id": "751526f6aee9dd50",
+      "id": "a5a8d1613d55fe73",
       "item": {
         "date": 1421097011000,
         "site": "tmtm.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Happening Folks",
         "text": "In [http://tmtm.federatedwiki.org tmtm.federatedwiki.org] with 49 pages.",
         "type": "reference",
-        "id": "751526f6aee9dd50"
+        "id": "a5a8d1613d55fe73"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     },
     {
       "type": "add",
-      "id": "4f226dcbf8ad8ec8",
+      "id": "c29002f5d3f0033f",
       "item": {
         "date": 1421095731000,
         "site": "twfy.stancer.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "stance-viewer-jekyll",
         "text": "In [http://twfy.stancer.federatedwiki.org twfy.stancer.federatedwiki.org] with 18 pages.",
         "type": "reference",
-        "id": "4f226dcbf8ad8ec8"
+        "id": "c29002f5d3f0033f"
       },
-      "date": 1421898601000
+      "date": 1421899201000
     }
   ]
 }

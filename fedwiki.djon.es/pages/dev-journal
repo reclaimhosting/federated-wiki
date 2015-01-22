@@ -32,6 +32,11 @@
       "text": "[[16 Jan - EDC3100 process analytics]]"
     },
     {
+      "type": "paragraph",
+      "id": "8a46926c34e4b1ef",
+      "text": "[[22 Jan - EDC3100 process analytics]]"
+    },
+    {
       "type": "html",
       "id": "455deeb858f8d8c3",
       "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
@@ -277,6 +282,50 @@
       "type": "remove",
       "id": "90d8415e9188a5fa",
       "date": 1421384073470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a46926c34e4b1ef",
+        "text": ""
+      },
+      "id": "8a46926c34e4b1ef",
+      "type": "add",
+      "after": "be1c492f43a36eca",
+      "date": 1421899195619,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "8a46926c34e4b1ef",
+      "item": {
+        "type": "paragraph",
+        "id": "8a46926c34e4b1ef",
+        "text": "[[22 Jan - EDC3100 process analytics]]"
+      },
+      "date": 1421899210581,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1421899214851,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1421899256643
     }
   ]
 }

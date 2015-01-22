@@ -40,6 +40,16 @@
       "type": "paragraph",
       "id": "871fa04c023420b2",
       "text": "Next step is to get the tabs working and also the rest of the dialog box stuff. e.g. close button etc."
+    },
+    {
+      "type": "paragraph",
+      "id": "0b7360e759d7d2bb",
+      "text": "HOT DAMN!!! It's all working. At least in terms of hard-coded content.  "
+    },
+    {
+      "type": "html",
+      "id": "cf8b9373b56ea91e",
+      "text": "<h3>Next step</h3>\n\nStart replacing the hard-coded data in the dialog with data passed back from the server."
     }
   ],
   "journal": [
@@ -184,6 +194,62 @@
         "text": "Next step is to get the tabs working and also the rest of the dialog box stuff. e.g. close button etc."
       },
       "date": 1421903268679
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b7360e759d7d2bb"
+      },
+      "id": "0b7360e759d7d2bb",
+      "type": "add",
+      "after": "871fa04c023420b2",
+      "date": 1421904149478
+    },
+    {
+      "type": "edit",
+      "id": "0b7360e759d7d2bb",
+      "item": {
+        "type": "paragraph",
+        "id": "0b7360e759d7d2bb",
+        "text": "HOT DAMN!!! It's all working. At least in terms of hard-coded content.  "
+      },
+      "date": 1421904176440
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10ac596907a6dec8",
+        "text": ""
+      },
+      "id": "10ac596907a6dec8",
+      "type": "add",
+      "after": "0b7360e759d7d2bb",
+      "date": 1421904176457
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cf8b9373b56ea91e"
+      },
+      "id": "cf8b9373b56ea91e",
+      "type": "add",
+      "after": "10ac596907a6dec8",
+      "date": 1421904179025
+    },
+    {
+      "type": "remove",
+      "id": "10ac596907a6dec8",
+      "date": 1421904180846
+    },
+    {
+      "type": "edit",
+      "id": "cf8b9373b56ea91e",
+      "item": {
+        "type": "html",
+        "id": "cf8b9373b56ea91e",
+        "text": "<h3>Next step</h3>\n\nStart replacing the hard-coded data in the dialog with data passed back from the server."
+      },
+      "date": 1421904204922
     }
   ]
 }

@@ -43,6 +43,16 @@
     },
     {
       "type": "markdown",
+      "id": "6b35ca251e710c2e",
+      "text": "##Multiple requests\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "858952043a3da646",
+      "text": "The client is still sending multiple requests to the server after a click.  Need to reduce this to just one"
+    },
+    {
+      "type": "markdown",
       "id": "a5c975eeb97c4227",
       "text": "##Structure"
     },
@@ -360,6 +370,102 @@
         "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details </li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
       },
       "date": 1421967940055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b35ca251e710c2e"
+      },
+      "id": "6b35ca251e710c2e",
+      "type": "add",
+      "after": "c2ac6551d7e91206",
+      "date": 1421968400916
+    },
+    {
+      "type": "edit",
+      "id": "6b35ca251e710c2e",
+      "item": {
+        "type": "markdown",
+        "id": "6b35ca251e710c2e",
+        "text": "##Multiple requests\n"
+      },
+      "date": 1421968408047
+    },
+    {
+      "type": "move",
+      "order": [
+        "dd939e3d36cc0e2e",
+        "a4051b4cb5654925",
+        "87e845055e2565cb",
+        "8b3218444f61f35a",
+        "eb7a42c209071b43",
+        "0828d1f583895ca1",
+        "75b45ee96cc52e82",
+        "db00caa21acf3baf",
+        "6b35ca251e710c2e",
+        "a5c975eeb97c4227",
+        "5f79a625d04ded65",
+        "c2ac6551d7e91206"
+      ],
+      "id": "6b35ca251e710c2e",
+      "date": 1421968412629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "858952043a3da646"
+      },
+      "id": "858952043a3da646",
+      "type": "add",
+      "after": "c2ac6551d7e91206",
+      "date": 1421968416714
+    },
+    {
+      "type": "edit",
+      "id": "858952043a3da646",
+      "item": {
+        "type": "paragraph",
+        "id": "858952043a3da646",
+        "text": "The client is still sending multiple requests to the server after a click.  Need to reduce this to just one"
+      },
+      "date": 1421968434468
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "49d1d228e4f465e4",
+        "text": ""
+      },
+      "id": "49d1d228e4f465e4",
+      "type": "add",
+      "after": "858952043a3da646",
+      "date": 1421968434516
+    },
+    {
+      "type": "move",
+      "order": [
+        "dd939e3d36cc0e2e",
+        "a4051b4cb5654925",
+        "87e845055e2565cb",
+        "8b3218444f61f35a",
+        "eb7a42c209071b43",
+        "0828d1f583895ca1",
+        "75b45ee96cc52e82",
+        "db00caa21acf3baf",
+        "6b35ca251e710c2e",
+        "858952043a3da646",
+        "a5c975eeb97c4227",
+        "5f79a625d04ded65",
+        "c2ac6551d7e91206",
+        "49d1d228e4f465e4"
+      ],
+      "id": "858952043a3da646",
+      "date": 1421968437036
+    },
+    {
+      "type": "remove",
+      "id": "49d1d228e4f465e4",
+      "date": 1421968441067
     }
   ]
 }

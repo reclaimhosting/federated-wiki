@@ -30,6 +30,16 @@
       "type": "paragraph",
       "id": "44efde62df11ca32",
       "text": "Appears like the script isn't doing the right jquery magic to open the accordion to display.  Thought is that if I find the right approach it will show something - no great content in it. But at least it's a step closer"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f431c8405b3b051",
+      "text": "The problem has to do with a combination of bad labeling and lack of equivalence between naming and general use of jQuery.  Getting there in terms of displaying the dialog box."
+    },
+    {
+      "type": "paragraph",
+      "id": "871fa04c023420b2",
+      "text": "Next step is to get the tabs working and also the rest of the dialog box stuff. e.g. close button etc."
     }
   ],
   "journal": [
@@ -133,6 +143,47 @@
         "text": "Appears like the script isn't doing the right jquery magic to open the accordion to display.  Thought is that if I find the right approach it will show something - no great content in it. But at least it's a step closer"
       },
       "date": 1421899780839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f431c8405b3b051"
+      },
+      "id": "4f431c8405b3b051",
+      "type": "add",
+      "after": "44efde62df11ca32",
+      "date": 1421903211532
+    },
+    {
+      "type": "edit",
+      "id": "4f431c8405b3b051",
+      "item": {
+        "type": "paragraph",
+        "id": "4f431c8405b3b051",
+        "text": "The problem has to do with a combination of bad labeling and lack of equivalence between naming and general use of jQuery.  Getting there in terms of displaying the dialog box."
+      },
+      "date": 1421903244827
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "871fa04c023420b2",
+        "text": ""
+      },
+      "id": "871fa04c023420b2",
+      "type": "add",
+      "after": "4f431c8405b3b051",
+      "date": 1421903244847
+    },
+    {
+      "type": "edit",
+      "id": "871fa04c023420b2",
+      "item": {
+        "type": "paragraph",
+        "id": "871fa04c023420b2",
+        "text": "Next step is to get the tabs working and also the rest of the dialog box stuff. e.g. close button etc."
+      },
+      "date": 1421903268679
     }
   ]
 }

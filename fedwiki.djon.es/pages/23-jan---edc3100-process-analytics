@@ -40,6 +40,21 @@
       "type": "paragraph",
       "id": "db00caa21acf3baf",
       "text": "Works.  Good feeling."
+    },
+    {
+      "type": "markdown",
+      "id": "a5c975eeb97c4227",
+      "text": "##Structure"
+    },
+    {
+      "type": "paragraph",
+      "id": "5f79a625d04ded65",
+      "text": "Need to morph the server and the data passed back to have a structure more appropriate to the combination of data that now has to be passed back."
+    },
+    {
+      "type": "html",
+      "id": "c2ac6551d7e91206",
+      "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details </li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
     }
   ],
   "journal": [
@@ -259,6 +274,92 @@
       "type": "remove",
       "id": "69396b389244fa02",
       "date": 1421967671499
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5c975eeb97c4227"
+      },
+      "id": "a5c975eeb97c4227",
+      "type": "add",
+      "after": "db00caa21acf3baf",
+      "date": 1421967693095
+    },
+    {
+      "type": "edit",
+      "id": "a5c975eeb97c4227",
+      "item": {
+        "type": "markdown",
+        "id": "a5c975eeb97c4227",
+        "text": "##Structure"
+      },
+      "date": 1421967702093
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f79a625d04ded65"
+      },
+      "id": "5f79a625d04ded65",
+      "type": "add",
+      "after": "a5c975eeb97c4227",
+      "date": 1421967704010
+    },
+    {
+      "type": "edit",
+      "id": "5f79a625d04ded65",
+      "item": {
+        "type": "paragraph",
+        "id": "5f79a625d04ded65",
+        "text": "Need to morph the server and the data passed back to have a structure more appropriate to the combination of data that now has to be passed back."
+      },
+      "date": 1421967731634
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5a243fbe6cab05c9",
+        "text": ""
+      },
+      "id": "5a243fbe6cab05c9",
+      "type": "add",
+      "after": "5f79a625d04ded65",
+      "date": 1421967731760
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2ac6551d7e91206"
+      },
+      "id": "c2ac6551d7e91206",
+      "type": "add",
+      "after": "5a243fbe6cab05c9",
+      "date": 1421967739098
+    },
+    {
+      "type": "remove",
+      "id": "5a243fbe6cab05c9",
+      "date": 1421967740897
+    },
+    {
+      "type": "edit",
+      "id": "c2ac6551d7e91206",
+      "item": {
+        "type": "html",
+        "id": "c2ac6551d7e91206",
+        "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details </li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n"
+      },
+      "date": 1421967835505
+    },
+    {
+      "type": "edit",
+      "id": "c2ac6551d7e91206",
+      "item": {
+        "type": "html",
+        "id": "c2ac6551d7e91206",
+        "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details </li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
+      },
+      "date": 1421967940055
     }
   ]
 }

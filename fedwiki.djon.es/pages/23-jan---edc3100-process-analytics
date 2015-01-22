@@ -10,6 +10,36 @@
       "type": "paragraph",
       "id": "a4051b4cb5654925",
       "text": "Get the server to return real data for the specific student and get that displayed in the dialog box"
+    },
+    {
+      "type": "paragraph",
+      "id": "87e845055e2565cb",
+      "text": "Also need to look at the design of the pop box - fonts a bit too large for the tabs."
+    },
+    {
+      "type": "paragraph",
+      "id": "8b3218444f61f35a",
+      "text": "Think about the idea of activity completion analytics showing how long ago (days/hours/weeks) the student finished each activity."
+    },
+    {
+      "type": "markdown",
+      "id": "eb7a42c209071b43",
+      "text": "##Student details"
+    },
+    {
+      "type": "paragraph",
+      "id": "0828d1f583895ca1",
+      "text": "Was working with providing details about the student (GPA, major etc).  See if this is working."
+    },
+    {
+      "type": "paragraph",
+      "id": "75b45ee96cc52e82",
+      "text": "The log file indicates that requests are being made to the server. Greasemonkey is not using the data.  Change that and see if it works."
+    },
+    {
+      "type": "paragraph",
+      "id": "db00caa21acf3baf",
+      "text": "Works.  Good feeling."
     }
   ],
   "journal": [
@@ -74,6 +104,161 @@
         "text": "Get the server to return real data for the specific student and get that displayed in the dialog box"
       },
       "date": 1421967043921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb7a42c209071b43"
+      },
+      "id": "eb7a42c209071b43",
+      "type": "add",
+      "after": "a4051b4cb5654925",
+      "date": 1421967500740
+    },
+    {
+      "type": "edit",
+      "id": "eb7a42c209071b43",
+      "item": {
+        "type": "markdown",
+        "id": "eb7a42c209071b43",
+        "text": "##Student details"
+      },
+      "date": 1421967508846
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0828d1f583895ca1"
+      },
+      "id": "0828d1f583895ca1",
+      "type": "add",
+      "after": "eb7a42c209071b43",
+      "date": 1421967510014
+    },
+    {
+      "type": "edit",
+      "id": "0828d1f583895ca1",
+      "item": {
+        "type": "paragraph",
+        "id": "0828d1f583895ca1",
+        "text": "Was working with providing details about the student (GPA, major etc).  See if this is working."
+      },
+      "date": 1421967530014
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75b45ee96cc52e82",
+        "text": ""
+      },
+      "id": "75b45ee96cc52e82",
+      "type": "add",
+      "after": "0828d1f583895ca1",
+      "date": 1421967530046
+    },
+    {
+      "type": "edit",
+      "id": "75b45ee96cc52e82",
+      "item": {
+        "type": "paragraph",
+        "id": "75b45ee96cc52e82",
+        "text": "The log file indicates that requests are being made to the server. Greasemonkey is not using the data.  Change that and see if it works."
+      },
+      "date": 1421967550814
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a18528058d4b7c63",
+        "text": ""
+      },
+      "id": "a18528058d4b7c63",
+      "type": "add",
+      "after": "75b45ee96cc52e82",
+      "date": 1421967550860
+    },
+    {
+      "type": "remove",
+      "id": "a18528058d4b7c63",
+      "date": 1421967552224
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db00caa21acf3baf"
+      },
+      "id": "db00caa21acf3baf",
+      "type": "add",
+      "after": "75b45ee96cc52e82",
+      "date": 1421967586081
+    },
+    {
+      "type": "edit",
+      "id": "db00caa21acf3baf",
+      "item": {
+        "type": "paragraph",
+        "id": "db00caa21acf3baf",
+        "text": "Works.  Good feeling."
+      },
+      "date": 1421967610905
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "87e845055e2565cb",
+        "text": ""
+      },
+      "id": "87e845055e2565cb",
+      "type": "add",
+      "after": "a4051b4cb5654925",
+      "date": 1421967611952
+    },
+    {
+      "type": "edit",
+      "id": "87e845055e2565cb",
+      "item": {
+        "type": "paragraph",
+        "id": "87e845055e2565cb",
+        "text": "Also need to look at the design of the pop box - fonts a bit too large for the tabs."
+      },
+      "date": 1421967627274
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b3218444f61f35a",
+        "text": ""
+      },
+      "id": "8b3218444f61f35a",
+      "type": "add",
+      "after": "87e845055e2565cb",
+      "date": 1421967627328
+    },
+    {
+      "type": "edit",
+      "id": "8b3218444f61f35a",
+      "item": {
+        "type": "paragraph",
+        "id": "8b3218444f61f35a",
+        "text": "Think about the idea of activity completion analytics showing how long ago (days/hours/weeks) the student finished each activity."
+      },
+      "date": 1421967669960
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69396b389244fa02",
+        "text": ""
+      },
+      "id": "69396b389244fa02",
+      "type": "add",
+      "after": "8b3218444f61f35a",
+      "date": 1421967669990
+    },
+    {
+      "type": "remove",
+      "id": "69396b389244fa02",
+      "date": 1421967671499
     }
   ]
 }

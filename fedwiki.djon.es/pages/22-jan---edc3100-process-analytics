@@ -1,0 +1,138 @@
+{
+  "title": "22 Jan - EDC3100 process analytics",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "89faa7fc9ed4c105",
+      "text": "## Current status\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c1ba4f25caa50983",
+      "text": "console log is suggesting that it's trying to open the accordion and display some information"
+    },
+    {
+      "type": "paragraph",
+      "id": "73b4275773024434",
+      "text": "Don't know whether the information is getting back to the greasemonkey script.  Need to dump that to see what's going on."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef451f5d7f94b4b1",
+      "text": "It is still making this call lots of times.  Need to do it only once."
+    },
+    {
+      "type": "markdown",
+      "id": "0d5a386637c3f83d",
+      "text": "##Opening the accordion"
+    },
+    {
+      "type": "paragraph",
+      "id": "44efde62df11ca32",
+      "text": "Appears like the script isn't doing the right jquery magic to open the accordion to display.  Thought is that if I find the right approach it will show something - no great content in it. But at least it's a step closer"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "22 Jan - EDC3100 process analytics",
+        "story": []
+      },
+      "date": 1421899296279
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "89faa7fc9ed4c105",
+        "text": "## Current status\n"
+      },
+      "id": "89faa7fc9ed4c105",
+      "date": 1421899312093
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c1ba4f25caa50983",
+        "text": "console log is suggesting that it's trying to open the accordion and display some information"
+      },
+      "after": "89faa7fc9ed4c105",
+      "id": "c1ba4f25caa50983",
+      "date": 1421899319943
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ef451f5d7f94b4b1",
+        "text": "It is still making this call lots of times.  Need to do it only once."
+      },
+      "after": "89faa7fc9ed4c105",
+      "id": "ef451f5d7f94b4b1",
+      "date": 1421899342887
+    },
+    {
+      "type": "move",
+      "order": [
+        "89faa7fc9ed4c105",
+        "c1ba4f25caa50983",
+        "ef451f5d7f94b4b1"
+      ],
+      "id": "c1ba4f25caa50983",
+      "date": 1421899345481
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "73b4275773024434",
+        "text": "Don't know whether the information is getting back to the greasemonkey script.  Need to dump that to see what's going on."
+      },
+      "after": "c1ba4f25caa50983",
+      "id": "73b4275773024434",
+      "date": 1421899349404
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d5a386637c3f83d"
+      },
+      "id": "0d5a386637c3f83d",
+      "type": "add",
+      "after": "ef451f5d7f94b4b1",
+      "date": 1421899726878
+    },
+    {
+      "type": "edit",
+      "id": "0d5a386637c3f83d",
+      "item": {
+        "type": "markdown",
+        "id": "0d5a386637c3f83d",
+        "text": "##Opening the accordion"
+      },
+      "date": 1421899737591
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44efde62df11ca32"
+      },
+      "id": "44efde62df11ca32",
+      "type": "add",
+      "after": "0d5a386637c3f83d",
+      "date": 1421899739661
+    },
+    {
+      "type": "edit",
+      "id": "44efde62df11ca32",
+      "item": {
+        "type": "paragraph",
+        "id": "44efde62df11ca32",
+        "text": "Appears like the script isn't doing the right jquery magic to open the accordion to display.  Thought is that if I find the right approach it will show something - no great content in it. But at least it's a step closer"
+      },
+      "date": 1421899780839
+    }
+  ]
+}

@@ -130,26 +130,6 @@
       "type": "paragraph",
       "id": "a24b3d328daa4c0b",
       "text": "Fixed that by putting ignition.php from the MAV location into the smarty directory above"
-    },
-    {
-      "type": "markdown",
-      "id": "89faa7fc9ed4c105",
-      "text": "## Current status\n"
-    },
-    {
-      "type": "paragraph",
-      "id": "c1ba4f25caa50983",
-      "text": "console log is suggesting that it's trying to open the accordion and display some information"
-    },
-    {
-      "type": "paragraph",
-      "id": "73b4275773024434",
-      "text": "Don't know whether the information is getting back to the greasemonkey script.  Need to dump that to see what's going on."
-    },
-    {
-      "type": "paragraph",
-      "id": "ef451f5d7f94b4b1",
-      "text": "It is still making this call lots of times.  Need to do it only once."
     }
   ],
   "journal": [
@@ -1076,6 +1056,61 @@
         "text": "It is still making this call lots of times.  Need to do it only once."
       },
       "date": 1421391674894
+    },
+    {
+      "type": "remove",
+      "id": "89faa7fc9ed4c105",
+      "date": 1421899312089
+    },
+    {
+      "type": "remove",
+      "id": "c1ba4f25caa50983",
+      "date": 1421899319939
+    },
+    {
+      "type": "move",
+      "order": [
+        "27e71612bf3287de",
+        "a0af55517bf844e3",
+        "f87d2712e8027095",
+        "5a1412ac820ba17d",
+        "f5232683e826099b",
+        "9af0d5e0015f2864",
+        "c48c6a63243f6d3d",
+        "9b10a8f62a54a568",
+        "4e26bee2791f6fa7",
+        "0f4a8c762c7952a2",
+        "b9a6606c920f6758",
+        "ecec8fe86a3a41bc",
+        "c5c95a5549d79fea",
+        "b96c3d31565a1280",
+        "fdb2896caa3fffe4",
+        "5cf933cd4e269f74",
+        "73b34b426aa9fb93",
+        "45ab1704ff2943d6",
+        "a782f614eea6edd9",
+        "213e15cfc74ec3b7",
+        "c4df516301f41ba6",
+        "02ebc206a7dbc2b4",
+        "09b53eb38f814c94",
+        "fadb75f74e2eef3f",
+        "b36ed9830d77b450",
+        "73b4275773024434",
+        "a24b3d328daa4c0b",
+        "ef451f5d7f94b4b1"
+      ],
+      "id": "73b4275773024434",
+      "date": 1421899324228
+    },
+    {
+      "type": "remove",
+      "id": "ef451f5d7f94b4b1",
+      "date": 1421899342884
+    },
+    {
+      "type": "remove",
+      "id": "73b4275773024434",
+      "date": 1421899349401
     }
   ]
 }

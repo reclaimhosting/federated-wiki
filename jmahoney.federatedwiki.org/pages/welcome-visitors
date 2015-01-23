@@ -2,24 +2,44 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
-      "id": "7b56f22a4b9ee974",
-      "type": "paragraph"
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Hello. Salve. Xaiph."
+    },
+    {
+      "type": "paragraph",
+      "id": "9a20e7ba62513780",
+      "text": "Here are some things I keep notes on:"
+    },
+    {
+      "type": "paragraph",
+      "id": "74106bb911c1db7a",
+      "text": "[[Recording]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "357bd680b17bb5f4",
+      "text": "From the Creators - Not Me"
     },
     {
       "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
-      "text": "I didn't write that paragraph above."
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "This thing could be what the read-write Web was always supposed to be??? I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
       "type": "paragraph",
       "id": "d61bcc89a2ddd936",
-      "text": "Here is some more helpfulness given by the creators: Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "pagefold",
+      "id": "8f40b6f4ae9b7811",
+      "text": "Footnotes"
+    },
+    {
+      "type": "paragraph",
+      "id": "0816b5e4ac44b5d3",
+      "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
     }
   ],
   "journal": [
@@ -614,6 +634,313 @@
       "type": "remove",
       "id": "681330d512ba868e",
       "date": 1421993407168
+    },
+    {
+      "type": "move",
+      "order": [
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "7b56f22a4b9ee974",
+        "d61bcc89a2ddd936"
+      ],
+      "id": "7b56f22a4b9ee974",
+      "date": 1421993552089
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "63ad2e58eecdd9e5",
+        "7b56f22a4b9ee974",
+        "d61bcc89a2ddd936"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1421993558103
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "I didn't write this paragraph, but it seems helpful enough:"
+      },
+      "date": 1421993578750
+    },
+    {
+      "type": "remove",
+      "id": "7b56f22a4b9ee974",
+      "date": 1421993592247
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "I didn't write this paragraph, but it seems helpful enough: Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1421993595425
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "This is the read-write Web new hotness, but I can't change the title of this page."
+      },
+      "date": 1421993641015
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0816b5e4ac44b5d3",
+        "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
+      },
+      "id": "0816b5e4ac44b5d3",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1421993641044
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "This is the read-write Web new hotness, but I can't change the title of this page. And it's probably not really accurate to call it the new hotness."
+      },
+      "date": 1421993664384
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10d3ca0311e75f20",
+        "text": ""
+      },
+      "id": "10d3ca0311e75f20",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1421993664419
+    },
+    {
+      "type": "remove",
+      "id": "10d3ca0311e75f20",
+      "date": 1421993670336
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "63ad2e58eecdd9e5",
+        "d61bcc89a2ddd936",
+        "0816b5e4ac44b5d3"
+      ],
+      "id": "0816b5e4ac44b5d3",
+      "date": 1421993680070
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a20e7ba62513780",
+        "text": ""
+      },
+      "id": "9a20e7ba62513780",
+      "type": "add",
+      "after": "2bbd646ff3f44b51",
+      "date": 1421993696851
+    },
+    {
+      "type": "edit",
+      "id": "9a20e7ba62513780",
+      "item": {
+        "type": "paragraph",
+        "id": "9a20e7ba62513780",
+        "text": "Here are some things I keep notes on:"
+      },
+      "date": 1421993716308
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": ""
+      },
+      "id": "74106bb911c1db7a",
+      "type": "add",
+      "after": "9a20e7ba62513780",
+      "date": 1421993716332
+    },
+    {
+      "type": "edit",
+      "id": "74106bb911c1db7a",
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": "[[Recording"
+      },
+      "date": 1421993733623
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b9834d2bc47dd7d",
+        "text": "]]"
+      },
+      "id": "8b9834d2bc47dd7d",
+      "type": "add",
+      "after": "74106bb911c1db7a",
+      "date": 1421993733637
+    },
+    {
+      "type": "remove",
+      "id": "8b9834d2bc47dd7d",
+      "date": 1421993734915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50d2fa92887f12cc"
+      },
+      "id": "50d2fa92887f12cc",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421993755459
+    },
+    {
+      "type": "edit",
+      "id": "50d2fa92887f12cc",
+      "item": {
+        "type": "bytebeat",
+        "id": "50d2fa92887f12cc",
+        "text": "Music"
+      },
+      "date": 1421993785477
+    },
+    {
+      "type": "remove",
+      "id": "50d2fa92887f12cc",
+      "date": 1421993799568
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "357bd680b17bb5f4"
+      },
+      "id": "357bd680b17bb5f4",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421993807923
+    },
+    {
+      "type": "edit",
+      "id": "357bd680b17bb5f4",
+      "item": {
+        "type": "pagefold",
+        "id": "357bd680b17bb5f4",
+        "text": "From the Creators - Not Me"
+      },
+      "date": 1421993830522
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "9a20e7ba62513780",
+        "74106bb911c1db7a",
+        "357bd680b17bb5f4",
+        "63ad2e58eecdd9e5",
+        "d61bcc89a2ddd936",
+        "0816b5e4ac44b5d3"
+      ],
+      "id": "357bd680b17bb5f4",
+      "date": 1421993834925
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1421993851799
+    },
+    {
+      "type": "edit",
+      "id": "d61bcc89a2ddd936",
+      "item": {
+        "type": "paragraph",
+        "id": "d61bcc89a2ddd936",
+        "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "date": 1421993863547
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f40b6f4ae9b7811"
+      },
+      "id": "8f40b6f4ae9b7811",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421993866506
+    },
+    {
+      "type": "edit",
+      "id": "8f40b6f4ae9b7811",
+      "item": {
+        "type": "pagefold",
+        "id": "8f40b6f4ae9b7811",
+        "text": "Footnotes\nCarriage Return\nLine Feed"
+      },
+      "date": 1421993888180
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "9a20e7ba62513780",
+        "74106bb911c1db7a",
+        "357bd680b17bb5f4",
+        "63ad2e58eecdd9e5",
+        "d61bcc89a2ddd936",
+        "8f40b6f4ae9b7811",
+        "0816b5e4ac44b5d3"
+      ],
+      "id": "8f40b6f4ae9b7811",
+      "date": 1421993891928
+    },
+    {
+      "type": "edit",
+      "id": "8f40b6f4ae9b7811",
+      "item": {
+        "type": "pagefold",
+        "id": "8f40b6f4ae9b7811",
+        "text": "Footnotes"
+      },
+      "date": 1421993899147
+    },
+    {
+      "type": "edit",
+      "id": "74106bb911c1db7a",
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": "[[Recording]]"
+      },
+      "date": 1421993966387
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph."
+      },
+      "date": 1421994028067
     }
   ]
 }

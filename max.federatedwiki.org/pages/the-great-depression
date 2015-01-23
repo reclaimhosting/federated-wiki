@@ -1,0 +1,75 @@
+{
+  "title": "the great depression",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "04ee365df5c6bdf4",
+      "text": "the great depression was a time when the economy sunk low enough that th upper classes were affected too"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "the great depression",
+        "story": []
+      },
+      "site": "max.federatedwiki.org",
+      "date": 1420647354144,
+      "fork": "max.federatedwiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1342f87eee619a1"
+      },
+      "id": "f1342f87eee619a1",
+      "type": "add",
+      "date": 1420647824721
+    },
+    {
+      "type": "remove",
+      "id": "f1342f87eee619a1",
+      "date": 1420647850525
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04ee365df5c6bdf4"
+      },
+      "id": "04ee365df5c6bdf4",
+      "type": "add",
+      "date": 1420849077956
+    },
+    {
+      "type": "edit",
+      "id": "04ee365df5c6bdf4",
+      "item": {
+        "type": "paragraph",
+        "id": "04ee365df5c6bdf4",
+        "text": "the great depression was a time when the economy sunk low enough that th upper classes were affected too"
+      },
+      "date": 1420849133358
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7e6a732a09e011d8",
+        "text": ""
+      },
+      "id": "7e6a732a09e011d8",
+      "type": "add",
+      "after": "04ee365df5c6bdf4",
+      "date": 1420849133367
+    },
+    {
+      "type": "remove",
+      "id": "7e6a732a09e011d8",
+      "date": 1420849135044
+    },
+    {
+      "type": "fork",
+      "date": 1422043157625
+    }
+  ]
+}

@@ -94,7 +94,11 @@
     {
       "type": "html",
       "id": "c2ac6551d7e91206",
-      "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details </li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
+      "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details <strong>DONE</strong>\n</li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
+    },
+    {
+      "type": "factory",
+      "id": "1b29428818cf0009"
     }
   ],
   "journal": [
@@ -654,6 +658,26 @@
         "text": "SOLVED - problem was that I was binding the handler within the for loop that was adding the [details] link. i.e. this was adding as many handlers as there were user profiles and all were firing on click.  If there's only one, it fires only once."
       },
       "date": 1421971168892
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b29428818cf0009"
+      },
+      "id": "1b29428818cf0009",
+      "type": "add",
+      "after": "c2ac6551d7e91206",
+      "date": 1421972582534
+    },
+    {
+      "type": "edit",
+      "id": "c2ac6551d7e91206",
+      "item": {
+        "type": "html",
+        "id": "c2ac6551d7e91206",
+        "text": "At a simple level thinking the data being passed back will have three members\n<ol>\n  <li> details - the personal details <strong>DONE</strong>\n</li>\n  <li> completion - activity completion </li>\n  <li> posts - about blog posts </li>\n</ol>\n\nEach will contain the HTML to display.  <strong>Question:</strong> or should I pass the data back and use the client to change it??  Will stick with the server for now.\n\nAt a simple level, the server will have a function to create the HTML for each."
+      },
+      "date": 1421972600169
     }
   ]
 }

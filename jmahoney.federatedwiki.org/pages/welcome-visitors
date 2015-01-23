@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [[Get A Wiki]]"
+      "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [[Get A Wiki]]. "
     },
     {
       "type": "paragraph",
@@ -1287,6 +1287,68 @@
       "type": "remove",
       "id": "6370a8c49132aa83",
       "date": 1421996974710
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [[Get A Wiki]]."
+      },
+      "date": 1421997243796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1daae66d7ae963b0"
+      },
+      "id": "1daae66d7ae963b0",
+      "type": "add",
+      "after": "cb5ccc684006953b",
+      "date": 1421997424376
+    },
+    {
+      "type": "edit",
+      "id": "1daae66d7ae963b0",
+      "item": {
+        "type": "factory",
+        "id": "1daae66d7ae963b0",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://federatedwiki.org/favicon.png\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://federatedwiki.org/favicon.png",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1421997428417
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [[Get A Wiki]]. "
+      },
+      "date": 1421997551519
+    },
+    {
+      "type": "edit",
+      "id": "1daae66d7ae963b0",
+      "item": {
+        "type": "factory",
+        "id": "1daae66d7ae963b0",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1421997622585
+    },
+    {
+      "type": "remove",
+      "id": "1daae66d7ae963b0",
+      "date": 1421997626188
     }
   ]
 }

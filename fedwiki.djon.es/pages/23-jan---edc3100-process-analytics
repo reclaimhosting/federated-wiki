@@ -104,7 +104,7 @@
     {
       "type": "html",
       "id": "154bc62e0ec03e6c",
-      "text": "Need to check\n<ol>\n  <Li> Is the data in the database? </li>\n  <li> Does the userid align with the id from browser? </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
+      "text": "Need to check\n<ol>\n  <Li> Is the data in the database? \n       <p>Yes - mdl_course_modules_completion<br />\n [ <u>id</u>, coursemoduleid, userid, completionstate, viewed, timemodified ]</p>\n      <p>id, coursemoduleid and userid in my local database are not the same as in the institutional database. </p>\n       <p>\n  </li>\n  <li> What are the translations to make? \n      <ul>\n        <li> id - will be ignored for this tool </li>\n        <li> coursemoduleid \n            <p>Locally the coursemoduleids are sequential starting at 120000 (or some other figure depending on the semester).  </p>\n   <p><strong>Question:</strong> Is there are similar sequence on the institutional system? (probably not given how they are added). </p> <?li>\n        <li> userid - </li>\n      </ul>\n  </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
     },
     {
       "type": "html",
@@ -769,6 +769,36 @@
         "text": "Data structure\n<ul>\n  <li> For each module\n       <ul>\n          <li> Title </li>\n          <li> Total # activities </li>\n          <li> # activities completed </li>\n          <li> first and last date activity completed </li>\n          <li> For each week in the module \n             <ul>\n                <li> Name of week and link?? </li>\n                <li> Total # activities </li>\n                <li> # activities completed </li>\n                <li> first and last date activity completed </li>\n                <li> For each activity in the week\n                     <ul>\n                        <li> name of activity </li>\n                        <li> date completed </li>\n                        <li> # students completed activity </li>\n                     </ul>\n              </ul>\n           </li>\n        </ul>\n  </li>\n</ul>"
       },
       "date": 1421982597081
+    },
+    {
+      "type": "edit",
+      "id": "154bc62e0ec03e6c",
+      "item": {
+        "type": "html",
+        "id": "154bc62e0ec03e6c",
+        "text": "Need to check\n<ol>\n  <Li> Is the data in the database? \n       <p>Yes - mdl_course_modules_completion<br />\n  </li>\n  <li> Does the userid align with the id from browser? </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
+      },
+      "date": 1421983026998
+    },
+    {
+      "type": "edit",
+      "id": "154bc62e0ec03e6c",
+      "item": {
+        "type": "html",
+        "id": "154bc62e0ec03e6c",
+        "text": "Need to check\n<ol>\n  <Li> Is the data in the database? \n       <p>Yes - mdl_course_modules_completion<br />\n [ <u>id</u>, coursemoduleid, userid, completionstate, viewed, timemodified ]</p>\n      <p>id, coursemoduleid and userid in my local database are not the same as in the institutional database. </p>\n       <p>\n  </li>\n  <li> Does the userid align with the id from browser? </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
+      },
+      "date": 1421983092206
+    },
+    {
+      "type": "edit",
+      "id": "154bc62e0ec03e6c",
+      "item": {
+        "type": "html",
+        "id": "154bc62e0ec03e6c",
+        "text": "Need to check\n<ol>\n  <Li> Is the data in the database? \n       <p>Yes - mdl_course_modules_completion<br />\n [ <u>id</u>, coursemoduleid, userid, completionstate, viewed, timemodified ]</p>\n      <p>id, coursemoduleid and userid in my local database are not the same as in the institutional database. </p>\n       <p>\n  </li>\n  <li> What are the translations to make? \n      <ul>\n        <li> id - will be ignored for this tool </li>\n        <li> coursemoduleid \n            <p>Locally the coursemoduleids are sequential starting at 120000 (or some other figure depending on the semester).  </p>\n   <p><strong>Question:</strong> Is there are similar sequence on the institutional system? (probably not given how they are added). </p> <?li>\n        <li> userid - </li>\n      </ul>\n  </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
+      },
+      "date": 1421983269339
     }
   ]
 }

@@ -57,6 +57,31 @@
       "text": "[details] link are all being set to class \"showMoreUserDetailsLink\".  getUserDetails is being run by an onclick to $(\".showMoreUserDetailsLink\").  My guess is that this use of class is causing it to run as many times as there is links of that class."
     },
     {
+      "type": "paragraph",
+      "id": "233d49f6fd87ba3d",
+      "text": "Changed to using an ID that is unique for each of the [details] links based on the student id.  Two problems."
+    },
+    {
+      "type": "paragraph",
+      "id": "f7c3f7b781b15e6d",
+      "text": "1. Very slow to load on a discussion forum with 120+ user profiles."
+    },
+    {
+      "type": "paragraph",
+      "id": "360b44d9df2595cb",
+      "text": "2. Still makes the request as many times as there are links for that particular user (about 6 on this page)."
+    },
+    {
+      "type": "paragraph",
+      "id": "735bffbe43cf1247",
+      "text": "?? Is there a jquery setting that will do it only once??"
+    },
+    {
+      "type": "paragraph",
+      "id": "e9ec211181b15d48",
+      "text": "SOLVED - problem was that I was binding the handler within the for loop that was adding the [details] link. i.e. this was adding as many handlers as there were user profiles and all were firing on click.  If there's only one, it fires only once."
+    },
+    {
       "type": "markdown",
       "id": "a5c975eeb97c4227",
       "text": "##Structure"
@@ -508,6 +533,127 @@
       "type": "remove",
       "id": "23bec0ed4ac1ceef",
       "date": 1421970636808
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "233d49f6fd87ba3d",
+        "text": ""
+      },
+      "id": "233d49f6fd87ba3d",
+      "type": "add",
+      "after": "64b3e6b728aa4f53",
+      "date": 1421970818765
+    },
+    {
+      "type": "edit",
+      "id": "233d49f6fd87ba3d",
+      "item": {
+        "type": "paragraph",
+        "id": "233d49f6fd87ba3d",
+        "text": "Changed to using an ID that is unique for each of the [details] links based on the student id.  Two problems."
+      },
+      "date": 1421970854086
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f7c3f7b781b15e6d",
+        "text": ""
+      },
+      "id": "f7c3f7b781b15e6d",
+      "type": "add",
+      "after": "233d49f6fd87ba3d",
+      "date": 1421970854179
+    },
+    {
+      "type": "edit",
+      "id": "f7c3f7b781b15e6d",
+      "item": {
+        "type": "paragraph",
+        "id": "f7c3f7b781b15e6d",
+        "text": "1. Very slow to load on a discussion forum with 120+ user profiles."
+      },
+      "date": 1421970868272
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "360b44d9df2595cb",
+        "text": ""
+      },
+      "id": "360b44d9df2595cb",
+      "type": "add",
+      "after": "f7c3f7b781b15e6d",
+      "date": 1421970868645
+    },
+    {
+      "type": "edit",
+      "id": "360b44d9df2595cb",
+      "item": {
+        "type": "paragraph",
+        "id": "360b44d9df2595cb",
+        "text": "2. Still makes the request as many times as there are links for that particular user (about 6 on this page)."
+      },
+      "date": 1421970887553
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "735bffbe43cf1247",
+        "text": ""
+      },
+      "id": "735bffbe43cf1247",
+      "type": "add",
+      "after": "360b44d9df2595cb",
+      "date": 1421970887587
+    },
+    {
+      "type": "edit",
+      "id": "735bffbe43cf1247",
+      "item": {
+        "type": "paragraph",
+        "id": "735bffbe43cf1247",
+        "text": "?? Is there a jquery setting that will do it only once??"
+      },
+      "date": 1421970899058
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1805cca60ec5697f",
+        "text": ""
+      },
+      "id": "1805cca60ec5697f",
+      "type": "add",
+      "after": "735bffbe43cf1247",
+      "date": 1421970899076
+    },
+    {
+      "type": "remove",
+      "id": "1805cca60ec5697f",
+      "date": 1421970903103
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e9ec211181b15d48",
+        "text": ""
+      },
+      "id": "e9ec211181b15d48",
+      "type": "add",
+      "after": "735bffbe43cf1247",
+      "date": 1421971118939
+    },
+    {
+      "type": "edit",
+      "id": "e9ec211181b15d48",
+      "item": {
+        "type": "paragraph",
+        "id": "e9ec211181b15d48",
+        "text": "SOLVED - problem was that I was binding the handler within the for loop that was adding the [details] link. i.e. this was adding as many handlers as there were user profiles and all were firing on click.  If there's only one, it fires only once."
+      },
+      "date": 1421971168892
     }
   ]
 }

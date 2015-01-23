@@ -20,16 +20,6 @@
       "type": "paragraph",
       "id": "d61bcc89a2ddd936",
       "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "pagefold",
-      "id": "8f40b6f4ae9b7811",
-      "text": "Footnotes"
-    },
-    {
-      "type": "paragraph",
-      "id": "0816b5e4ac44b5d3",
-      "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
     }
   ],
   "journal": [
@@ -1555,6 +1545,31 @@
       "type": "remove",
       "id": "5e434e3282ae62b5",
       "date": 1422022694726
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4faa1254e3a35d87"
+      },
+      "id": "4faa1254e3a35d87",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1422023187493
+    },
+    {
+      "type": "remove",
+      "id": "4faa1254e3a35d87",
+      "date": 1422023191511
+    },
+    {
+      "type": "remove",
+      "id": "0816b5e4ac44b5d3",
+      "date": 1422023477003
+    },
+    {
+      "type": "remove",
+      "id": "8f40b6f4ae9b7811",
+      "date": 1422023492651
     }
   ]
 }

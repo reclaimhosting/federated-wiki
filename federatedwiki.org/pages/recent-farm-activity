@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ef18e57be4333736"
+      "id": "2a6bb7390887e8e2"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "03093b95ddf348dd"
+      "id": "d1857d20b9ea2c4f"
     },
     {
-      "date": 1421992201000,
+      "date": 1421993316000,
+      "site": "jmahoney.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 2 pages.",
+      "type": "reference",
+      "id": "ee353082732816ca"
+    },
+    {
+      "date": 1421992801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "bd1414a77035a629"
+      "id": "dc0708a88a898c74"
     },
     {
       "date": 1421983177000,
@@ -27,7 +36,7 @@
       "title": "23 Jan - EDC3100 process analytics",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 69 pages.",
       "type": "reference",
-      "id": "d664b0eb77895644"
+      "id": "4a031eed83ff1ee9"
     },
     {
       "date": 1421952290000,
@@ -36,55 +45,69 @@
       "title": "composition",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
       "type": "reference",
-      "id": "adef1983e3bd7176"
+      "id": "ef1e3c6a50c3377a"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "3000211ba143391a",
+      "id": "5759678844af2ae4",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1421992801000
+      "date": 1421993401000
     },
     {
       "type": "add",
-      "id": "ef18e57be4333736",
+      "id": "2a6bb7390887e8e2",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ef18e57be4333736"
+        "id": "2a6bb7390887e8e2"
       },
-      "date": 1421992801000
+      "date": 1421993401000
     },
     {
       "type": "add",
-      "id": "03093b95ddf348dd",
+      "id": "d1857d20b9ea2c4f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "03093b95ddf348dd"
+        "id": "d1857d20b9ea2c4f"
       },
-      "date": 1421992801000
+      "date": 1421993401000
     },
     {
       "type": "add",
-      "id": "bd1414a77035a629",
+      "id": "ee353082732816ca",
       "item": {
-        "date": 1421992201000,
+        "date": 1421993316000,
+        "site": "jmahoney.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 2 pages.",
+        "type": "reference",
+        "id": "ee353082732816ca"
+      },
+      "date": 1421993401000
+    },
+    {
+      "type": "add",
+      "id": "dc0708a88a898c74",
+      "item": {
+        "date": 1421992801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "bd1414a77035a629"
+        "id": "dc0708a88a898c74"
       },
-      "date": 1421992802000
+      "date": 1421993401000
     },
     {
       "type": "add",
-      "id": "d664b0eb77895644",
+      "id": "4a031eed83ff1ee9",
       "item": {
         "date": 1421983177000,
         "site": "fedwiki.djon.es",
@@ -92,13 +115,13 @@
         "title": "23 Jan - EDC3100 process analytics",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 69 pages.",
         "type": "reference",
-        "id": "d664b0eb77895644"
+        "id": "4a031eed83ff1ee9"
       },
-      "date": 1421992802000
+      "date": 1421993401000
     },
     {
       "type": "add",
-      "id": "adef1983e3bd7176",
+      "id": "ef1e3c6a50c3377a",
       "item": {
         "date": 1421952290000,
         "site": "max.federatedwiki.org",
@@ -106,9 +129,9 @@
         "title": "composition",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 68 pages.",
         "type": "reference",
-        "id": "adef1983e3bd7176"
+        "id": "ef1e3c6a50c3377a"
       },
-      "date": 1421992802000
+      "date": 1421993401000
     }
   ]
 }

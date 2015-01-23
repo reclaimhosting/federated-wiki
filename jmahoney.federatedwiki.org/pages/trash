@@ -1,0 +1,53 @@
+{
+  "title": "trash",
+  "story": [
+    {
+      "type": "map",
+      "id": "681330d512ba868e",
+      "text": "Map Caption",
+      "latlng": {
+        "lat": 40.73503113801819,
+        "lng": -74.04115676879883
+      },
+      "zoom": 13
+    },
+    {
+      "type": "factory",
+      "id": "61e05120df27d976"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "trash",
+        "story": []
+      },
+      "date": 1421993382625
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61e05120df27d976"
+      },
+      "id": "61e05120df27d976",
+      "type": "add",
+      "date": 1421993397213
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "map",
+        "id": "681330d512ba868e",
+        "text": "Map Caption",
+        "latlng": {
+          "lat": 40.73503113801819,
+          "lng": -74.04115676879883
+        },
+        "zoom": 13
+      },
+      "id": "681330d512ba868e",
+      "date": 1421993407174
+    }
+  ]
+}

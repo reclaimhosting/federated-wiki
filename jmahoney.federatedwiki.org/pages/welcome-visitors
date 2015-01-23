@@ -20,16 +20,6 @@
       "type": "paragraph",
       "id": "d61bcc89a2ddd936",
       "text": "Here is some more helpfulness given by the creators: Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "map",
-      "id": "681330d512ba868e",
-      "text": "604 E. Armory, Champaign, IL",
-      "latlng": {
-        "lat": 40.73503113801819,
-        "lng": -74.04115676879883
-      },
-      "zoom": 13
     }
   ],
   "journal": [
@@ -579,6 +569,51 @@
         "zoom": 13
       },
       "date": 1421992845628
+    },
+    {
+      "type": "edit",
+      "id": "681330d512ba868e",
+      "item": {
+        "type": "map",
+        "id": "681330d512ba868e",
+        "text": "",
+        "latlng": {
+          "lat": 40.73503113801819,
+          "lng": -74.04115676879883
+        },
+        "zoom": 13
+      },
+      "date": 1421992955872
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aee72d9425967c2e"
+      },
+      "id": "aee72d9425967c2e",
+      "type": "add",
+      "after": "681330d512ba868e",
+      "date": 1421992990014
+    },
+    {
+      "type": "edit",
+      "id": "aee72d9425967c2e",
+      "item": {
+        "type": "method",
+        "id": "aee72d9425967c2e",
+        "text": "What's a method?"
+      },
+      "date": 1421993002615
+    },
+    {
+      "type": "remove",
+      "id": "aee72d9425967c2e",
+      "date": 1421993017064
+    },
+    {
+      "type": "remove",
+      "id": "681330d512ba868e",
+      "date": 1421993407168
     }
   ]
 }

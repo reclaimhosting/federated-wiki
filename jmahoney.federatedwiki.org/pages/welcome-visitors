@@ -7,14 +7,9 @@
       "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki]"
     },
     {
-      "type": "paragraph",
-      "id": "9a20e7ba62513780",
-      "text": "Here are some things I keep notes on:"
-    },
-    {
-      "type": "paragraph",
-      "id": "74106bb911c1db7a",
-      "text": "[[Recording]]"
+      "type": "html",
+      "id": "81b1c51b400ce9e7",
+      "text": "Here are some things I keep notes on:\n<li>[[Recording]]\n<li>[[Federated Wiki Notes]]"
     },
     {
       "type": "pagefold",
@@ -40,16 +35,6 @@
       "type": "paragraph",
       "id": "0816b5e4ac44b5d3",
       "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
-    },
-    {
-      "type": "paragraph",
-      "id": "6fd538a85517a584",
-      "text": "My WorldWideWeb node: [http://jmahoney.sdf.org/ Habitaculum]"
-    },
-    {
-      "type": "html",
-      "id": "cb5ccc684006953b",
-      "text": "<h3>Header Into The Goal"
     }
   ],
   "journal": [
@@ -1427,6 +1412,134 @@
         "text": "Hello. Salve. Xaiph. My name is James Mahoney. This is my [[Federated Wiki]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki]"
       },
       "date": 1421998800756
+    },
+    {
+      "type": "edit",
+      "id": "74106bb911c1db7a",
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": "*[[Recording]]"
+      },
+      "date": 1421999031751
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3a0f95764c924656",
+        "text": ""
+      },
+      "id": "3a0f95764c924656",
+      "type": "add",
+      "after": "74106bb911c1db7a",
+      "date": 1421999031765
+    },
+    {
+      "type": "remove",
+      "id": "3a0f95764c924656",
+      "date": 1421999037562
+    },
+    {
+      "type": "edit",
+      "id": "74106bb911c1db7a",
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": "[[Recording]] [[]]"
+      },
+      "date": 1421999051822
+    },
+    {
+      "type": "edit",
+      "id": "74106bb911c1db7a",
+      "item": {
+        "type": "paragraph",
+        "id": "74106bb911c1db7a",
+        "text": "[[Recording]] [[Federated Wiki Notes"
+      },
+      "date": 1421999214036
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eeef0c6c611e7d12",
+        "text": "]]"
+      },
+      "id": "eeef0c6c611e7d12",
+      "type": "add",
+      "after": "74106bb911c1db7a",
+      "date": 1421999214062
+    },
+    {
+      "type": "remove",
+      "id": "eeef0c6c611e7d12",
+      "date": 1421999215533
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81b1c51b400ce9e7"
+      },
+      "id": "81b1c51b400ce9e7",
+      "type": "add",
+      "after": "cb5ccc684006953b",
+      "date": 1421999290550
+    },
+    {
+      "type": "edit",
+      "id": "81b1c51b400ce9e7",
+      "item": {
+        "type": "html",
+        "id": "81b1c51b400ce9e7",
+        "text": "<li>[[Recording]]\n<li>[[Federated Wiki Notes]]"
+      },
+      "date": 1421999330444
+    },
+    {
+      "type": "remove",
+      "id": "cb5ccc684006953b",
+      "date": 1421999348047
+    },
+    {
+      "type": "remove",
+      "id": "6fd538a85517a584",
+      "date": 1421999355791
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "9a20e7ba62513780",
+        "81b1c51b400ce9e7",
+        "74106bb911c1db7a",
+        "357bd680b17bb5f4",
+        "63ad2e58eecdd9e5",
+        "d61bcc89a2ddd936",
+        "8f40b6f4ae9b7811",
+        "0816b5e4ac44b5d3"
+      ],
+      "id": "81b1c51b400ce9e7",
+      "date": 1421999367743
+    },
+    {
+      "type": "remove",
+      "id": "74106bb911c1db7a",
+      "date": 1421999373857
+    },
+    {
+      "type": "remove",
+      "id": "9a20e7ba62513780",
+      "date": 1421999431546
+    },
+    {
+      "type": "edit",
+      "id": "81b1c51b400ce9e7",
+      "item": {
+        "type": "html",
+        "id": "81b1c51b400ce9e7",
+        "text": "Here are some things I keep notes on:\n<li>[[Recording]]\n<li>[[Federated Wiki Notes]]"
+      },
+      "date": 1421999437492
     }
   ]
 }

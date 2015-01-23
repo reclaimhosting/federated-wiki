@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Hello. Salve. Xaiph."
+      "text": "Hello. Salve. Xaiph. My name is James Mahoney, and this is my [[Federated Wiki]]."
     },
     {
       "type": "paragraph",
@@ -40,6 +40,11 @@
       "type": "paragraph",
       "id": "0816b5e4ac44b5d3",
       "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
+    },
+    {
+      "type": "video",
+      "id": "b6f70930ea0ce3c1",
+      "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
     }
   ],
   "journal": [
@@ -941,6 +946,61 @@
         "text": "Hello. Salve. Xaiph."
       },
       "date": 1421994028067
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph. My name is James Mahoney, and this is my "
+      },
+      "date": 1421994102330
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph. My name is James Mahoney, and this is my [[Federated Wiki]]."
+      },
+      "date": 1421994121034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e83fa9cbdceb079b"
+      },
+      "id": "e83fa9cbdceb079b",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421994234841
+    },
+    {
+      "type": "remove",
+      "id": "e83fa9cbdceb079b",
+      "date": 1421994239010
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6f70930ea0ce3c1"
+      },
+      "id": "b6f70930ea0ce3c1",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421994248729
+    },
+    {
+      "type": "edit",
+      "id": "b6f70930ea0ce3c1",
+      "item": {
+        "type": "video",
+        "id": "b6f70930ea0ce3c1",
+        "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
+      },
+      "date": 1421994255055
     }
   ]
 }

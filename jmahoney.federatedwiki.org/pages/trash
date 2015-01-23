@@ -12,6 +12,11 @@
       "zoom": 13
     },
     {
+      "type": "video",
+      "id": "b6f70930ea0ce3c1",
+      "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
+    },
+    {
       "type": "factory",
       "id": "61e05120df27d976"
     }
@@ -48,6 +53,17 @@
       },
       "id": "681330d512ba868e",
       "date": 1421993407174
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "b6f70930ea0ce3c1",
+        "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
+      },
+      "after": "681330d512ba868e",
+      "id": "b6f70930ea0ce3c1",
+      "date": 1421994797215
     }
   ]
 }

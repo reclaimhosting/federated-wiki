@@ -42,9 +42,14 @@
       "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
     },
     {
-      "type": "video",
-      "id": "b6f70930ea0ce3c1",
-      "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
+      "type": "paragraph",
+      "id": "6fd538a85517a584",
+      "text": "My WorldWideWeb node: [http://jmahoney.sdf.org/ Habitaculum]"
+    },
+    {
+      "type": "html",
+      "id": "cb5ccc684006953b",
+      "text": "<h3>Header Into The Goal"
     }
   ],
   "journal": [
@@ -1001,6 +1006,176 @@
         "text": "https://www.youtube.com/watch?v=5Qj8p-PEwbI"
       },
       "date": 1421994255055
+    },
+    {
+      "type": "remove",
+      "id": "b6f70930ea0ce3c1",
+      "date": 1421994797204
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fd538a85517a584"
+      },
+      "id": "6fd538a85517a584",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1421994881962
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "I have a node on the WorldWideWeb: [http://jmahoney.sdf.org/]"
+      },
+      "date": 1421994911521
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "I have a node on the WorldWideWeb: [ http://jmahoney.sdf.org/ ]"
+      },
+      "date": 1421994920792
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "I have a node on the WorldWideWeb: [http://jmahoney.sdf.org/ Habitaculum]"
+      },
+      "date": 1421994985953
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "I have a node on the WorldWideWeb: [ http://jmahoney.sdf.org/ Habitaculum ]"
+      },
+      "date": 1421994998080
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "I have a node on the WorldWideWeb: [http://jmahoney.sdf.org/ Habitaculum]"
+      },
+      "date": 1421995007725
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d3df44f65356dccc",
+        "text": ""
+      },
+      "id": "d3df44f65356dccc",
+      "type": "add",
+      "after": "6fd538a85517a584",
+      "date": 1421995051685
+    },
+    {
+      "type": "remove",
+      "id": "d3df44f65356dccc",
+      "date": 1421995056457
+    },
+    {
+      "type": "edit",
+      "id": "6fd538a85517a584",
+      "item": {
+        "type": "paragraph",
+        "id": "6fd538a85517a584",
+        "text": "My WorldWideWeb node: [http://jmahoney.sdf.org/ Habitaculum]"
+      },
+      "date": 1421995069668
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "70df4fee15bef6a2",
+        "text": ""
+      },
+      "id": "70df4fee15bef6a2",
+      "type": "add",
+      "after": "6fd538a85517a584",
+      "date": 1421995069701
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1b20f56d59386660"
+      },
+      "id": "1b20f56d59386660",
+      "type": "add",
+      "after": "70df4fee15bef6a2",
+      "date": 1421995074771
+    },
+    {
+      "type": "edit",
+      "id": "70df4fee15bef6a2",
+      "item": {
+        "type": "paragraph",
+        "id": "70df4fee15bef6a2",
+        "text": "<h3>Header Into The Goal"
+      },
+      "date": 1421995114784
+    },
+    {
+      "type": "remove",
+      "id": "1b20f56d59386660",
+      "date": 1421995122341
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb5ccc684006953b"
+      },
+      "id": "cb5ccc684006953b",
+      "type": "add",
+      "after": "70df4fee15bef6a2",
+      "date": 1421995125547
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "9a20e7ba62513780",
+        "74106bb911c1db7a",
+        "357bd680b17bb5f4",
+        "63ad2e58eecdd9e5",
+        "d61bcc89a2ddd936",
+        "8f40b6f4ae9b7811",
+        "0816b5e4ac44b5d3",
+        "6fd538a85517a584",
+        "cb5ccc684006953b",
+        "70df4fee15bef6a2"
+      ],
+      "id": "70df4fee15bef6a2",
+      "date": 1421995135912
+    },
+    {
+      "type": "edit",
+      "id": "cb5ccc684006953b",
+      "item": {
+        "type": "html",
+        "id": "cb5ccc684006953b",
+        "text": "<h3>Header Into The Goal"
+      },
+      "date": 1421995149455
+    },
+    {
+      "type": "remove",
+      "id": "70df4fee15bef6a2",
+      "date": 1421995190859
     }
   ]
 }

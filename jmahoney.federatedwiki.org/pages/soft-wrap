@@ -1,0 +1,81 @@
+{
+  "title": "Soft Wrap",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ba66ece84120a06f",
+      "text": "The editor inserts line breaks into the displayed text of a file according to a column width that you specify."
+    },
+    {
+      "type": "paragraph",
+      "id": "bbd2dd21ce4b97d9",
+      "text": "It does NOT insert actual linebreaks into the file. Rather, it displays very long lines (those longer than 80, 67 or whatever number of columns you specify) as shorter lines."
+    },
+    {
+      "type": "paragraph",
+      "id": "14f72b4784b25fa6",
+      "text": "This is to make your work easier, i.e., you don't have to scroll back and forth while editing a very long line of code, but the line stays as one line without any line breaks in the actual file."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Soft Wrap",
+        "story": []
+      },
+      "date": 1422125240610
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba66ece84120a06f"
+      },
+      "id": "ba66ece84120a06f",
+      "type": "add",
+      "date": 1422125251079
+    },
+    {
+      "type": "edit",
+      "id": "ba66ece84120a06f",
+      "item": {
+        "type": "paragraph",
+        "id": "ba66ece84120a06f",
+        "text": "The editor inserts line breaks into the displayed text of a file according to a column width that you specify."
+      },
+      "date": 1422125263611
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bbd2dd21ce4b97d9",
+        "text": "It does NOT insert actual linebreaks into the file. Rather, it displays very long lines (those longer than 80, 67 or whatever number of columns you specify) as shorter lines. This is to make your work easier, i.e., you don't have to scroll back and forth while editing a very long line of code, but the line stays as one line without any line breaks in the actual file."
+      },
+      "id": "bbd2dd21ce4b97d9",
+      "type": "add",
+      "after": "ba66ece84120a06f",
+      "date": 1422125263625
+    },
+    {
+      "type": "edit",
+      "id": "bbd2dd21ce4b97d9",
+      "item": {
+        "type": "paragraph",
+        "id": "bbd2dd21ce4b97d9",
+        "text": "It does NOT insert actual linebreaks into the file. Rather, it displays very long lines (those longer than 80, 67 or whatever number of columns you specify) as shorter lines."
+      },
+      "date": 1422125270330
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14f72b4784b25fa6",
+        "text": "This is to make your work easier, i.e., you don't have to scroll back and forth while editing a very long line of code, but the line stays as one line without any line breaks in the actual file."
+      },
+      "id": "14f72b4784b25fa6",
+      "type": "add",
+      "after": "bbd2dd21ce4b97d9",
+      "date": 1422125270357
+    }
+  ]
+}

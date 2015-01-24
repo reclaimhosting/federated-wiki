@@ -30,6 +30,11 @@
       "type": "paragraph",
       "id": "d85adb42306feb1d",
       "text": "[[23 Jan - EDC3100 process analytics]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c59439ae6046b7fa",
+      "text": "[[25 Jan - EDC3100 PA - activity]]"
     }
   ],
   "journal": [
@@ -140,6 +145,58 @@
     {
       "type": "fork",
       "date": 1421966994565
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c59439ae6046b7fa"
+      },
+      "id": "c59439ae6046b7fa",
+      "type": "add",
+      "after": "d85adb42306feb1d",
+      "date": 1422138696090,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "c59439ae6046b7fa",
+      "item": {
+        "type": "paragraph",
+        "id": "c59439ae6046b7fa",
+        "text": "[[25 Jan - EDC3100 PA - activity]]"
+      },
+      "date": 1422138725874,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422138736363,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422138738742,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422138786111
     }
   ]
 }

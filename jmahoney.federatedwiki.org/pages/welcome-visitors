@@ -22,8 +22,11 @@
       "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
     {
-      "type": "factory",
-      "id": "7894ad1ae6186ecd"
+      "type": "reference",
+      "id": "7894ad1ae6186ecd",
+      "site": "federatedwiki.org",
+      "title": "Get A Wiki",
+      "text": "* Navigate to the subdomain of your choice such as [http://hist289.federatedwiki.org hist289.federatedwiki.org]."
     },
     {
       "type": "markdown",
@@ -1723,6 +1726,18 @@
         "text": "*list\n*items\n[]check it\nhelp\n____\nme\n=="
       },
       "date": 1422079526732
+    },
+    {
+      "type": "edit",
+      "id": "7894ad1ae6186ecd",
+      "item": {
+        "type": "reference",
+        "id": "7894ad1ae6186ecd",
+        "site": "federatedwiki.org",
+        "title": "Get A Wiki",
+        "text": "* Navigate to the subdomain of your choice such as [http://hist289.federatedwiki.org hist289.federatedwiki.org]."
+      },
+      "date": 1422080751336
     }
   ]
 }

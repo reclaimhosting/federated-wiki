@@ -1,0 +1,39 @@
+{
+  "title": "MacBook Linux",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "903b33b1b61d7249",
+      "text": "Friday, July 19 A.D. 2013 \n[modified Sept. 1 A.D. 2013 to fix the apt-get command]\n\nI have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time\nnow. I was using version 12.10, which supported sound and wifi out-\nof-the-box. I recently upgraded to 13.04, which involved a\nregression in the wifi support to no support at all.\n\nSo, I rooted around and found this article:\nhttps://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx\nwhich mentioned the b43 driver. I pretty much just followed the\ninstructions there to install the b43 driver, and I now have wifi\nsupport. The actual commands I ran are as follows:\nsudo apt-get install firmware-b43-installer\nsudo modprobe b43\n\nTo convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "MacBook Linux",
+        "story": []
+      },
+      "date": 1422123385223
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "903b33b1b61d7249"
+      },
+      "id": "903b33b1b61d7249",
+      "type": "add",
+      "date": 1422123388171
+    },
+    {
+      "type": "edit",
+      "id": "903b33b1b61d7249",
+      "item": {
+        "type": "paragraph",
+        "id": "903b33b1b61d7249",
+        "text": "Friday, July 19 A.D. 2013 \n[modified Sept. 1 A.D. 2013 to fix the apt-get command]\n\nI have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time\nnow. I was using version 12.10, which supported sound and wifi out-\nof-the-box. I recently upgraded to 13.04, which involved a\nregression in the wifi support to no support at all.\n\nSo, I rooted around and found this article:\nhttps://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx\nwhich mentioned the b43 driver. I pretty much just followed the\ninstructions there to install the b43 driver, and I now have wifi\nsupport. The actual commands I ran are as follows:\nsudo apt-get install firmware-b43-installer\nsudo modprobe b43\n\nTo convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+      },
+      "date": 1422123401915
+    }
+  ]
+}

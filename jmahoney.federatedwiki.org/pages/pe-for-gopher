@@ -1,0 +1,94 @@
+{
+  "title": "Pe for Gopher",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "58f14ce9922a4db5",
+      "text": "Started using 'Pe' to edit gopher files. A few things to make this work well:"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e2889ee1bc8f594",
+      "text": "I changed the 'Preferred application' to 'Pe' (The Programmer's Editor) for all text filetypes whose 'Preferred application' is set to 'None' thusly: Deskbar Menu --> Preferences --> FileTypes --> 'text' in left-hand column --> Select 'Pe' from dropdown menu in 'Preferred application' section."
+    },
+    {
+      "type": "paragraph",
+      "id": "26f6ba83de148e32",
+      "text": "Note that this does not change the 'Preferred application' for filetypes that already have one set, e.g., RTF files will still be opened in StyledEdit."
+    },
+    {
+      "type": "paragraph",
+      "id": "38c562fda834b1fe",
+      "text": "I also learned how to set the column width for files to 67 and how to insert hard line breaks using 'Pe'. (This is to support the historical gopher clients and to maintain readability on modern clients that may not have a column width limit. If you want to know more about the historical clients' limits, contact me or find the toybox gopher server.) For now this has to be done to each file individually (they are initially set to the standard of 80\ncolumns)."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4d58f4d98f0d486",
+      "text": "TODO: write 'Pe' syntax highlighting definition for gophermap files?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pe for Gopher",
+        "story": []
+      },
+      "date": 1422127823333
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "58f14ce9922a4db5",
+        "text": "Started using 'Pe' to edit gopher files. A few things to make this work well:"
+      },
+      "id": "58f14ce9922a4db5",
+      "date": 1422127826714
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9e2889ee1bc8f594",
+        "text": "I changed the 'Preferred application' to 'Pe' (The Programmer's Editor) for all text filetypes whose 'Preferred application' is set to 'None' thusly: Deskbar Menu --> Preferences --> FileTypes --> 'text' in left-hand column --> Select 'Pe' from dropdown menu in 'Preferred application' section."
+      },
+      "after": "58f14ce9922a4db5",
+      "id": "9e2889ee1bc8f594",
+      "date": 1422127864679
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "26f6ba83de148e32",
+        "text": "Note that this does not change the 'Preferred application' for filetypes that already have one set, e.g., RTF files will still be opened in StyledEdit."
+      },
+      "after": "9e2889ee1bc8f594",
+      "id": "26f6ba83de148e32",
+      "date": 1422127871526
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "38c562fda834b1fe",
+        "text": "I also learned how to set the column width for files to 67 and how to insert hard line breaks using 'Pe'. (This is to support the historical gopher clients and to maintain readability on modern clients that may not have a column width limit. If you want to know more about the historical clients' limits, contact me or find the toybox gopher server.) For now this has to be done to each file individually (they are initially set to the standard of 80\ncolumns)."
+      },
+      "after": "26f6ba83de148e32",
+      "id": "38c562fda834b1fe",
+      "date": 1422127879166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c4d58f4d98f0d486",
+        "text": "TODO: write 'Pe' syntax highlighting definition for gophermap files?"
+      },
+      "after": "38c562fda834b1fe",
+      "id": "c4d58f4d98f0d486",
+      "date": 1422127892615
+    }
+  ]
+}

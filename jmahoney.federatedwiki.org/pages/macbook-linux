@@ -4,7 +4,22 @@
     {
       "type": "paragraph",
       "id": "903b33b1b61d7249",
-      "text": "Friday, July 19 A.D. 2013 \n[modified Sept. 1 A.D. 2013 to fix the apt-get command]\n\nI have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time\nnow. I was using version 12.10, which supported sound and wifi out-\nof-the-box. I recently upgraded to 13.04, which involved a\nregression in the wifi support to no support at all.\n\nSo, I rooted around and found this article:\nhttps://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx\nwhich mentioned the b43 driver. I pretty much just followed the\ninstructions there to install the b43 driver, and I now have wifi\nsupport. The actual commands I ran are as follows:\nsudo apt-get install firmware-b43-installer\nsudo modprobe b43\n\nTo convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+      "text": "I have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
+    },
+    {
+      "type": "code",
+      "id": "04345daeabd30096",
+      "text": "sudo apt-get install firmware-b43-installer\nsudo modprobe b43"
+    },
+    {
+      "type": "paragraph",
+      "id": "91c6be084e6c4afd",
+      "text": "To convince Linux to load the b43 driver at boot, without having to type 'modprobe b43' after every reboot,  it seems to be necessary to perform the following: 'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this device' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'"
+    },
+    {
+      "type": "paragraph",
+      "id": "11e702317feaa354",
+      "text": "Give Synaptic plenty of time to do it's thing. It seems that it is regenerating the initrd, though the progress meter doesn't really work and no indication is given as to what is going on. It's worth noting that attempting to use the STA/wl driver was utterly futile. The wl module doesn't even seem to exist in the lowlatency kernel supplied by UbuntuStudio."
     }
   ],
   "journal": [
@@ -34,6 +49,125 @@
         "text": "Friday, July 19 A.D. 2013 \n[modified Sept. 1 A.D. 2013 to fix the apt-get command]\n\nI have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time\nnow. I was using version 12.10, which supported sound and wifi out-\nof-the-box. I recently upgraded to 13.04, which involved a\nregression in the wifi support to no support at all.\n\nSo, I rooted around and found this article:\nhttps://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx\nwhich mentioned the b43 driver. I pretty much just followed the\ninstructions there to install the b43 driver, and I now have wifi\nsupport. The actual commands I ran are as follows:\nsudo apt-get install firmware-b43-installer\nsudo modprobe b43\n\nTo convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
       },
       "date": 1422123401915
+    },
+    {
+      "type": "edit",
+      "id": "903b33b1b61d7249",
+      "item": {
+        "type": "paragraph",
+        "id": "903b33b1b61d7249",
+        "text": "I have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
+      },
+      "date": 1422127566510
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "739093437fa1753c",
+        "text": "sudo apt-get install firmware-b43-installer\nsudo modprobe b43\n\nTo convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+      },
+      "id": "739093437fa1753c",
+      "type": "add",
+      "after": "903b33b1b61d7249",
+      "date": 1422127566556
+    },
+    {
+      "type": "edit",
+      "id": "739093437fa1753c",
+      "item": {
+        "type": "paragraph",
+        "id": "739093437fa1753c",
+        "text": "sudo apt-get install firmware-b43-installer\nsudo modprobe b43"
+      },
+      "date": 1422127570634
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "91c6be084e6c4afd",
+        "text": "To convince Linux to load the b43 driver at boot, without having to\ntype 'modprobe b43' after every reboot,  it seems to be necessary\nto perform the following:\n'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this\ndevice' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'\n\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+      },
+      "id": "91c6be084e6c4afd",
+      "type": "add",
+      "after": "739093437fa1753c",
+      "date": 1422127570662
+    },
+    {
+      "type": "edit",
+      "id": "91c6be084e6c4afd",
+      "item": {
+        "type": "paragraph",
+        "id": "91c6be084e6c4afd",
+        "text": "To convince Linux to load the b43 driver at boot, without having to type 'modprobe b43' after every reboot,  it seems to be necessary to perform the following: 'Start menu' --> System --> Synaptic Package Manager --> Settings\n--> Repositories --> Additional Drivers --> Click 'Do not use this device' under 'Broadcom Corporation: BCM4321 802.11 a/b/g/n'"
+      },
+      "date": 1422127602860
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "11e702317feaa354",
+        "text": "\nGive Synaptic plenty of time to do it's thing. It seems that it is\nregenerating the initrd, though the progress meter doesn't really\nwork and no indication is given as to what is going on.\n\nIt's worth noting that attempting to use the STA/wl driver was\nutterly futile. The wl module doesn't even seem to exist in the\nlowlatency kernel supplied by UbuntuStudio."
+      },
+      "id": "11e702317feaa354",
+      "type": "add",
+      "after": "91c6be084e6c4afd",
+      "date": 1422127602890
+    },
+    {
+      "type": "edit",
+      "id": "11e702317feaa354",
+      "item": {
+        "type": "paragraph",
+        "id": "11e702317feaa354",
+        "text": "Give Synaptic plenty of time to do it's thing. It seems that it is regenerating the initrd, though the progress meter doesn't really work and no indication is given as to what is going on. It's worth noting that attempting to use the STA/wl driver was utterly futile. The wl module doesn't even seem to exist in the lowlatency kernel supplied by UbuntuStudio."
+      },
+      "date": 1422127640891
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04345daeabd30096"
+      },
+      "id": "04345daeabd30096",
+      "type": "add",
+      "after": "11e702317feaa354",
+      "date": 1422127648648
+    },
+    {
+      "type": "edit",
+      "id": "04345daeabd30096",
+      "item": {
+        "type": "code",
+        "id": "04345daeabd30096",
+        "text": "h"
+      },
+      "date": 1422127654427
+    },
+    {
+      "type": "remove",
+      "id": "739093437fa1753c",
+      "date": 1422127662623
+    },
+    {
+      "type": "edit",
+      "id": "04345daeabd30096",
+      "item": {
+        "type": "code",
+        "id": "04345daeabd30096",
+        "text": "sudo apt-get install firmware-b43-installer\nsudo modprobe b43"
+      },
+      "date": 1422127666385
+    },
+    {
+      "type": "move",
+      "order": [
+        "903b33b1b61d7249",
+        "04345daeabd30096",
+        "91c6be084e6c4afd",
+        "11e702317feaa354"
+      ],
+      "id": "04345daeabd30096",
+      "date": 1422127674162
     }
   ]
 }

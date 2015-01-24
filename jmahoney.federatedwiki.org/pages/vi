@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "511869a3dd1eb827",
-      "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different."
     },
     {
       "type": "pagefold",
@@ -342,6 +342,67 @@
       ],
       "id": "f5c6e64a121f102b",
       "date": 1422124259831
+    },
+    {
+      "type": "edit",
+      "id": "511869a3dd1eb827",
+      "item": {
+        "type": "paragraph",
+        "id": "511869a3dd1eb827",
+        "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's _vi Editor Pocket Reference._\n"
+      },
+      "date": 1422127419042
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e83f3a11ec861f4f"
+      },
+      "id": "e83f3a11ec861f4f",
+      "type": "add",
+      "after": "03aa8b84dfb7b273",
+      "date": 1422127422994
+    },
+    {
+      "type": "edit",
+      "id": "e83f3a11ec861f4f",
+      "item": {
+        "type": "markdown",
+        "id": "e83f3a11ec861f4f",
+        "text": "*"
+      },
+      "date": 1422127429483
+    },
+    {
+      "type": "remove",
+      "id": "e83f3a11ec861f4f",
+      "date": 1422127442451
+    },
+    {
+      "type": "edit",
+      "id": "511869a3dd1eb827",
+      "item": {
+        "type": "paragraph",
+        "id": "511869a3dd1eb827",
+        "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different."
+      },
+      "date": 1422127455862
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "60b72982206aa34e",
+        "text": "I use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's _vi Editor Pocket Reference._\n"
+      },
+      "id": "60b72982206aa34e",
+      "type": "add",
+      "after": "511869a3dd1eb827",
+      "date": 1422127455901
+    },
+    {
+      "type": "remove",
+      "id": "60b72982206aa34e",
+      "date": 1422127461750
     }
   ]
 }

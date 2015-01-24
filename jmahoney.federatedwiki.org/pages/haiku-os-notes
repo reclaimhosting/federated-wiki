@@ -3,33 +3,13 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "cb247b67c9de0994",
-      "text": "To add a program to the Deskbar menu in, for example, the 'Applications' folder, place a symbolic link to the executable file in 'home/config/be/Applications.'"
+      "id": "fde2e7d1d4a921d6",
+      "text": "[[Pe for Gopher]]"
     },
     {
       "type": "paragraph",
       "id": "00e93656262eaa2c",
       "text": "To change the scrollbar behavior to the historic BeOS 'double arrows' (up and down arrows on both the top and bottom of the scrollbar, left and right arrows on both the left and right of the scrollbar):\nDeskbar Menu --> Preferences --> Appearance --> 'Look and feel' tab --> Check ('x') the 'Use double scrollbar arrows' checkbox."
-    },
-    {
-      "type": "paragraph",
-      "id": "58f14ce9922a4db5",
-      "text": "Started using 'Pe' to edit gopher files. A few things to make this work well:"
-    },
-    {
-      "type": "paragraph",
-      "id": "9e2889ee1bc8f594",
-      "text": "I changed the 'Preferred application' to 'Pe' (The Programmer's Editor) for all text filetypes whose 'Preferred application' is set to 'None' thusly: Deskbar Menu --> Preferences --> FileTypes --> 'text' in left-hand column --> Select 'Pe' from dropdown menu in 'Preferred application' section."
-    },
-    {
-      "type": "paragraph",
-      "id": "26f6ba83de148e32",
-      "text": "Note that this does not change the 'Preferred application' for filetypes that already have one set, e.g., RTF files will still be opened in StyledEdit."
-    },
-    {
-      "type": "paragraph",
-      "id": "38c562fda834b1fe",
-      "text": "I also learned how to set the column width for files to 67 and how to insert hard line breaks using 'Pe'. (This is to support the historical gopher clients and to maintain readability on modern clients that may not have a column width limit. If you want to know more about the historical clients' limits, contact me or find the toybox gopher server.) For now this has to be done to each file individually (they are initially set to the standard of 80\ncolumns)."
     },
     {
       "type": "paragraph",
@@ -44,7 +24,12 @@
     {
       "type": "paragraph",
       "id": "16e503139299b081",
-      "text": "[[Hard Wrap]]/[[Line Break]] - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file. To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function. TODO: write 'Pe' syntax highlighting definition for gophermap files?"
+      "text": "[[Hard Wrap]]/[[Line Break]] - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file. To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+    },
+    {
+      "type": "paragraph",
+      "id": "cb247b67c9de0994",
+      "text": "To add a program to the Deskbar menu in, for example, the 'Applications' folder, place a symbolic link to the executable file in 'home/config/be/Applications.'"
     }
   ],
   "journal": [
@@ -272,6 +257,136 @@
         "text": "[[Hard Wrap]]/[[Line Break]] - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file. To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function. TODO: write 'Pe' syntax highlighting definition for gophermap files?"
       },
       "date": 1422125575312
+    },
+    {
+      "type": "move",
+      "order": [
+        "00e93656262eaa2c",
+        "58f14ce9922a4db5",
+        "9e2889ee1bc8f594",
+        "26f6ba83de148e32",
+        "38c562fda834b1fe",
+        "22841f2c04df6210",
+        "c39bb87b71f574b9",
+        "16e503139299b081",
+        "cb247b67c9de0994"
+      ],
+      "id": "cb247b67c9de0994",
+      "date": 1422127739808
+    },
+    {
+      "type": "edit",
+      "id": "16e503139299b081",
+      "item": {
+        "type": "paragraph",
+        "id": "16e503139299b081",
+        "text": "[[Hard Wrap]]/[[Line Break]] - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file. To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      },
+      "date": 1422127746462
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c4d58f4d98f0d486",
+        "text": "TODO: write 'Pe' syntax highlighting definition for gophermap files?"
+      },
+      "id": "c4d58f4d98f0d486",
+      "type": "add",
+      "after": "16e503139299b081",
+      "date": 1422127746505
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fde2e7d1d4a921d6"
+      },
+      "id": "fde2e7d1d4a921d6",
+      "type": "add",
+      "after": "cb247b67c9de0994",
+      "date": 1422127768465
+    },
+    {
+      "type": "edit",
+      "id": "fde2e7d1d4a921d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fde2e7d1d4a921d6",
+        "text": "[[Pe for gopher]]"
+      },
+      "date": 1422127781309
+    },
+    {
+      "type": "edit",
+      "id": "fde2e7d1d4a921d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fde2e7d1d4a921d6",
+        "text": "[[Pe for Gopher]]"
+      },
+      "date": 1422127807322
+    },
+    {
+      "type": "move",
+      "order": [
+        "fde2e7d1d4a921d6",
+        "00e93656262eaa2c",
+        "58f14ce9922a4db5",
+        "9e2889ee1bc8f594",
+        "26f6ba83de148e32",
+        "38c562fda834b1fe",
+        "22841f2c04df6210",
+        "c39bb87b71f574b9",
+        "16e503139299b081",
+        "c4d58f4d98f0d486",
+        "cb247b67c9de0994"
+      ],
+      "id": "fde2e7d1d4a921d6",
+      "date": 1422127817327
+    },
+    {
+      "type": "remove",
+      "id": "58f14ce9922a4db5",
+      "date": 1422127826707
+    },
+    {
+      "type": "edit",
+      "id": "fde2e7d1d4a921d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fde2e7d1d4a921d6",
+        "text": "[[Pe For Gopher]]"
+      },
+      "date": 1422127835071
+    },
+    {
+      "type": "edit",
+      "id": "fde2e7d1d4a921d6",
+      "item": {
+        "type": "paragraph",
+        "id": "fde2e7d1d4a921d6",
+        "text": "[[Pe for Gopher]]"
+      },
+      "date": 1422127857945
+    },
+    {
+      "type": "remove",
+      "id": "9e2889ee1bc8f594",
+      "date": 1422127864673
+    },
+    {
+      "type": "remove",
+      "id": "26f6ba83de148e32",
+      "date": 1422127871522
+    },
+    {
+      "type": "remove",
+      "id": "38c562fda834b1fe",
+      "date": 1422127879158
+    },
+    {
+      "type": "remove",
+      "id": "c4d58f4d98f0d486",
+      "date": 1422127892608
     }
   ]
 }

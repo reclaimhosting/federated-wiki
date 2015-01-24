@@ -9,7 +9,7 @@
     {
       "type": "html",
       "id": "81b1c51b400ce9e7",
-      "text": "Here are some things I keep notes on:\n<li>[[Recording]]\n<li>[[Federated Wiki Notes]]"
+      "text": "Here are some things I keep notes on:\n[[Recording]]\n[[Federated Wiki Notes]]"
     },
     {
       "type": "pagefold",
@@ -20,6 +20,15 @@
       "type": "paragraph",
       "id": "d61bcc89a2ddd936",
       "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "factory",
+      "id": "7894ad1ae6186ecd"
+    },
+    {
+      "type": "markdown",
+      "id": "af6fc40081e82961",
+      "text": "*list\n*items\n[]check it\nhelp\n____\nme\n=="
     }
   ],
   "journal": [
@@ -1618,6 +1627,102 @@
       "type": "remove",
       "id": "97dc3c44c89f1566",
       "date": 1422063700169
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7894ad1ae6186ecd"
+      },
+      "id": "7894ad1ae6186ecd",
+      "type": "add",
+      "after": "d61bcc89a2ddd936",
+      "date": 1422079437482
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "357bd680b17bb5f4",
+        "d61bcc89a2ddd936",
+        "81b1c51b400ce9e7",
+        "7894ad1ae6186ecd"
+      ],
+      "id": "81b1c51b400ce9e7",
+      "date": 1422079444465
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "357bd680b17bb5f4",
+        "d61bcc89a2ddd936",
+        "7894ad1ae6186ecd",
+        "81b1c51b400ce9e7"
+      ],
+      "id": "81b1c51b400ce9e7",
+      "date": 1422079446668
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "81b1c51b400ce9e7",
+        "357bd680b17bb5f4",
+        "d61bcc89a2ddd936",
+        "7894ad1ae6186ecd"
+      ],
+      "id": "81b1c51b400ce9e7",
+      "date": 1422079452645
+    },
+    {
+      "type": "edit",
+      "id": "81b1c51b400ce9e7",
+      "item": {
+        "type": "html",
+        "id": "81b1c51b400ce9e7",
+        "text": "Here are some things I keep notes on:\n[[Recording]]\n[[Federated Wiki Notes]]"
+      },
+      "date": 1422079470798
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af6fc40081e82961"
+      },
+      "id": "af6fc40081e82961",
+      "type": "add",
+      "after": "7894ad1ae6186ecd",
+      "date": 1422079487430
+    },
+    {
+      "type": "edit",
+      "id": "af6fc40081e82961",
+      "item": {
+        "type": "markdown",
+        "id": "af6fc40081e82961",
+        "text": "*list\n*items"
+      },
+      "date": 1422079499051
+    },
+    {
+      "type": "edit",
+      "id": "af6fc40081e82961",
+      "item": {
+        "type": "markdown",
+        "id": "af6fc40081e82961",
+        "text": "*list\n*items\n[]check it"
+      },
+      "date": 1422079509762
+    },
+    {
+      "type": "edit",
+      "id": "af6fc40081e82961",
+      "item": {
+        "type": "markdown",
+        "id": "af6fc40081e82961",
+        "text": "*list\n*items\n[]check it\nhelp\n____\nme\n=="
+      },
+      "date": 1422079526732
     }
   ]
 }

@@ -4,11 +4,37 @@
     {
       "type": "paragraph",
       "id": "f80391d79c90af16",
-      "text": "Run 'fmt' on an open file in (n)vi:\n\n%!fmt\n\n'fmt' is far more useful than 'fold'.\n\nSun. May 12 A.D. 2013\nI am confused that 'man vi' and 'man nvi'\nboth go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      "text": "Run 'fmt' on an open file in (n)vi:"
     },
     {
-      "type": "factory",
-      "id": "c44a4121a94b6804"
+      "type": "code",
+      "id": "c44a4121a94b6804",
+      "text": "%!fmt"
+    },
+    {
+      "type": "paragraph",
+      "id": "c77fa1ccbfd74914",
+      "text": "'fmt' is far more useful than 'fold'."
+    },
+    {
+      "type": "paragraph",
+      "id": "511869a3dd1eb827",
+      "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "f5c6e64a121f102b",
+      "text": "Deprecated post-fmt discovery"
+    },
+    {
+      "type": "paragraph",
+      "id": "ac2d0d88b721ad84",
+      "text": "I use nvi to be able to 'set co=67'. This is so I can manually enter carriage returns when a line goes past the 67 column limit for compatibility with 'historic' gopher clients such as UMN 'gopher'. Fun."
+    },
+    {
+      "type": "markdown",
+      "id": "03aa8b84dfb7b273",
+      "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. I am a total n00b, but I am starting to rock the manpage and also an old edition of Robbins's _vi Editor Pocket Reference_."
     }
   ],
   "journal": [
@@ -58,6 +84,264 @@
         "text": "Run 'fmt' on an open file in (n)vi:\n\n%!fmt\n\n'fmt' is far more useful than 'fold'.\n\nSun. May 12 A.D. 2013\nI am confused that 'man vi' and 'man nvi'\nboth go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
       },
       "date": 1422123690116
+    },
+    {
+      "type": "edit",
+      "id": "c44a4121a94b6804",
+      "item": {
+        "type": "code",
+        "id": "c44a4121a94b6804",
+        "text": "a"
+      },
+      "date": 1422123700325
+    },
+    {
+      "type": "edit",
+      "id": "f80391d79c90af16",
+      "item": {
+        "type": "paragraph",
+        "id": "f80391d79c90af16",
+        "text": "Run 'fmt' on an open file in (n)vi:"
+      },
+      "date": 1422123710864
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c77fa1ccbfd74914",
+        "text": "\n%!fmt\n\n'fmt' is far more useful than 'fold'.\n\nSun. May 12 A.D. 2013\nI am confused that 'man vi' and 'man nvi'\nboth go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "id": "c77fa1ccbfd74914",
+      "type": "add",
+      "after": "f80391d79c90af16",
+      "date": 1422123710895
+    },
+    {
+      "type": "edit",
+      "id": "c77fa1ccbfd74914",
+      "item": {
+        "type": "paragraph",
+        "id": "c77fa1ccbfd74914",
+        "text": "'fmt' is far more useful than 'fold'.\n\nSun. May 12 A.D. 2013\nI am confused that 'man vi' and 'man nvi'\nboth go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "date": 1422123724739
+    },
+    {
+      "type": "edit",
+      "id": "c44a4121a94b6804",
+      "item": {
+        "type": "code",
+        "id": "c44a4121a94b6804",
+        "text": "%!fmt"
+      },
+      "date": 1422123731064
+    },
+    {
+      "type": "move",
+      "order": [
+        "f80391d79c90af16",
+        "c44a4121a94b6804",
+        "c77fa1ccbfd74914"
+      ],
+      "id": "c44a4121a94b6804",
+      "date": 1422123734762
+    },
+    {
+      "type": "edit",
+      "id": "c77fa1ccbfd74914",
+      "item": {
+        "type": "paragraph",
+        "id": "c77fa1ccbfd74914",
+        "text": "'fmt' is far more useful than 'fold'."
+      },
+      "date": 1422123751386
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "511869a3dd1eb827",
+        "text": "\nI am confused that 'man vi' and 'man nvi'\nboth go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "id": "511869a3dd1eb827",
+      "type": "add",
+      "after": "c77fa1ccbfd74914",
+      "date": 1422123751420
+    },
+    {
+      "type": "edit",
+      "id": "511869a3dd1eb827",
+      "item": {
+        "type": "paragraph",
+        "id": "511869a3dd1eb827",
+        "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different.\n\nI use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "date": 1422123803094
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ac2d0d88b721ad84",
+        "text": "I use nvi to be able to 'set co=67'. This is so I can manually\nenter carriage returns when a line goes past the 67 column limit\nfor compatibility with 'historic' gopher clients such as UMN\n'gopher'. Fun. I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "id": "ac2d0d88b721ad84",
+      "type": "add",
+      "after": "511869a3dd1eb827",
+      "date": 1422123841100
+    },
+    {
+      "type": "edit",
+      "id": "ac2d0d88b721ad84",
+      "item": {
+        "type": "paragraph",
+        "id": "ac2d0d88b721ad84",
+        "text": "I use nvi to be able to 'set co=67'. This is so I can manually enter carriage returns when a line goes past the 67 column limit for compatibility with 'historic' gopher clients such as UMN 'gopher'. Fun."
+      },
+      "date": 1422123865491
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14a3f047e643f409",
+        "text": "I am wondering if there is a better way to manage\nthis (probably--it's UNIX), but it's my solution so far. Feel free\nto e-mail me to school me on (n)vi usage. I am a total n00b, but\nI am starting to rock the manpage and also an old edition of\nRobbins's vi Editor Pocket Reference.\n"
+      },
+      "id": "14a3f047e643f409",
+      "type": "add",
+      "after": "ac2d0d88b721ad84",
+      "date": 1422123865534
+    },
+    {
+      "type": "edit",
+      "id": "14a3f047e643f409",
+      "item": {
+        "type": "paragraph",
+        "id": "14a3f047e643f409",
+        "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. Feel free to e-mail me to school me on (n)vi usage. I am a total n00b, but I am starting to rock the manpage and also an old edition of Robbins's vi Editor Pocket Reference.\n"
+      },
+      "date": 1422123936511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "162d30f7e1d83cda"
+      },
+      "id": "162d30f7e1d83cda",
+      "type": "add",
+      "after": "14a3f047e643f409",
+      "date": 1422123952232
+    },
+    {
+      "type": "edit",
+      "id": "162d30f7e1d83cda",
+      "item": {
+        "type": "markdown",
+        "id": "162d30f7e1d83cda",
+        "text": "*vi Editor Pocket Reference.*"
+      },
+      "date": 1422123971938
+    },
+    {
+      "type": "remove",
+      "id": "162d30f7e1d83cda",
+      "date": 1422123980622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "03aa8b84dfb7b273"
+      },
+      "id": "03aa8b84dfb7b273",
+      "type": "add",
+      "after": "14a3f047e643f409",
+      "date": 1422124015170
+    },
+    {
+      "type": "edit",
+      "id": "03aa8b84dfb7b273",
+      "item": {
+        "type": "markdown",
+        "id": "03aa8b84dfb7b273",
+        "text": "_hey_"
+      },
+      "date": 1422124020736
+    },
+    {
+      "type": "edit",
+      "id": "14a3f047e643f409",
+      "item": {
+        "type": "paragraph",
+        "id": "14a3f047e643f409",
+        "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. Feel free to e-mail me to school me on (n)vi usage. I am a total n00b, but I am starting to rock the manpage and also an old edition of _Robbins's vi Editor Pocket Reference_.\n"
+      },
+      "date": 1422124032959
+    },
+    {
+      "type": "remove",
+      "id": "14a3f047e643f409",
+      "date": 1422124056187
+    },
+    {
+      "type": "edit",
+      "id": "03aa8b84dfb7b273",
+      "item": {
+        "type": "markdown",
+        "id": "03aa8b84dfb7b273",
+        "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. Feel free to e-mail me to school me on (n)vi usage. I am a total n00b, but I am starting to rock the manpage and also an old edition of _Robbins's vi Editor Pocket Reference_."
+      },
+      "date": 1422124060753
+    },
+    {
+      "type": "edit",
+      "id": "03aa8b84dfb7b273",
+      "item": {
+        "type": "markdown",
+        "id": "03aa8b84dfb7b273",
+        "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. I am a total n00b, but I am starting to rock the manpage and also an old edition of _Robbins's vi Editor Pocket Reference_."
+      },
+      "date": 1422124082200
+    },
+    {
+      "type": "edit",
+      "id": "03aa8b84dfb7b273",
+      "item": {
+        "type": "markdown",
+        "id": "03aa8b84dfb7b273",
+        "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. I am a total n00b, but I am starting to rock the manpage and also an old edition of Robbins's _vi Editor Pocket Reference_."
+      },
+      "date": 1422124092445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5c6e64a121f102b"
+      },
+      "id": "f5c6e64a121f102b",
+      "type": "add",
+      "after": "03aa8b84dfb7b273",
+      "date": 1422124224447
+    },
+    {
+      "type": "edit",
+      "id": "f5c6e64a121f102b",
+      "item": {
+        "type": "pagefold",
+        "id": "f5c6e64a121f102b",
+        "text": "Deprecated post-fmt discovery"
+      },
+      "date": 1422124255587
+    },
+    {
+      "type": "move",
+      "order": [
+        "f80391d79c90af16",
+        "c44a4121a94b6804",
+        "c77fa1ccbfd74914",
+        "511869a3dd1eb827",
+        "f5c6e64a121f102b",
+        "ac2d0d88b721ad84",
+        "03aa8b84dfb7b273"
+      ],
+      "id": "f5c6e64a121f102b",
+      "date": 1422124259831
     }
   ]
 }

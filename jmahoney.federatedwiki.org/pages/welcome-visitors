@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Hello. Salve. Xaiph. My name is James Mahoney."
+      "text": "Hello. Salve. Xaiph."
     },
     {
       "type": "paragraph",
@@ -13,13 +13,13 @@
     },
     {
       "type": "paragraph",
-      "id": "db4f190ec72403ca",
-      "text": "This is my [[Federated Wiki]]. Here is a very small [[User Directory]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] "
+      "id": "91f5c89898adef2d",
+      "text": "Here are some things I keep notes on: [[Notes]]"
     },
     {
-      "type": "markdown",
-      "id": "2e5a51cc7615a4de",
-      "text": "Here are some things I keep notes on:\n*[[Recording]]\n*[[Federated Wiki Notes]]"
+      "type": "paragraph",
+      "id": "db4f190ec72403ca",
+      "text": "This is my [[Federated Wiki]]. Here is a very small [[User Directory]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] "
     },
     {
       "type": "pagefold",
@@ -1977,6 +1977,80 @@
       ],
       "id": "d5cfae5b8653e387",
       "date": 1422122480599
+    },
+    {
+      "type": "edit",
+      "id": "2e5a51cc7615a4de",
+      "item": {
+        "type": "markdown",
+        "id": "2e5a51cc7615a4de",
+        "text": "Here are some things I keep notes on: [[Notes]]\n*[[Recording]]\n*[[Federated Wiki Notes]]"
+      },
+      "date": 1422122724198
+    },
+    {
+      "type": "remove",
+      "id": "2e5a51cc7615a4de",
+      "date": 1422122735708
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91f5c89898adef2d"
+      },
+      "id": "91f5c89898adef2d",
+      "type": "add",
+      "after": "d61bcc89a2ddd936",
+      "date": 1422122765493
+    },
+    {
+      "type": "edit",
+      "id": "91f5c89898adef2d",
+      "item": {
+        "type": "paragraph",
+        "id": "91f5c89898adef2d",
+        "text": "Here are some things I keep notes on: [[Notes]]"
+      },
+      "date": 1422122771230
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "d5cfae5b8653e387",
+        "91f5c89898adef2d",
+        "db4f190ec72403ca",
+        "357bd680b17bb5f4",
+        "d61bcc89a2ddd936"
+      ],
+      "id": "91f5c89898adef2d",
+      "date": 1422122776207
+    },
+    {
+      "type": "remove",
+      "id": "91f5c89898adef2d",
+      "date": 1422122857811
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "91f5c89898adef2d",
+        "text": "Here are some things I keep notes on: [[Notes]]"
+      },
+      "after": "d5cfae5b8653e387",
+      "id": "91f5c89898adef2d",
+      "date": 1422122871210
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Hello. Salve. Xaiph."
+      },
+      "date": 1422122945798
     }
   ]
 }

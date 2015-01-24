@@ -4,12 +4,27 @@
     {
       "type": "paragraph",
       "id": "85408b540ae0d7b9",
-      "text": "How do you actually make \"References\"?"
+      "text": "How do you actually make [[References]]"
     },
     {
       "type": "paragraph",
       "id": "0816b5e4ac44b5d3",
       "text": "I don't know how I \"feel\" yet about the CC-BY-SA by default thing, but I guess it's as good as the default copyright status of works without any copyright notice."
+    },
+    {
+      "type": "paragraph",
+      "id": "fd0821c5b20ec131",
+      "text": "Why doesn't my \"favicon\" show up in the browser?"
+    },
+    {
+      "type": "paragraph",
+      "id": "ab5b58918089c2a1",
+      "text": "Is there any way to change the \"Welcome Visitors\" title?"
+    },
+    {
+      "type": "paragraph",
+      "id": "f1e3131a4132d2fc",
+      "text": "How did it know that Green and Blue are simultaneously my favorite colors? Will my \"flag\" colors change if I let this thing stagnate?"
     }
   ],
   "journal": [
@@ -64,6 +79,126 @@
       "after": "85408b540ae0d7b9",
       "id": "0816b5e4ac44b5d3",
       "date": 1422023477013
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd0821c5b20ec131"
+      },
+      "id": "fd0821c5b20ec131",
+      "type": "add",
+      "after": "0816b5e4ac44b5d3",
+      "date": 1422084112977
+    },
+    {
+      "type": "edit",
+      "id": "fd0821c5b20ec131",
+      "item": {
+        "type": "paragraph",
+        "id": "fd0821c5b20ec131",
+        "text": "Why doesn't my \"favicon\" show up in the browser?"
+      },
+      "date": 1422084127013
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab5b58918089c2a1",
+        "text": ""
+      },
+      "id": "ab5b58918089c2a1",
+      "type": "add",
+      "after": "fd0821c5b20ec131",
+      "date": 1422084127045
+    },
+    {
+      "type": "edit",
+      "id": "ab5b58918089c2a1",
+      "item": {
+        "type": "paragraph",
+        "id": "ab5b58918089c2a1",
+        "text": "Is there any way to change the \"Welcome Visitors\" title?"
+      },
+      "date": 1422084138686
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10991eda5f888989",
+        "text": ""
+      },
+      "id": "10991eda5f888989",
+      "type": "add",
+      "after": "ab5b58918089c2a1",
+      "date": 1422084138721
+    },
+    {
+      "type": "remove",
+      "id": "10991eda5f888989",
+      "date": 1422084144215
+    },
+    {
+      "type": "edit",
+      "id": "85408b540ae0d7b9",
+      "item": {
+        "type": "paragraph",
+        "id": "85408b540ae0d7b9",
+        "text": "How do you actually make [[References]]"
+      },
+      "date": 1422084153332
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67851560ae2c0d10",
+        "text": "?"
+      },
+      "id": "67851560ae2c0d10",
+      "type": "add",
+      "after": "85408b540ae0d7b9",
+      "date": 1422084153371
+    },
+    {
+      "type": "remove",
+      "id": "67851560ae2c0d10",
+      "date": 1422084155529
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f1e3131a4132d2fc",
+        "text": ""
+      },
+      "id": "f1e3131a4132d2fc",
+      "type": "add",
+      "after": "ab5b58918089c2a1",
+      "date": 1422084213199
+    },
+    {
+      "type": "edit",
+      "id": "f1e3131a4132d2fc",
+      "item": {
+        "type": "paragraph",
+        "id": "f1e3131a4132d2fc",
+        "text": "How did it know that Green and Blue are simultaneously my favorite colors? Will my \"flag\" colors change if I let this thing stagnate?"
+      },
+      "date": 1422084242192
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cbbb41bc00485053",
+        "text": ""
+      },
+      "id": "cbbb41bc00485053",
+      "type": "add",
+      "after": "f1e3131a4132d2fc",
+      "date": 1422084242225
+    },
+    {
+      "type": "remove",
+      "id": "cbbb41bc00485053",
+      "date": 1422084250298
     }
   ]
 }

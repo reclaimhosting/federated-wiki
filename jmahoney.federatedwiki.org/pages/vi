@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "511869a3dd1eb827",
-      "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\nSDF are different."
+      "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\n[http://sdf.org/ SDF] are different."
     },
     {
       "type": "pagefold",
@@ -35,6 +35,11 @@
       "type": "markdown",
       "id": "03aa8b84dfb7b273",
       "text": "I am wondering if there is a better way to manage this (probably--it's UNIX), but it's my solution so far. I am a total n00b, but I am starting to rock the manpage and also an old edition of Robbins's _vi Editor Pocket Reference_."
+    },
+    {
+      "type": "paragraph",
+      "id": "71320b40bb5130e9",
+      "text": "Written May 12 and May 26 A.D. 2013."
     }
   ],
   "journal": [
@@ -403,6 +408,66 @@
       "type": "remove",
       "id": "60b72982206aa34e",
       "date": 1422127461750
+    },
+    {
+      "type": "edit",
+      "id": "511869a3dd1eb827",
+      "item": {
+        "type": "paragraph",
+        "id": "511869a3dd1eb827",
+        "text": "I am confused that 'man vi' and 'man nvi' both go to the same man page. The features of 'vi' and 'nvi' on\n[http://sdf.org/ SDF] are different."
+      },
+      "date": 1422128233495
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "71320b40bb5130e9"
+      },
+      "id": "71320b40bb5130e9",
+      "type": "add",
+      "after": "03aa8b84dfb7b273",
+      "date": 1422128446756
+    },
+    {
+      "type": "edit",
+      "id": "71320b40bb5130e9",
+      "item": {
+        "type": "paragraph",
+        "id": "71320b40bb5130e9",
+        "text": "Written "
+      },
+      "date": 1422128462005
+    },
+    {
+      "type": "edit",
+      "id": "71320b40bb5130e9",
+      "item": {
+        "type": "paragraph",
+        "id": "71320b40bb5130e9",
+        "text": "Written May 12 and 26 A.D. 2013."
+      },
+      "date": 1422128475436
+    },
+    {
+      "type": "edit",
+      "id": "71320b40bb5130e9",
+      "item": {
+        "type": "paragraph",
+        "id": "71320b40bb5130e9",
+        "text": "Written May 12, 26 A.D. 2013."
+      },
+      "date": 1422128486688
+    },
+    {
+      "type": "edit",
+      "id": "71320b40bb5130e9",
+      "item": {
+        "type": "paragraph",
+        "id": "71320b40bb5130e9",
+        "text": "Written May 12 and May 26 A.D. 2013."
+      },
+      "date": 1422128493056
     }
   ]
 }

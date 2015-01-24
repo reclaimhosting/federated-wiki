@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "11e702317feaa354",
       "text": "Give Synaptic plenty of time to do it's thing. It seems that it is regenerating the initrd, though the progress meter doesn't really work and no indication is given as to what is going on. It's worth noting that attempting to use the STA/wl driver was utterly futile. The wl module doesn't even seem to exist in the lowlatency kernel supplied by UbuntuStudio."
+    },
+    {
+      "type": "paragraph",
+      "id": "cb6ec97e0513778b",
+      "text": "Written July 19 A.D. 2013 and Sept. 1 A.D. 2013. This is no longer indicative of my current Linux on MacBook setup."
     }
   ],
   "journal": [
@@ -168,6 +173,46 @@
       ],
       "id": "04345daeabd30096",
       "date": 1422127674162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb6ec97e0513778b"
+      },
+      "id": "cb6ec97e0513778b",
+      "type": "add",
+      "after": "11e702317feaa354",
+      "date": 1422128368545
+    },
+    {
+      "type": "edit",
+      "id": "cb6ec97e0513778b",
+      "item": {
+        "type": "paragraph",
+        "id": "cb6ec97e0513778b",
+        "text": "Written "
+      },
+      "date": 1422128372795
+    },
+    {
+      "type": "edit",
+      "id": "cb6ec97e0513778b",
+      "item": {
+        "type": "paragraph",
+        "id": "cb6ec97e0513778b",
+        "text": "Written July 19 A.D. 2013 and Sept."
+      },
+      "date": 1422128395461
+    },
+    {
+      "type": "edit",
+      "id": "cb6ec97e0513778b",
+      "item": {
+        "type": "paragraph",
+        "id": "cb6ec97e0513778b",
+        "text": "Written July 19 A.D. 2013 and Sept. 1 A.D. 2013. This is no longer indicative of my current Linux on MacBook setup."
+      },
+      "date": 1422128420490
     }
   ]
 }

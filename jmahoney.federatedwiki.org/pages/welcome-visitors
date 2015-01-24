@@ -8,6 +8,11 @@
     },
     {
       "type": "paragraph",
+      "id": "d5cfae5b8653e387",
+      "text": "Page about me: [[James Mahoney]]"
+    },
+    {
+      "type": "paragraph",
       "id": "db4f190ec72403ca",
       "text": "This is my [[Federated Wiki]]. Here is a very small [[User Directory]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] "
     },
@@ -1939,6 +1944,39 @@
         "text": "Here are some things I keep notes on:\n*[[Recording]]\n*[[Federated Wiki Notes]]"
       },
       "date": 1422083583006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5cfae5b8653e387"
+      },
+      "id": "d5cfae5b8653e387",
+      "type": "add",
+      "after": "d61bcc89a2ddd936",
+      "date": 1422122452330
+    },
+    {
+      "type": "edit",
+      "id": "d5cfae5b8653e387",
+      "item": {
+        "type": "paragraph",
+        "id": "d5cfae5b8653e387",
+        "text": "Page about me: [[James Mahoney]]"
+      },
+      "date": 1422122475035
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bbd646ff3f44b51",
+        "d5cfae5b8653e387",
+        "db4f190ec72403ca",
+        "2e5a51cc7615a4de",
+        "357bd680b17bb5f4",
+        "d61bcc89a2ddd936"
+      ],
+      "id": "d5cfae5b8653e387",
+      "date": 1422122480599
     }
   ]
 }

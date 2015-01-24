@@ -8,13 +8,6 @@
     },
     {
       "type": "reference",
-      "id": "e95f02e3ea01b70a",
-      "site": "jason.federatedwiki.org",
-      "title": "Jason Green",
-      "text": "Jason Green (jason)"
-    },
-    {
-      "type": "reference",
       "id": "9302476145b71d88",
       "site": "rosano.federatedwiki.org",
       "title": "Rosano Coutinho",
@@ -22,10 +15,17 @@
     },
     {
       "type": "reference",
-      "id": "0c6298446b678ba6",
-      "site": "tim.federatedwiki.org",
-      "title": "Tim Owens",
-      "text": "@timmmmyboy"
+      "id": "a09896322fd64849",
+      "site": "ward.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+    },
+    {
+      "type": "reference",
+      "id": "e95f02e3ea01b70a",
+      "site": "jason.federatedwiki.org",
+      "title": "Jason Green",
+      "text": "Jason Green (jason)"
     },
     {
       "type": "reference",
@@ -36,10 +36,24 @@
     },
     {
       "type": "reference",
-      "id": "a09896322fd64849",
-      "site": "ward.federatedwiki.org",
-      "title": "Ward Cunningham",
-      "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+      "id": "0c6298446b678ba6",
+      "site": "tim.federatedwiki.org",
+      "title": "Tim Owens",
+      "text": "@timmmmyboy"
+    },
+    {
+      "type": "reference",
+      "id": "57c8b416e93cbaaa",
+      "site": "bikepatterns.fed.wiki.org",
+      "title": "Welcome Visitors",
+      "text": "Welcome to the [[Smallest Federated Wiki]] for the [[Bike Patterns]] project.   This is a simple, powerful set of tools to make your neighborhood or city more bike-friendly!"
+    },
+    {
+      "type": "reference",
+      "id": "7a7760bec8df2570",
+      "site": "jgrlicky.fed.wiki.org",
+      "title": "Welcome Visitors",
+      "text": "[[Jason Grlicky]]"
     },
     {
       "type": "reference",
@@ -51,7 +65,7 @@
     {
       "type": "paragraph",
       "id": "278f56692d71b8e5",
-      "text": "Other SFW instances Jason Green follows"
+      "text": "Other SFW instances Jason Green follows:"
     },
     {
       "type": "reference",
@@ -643,6 +657,160 @@
       ],
       "id": "3a550d32f144a281",
       "date": 1422082670938
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "e95f02e3ea01b70a",
+        "0c6298446b678ba6",
+        "dea11b5f742c5089",
+        "a09896322fd64849",
+        "3a550d32f144a281",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "9302476145b71d88",
+      "date": 1422083257867
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "a09896322fd64849",
+        "3a550d32f144a281",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "dea11b5f742c5089",
+      "date": 1422083263496
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "3a550d32f144a281",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "a09896322fd64849",
+      "date": 1422083268247
+    },
+    {
+      "type": "edit",
+      "id": "278f56692d71b8e5",
+      "item": {
+        "type": "paragraph",
+        "id": "278f56692d71b8e5",
+        "text": "Other SFW instances Jason Green follows:"
+      },
+      "date": 1422083275500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57c8b416e93cbaaa"
+      },
+      "id": "57c8b416e93cbaaa",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1422083304523
+    },
+    {
+      "type": "edit",
+      "id": "57c8b416e93cbaaa",
+      "item": {
+        "type": "reference",
+        "id": "57c8b416e93cbaaa",
+        "site": "bikepatterns.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Smallest Federated Wiki]] for the [[Bike Patterns]] project.   This is a simple, powerful set of tools to make your neighborhood or city more bike-friendly!"
+      },
+      "date": 1422083313288
+    },
+    {
+      "type": "edit",
+      "id": "57c8b416e93cbaaa",
+      "item": {
+        "type": "reference",
+        "id": "57c8b416e93cbaaa",
+        "site": "bikepatterns.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Smallest Federated Wiki]] for the [[Bike Patterns]] project.   This is a simple, powerful set of tools to make your neighborhood or city more bike-friendly!"
+      },
+      "date": 1422083313428
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "3a550d32f144a281",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "57c8b416e93cbaaa",
+      "date": 1422083322918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a7760bec8df2570"
+      },
+      "id": "7a7760bec8df2570",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1422083349596
+    },
+    {
+      "type": "edit",
+      "id": "7a7760bec8df2570",
+      "item": {
+        "type": "reference",
+        "id": "7a7760bec8df2570",
+        "site": "jgrlicky.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "[[Jason Grlicky]]"
+      },
+      "date": 1422083352712
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "3a550d32f144a281",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "7a7760bec8df2570",
+      "date": 1422083367471
     }
   ]
 }

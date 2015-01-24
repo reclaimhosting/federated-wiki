@@ -3,6 +3,11 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "cb6ec97e0513778b",
+      "text": "Written July 19 A.D. 2013 and Sept. 1 A.D. 2013. This is no longer indicative of my current Linux on MacBook setup."
+    },
+    {
+      "type": "paragraph",
       "id": "903b33b1b61d7249",
       "text": "I have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
     },
@@ -20,11 +25,6 @@
       "type": "paragraph",
       "id": "11e702317feaa354",
       "text": "Give Synaptic plenty of time to do it's thing. It seems that it is regenerating the initrd, though the progress meter doesn't really work and no indication is given as to what is going on. It's worth noting that attempting to use the STA/wl driver was utterly futile. The wl module doesn't even seem to exist in the lowlatency kernel supplied by UbuntuStudio."
-    },
-    {
-      "type": "paragraph",
-      "id": "cb6ec97e0513778b",
-      "text": "Written July 19 A.D. 2013 and Sept. 1 A.D. 2013. This is no longer indicative of my current Linux on MacBook setup."
     }
   ],
   "journal": [
@@ -213,6 +213,18 @@
         "text": "Written July 19 A.D. 2013 and Sept. 1 A.D. 2013. This is no longer indicative of my current Linux on MacBook setup."
       },
       "date": 1422128420490
+    },
+    {
+      "type": "move",
+      "order": [
+        "cb6ec97e0513778b",
+        "903b33b1b61d7249",
+        "04345daeabd30096",
+        "91c6be084e6c4afd",
+        "11e702317feaa354"
+      ],
+      "id": "cb6ec97e0513778b",
+      "date": 1422128527368
     }
   ]
 }

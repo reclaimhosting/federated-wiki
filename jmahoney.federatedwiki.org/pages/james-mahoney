@@ -3,6 +3,16 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "46ce25a80bd28750",
+      "text": "Man. Baptized Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
+    },
+    {
+      "type": "paragraph",
+      "id": "7728c1a96a80594e",
+      "text": "What else should go here?"
+    },
+    {
+      "type": "paragraph",
       "id": "6eac083e2abb0ba9",
       "text": "Here are some things I keep notes on: [[Notes]]"
     }
@@ -63,6 +73,57 @@
         "text": "Here are some things I keep notes on: [[Notes]]"
       },
       "date": 1422122879504
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46ce25a80bd28750"
+      },
+      "id": "46ce25a80bd28750",
+      "type": "add",
+      "after": "6eac083e2abb0ba9",
+      "date": 1422163305000
+    },
+    {
+      "type": "edit",
+      "id": "46ce25a80bd28750",
+      "item": {
+        "type": "paragraph",
+        "id": "46ce25a80bd28750",
+        "text": "Man. Baptized; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
+      },
+      "date": 1422163377810
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7728c1a96a80594e",
+        "text": "What else should go here?"
+      },
+      "id": "7728c1a96a80594e",
+      "type": "add",
+      "after": "46ce25a80bd28750",
+      "date": 1422163377856
+    },
+    {
+      "type": "move",
+      "order": [
+        "46ce25a80bd28750",
+        "7728c1a96a80594e",
+        "6eac083e2abb0ba9"
+      ],
+      "id": "6eac083e2abb0ba9",
+      "date": 1422163400433
+    },
+    {
+      "type": "edit",
+      "id": "46ce25a80bd28750",
+      "item": {
+        "type": "paragraph",
+        "id": "46ce25a80bd28750",
+        "text": "Man. Baptized Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
+      },
+      "date": 1422163449481
     }
   ]
 }

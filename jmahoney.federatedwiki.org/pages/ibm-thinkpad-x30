@@ -1,0 +1,206 @@
+{
+  "title": "IBM ThinkPad X30",
+  "story": [
+    {
+      "type": "factory",
+      "id": "9bcab02445e25e88"
+    },
+    {
+      "type": "paragraph",
+      "id": "0f57b1dca7ed197e",
+      "text": "It got me through my junior and senior years of college."
+    },
+    {
+      "type": "paragraph",
+      "id": "72927ba4bdb9738e",
+      "text": "I updated the firmware of the WiFi card myself to give it WPA capability. I wish I had recorded the steps to do this as it was quite an adventure. Alas, [[Federated Wiki]] wasn't around yet to make it easy to write and save stuff like this."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a61a2c41f32f83b",
+      "text": "The original hard drive went bad sometime around 2011 or 2012 and was replaced with a 160 \"GB\" drive."
+    },
+    {
+      "type": "paragraph",
+      "id": "e391975c81158359",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "bd1599b9f8b9a83e",
+      "text": "The onboard WiFi card, so painstakingly upgraded, is now somewhat flaky. Sometimes I use a PCMCIA WiFi card."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "IBM ThinkPad X30",
+        "story": []
+      },
+      "date": 1422165130796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9bcab02445e25e88"
+      },
+      "id": "9bcab02445e25e88",
+      "type": "add",
+      "date": 1422165132538
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f57b1dca7ed197e",
+        "text": ""
+      },
+      "id": "0f57b1dca7ed197e",
+      "type": "add",
+      "after": "9bcab02445e25e88",
+      "date": 1422165252836
+    },
+    {
+      "type": "edit",
+      "id": "0f57b1dca7ed197e",
+      "item": {
+        "type": "paragraph",
+        "id": "0f57b1dca7ed197e",
+        "text": "It got me through my junior and senior years of college."
+      },
+      "date": 1422165272564
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "72927ba4bdb9738e",
+        "text": ""
+      },
+      "id": "72927ba4bdb9738e",
+      "type": "add",
+      "after": "0f57b1dca7ed197e",
+      "date": 1422165272593
+    },
+    {
+      "type": "edit",
+      "id": "72927ba4bdb9738e",
+      "item": {
+        "type": "paragraph",
+        "id": "72927ba4bdb9738e",
+        "text": "I updated the firmware of the WiFi card myself to give it WPA capability. I wish I had recorded the steps to do this as it was quite an adventure. Alas, [[Federated Wiki]] wasn't around yet to make it easy to write and save stuff like this."
+      },
+      "date": 1422165383096
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0a61a2c41f32f83b",
+        "text": ""
+      },
+      "id": "0a61a2c41f32f83b",
+      "type": "add",
+      "after": "72927ba4bdb9738e",
+      "date": 1422165383132
+    },
+    {
+      "type": "edit",
+      "id": "0a61a2c41f32f83b",
+      "item": {
+        "type": "paragraph",
+        "id": "0a61a2c41f32f83b",
+        "text": "The original hard drive went bad sometime around 2011 or 2012 and was replaced with "
+      },
+      "date": 1422165455482
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e391975c81158359",
+        "text": ""
+      },
+      "id": "e391975c81158359",
+      "type": "add",
+      "after": "0a61a2c41f32f83b",
+      "date": 1422165455517
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "422f3f9aa2b4de10",
+        "text": ""
+      },
+      "id": "422f3f9aa2b4de10",
+      "type": "add",
+      "after": "e391975c81158359",
+      "date": 1422165477100
+    },
+    {
+      "type": "remove",
+      "id": "422f3f9aa2b4de10",
+      "date": 1422165479359
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bd1599b9f8b9a83e",
+        "text": ""
+      },
+      "id": "bd1599b9f8b9a83e",
+      "type": "add",
+      "after": "e391975c81158359",
+      "date": 1422165490500
+    },
+    {
+      "type": "edit",
+      "id": "bd1599b9f8b9a83e",
+      "item": {
+        "type": "paragraph",
+        "id": "bd1599b9f8b9a83e",
+        "text": "The onboard WiFi card, so painstakingly upgraded, is now somewhat flaky. Sometimes I use a PCMCIA WiFi card."
+      },
+      "date": 1422165544432
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d506a79f507e43cb",
+        "text": ""
+      },
+      "id": "d506a79f507e43cb",
+      "type": "add",
+      "after": "bd1599b9f8b9a83e",
+      "date": 1422165544458
+    },
+    {
+      "type": "remove",
+      "id": "d506a79f507e43cb",
+      "date": 1422165559440
+    },
+    {
+      "type": "edit",
+      "id": "0a61a2c41f32f83b",
+      "item": {
+        "type": "paragraph",
+        "id": "0a61a2c41f32f83b",
+        "text": "The original hard drive went bad sometime around 2011 or 2012 and was replaced with a 160 \"GB\" drive."
+      },
+      "date": 1422165590658
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c1b44a9a563260a4",
+        "text": ""
+      },
+      "id": "c1b44a9a563260a4",
+      "type": "add",
+      "after": "0a61a2c41f32f83b",
+      "date": 1422165590696
+    },
+    {
+      "type": "remove",
+      "id": "c1b44a9a563260a4",
+      "date": 1422165592857
+    }
+  ]
+}

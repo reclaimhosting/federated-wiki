@@ -1,0 +1,55 @@
+{
+  "title": "Apple MacBook 4,1",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ded16176f9d02d86",
+      "text": "I originally got this one when I started teaching high school in 2008."
+    },
+    {
+      "type": "paragraph",
+      "id": "8c87e0c8be644d70",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Apple MacBook 4,1",
+        "story": []
+      },
+      "date": 1422165603164
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ded16176f9d02d86"
+      },
+      "id": "ded16176f9d02d86",
+      "type": "add",
+      "date": 1422165605180
+    },
+    {
+      "type": "edit",
+      "id": "ded16176f9d02d86",
+      "item": {
+        "type": "paragraph",
+        "id": "ded16176f9d02d86",
+        "text": "I originally got this one when I started teaching high school in 2008."
+      },
+      "date": 1422165642409
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c87e0c8be644d70",
+        "text": ""
+      },
+      "id": "8c87e0c8be644d70",
+      "type": "add",
+      "after": "ded16176f9d02d86",
+      "date": 1422165642439
+    }
+  ]
+}

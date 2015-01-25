@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "304c6c27edcfdfad",
       "text": "She was an English major, and, in spite of our foisting unfamiliar software upon her, graduated with honors. Magna Cum Laude, I believe."
+    },
+    {
+      "type": "paragraph",
+      "id": "e4a23acbcc1be28f",
+      "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on. "
     }
   ],
   "journal": [
@@ -102,6 +107,37 @@
       "type": "add",
       "after": "78f9b47082e52d28",
       "date": 1422166216179
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e4a23acbcc1be28f",
+        "text": ""
+      },
+      "id": "e4a23acbcc1be28f",
+      "type": "add",
+      "after": "304c6c27edcfdfad",
+      "date": 1422166931191
+    },
+    {
+      "type": "edit",
+      "id": "e4a23acbcc1be28f",
+      "item": {
+        "type": "paragraph",
+        "id": "e4a23acbcc1be28f",
+        "text": "I came to acquire it sometime during my freshman year in college, I believe."
+      },
+      "date": 1422166960815
+    },
+    {
+      "type": "edit",
+      "id": "e4a23acbcc1be28f",
+      "item": {
+        "type": "paragraph",
+        "id": "e4a23acbcc1be28f",
+        "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on. "
+      },
+      "date": 1422167259966
     }
   ]
 }

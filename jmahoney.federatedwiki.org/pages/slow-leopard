@@ -4,12 +4,7 @@
     {
       "type": "paragraph",
       "id": "bad5c58094273d3c",
-      "text": "Unlike all the other whiners on the 'net these days, this whiner holds that Leopard was the last great OS X version, and Snow Leopard was the beginning of the downward trend."
-    },
-    {
-      "type": "paragraph",
-      "id": "262be73f16fd7577",
-      "text": "I actually haven't gotten to use OS X beyond Snow Leopard."
+      "text": "Unlike all the other whiners on the 'net these days, this whiner holds that Leopard was the last great OS X version, and Snow Leopard was the beginning of the downward trend. The general consensus seems to be the Snow Leopard was the last great version, but I disagree."
     },
     {
       "type": "paragraph",
@@ -20,6 +15,11 @@
       "type": "paragraph",
       "id": "a7738b305d0169c0",
       "text": "When we were \"upgraded\" to Snow Leopard, the same computer seemed more sluggish overall. One thing in particular stands out: In Leopard, when I did File --> Print, it would send the job to the printer and the printer would start whirring almost immediately. Under Snow Leopard, I could wait a good five to ten seconds before the printer would start whirring. Anyways."
+    },
+    {
+      "type": "paragraph",
+      "id": "262be73f16fd7577",
+      "text": "I actually haven't gotten to use OS X beyond Snow Leopard."
     }
   ],
   "journal": [
@@ -128,6 +128,27 @@
       "type": "remove",
       "id": "f351f79d4d7766b9",
       "date": 1422166000981
+    },
+    {
+      "type": "edit",
+      "id": "bad5c58094273d3c",
+      "item": {
+        "type": "paragraph",
+        "id": "bad5c58094273d3c",
+        "text": "Unlike all the other whiners on the 'net these days, this whiner holds that Leopard was the last great OS X version, and Snow Leopard was the beginning of the downward trend. The general consensus seems to be the Snow Leopard was the last great version, but I disagree."
+      },
+      "date": 1422167376692
+    },
+    {
+      "type": "move",
+      "order": [
+        "bad5c58094273d3c",
+        "2e912cd596f53723",
+        "a7738b305d0169c0",
+        "262be73f16fd7577"
+      ],
+      "id": "262be73f16fd7577",
+      "date": 1422167383362
     }
   ]
 }

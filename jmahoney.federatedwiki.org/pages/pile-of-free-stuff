@@ -14,12 +14,22 @@
     {
       "type": "paragraph",
       "id": "d6e1fc356342533c",
-      "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher. So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
+      "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher."
+    },
+    {
+      "type": "paragraph",
+      "id": "83ec98fc0d5985dc",
+      "text": "So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
     },
     {
       "type": "paragraph",
       "id": "114fa5827bf93ce6",
       "text": "Somehow I had received most or all of this stuff for free, so I referred to it as my \"pile of free stuff;\" The LaserWriter sat atop the Sony CD-ROM drive, which rested on the Ultra 5."
+    },
+    {
+      "type": "paragraph",
+      "id": "7ecae6c6c4a82201",
+      "text": "I also had a 1U or 2U network hub, also gotten for free from our physics and chem teacher, that came in handy when working on CS125 problems (which I didn't do so well in) with two friends in their dorm room up on the third floor. The rooms only had so many Ethernet ports. One or two, but certainly not enough for 3 separate computers."
     }
   ],
   "journal": [
@@ -123,6 +133,74 @@
       "type": "remove",
       "id": "e163dc019615559e",
       "date": 1422166886941
+    },
+    {
+      "type": "edit",
+      "id": "d6e1fc356342533c",
+      "item": {
+        "type": "paragraph",
+        "id": "d6e1fc356342533c",
+        "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher."
+      },
+      "date": 1422166900376
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "83ec98fc0d5985dc",
+        "text": "So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
+      },
+      "id": "83ec98fc0d5985dc",
+      "type": "add",
+      "after": "d6e1fc356342533c",
+      "date": 1422166900412
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7ecae6c6c4a82201",
+        "text": ""
+      },
+      "id": "7ecae6c6c4a82201",
+      "type": "add",
+      "after": "114fa5827bf93ce6",
+      "date": 1422166969402
+    },
+    {
+      "type": "edit",
+      "id": "7ecae6c6c4a82201",
+      "item": {
+        "type": "paragraph",
+        "id": "7ecae6c6c4a82201",
+        "text": "I also had a 1U or 2U network hub that came in handy when working on CS125 problems (which I didn't do so well in) with two friends in their dorm room up on the third floor. The rooms only had so many Ethernet ports. One or two, but certainly not enough for 3 separate computers."
+      },
+      "date": 1422167098169
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "723cf9e0186d9dcf",
+        "text": ""
+      },
+      "id": "723cf9e0186d9dcf",
+      "type": "add",
+      "after": "7ecae6c6c4a82201",
+      "date": 1422167098199
+    },
+    {
+      "type": "remove",
+      "id": "723cf9e0186d9dcf",
+      "date": 1422167099632
+    },
+    {
+      "type": "edit",
+      "id": "7ecae6c6c4a82201",
+      "item": {
+        "type": "paragraph",
+        "id": "7ecae6c6c4a82201",
+        "text": "I also had a 1U or 2U network hub, also gotten for free from our physics and chem teacher, that came in handy when working on CS125 problems (which I didn't do so well in) with two friends in their dorm room up on the third floor. The rooms only had so many Ethernet ports. One or two, but certainly not enough for 3 separate computers."
+      },
+      "date": 1422167135469
     }
   ]
 }

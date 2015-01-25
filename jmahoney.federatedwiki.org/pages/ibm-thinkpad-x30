@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "0f57b1dca7ed197e",
-      "text": "It got me through my junior and senior years of college."
+      "text": "It got me through my junior and senior years of college, and is still in use to this day."
     },
     {
       "type": "paragraph",
@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "0a61a2c41f32f83b",
       "text": "The original hard drive went bad sometime around 2011 or 2012 and was replaced with a 160 \"GB\" drive."
+    },
+    {
+      "type": "paragraph",
+      "id": "f851d903c9912d12",
+      "text": "I have upgraded the RAM to 1 GB, which is the maximum allowable."
     },
     {
       "type": "paragraph",
@@ -336,6 +341,37 @@
       "type": "remove",
       "id": "114fa5827bf93ce6",
       "date": 1422166819770
+    },
+    {
+      "type": "edit",
+      "id": "0f57b1dca7ed197e",
+      "item": {
+        "type": "paragraph",
+        "id": "0f57b1dca7ed197e",
+        "text": "It got me through my junior and senior years of college, and is still in use to this day."
+      },
+      "date": 1422167287234
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f851d903c9912d12",
+        "text": ""
+      },
+      "id": "f851d903c9912d12",
+      "type": "add",
+      "after": "0a61a2c41f32f83b",
+      "date": 1422167311722
+    },
+    {
+      "type": "edit",
+      "id": "f851d903c9912d12",
+      "item": {
+        "type": "paragraph",
+        "id": "f851d903c9912d12",
+        "text": "I have upgraded the RAM to 1 GB, which is the maximum allowable."
+      },
+      "date": 1422167329639
     }
   ]
 }

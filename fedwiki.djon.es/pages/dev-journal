@@ -20,6 +20,10 @@
       "type": "html",
       "id": "455deeb858f8d8c3",
       "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
+    },
+    {
+      "type": "factory",
+      "id": "b0c6baebd98d3850"
     }
   ],
   "journal": [
@@ -368,6 +372,16 @@
       "type": "remove",
       "id": "8a46926c34e4b1ef",
       "date": 1421966865087
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0c6baebd98d3850"
+      },
+      "id": "b0c6baebd98d3850",
+      "type": "add",
+      "after": "455deeb858f8d8c3",
+      "date": 1422146092608
     }
   ]
 }

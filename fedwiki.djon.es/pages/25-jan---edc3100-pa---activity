@@ -15,6 +15,36 @@
       "type": "html",
       "id": "f71c18a92b836da1",
       "text": "Data structure\n<ul>\n  <li> For each module\n       <ul>\n          <li> Title </li>\n          <li> Total # activities </li>\n          <li> # activities completed </li>\n          <li> first and last date activity completed </li>\n          <li> For each week in the module \n             <ul>\n                <li> Name of week and link?? </li>\n                <li> Total # activities </li>\n                <li> # activities completed </li>\n                <li> first and last date activity completed </li>\n                <li> For each activity in the week\n                     <ul>\n                        <li> name of activity </li>\n                        <li> date completed </li>\n                        <li> # students completed activity </li>\n                     </ul>\n              </ul>\n           </li>\n        </ul>\n  </li>\n</ul>"
+    },
+    {
+      "type": "markdown",
+      "id": "40e243b45b131764",
+      "text": "##Updates"
+    },
+    {
+      "type": "html",
+      "id": "f9a933386144d95c",
+      "text": "Got the title of the dialog showing details of student - <strong>Question:</strong> should the personal details tab be removed?"
+    },
+    {
+      "type": "paragraph",
+      "id": "3bae3dfddd316289",
+      "text": "On the updside, the dialog remembers which tab you were looking at last time. So you can avoid looking at the personal details tab"
+    },
+    {
+      "type": "paragraph",
+      "id": "3552a39ddfdf5b8e",
+      "text": "Simple blog data being added."
+    },
+    {
+      "type": "html",
+      "id": "6938879e7eda0532",
+      "text": "<H3>Next step</h3>\n\nAdd the list of blog posts and links to those posts."
+    },
+    {
+      "type": "markdown",
+      "id": "217d19b9df1af985",
+      "text": "##To do\n\n* Do the activity completion"
     }
   ],
   "journal": [
@@ -85,6 +115,199 @@
         "text": "Need to check\n<ol>\n  <Li> Is the data in the database? \n       <p>Yes - mdl_course_modules_completion<br />\n [ <u>id</u>, coursemoduleid, userid, completionstate, viewed, timemodified ]</p>\n      <p>id, coursemoduleid and userid in my local database are not the same as in the institutional database. </p>\n       <p>\n  </li>\n  <li> What are the translations to make? \n      <ul>\n        <li> id - will be ignored for this tool </li>\n        <li> coursemoduleid \n            <p>Locally the coursemoduleids are sequential starting at 120000 (or some other figure depending on the semester).  </p>\n   <p><strong>Question:</strong> Is there are similar sequence on the institutional system? (probably not given how they are added). </p> <?li>\n        <li> userid - mdl_user has an added field \"usqMoodleId\" which is the id passed in by the script.<p>This is how I get the other data</p>\n         <ul>\n           <li> <em>activity completion</em><p>select * from mdl_course_modules_completion where userid=:usqMoodleId</p></li>\n           <li> <em>blogs</em>\n              <p>Similar selects from mdl_bim_student_feeds & mdl_bim_marking. </p>\n            <p>Will need to get the BIM id for the particular course. </p>\n           </li>\n         </ul>\n  \n      </ul>\n  </li>\n  <li> What data structure is going to provide the representation I want? </li>\n  <li> What's the SQL/process to get it? </li>\n</ol>"
       },
       "date": 1422139086444
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "40e243b45b131764"
+      },
+      "id": "40e243b45b131764",
+      "type": "add",
+      "after": "f71c18a92b836da1",
+      "date": 1422146036235
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b6a42fddb27e88a"
+      },
+      "id": "6b6a42fddb27e88a",
+      "type": "add",
+      "after": "40e243b45b131764",
+      "date": 1422146047717
+    },
+    {
+      "type": "edit",
+      "id": "40e243b45b131764",
+      "item": {
+        "type": "markdown",
+        "id": "40e243b45b131764",
+        "text": "##Updates"
+      },
+      "date": 1422146049072
+    },
+    {
+      "type": "edit",
+      "id": "6b6a42fddb27e88a",
+      "item": {
+        "type": "paragraph",
+        "id": "6b6a42fddb27e88a",
+        "text": "Got the title of the dialog showing details of student - <strong>Question:</strong> should the personal details tab be removed?"
+      },
+      "date": 1422146080893
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d38526b0cab2bcd3",
+        "text": ""
+      },
+      "id": "d38526b0cab2bcd3",
+      "type": "add",
+      "after": "6b6a42fddb27e88a",
+      "date": 1422146080907
+    },
+    {
+      "type": "remove",
+      "id": "d38526b0cab2bcd3",
+      "date": 1422146083629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "276599c33e4654db"
+      },
+      "id": "276599c33e4654db",
+      "type": "add",
+      "after": "6b6a42fddb27e88a",
+      "date": 1422146087384
+    },
+    {
+      "type": "remove",
+      "id": "6b6a42fddb27e88a",
+      "date": 1422146090061
+    },
+    {
+      "type": "remove",
+      "id": "276599c33e4654db",
+      "date": 1422146095010
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9a933386144d95c"
+      },
+      "id": "f9a933386144d95c",
+      "type": "add",
+      "after": "40e243b45b131764",
+      "date": 1422146110136
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bae3dfddd316289"
+      },
+      "id": "3bae3dfddd316289",
+      "type": "add",
+      "after": "f9a933386144d95c",
+      "date": 1422146117369
+    },
+    {
+      "type": "edit",
+      "id": "f9a933386144d95c",
+      "item": {
+        "type": "html",
+        "id": "f9a933386144d95c",
+        "text": "Got the title of the dialog showing details of student - <strong>Question:</strong> should the personal details tab be removed?"
+      },
+      "date": 1422146120148
+    },
+    {
+      "type": "edit",
+      "id": "3bae3dfddd316289",
+      "item": {
+        "type": "paragraph",
+        "id": "3bae3dfddd316289",
+        "text": "On the updside, the dialog remembers which tab you were looking at last time. So you can avoid looking at the personal details tab"
+      },
+      "date": 1422146146287
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3552a39ddfdf5b8e",
+        "text": ""
+      },
+      "id": "3552a39ddfdf5b8e",
+      "type": "add",
+      "after": "3bae3dfddd316289",
+      "date": 1422146146305
+    },
+    {
+      "type": "edit",
+      "id": "3552a39ddfdf5b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "3552a39ddfdf5b8e",
+        "text": "Simple blog data being added."
+      },
+      "date": 1422146159998
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2dc50c03c51a2e38",
+        "text": ""
+      },
+      "id": "2dc50c03c51a2e38",
+      "type": "add",
+      "after": "3552a39ddfdf5b8e",
+      "date": 1422146160014
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6938879e7eda0532"
+      },
+      "id": "6938879e7eda0532",
+      "type": "add",
+      "after": "2dc50c03c51a2e38",
+      "date": 1422146162781
+    },
+    {
+      "type": "remove",
+      "id": "2dc50c03c51a2e38",
+      "date": 1422146165731
+    },
+    {
+      "type": "edit",
+      "id": "6938879e7eda0532",
+      "item": {
+        "type": "html",
+        "id": "6938879e7eda0532",
+        "text": "<H3>Next step</h3>\n\nAdd the list of blog posts and links to those posts."
+      },
+      "date": 1422146182454
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "217d19b9df1af985"
+      },
+      "id": "217d19b9df1af985",
+      "type": "add",
+      "after": "6938879e7eda0532",
+      "date": 1422146185311
+    },
+    {
+      "type": "edit",
+      "id": "217d19b9df1af985",
+      "item": {
+        "type": "markdown",
+        "id": "217d19b9df1af985",
+        "text": "##To do\n\n* Do the activity completion"
+      },
+      "date": 1422146201214
     }
   ]
 }

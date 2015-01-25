@@ -1,0 +1,133 @@
+{
+  "title": "Slow Leopard",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bad5c58094273d3c",
+      "text": "Unlike all the other whiners on the 'net these days, this whiner holds that Leopard was the last great OS X version, and Snow Leopard was the beginning of the downward trend."
+    },
+    {
+      "type": "paragraph",
+      "id": "262be73f16fd7577",
+      "text": "I actually haven't gotten to use OS X beyond Snow Leopard."
+    },
+    {
+      "type": "paragraph",
+      "id": "2e912cd596f53723",
+      "text": "When I first got my MacBook, it had Leopard. Everything seemed pretty snappy."
+    },
+    {
+      "type": "paragraph",
+      "id": "a7738b305d0169c0",
+      "text": "When we were \"upgraded\" to Snow Leopard, the same computer seemed more sluggish overall. One thing in particular stands out: In Leopard, when I did File --> Print, it would send the job to the printer and the printer would start whirring almost immediately. Under Snow Leopard, I could wait a good five to ten seconds before the printer would start whirring. Anyways."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Slow Leopard",
+        "story": []
+      },
+      "date": 1422165768666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bad5c58094273d3c"
+      },
+      "id": "bad5c58094273d3c",
+      "type": "add",
+      "date": 1422165770488
+    },
+    {
+      "type": "edit",
+      "id": "bad5c58094273d3c",
+      "item": {
+        "type": "paragraph",
+        "id": "bad5c58094273d3c",
+        "text": "Unlike all the other whiners on the 'net these days, this whiner holds that Leopard was the last great OS X version, and Snow Leopard was the beginning of the downward trend."
+      },
+      "date": 1422165808469
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "262be73f16fd7577",
+        "text": ""
+      },
+      "id": "262be73f16fd7577",
+      "type": "add",
+      "after": "bad5c58094273d3c",
+      "date": 1422165808501
+    },
+    {
+      "type": "edit",
+      "id": "262be73f16fd7577",
+      "item": {
+        "type": "paragraph",
+        "id": "262be73f16fd7577",
+        "text": "I actually haven't gotten to use OS X beyond Snow Leopard."
+      },
+      "date": 1422165821190
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2e912cd596f53723",
+        "text": ""
+      },
+      "id": "2e912cd596f53723",
+      "type": "add",
+      "after": "262be73f16fd7577",
+      "date": 1422165821216
+    },
+    {
+      "type": "edit",
+      "id": "2e912cd596f53723",
+      "item": {
+        "type": "paragraph",
+        "id": "2e912cd596f53723",
+        "text": "When I first got my MacBook, it had Leopard. Everything seemed pretty snappy."
+      },
+      "date": 1422165851470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7738b305d0169c0",
+        "text": ""
+      },
+      "id": "a7738b305d0169c0",
+      "type": "add",
+      "after": "2e912cd596f53723",
+      "date": 1422165851505
+    },
+    {
+      "type": "edit",
+      "id": "a7738b305d0169c0",
+      "item": {
+        "type": "paragraph",
+        "id": "a7738b305d0169c0",
+        "text": "When we were \"upgraded\" to Snow Leopard, the same computer seemed more sluggish overall. One thing in particular stands out: In Leopard, when I did File --> Print, it would send the job to the printer and the printer would start whirring almost immediately. Under Snow Leopard, I could wait a good five to ten seconds before the printer would start whirring. Anyways."
+      },
+      "date": 1422165997291
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f351f79d4d7766b9",
+        "text": ""
+      },
+      "id": "f351f79d4d7766b9",
+      "type": "add",
+      "after": "a7738b305d0169c0",
+      "date": 1422165997323
+    },
+    {
+      "type": "remove",
+      "id": "f351f79d4d7766b9",
+      "date": 1422166000981
+    }
+  ]
+}

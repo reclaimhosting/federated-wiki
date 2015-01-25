@@ -9,7 +9,22 @@
     {
       "type": "paragraph",
       "id": "8c87e0c8be644d70",
-      "text": ""
+      "text": "When I left teaching in 2011, I got to buy it at a very affordable price."
+    },
+    {
+      "type": "paragraph",
+      "id": "94fc225b18aa2a79",
+      "text": "It now dual-boots Mac OS X 10.6.x \"Snow Leopard,\" a.k.a. [[Slow Leopard]], and, currently, elementaryOS with Ubuntu Studio packages and lowlatency kernel."
+    },
+    {
+      "type": "paragraph",
+      "id": "686d7fe24718c377",
+      "text": "I have upgraded it to 4 GB of RAM, which is the maximum allowable. (Did I read somewhere that some people have successfully gotten 6 GB to work?"
+    },
+    {
+      "type": "paragraph",
+      "id": "652e79f2055c7c5f",
+      "text": ")"
     }
   ],
   "journal": [
@@ -50,6 +65,85 @@
       "type": "add",
       "after": "ded16176f9d02d86",
       "date": 1422165642439
+    },
+    {
+      "type": "edit",
+      "id": "8c87e0c8be644d70",
+      "item": {
+        "type": "paragraph",
+        "id": "8c87e0c8be644d70",
+        "text": "When I left teaching in 2011, I got to buy it at a very affordable price."
+      },
+      "date": 1422165699579
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "94fc225b18aa2a79",
+        "text": ""
+      },
+      "id": "94fc225b18aa2a79",
+      "type": "add",
+      "after": "8c87e0c8be644d70",
+      "date": 1422165699606
+    },
+    {
+      "type": "edit",
+      "id": "94fc225b18aa2a79",
+      "item": {
+        "type": "paragraph",
+        "id": "94fc225b18aa2a79",
+        "text": "It now dual-boots Mac OS X 10.6.x \"Snow Leopard,\" a.k.a. [[Slow Leopard]], and, currently, elementaryOS with Ubuntu Studio packages and lowlatency kernel."
+      },
+      "date": 1422165765112
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15b536b5569f5bb5",
+        "text": ""
+      },
+      "id": "15b536b5569f5bb5",
+      "type": "add",
+      "after": "94fc225b18aa2a79",
+      "date": 1422165765142
+    },
+    {
+      "type": "remove",
+      "id": "15b536b5569f5bb5",
+      "date": 1422165768534
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "686d7fe24718c377",
+        "text": ""
+      },
+      "id": "686d7fe24718c377",
+      "type": "add",
+      "after": "94fc225b18aa2a79",
+      "date": 1422166001987
+    },
+    {
+      "type": "edit",
+      "id": "686d7fe24718c377",
+      "item": {
+        "type": "paragraph",
+        "id": "686d7fe24718c377",
+        "text": "I have upgraded it to 4 GB of RAM, which is the maximum allowable. (Did I read somewhere that some people have successfully gotten 6 GB to work?"
+      },
+      "date": 1422166039897
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "652e79f2055c7c5f",
+        "text": ")"
+      },
+      "id": "652e79f2055c7c5f",
+      "type": "add",
+      "after": "686d7fe24718c377",
+      "date": 1422166039937
     }
   ]
 }

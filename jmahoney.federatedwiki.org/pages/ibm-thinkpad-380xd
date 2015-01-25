@@ -1,0 +1,107 @@
+{
+  "title": "IBM ThinkPad 380XD",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "eb8048fca040c072",
+      "text": "This was the laptop my sister used in college. It was purchased from some used computer place online."
+    },
+    {
+      "type": "paragraph",
+      "id": "78f9b47082e52d28",
+      "text": "My brother and I, Free Software zealots that we were, clobbered the Windows 95 install it came with and made our sister run Debian, GNOME 1.x, and StarOffice for college."
+    },
+    {
+      "type": "paragraph",
+      "id": "304c6c27edcfdfad",
+      "text": "She was an English major, and, in spite of our foisting unfamiliar software upon her, graduated with honors. Magna Cum Laude, I believe."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "IBM ThinkPad 380XD",
+        "story": []
+      },
+      "date": 1422166045534
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb8048fca040c072"
+      },
+      "id": "eb8048fca040c072",
+      "type": "add",
+      "date": 1422166047199
+    },
+    {
+      "type": "edit",
+      "id": "eb8048fca040c072",
+      "item": {
+        "type": "paragraph",
+        "id": "eb8048fca040c072",
+        "text": "This was the laptop my sister used in college. It was purchased from some used computer place online."
+      },
+      "date": 1422166151335
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "78f9b47082e52d28",
+        "text": "My brother and I, Free Software zealots that we were, clobbered the Windows 95 install it came with and made our sister run Debian, GNOME 1.x, and StarOffice for college. She was an English major, and graduated with honors, Magna Cum Laude, I believe."
+      },
+      "id": "78f9b47082e52d28",
+      "type": "add",
+      "after": "eb8048fca040c072",
+      "date": 1422166151371
+    },
+    {
+      "type": "edit",
+      "id": "78f9b47082e52d28",
+      "item": {
+        "type": "paragraph",
+        "id": "78f9b47082e52d28",
+        "text": "My brother and I, Free Software zealots that we were, clobbered the Windows 95 install it came with and made our sister run Debian, GNOME 1.x, and StarOffice for college. She was an English major, and, in spite of our foisting unfamiliar software upon her, graduated with honors. Magna Cum Laude, I believe."
+      },
+      "date": 1422166202882
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8fd2496cfa2eb45e",
+        "text": ""
+      },
+      "id": "8fd2496cfa2eb45e",
+      "type": "add",
+      "after": "78f9b47082e52d28",
+      "date": 1422166202921
+    },
+    {
+      "type": "remove",
+      "id": "8fd2496cfa2eb45e",
+      "date": 1422166208396
+    },
+    {
+      "type": "edit",
+      "id": "78f9b47082e52d28",
+      "item": {
+        "type": "paragraph",
+        "id": "78f9b47082e52d28",
+        "text": "My brother and I, Free Software zealots that we were, clobbered the Windows 95 install it came with and made our sister run Debian, GNOME 1.x, and StarOffice for college."
+      },
+      "date": 1422166216150
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "304c6c27edcfdfad",
+        "text": "She was an English major, and, in spite of our foisting unfamiliar software upon her, graduated with honors. Magna Cum Laude, I believe."
+      },
+      "id": "304c6c27edcfdfad",
+      "type": "add",
+      "after": "78f9b47082e52d28",
+      "date": 1422166216179
+    }
+  ]
+}

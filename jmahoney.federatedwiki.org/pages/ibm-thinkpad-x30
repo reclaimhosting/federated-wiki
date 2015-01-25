@@ -2,8 +2,9 @@
   "title": "IBM ThinkPad X30",
   "story": [
     {
-      "type": "factory",
-      "id": "9bcab02445e25e88"
+      "type": "paragraph",
+      "id": "9bcab02445e25e88",
+      "text": "I bought this off of eBay around the end of 2005 and the beginning of 2006. It replaced another ThinkPad that I bought from a used computer store back home after my freshman year. That ThinkPad had a 14\" 4:3 matte finish screen, but the motherboard died. That ThinkPad replaced my \"[[Pile Of Free Stuff]]\""
     },
     {
       "type": "paragraph",
@@ -201,6 +202,140 @@
       "type": "remove",
       "id": "c1b44a9a563260a4",
       "date": 1422165592857
+    },
+    {
+      "type": "edit",
+      "id": "9bcab02445e25e88",
+      "item": {
+        "type": "paragraph",
+        "id": "9bcab02445e25e88",
+        "text": "I bought this off of eBay around the end of 2005 and the beginning of 2006. It replaced another ThinkPad that I bought from a used computer store back home after my freshman year. That ThinkPad had a 14\" 4:3 matte finish screen, but the motherboard died."
+      },
+      "date": 1422166335912
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": ""
+      },
+      "id": "8842d3b3fee6c730",
+      "type": "add",
+      "after": "9bcab02445e25e88",
+      "date": 1422166335949
+    },
+    {
+      "type": "edit",
+      "id": "8842d3b3fee6c730",
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": "That ThinkPad was to replace a "
+      },
+      "date": 1422166359269
+    },
+    {
+      "type": "edit",
+      "id": "8842d3b3fee6c730",
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": "That ThinkPad was to replace a Sun Ultra5"
+      },
+      "date": 1422166385073
+    },
+    {
+      "type": "edit",
+      "id": "8842d3b3fee6c730",
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": "That ThinkPad was to replace a Sun Ultra 5 that I received as a high school graduation present from a friend with whom, along with my older brother, I worked on our high school network and computers."
+      },
+      "date": 1422166457984
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d6e1fc356342533c",
+        "text": ""
+      },
+      "id": "d6e1fc356342533c",
+      "type": "add",
+      "after": "8842d3b3fee6c730",
+      "date": 1422166458019
+    },
+    {
+      "type": "edit",
+      "id": "d6e1fc356342533c",
+      "item": {
+        "type": "paragraph",
+        "id": "d6e1fc356342533c",
+        "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher. So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used"
+      },
+      "date": 1422166631579
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "114fa5827bf93ce6",
+        "text": "Somehow I had received most or all of this stuff for free, so I referred to it as my \"pile of free stuff;\" The LaserWriter sat atop the Sony CD-ROM drive, which rested on the Ultra 5."
+      },
+      "id": "114fa5827bf93ce6",
+      "type": "add",
+      "after": "d6e1fc356342533c",
+      "date": 1422166731149
+    },
+    {
+      "type": "edit",
+      "id": "d6e1fc356342533c",
+      "item": {
+        "type": "paragraph",
+        "id": "d6e1fc356342533c",
+        "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher. So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
+      },
+      "date": 1422166731110
+    },
+    {
+      "type": "edit",
+      "id": "9bcab02445e25e88",
+      "item": {
+        "type": "paragraph",
+        "id": "9bcab02445e25e88",
+        "text": "I bought this off of eBay around the end of 2005 and the beginning of 2006. It replaced another ThinkPad that I bought from a used computer store back home after my freshman year. That ThinkPad had a 14\" 4:3 matte finish screen, but the motherboard died. That ThinkPad replaced my \"[[Pile Of Free Stuff]]\""
+      },
+      "date": 1422166789453
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "add5602bbaa9037f",
+        "text": " that I had my freshman year."
+      },
+      "id": "add5602bbaa9037f",
+      "type": "add",
+      "after": "9bcab02445e25e88",
+      "date": 1422166789487
+    },
+    {
+      "type": "remove",
+      "id": "add5602bbaa9037f",
+      "date": 1422166791288
+    },
+    {
+      "type": "remove",
+      "id": "8842d3b3fee6c730",
+      "date": 1422166803524
+    },
+    {
+      "type": "remove",
+      "id": "d6e1fc356342533c",
+      "date": 1422166812324
+    },
+    {
+      "type": "remove",
+      "id": "114fa5827bf93ce6",
+      "date": 1422166819770
     }
   ]
 }

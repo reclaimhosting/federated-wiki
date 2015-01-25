@@ -1,0 +1,128 @@
+{
+  "title": "Pile Of Free Stuff",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8842d3b3fee6c730",
+      "text": "I received a Sun Ultra 5 as a high school graduation present from a friend with whom, along with my older brother, I worked on our high school network and computers."
+    },
+    {
+      "type": "paragraph",
+      "id": "1e75648ff41e744e",
+      "text": "That friend now works with a network hardware company somewhere in Washington state, I believe."
+    },
+    {
+      "type": "paragraph",
+      "id": "d6e1fc356342533c",
+      "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher. So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
+    },
+    {
+      "type": "paragraph",
+      "id": "114fa5827bf93ce6",
+      "text": "Somehow I had received most or all of this stuff for free, so I referred to it as my \"pile of free stuff;\" The LaserWriter sat atop the Sony CD-ROM drive, which rested on the Ultra 5."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pile Of Free Stuff",
+        "story": []
+      },
+      "date": 1422166798429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2ee1688906979666"
+      },
+      "id": "2ee1688906979666",
+      "type": "add",
+      "date": 1422166801031
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": "That ThinkPad was to replace a Sun Ultra 5 that I received as a high school graduation present from a friend with whom, along with my older brother, I worked on our high school network and computers."
+      },
+      "id": "8842d3b3fee6c730",
+      "date": 1422166803528
+    },
+    {
+      "type": "remove",
+      "id": "2ee1688906979666",
+      "date": 1422166807103
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d6e1fc356342533c",
+        "text": "I had received a glorious 17\" CRT for free from our high school network guy, who was also our honors chemistry and physics teacher. So my freshman year in college, I had on my desk a Sun Ultra 5, a 17\" CRT, a 1984 Sony CD-ROM drive to play music, an Apple LaserWriter 300, and an Asante EtherTalk box to connect the LaserWriter, which used AppleTalk, to one of the two or three Happy Meal Ethernet cards in the Ultra 5."
+      },
+      "after": "8842d3b3fee6c730",
+      "id": "d6e1fc356342533c",
+      "date": 1422166812331
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "114fa5827bf93ce6",
+        "text": "Somehow I had received most or all of this stuff for free, so I referred to it as my \"pile of free stuff;\" The LaserWriter sat atop the Sony CD-ROM drive, which rested on the Ultra 5."
+      },
+      "after": "d6e1fc356342533c",
+      "id": "114fa5827bf93ce6",
+      "date": 1422166819779
+    },
+    {
+      "type": "edit",
+      "id": "8842d3b3fee6c730",
+      "item": {
+        "type": "paragraph",
+        "id": "8842d3b3fee6c730",
+        "text": "I received a Sun Ultra 5 as a high school graduation present from a friend with whom, along with my older brother, I worked on our high school network and computers."
+      },
+      "date": 1422166856982
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1e75648ff41e744e",
+        "text": ""
+      },
+      "id": "1e75648ff41e744e",
+      "type": "add",
+      "after": "8842d3b3fee6c730",
+      "date": 1422166857016
+    },
+    {
+      "type": "edit",
+      "id": "1e75648ff41e744e",
+      "item": {
+        "type": "paragraph",
+        "id": "1e75648ff41e744e",
+        "text": "That friend now works with a network hardware company somewhere in Washington state, I believe."
+      },
+      "date": 1422166884286
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e163dc019615559e",
+        "text": ""
+      },
+      "id": "e163dc019615559e",
+      "type": "add",
+      "after": "1e75648ff41e744e",
+      "date": 1422166884321
+    },
+    {
+      "type": "remove",
+      "id": "e163dc019615559e",
+      "date": 1422166886941
+    }
+  ]
+}

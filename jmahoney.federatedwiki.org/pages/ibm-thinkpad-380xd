@@ -19,7 +19,12 @@
     {
       "type": "paragraph",
       "id": "e4a23acbcc1be28f",
-      "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on. "
+      "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on."
+    },
+    {
+      "type": "paragraph",
+      "id": "22e1c56d571cae81",
+      "text": "See more of [[My Computers]]."
     }
   ],
   "journal": [
@@ -138,6 +143,37 @@
         "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on. "
       },
       "date": 1422167259966
+    },
+    {
+      "type": "edit",
+      "id": "e4a23acbcc1be28f",
+      "item": {
+        "type": "paragraph",
+        "id": "e4a23acbcc1be28f",
+        "text": "I came to acquire it sometime during my freshman year in college, I believe. If memory serves, I took CS125 my freshman year, and I was using the 380XD to SSH from my friends' dorm room, via the Ethernet hub mentioned in [[Pile Of Free Stuff]], into the Sun machines that they had us doing the Java assignments on."
+      },
+      "date": 1422195524825
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22e1c56d571cae81",
+        "text": ""
+      },
+      "id": "22e1c56d571cae81",
+      "type": "add",
+      "after": "e4a23acbcc1be28f",
+      "date": 1422195524861
+    },
+    {
+      "type": "edit",
+      "id": "22e1c56d571cae81",
+      "item": {
+        "type": "paragraph",
+        "id": "22e1c56d571cae81",
+        "text": "See more of [[My Computers]]."
+      },
+      "date": 1422195540524
     }
   ]
 }

@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "686d7fe24718c377",
       "text": "I have upgraded it to 4 GB of RAM, which is the maximum allowable. (Did I read somewhere that some people have successfully gotten 6 GB to work?)"
+    },
+    {
+      "type": "paragraph",
+      "id": "72690747417dae4c",
+      "text": "See more of [[My Computers]]."
     }
   ],
   "journal": [
@@ -154,6 +159,27 @@
         "text": "I have upgraded it to 4 GB of RAM, which is the maximum allowable. (Did I read somewhere that some people have successfully gotten 6 GB to work?)"
       },
       "date": 1422168735812
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "72690747417dae4c",
+        "text": ""
+      },
+      "id": "72690747417dae4c",
+      "type": "add",
+      "after": "686d7fe24718c377",
+      "date": 1422195567455
+    },
+    {
+      "type": "edit",
+      "id": "72690747417dae4c",
+      "item": {
+        "type": "paragraph",
+        "id": "72690747417dae4c",
+        "text": "See more of [[My Computers]]."
+      },
+      "date": 1422195573222
     }
   ]
 }

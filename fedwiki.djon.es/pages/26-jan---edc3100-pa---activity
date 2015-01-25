@@ -7,8 +7,9 @@
       "text": "<h3>Aim</h3>\n\nGet the activity completion statistics working."
     },
     {
-      "type": "factory",
-      "id": "1f2a40196783e3fb"
+      "type": "html",
+      "id": "1f2a40196783e3fb",
+      "text": "<h3>Tasks</h3>\n\n<ol>\n  <li> Need a new table to map (or something)\n      <ul>\n        <li> Long title (remote) to short title (local import) </li>\n        <li> Remote id and local id </li>\n      </ul>\n  </li>\n  <li> SQL and PHP to extract the data for a given student . </li>\n  <li> Additional PHP to get it into a form for HTML/jquery </li>\n  <li> Display it </li>\n</ol>"
     }
   ],
   "journal": [
@@ -48,6 +49,16 @@
       "type": "add",
       "after": "77d18a320487ed53",
       "date": 1422222652567
+    },
+    {
+      "type": "edit",
+      "id": "1f2a40196783e3fb",
+      "item": {
+        "type": "html",
+        "id": "1f2a40196783e3fb",
+        "text": "<h3>Tasks</h3>\n\n<ol>\n  <li> Need a new table to map (or something)\n      <ul>\n        <li> Long title (remote) to short title (local import) </li>\n        <li> Remote id and local id </li>\n      </ul>\n  </li>\n  <li> SQL and PHP to extract the data for a given student . </li>\n  <li> Additional PHP to get it into a form for HTML/jquery </li>\n  <li> Display it </li>\n</ol>"
+      },
+      "date": 1422222764877
     }
   ]
 }

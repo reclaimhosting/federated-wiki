@@ -19,7 +19,7 @@
     {
       "type": "html",
       "id": "455deeb858f8d8c3",
-      "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n</ol>"
+      "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n  <li> Look at [https://gate.ac.uk/ GATE] and other tools for setiment analysis. </li>\n</ol>"
     },
     {
       "type": "factory",
@@ -382,6 +382,16 @@
       "type": "add",
       "after": "455deeb858f8d8c3",
       "date": 1422146092608
+    },
+    {
+      "type": "edit",
+      "id": "455deeb858f8d8c3",
+      "item": {
+        "type": "html",
+        "id": "455deeb858f8d8c3",
+        "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n  <li> Look at [https://gate.ac.uk/ GATE] and other tools for setiment analysis. </li>\n</ol>"
+      },
+      "date": 1422223156863
     }
   ]
 }

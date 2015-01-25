@@ -1,0 +1,185 @@
+{
+  "title": "My Computers",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a4452d35be8c5e42",
+      "text": "My apartment is beginning to resemble an Island of Misfit Computers."
+    },
+    {
+      "type": "paragraph",
+      "id": "14a54518751231d6",
+      "text": "[[IBM ThinkPad X30]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0582a66fd0dbbcd4",
+      "text": "[[Apple MacBook 4,1]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "055913a1154c8334",
+      "text": "[[IBM ThinkPad 380XD]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f82f549ae678aeae",
+      "text": "Sony Vaio Laptop"
+    },
+    {
+      "type": "paragraph",
+      "id": "59a75599ded3fb95",
+      "text": "A Borrowed MacBook Pro"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My Computers",
+        "story": []
+      },
+      "date": 1422159929079
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4452d35be8c5e42"
+      },
+      "id": "a4452d35be8c5e42",
+      "type": "add",
+      "date": 1422159930765
+    },
+    {
+      "type": "edit",
+      "id": "a4452d35be8c5e42",
+      "item": {
+        "type": "paragraph",
+        "id": "a4452d35be8c5e42",
+        "text": "My apartment is beginning to resemble an Island of Misfit Computers."
+      },
+      "date": 1422159966809
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14a54518751231d6",
+        "text": ""
+      },
+      "id": "14a54518751231d6",
+      "type": "add",
+      "after": "a4452d35be8c5e42",
+      "date": 1422159966845
+    },
+    {
+      "type": "edit",
+      "id": "14a54518751231d6",
+      "item": {
+        "type": "paragraph",
+        "id": "14a54518751231d6",
+        "text": "[[IBM ThinkPad X30]]"
+      },
+      "date": 1422159989377
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0582a66fd0dbbcd4",
+        "text": ""
+      },
+      "id": "0582a66fd0dbbcd4",
+      "type": "add",
+      "after": "14a54518751231d6",
+      "date": 1422159989405
+    },
+    {
+      "type": "edit",
+      "id": "0582a66fd0dbbcd4",
+      "item": {
+        "type": "paragraph",
+        "id": "0582a66fd0dbbcd4",
+        "text": "[[Apple MacBook 4,1]]"
+      },
+      "date": 1422160012503
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "055913a1154c8334",
+        "text": ""
+      },
+      "id": "055913a1154c8334",
+      "type": "add",
+      "after": "0582a66fd0dbbcd4",
+      "date": 1422160050233
+    },
+    {
+      "type": "edit",
+      "id": "055913a1154c8334",
+      "item": {
+        "type": "paragraph",
+        "id": "055913a1154c8334",
+        "text": "[[IBM ThinkPad 380XD]]"
+      },
+      "date": 1422160062827
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f82f549ae678aeae",
+        "text": ""
+      },
+      "id": "f82f549ae678aeae",
+      "type": "add",
+      "after": "055913a1154c8334",
+      "date": 1422160062864
+    },
+    {
+      "type": "edit",
+      "id": "f82f549ae678aeae",
+      "item": {
+        "type": "paragraph",
+        "id": "f82f549ae678aeae",
+        "text": "Sony Vaio Laptop"
+      },
+      "date": 1422160068461
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "59a75599ded3fb95",
+        "text": ""
+      },
+      "id": "59a75599ded3fb95",
+      "type": "add",
+      "after": "f82f549ae678aeae",
+      "date": 1422160068486
+    },
+    {
+      "type": "edit",
+      "id": "59a75599ded3fb95",
+      "item": {
+        "type": "paragraph",
+        "id": "59a75599ded3fb95",
+        "text": "A Borrowed MacBook Pro"
+      },
+      "date": 1422160082609
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "53358af557f49d22",
+        "text": ""
+      },
+      "id": "53358af557f49d22",
+      "type": "add",
+      "after": "59a75599ded3fb95",
+      "date": 1422160082648
+    },
+    {
+      "type": "remove",
+      "id": "53358af557f49d22",
+      "date": 1422160094788
+    }
+  ]
+}

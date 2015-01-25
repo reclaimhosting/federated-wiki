@@ -24,7 +24,7 @@
     {
       "type": "html",
       "id": "263f1bafca626b06",
-      "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>This could give \n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
     }
   ],
   "journal": [
@@ -164,6 +164,16 @@
         "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>This could give \n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
       },
       "date": 1422223825156
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422223896722
     }
   ]
 }

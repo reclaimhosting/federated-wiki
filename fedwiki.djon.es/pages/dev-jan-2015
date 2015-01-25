@@ -34,7 +34,12 @@
     {
       "type": "paragraph",
       "id": "c59439ae6046b7fa",
-      "text": "[[25 Jan - EDC3100 PA - activity]]"
+      "text": "[[25 Jan - EDC3100 PA - activity]] - mostly focused on getting the blog stats done."
+    },
+    {
+      "type": "paragraph",
+      "id": "c4822e8c009601ca",
+      "text": "[[26 Jan - EDC3100 PA - Activity]] - hopefully where I get the activity completion stats done"
     }
   ],
   "journal": [
@@ -197,6 +202,62 @@
     {
       "type": "fork",
       "date": 1422138786111
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4822e8c009601ca"
+      },
+      "id": "c4822e8c009601ca",
+      "type": "add",
+      "after": "c59439ae6046b7fa",
+      "date": 1422222581036
+    },
+    {
+      "type": "edit",
+      "id": "c4822e8c009601ca",
+      "item": {
+        "type": "paragraph",
+        "id": "c4822e8c009601ca",
+        "text": "[[26 Jan - EDC3100 PA - Activity]]"
+      },
+      "date": 1422222593139
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "41b8ee0ca4eeaaeb",
+        "text": ""
+      },
+      "id": "41b8ee0ca4eeaaeb",
+      "type": "add",
+      "after": "c4822e8c009601ca",
+      "date": 1422222593162
+    },
+    {
+      "type": "remove",
+      "id": "41b8ee0ca4eeaaeb",
+      "date": 1422222594786
+    },
+    {
+      "type": "edit",
+      "id": "c59439ae6046b7fa",
+      "item": {
+        "type": "paragraph",
+        "id": "c59439ae6046b7fa",
+        "text": "[[25 Jan - EDC3100 PA - activity]] - mostly focused on getting the blog stats done."
+      },
+      "date": 1422222607686
+    },
+    {
+      "type": "edit",
+      "id": "c4822e8c009601ca",
+      "item": {
+        "type": "paragraph",
+        "id": "c4822e8c009601ca",
+        "text": "[[26 Jan - EDC3100 PA - Activity]] - hopefully where I get the activity completion stats done"
+      },
+      "date": 1422222621252
     }
   ]
 }

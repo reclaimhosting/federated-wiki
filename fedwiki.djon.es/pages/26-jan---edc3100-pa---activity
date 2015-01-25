@@ -1,0 +1,53 @@
+{
+  "title": "26 Jan - EDC3100 PA - Activity",
+  "story": [
+    {
+      "type": "html",
+      "id": "77d18a320487ed53",
+      "text": "<h3>Aim</h3>\n\nGet the activity completion statistics working."
+    },
+    {
+      "type": "factory",
+      "id": "1f2a40196783e3fb"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 Jan - EDC3100 PA - Activity",
+        "story": []
+      },
+      "date": 1422222625102
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77d18a320487ed53"
+      },
+      "id": "77d18a320487ed53",
+      "type": "add",
+      "date": 1422222627046
+    },
+    {
+      "type": "edit",
+      "id": "77d18a320487ed53",
+      "item": {
+        "type": "html",
+        "id": "77d18a320487ed53",
+        "text": "<h3>Aim</h3>\n\nGet the activity completion statistics working."
+      },
+      "date": 1422222650007
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f2a40196783e3fb"
+      },
+      "id": "1f2a40196783e3fb",
+      "type": "add",
+      "after": "77d18a320487ed53",
+      "date": 1422222652567
+    }
+  ]
+}

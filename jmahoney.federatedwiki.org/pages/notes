@@ -3,8 +3,8 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "e27391f730a19a93",
-      "text": "[[Area Parks]]"
+      "id": "b095799c5c9dbbdf",
+      "text": "[[Parks]]"
     },
     {
       "type": "paragraph",
@@ -575,6 +575,48 @@
         "text": "[[My Computers]]"
       },
       "date": 1422167429250
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b095799c5c9dbbdf",
+        "text": ""
+      },
+      "id": "b095799c5c9dbbdf",
+      "type": "add",
+      "after": "e27391f730a19a93",
+      "date": 1422167496070
+    },
+    {
+      "type": "edit",
+      "id": "b095799c5c9dbbdf",
+      "item": {
+        "type": "paragraph",
+        "id": "b095799c5c9dbbdf",
+        "text": "[[Parks]]"
+      },
+      "date": 1422167509042
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "53ac07520ab874f8",
+        "text": ""
+      },
+      "id": "53ac07520ab874f8",
+      "type": "add",
+      "after": "b095799c5c9dbbdf",
+      "date": 1422167509075
+    },
+    {
+      "type": "remove",
+      "id": "53ac07520ab874f8",
+      "date": 1422167510100
+    },
+    {
+      "type": "remove",
+      "id": "e27391f730a19a93",
+      "date": 1422167535067
     }
   ]
 }

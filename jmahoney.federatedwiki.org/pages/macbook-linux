@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "903b33b1b61d7249",
-      "text": "I have been using Ubuntu Studio on a 2008 MacBook 4,1 for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
+      "text": "I have been using Ubuntu Studio on a 2008 [[Apple MacBook 4,1]] for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
     },
     {
       "type": "code",
@@ -225,6 +225,26 @@
       ],
       "id": "cb6ec97e0513778b",
       "date": 1422128527368
+    },
+    {
+      "type": "edit",
+      "id": "903b33b1b61d7249",
+      "item": {
+        "type": "paragraph",
+        "id": "903b33b1b61d7249",
+        "text": "I have been using Ubuntu Studio on a 2008 [[MacBook 4,1]] for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
+      },
+      "date": 1422169038202
+    },
+    {
+      "type": "edit",
+      "id": "903b33b1b61d7249",
+      "item": {
+        "type": "paragraph",
+        "id": "903b33b1b61d7249",
+        "text": "I have been using Ubuntu Studio on a 2008 [[Apple MacBook 4,1]] for some time now. I was using version 12.10, which supported sound and wifi out-of-the-box. I recently upgraded to 13.04, which involved a regression in the wifi support to no support at all.\n\nSo, I rooted around and found this [https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx article] which mentioned the b43 driver. I pretty much just followed the instructions there to install the b43 driver, and I now have wifi support. The actual commands I ran are as follows:"
+      },
+      "date": 1422169083214
     }
   ]
 }

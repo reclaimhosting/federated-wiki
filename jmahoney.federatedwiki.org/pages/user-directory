@@ -57,10 +57,10 @@
     },
     {
       "type": "reference",
-      "id": "3a550d32f144a281",
+      "id": "f2f98b309e62f3a3",
       "site": "jmahoney.federatedwiki.org",
       "title": "Welcome Visitors",
-      "text": "Hello. Salve. Xaiph. My name is James Mahoney."
+      "text": "Hello. Hola. Salve. χαῖρε."
     },
     {
       "type": "paragraph",
@@ -811,6 +811,53 @@
       ],
       "id": "7a7760bec8df2570",
       "date": 1422083367471
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2f98b309e62f3a3"
+      },
+      "id": "f2f98b309e62f3a3",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1422168856628
+    },
+    {
+      "type": "edit",
+      "id": "f2f98b309e62f3a3",
+      "item": {
+        "type": "reference",
+        "id": "f2f98b309e62f3a3",
+        "site": "jmahoney.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "Hello. Hola. Salve. χαῖρε."
+      },
+      "date": 1422168859938
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "3a550d32f144a281",
+        "f2f98b309e62f3a3",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "f2f98b309e62f3a3",
+      "date": 1422168866074
+    },
+    {
+      "type": "remove",
+      "id": "3a550d32f144a281",
+      "date": 1422168874782
     }
   ]
 }

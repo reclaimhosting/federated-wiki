@@ -12,6 +12,11 @@
       "text": "What else should go here?"
     },
     {
+      "type": "pagefold",
+      "id": "54bf41c4967aefa6",
+      "text": "---"
+    },
+    {
       "type": "paragraph",
       "id": "6eac083e2abb0ba9",
       "text": "Here are some things I keep notes on: [[Notes]]"
@@ -134,6 +139,37 @@
         "text": "Man. Baptized and Confirmed Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
       },
       "date": 1422167565381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54bf41c4967aefa6"
+      },
+      "id": "54bf41c4967aefa6",
+      "type": "add",
+      "after": "6eac083e2abb0ba9",
+      "date": 1422168429310
+    },
+    {
+      "type": "edit",
+      "id": "54bf41c4967aefa6",
+      "item": {
+        "type": "pagefold",
+        "id": "54bf41c4967aefa6",
+        "text": "---"
+      },
+      "date": 1422168435938
+    },
+    {
+      "type": "move",
+      "order": [
+        "46ce25a80bd28750",
+        "7728c1a96a80594e",
+        "54bf41c4967aefa6",
+        "6eac083e2abb0ba9"
+      ],
+      "id": "54bf41c4967aefa6",
+      "date": 1422168438804
     }
   ]
 }

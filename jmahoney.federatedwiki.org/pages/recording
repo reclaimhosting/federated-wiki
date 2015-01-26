@@ -2,9 +2,9 @@
   "title": "Recording",
   "story": [
     {
-      "type": "paragraph",
-      "id": "dd206fd3415ecb07",
-      "text": "Ardour terminology:"
+      "type": "pagefold",
+      "id": "9ce85fd6fb7509aa",
+      "text": "Ardour Terminology"
     },
     {
       "type": "paragraph",
@@ -15,6 +15,21 @@
       "type": "paragraph",
       "id": "fad35e596a62f090",
       "text": "Region - a selection of audio within one track"
+    },
+    {
+      "type": "pagefold",
+      "id": "c53aa087fca06e3b",
+      "text": "Ardour Keyboard Shortcuts"
+    },
+    {
+      "type": "paragraph",
+      "id": "d21f7438a882b107",
+      "text": "Alt-D: Duplicate (in Ardour 2, it was just 'D')"
+    },
+    {
+      "type": "paragraph",
+      "id": "44b7d57252d1ae98",
+      "text": "Alt-M: Show/Hide Mixer Window"
     }
   ],
   "journal": [
@@ -96,6 +111,155 @@
         "text": "Region - a selection of audio within one track"
       },
       "date": 1422236243889
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8d966262fd106888",
+        "text": ""
+      },
+      "id": "8d966262fd106888",
+      "type": "add",
+      "after": "fad35e596a62f090",
+      "date": 1422236559330
+    },
+    {
+      "type": "edit",
+      "id": "8d966262fd106888",
+      "item": {
+        "type": "paragraph",
+        "id": "8d966262fd106888",
+        "text": "Keyboard shortcuts:"
+      },
+      "date": 1422236569466
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d21f7438a882b107",
+        "text": ""
+      },
+      "id": "d21f7438a882b107",
+      "type": "add",
+      "after": "8d966262fd106888",
+      "date": 1422236569491
+    },
+    {
+      "type": "edit",
+      "id": "d21f7438a882b107",
+      "item": {
+        "type": "paragraph",
+        "id": "d21f7438a882b107",
+        "text": "Alt-D: Duplicate (in Ardour 2, it was just 'D')"
+      },
+      "date": 1422236588229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ce85fd6fb7509aa"
+      },
+      "id": "9ce85fd6fb7509aa",
+      "type": "add",
+      "after": "d21f7438a882b107",
+      "date": 1422236594567
+    },
+    {
+      "type": "edit",
+      "id": "9ce85fd6fb7509aa",
+      "item": {
+        "type": "pagefold",
+        "id": "9ce85fd6fb7509aa",
+        "text": "Ardour Terminology"
+      },
+      "date": 1422236603283
+    },
+    {
+      "type": "move",
+      "order": [
+        "dd206fd3415ecb07",
+        "9ce85fd6fb7509aa",
+        "3dcc6ed9f3a1d8ff",
+        "fad35e596a62f090",
+        "8d966262fd106888",
+        "d21f7438a882b107"
+      ],
+      "id": "9ce85fd6fb7509aa",
+      "date": 1422236606943
+    },
+    {
+      "type": "remove",
+      "id": "dd206fd3415ecb07",
+      "date": 1422236611760
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c53aa087fca06e3b"
+      },
+      "id": "c53aa087fca06e3b",
+      "type": "add",
+      "after": "d21f7438a882b107",
+      "date": 1422236615131
+    },
+    {
+      "type": "edit",
+      "id": "c53aa087fca06e3b",
+      "item": {
+        "type": "pagefold",
+        "id": "c53aa087fca06e3b",
+        "text": "Keyboard Shortcuts"
+      },
+      "date": 1422236626076
+    },
+    {
+      "type": "move",
+      "order": [
+        "9ce85fd6fb7509aa",
+        "3dcc6ed9f3a1d8ff",
+        "fad35e596a62f090",
+        "8d966262fd106888",
+        "c53aa087fca06e3b",
+        "d21f7438a882b107"
+      ],
+      "id": "c53aa087fca06e3b",
+      "date": 1422236628893
+    },
+    {
+      "type": "remove",
+      "id": "8d966262fd106888",
+      "date": 1422236632131
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "44b7d57252d1ae98",
+        "text": ""
+      },
+      "id": "44b7d57252d1ae98",
+      "type": "add",
+      "after": "d21f7438a882b107",
+      "date": 1422236634933
+    },
+    {
+      "type": "edit",
+      "id": "44b7d57252d1ae98",
+      "item": {
+        "type": "paragraph",
+        "id": "44b7d57252d1ae98",
+        "text": "Alt-M: Show/Hide Mixer Window"
+      },
+      "date": 1422236647125
+    },
+    {
+      "type": "edit",
+      "id": "c53aa087fca06e3b",
+      "item": {
+        "type": "pagefold",
+        "id": "c53aa087fca06e3b",
+        "text": "Ardour Keyboard Shortcuts"
+      },
+      "date": 1422236660206
     }
   ]
 }

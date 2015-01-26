@@ -1,0 +1,55 @@
+{
+  "title": "Band Name Ideas",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a66f0de070788cac",
+      "text": "Popcorn Death Machine"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee1a6636326b10c3",
+      "text": "Motha-Fuckin Toast with Butter (Bitches) (AND JAM) [esclation (Batman voice)]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Band Name Ideas",
+        "story": []
+      },
+      "date": 1422236848316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a66f0de070788cac"
+      },
+      "id": "a66f0de070788cac",
+      "type": "add",
+      "date": 1422236851130
+    },
+    {
+      "type": "edit",
+      "id": "a66f0de070788cac",
+      "item": {
+        "type": "paragraph",
+        "id": "a66f0de070788cac",
+        "text": "Popcorn Death Machine"
+      },
+      "date": 1422236867422
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ee1a6636326b10c3",
+        "text": "Motha-Fuckin Toast with Butter (Bitches) (AND JAM) [esclation (Batman voice)]\n"
+      },
+      "id": "ee1a6636326b10c3",
+      "type": "add",
+      "after": "a66f0de070788cac",
+      "date": 1422236867450
+    }
+  ]
+}

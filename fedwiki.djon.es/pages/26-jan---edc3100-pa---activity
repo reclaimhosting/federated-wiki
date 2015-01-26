@@ -1,0 +1,685 @@
+{
+  "title": "26 Jan - EDC3100 PA - Activity",
+  "story": [
+    {
+      "type": "html",
+      "id": "77d18a320487ed53",
+      "text": "<h3>Aim</h3>\n\nGet the activity completion statistics working."
+    },
+    {
+      "type": "html",
+      "id": "1f2a40196783e3fb",
+      "text": "<h3>Tasks</h3>\n\n<ol>\n  <li> Need a new table to map (or something)\n      <ul>\n        <li> Long title (remote) to short title (local import) </li>\n        <li> Remote id and local id </li>\n      </ul>\n  </li>\n  <li> SQL and PHP to extract the data for a given student . </li>\n  <li> Additional PHP to get it into a form for HTML/jquery </li>\n  <li> Display it </li>\n</ol>"
+    },
+    {
+      "type": "markdown",
+      "id": "5da70b1d3d30e3f2",
+      "text": "##Mapping\n"
+    },
+    {
+      "type": "html",
+      "id": "ef5ff43eeea55c61",
+      "text": "<strong>Problem:</strong> how to extract the activity completion data for a user and be able to extract all the necessary information for display (name of activity, week it belongs to, module the week belongs to, when the user completed the activity and perhaps how many others have completed the activity)\n"
+    },
+    {
+      "type": "html",
+      "id": "263f1bafca626b06",
+      "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+    },
+    {
+      "type": "html",
+      "id": "1eeffd7874915f7a",
+      "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Identify what will need to be extracted.  (see below) <strong>DONE</strong>\n      <ul>\n        <li> Topics - their names <br />\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included \n<p>    Will need to do this via a semi-manual script. Read the activity CSV file, extract the short titles, see if can get unique match from long titles and assign if correct. Report error otherwise.</p>\n </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5ca931fd2e5436f3",
+      "text": "####Topics"
+    },
+    {
+      "type": "paragraph",
+      "id": "ffb5d9149087919f",
+      "text": "Topics - are shown as a  <h3 class=\"sectionname\">  Orientation - {{WEEK_1_DATES}}</h3> - so grabbing the sectionname stuff should be sufficient"
+    },
+    {
+      "type": "paragraph",
+      "id": "a9dfaec7aa99b221",
+      "text": "Better yet, there are list elements (li) with id=\"section-?\" where ? gets replaced with a number indicating the order.  It includes an attribute \"aria-label\" which includes the title of the section.  (and this works on the older course sites - so built into Moodle??)"
+    },
+    {
+      "type": "paragraph",
+      "id": "79f406ae8fb6f10c",
+      "text": "All of the activities for that section will be included below."
+    },
+    {
+      "type": "markdown",
+      "id": "419bfb6a00b41513",
+      "text": "## Activities\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "be0c19f7dc6cb4f6",
+      "text": "Activities start with\n<li id=\"module-321205\" class=\"activity page modtype_page\">\nfrom which the id can be extracted, but not the name\n\nWithin the list element is a \n  <div class=\"activityinstance\">\nwith\n  <a class=\"\" href=\"URL\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "ccf3868a65c97460",
+      "text": "and includes a <span class=\"instancename\"> that contains the name"
+    },
+    {
+      "type": "markdown",
+      "id": "de9258066d1c8e81",
+      "text": "###Additional table"
+    },
+    {
+      "type": "paragraph",
+      "id": "e940b95a7d78a19e",
+      "text": "Initial thought"
+    },
+    {
+      "type": "paragraph",
+      "id": "2602d5394c81a22c",
+      "text": "activity_mapping : [ "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "26 Jan - EDC3100 PA - Activity",
+        "story": []
+      },
+      "date": 1422222625102
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "77d18a320487ed53"
+      },
+      "id": "77d18a320487ed53",
+      "type": "add",
+      "date": 1422222627046
+    },
+    {
+      "type": "edit",
+      "id": "77d18a320487ed53",
+      "item": {
+        "type": "html",
+        "id": "77d18a320487ed53",
+        "text": "<h3>Aim</h3>\n\nGet the activity completion statistics working."
+      },
+      "date": 1422222650007
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f2a40196783e3fb"
+      },
+      "id": "1f2a40196783e3fb",
+      "type": "add",
+      "after": "77d18a320487ed53",
+      "date": 1422222652567
+    },
+    {
+      "type": "edit",
+      "id": "1f2a40196783e3fb",
+      "item": {
+        "type": "html",
+        "id": "1f2a40196783e3fb",
+        "text": "<h3>Tasks</h3>\n\n<ol>\n  <li> Need a new table to map (or something)\n      <ul>\n        <li> Long title (remote) to short title (local import) </li>\n        <li> Remote id and local id </li>\n      </ul>\n  </li>\n  <li> SQL and PHP to extract the data for a given student . </li>\n  <li> Additional PHP to get it into a form for HTML/jquery </li>\n  <li> Display it </li>\n</ol>"
+      },
+      "date": 1422222764877
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "5da70b1d3d30e3f2",
+        "text": "##Mapping\n"
+      },
+      "id": "5da70b1d3d30e3f2",
+      "type": "add",
+      "after": "1f2a40196783e3fb",
+      "date": 1422223479154
+    },
+    {
+      "type": "edit",
+      "id": "5da70b1d3d30e3f2",
+      "item": {
+        "type": "markdown",
+        "id": "5da70b1d3d30e3f2",
+        "text": "##Mapping\n"
+      },
+      "date": 1422223487093
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "ef5ff43eeea55c61",
+        "text": "<strong>Problem:</strong> how to extract the activity completion data for a user and be able to extract all the necessary information for display (name of activity, week it belongs to, module the week belongs to, when the user completed the activity and perhaps how many others have completed the activity)\n"
+      },
+      "id": "ef5ff43eeea55c61",
+      "type": "add",
+      "after": "5da70b1d3d30e3f2",
+      "date": 1422223488936
+    },
+    {
+      "type": "edit",
+      "id": "ef5ff43eeea55c61",
+      "item": {
+        "type": "html",
+        "id": "ef5ff43eeea55c61",
+        "text": "<strong>Problem:</strong> how to extract the activity completion data for a user and be able to extract all the necessary information for display (name of activity, week it belongs to, module the week belongs to, when the user completed the activity and perhaps how many others have completed the activity)\n"
+      },
+      "date": 1422223561646
+    },
+    {
+      "type": "edit",
+      "id": "ef5ff43eeea55c61",
+      "item": {
+        "type": "html",
+        "id": "ef5ff43eeea55c61",
+        "text": "<strong>Problem:</strong> how to extract the activity completion data for a user and be able to extract all the necessary information for display (name of activity, week it belongs to, module the week belongs to, when the user completed the activity and perhaps how many others have completed the activity)\n"
+      },
+      "date": 1422223568883
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "id": "263f1bafca626b06",
+      "type": "add",
+      "after": "ef5ff43eeea55c61",
+      "date": 1422223599241
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422223758420
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422223804530
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422223825156
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422223896722
+    },
+    {
+      "type": "edit",
+      "id": "263f1bafca626b06",
+      "item": {
+        "type": "html",
+        "id": "263f1bafca626b06",
+        "text": "Current data\n<ul>\n  <li> Local\n        <ul>\n          <li> userid mapping in mdl_user </li>\n          <li> activity completion in mdl_course_modules_completion\n    <p><em>Question:</em> Do the userids in completion match up to those in mdl_user? </li>\n          <li> ??? Other hard coded mappings?? </li>\n        </ul>\n  </li>\n  <li> Remote\n    <ul>\n      <li> Excel spreadsheet that gives \"short activity name\" completed and datetime completed for each user. </li>\n      <li> mdl_course_modules - [ <u>id</u>, course, module, section, idnumber, completion ]\n        <p>In theory this could give access to range of information. But doesn't include the module name and section is an id into another table.</p>\n      <p>The name is actually in the database for each specific module. e.g. name of a BIM activity is in mdl_bim.  <a href=\"https://docs.moodle.org/dev/Database_schema_introduction#Activities_and_their_arrangement_within_courses\">This page</a> has more information about the database structure.</p>\n\n </li>\n      <li> mdl_course_modules_completion - what the users have completed </li>\n    </ul>\n  </li>\n</ul>  "
+      },
+      "date": 1422309974860,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422310894807,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422310937758
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1eeffd7874915f7a"
+      },
+      "id": "1eeffd7874915f7a",
+      "type": "add",
+      "after": "263f1bafca626b06",
+      "date": 1422310953464
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311152591
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n\n\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311246382
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names \n <xmp><h3 class=\"sectionname\">Orientation - {{WEEK_1_DATES}}</h3></xmp>\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311304622
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names \n &lt;h3 class=\"sectionname\"&gt;Orientation - {{WEEK_1_DATES}}</h3></xmp>\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311322889
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names <br />\n <h3 class=\"sectionname\">Orientation - {{WEEK_1_DATES}}&lt;/h3&gt;\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311343028
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names <br />\n &lt;h3 class=\"sectionname\">Orientation - {{WEEK_1_DATES}}</h3>\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311360407
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted. \n      <ul>\n        <li> Topics - their names <br />\n h3 class=\"sectionname\"  Orientation - {{WEEK_1_DATES}}\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311407089
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Double check the format of the page.\n</li>\n  <li> Identify what will need to be extracted.  (see below)\n      <ul>\n        <li> Topics - their names <br />\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311461075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffb5d9149087919f"
+      },
+      "id": "ffb5d9149087919f",
+      "type": "add",
+      "after": "1eeffd7874915f7a",
+      "date": 1422311464709
+    },
+    {
+      "type": "edit",
+      "id": "ffb5d9149087919f",
+      "item": {
+        "type": "paragraph",
+        "id": "ffb5d9149087919f",
+        "text": "Topics - are shown as a  <h3 class=\"sectionname\">  Orientation - {{WEEK_1_DATES}}</h3> - so grabbing the sectionname stuff should be sufficient"
+      },
+      "date": 1422311498012
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52e4797e883c6eb5",
+        "text": "\n"
+      },
+      "id": "52e4797e883c6eb5",
+      "type": "add",
+      "after": "ffb5d9149087919f",
+      "date": 1422311498048
+    },
+    {
+      "type": "remove",
+      "id": "52e4797e883c6eb5",
+      "date": 1422311534327
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92abde3b42ca08dd"
+      },
+      "id": "92abde3b42ca08dd",
+      "type": "add",
+      "after": "ffb5d9149087919f",
+      "date": 1422311537726
+    },
+    {
+      "type": "edit",
+      "id": "92abde3b42ca08dd",
+      "item": {
+        "type": "markdown",
+        "id": "92abde3b42ca08dd",
+        "text": "Activities start with\n  <li id=\"module-321205\" class=\"activity page modtype_page\">\nfrom which the id can be extracted, but not the name\n\nWithin the list element is a \n  <div class=\"activityinstance\">\nwith\n  <a class=\"\" href=\"URL"
+      },
+      "date": 1422311602203
+    },
+    {
+      "type": "edit",
+      "id": "92abde3b42ca08dd",
+      "item": {
+        "type": "markdown",
+        "id": "92abde3b42ca08dd",
+        "text": "Activities start with\n<li id=\"module-321205\" class=\"activity page modtype_page\">\nfrom which the id can be extracted, but not the name\n\nWithin the list element is a \n  <div class=\"activityinstance\">\nwith\n  <a class=\"\" href=\"URL"
+      },
+      "date": 1422311621807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be0c19f7dc6cb4f6"
+      },
+      "id": "be0c19f7dc6cb4f6",
+      "type": "add",
+      "after": "92abde3b42ca08dd",
+      "date": 1422311627864
+    },
+    {
+      "type": "remove",
+      "id": "92abde3b42ca08dd",
+      "date": 1422311629793
+    },
+    {
+      "type": "edit",
+      "id": "be0c19f7dc6cb4f6",
+      "item": {
+        "type": "paragraph",
+        "id": "be0c19f7dc6cb4f6",
+        "text": "Activities start with\n<li id=\"module-321205\" class=\"activity page modtype_page\">\nfrom which the id can be extracted, but not the name\n\nWithin the list element is a \n  <div class=\"activityinstance\">\nwith\n  <a class=\"\" href=\"URL"
+      },
+      "date": 1422311632358
+    },
+    {
+      "type": "edit",
+      "id": "be0c19f7dc6cb4f6",
+      "item": {
+        "type": "paragraph",
+        "id": "be0c19f7dc6cb4f6",
+        "text": "Activities start with\n<li id=\"module-321205\" class=\"activity page modtype_page\">\nfrom which the id can be extracted, but not the name\n\nWithin the list element is a \n  <div class=\"activityinstance\">\nwith\n  <a class=\"\" href=\"URL\">"
+      },
+      "date": 1422311643753
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ccf3868a65c97460",
+        "text": ""
+      },
+      "id": "ccf3868a65c97460",
+      "type": "add",
+      "after": "be0c19f7dc6cb4f6",
+      "date": 1422311643784
+    },
+    {
+      "type": "edit",
+      "id": "ccf3868a65c97460",
+      "item": {
+        "type": "paragraph",
+        "id": "ccf3868a65c97460",
+        "text": "and includes a <span class=\"instancename\"> that contains the name"
+      },
+      "date": 1422311660276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "419bfb6a00b41513"
+      },
+      "id": "419bfb6a00b41513",
+      "type": "add",
+      "after": "ccf3868a65c97460",
+      "date": 1422311663153
+    },
+    {
+      "type": "edit",
+      "id": "419bfb6a00b41513",
+      "item": {
+        "type": "markdown",
+        "id": "419bfb6a00b41513",
+        "text": "## Activities\n"
+      },
+      "date": 1422311668923
+    },
+    {
+      "type": "move",
+      "order": [
+        "77d18a320487ed53",
+        "1f2a40196783e3fb",
+        "5da70b1d3d30e3f2",
+        "ef5ff43eeea55c61",
+        "263f1bafca626b06",
+        "1eeffd7874915f7a",
+        "ffb5d9149087919f",
+        "419bfb6a00b41513",
+        "be0c19f7dc6cb4f6",
+        "ccf3868a65c97460"
+      ],
+      "id": "419bfb6a00b41513",
+      "date": 1422311671918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5ca931fd2e5436f3"
+      },
+      "id": "5ca931fd2e5436f3",
+      "type": "add",
+      "after": "ccf3868a65c97460",
+      "date": 1422311673907
+    },
+    {
+      "type": "edit",
+      "id": "5ca931fd2e5436f3",
+      "item": {
+        "type": "markdown",
+        "id": "5ca931fd2e5436f3",
+        "text": "####Topics"
+      },
+      "date": 1422311679775
+    },
+    {
+      "type": "move",
+      "order": [
+        "77d18a320487ed53",
+        "1f2a40196783e3fb",
+        "5da70b1d3d30e3f2",
+        "ef5ff43eeea55c61",
+        "263f1bafca626b06",
+        "1eeffd7874915f7a",
+        "5ca931fd2e5436f3",
+        "ffb5d9149087919f",
+        "419bfb6a00b41513",
+        "be0c19f7dc6cb4f6",
+        "ccf3868a65c97460"
+      ],
+      "id": "5ca931fd2e5436f3",
+      "date": 1422311684566
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a9dfaec7aa99b221",
+        "text": ""
+      },
+      "id": "a9dfaec7aa99b221",
+      "type": "add",
+      "after": "ffb5d9149087919f",
+      "date": 1422311748895
+    },
+    {
+      "type": "edit",
+      "id": "a9dfaec7aa99b221",
+      "item": {
+        "type": "paragraph",
+        "id": "a9dfaec7aa99b221",
+        "text": "Better yet, there are list elements (li) with id=\"section-?\" where ? gets replaced with a number indicating the order.  It includes an attribute \"aria-label\" which includes the title of the section. "
+      },
+      "date": 1422311817253
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79f406ae8fb6f10c",
+        "text": ""
+      },
+      "id": "79f406ae8fb6f10c",
+      "type": "add",
+      "after": "a9dfaec7aa99b221",
+      "date": 1422311817343
+    },
+    {
+      "type": "edit",
+      "id": "79f406ae8fb6f10c",
+      "item": {
+        "type": "paragraph",
+        "id": "79f406ae8fb6f10c",
+        "text": "All of the activities for that section will be included below."
+      },
+      "date": 1422311828965
+    },
+    {
+      "type": "edit",
+      "id": "a9dfaec7aa99b221",
+      "item": {
+        "type": "paragraph",
+        "id": "a9dfaec7aa99b221",
+        "text": "Better yet, there are list elements (li) with id=\"section-?\" where ? gets replaced with a number indicating the order.  It includes an attribute \"aria-label\" which includes the title of the section.  (and this works on the older course sites - so built into Moodle??)"
+      },
+      "date": 1422311893181
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Identify what will need to be extracted.  (see below) <strong>DONE</strong>\n      <ul>\n        <li> Topics - their names <br />\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311915644
+    },
+    {
+      "type": "edit",
+      "id": "1eeffd7874915f7a",
+      "item": {
+        "type": "html",
+        "id": "1eeffd7874915f7a",
+        "text": "<strong>Extracting the correct data</strong> - plan is to extract the correct activity ids and names by parsing the course home page.  Process will have to be\n<ol>\n  <li> Identify what will need to be extracted.  (see below) <strong>DONE</strong>\n      <ul>\n        <li> Topics - their names <br />\n   </li>\n        <li> Activities in those topics </li>\n        <li> Activity names and their ids </li>\n      </ul>\n \n  </li>\n  <li> Figure out how to get the \"short name\" included in the activity completion included \n<p>    Will need to do this via a semi-manual script. Read the activity CSV file, extract the short titles, see if can get unique match from long titles and assign if correct. Report error otherwise.</p>\n </li>\n  <li> Design an additional table to store this information (saving having to update all of the databases). </li>\n  <li> Write a Perl script that will extract the data and insert it into a database </li>\n  <li> See how to update the older courses to have this information (this could be a test using the 2014 S1 course) </li>\n</ol>\n"
+      },
+      "date": 1422311993594
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de9258066d1c8e81"
+      },
+      "id": "de9258066d1c8e81",
+      "type": "add",
+      "after": "ccf3868a65c97460",
+      "date": 1422312006218
+    },
+    {
+      "type": "edit",
+      "id": "de9258066d1c8e81",
+      "item": {
+        "type": "markdown",
+        "id": "de9258066d1c8e81",
+        "text": "###Additional table"
+      },
+      "date": 1422312014181
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e940b95a7d78a19e"
+      },
+      "id": "e940b95a7d78a19e",
+      "type": "add",
+      "after": "de9258066d1c8e81",
+      "date": 1422312017893
+    },
+    {
+      "type": "edit",
+      "id": "e940b95a7d78a19e",
+      "item": {
+        "type": "paragraph",
+        "id": "e940b95a7d78a19e",
+        "text": "Initial thought"
+      },
+      "date": 1422312024585
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2602d5394c81a22c",
+        "text": ""
+      },
+      "id": "2602d5394c81a22c",
+      "type": "add",
+      "after": "e940b95a7d78a19e",
+      "date": 1422312024593
+    },
+    {
+      "type": "edit",
+      "id": "2602d5394c81a22c",
+      "item": {
+        "type": "paragraph",
+        "id": "2602d5394c81a22c",
+        "text": "activity_mapping : [ "
+      },
+      "date": 1422312042776
+    }
+  ]
+}

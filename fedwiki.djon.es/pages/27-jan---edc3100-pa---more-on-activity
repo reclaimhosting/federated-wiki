@@ -1,0 +1,170 @@
+{
+  "title": "27 Jan - EDC3100 PA - More on activity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6085ce64c53aa970",
+      "text": "See [[26 Jan - EDC3100 PA - Activity]] for lead up"
+    },
+    {
+      "type": "markdown",
+      "id": "97a95bb6d5a38044",
+      "text": "###Overall suggested process"
+    },
+    {
+      "type": "html",
+      "id": "c764b02ea7db465d",
+      "text": "<ol>\n  <li> Download as complete as possible course page. </li>\n  <li> perl parseActivity.pl\n     <p>Run a script that extracts activity and section details from the course page HTML and updates activity_mapping</p>\n     <p>Perhaps it deletes and replaces entirely the contents of activity_mapping so that this can be just run every time the course is changed. Or perhaps run as a cron job and done automatically.</p>\n     <p>Idea being that this is only changing activity_mapping and any changes that I do to the course site should be handled automatically. eg.</p>\n     <ul>\n       <li> Delete an activity <p>It doesn't appear in activity_mapping and then won't be counted when doing activity completion for the course. </p> </li>\n       <li> Add an activity<p>New id for the activity is added in. </p> </li>\n       <li> Move an activity<p>Id belongs to a new section and all is good. </p> </li>\n     </ul>\n  </li>\n  <li> run perl parseCompletion.pl\n      <p>A script that parses the activity completion spreadsheet, checks to see if it can find a match for all the activities in the spreadsheet and with the activity_mapping table and then updates mdl_course_completions etc based on that data. </p> </li>\n</ol>\n\n<p>This produces and maintains the database that is used by both the process analytics and also the assignment marking thing.</p>"
+    },
+    {
+      "type": "markdown",
+      "id": "32b8b4d981167a2d",
+      "text": "###parseActivity.pl"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "27 Jan - EDC3100 PA - More on activity",
+        "story": []
+      },
+      "date": 1422312791226
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "97a95bb6d5a38044",
+        "text": "###Overall suggested process"
+      },
+      "id": "97a95bb6d5a38044",
+      "date": 1422312802304
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "c764b02ea7db465d",
+        "text": "<ol>\n  <li> Download as complete as possible course page. </li>\n  <li> perl parseActivity.pl\n     <p>Run a script that extracts activity and section details from the course page HTML and updates activity_mapping</p>\n     <p>Perhaps it deletes and replaces entirely the contents of activity_mapping so that this can be just run every time the course is changed. Or perhaps run as a cron job and done automatically.</p>\n     <p>Idea being that this is only changing activity_mapping and any changes that I do to the course site should be handled automatically. eg.</p>\n     <ul>\n       <li> Delete an activity <p>It doesn't appear in activity_mapping and then won't be counted when doing activity completion for the course. </p> </li>\n       <li> Add an activity<p>New id for the activity is added in. </p> </li>\n       <li> Move an activity<p>Id belongs to a new section and all is good. </p> </li>\n     </ul>\n  </li>\n  <li> run perl parseCompletion.pl\n      <p>A script that parses the activity completion spreadsheet, checks to see if it can find a match for all the activities in the spreadsheet and with the activity_mapping table and then updates mdl_course_completions etc based on that data. </p> </li>\n</ol>\n\n<p>This produces and maintains the database that is used by both the process analytics and also the assignment marking thing.</p>"
+      },
+      "id": "c764b02ea7db465d",
+      "date": 1422312807472
+    },
+    {
+      "type": "move",
+      "order": [
+        "97a95bb6d5a38044",
+        "c764b02ea7db465d"
+      ],
+      "id": "97a95bb6d5a38044",
+      "date": 1422312811101
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6085ce64c53aa970",
+        "text": "See [[26 Jan - EDC3100 PA]] for lead up"
+      },
+      "id": "6085ce64c53aa970",
+      "type": "add",
+      "after": "c764b02ea7db465d",
+      "date": 1422312830182
+    },
+    {
+      "type": "edit",
+      "id": "6085ce64c53aa970",
+      "item": {
+        "type": "paragraph",
+        "id": "6085ce64c53aa970",
+        "text": "See [[26 Jan - EDC3100 PA]] for lead up"
+      },
+      "date": 1422312833782
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f9a44a614121536",
+        "text": ""
+      },
+      "id": "1f9a44a614121536",
+      "type": "add",
+      "after": "6085ce64c53aa970",
+      "date": 1422312833799
+    },
+    {
+      "type": "move",
+      "order": [
+        "6085ce64c53aa970",
+        "97a95bb6d5a38044",
+        "c764b02ea7db465d",
+        "1f9a44a614121536"
+      ],
+      "id": "6085ce64c53aa970",
+      "date": 1422312837059
+    },
+    {
+      "type": "remove",
+      "id": "1f9a44a614121536",
+      "date": 1422312837136
+    },
+    {
+      "type": "edit",
+      "id": "6085ce64c53aa970",
+      "item": {
+        "type": "paragraph",
+        "id": "6085ce64c53aa970",
+        "text": "See [[26 Jan - EDC3100 PA]] for lead up"
+      },
+      "date": 1422312874953,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422312886163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "32b8b4d981167a2d"
+      },
+      "id": "32b8b4d981167a2d",
+      "type": "add",
+      "after": "c764b02ea7db465d",
+      "date": 1422312893231
+    },
+    {
+      "type": "edit",
+      "id": "32b8b4d981167a2d",
+      "item": {
+        "type": "markdown",
+        "id": "32b8b4d981167a2d",
+        "text": "###parseActivity.pl"
+      },
+      "date": 1422312903861
+    },
+    {
+      "type": "edit",
+      "id": "6085ce64c53aa970",
+      "item": {
+        "type": "paragraph",
+        "id": "6085ce64c53aa970",
+        "text": "See [[26 Jan - EDC3100 PA - Activity]] for lead up"
+      },
+      "date": 1422313142308,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1422313157839
+    }
+  ]
+}

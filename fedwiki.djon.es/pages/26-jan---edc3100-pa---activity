@@ -85,16 +85,6 @@
       "type": "html",
       "id": "d3e2b3f439ca3ff7",
       "text": "<ul>\n  <li> id \n     <p>unique id from page. Also used to populate the mdl_course_modules table locally via the activity completion report. </p> <p>id taken by parsing page</p></li>\n  <li> course_id\n       <p>The remote course id for the course to which this information belongs.  Entered manually into the parse perl script.</p> </li>\n  <li> section_title and section_num\n     <p>The title and number (order in sections) of the section to which the activity belongs. </p><p>Inserted when parsing the page. </p> </li>\n  <li> activity_long_name\n       <p>Full name for activity taken from parsing the home page</p> </li>\n  <Li> activity_short_name\n      <p>Short name used in the activity completion spreadsheet.  Entered via manual script. </p> </li>\n</ul>"
-    },
-    {
-      "type": "markdown",
-      "id": "97a95bb6d5a38044",
-      "text": "###Overall suggested process"
-    },
-    {
-      "type": "html",
-      "id": "c764b02ea7db465d",
-      "text": "<ol>\n  <li> Download as complete as possible course page. </li>\n  <li> perl parseActivity.pl\n     <p>Run a script that extracts activity and section details from the course page HTML and updates activity_mapping</p>\n     <p>Perhaps it deletes and replaces entirely the contents of activity_mapping so that this can be just run every time the course is changed. Or perhaps run as a cron job and done automatically.</p>\n     <p>Idea being that this is only changing activity_mapping and any changes that I do to the course site should be handled automatically. eg.</p>\n     <ul>\n       <li> Delete an activity <p>It doesn't appear in activity_mapping and then won't be counted when doing activity completion for the course. </p> </li>\n       <li> Add an activity<p>New id for the activity is added in. </p> </li>\n       <li> Move an activity<p>Id belongs to a new section and all is good. </p> </li>\n     </ul>\n  </li>\n  <li> run perl parseCompletion.pl\n      <p>A script that parses the activity completion spreadsheet, checks to see if it can find a match for all the activities in the spreadsheet and with the activity_mapping table and then updates mdl_course_completions etc based on that data. </p> </li>\n</ol>\n\n<p>This produces and maintains the database that is used by both the process analytics and also the assignment marking thing.</p>"
     }
   ],
   "journal": [
@@ -811,6 +801,16 @@
         "text": "<ol>\n  <li> Download as complete as possible course page. </li>\n  <li> perl parseActivity.pl\n     <p>Run a script that extracts activity and section details from the course page HTML and updates activity_mapping</p>\n     <p>Perhaps it deletes and replaces entirely the contents of activity_mapping so that this can be just run every time the course is changed. Or perhaps run as a cron job and done automatically.</p>\n     <p>Idea being that this is only changing activity_mapping and any changes that I do to the course site should be handled automatically. eg.</p>\n     <ul>\n       <li> Delete an activity <p>It doesn't appear in activity_mapping and then won't be counted when doing activity completion for the course. </p> </li>\n       <li> Add an activity<p>New id for the activity is added in. </p> </li>\n       <li> Move an activity<p>Id belongs to a new section and all is good. </p> </li>\n     </ul>\n  </li>\n  <li> run perl parseCompletion.pl\n      <p>A script that parses the activity completion spreadsheet, checks to see if it can find a match for all the activities in the spreadsheet and with the activity_mapping table and then updates mdl_course_completions etc based on that data. </p> </li>\n</ol>\n\n<p>This produces and maintains the database that is used by both the process analytics and also the assignment marking thing.</p>"
       },
       "date": 1422312637742
+    },
+    {
+      "type": "remove",
+      "id": "97a95bb6d5a38044",
+      "date": 1422312802300
+    },
+    {
+      "type": "remove",
+      "id": "c764b02ea7db465d",
+      "date": 1422312807468
     }
   ]
 }

@@ -40,6 +40,11 @@
       "type": "paragraph",
       "id": "c4822e8c009601ca",
       "text": "[[26 Jan - EDC3100 PA - Activity]] - hopefully where I get the activity completion stats done"
+    },
+    {
+      "type": "paragraph",
+      "id": "48d1c990b2e05ee9",
+      "text": "[[27 Jan - EDC3100 PA - More on activity]] - Starting long trek to extracting and inserting the activity data into a form that can be used."
     }
   ],
   "journal": [
@@ -258,6 +263,26 @@
         "text": "[[26 Jan - EDC3100 PA - Activity]] - hopefully where I get the activity completion stats done"
       },
       "date": 1422222621252
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48d1c990b2e05ee9"
+      },
+      "id": "48d1c990b2e05ee9",
+      "type": "add",
+      "after": "c4822e8c009601ca",
+      "date": 1422312752210
+    },
+    {
+      "type": "edit",
+      "id": "48d1c990b2e05ee9",
+      "item": {
+        "type": "paragraph",
+        "id": "48d1c990b2e05ee9",
+        "text": "[[27 Jan - EDC3100 PA - More on activity]] - Starting long trek to extracting and inserting the activity data into a form that can be used."
+      },
+      "date": 1422312777345
     }
   ]
 }

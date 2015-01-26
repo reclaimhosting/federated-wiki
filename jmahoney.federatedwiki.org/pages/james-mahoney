@@ -7,11 +7,6 @@
       "text": "Man. Baptized and Confirmed Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
     },
     {
-      "type": "paragraph",
-      "id": "7728c1a96a80594e",
-      "text": "What else should go here?"
-    },
-    {
       "type": "pagefold",
       "id": "54bf41c4967aefa6",
       "text": "---"
@@ -170,6 +165,37 @@
       ],
       "id": "54bf41c4967aefa6",
       "date": 1422168438804
+    },
+    {
+      "type": "edit",
+      "id": "7728c1a96a80594e",
+      "item": {
+        "type": "paragraph",
+        "id": "7728c1a96a80594e",
+        "text": "My scattered Web \"presence:\""
+      },
+      "date": 1422239003002
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ed77fcf6e93edd82",
+        "text": ""
+      },
+      "id": "ed77fcf6e93edd82",
+      "type": "add",
+      "after": "7728c1a96a80594e",
+      "date": 1422239003043
+    },
+    {
+      "type": "remove",
+      "id": "ed77fcf6e93edd82",
+      "date": 1422239009583
+    },
+    {
+      "type": "remove",
+      "id": "7728c1a96a80594e",
+      "date": 1422239012539
     }
   ]
 }

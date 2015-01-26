@@ -24,17 +24,32 @@
     {
       "type": "paragraph",
       "id": "22841f2c04df6210",
-      "text": "First, some working definitions (I may be botching the historic definitions of things like line break and carriage return):"
+      "text": "First, some working definitions you may wish to read if you are unfamiliar with these things. (I may be botching the historic definitions of things like line break and carriage return):"
     },
     {
       "type": "paragraph",
       "id": "c39bb87b71f574b9",
-      "text": "[[Soft Wrap]] - The editor inserts line breaks into the displayed text of a file according to a column width that you specify. It does NOT insert actual linebreaks into the file. Rather, it displays very long lines (those longer than 80, 67 or whatever number of columns you specify) as shorter lines. This is to make your work easier, i.e., you don't have to scroll back and forth while editing a very long line of code, but the line stays as one line without any line breaks in the actual file."
+      "text": "[[Soft Wrap]], [[Hard Wrap]]/Line Break"
     },
     {
       "type": "paragraph",
-      "id": "16e503139299b081",
-      "text": "[[Hard Wrap]]/[[Line Break]] - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file. To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      "id": "c3bca3cdef8d7cb9",
+      "text": "To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap."
+    },
+    {
+      "type": "paragraph",
+      "id": "7ba410fd97eb1ecb",
+      "text": "'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'."
+    },
+    {
+      "type": "paragraph",
+      "id": "e938c65f6965beed",
+      "text": "N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.'"
+    },
+    {
+      "type": "paragraph",
+      "id": "562c4066254415f8",
+      "text": "N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
     },
     {
       "type": "paragraph",
@@ -176,6 +191,161 @@
         "text": "A few things to make using 'Pe' to edit gopher files work well:"
       },
       "date": 1422235763374
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c3bca3cdef8d7cb9",
+        "text": "To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap. 'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      },
+      "id": "c3bca3cdef8d7cb9",
+      "type": "add",
+      "after": "16e503139299b081",
+      "date": 1422235902944
+    },
+    {
+      "type": "edit",
+      "id": "c3bca3cdef8d7cb9",
+      "item": {
+        "type": "paragraph",
+        "id": "c3bca3cdef8d7cb9",
+        "text": "To set up column width and soft wrap (again, this must be done for each file) go to: 'Window' --> 'File Options...' --> 'Wrapping' in the left-hand column. Use the 'Soft Wrap Files' checkbox to have 'Pe' soft wrap the file every time it opens it. Set the 'Fixed Column:' number to 67 if you are working with gopher files, especially a gophermap."
+      },
+      "date": 1422235917369
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7ba410fd97eb1ecb",
+        "text": "'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'. N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      },
+      "id": "7ba410fd97eb1ecb",
+      "type": "add",
+      "after": "c3bca3cdef8d7cb9",
+      "date": 1422235917424
+    },
+    {
+      "type": "edit",
+      "id": "7ba410fd97eb1ecb",
+      "item": {
+        "type": "paragraph",
+        "id": "7ba410fd97eb1ecb",
+        "text": "'Pe' also has a nice button, 'Softwrap', the rightmost one that looks kind of like a newspaper or a document with two columns, to toggle soft wrap while editing a file. I recommend inserting the hard line breaks when you are done\nediting the file. Again, this will make the actual file contain lines that are of the length (column width) that you specify. 'Pe' can perform this operation on arbitrary selections of text. To do this on the whole file: Select all of the text, either by typing 'Alt-A' or by clicking 'Edit' --> 'Select All'. Then, click 'Text' --> 'Insert Linebreaks'."
+      },
+      "date": 1422235935882
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e938c65f6965beed",
+        "text": "N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.' N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      },
+      "id": "e938c65f6965beed",
+      "type": "add",
+      "after": "7ba410fd97eb1ecb",
+      "date": 1422235935917
+    },
+    {
+      "type": "edit",
+      "id": "e938c65f6965beed",
+      "item": {
+        "type": "paragraph",
+        "id": "e938c65f6965beed",
+        "text": "N.B. When editing a gophermap, you do not want to insert line breaks into the lines beginning with a number or letter code specifying an itemtype. Just keep your descriptions to 67 characters or less. Insert linebreaks into your paragraphs by individually selecting them and performing 'Insert Linebreaks.'"
+      },
+      "date": 1422235947348
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "562c4066254415f8",
+        "text": "N.B. It seems that soft wrap must be enabled in order to perform\nthe 'Insert Linebreaks' function."
+      },
+      "id": "562c4066254415f8",
+      "type": "add",
+      "after": "e938c65f6965beed",
+      "date": 1422235947377
+    },
+    {
+      "type": "edit",
+      "id": "c39bb87b71f574b9",
+      "item": {
+        "type": "paragraph",
+        "id": "c39bb87b71f574b9",
+        "text": "[[Soft Wrap]]"
+      },
+      "date": 1422236002430
+    },
+    {
+      "type": "edit",
+      "id": "22841f2c04df6210",
+      "item": {
+        "type": "paragraph",
+        "id": "22841f2c04df6210",
+        "text": "First, some working definitions you may wish to read if you are unfamiliar with these things. (I may be botching the historic definitions of things like line break and carriage return):"
+      },
+      "date": 1422236023637
+    },
+    {
+      "type": "edit",
+      "id": "16e503139299b081",
+      "item": {
+        "type": "paragraph",
+        "id": "16e503139299b081",
+        "text": "[[Hard Wrap]]/Line Break - Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file."
+      },
+      "date": 1422236033829
+    },
+    {
+      "type": "edit",
+      "id": "16e503139299b081",
+      "item": {
+        "type": "paragraph",
+        "id": "16e503139299b081",
+        "text": "[[Hard Wrap]]/Line Break"
+      },
+      "date": 1422236059841
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "509684b3f68ada08",
+        "text": "Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file."
+      },
+      "id": "509684b3f68ada08",
+      "type": "add",
+      "after": "16e503139299b081",
+      "date": 1422236059872
+    },
+    {
+      "type": "remove",
+      "id": "509684b3f68ada08",
+      "date": 1422236065661
+    },
+    {
+      "type": "remove",
+      "id": "16e503139299b081",
+      "date": 1422236077973
+    },
+    {
+      "type": "edit",
+      "id": "c39bb87b71f574b9",
+      "item": {
+        "type": "paragraph",
+        "id": "c39bb87b71f574b9",
+        "text": "[[Soft Wrap]] [[Hard Wrap]]/Line Break"
+      },
+      "date": 1422236080406
+    },
+    {
+      "type": "edit",
+      "id": "c39bb87b71f574b9",
+      "item": {
+        "type": "paragraph",
+        "id": "c39bb87b71f574b9",
+        "text": "[[Soft Wrap]], [[Hard Wrap]]/Line Break"
+      },
+      "date": 1422236087360
     }
   ]
 }

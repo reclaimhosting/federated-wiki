@@ -1,0 +1,82 @@
+{
+  "title": "Hard Wrap",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "509684b3f68ada08",
+      "text": "Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file."
+    },
+    {
+      "type": "paragraph",
+      "id": "c2a91d14932bc35f",
+      "text": "This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file."
+    },
+    {
+      "type": "paragraph",
+      "id": "c5aef0935e991d82",
+      "text": "See also [[Soft Wrap]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hard Wrap",
+        "story": []
+      },
+      "date": 1422236042026
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "509684b3f68ada08",
+        "text": "Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file. This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file."
+      },
+      "id": "509684b3f68ada08",
+      "date": 1422236065667
+    },
+    {
+      "type": "edit",
+      "id": "509684b3f68ada08",
+      "item": {
+        "type": "paragraph",
+        "id": "509684b3f68ada08",
+        "text": "Manually entering a carriage return (hitting enter at the end of a line) or having the program insert an actual line break (or, most likely, series of line breaks) into the file."
+      },
+      "date": 1422236104143
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c2a91d14932bc35f",
+        "text": "This makes the line of text in the file have a definite width, a definite number of columns, e.g., 80 or 67, irrespective of what program is being used to view the file."
+      },
+      "id": "c2a91d14932bc35f",
+      "type": "add",
+      "after": "509684b3f68ada08",
+      "date": 1422236104173
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c5aef0935e991d82",
+        "text": ""
+      },
+      "id": "c5aef0935e991d82",
+      "type": "add",
+      "after": "c2a91d14932bc35f",
+      "date": 1422236173160
+    },
+    {
+      "type": "edit",
+      "id": "c5aef0935e991d82",
+      "item": {
+        "type": "paragraph",
+        "id": "c5aef0935e991d82",
+        "text": "See also [[Soft Wrap]]."
+      },
+      "date": 1422236181231
+    }
+  ]
+}

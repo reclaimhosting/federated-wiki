@@ -1,6 +1,22 @@
 {
   "title": "Recording",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd206fd3415ecb07",
+      "text": "Ardour terminology:"
+    },
+    {
+      "type": "paragraph",
+      "id": "3dcc6ed9f3a1d8ff",
+      "text": "Range - a selection of time"
+    },
+    {
+      "type": "paragraph",
+      "id": "fad35e596a62f090",
+      "text": "Region - a selection of audio within one track"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +25,77 @@
         "story": []
       },
       "date": 1421993743858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd206fd3415ecb07"
+      },
+      "id": "dd206fd3415ecb07",
+      "type": "add",
+      "date": 1422236226028
+    },
+    {
+      "type": "edit",
+      "id": "dd206fd3415ecb07",
+      "item": {
+        "type": "paragraph",
+        "id": "dd206fd3415ecb07",
+        "text": "Ardour terminology:"
+      },
+      "date": 1422236234961
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3dcc6ed9f3a1d8ff",
+        "text": ""
+      },
+      "id": "3dcc6ed9f3a1d8ff",
+      "type": "add",
+      "after": "dd206fd3415ecb07",
+      "date": 1422236235000
+    },
+    {
+      "type": "edit",
+      "id": "3dcc6ed9f3a1d8ff",
+      "item": {
+        "type": "paragraph",
+        "id": "3dcc6ed9f3a1d8ff",
+        "text": "Range - a selection of time\nRegion - a selection of audio within one track"
+      },
+      "date": 1422236237691
+    },
+    {
+      "type": "edit",
+      "id": "3dcc6ed9f3a1d8ff",
+      "item": {
+        "type": "paragraph",
+        "id": "3dcc6ed9f3a1d8ff",
+        "text": "Range - a selection of time"
+      },
+      "date": 1422236242152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fad35e596a62f090",
+        "text": "\nRegion - a selection of audio within one track"
+      },
+      "id": "fad35e596a62f090",
+      "type": "add",
+      "after": "3dcc6ed9f3a1d8ff",
+      "date": 1422236242185
+    },
+    {
+      "type": "edit",
+      "id": "fad35e596a62f090",
+      "item": {
+        "type": "paragraph",
+        "id": "fad35e596a62f090",
+        "text": "Region - a selection of audio within one track"
+      },
+      "date": 1422236243889
     }
   ]
 }

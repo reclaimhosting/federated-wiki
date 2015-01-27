@@ -45,6 +45,11 @@
       "type": "paragraph",
       "id": "48d1c990b2e05ee9",
       "text": "[[27 Jan - EDC3100 PA - More on activity]] - Starting long trek to extracting and inserting the activity data into a form that can be used."
+    },
+    {
+      "type": "paragraph",
+      "id": "ff7c75665d2cfcb8",
+      "text": "[[28 Jan - EDC3100 PA - parse activity completion]] - Next step, parse the completion spreadsheet and work with new table."
     }
   ],
   "journal": [
@@ -283,6 +288,26 @@
         "text": "[[27 Jan - EDC3100 PA - More on activity]] - Starting long trek to extracting and inserting the activity data into a form that can be used."
       },
       "date": 1422312777345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff7c75665d2cfcb8"
+      },
+      "id": "ff7c75665d2cfcb8",
+      "type": "add",
+      "after": "48d1c990b2e05ee9",
+      "date": 1422388212544
+    },
+    {
+      "type": "edit",
+      "id": "ff7c75665d2cfcb8",
+      "item": {
+        "type": "paragraph",
+        "id": "ff7c75665d2cfcb8",
+        "text": "[[28 Jan - EDC3100 PA - parse activity completion]] - Next step, parse the completion spreadsheet and work with new table."
+      },
+      "date": 1422388252427
     }
   ]
 }

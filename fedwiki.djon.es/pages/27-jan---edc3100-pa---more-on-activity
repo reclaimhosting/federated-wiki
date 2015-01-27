@@ -30,16 +30,6 @@
       "type": "paragraph",
       "id": "1d5977e72d62ebbd",
       "text": "Could be enhanced by a bit more debugging to pick up no activity completion etc."
-    },
-    {
-      "type": "markdown",
-      "id": "040085226c6e10c7",
-      "text": "##parseCompletion.pl\n"
-    },
-    {
-      "type": "html",
-      "id": "136c61b4af894409",
-      "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
     }
   ],
   "journal": [
@@ -312,6 +302,16 @@
         "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
       },
       "date": 1422342637161
+    },
+    {
+      "type": "remove",
+      "id": "040085226c6e10c7",
+      "date": 1422388269810
+    },
+    {
+      "type": "remove",
+      "id": "136c61b4af894409",
+      "date": 1422388275878
     }
   ]
 }

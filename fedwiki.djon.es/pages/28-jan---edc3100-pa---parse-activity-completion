@@ -1,0 +1,71 @@
+{
+  "title": "28 Jan - EDC3100 PA - parse activity completion",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "040085226c6e10c7",
+      "text": "##parseCompletion.pl\n"
+    },
+    {
+      "type": "html",
+      "id": "136c61b4af894409",
+      "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
+    },
+    {
+      "type": "markdown",
+      "id": "2b0b5da39374a4a3",
+      "text": "##To do"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "28 Jan - EDC3100 PA - parse activity completion",
+        "story": []
+      },
+      "date": 1422388258931
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "040085226c6e10c7",
+        "text": "##parseCompletion.pl\n"
+      },
+      "id": "040085226c6e10c7",
+      "date": 1422388269813
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "136c61b4af894409",
+        "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
+      },
+      "after": "040085226c6e10c7",
+      "id": "136c61b4af894409",
+      "date": 1422388275881
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b0b5da39374a4a3"
+      },
+      "id": "2b0b5da39374a4a3",
+      "type": "add",
+      "after": "136c61b4af894409",
+      "date": 1422388287089
+    },
+    {
+      "type": "edit",
+      "id": "2b0b5da39374a4a3",
+      "item": {
+        "type": "markdown",
+        "id": "2b0b5da39374a4a3",
+        "text": "##To do"
+      },
+      "date": 1422388294417
+    }
+  ]
+}

@@ -3,6 +3,16 @@
   "story": [
     {
       "type": "markdown",
+      "id": "2b0b5da39374a4a3",
+      "text": "##To do"
+    },
+    {
+      "type": "html",
+      "id": "d447cf1d37bf52dd",
+      "text": "<ol>\n  <li> parseCompletion.pl \n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Back to process analytics </li>\n</ol>"
+    },
+    {
+      "type": "markdown",
       "id": "040085226c6e10c7",
       "text": "##parseCompletion.pl\n"
     },
@@ -10,11 +20,6 @@
       "type": "html",
       "id": "136c61b4af894409",
       "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
-    },
-    {
-      "type": "markdown",
-      "id": "2b0b5da39374a4a3",
-      "text": "##To do"
     }
   ],
   "journal": [
@@ -66,6 +71,48 @@
         "text": "##To do"
       },
       "date": 1422388294417
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d447cf1d37bf52dd"
+      },
+      "id": "d447cf1d37bf52dd",
+      "type": "add",
+      "after": "2b0b5da39374a4a3",
+      "date": 1422388301221
+    },
+    {
+      "type": "edit",
+      "id": "d447cf1d37bf52dd",
+      "item": {
+        "type": "html",
+        "id": "d447cf1d37bf52dd",
+        "text": "<ol>\n  <li> parseCompletion.pl \n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Back to process analytics </li>\n</ol>"
+      },
+      "date": 1422388428984
+    },
+    {
+      "type": "move",
+      "order": [
+        "2b0b5da39374a4a3",
+        "040085226c6e10c7",
+        "136c61b4af894409",
+        "d447cf1d37bf52dd"
+      ],
+      "id": "2b0b5da39374a4a3",
+      "date": 1422388431934
+    },
+    {
+      "type": "move",
+      "order": [
+        "2b0b5da39374a4a3",
+        "d447cf1d37bf52dd",
+        "040085226c6e10c7",
+        "136c61b4af894409"
+      ],
+      "id": "d447cf1d37bf52dd",
+      "date": 1422388437157
     }
   ]
 }

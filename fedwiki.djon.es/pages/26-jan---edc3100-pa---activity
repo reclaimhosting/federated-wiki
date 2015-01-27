@@ -79,12 +79,17 @@
     {
       "type": "paragraph",
       "id": "2602d5394c81a22c",
-      "text": "activity_mapping : [ id, course_id, section_title, section_num, activity_long_name, activity_short_name ]"
+      "text": "activity_mapping : [ id, course_id, section_title, section_num, activity_long_name, activity_short_name, activity_type ]"
     },
     {
       "type": "html",
       "id": "d3e2b3f439ca3ff7",
-      "text": "<ul>\n  <li> id \n     <p>unique id from page. Also used to populate the mdl_course_modules table locally via the activity completion report. </p> <p>id taken by parsing page</p></li>\n  <li> course_id\n       <p>The remote course id for the course to which this information belongs.  Entered manually into the parse perl script.</p> </li>\n  <li> section_title and section_num\n     <p>The title and number (order in sections) of the section to which the activity belongs. </p><p>Inserted when parsing the page. </p> </li>\n  <li> activity_long_name\n       <p>Full name for activity taken from parsing the home page</p> </li>\n  <Li> activity_short_name\n      <p>Short name used in the activity completion spreadsheet.  Entered via manual script. </p> </li>\n</ul>"
+      "text": "<ul>\n  <li> id \n     <p>unique id from page. Also used to populate the mdl_course_modules table locally via the activity completion report. </p> <p>id taken by parsing page</p></li>\n  <li> course_id\n       <p>The remote course id for the course to which this information belongs.  Entered manually into the parse perl script.</p> </li>\n  <li> section_title and section_num\n     <p>The title and number (order in sections) of the section to which the activity belongs. </p><p>Inserted when parsing the page. </p> </li>\n  <li> activity_long_name\n       <p>Full name for activity taken from parsing the home page</p> </li>\n  <Li> activity_short_name\n      <p>Short name used in the activity completion spreadsheet.  Entered via manual script. </p> </li>\n  <li> activity_type\n        <p>One word descriptor of the type of activity in terms of Moodle module. </p> </li>\n</ul>"
+    },
+    {
+      "type": "markdown",
+      "id": "6773df1ecf0a0eb3",
+      "text": "### STATUS\n\nParsing script almost done. But question of excluding those activities that do not have activity completion turned on."
     }
   ],
   "journal": [
@@ -811,6 +816,46 @@
       "type": "remove",
       "id": "c764b02ea7db465d",
       "date": 1422312807468
+    },
+    {
+      "type": "edit",
+      "id": "2602d5394c81a22c",
+      "item": {
+        "type": "paragraph",
+        "id": "2602d5394c81a22c",
+        "text": "activity_mapping : [ id, course_id, section_title, section_num, activity_long_name, activity_short_name, activity_type ]"
+      },
+      "date": 1422327381913
+    },
+    {
+      "type": "edit",
+      "id": "d3e2b3f439ca3ff7",
+      "item": {
+        "type": "html",
+        "id": "d3e2b3f439ca3ff7",
+        "text": "<ul>\n  <li> id \n     <p>unique id from page. Also used to populate the mdl_course_modules table locally via the activity completion report. </p> <p>id taken by parsing page</p></li>\n  <li> course_id\n       <p>The remote course id for the course to which this information belongs.  Entered manually into the parse perl script.</p> </li>\n  <li> section_title and section_num\n     <p>The title and number (order in sections) of the section to which the activity belongs. </p><p>Inserted when parsing the page. </p> </li>\n  <li> activity_long_name\n       <p>Full name for activity taken from parsing the home page</p> </li>\n  <Li> activity_short_name\n      <p>Short name used in the activity completion spreadsheet.  Entered via manual script. </p> </li>\n  <li> activity_type\n        <p>One word descriptor of the type of activity in terms of Moodle module. </p> </li>\n</ul>"
+      },
+      "date": 1422327406033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6773df1ecf0a0eb3"
+      },
+      "id": "6773df1ecf0a0eb3",
+      "type": "add",
+      "after": "d3e2b3f439ca3ff7",
+      "date": 1422327409874
+    },
+    {
+      "type": "edit",
+      "id": "6773df1ecf0a0eb3",
+      "item": {
+        "type": "markdown",
+        "id": "6773df1ecf0a0eb3",
+        "text": "### STATUS\n\nParsing script almost done. But question of excluding those activities that do not have activity completion turned on."
+      },
+      "date": 1422327441099
     }
   ]
 }

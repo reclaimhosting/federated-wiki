@@ -20,6 +20,26 @@
       "type": "markdown",
       "id": "32b8b4d981167a2d",
       "text": "###parseActivity.pl"
+    },
+    {
+      "type": "paragraph",
+      "id": "3757b032115032fc",
+      "text": "webfuse/lib/BAM/3100/processAnalytics/parseActivity.pl is now apparently up and running.  Will do an insert and delete."
+    },
+    {
+      "type": "paragraph",
+      "id": "1d5977e72d62ebbd",
+      "text": "Could be enhanced by a bit more debugging to pick up no activity completion etc."
+    },
+    {
+      "type": "markdown",
+      "id": "040085226c6e10c7",
+      "text": "##parseCompletion.pl\n"
+    },
+    {
+      "type": "html",
+      "id": "136c61b4af894409",
+      "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
     }
   ],
   "journal": [
@@ -165,6 +185,133 @@
     {
       "type": "fork",
       "date": 1422313157839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3757b032115032fc"
+      },
+      "id": "3757b032115032fc",
+      "type": "add",
+      "after": "32b8b4d981167a2d",
+      "date": 1422342381966
+    },
+    {
+      "type": "edit",
+      "id": "3757b032115032fc",
+      "item": {
+        "type": "paragraph",
+        "id": "3757b032115032fc",
+        "text": "webfuse/lib/BAM/3100/processAnalytics/parseActivity.pl is now apparently up and running.  Will do an insert and delete."
+      },
+      "date": 1422342415131
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1d5977e72d62ebbd",
+        "text": ""
+      },
+      "id": "1d5977e72d62ebbd",
+      "type": "add",
+      "after": "3757b032115032fc",
+      "date": 1422342415147
+    },
+    {
+      "type": "edit",
+      "id": "1d5977e72d62ebbd",
+      "item": {
+        "type": "paragraph",
+        "id": "1d5977e72d62ebbd",
+        "text": "Could be enhanced by a bit more debugging to pick up no activity completion etc."
+      },
+      "date": 1422342435657
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f85eed669da2727",
+        "text": ""
+      },
+      "id": "9f85eed669da2727",
+      "type": "add",
+      "after": "1d5977e72d62ebbd",
+      "date": 1422342435665
+    },
+    {
+      "type": "remove",
+      "id": "9f85eed669da2727",
+      "date": 1422342440116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d20db7f1652260f"
+      },
+      "id": "8d20db7f1652260f",
+      "type": "add",
+      "after": "1d5977e72d62ebbd",
+      "date": 1422342550647
+    },
+    {
+      "type": "remove",
+      "id": "8d20db7f1652260f",
+      "date": 1422342555059
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "040085226c6e10c7"
+      },
+      "id": "040085226c6e10c7",
+      "type": "add",
+      "after": "1d5977e72d62ebbd",
+      "date": 1422342557851
+    },
+    {
+      "type": "edit",
+      "id": "040085226c6e10c7",
+      "item": {
+        "type": "markdown",
+        "id": "040085226c6e10c7",
+        "text": "##parseCompletion.pl\n"
+      },
+      "date": 1422342566561
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f1d8ebec349e2a2"
+      },
+      "id": "8f1d8ebec349e2a2",
+      "type": "add",
+      "after": "040085226c6e10c7",
+      "date": 1422342568830
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "136c61b4af894409"
+      },
+      "id": "136c61b4af894409",
+      "type": "add",
+      "after": "8f1d8ebec349e2a2",
+      "date": 1422342578991
+    },
+    {
+      "type": "remove",
+      "id": "8f1d8ebec349e2a2",
+      "date": 1422342581092
+    },
+    {
+      "type": "edit",
+      "id": "136c61b4af894409",
+      "item": {
+        "type": "html",
+        "id": "136c61b4af894409",
+        "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
+      },
+      "date": 1422342637161
     }
   ]
 }

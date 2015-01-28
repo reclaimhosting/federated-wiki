@@ -1,0 +1,258 @@
+{
+  "title": "29 Jan - EDC3100 PA - present activity completion",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9cd0b5e0b052ebc9",
+      "text": "##To do"
+    },
+    {
+      "type": "html",
+      "id": "6b7e8be2d9955324",
+      "text": "<ol>\n  <Li> Build out the data structure on the server </li>\n  <li> Figure out how to translate that into HTML </li>\n  <li> Get it displaying in the tab </li>\n</ol>"
+    },
+    {
+      "type": "markdown",
+      "id": "4b6773e6d73c7ad5",
+      "text": "##Building the data structure\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a25efde41e17950c",
+      "text": "Constructing the MODULE_WEEK_HAPPENING data structure in the server. This has to be hard coded at the start with information about which topics (from activity_mapping) belong to which modules."
+    },
+    {
+      "type": "paragraph",
+      "id": "d4ec55bc931dfd6f",
+      "text": "**NOTE:** The question of week numbers will have to be considered and attempted to make more open longer term."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a3b23d8713d3837",
+      "text": "Once the data structure is built, it then has to be combined with the information from: activity_mapping (type of activity, shortname etc) and the activity completion module (what students have completed)"
+    },
+    {
+      "type": "paragraph",
+      "id": "6054e98747437f3f",
+      "text": "Then we'll need to do some calculations on that data."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "29 Jan - EDC3100 PA - present activity completion",
+        "story": []
+      },
+      "date": 1422484508512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cd0b5e0b052ebc9"
+      },
+      "id": "9cd0b5e0b052ebc9",
+      "type": "add",
+      "date": 1422484515396
+    },
+    {
+      "type": "edit",
+      "id": "9cd0b5e0b052ebc9",
+      "item": {
+        "type": "markdown",
+        "id": "9cd0b5e0b052ebc9",
+        "text": "##To do"
+      },
+      "date": 1422484519520
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f749a86460b497de"
+      },
+      "id": "f749a86460b497de",
+      "type": "add",
+      "after": "9cd0b5e0b052ebc9",
+      "date": 1422484520686
+    },
+    {
+      "type": "edit",
+      "id": "f749a86460b497de",
+      "item": {
+        "type": "paragraph",
+        "id": "f749a86460b497de",
+        "text": "<ol>"
+      },
+      "date": 1422484523380
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9d36434eb409f0e6",
+        "text": ""
+      },
+      "id": "9d36434eb409f0e6",
+      "type": "add",
+      "after": "f749a86460b497de",
+      "date": 1422484523394
+    },
+    {
+      "type": "edit",
+      "id": "9d36434eb409f0e6",
+      "item": {
+        "type": "paragraph",
+        "id": "9d36434eb409f0e6",
+        "text": " <"
+      },
+      "date": 1422484525965
+    },
+    {
+      "type": "remove",
+      "id": "f749a86460b497de",
+      "date": 1422484527700
+    },
+    {
+      "type": "remove",
+      "id": "9d36434eb409f0e6",
+      "date": 1422484530103
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff45f6521efb4146"
+      },
+      "id": "ff45f6521efb4146",
+      "type": "add",
+      "after": "9cd0b5e0b052ebc9",
+      "date": 1422484531679
+    },
+    {
+      "type": "remove",
+      "id": "ff45f6521efb4146",
+      "date": 1422484537655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b7e8be2d9955324"
+      },
+      "id": "6b7e8be2d9955324",
+      "type": "add",
+      "after": "9cd0b5e0b052ebc9",
+      "date": 1422484550649
+    },
+    {
+      "type": "edit",
+      "id": "6b7e8be2d9955324",
+      "item": {
+        "type": "html",
+        "id": "6b7e8be2d9955324",
+        "text": "<ol>\n  <Li> Build out the data structure on the server </li>\n  <li> Figure out how to translate that into HTML </li>\n  <li> Get it displaying in the tab </li>\n</ol>"
+      },
+      "date": 1422484588095
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4b6773e6d73c7ad5"
+      },
+      "id": "4b6773e6d73c7ad5",
+      "type": "add",
+      "after": "6b7e8be2d9955324",
+      "date": 1422484590757
+    },
+    {
+      "type": "edit",
+      "id": "4b6773e6d73c7ad5",
+      "item": {
+        "type": "markdown",
+        "id": "4b6773e6d73c7ad5",
+        "text": "##Building the data structure\n"
+      },
+      "date": 1422484598928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a25efde41e17950c"
+      },
+      "id": "a25efde41e17950c",
+      "type": "add",
+      "after": "4b6773e6d73c7ad5",
+      "date": 1422484682651
+    },
+    {
+      "type": "edit",
+      "id": "a25efde41e17950c",
+      "item": {
+        "type": "paragraph",
+        "id": "a25efde41e17950c",
+        "text": "Constructing the MODULE_WEEK_HAPPENING data structure in the server. This has to be hard coded at the start with information about which topics (from activity_mapping) belong to which modules."
+      },
+      "date": 1422484722370
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d4ec55bc931dfd6f",
+        "text": ""
+      },
+      "id": "d4ec55bc931dfd6f",
+      "type": "add",
+      "after": "a25efde41e17950c",
+      "date": 1422484722388
+    },
+    {
+      "type": "edit",
+      "id": "d4ec55bc931dfd6f",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ec55bc931dfd6f",
+        "text": "**NOTE:** The question of week numbers will have to be considered and attempted to make more open longer term."
+      },
+      "date": 1422484747210
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6a3b23d8713d3837",
+        "text": ""
+      },
+      "id": "6a3b23d8713d3837",
+      "type": "add",
+      "after": "d4ec55bc931dfd6f",
+      "date": 1422484747227
+    },
+    {
+      "type": "edit",
+      "id": "6a3b23d8713d3837",
+      "item": {
+        "type": "paragraph",
+        "id": "6a3b23d8713d3837",
+        "text": "Once the data structure is built, it then has to be combined with the information from: activity_mapping (type of activity, shortname etc) and the activity completion module (what students have completed)"
+      },
+      "date": 1422484802489
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6054e98747437f3f",
+        "text": ""
+      },
+      "id": "6054e98747437f3f",
+      "type": "add",
+      "after": "6a3b23d8713d3837",
+      "date": 1422484802506
+    },
+    {
+      "type": "edit",
+      "id": "6054e98747437f3f",
+      "item": {
+        "type": "paragraph",
+        "id": "6054e98747437f3f",
+        "text": "Then we'll need to do some calculations on that data."
+      },
+      "date": 1422484816288
+    }
+  ]
+}

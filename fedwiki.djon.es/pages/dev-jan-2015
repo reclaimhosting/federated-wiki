@@ -50,6 +50,11 @@
       "type": "paragraph",
       "id": "ff7c75665d2cfcb8",
       "text": "[[28 Jan - EDC3100 PA - parse activity completion]] - Next step, parse the completion spreadsheet and work with new table."
+    },
+    {
+      "type": "paragraph",
+      "id": "1af894d70160fa95",
+      "text": "[[29 Jan - EDC3100 PA - present activity completion]] - Most of the data is ready, time to get it into the dialog box and tab"
     }
   ],
   "journal": [
@@ -308,6 +313,26 @@
         "text": "[[28 Jan - EDC3100 PA - parse activity completion]] - Next step, parse the completion spreadsheet and work with new table."
       },
       "date": 1422388252427
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1af894d70160fa95"
+      },
+      "id": "1af894d70160fa95",
+      "type": "add",
+      "after": "ff7c75665d2cfcb8",
+      "date": 1422484472922
+    },
+    {
+      "type": "edit",
+      "id": "1af894d70160fa95",
+      "item": {
+        "type": "paragraph",
+        "id": "1af894d70160fa95",
+        "text": "[[29 Jan - EDC3100 PA - present activity completion]] - Most of the data is ready, time to get it into the dialog box and tab"
+      },
+      "date": 1422484499066
     }
   ]
 }

@@ -39,7 +39,7 @@
     {
       "type": "html",
       "id": "d83cea7274939a61",
-      "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. </li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
+      "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. \n  \n     <p>??? Can we modify Perl scripts to write to the new database, not the old? </p><p>May not need to, the php on the server is still pointing to the old database.</p>\n</li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
     },
     {
       "type": "factory",
@@ -277,6 +277,26 @@
         "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. </li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
       },
       "date": 1422420563088
+    },
+    {
+      "type": "edit",
+      "id": "d83cea7274939a61",
+      "item": {
+        "type": "html",
+        "id": "d83cea7274939a61",
+        "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. \n  \n     <p>??? Can we modify Perl scripts to write to the new database, not the old? </p>\n</li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
+      },
+      "date": 1422420952401
+    },
+    {
+      "type": "edit",
+      "id": "d83cea7274939a61",
+      "item": {
+        "type": "html",
+        "id": "d83cea7274939a61",
+        "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. \n  \n     <p>??? Can we modify Perl scripts to write to the new database, not the old? </p><p>May not need to, the php on the server is still pointing to the old database.</p>\n</li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
+      },
+      "date": 1422421002235
     }
   ]
 }

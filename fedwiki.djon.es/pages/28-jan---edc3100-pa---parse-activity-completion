@@ -34,11 +34,16 @@
     {
       "type": "html",
       "id": "6e5bf18f816e1ded",
-      "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>"
+      "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>mdl_course_modules_completion table gives the activities that have been completed by the student</p>\n<p>Process will be something like</p>\n<ol>\n  <li> Use activity mapping to calculate total number of activities and also # activities per week </li>\n  <li> Will have to hard code and/or create another table to group weeks into Modules. \n  <p>module_topic_mapping: [ id, course_id, module_name, module_num, topic_num, topic_name ] (maybe not name)</p>\n  </li>\n  <li> Use course modules completion table to get the details about what the user has completed.</li>\n</ol>\n<p>To calculate what the user has completed per module/week - will need to link via activity id.  </p>\n<p>Perhaps user completion is hash based on activity id</p>\n<p>Then each module has a structure for each week and each activity, that includes at some level an activity id.</p>\n<p>This can get populated.</p>"
+    },
+    {
+      "type": "html",
+      "id": "d83cea7274939a61",
+      "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. </li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
     },
     {
       "type": "factory",
-      "id": "d83cea7274939a61"
+      "id": "02bbc6e03813d2df"
     }
   ],
   "journal": [
@@ -232,6 +237,46 @@
         "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>"
       },
       "date": 1422419926275
+    },
+    {
+      "type": "edit",
+      "id": "6e5bf18f816e1ded",
+      "item": {
+        "type": "html",
+        "id": "6e5bf18f816e1ded",
+        "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>mdl_course_modules_completion table gives the activities that have been completed by the student</p>\n<p>Process will be something like</p>\n<ol>\n  <li> Use activity mapping to calculate total number of activities and also # activities per week </li>\n  <li> Will have to hard code and/or create another table to group weeks into Modules. \n  <p>module_topic_mapping: [ id, course_id, module_name, module_num, topic_num, topic_name ] (maybe not name)</p>\n  </li>\n  <li> Use course modules completion table to get the details about what the user has completed.</li>\n</ol>\n<p>To calculate what the user has completed per module/week - will need to link via activity id.  </p>\n<p>Perhaps user completion is hash based on activity id</p>\n<p>Then each module has a structure for each week and each activity, that includes at some level an activity id.</p>\n<p>This can get populated.</p>"
+      },
+      "date": 1422420151623
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02bbc6e03813d2df"
+      },
+      "id": "02bbc6e03813d2df",
+      "type": "add",
+      "after": "d83cea7274939a61",
+      "date": 1422420180078
+    },
+    {
+      "type": "edit",
+      "id": "d83cea7274939a61",
+      "item": {
+        "type": "html",
+        "id": "d83cea7274939a61",
+        "text": "<strong>Steps</strong>\n<ol>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
+      },
+      "date": 1422420227613
+    },
+    {
+      "type": "edit",
+      "id": "d83cea7274939a61",
+      "item": {
+        "type": "html",
+        "id": "d83cea7274939a61",
+        "text": "<strong>Steps</strong>\n<ol>\n  <li> <strong>IMPORTANT</strong> Will now have problems (probably) about talking to the correct Postgres database. </li>\n  <li> Get process analytics showing how many activities a student has completed and perhaps a percentage. </li>\n  <li> Then think about the broader display and doing the same per week and module</li>\n</ol>"
+      },
+      "date": 1422420563088
     }
   ]
 }

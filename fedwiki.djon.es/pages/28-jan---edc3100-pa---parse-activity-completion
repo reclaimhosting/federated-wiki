@@ -9,7 +9,7 @@
     {
       "type": "html",
       "id": "d447cf1d37bf52dd",
-      "text": "<ol>\n  <li> parseCompletion.pl \n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Will need to update ActivityCompletion.pm </li>\n  <li> Back to process analytics </li>\n</ol>"
+      "text": "<ol>\n  <li> parseCompletion.pl <strong>DONE</strong>\n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Will need to update ActivityCompletion.pm </li>\n  <li> Back to process analytics </li>\n</ol>"
     },
     {
       "type": "markdown",
@@ -20,6 +20,25 @@
       "type": "html",
       "id": "136c61b4af894409",
       "text": "<p>Time to modify/build on existing import.pl so that it</p>\n<ol>\n  <li> Updates activity_mapping appropriately to add in short_name </li>\n  <li> updates the course complete table with the user completion data. </li>\n</ol>"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6206a6814694798",
+      "text": "Done - modified existing script to do the parse completion."
+    },
+    {
+      "type": "markdown",
+      "id": "5793f4d9879b2a65",
+      "text": "##Process analytics"
+    },
+    {
+      "type": "html",
+      "id": "6e5bf18f816e1ded",
+      "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>"
+    },
+    {
+      "type": "factory",
+      "id": "d83cea7274939a61"
     }
   ],
   "journal": [
@@ -123,6 +142,96 @@
         "text": "<ol>\n  <li> parseCompletion.pl \n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Will need to update ActivityCompletion.pm </li>\n  <li> Back to process analytics </li>\n</ol>"
       },
       "date": 1422389875464
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.djon.es",
+      "date": 1422419736133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6206a6814694798"
+      },
+      "id": "d6206a6814694798",
+      "type": "add",
+      "after": "136c61b4af894409",
+      "site": "fedwiki.djon.es",
+      "date": 1422419736130
+    },
+    {
+      "type": "edit",
+      "id": "d6206a6814694798",
+      "item": {
+        "type": "paragraph",
+        "id": "d6206a6814694798",
+        "text": "Done - modified existing script to do the parse completion."
+      },
+      "date": 1422419751782
+    },
+    {
+      "type": "fork",
+      "date": 1422419796640
+    },
+    {
+      "type": "edit",
+      "id": "d447cf1d37bf52dd",
+      "item": {
+        "type": "html",
+        "id": "d447cf1d37bf52dd",
+        "text": "<ol>\n  <li> parseCompletion.pl <strong>DONE</strong>\n     <p>Will need to highlight students in the completion report that aren't in the local database (and then link with #3 below).\n</li>\n <li> Test activity completion reports </li>\n  <li> import students\n      <p>For existing courses the students user accounts are already imported. But not in a new course. These need to be imported (mapping between local and remote)</li>\n  <li> Will need to update ActivityCompletion.pm </li>\n  <li> Back to process analytics </li>\n</ol>"
+      },
+      "date": 1422419834219
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5793f4d9879b2a65"
+      },
+      "id": "5793f4d9879b2a65",
+      "type": "add",
+      "after": "d6206a6814694798",
+      "date": 1422419836874
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e5bf18f816e1ded"
+      },
+      "id": "6e5bf18f816e1ded",
+      "type": "add",
+      "after": "5793f4d9879b2a65",
+      "date": 1422419847002
+    },
+    {
+      "type": "edit",
+      "id": "5793f4d9879b2a65",
+      "item": {
+        "type": "markdown",
+        "id": "5793f4d9879b2a65",
+        "text": "##Process analytics"
+      },
+      "date": 1422419849823
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d83cea7274939a61"
+      },
+      "id": "d83cea7274939a61",
+      "type": "add",
+      "after": "6e5bf18f816e1ded",
+      "date": 1422419859344
+    },
+    {
+      "type": "edit",
+      "id": "6e5bf18f816e1ded",
+      "item": {
+        "type": "html",
+        "id": "6e5bf18f816e1ded",
+        "text": "<p>activity_mapping table gives the number of activities per course and per topic/week. </p>\n<p><em>Missing:</em> which modules the topics belong to. URLs for the activities. </p>\n<p>"
+      },
+      "date": 1422419926275
     }
   ]
 }

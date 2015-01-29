@@ -24,7 +24,22 @@
     {
       "type": "html",
       "id": "041205e4a174699d",
-      "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff."
+      "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff.  *** DONE ***"
+    },
+    {
+      "type": "paragraph",
+      "id": "343c51de6142e1a0",
+      "text": "Populate the week content with the standard stuff from activity mapping"
+    },
+    {
+      "type": "paragraph",
+      "id": "4aabfe07896fb5a7",
+      "text": "Add in the data about module completion for the user"
+    },
+    {
+      "type": "paragraph",
+      "id": "f3cf2d3e5e3c60a8",
+      "text": "Populate the week content with the module completion information for the user"
     }
   ],
   "journal": [
@@ -318,6 +333,78 @@
         "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff."
       },
       "date": 1422495956934
+    },
+    {
+      "type": "edit",
+      "id": "041205e4a174699d",
+      "item": {
+        "type": "html",
+        "id": "041205e4a174699d",
+        "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff.  *** DONE ***"
+      },
+      "date": 1422497189938
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "343c51de6142e1a0"
+      },
+      "id": "343c51de6142e1a0",
+      "type": "add",
+      "after": "041205e4a174699d",
+      "date": 1422497197808
+    },
+    {
+      "type": "edit",
+      "id": "343c51de6142e1a0",
+      "item": {
+        "type": "paragraph",
+        "id": "343c51de6142e1a0",
+        "text": "Populate the week content with the standard stuff from activity mapping"
+      },
+      "date": 1422497222985
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4aabfe07896fb5a7",
+        "text": ""
+      },
+      "id": "4aabfe07896fb5a7",
+      "type": "add",
+      "after": "343c51de6142e1a0",
+      "date": 1422497223004
+    },
+    {
+      "type": "edit",
+      "id": "4aabfe07896fb5a7",
+      "item": {
+        "type": "paragraph",
+        "id": "4aabfe07896fb5a7",
+        "text": "Add in the data about module completion for the user"
+      },
+      "date": 1422497236587
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f3cf2d3e5e3c60a8",
+        "text": ""
+      },
+      "id": "f3cf2d3e5e3c60a8",
+      "type": "add",
+      "after": "4aabfe07896fb5a7",
+      "date": 1422497236594
+    },
+    {
+      "type": "edit",
+      "id": "f3cf2d3e5e3c60a8",
+      "item": {
+        "type": "paragraph",
+        "id": "f3cf2d3e5e3c60a8",
+        "text": "Populate the week content with the module completion information for the user"
+      },
+      "date": 1422497249840
     }
   ]
 }

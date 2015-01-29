@@ -17,24 +17,14 @@
       "text": "##Building the data structure\n"
     },
     {
-      "type": "paragraph",
-      "id": "a25efde41e17950c",
-      "text": "Constructing the MODULE_WEEK_HAPPENING data structure in the server. This has to be hard coded at the start with information about which topics (from activity_mapping) belong to which modules."
+      "type": "html",
+      "id": "c1dc68fd53b597c1",
+      "text": "<p>ACTIVITY_STRUCTURE is being built directly from the database drawing on a MODULE_MAPPING hash to map weeks to module numbers</p>\n"
     },
     {
-      "type": "paragraph",
-      "id": "d4ec55bc931dfd6f",
-      "text": "**NOTE:** The question of week numbers will have to be considered and attempted to make more open longer term."
-    },
-    {
-      "type": "paragraph",
-      "id": "6a3b23d8713d3837",
-      "text": "Once the data structure is built, it then has to be combined with the information from: activity_mapping (type of activity, shortname etc) and the activity completion module (what students have completed)"
-    },
-    {
-      "type": "paragraph",
-      "id": "6054e98747437f3f",
-      "text": "Then we'll need to do some calculations on that data."
+      "type": "html",
+      "id": "041205e4a174699d",
+      "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff."
     }
   ],
   "journal": [
@@ -253,6 +243,81 @@
         "text": "Then we'll need to do some calculations on that data."
       },
       "date": 1422484816288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1dc68fd53b597c1"
+      },
+      "id": "c1dc68fd53b597c1",
+      "type": "add",
+      "after": "6054e98747437f3f",
+      "date": 1422495866609
+    },
+    {
+      "type": "edit",
+      "id": "c1dc68fd53b597c1",
+      "item": {
+        "type": "html",
+        "id": "c1dc68fd53b597c1",
+        "text": "<p>ACTIVITY_STRUCTURE is being built directly from the database drawing on a MODULE_MAPPING hash to map weeks to module numbers</p>\n"
+      },
+      "date": 1422495906732
+    },
+    {
+      "type": "move",
+      "order": [
+        "9cd0b5e0b052ebc9",
+        "6b7e8be2d9955324",
+        "4b6773e6d73c7ad5",
+        "c1dc68fd53b597c1",
+        "a25efde41e17950c",
+        "d4ec55bc931dfd6f",
+        "6a3b23d8713d3837",
+        "6054e98747437f3f"
+      ],
+      "id": "c1dc68fd53b597c1",
+      "date": 1422495909286
+    },
+    {
+      "type": "remove",
+      "id": "a25efde41e17950c",
+      "date": 1422495919544
+    },
+    {
+      "type": "remove",
+      "id": "d4ec55bc931dfd6f",
+      "date": 1422495921627
+    },
+    {
+      "type": "remove",
+      "id": "6a3b23d8713d3837",
+      "date": 1422495927944
+    },
+    {
+      "type": "remove",
+      "id": "6054e98747437f3f",
+      "date": 1422495930966
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "041205e4a174699d"
+      },
+      "id": "041205e4a174699d",
+      "type": "add",
+      "after": "c1dc68fd53b597c1",
+      "date": 1422495932227
+    },
+    {
+      "type": "edit",
+      "id": "041205e4a174699d",
+      "item": {
+        "type": "html",
+        "id": "041205e4a174699d",
+        "text": "Aim now is to display this structure in the dialogue box, prior to entering the user completion stuff."
+      },
+      "date": 1422495956934
     }
   ]
 }

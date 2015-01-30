@@ -12,6 +12,16 @@
       "text": "[https://togetherjs.com/ TogetherJS] This one doesn't need a server, though, right?"
     },
     {
+      "type": "paragraph",
+      "id": "33e18fb9dc21426d",
+      "text": "[[Federated Wiki]], of course."
+    },
+    {
+      "type": "paragraph",
+      "id": "0cc5ff5bfb6ae073",
+      "text": "Or just run all this on OpenShift or Heroku? For free? How does that even work?"
+    },
+    {
       "type": "pagefold",
       "id": "b5d48ae5e62c093f",
       "text": "Not So Much"
@@ -192,6 +202,58 @@
         "text": "MediaGoblin"
       },
       "date": 1422594953575
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "33e18fb9dc21426d",
+        "text": ""
+      },
+      "id": "33e18fb9dc21426d",
+      "type": "add",
+      "after": "db2ba2c17cb624d2",
+      "date": 1422602178917
+    },
+    {
+      "type": "edit",
+      "id": "33e18fb9dc21426d",
+      "item": {
+        "type": "paragraph",
+        "id": "33e18fb9dc21426d",
+        "text": "[[Federated Wiki]], of course."
+      },
+      "date": 1422602191385
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0cc5ff5bfb6ae073",
+        "text": ""
+      },
+      "id": "0cc5ff5bfb6ae073",
+      "type": "add",
+      "after": "33e18fb9dc21426d",
+      "date": 1422602209725
+    },
+    {
+      "type": "edit",
+      "id": "0cc5ff5bfb6ae073",
+      "item": {
+        "type": "paragraph",
+        "id": "0cc5ff5bfb6ae073",
+        "text": "Or just run all this on OpenShift or Heroku?"
+      },
+      "date": 1422602222565
+    },
+    {
+      "type": "edit",
+      "id": "0cc5ff5bfb6ae073",
+      "item": {
+        "type": "paragraph",
+        "id": "0cc5ff5bfb6ae073",
+        "text": "Or just run all this on OpenShift or Heroku? For free? How does that even work?"
+      },
+      "date": 1422602234518
     }
   ]
 }

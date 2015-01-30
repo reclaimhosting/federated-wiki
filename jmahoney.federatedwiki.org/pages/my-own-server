@@ -10,6 +10,16 @@
       "type": "paragraph",
       "id": "db2ba2c17cb624d2",
       "text": "[https://togetherjs.com/ TogetherJS] This one doesn't need a server, though, right?"
+    },
+    {
+      "type": "pagefold",
+      "id": "b5d48ae5e62c093f",
+      "text": "Not So Much"
+    },
+    {
+      "type": "paragraph",
+      "id": "52156cd9141ee07a",
+      "text": "MediaGoblin"
     }
   ],
   "journal": [
@@ -142,6 +152,46 @@
         "text": "[https://togetherjs.com/ TogetherJS] This one doesn't need a server, though, right?"
       },
       "date": 1422593563364
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5d48ae5e62c093f"
+      },
+      "id": "b5d48ae5e62c093f",
+      "type": "add",
+      "after": "db2ba2c17cb624d2",
+      "date": 1422594881326
+    },
+    {
+      "type": "edit",
+      "id": "b5d48ae5e62c093f",
+      "item": {
+        "type": "pagefold",
+        "id": "b5d48ae5e62c093f",
+        "text": "Not So Much"
+      },
+      "date": 1422594893533
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52156cd9141ee07a"
+      },
+      "id": "52156cd9141ee07a",
+      "type": "add",
+      "after": "b5d48ae5e62c093f",
+      "date": 1422594923455
+    },
+    {
+      "type": "edit",
+      "id": "52156cd9141ee07a",
+      "item": {
+        "type": "paragraph",
+        "id": "52156cd9141ee07a",
+        "text": "MediaGoblin"
+      },
+      "date": 1422594953575
     }
   ]
 }

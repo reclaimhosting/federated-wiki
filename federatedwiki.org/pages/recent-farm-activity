@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "3989b7da4014daf4"
+      "id": "ca2c5d400068e67f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "84c24942ef8eb470"
+      "id": "2073af87780c9200"
+    },
+    {
+      "date": 1422595201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "d1092da1e6d3c6fa"
     },
     {
       "date": 1422594854000,
@@ -18,16 +27,7 @@
       "title": "My Own Server",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 30 pages.",
       "type": "reference",
-      "id": "91c43f9052572ef0"
-    },
-    {
-      "date": 1422594602000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "0e36683af403b817"
+      "id": "900de7ae1c99826b"
     },
     {
       "date": 1422497151000,
@@ -36,7 +36,7 @@
       "title": "29 Jan - EDC3100 PA - present activity completion",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 74 pages.",
       "type": "reference",
-      "id": "be412c026bed6c21"
+      "id": "7a9ea02099c38dc3"
     },
     {
       "date": 1422043065000,
@@ -45,41 +45,55 @@
       "title": "the great depression",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 70 pages.",
       "type": "reference",
-      "id": "c2098440655d23e2"
+      "id": "55d706d1651f3b35"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "99b6a5a487a30183",
+      "id": "560e05509aefdeaa",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     },
     {
       "type": "add",
-      "id": "3989b7da4014daf4",
+      "id": "ca2c5d400068e67f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "3989b7da4014daf4"
+        "id": "ca2c5d400068e67f"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     },
     {
       "type": "add",
-      "id": "84c24942ef8eb470",
+      "id": "2073af87780c9200",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "84c24942ef8eb470"
+        "id": "2073af87780c9200"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     },
     {
       "type": "add",
-      "id": "91c43f9052572ef0",
+      "id": "d1092da1e6d3c6fa",
+      "item": {
+        "date": 1422595201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "d1092da1e6d3c6fa"
+      },
+      "date": 1422595801000
+    },
+    {
+      "type": "add",
+      "id": "900de7ae1c99826b",
       "item": {
         "date": 1422594854000,
         "site": "jmahoney.federatedwiki.org",
@@ -87,27 +101,13 @@
         "title": "My Own Server",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 30 pages.",
         "type": "reference",
-        "id": "91c43f9052572ef0"
+        "id": "900de7ae1c99826b"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     },
     {
       "type": "add",
-      "id": "0e36683af403b817",
-      "item": {
-        "date": 1422594602000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "0e36683af403b817"
-      },
-      "date": 1422595201000
-    },
-    {
-      "type": "add",
-      "id": "be412c026bed6c21",
+      "id": "7a9ea02099c38dc3",
       "item": {
         "date": 1422497151000,
         "site": "fedwiki.djon.es",
@@ -115,13 +115,13 @@
         "title": "29 Jan - EDC3100 PA - present activity completion",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 74 pages.",
         "type": "reference",
-        "id": "be412c026bed6c21"
+        "id": "7a9ea02099c38dc3"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     },
     {
       "type": "add",
-      "id": "c2098440655d23e2",
+      "id": "55d706d1651f3b35",
       "item": {
         "date": 1422043065000,
         "site": "max.federatedwiki.org",
@@ -129,9 +129,9 @@
         "title": "the great depression",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 70 pages.",
         "type": "reference",
-        "id": "c2098440655d23e2"
+        "id": "55d706d1651f3b35"
       },
-      "date": 1422595201000
+      "date": 1422595801000
     }
   ]
 }

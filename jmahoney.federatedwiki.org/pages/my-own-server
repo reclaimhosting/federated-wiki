@@ -1,0 +1,127 @@
+{
+  "title": "My Own Server",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e0dd1efc81d157ea",
+      "text": "[http://etherpad.org/ Etherpad]"
+    },
+    {
+      "type": "paragraph",
+      "id": "db2ba2c17cb624d2",
+      "text": "[TogetherJS ] This one doesn't need a server, though, right?"
+    },
+    {
+      "type": "paragraph",
+      "id": "3725c6e5136446af",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "My Own Server",
+        "story": []
+      },
+      "date": 1422593182226
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0dd1efc81d157ea"
+      },
+      "id": "e0dd1efc81d157ea",
+      "type": "add",
+      "date": 1422593184058
+    },
+    {
+      "type": "edit",
+      "id": "e0dd1efc81d157ea",
+      "item": {
+        "type": "paragraph",
+        "id": "e0dd1efc81d157ea",
+        "text": "Etherpad"
+      },
+      "date": 1422593203125
+    },
+    {
+      "type": "edit",
+      "id": "e0dd1efc81d157ea",
+      "item": {
+        "type": "paragraph",
+        "id": "e0dd1efc81d157ea",
+        "text": "Etherpad [http://etherpad.org/]"
+      },
+      "date": 1422593220333
+    },
+    {
+      "type": "edit",
+      "id": "e0dd1efc81d157ea",
+      "item": {
+        "type": "paragraph",
+        "id": "e0dd1efc81d157ea",
+        "text": "[Etherpad http://etherpad.org/]"
+      },
+      "date": 1422593230771
+    },
+    {
+      "type": "edit",
+      "id": "e0dd1efc81d157ea",
+      "item": {
+        "type": "paragraph",
+        "id": "e0dd1efc81d157ea",
+        "text": "[http://etherpad.org/ Etherpad]"
+      },
+      "date": 1422593249400
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dbcd1a050295a4a5",
+        "text": ""
+      },
+      "id": "dbcd1a050295a4a5",
+      "type": "add",
+      "after": "e0dd1efc81d157ea",
+      "date": 1422593255866
+    },
+    {
+      "type": "remove",
+      "id": "dbcd1a050295a4a5",
+      "date": 1422593260857
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db2ba2c17cb624d2",
+        "text": ""
+      },
+      "id": "db2ba2c17cb624d2",
+      "type": "add",
+      "after": "e0dd1efc81d157ea",
+      "date": 1422593474322
+    },
+    {
+      "type": "edit",
+      "id": "db2ba2c17cb624d2",
+      "item": {
+        "type": "paragraph",
+        "id": "db2ba2c17cb624d2",
+        "text": "[TogetherJS ] This one doesn't need a server, though, right?"
+      },
+      "date": 1422593495931
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3725c6e5136446af",
+        "text": ""
+      },
+      "id": "3725c6e5136446af",
+      "type": "add",
+      "after": "db2ba2c17cb624d2",
+      "date": 1422593496066
+    }
+  ]
+}

@@ -17,6 +17,11 @@
       "text": "[[Dev Jan 2015]]"
     },
     {
+      "type": "paragraph",
+      "id": "fffb7fe92eb3a746",
+      "text": "[[Dev Feb 2015]]"
+    },
+    {
       "type": "html",
       "id": "455deeb858f8d8c3",
       "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n  <li> Look at [https://gate.ac.uk/ GATE] and other tools for setiment analysis. </li>\n</ol>"
@@ -392,6 +397,43 @@
         "text": "Some tasks to do\n<ol>\n  <li> Update BIM to fix the marking problem and possibly any other minor bugs. </li>\n  <li> Move process analytics onto S1, 2015 course and get it working. </li>\n  <li> Play around with getting MAV to work? </li>\n  <li> Explore what needs to happen to get Perl talking to the same databases. </li>\n  <li> Look at [https://gate.ac.uk/ GATE] and other tools for setiment analysis. </li>\n</ol>"
       },
       "date": 1422223156863
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fffb7fe92eb3a746",
+        "text": ""
+      },
+      "id": "fffb7fe92eb3a746",
+      "type": "add",
+      "after": "b6de949ba01308b3",
+      "date": 1422939313366
+    },
+    {
+      "type": "edit",
+      "id": "fffb7fe92eb3a746",
+      "item": {
+        "type": "paragraph",
+        "id": "fffb7fe92eb3a746",
+        "text": "[[Dev Feb 2015]]"
+      },
+      "date": 1422939317959
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5935eacdb35f0bc6",
+        "text": ""
+      },
+      "id": "5935eacdb35f0bc6",
+      "type": "add",
+      "after": "fffb7fe92eb3a746",
+      "date": 1422939317969
+    },
+    {
+      "type": "remove",
+      "id": "5935eacdb35f0bc6",
+      "date": 1422939320972
     }
   ]
 }

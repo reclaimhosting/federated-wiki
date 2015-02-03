@@ -1,0 +1,169 @@
+{
+  "title": "3 Feb Moodle Install",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "281ec187ab7e2f8a",
+      "text": "Aim here is to experiment with Moodle on remote servers and the potential application of LTI to exploring principles of the [[BAD Mindset]]"
+    },
+    {
+      "type": "markdown",
+      "id": "5974744dd2520f2a",
+      "text": "### Plan"
+    },
+    {
+      "type": "html",
+      "id": "3d25e85e9d15d252",
+      "text": "<ol>\n  <li> Install Moodle on relaim hosting </li>\n  <li> Install BIM on that Moodle. </li>\n  <li> Experiment with LTI </li>\n  <li> Identify OZ-based hosting service and install Moodle there. </li>\n</ol>"
+    },
+    {
+      "type": "markdown",
+      "id": "f3df1d2474ed5e65",
+      "text": "### Install on relcaim hosting\n"
+    },
+    {
+      "type": "html",
+      "id": "7ac63e23d914b287",
+      "text": "<ol>\n  <li> Create Moodle database<br />\ndbase: djones_m28\nuser: djones_moodle/moodle\n</li>\n  <li> Unpack Moodle source </li>\n  <li> Run it from the web. </li>\n</ol>\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3 Feb Moodle Install",
+        "story": []
+      },
+      "date": 1422939356117
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "281ec187ab7e2f8a"
+      },
+      "id": "281ec187ab7e2f8a",
+      "type": "add",
+      "date": 1422939357716
+    },
+    {
+      "type": "edit",
+      "id": "281ec187ab7e2f8a",
+      "item": {
+        "type": "paragraph",
+        "id": "281ec187ab7e2f8a",
+        "text": "Aim here is to experiment with Moodle on remote servers and the potential application of LTI to exploring principles of the [[BAD Mindset]]"
+      },
+      "date": 1422939383532
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5974744dd2520f2a"
+      },
+      "id": "5974744dd2520f2a",
+      "type": "add",
+      "after": "281ec187ab7e2f8a",
+      "date": 1422939396381
+    },
+    {
+      "type": "edit",
+      "id": "5974744dd2520f2a",
+      "item": {
+        "type": "markdown",
+        "id": "5974744dd2520f2a",
+        "text": "### Plan"
+      },
+      "date": 1422939402383
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3d25e85e9d15d252"
+      },
+      "id": "3d25e85e9d15d252",
+      "type": "add",
+      "after": "5974744dd2520f2a",
+      "date": 1422939403863
+    },
+    {
+      "type": "edit",
+      "id": "3d25e85e9d15d252",
+      "item": {
+        "type": "html",
+        "id": "3d25e85e9d15d252",
+        "text": "<ol>\n  <li> Install Moodle on relaim hosting </li>\n  <li> Install BIM on that Moodle. </li>\n  <li> Experiment with LTI </li>\n  <li> Identify OZ-based hosting service and install Moodle there. </li>\n</ol>"
+      },
+      "date": 1422939443719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3df1d2474ed5e65"
+      },
+      "id": "f3df1d2474ed5e65",
+      "type": "add",
+      "after": "3d25e85e9d15d252",
+      "date": 1422939446619
+    },
+    {
+      "type": "edit",
+      "id": "f3df1d2474ed5e65",
+      "item": {
+        "type": "markdown",
+        "id": "f3df1d2474ed5e65",
+        "text": "### Install on relcaim hosting\n"
+      },
+      "date": 1422939456373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ac63e23d914b287"
+      },
+      "id": "7ac63e23d914b287",
+      "type": "add",
+      "after": "f3df1d2474ed5e65",
+      "date": 1422939457666
+    },
+    {
+      "type": "edit",
+      "id": "7ac63e23d914b287",
+      "item": {
+        "type": "html",
+        "id": "7ac63e23d914b287",
+        "text": "<ol>\n  <li> Create Moodle database </li>\n  <li> Unpack Moodle source </li>\n  <li> Run it from the web. </li>\n</ol>\n"
+      },
+      "date": 1422939489449
+    },
+    {
+      "type": "edit",
+      "id": "7ac63e23d914b287",
+      "item": {
+        "type": "html",
+        "id": "7ac63e23d914b287",
+        "text": "<ol>\n  <li> Create Moodle database = djones_m28</li>\n  <li> Unpack Moodle source </li>\n  <li> Run it from the web. </li>\n</ol>\n"
+      },
+      "date": 1422939503308
+    },
+    {
+      "type": "edit",
+      "id": "7ac63e23d914b287",
+      "item": {
+        "type": "html",
+        "id": "7ac63e23d914b287",
+        "text": "<ol>\n  <li> Create Moodle database<br />\ndbase: djones_m28\nuser: djones_moodle\n</li>\n  <li> Unpack Moodle source </li>\n  <li> Run it from the web. </li>\n</ol>\n"
+      },
+      "date": 1422939579412
+    },
+    {
+      "type": "edit",
+      "id": "7ac63e23d914b287",
+      "item": {
+        "type": "html",
+        "id": "7ac63e23d914b287",
+        "text": "<ol>\n  <li> Create Moodle database<br />\ndbase: djones_m28\nuser: djones_moodle/moodle\n</li>\n  <li> Unpack Moodle source </li>\n  <li> Run it from the web. </li>\n</ol>\n"
+      },
+      "date": 1422939589818
+    }
+  ]
+}

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ae0bb190ee4d16f5"
+      "id": "550ed8048aa0efa6"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "986546930aff27a8"
+      "id": "f878fb5cd25c402e"
+    },
+    {
+      "date": 1422924601000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "53331e955b56b480"
     },
     {
       "date": 1422924026000,
@@ -18,16 +27,7 @@
       "title": "Concrete Lounge",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 75 pages.",
       "type": "reference",
-      "id": "d1580065aefb1131"
-    },
-    {
-      "date": 1422924001000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "0ba18b370fbea04e"
+      "id": "27f2f37bfe8d5fcb"
     },
     {
       "date": 1422602134000,
@@ -36,41 +36,55 @@
       "title": "My Own Server",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 30 pages.",
       "type": "reference",
-      "id": "af4dcc7d5944fbc8"
+      "id": "c49dbdf6c5a97d7b"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "bb66175a05b5fd4f",
+      "id": "1320dac86cd6c164",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1422924601000
+      "date": 1422925201000
     },
     {
       "type": "add",
-      "id": "ae0bb190ee4d16f5",
+      "id": "550ed8048aa0efa6",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ae0bb190ee4d16f5"
+        "id": "550ed8048aa0efa6"
       },
-      "date": 1422924601000
+      "date": 1422925201000
     },
     {
       "type": "add",
-      "id": "986546930aff27a8",
+      "id": "f878fb5cd25c402e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "986546930aff27a8"
+        "id": "f878fb5cd25c402e"
       },
-      "date": 1422924601000
+      "date": 1422925201000
     },
     {
       "type": "add",
-      "id": "d1580065aefb1131",
+      "id": "53331e955b56b480",
+      "item": {
+        "date": 1422924601000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "53331e955b56b480"
+      },
+      "date": 1422925201000
+    },
+    {
+      "type": "add",
+      "id": "27f2f37bfe8d5fcb",
       "item": {
         "date": 1422924026000,
         "site": "fedwiki.djon.es",
@@ -78,27 +92,13 @@
         "title": "Concrete Lounge",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 75 pages.",
         "type": "reference",
-        "id": "d1580065aefb1131"
+        "id": "27f2f37bfe8d5fcb"
       },
-      "date": 1422924601000
+      "date": 1422925201000
     },
     {
       "type": "add",
-      "id": "0ba18b370fbea04e",
-      "item": {
-        "date": 1422924001000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "0ba18b370fbea04e"
-      },
-      "date": 1422924601000
-    },
-    {
-      "type": "add",
-      "id": "af4dcc7d5944fbc8",
+      "id": "c49dbdf6c5a97d7b",
       "item": {
         "date": 1422602134000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "My Own Server",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 30 pages.",
         "type": "reference",
-        "id": "af4dcc7d5944fbc8"
+        "id": "c49dbdf6c5a97d7b"
       },
-      "date": 1422924601000
+      "date": 1422925201000
     }
   ]
 }

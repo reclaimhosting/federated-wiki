@@ -14,7 +14,7 @@
     {
       "type": "html",
       "id": "3d25e85e9d15d252",
-      "text": "<ol>\n  <li> Install Moodle on relaim hosting </li>\n  <li> Install BIM on that Moodle. </li>\n  <li> Experiment with LTI </li>\n  <li> Identify OZ-based hosting service and install Moodle there. </li>\n</ol>"
+      "text": "<ol>\n  <li> Install Moodle on relaim hosting <strong>DONE</strong></li>\n  <li> Install BIM on that Moodle.<strong>DONE</strong> </li>\n  <li> Experiment with LTI <strong>DONE</strong></li>\n  <li> Identify OZ-based hosting service and install Moodle there. <p>Need to solve the issue with groups/users etc before I move on this.</p></li>\n</ol>"
     },
     {
       "type": "markdown",
@@ -45,6 +45,41 @@
       "type": "paragraph",
       "id": "874ca4a9b5e4f4af",
       "text": "1.  Need to install the [https://moodle.org/plugins/pluginversions.php?plugin=local_ltiprovider LTI provider plugin] so that my Moodle instance can be connected to."
+    },
+    {
+      "type": "paragraph",
+      "id": "b5745b2bd91573ab",
+      "text": "2. Use the new LTI provider in the course to add BIM as a provider."
+    },
+    {
+      "type": "paragraph",
+      "id": "ecd5ef0cba3e982e",
+      "text": "3. Use the information generated from that to configure the \"external tool\" on the other Moodle instance."
+    },
+    {
+      "type": "paragraph",
+      "id": "381ddc1eb13fbbe3",
+      "text": ""
+    },
+    {
+      "type": "markdown",
+      "id": "07d51e87c489ee41",
+      "text": "###Questions remaining\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "6f69a7b23689e6f3",
+      "text": "1. User and group management may be an issue on the djon.es server.  These either need to be created manually or created via a backup and restore."
+    },
+    {
+      "type": "paragraph",
+      "id": "3fdb59b18df37f3e",
+      "text": "The backup and restore option might allow for a better connection between the two databases, better enabling some of the bringing together of databases I'm using."
+    },
+    {
+      "type": "paragraph",
+      "id": "74eff49e8a3c1aae",
+      "text": "e.g. I'd need to access the database in order for the process analytics to work."
     }
   ],
   "journal": [
@@ -327,6 +362,177 @@
       "type": "remove",
       "id": "d1f0cfd31a56aae2",
       "date": 1422942912162
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5745b2bd91573ab",
+        "text": ""
+      },
+      "id": "b5745b2bd91573ab",
+      "type": "add",
+      "after": "874ca4a9b5e4f4af",
+      "date": 1422944847170
+    },
+    {
+      "type": "edit",
+      "id": "b5745b2bd91573ab",
+      "item": {
+        "type": "paragraph",
+        "id": "b5745b2bd91573ab",
+        "text": "2. Use the new LTI provider in the course to add BIM as a provider."
+      },
+      "date": 1422944872668
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ecd5ef0cba3e982e",
+        "text": ""
+      },
+      "id": "ecd5ef0cba3e982e",
+      "type": "add",
+      "after": "b5745b2bd91573ab",
+      "date": 1422944872688
+    },
+    {
+      "type": "edit",
+      "id": "ecd5ef0cba3e982e",
+      "item": {
+        "type": "paragraph",
+        "id": "ecd5ef0cba3e982e",
+        "text": "3. Use the information generated from that to configure the \"external tool\" on the other Moodle instance."
+      },
+      "date": 1422944887137
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "381ddc1eb13fbbe3",
+        "text": ""
+      },
+      "id": "381ddc1eb13fbbe3",
+      "type": "add",
+      "after": "ecd5ef0cba3e982e",
+      "date": 1422944887152
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22217ae785e00730",
+        "text": ""
+      },
+      "id": "22217ae785e00730",
+      "type": "add",
+      "after": "381ddc1eb13fbbe3",
+      "date": 1422944892063
+    },
+    {
+      "type": "remove",
+      "id": "22217ae785e00730",
+      "date": 1422944895812
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07d51e87c489ee41"
+      },
+      "id": "07d51e87c489ee41",
+      "type": "add",
+      "after": "381ddc1eb13fbbe3",
+      "date": 1422944897042
+    },
+    {
+      "type": "edit",
+      "id": "07d51e87c489ee41",
+      "item": {
+        "type": "markdown",
+        "id": "07d51e87c489ee41",
+        "text": "###Questions remaining\n"
+      },
+      "date": 1422944902848
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6f69a7b23689e6f3"
+      },
+      "id": "6f69a7b23689e6f3",
+      "type": "add",
+      "after": "07d51e87c489ee41",
+      "date": 1422944904686
+    },
+    {
+      "type": "edit",
+      "id": "6f69a7b23689e6f3",
+      "item": {
+        "type": "paragraph",
+        "id": "6f69a7b23689e6f3",
+        "text": "1. User and group management may be an issue on the djon.es server.  These either need to be created manually or created via a backup and restore."
+      },
+      "date": 1422944942139
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3fdb59b18df37f3e",
+        "text": ""
+      },
+      "id": "3fdb59b18df37f3e",
+      "type": "add",
+      "after": "6f69a7b23689e6f3",
+      "date": 1422944942159
+    },
+    {
+      "type": "edit",
+      "id": "3fdb59b18df37f3e",
+      "item": {
+        "type": "paragraph",
+        "id": "3fdb59b18df37f3e",
+        "text": "The backup and restore option might allow for a better connection between the two databases, better enabling some of the bringing together of databases I'm using."
+      },
+      "date": 1422944974166
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74eff49e8a3c1aae",
+        "text": ""
+      },
+      "id": "74eff49e8a3c1aae",
+      "type": "add",
+      "after": "3fdb59b18df37f3e",
+      "date": 1422944974181
+    },
+    {
+      "type": "edit",
+      "id": "74eff49e8a3c1aae",
+      "item": {
+        "type": "paragraph",
+        "id": "74eff49e8a3c1aae",
+        "text": "e.g. I'd need to access the database in order for the process analytics to work."
+      },
+      "date": 1422944993221
+    },
+    {
+      "type": "edit",
+      "id": "3d25e85e9d15d252",
+      "item": {
+        "type": "html",
+        "id": "3d25e85e9d15d252",
+        "text": "<ol>\n  <li> Install Moodle on relaim hosting <strong>DONE</strong></li>\n  <li> Install BIM on that Moodle.<strong>DONE</strong> </li>\n  <li> Experiment with LTI <strong>DONE</strong></li>\n  <li> Identify OZ-based hosting service and install Moodle there. </li>\n</ol>"
+      },
+      "date": 1422945017917
+    },
+    {
+      "type": "edit",
+      "id": "3d25e85e9d15d252",
+      "item": {
+        "type": "html",
+        "id": "3d25e85e9d15d252",
+        "text": "<ol>\n  <li> Install Moodle on relaim hosting <strong>DONE</strong></li>\n  <li> Install BIM on that Moodle.<strong>DONE</strong> </li>\n  <li> Experiment with LTI <strong>DONE</strong></li>\n  <li> Identify OZ-based hosting service and install Moodle there. <p>Need to solve the issue with groups/users etc before I move on this.</p></li>\n</ol>"
+      },
+      "date": 1422945039927
     }
   ]
 }

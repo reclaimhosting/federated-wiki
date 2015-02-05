@@ -18,6 +18,11 @@
     },
     {
       "type": "paragraph",
+      "id": "7df73d56907bfd43",
+      "text": "Another way to start a new paragraph: just press enter from a paragraph you're already editing."
+    },
+    {
+      "type": "paragraph",
       "id": "e70c031abf77b07f",
       "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\"). If you double-click this paragraph, you'll see what I mean. [[Just Like This]]"
     },
@@ -25,6 +30,11 @@
       "type": "paragraph",
       "id": "dc6dcf196165190b",
       "text": "Drag paragraphs to re-order them! You can drag paragraphs between \"pages\" too."
+    },
+    {
+      "type": "paragraph",
+      "id": "b38c4b0d08ee330b",
+      "text": "To delete a paragraph, double-click to edit it and delete everything in it. Then press \"Alt-S\". If you backspace beyond the contents of that paragraph, fun things happen. Try it!"
     },
     {
       "type": "paragraph",
@@ -373,6 +383,48 @@
         "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\"). If you double-click this paragraph, you'll see what I mean. [[Just Like This]]"
       },
       "date": 1423111711056
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7df73d56907bfd43",
+        "text": ""
+      },
+      "id": "7df73d56907bfd43",
+      "type": "add",
+      "after": "ef6703ca8ee7904a",
+      "date": 1423111985217
+    },
+    {
+      "type": "edit",
+      "id": "7df73d56907bfd43",
+      "item": {
+        "type": "paragraph",
+        "id": "7df73d56907bfd43",
+        "text": "Another way to start a new paragraph: just press enter from a paragraph you're already editing."
+      },
+      "date": 1423112020508
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b38c4b0d08ee330b",
+        "text": ""
+      },
+      "id": "b38c4b0d08ee330b",
+      "type": "add",
+      "after": "dc6dcf196165190b",
+      "date": 1423112045430
+    },
+    {
+      "type": "edit",
+      "id": "b38c4b0d08ee330b",
+      "item": {
+        "type": "paragraph",
+        "id": "b38c4b0d08ee330b",
+        "text": "To delete a paragraph, double-click to edit it and delete everything in it. Then press \"Alt-S\". If you backspace beyond the contents of that paragraph, fun things happen. Try it!"
+      },
+      "date": 1423112093293
     }
   ]
 }

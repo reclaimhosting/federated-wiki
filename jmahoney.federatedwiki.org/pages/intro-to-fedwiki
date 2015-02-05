@@ -34,7 +34,7 @@
     {
       "type": "paragraph",
       "id": "30cecc26261803bf",
-      "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
+      "text": "Here is [http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site. Feel free to go crazy and mess it up all you want. That's why it's there."
     },
     {
       "type": "paragraph",
@@ -59,7 +59,7 @@
     {
       "type": "paragraph",
       "id": "266495b527cff87f",
-      "text": ""
+      "text": "I feel obligated to say that this little introduction doesn't even begin to touch on the \"federated\" (in a word, social) aspect of (Smallest) Federated Wiki."
     }
   ],
   "journal": [
@@ -777,6 +777,26 @@
       "type": "add",
       "after": "60dfcac20827458c",
       "date": 1423111885531
+    },
+    {
+      "type": "edit",
+      "id": "266495b527cff87f",
+      "item": {
+        "type": "paragraph",
+        "id": "266495b527cff87f",
+        "text": "I feel obligated to say that this little introduction doesn't even begin to touch on the \"federated\" (in a word, social) aspect of (Smallest) Federated Wiki."
+      },
+      "date": 1423111956889
+    },
+    {
+      "type": "edit",
+      "id": "30cecc26261803bf",
+      "item": {
+        "type": "paragraph",
+        "id": "30cecc26261803bf",
+        "text": "Here is [http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site. Feel free to go crazy and mess it up all you want. That's why it's there."
+      },
+      "date": 1423112320394
     }
   ]
 }

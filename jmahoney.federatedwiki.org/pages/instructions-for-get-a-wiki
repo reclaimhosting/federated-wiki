@@ -2,8 +2,29 @@
   "title": "Instructions For \"Get A Wiki\"",
   "story": [
     {
-      "type": "factory",
-      "id": "4afa68cc2f85defd"
+      "type": "paragraph",
+      "id": "4afa68cc2f85defd",
+      "text": "If the instructions at that link leave you puzzled, here are some tips."
+    },
+    {
+      "type": "paragraph",
+      "id": "cc8a3e782e65ba50",
+      "text": "First, type into the address bar of your web browser the name/URL of the FedWiki you want, e.g., \"billybob.federatedwiki.org\"."
+    },
+    {
+      "type": "paragraph",
+      "id": "7848cd06af06dcf7",
+      "text": "Then, at the bottom left of that page, click the blue \"Claim With Your Email\" button."
+    },
+    {
+      "type": "paragraph",
+      "id": "607e5d6425353984",
+      "text": "This will let you be the sole owner of that FedWiki \"site.\" It uses a thing called Mozilla Persona to log you in."
+    },
+    {
+      "type": "paragraph",
+      "id": "178aaa7dd32eeb0a",
+      "text": "If you are logged in to, say, a GMail aaccount already, Persona will use that information to log you in. If you don't want that GMail account to be tied to this, hopefully the steps are easy enough to figure out to use a different e-mail address. If not, let me know and I can help you out."
     }
   ],
   "journal": [
@@ -23,6 +44,140 @@
       "id": "4afa68cc2f85defd",
       "type": "add",
       "date": 1423110685577
+    },
+    {
+      "type": "edit",
+      "id": "4afa68cc2f85defd",
+      "item": {
+        "type": "paragraph",
+        "id": "4afa68cc2f85defd",
+        "text": "If the instructions at that link leave you puzzled, here are some tips."
+      },
+      "date": 1423110713821
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc8a3e782e65ba50",
+        "text": ""
+      },
+      "id": "cc8a3e782e65ba50",
+      "type": "add",
+      "after": "4afa68cc2f85defd",
+      "date": 1423110713863
+    },
+    {
+      "type": "edit",
+      "id": "cc8a3e782e65ba50",
+      "item": {
+        "type": "paragraph",
+        "id": "cc8a3e782e65ba50",
+        "text": "First, type into the address bar of your web browser the name/URL of the FedWiki you want, e.g., \"billybob.federatedwiki.org\"."
+      },
+      "date": 1423110777040
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7848cd06af06dcf7",
+        "text": ""
+      },
+      "id": "7848cd06af06dcf7",
+      "type": "add",
+      "after": "cc8a3e782e65ba50",
+      "date": 1423110781542
+    },
+    {
+      "type": "edit",
+      "id": "7848cd06af06dcf7",
+      "item": {
+        "type": "paragraph",
+        "id": "7848cd06af06dcf7",
+        "text": "Then, at the bottom left of that page, "
+      },
+      "date": 1423110793185
+    },
+    {
+      "type": "edit",
+      "id": "7848cd06af06dcf7",
+      "item": {
+        "type": "paragraph",
+        "id": "7848cd06af06dcf7",
+        "text": "Then, at the bottom left of that page, click the blue \"Claim With Your Email\""
+      },
+      "date": 1423110833518
+    },
+    {
+      "type": "edit",
+      "id": "7848cd06af06dcf7",
+      "item": {
+        "type": "paragraph",
+        "id": "7848cd06af06dcf7",
+        "text": "Then, at the bottom left of that page, click the blue \"Claim With Your Email\" button."
+      },
+      "date": 1423110841081
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "607e5d6425353984",
+        "text": ""
+      },
+      "id": "607e5d6425353984",
+      "type": "add",
+      "after": "7848cd06af06dcf7",
+      "date": 1423110841134
+    },
+    {
+      "type": "edit",
+      "id": "607e5d6425353984",
+      "item": {
+        "type": "paragraph",
+        "id": "607e5d6425353984",
+        "text": "This will let you be the sole owner of that FedWiki \"site.\" It uses a thing called Mozilla Persona to log you in."
+      },
+      "date": 1423110875069
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "178aaa7dd32eeb0a",
+        "text": ""
+      },
+      "id": "178aaa7dd32eeb0a",
+      "type": "add",
+      "after": "607e5d6425353984",
+      "date": 1423110875128
+    },
+    {
+      "type": "edit",
+      "id": "178aaa7dd32eeb0a",
+      "item": {
+        "type": "paragraph",
+        "id": "178aaa7dd32eeb0a",
+        "text": "If you are logged in to, say, a GMail aaccount already, Persona will use that information to log you in."
+      },
+      "date": 1423110921686
+    },
+    {
+      "type": "edit",
+      "id": "178aaa7dd32eeb0a",
+      "item": {
+        "type": "paragraph",
+        "id": "178aaa7dd32eeb0a",
+        "text": "If you are logged in to, say, a GMail aaccount already, Persona will use that information to log you in. If you don't want that account to be tied to this, hopefully the steps are easy enough to figure out. If not, let me know and I can help you out."
+      },
+      "date": 1423111017638
+    },
+    {
+      "type": "edit",
+      "id": "178aaa7dd32eeb0a",
+      "item": {
+        "type": "paragraph",
+        "id": "178aaa7dd32eeb0a",
+        "text": "If you are logged in to, say, a GMail aaccount already, Persona will use that information to log you in. If you don't want that GMail account to be tied to this, hopefully the steps are easy enough to figure out to use a different e-mail address. If not, let me know and I can help you out."
+      },
+      "date": 1423111038793
     }
   ]
 }

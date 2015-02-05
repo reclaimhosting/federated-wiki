@@ -39,7 +39,17 @@
     {
       "type": "paragraph",
       "id": "6d3f76d9516c4d13",
-      "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. [[Instructions For \"Get A Wiki\"]] This is the host I'm using right now. [[Other Options For Using FedWiki]]"
+      "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org This is the host I'm using right now."
+    },
+    {
+      "type": "paragraph",
+      "id": "56854a3826c9b76d",
+      "text": "[[Instructions For \"Get A Wiki\"]] (if you need more than that link above tells you)"
+    },
+    {
+      "type": "paragraph",
+      "id": "60dfcac20827458c",
+      "text": "[[Other Options For Using FedWiki]]"
     }
   ],
   "journal": [
@@ -613,6 +623,88 @@
         "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. [[Instructions For \"Get A Wiki\"]] This is the host I'm using right now. [[Other Options For Using FedWiki]]"
       },
       "date": 1423110670692
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org This is the host I'm using right now. [[Other Options For Using FedWiki]]"
+      },
+      "date": 1423111073745
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org This is the host I'm using right now."
+      },
+      "date": 1423111079631
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "56854a3826c9b76d",
+        "text": "[[Other Options For Using FedWiki]]"
+      },
+      "id": "56854a3826c9b76d",
+      "type": "add",
+      "after": "6d3f76d9516c4d13",
+      "date": 1423111079739
+    },
+    {
+      "type": "edit",
+      "id": "56854a3826c9b76d",
+      "item": {
+        "type": "paragraph",
+        "id": "56854a3826c9b76d",
+        "text": "[[Instructions For \"Get A Wiki\"]] if you need more than that link tells you"
+      },
+      "date": 1423111102699
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "60dfcac20827458c",
+        "text": "[[Other Options For Using FedWiki]]"
+      },
+      "id": "60dfcac20827458c",
+      "type": "add",
+      "after": "56854a3826c9b76d",
+      "date": 1423111102757
+    },
+    {
+      "type": "edit",
+      "id": "56854a3826c9b76d",
+      "item": {
+        "type": "paragraph",
+        "id": "56854a3826c9b76d",
+        "text": "[[Instructions For \"Get A Wiki\"]] if you need more than that link tells you."
+      },
+      "date": 1423111108513
+    },
+    {
+      "type": "edit",
+      "id": "56854a3826c9b76d",
+      "item": {
+        "type": "paragraph",
+        "id": "56854a3826c9b76d",
+        "text": "[[Instructions For \"Get A Wiki\"]] (if you need more than that link tells you)"
+      },
+      "date": 1423111123565
+    },
+    {
+      "type": "edit",
+      "id": "56854a3826c9b76d",
+      "item": {
+        "type": "paragraph",
+        "id": "56854a3826c9b76d",
+        "text": "[[Instructions For \"Get A Wiki\"]] (if you need more than that link above tells you)"
+      },
+      "date": 1423111133994
     }
   ]
 }

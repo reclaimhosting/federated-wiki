@@ -22,8 +22,14 @@
       "text": "Here are some links to get you started in FedWiki-land."
     },
     {
-      "type": "factory",
-      "id": "4b88b0bce3ec4c07"
+      "type": "paragraph",
+      "id": "30cecc26261803bf",
+      "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
+    },
+    {
+      "type": "markdown",
+      "id": "c37f2578043f9a13",
+      "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
     }
   ],
   "journal": [
@@ -172,6 +178,126 @@
       "type": "add",
       "after": "ec1f0c0d1de44f5c",
       "date": 1423108302842
+    },
+    {
+      "type": "edit",
+      "id": "4b88b0bce3ec4c07",
+      "item": {
+        "type": "reference",
+        "id": "4b88b0bce3ec4c07",
+        "site": "sandbox.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "date": 1423108316405
+    },
+    {
+      "type": "remove",
+      "id": "4b88b0bce3ec4c07",
+      "date": 1423108349877
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "30cecc26261803bf",
+        "text": ""
+      },
+      "id": "30cecc26261803bf",
+      "type": "add",
+      "after": "ec1f0c0d1de44f5c",
+      "date": 1423108354612
+    },
+    {
+      "type": "edit",
+      "id": "30cecc26261803bf",
+      "item": {
+        "type": "paragraph",
+        "id": "30cecc26261803bf",
+        "text": "[[]]"
+      },
+      "date": 1423108364150
+    },
+    {
+      "type": "edit",
+      "id": "30cecc26261803bf",
+      "item": {
+        "type": "paragraph",
+        "id": "30cecc26261803bf",
+        "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
+      },
+      "date": 1423108395942
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "06f8ccc9c934e3fa",
+        "text": ""
+      },
+      "id": "06f8ccc9c934e3fa",
+      "type": "add",
+      "after": "30cecc26261803bf",
+      "date": 1423108608108
+    },
+    {
+      "type": "remove",
+      "id": "06f8ccc9c934e3fa",
+      "date": 1423108619979
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "69af70dfaf796d4d",
+        "text": ""
+      },
+      "id": "69af70dfaf796d4d",
+      "type": "add",
+      "after": "0bb9816465578af9",
+      "date": 1423108669548
+    },
+    {
+      "type": "remove",
+      "id": "69af70dfaf796d4d",
+      "date": 1423108700598
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c37f2578043f9a13"
+      },
+      "id": "c37f2578043f9a13",
+      "type": "add",
+      "after": "30cecc26261803bf",
+      "date": 1423108702300
+    },
+    {
+      "type": "edit",
+      "id": "c37f2578043f9a13",
+      "item": {
+        "type": "markdown",
+        "id": "c37f2578043f9a13",
+        "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want."
+      },
+      "date": 1423108786136
+    },
+    {
+      "type": "edit",
+      "id": "c37f2578043f9a13",
+      "item": {
+        "type": "markdown",
+        "id": "c37f2578043f9a13",
+        "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph"
+      },
+      "date": 1423108876962
+    },
+    {
+      "type": "edit",
+      "id": "c37f2578043f9a13",
+      "item": {
+        "type": "markdown",
+        "id": "c37f2578043f9a13",
+        "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
+      },
+      "date": 1423108904201
     }
   ]
 }

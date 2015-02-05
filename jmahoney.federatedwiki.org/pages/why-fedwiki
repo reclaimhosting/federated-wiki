@@ -4,7 +4,17 @@
     {
       "type": "paragraph",
       "id": "70b01cec53d0ed4a",
-      "text": "E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" \"I'm on this new thing called Smallest Federated Wiki.\" Err... I don't think \"I'm on this new thing called Federated Wiki\" is much better."
+      "text": "E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" \"I started a new blog.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "f3bdda0f3b1f5c54",
+      "text": "\"I'm on this new thing called Smallest Federated Wiki.\" Err... And I don't think \"I'm on this new thing called Federated Wiki\" is much better."
+    },
+    {
+      "type": "paragraph",
+      "id": "79274cbf9ab197d5",
+      "text": "I'm using this new thing called \"FedWiki.\" Much more conversational, I feel."
     }
   ],
   "journal": [
@@ -25,6 +35,68 @@
       },
       "id": "70b01cec53d0ed4a",
       "date": 1423107955230
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79274cbf9ab197d5",
+        "text": ""
+      },
+      "id": "79274cbf9ab197d5",
+      "type": "add",
+      "after": "70b01cec53d0ed4a",
+      "date": 1423108457003
+    },
+    {
+      "type": "edit",
+      "id": "79274cbf9ab197d5",
+      "item": {
+        "type": "paragraph",
+        "id": "79274cbf9ab197d5",
+        "text": "I'm using this new thing called \"FedWiki.\" Much more conversational, I feel."
+      },
+      "date": 1423108484989
+    },
+    {
+      "type": "edit",
+      "id": "70b01cec53d0ed4a",
+      "item": {
+        "type": "paragraph",
+        "id": "70b01cec53d0ed4a",
+        "text": "E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" \"I'm on this new thing called Smallest Federated Wiki.\" Err... And I don't think \"I'm on this new thing called Federated Wiki\" is much better."
+      },
+      "date": 1423108496134
+    },
+    {
+      "type": "edit",
+      "id": "70b01cec53d0ed4a",
+      "item": {
+        "type": "paragraph",
+        "id": "70b01cec53d0ed4a",
+        "text": "E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" I started a new blog."
+      },
+      "date": 1423108516080
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f3bdda0f3b1f5c54",
+        "text": "\"I'm on this new thing called Smallest Federated Wiki.\" Err... And I don't think \"I'm on this new thing called Federated Wiki\" is much better."
+      },
+      "id": "f3bdda0f3b1f5c54",
+      "type": "add",
+      "after": "70b01cec53d0ed4a",
+      "date": 1423108516114
+    },
+    {
+      "type": "edit",
+      "id": "70b01cec53d0ed4a",
+      "item": {
+        "type": "paragraph",
+        "id": "70b01cec53d0ed4a",
+        "text": "E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" \"I started a new blog.\""
+      },
+      "date": 1423108532727
     }
   ]
 }

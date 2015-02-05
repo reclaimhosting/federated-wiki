@@ -1,0 +1,241 @@
+{
+  "title": "A Few Things To Know To Get Started",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8324d82132fffbc3",
+      "text": "Double-click on a paragraph to edit it."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f546fee042cfd38",
+      "text": "\"Alt-S\" to save your edits. Or you can click outside of the edit box, but that doesn't always do what you want."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef6703ca8ee7904a",
+      "text": "Click the \"+\" button at the bottom right to start a new paragraph. Double click the gray box to add text."
+    },
+    {
+      "type": "paragraph",
+      "id": "e70c031abf77b07f",
+      "text": "To start a new \"page,\" put the name of it inside double square brackets."
+    },
+    {
+      "type": "paragraph",
+      "id": "dc6dcf196165190b",
+      "text": "Drag paragraphs to re-order them!"
+    },
+    {
+      "type": "paragraph",
+      "id": "fe478635925f28d1",
+      "text": "If you're several pages deep into a FedWiki, click on the colored square at the top left of any page to see what it does."
+    },
+    {
+      "type": "paragraph",
+      "id": "67d83eb692e74dd3",
+      "text": "If you're several pages deep into a FedWiki, use the left and right arrow keys and see what happens."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A Few Things To Know To Get Started",
+        "story": []
+      },
+      "date": 1423108994299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe478635925f28d1"
+      },
+      "id": "fe478635925f28d1",
+      "type": "add",
+      "date": 1423109188897
+    },
+    {
+      "type": "edit",
+      "id": "fe478635925f28d1",
+      "item": {
+        "type": "paragraph",
+        "id": "fe478635925f28d1",
+        "text": "If you're several pages deep into a FedWiki, click on the colored square at the top left of any page to see what it does."
+      },
+      "date": 1423109254331
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8324d82132fffbc3",
+        "text": ""
+      },
+      "id": "8324d82132fffbc3",
+      "type": "add",
+      "after": "fe478635925f28d1",
+      "date": 1423109254396
+    },
+    {
+      "type": "edit",
+      "id": "8324d82132fffbc3",
+      "item": {
+        "type": "paragraph",
+        "id": "8324d82132fffbc3",
+        "text": "Double-click on a paragraph to edit it."
+      },
+      "date": 1423109263788
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": ""
+      },
+      "id": "6f546fee042cfd38",
+      "type": "add",
+      "after": "8324d82132fffbc3",
+      "date": 1423109263818
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" to save your edits."
+      },
+      "date": 1423109271173
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" to save your edits. Or you can click outside of the edit box, but this doesn't always do what you want."
+      },
+      "date": 1423109298726
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" to save your edits. Or you can click outside of the edit box, but that doesn't always do what you want."
+      },
+      "date": 1423109305867
+    },
+    {
+      "type": "move",
+      "order": [
+        "8324d82132fffbc3",
+        "6f546fee042cfd38",
+        "fe478635925f28d1"
+      ],
+      "id": "fe478635925f28d1",
+      "date": 1423109312908
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef6703ca8ee7904a",
+        "text": ""
+      },
+      "id": "ef6703ca8ee7904a",
+      "type": "add",
+      "after": "6f546fee042cfd38",
+      "date": 1423109315926
+    },
+    {
+      "type": "edit",
+      "id": "ef6703ca8ee7904a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef6703ca8ee7904a",
+        "text": "Click the \"+\" button at the bottom right to start a new paragraph. Double click the gray box to add text."
+      },
+      "date": 1423109350717
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dc6dcf196165190b",
+        "text": ""
+      },
+      "id": "dc6dcf196165190b",
+      "type": "add",
+      "after": "ef6703ca8ee7904a",
+      "date": 1423109350769
+    },
+    {
+      "type": "edit",
+      "id": "dc6dcf196165190b",
+      "item": {
+        "type": "paragraph",
+        "id": "dc6dcf196165190b",
+        "text": "Drag paragraphs to re-order them!"
+      },
+      "date": 1423109361219
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67d83eb692e74dd3",
+        "text": ""
+      },
+      "id": "67d83eb692e74dd3",
+      "type": "add",
+      "after": "fe478635925f28d1",
+      "date": 1423109378929
+    },
+    {
+      "type": "edit",
+      "id": "67d83eb692e74dd3",
+      "item": {
+        "type": "paragraph",
+        "id": "67d83eb692e74dd3",
+        "text": "If you're several pages deep into a FedWiki, use the left and right arrow keys and see what happens."
+      },
+      "date": 1423109398830
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": ""
+      },
+      "id": "e70c031abf77b07f",
+      "type": "add",
+      "after": "ef6703ca8ee7904a",
+      "date": 1423109414359
+    },
+    {
+      "type": "edit",
+      "id": "e70c031abf77b07f",
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": "To start a new \"page,\" put the name of it inside double square brackets."
+      },
+      "date": 1423109447117
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9b9f5508a68d904",
+        "text": ""
+      },
+      "id": "b9b9f5508a68d904",
+      "type": "add",
+      "after": "e70c031abf77b07f",
+      "date": 1423109447149
+    },
+    {
+      "type": "remove",
+      "id": "b9b9f5508a68d904",
+      "date": 1423109448376
+    }
+  ]
+}

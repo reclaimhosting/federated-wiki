@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "16ce06e3c1e4c345",
-      "text": "First off, I'm not sure if \"FedWiki\" is the proper nickname for this, but I think it should be because it makes it easier to talk about to others \"in real life.\" [[Why \"FedWiki\"]]E.g., \"Are you on Facebook?\" \"I set up a new Tumblr.\" \"I'm on this new thing called Smallest Federated Wiki.\" Err... I don't think \"I'm on this new thing called Federated Wiki\" is much better."
+      "text": "First off, I'm not sure if \"FedWiki\" is the proper nickname for this, but I think it should be because it makes it easier to talk about to others \"in real life.\" [[Why \"FedWiki\"]]"
     },
     {
       "type": "paragraph",
@@ -23,13 +23,13 @@
     },
     {
       "type": "paragraph",
-      "id": "30cecc26261803bf",
-      "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
+      "id": "fb1247badc14155c",
+      "text": "[[A Few Things To Know To Get Started]]"
     },
     {
-      "type": "markdown",
-      "id": "c37f2578043f9a13",
-      "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
+      "type": "paragraph",
+      "id": "30cecc26261803bf",
+      "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
     }
   ],
   "journal": [
@@ -298,6 +298,121 @@
         "text": "Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
       },
       "date": 1423108904201
+    },
+    {
+      "type": "edit",
+      "id": "c37f2578043f9a13",
+      "item": {
+        "type": "markdown",
+        "id": "c37f2578043f9a13",
+        "text": "[[A Few Things To Get Started]]Here are the few things I think you need to know to get started:\n*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
+      },
+      "date": 1423108932495
+    },
+    {
+      "type": "edit",
+      "id": "c37f2578043f9a13",
+      "item": {
+        "type": "markdown",
+        "id": "c37f2578043f9a13",
+        "text": "*Double-Clicking a paragraph lets you edit it.\n*\"Alt-S\" saves your edits. Or you can click on a place outside the paragraph you're editing, but that doesn't always do what you want.\n*The \"+\" button at the bottom of each page lets you start a new paragraph. Double-click in the gray thing (called a \"factory\" because you can \"make\" several things including basic paragraphs from it) to start a new paragraph. The gray thing is called a \"Factory\""
+      },
+      "date": 1423108963050
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fb1247badc14155c",
+        "text": ""
+      },
+      "id": "fb1247badc14155c",
+      "type": "add",
+      "after": "30cecc26261803bf",
+      "date": 1423108965701
+    },
+    {
+      "type": "edit",
+      "id": "fb1247badc14155c",
+      "item": {
+        "type": "paragraph",
+        "id": "fb1247badc14155c",
+        "text": "[[A Few Things To Know To Get Started]]"
+      },
+      "date": 1423108980295
+    },
+    {
+      "type": "remove",
+      "id": "c37f2578043f9a13",
+      "date": 1423108990284
+    },
+    {
+      "type": "edit",
+      "id": "16ce06e3c1e4c345",
+      "item": {
+        "type": "paragraph",
+        "id": "16ce06e3c1e4c345",
+        "text": "First off, I'm not sure if \"FedWiki\" is the proper nickname for this, but I think it should be because it makes it easier to talk about to others \"in real life.\" [[Why \"FedWiki\"]]"
+      },
+      "date": 1423109102697
+    },
+    {
+      "type": "edit",
+      "id": "16ce06e3c1e4c345",
+      "item": {
+        "type": "paragraph",
+        "id": "16ce06e3c1e4c345",
+        "text": "I'm not sure if \"FedWiki\" is the proper nickname for this, but I think it should be because it makes it easier to talk about to others \"in real life.\" [[Why \"FedWiki\"]]"
+      },
+      "date": 1423109114330
+    },
+    {
+      "type": "move",
+      "order": [
+        "c47f709afa09ebf1",
+        "0bb9816465578af9",
+        "ec1f0c0d1de44f5c",
+        "30cecc26261803bf",
+        "fb1247badc14155c",
+        "16ce06e3c1e4c345"
+      ],
+      "id": "16ce06e3c1e4c345",
+      "date": 1423109121767
+    },
+    {
+      "type": "move",
+      "order": [
+        "16ce06e3c1e4c345",
+        "c47f709afa09ebf1",
+        "0bb9816465578af9",
+        "ec1f0c0d1de44f5c",
+        "30cecc26261803bf",
+        "fb1247badc14155c"
+      ],
+      "id": "16ce06e3c1e4c345",
+      "date": 1423109141717
+    },
+    {
+      "type": "edit",
+      "id": "16ce06e3c1e4c345",
+      "item": {
+        "type": "paragraph",
+        "id": "16ce06e3c1e4c345",
+        "text": "First off, I'm not sure if \"FedWiki\" is the proper nickname for this, but I think it should be because it makes it easier to talk about to others \"in real life.\" [[Why \"FedWiki\"]]"
+      },
+      "date": 1423109150755
+    },
+    {
+      "type": "move",
+      "order": [
+        "16ce06e3c1e4c345",
+        "c47f709afa09ebf1",
+        "0bb9816465578af9",
+        "ec1f0c0d1de44f5c",
+        "fb1247badc14155c",
+        "30cecc26261803bf"
+      ],
+      "id": "fb1247badc14155c",
+      "date": 1423109186041
     }
   ]
 }

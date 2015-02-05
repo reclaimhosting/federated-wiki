@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "6f546fee042cfd38",
-      "text": "\"Alt-S\" (\"Option-S\" on some Mac keyboards) to save your edits. Or you can click outside of the edit box, but that doesn't always do what you want."
+      "text": "\"Alt-S\" (\"Option-S\" on some Mac keyboards) saves your edits (or to just get out of editing mode even if you haven't changed anything). Or you can click outside of the edit box, but that doesn't always do what you want."
     },
     {
       "type": "paragraph",
@@ -500,6 +500,132 @@
       "type": "remove",
       "id": "34f80e7c8b9a2397",
       "date": 1423116102087
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "caeba4e33c968b43"
+      },
+      "id": "caeba4e33c968b43",
+      "type": "add",
+      "after": "67d83eb692e74dd3",
+      "date": 1423116118691
+    },
+    {
+      "type": "edit",
+      "id": "caeba4e33c968b43",
+      "item": {
+        "type": "markdown",
+        "id": "caeba4e33c968b43",
+        "text": "1. Numbered\n2. List"
+      },
+      "date": 1423116129037
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e11cd7c18bd15449"
+      },
+      "id": "e11cd7c18bd15449",
+      "type": "add",
+      "after": "67d83eb692e74dd3",
+      "date": 1423116217342
+    },
+    {
+      "type": "edit",
+      "id": "e11cd7c18bd15449",
+      "item": {
+        "type": "markdown",
+        "id": "e11cd7c18bd15449",
+        "text": "1. joe\n1. bill\n3. list"
+      },
+      "date": 1423116232419
+    },
+    {
+      "type": "edit",
+      "id": "e11cd7c18bd15449",
+      "item": {
+        "type": "markdown",
+        "id": "e11cd7c18bd15449",
+        "text": "*joe * bill"
+      },
+      "date": 1423116241572
+    },
+    {
+      "type": "edit",
+      "id": "e11cd7c18bd15449",
+      "item": {
+        "type": "markdown",
+        "id": "e11cd7c18bd15449",
+        "text": "*joe\n* bill"
+      },
+      "date": 1423116245858
+    },
+    {
+      "type": "remove",
+      "id": "e11cd7c18bd15449",
+      "date": 1423116250676
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" (\"Option-S\" on some Mac keyboards) to save your edits or just get out of editing mode even if you haven't changed anything. Or you can click outside of the edit box, but that doesn't always do what you want."
+      },
+      "date": 1423116331967
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" (\"Option-S\" on some Mac keyboards) to save your edits (or to just get out of editing mode even if you haven't changed anything). Or you can click outside of the edit box, but that doesn't always do what you want."
+      },
+      "date": 1423116345973
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bbe00a1fb4032401",
+        "text": ""
+      },
+      "id": "bbe00a1fb4032401",
+      "type": "add",
+      "after": "e70c031abf77b07f",
+      "date": 1423116368069
+    },
+    {
+      "type": "edit",
+      "id": "bbe00a1fb4032401",
+      "item": {
+        "type": "paragraph",
+        "id": "bbe00a1fb4032401",
+        "text": "When you click on the new link you created,"
+      },
+      "date": 1423116423948
+    },
+    {
+      "type": "remove",
+      "id": "bbe00a1fb4032401",
+      "date": 1423116448854
+    },
+    {
+      "type": "edit",
+      "id": "6f546fee042cfd38",
+      "item": {
+        "type": "paragraph",
+        "id": "6f546fee042cfd38",
+        "text": "\"Alt-S\" (\"Option-S\" on some Mac keyboards) saves your edits (or to just get out of editing mode even if you haven't changed anything). Or you can click outside of the edit box, but that doesn't always do what you want."
+      },
+      "date": 1423116518830
+    },
+    {
+      "type": "remove",
+      "id": "caeba4e33c968b43",
+      "date": 1423116577130
     }
   ]
 }

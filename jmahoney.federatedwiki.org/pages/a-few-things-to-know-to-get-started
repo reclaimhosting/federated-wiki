@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "e70c031abf77b07f",
-      "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\")."
+      "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\"). If you double-click this paragraph, you'll see what I mean. [[Just Like This]]"
     },
     {
       "type": "paragraph",
@@ -353,6 +353,26 @@
       "type": "remove",
       "id": "144c64225285250d",
       "date": 1423111239552
+    },
+    {
+      "type": "edit",
+      "id": "e70c031abf77b07f",
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\"). If you double-click this paragraph, you'll see what I mean. [[Like This]]"
+      },
+      "date": 1423111694636
+    },
+    {
+      "type": "edit",
+      "id": "e70c031abf77b07f",
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\"). If you double-click this paragraph, you'll see what I mean. [[Just Like This]]"
+      },
+      "date": 1423111711056
     }
   ]
 }

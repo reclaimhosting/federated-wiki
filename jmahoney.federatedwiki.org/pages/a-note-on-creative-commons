@@ -1,0 +1,92 @@
+{
+  "title": "A Note On \"Creative Commons\"",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d483c0a71b8e9109",
+      "text": "At the bottom left of every column in FedWiki, you'll see a link: \"CC BY-SA 3.0\". There are a lot of implications, but basically it means you are giving others the right to copy and share what you write on your FedWiki as long as they give credit to you (\"BY\") and their copy and/or edits of your work are shared under the same terms (\"SA\", i.e., \"Share-Alike\")."
+    },
+    {
+      "type": "paragraph",
+      "id": "cc1008d5e0cabfec",
+      "text": "This is as opposed to reserving all your rights under copyright law (\"All Rights Reserved\"), which is the default state of any work you create unless you state otherwise. \"CC BY-SA 3.0\" is one way of stating otherwise."
+    },
+    {
+      "type": "paragraph",
+      "id": "88b5f0c6c6c58b81",
+      "text": "\"CC\" is short for \"Creative Commons.\" \"BY\" and \"SA\" are explained above."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A Note On \"Creative Commons\"",
+        "story": []
+      },
+      "date": 1423113787738
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d483c0a71b8e9109",
+        "text": "There are a lot of implications, but basically it means you are giving others the right to share what you write on your FedWiki as long as they give credit ti you and their copy and/or edits of your work are shared under the same terms. This is as opposed to reserving all your rights under copyright law (\"All Rights Reserved\"), which is the default state of any work you create unless you state otherwise. \"CC BY-SA 3.0\" is one way of stating otherwise."
+      },
+      "id": "d483c0a71b8e9109",
+      "date": 1423113797141
+    },
+    {
+      "type": "edit",
+      "id": "d483c0a71b8e9109",
+      "item": {
+        "type": "paragraph",
+        "id": "d483c0a71b8e9109",
+        "text": "At the bottom left of every column in FedWiki, you'll see a link: \"CC BY-SA 3.0\". There are a lot of implications, but basically it means you are giving others the right to share what you write on your FedWiki as long as they give credit ti you and their copy and/or edits of your work are shared under the same terms. This is as opposed to reserving all your rights under copyright law (\"All Rights Reserved\"), which is the default state of any work you create unless you state otherwise. \"CC BY-SA 3.0\" is one way of stating otherwise."
+      },
+      "date": 1423113839049
+    },
+    {
+      "type": "edit",
+      "id": "d483c0a71b8e9109",
+      "item": {
+        "type": "paragraph",
+        "id": "d483c0a71b8e9109",
+        "text": "At the bottom left of every column in FedWiki, you'll see a link: \"CC BY-SA 3.0\". There are a lot of implications, but basically it means you are giving others the right to copy and share what you write on your FedWiki as long as they give credit to you (\"BY\") and their copy and/or edits of your work are shared under the same terms (\"SA\", i.e., \"Share-Alike\")."
+      },
+      "date": 1423113915711
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc1008d5e0cabfec",
+        "text": "This is as opposed to reserving all your rights under copyright law (\"All Rights Reserved\"), which is the default state of any work you create unless you state otherwise. \"CC BY-SA 3.0\" is one way of stating otherwise."
+      },
+      "id": "cc1008d5e0cabfec",
+      "type": "add",
+      "after": "d483c0a71b8e9109",
+      "date": 1423113915761
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "88b5f0c6c6c58b81",
+        "text": ""
+      },
+      "id": "88b5f0c6c6c58b81",
+      "type": "add",
+      "after": "cc1008d5e0cabfec",
+      "date": 1423114071572
+    },
+    {
+      "type": "edit",
+      "id": "88b5f0c6c6c58b81",
+      "item": {
+        "type": "paragraph",
+        "id": "88b5f0c6c6c58b81",
+        "text": "\"CC\" is short for \"Creative Commons.\" \"BY\" and \"SA\" are explained above."
+      },
+      "date": 1423114120163
+    }
+  ]
+}

@@ -43,6 +43,11 @@
     },
     {
       "type": "paragraph",
+      "id": "56854a3826c9b76d",
+      "text": "[[Instructions For \"Get A Wiki\"]] (if you need more than that link above tells you)"
+    },
+    {
+      "type": "paragraph",
       "id": "c29139235d344370",
       "text": "[http://hapgood.us/2014/06/04/smallest-federated-wiki-as-an-alternate-vision-of-the-web/ This Post] by Mike Caulfield helped me maybe the most of all the introductions I've read."
     },
@@ -53,13 +58,8 @@
     },
     {
       "type": "paragraph",
-      "id": "56854a3826c9b76d",
-      "text": "[[Instructions For \"Get A Wiki\"]] (if you need more than that link above tells you)"
-    },
-    {
-      "type": "paragraph",
-      "id": "60dfcac20827458c",
-      "text": "[[Other Options For Using FedWiki]]"
+      "id": "6f408c6676b46018",
+      "text": "[[Other Options For Getting A FedWiki]]"
     },
     {
       "type": "paragraph",
@@ -69,7 +69,7 @@
     {
       "type": "paragraph",
       "id": "5e8dfa24152bb4c9",
-      "text": "I also feel obligated to point out that you should click on the \"CC BY-SA 3.0\" link at the bottom of any column to read about what that is. It's a pretty important thing involving copyright and giving more rights to others than is \"normal.\" [[A Note On \"Creative Commons\"]] (the CC BY-SA 3.0 thing)"
+      "text": "I also feel obligated to point out that you should click on the \"CC BY-SA 3.0\" link at the bottom of any column to read about what that is. It's a pretty important thing involving copyright and giving more rights to others than is \"normal.\" [[A Note On \"Creative Commons\"]]"
     }
   ],
   "journal": [
@@ -931,6 +931,63 @@
       "type": "remove",
       "id": "477f86ebeadf345a",
       "date": 1423114289175
+    },
+    {
+      "type": "edit",
+      "id": "5e8dfa24152bb4c9",
+      "item": {
+        "type": "paragraph",
+        "id": "5e8dfa24152bb4c9",
+        "text": "I also feel obligated to point out that you should click on the \"CC BY-SA 3.0\" link at the bottom of any column to read about what that is. It's a pretty important thing involving copyright and giving more rights to others than is \"normal.\" [[A Note On \"Creative Commons\"]]"
+      },
+      "date": 1423114308769
+    },
+    {
+      "type": "move",
+      "order": [
+        "16ce06e3c1e4c345",
+        "c47f709afa09ebf1",
+        "ade2127e426dfaea",
+        "91bdd47aaf1ee87b",
+        "ec1f0c0d1de44f5c",
+        "fb1247badc14155c",
+        "30cecc26261803bf",
+        "6d3f76d9516c4d13",
+        "56854a3826c9b76d",
+        "c29139235d344370",
+        "1d2b68250a2f57dd",
+        "60dfcac20827458c",
+        "266495b527cff87f",
+        "5e8dfa24152bb4c9"
+      ],
+      "id": "56854a3826c9b76d",
+      "date": 1423114742910
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f408c6676b46018",
+        "text": ""
+      },
+      "id": "6f408c6676b46018",
+      "type": "add",
+      "after": "60dfcac20827458c",
+      "date": 1423114777274
+    },
+    {
+      "type": "edit",
+      "id": "6f408c6676b46018",
+      "item": {
+        "type": "paragraph",
+        "id": "6f408c6676b46018",
+        "text": "[[Other Options For Getting A FedWiki]]"
+      },
+      "date": 1423114791531
+    },
+    {
+      "type": "remove",
+      "id": "60dfcac20827458c",
+      "date": 1423114843287
     }
   ]
 }

@@ -1,22 +1,6 @@
 {
   "title": "Other Options For Using FedWiki",
-  "story": [
-    {
-      "type": "paragraph",
-      "id": "f6b67ac66caab675",
-      "text": "There is at least one other option to get your own FedWiki on the Internet."
-    },
-    {
-      "type": "paragraph",
-      "id": "6164c45a15c98f76",
-      "text": "There are also ways to run it on your own computer."
-    },
-    {
-      "type": "paragraph",
-      "id": "e055b0bfaaa5c7ee",
-      "text": "We can talk about these options more if you're interested."
-    }
-  ],
+  "story": [],
   "journal": [
     {
       "type": "create",
@@ -87,6 +71,21 @@
         "text": "We can talk about these options more if you're interested."
       },
       "date": 1423110596860
+    },
+    {
+      "type": "remove",
+      "id": "f6b67ac66caab675",
+      "date": 1423114813770
+    },
+    {
+      "type": "remove",
+      "id": "6164c45a15c98f76",
+      "date": 1423114823144
+    },
+    {
+      "type": "remove",
+      "id": "e055b0bfaaa5c7ee",
+      "date": 1423114827858
     }
   ]
 }

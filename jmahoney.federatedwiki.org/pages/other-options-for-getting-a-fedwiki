@@ -1,0 +1,76 @@
+{
+  "title": "Other Options For Getting A FedWiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f6b67ac66caab675",
+      "text": "There is at least one other option to get your own FedWiki on the Internet."
+    },
+    {
+      "type": "paragraph",
+      "id": "6164c45a15c98f76",
+      "text": "There are also ways to run it on your own computer."
+    },
+    {
+      "type": "paragraph",
+      "id": "e055b0bfaaa5c7ee",
+      "text": "We can talk about these options more if you're interested."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Other Options For Getting A FedWiki",
+        "story": []
+      },
+      "date": 1423114795850
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb19d359db3bf9bd"
+      },
+      "id": "cb19d359db3bf9bd",
+      "type": "add",
+      "date": 1423114808329
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f6b67ac66caab675",
+        "text": "There is at least one other option to get your own FedWiki on the Internet."
+      },
+      "id": "f6b67ac66caab675",
+      "date": 1423114813778
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6164c45a15c98f76",
+        "text": "There are also ways to run it on your own computer."
+      },
+      "after": "f6b67ac66caab675",
+      "id": "6164c45a15c98f76",
+      "date": 1423114823149
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e055b0bfaaa5c7ee",
+        "text": "We can talk about these options more if you're interested."
+      },
+      "after": "6164c45a15c98f76",
+      "id": "e055b0bfaaa5c7ee",
+      "date": 1423114827862
+    },
+    {
+      "type": "remove",
+      "id": "cb19d359db3bf9bd",
+      "date": 1423114830670
+    }
+  ]
+}

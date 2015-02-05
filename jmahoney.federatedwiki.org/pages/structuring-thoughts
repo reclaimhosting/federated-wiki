@@ -1,0 +1,56 @@
+{
+  "title": "Structuring Thoughts",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "edd812cba9ce6a1a",
+      "text": "I'm as yet undecided if the \"new page on the right\" feature forces one to structure thoughts in a new way, but it seems that it might."
+    },
+    {
+      "type": "paragraph",
+      "id": "0bb9816465578af9",
+      "text": "At the very least, I feel it brings us a little close to Ted Nelson's vision for hypertext which is light years beyond what we know of hypertext from the World Wide Web."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Structuring Thoughts",
+        "story": []
+      },
+      "date": 1423109608510
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "edd812cba9ce6a1a",
+        "text": "I'm as yet undecided if it forces one to structure thoughts in a new way, but it seems that it might."
+      },
+      "id": "edd812cba9ce6a1a",
+      "date": 1423109615036
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0bb9816465578af9",
+        "text": "At the very least, I feel it brings us a little close to Ted Nelson's vision for hypertext which is light years beyond what we know of hypertext from the World Wide Web."
+      },
+      "after": "edd812cba9ce6a1a",
+      "id": "0bb9816465578af9",
+      "date": 1423109619955
+    },
+    {
+      "type": "edit",
+      "id": "edd812cba9ce6a1a",
+      "item": {
+        "type": "paragraph",
+        "id": "edd812cba9ce6a1a",
+        "text": "I'm as yet undecided if the \"new page on the right\" feature forces one to structure thoughts in a new way, but it seems that it might."
+      },
+      "date": 1423109642996
+    }
+  ]
+}

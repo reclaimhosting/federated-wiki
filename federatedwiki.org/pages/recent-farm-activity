@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "b22c516383057dbc"
+      "id": "081d126060b6f444"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "1d4d75ccdbc430cf"
+      "id": "b3cc48b1cfda02a3"
+    },
+    {
+      "date": 1423116601000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "b969395d5a19b261"
     },
     {
       "date": 1423116470000,
@@ -18,16 +27,7 @@
       "title": "A Few Things To Know To Get Started",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 40 pages.",
       "type": "reference",
-      "id": "51a429639a8ac6db"
-    },
-    {
-      "date": 1423116001000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "683616be536f75a4"
+      "id": "3a27166a6c722423"
     },
     {
       "date": 1422944934000,
@@ -36,41 +36,55 @@
       "title": "3 Feb Moodle Install",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "20cc3d062e5515b9"
+      "id": "1306b716642e7a79"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "f3ba4980c58839de",
+      "id": "328b698afcea28f7",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423116601000
+      "date": 1423117201000
     },
     {
       "type": "add",
-      "id": "b22c516383057dbc",
+      "id": "081d126060b6f444",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "b22c516383057dbc"
+        "id": "081d126060b6f444"
       },
-      "date": 1423116601000
+      "date": 1423117201000
     },
     {
       "type": "add",
-      "id": "1d4d75ccdbc430cf",
+      "id": "b3cc48b1cfda02a3",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "1d4d75ccdbc430cf"
+        "id": "b3cc48b1cfda02a3"
       },
-      "date": 1423116601000
+      "date": 1423117201000
     },
     {
       "type": "add",
-      "id": "51a429639a8ac6db",
+      "id": "b969395d5a19b261",
+      "item": {
+        "date": 1423116601000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "b969395d5a19b261"
+      },
+      "date": 1423117201000
+    },
+    {
+      "type": "add",
+      "id": "3a27166a6c722423",
       "item": {
         "date": 1423116470000,
         "site": "jmahoney.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "A Few Things To Know To Get Started",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 40 pages.",
         "type": "reference",
-        "id": "51a429639a8ac6db"
+        "id": "3a27166a6c722423"
       },
-      "date": 1423116601000
+      "date": 1423117201000
     },
     {
       "type": "add",
-      "id": "683616be536f75a4",
-      "item": {
-        "date": 1423116001000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "683616be536f75a4"
-      },
-      "date": 1423116601000
-    },
-    {
-      "type": "add",
-      "id": "20cc3d062e5515b9",
+      "id": "1306b716642e7a79",
       "item": {
         "date": 1422944934000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "3 Feb Moodle Install",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "20cc3d062e5515b9"
+        "id": "1306b716642e7a79"
       },
-      "date": 1423116601000
+      "date": 1423117201000
     }
   ]
 }

@@ -14,17 +14,17 @@
     {
       "type": "paragraph",
       "id": "ef6703ca8ee7904a",
-      "text": "Click the \"+\" button at the bottom right to start a new paragraph. Double click the gray box to add text."
+      "text": "Click the \"+\" button at the bottom right (next to the \"flag\") to start a new paragraph. Double click the gray box to add text."
     },
     {
       "type": "paragraph",
       "id": "e70c031abf77b07f",
-      "text": "To start a new \"page,\" put the name of it inside double square brackets."
+      "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\")."
     },
     {
       "type": "paragraph",
       "id": "dc6dcf196165190b",
-      "text": "Drag paragraphs to re-order them!"
+      "text": "Drag paragraphs to re-order them! You can drag paragraphs between \"pages\" too."
     },
     {
       "type": "paragraph",
@@ -252,6 +252,91 @@
       "type": "remove",
       "id": "2e61559ede16d36e",
       "date": 1423110107171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22772d7e4e37561d"
+      },
+      "id": "22772d7e4e37561d",
+      "type": "add",
+      "after": "67d83eb692e74dd3",
+      "date": 1423110155285
+    },
+    {
+      "type": "edit",
+      "id": "ef6703ca8ee7904a",
+      "item": {
+        "type": "paragraph",
+        "id": "ef6703ca8ee7904a",
+        "text": "Click the \"+\" button at the bottom right (next to the \"flag\") to start a new paragraph. Double click the gray box to add text."
+      },
+      "date": 1423110174787
+    },
+    {
+      "type": "edit",
+      "id": "22772d7e4e37561d",
+      "item": {
+        "type": "html",
+        "id": "22772d7e4e37561d",
+        "text": "http://sandbox.fed.wiki.org/view/welcome-visitors"
+      },
+      "date": 1423110190526
+    },
+    {
+      "type": "edit",
+      "id": "22772d7e4e37561d",
+      "item": {
+        "type": "html",
+        "id": "22772d7e4e37561d",
+        "text": "<blockquote>\n[ [ Page Title ] ]\n</blockquote>"
+      },
+      "date": 1423110205218
+    },
+    {
+      "type": "edit",
+      "id": "22772d7e4e37561d",
+      "item": {
+        "type": "html",
+        "id": "22772d7e4e37561d",
+        "text": "<blockquote>\n[[Page Title]]\n</blockquote>"
+      },
+      "date": 1423110216396
+    },
+    {
+      "type": "remove",
+      "id": "22772d7e4e37561d",
+      "date": 1423110245580
+    },
+    {
+      "type": "edit",
+      "id": "e70c031abf77b07f",
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ]"
+      },
+      "date": 1423110265643
+    },
+    {
+      "type": "edit",
+      "id": "e70c031abf77b07f",
+      "item": {
+        "type": "paragraph",
+        "id": "e70c031abf77b07f",
+        "text": "To start a new \"page,\" put the name of it inside double square brackets. [ [ Like This ] ] But, don't use spaces (except between \"Like\" and \"This\")."
+      },
+      "date": 1423110312004
+    },
+    {
+      "type": "edit",
+      "id": "dc6dcf196165190b",
+      "item": {
+        "type": "paragraph",
+        "id": "dc6dcf196165190b",
+        "text": "Drag paragraphs to re-order them! You can drag paragraphs between \"pages\" too."
+      },
+      "date": 1423110343760
     }
   ]
 }

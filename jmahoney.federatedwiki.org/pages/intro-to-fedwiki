@@ -35,6 +35,11 @@
       "type": "paragraph",
       "id": "30cecc26261803bf",
       "text": "[http://sandbox.fed.wiki.org/view/welcome-visitors A Sandbox To Play In] on Ward Cunningham's site"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d3f76d9516c4d13",
+      "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. [[Instructions For \"Get A Wiki\"]] This is the host I'm using right now. [[Other Options For Using FedWiki]]"
     }
   ],
   "journal": [
@@ -541,6 +546,73 @@
         "text": "Here are some links to get you started in FedWiki-land:"
       },
       "date": 1423110008241
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": ""
+      },
+      "id": "6d3f76d9516c4d13",
+      "type": "add",
+      "after": "30cecc26261803bf",
+      "date": 1423110415804
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. This is the host I'm using right now. There is at least one other option on the Internet. There are also ways to run it on your own computer. We can talk about those options more if you're interested."
+      },
+      "date": 1423110483855
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. This is the host I'm using right now. There is at least one other option to get your own FedWiki on the Internet. There are also ways to run it on your own computer. We can talk about those options more if you're interested."
+      },
+      "date": 1423110524247
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. This is the host I'm using right now. [[Other Options For Using FedWiki]]"
+      },
+      "date": 1423110559992
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f6b67ac66caab675",
+        "text": "(There is at least one other option to get your own FedWiki on the Internet. There are also ways to run it on your own computer. We can talk about those options more if you're interested.)"
+      },
+      "id": "f6b67ac66caab675",
+      "type": "add",
+      "after": "6d3f76d9516c4d13",
+      "date": 1423110560025
+    },
+    {
+      "type": "remove",
+      "id": "f6b67ac66caab675",
+      "date": 1423110572085
+    },
+    {
+      "type": "edit",
+      "id": "6d3f76d9516c4d13",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3f76d9516c4d13",
+        "text": "[http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] on federatedwiki.org. [[Instructions For \"Get A Wiki\"]] This is the host I'm using right now. [[Other Options For Using FedWiki]]"
+      },
+      "date": 1423110670692
     }
   ]
 }

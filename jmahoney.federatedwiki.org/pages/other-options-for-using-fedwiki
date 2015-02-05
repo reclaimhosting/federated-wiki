@@ -1,0 +1,92 @@
+{
+  "title": "Other Options For Using FedWiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f6b67ac66caab675",
+      "text": "There is at least one other option to get your own FedWiki on the Internet."
+    },
+    {
+      "type": "paragraph",
+      "id": "6164c45a15c98f76",
+      "text": "There are also ways to run it on your own computer."
+    },
+    {
+      "type": "paragraph",
+      "id": "e055b0bfaaa5c7ee",
+      "text": "We can talk about these options more if you're interested."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Other Options For Using FedWiki",
+        "story": []
+      },
+      "date": 1423110565788
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f6b67ac66caab675",
+        "text": "(There is at least one other option to get your own FedWiki on the Internet. There are also ways to run it on your own computer. We can talk about those options more if you're interested.)"
+      },
+      "id": "f6b67ac66caab675",
+      "date": 1423110572089
+    },
+    {
+      "type": "edit",
+      "id": "f6b67ac66caab675",
+      "item": {
+        "type": "paragraph",
+        "id": "f6b67ac66caab675",
+        "text": "There is at least one other option to get your own FedWiki on the Internet."
+      },
+      "date": 1423110584670
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6164c45a15c98f76",
+        "text": "There are also ways to run it on your own computer. We can talk about those options more if you're interested.)"
+      },
+      "id": "6164c45a15c98f76",
+      "type": "add",
+      "after": "f6b67ac66caab675",
+      "date": 1423110584727
+    },
+    {
+      "type": "edit",
+      "id": "6164c45a15c98f76",
+      "item": {
+        "type": "paragraph",
+        "id": "6164c45a15c98f76",
+        "text": "There are also ways to run it on your own computer."
+      },
+      "date": 1423110588806
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e055b0bfaaa5c7ee",
+        "text": "We can talk about those options more if you're interested.)"
+      },
+      "id": "e055b0bfaaa5c7ee",
+      "type": "add",
+      "after": "6164c45a15c98f76",
+      "date": 1423110588865
+    },
+    {
+      "type": "edit",
+      "id": "e055b0bfaaa5c7ee",
+      "item": {
+        "type": "paragraph",
+        "id": "e055b0bfaaa5c7ee",
+        "text": "We can talk about these options more if you're interested."
+      },
+      "date": 1423110596860
+    }
+  ]
+}

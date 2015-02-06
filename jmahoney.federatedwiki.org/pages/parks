@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "c76f048000644cd3",
       "text": "[[Merwin Nature Preserve]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "daa0ab9fc72a1a99",
+      "text": "[[Robinson Park]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4e2e628d5074890b",
+      "text": "[[Forest Park Nature Center]]"
     }
   ],
   "journal": [
@@ -34,6 +44,47 @@
         "text": "[[Merwin Nature Preserve]]"
       },
       "date": 1422167523471
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "daa0ab9fc72a1a99"
+      },
+      "id": "daa0ab9fc72a1a99",
+      "type": "add",
+      "after": "c76f048000644cd3",
+      "date": 1423191529441
+    },
+    {
+      "type": "edit",
+      "id": "daa0ab9fc72a1a99",
+      "item": {
+        "type": "paragraph",
+        "id": "daa0ab9fc72a1a99",
+        "text": "[[Robinson Park]]"
+      },
+      "date": 1423191544314
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e2e628d5074890b",
+        "text": ""
+      },
+      "id": "4e2e628d5074890b",
+      "type": "add",
+      "after": "daa0ab9fc72a1a99",
+      "date": 1423191548736
+    },
+    {
+      "type": "edit",
+      "id": "4e2e628d5074890b",
+      "item": {
+        "type": "paragraph",
+        "id": "4e2e628d5074890b",
+        "text": "[[Forest Park Nature Center]]"
+      },
+      "date": 1423191557194
     }
   ]
 }

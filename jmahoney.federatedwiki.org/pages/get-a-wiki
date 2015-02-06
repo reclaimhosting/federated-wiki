@@ -257,6 +257,33 @@
       "type": "remove",
       "id": "9f7db077a067d337",
       "date": 1423194073893
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14af2278fd59a9a8"
+      },
+      "id": "14af2278fd59a9a8",
+      "type": "add",
+      "after": "e4bb3501001a7fde",
+      "date": 1423194166967
+    },
+    {
+      "type": "edit",
+      "id": "14af2278fd59a9a8",
+      "item": {
+        "type": "reference",
+        "id": "14af2278fd59a9a8",
+        "site": "ward.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1423194176792
+    },
+    {
+      "type": "remove",
+      "id": "14af2278fd59a9a8",
+      "date": 1423194211449
     }
   ]
 }

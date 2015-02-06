@@ -27,6 +27,13 @@
       "text": "I predicts the day when one will make federated wiki sites with the same frequency we now make documents. Its just too easy."
     },
     {
+      "type": "reference",
+      "id": "3ae977def0df7837",
+      "site": "ward.fed.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    },
+    {
       "type": "paragraph",
       "id": "9338dbfb5598f0ef",
       "text": ""
@@ -1073,6 +1080,42 @@
         "text": "Preferred link: [http://ward.fed.wiki.org/view/welcome-visitors/view/ward-cunningham Ward Cunningham]"
       },
       "date": 1423193945507
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ae977def0df7837"
+      },
+      "id": "3ae977def0df7837",
+      "type": "add",
+      "after": "9338dbfb5598f0ef",
+      "date": 1423194224911
+    },
+    {
+      "type": "edit",
+      "id": "3ae977def0df7837",
+      "item": {
+        "type": "reference",
+        "id": "3ae977def0df7837",
+        "site": "ward.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1423194234313
+    },
+    {
+      "type": "move",
+      "order": [
+        "a3ca0ce4243de26c",
+        "b5f2cceb7fab4138",
+        "93d828d1650dc10e",
+        "563cbabbdbb08867",
+        "a8f09cf6aa8c9ced",
+        "3ae977def0df7837",
+        "9338dbfb5598f0ef"
+      ],
+      "id": "3ae977def0df7837",
+      "date": 1423194276847
     }
   ]
 }

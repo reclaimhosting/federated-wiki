@@ -18,7 +18,11 @@
     },
     {
       "type": "factory",
-      "id": "08b50ec2e6ff2a25"
+      "id": "08b50ec2e6ff2a25",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36"
+      }
     }
   ],
   "journal": [
@@ -481,6 +485,19 @@
       "type": "add",
       "after": "ee416d431ebf4fb4",
       "date": 1423192304554
+    },
+    {
+      "type": "edit",
+      "id": "08b50ec2e6ff2a25",
+      "item": {
+        "type": "factory",
+        "id": "08b50ec2e6ff2a25",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36"
+        }
+      },
+      "date": 1423192319846
     }
   ]
 }

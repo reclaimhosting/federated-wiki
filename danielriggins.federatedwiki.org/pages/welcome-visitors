@@ -7,24 +7,18 @@
       "type": "paragraph"
     },
     {
-      "type": "factory",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below."
-    },
-    {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "id": "b53dfe5c784bad6a",
+      "text": " "
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    },
+    {
+      "type": "factory",
+      "id": "08b50ec2e6ff2a25"
     }
   ],
   "journal": [
@@ -353,6 +347,140 @@
       ],
       "id": "63ad2e58eecdd9e5",
       "date": 1423191679863
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1423192174049
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1423192193411
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1423192195603
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b53dfe5c784bad6a",
+        "text": ""
+      },
+      "id": "b53dfe5c784bad6a",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1423192197432
+    },
+    {
+      "type": "edit",
+      "id": "b53dfe5c784bad6a",
+      "item": {
+        "type": "paragraph",
+        "id": "b53dfe5c784bad6a",
+        "text": " "
+      },
+      "date": 1423192198509
+    },
+    {
+      "type": "remove",
+      "id": "3b87339069087c26",
+      "date": 1423192198521
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b878c479b578d0f",
+        "text": ""
+      },
+      "id": "9b878c479b578d0f",
+      "type": "add",
+      "after": "b53dfe5c784bad6a",
+      "date": 1423192198541
+    },
+    {
+      "type": "remove",
+      "id": "9b878c479b578d0f",
+      "date": 1423192200678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e97950b183251077"
+      },
+      "id": "e97950b183251077",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1423192226660
+    },
+    {
+      "type": "edit",
+      "id": "e97950b183251077",
+      "item": {
+        "type": "factory",
+        "id": "e97950b183251077",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36"
+        }
+      },
+      "date": 1423192238106
+    },
+    {
+      "type": "edit",
+      "id": "e97950b183251077",
+      "item": {
+        "type": "factory",
+        "id": "e97950b183251077",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36"
+        }
+      },
+      "date": 1423192249459
+    },
+    {
+      "type": "remove",
+      "id": "e97950b183251077",
+      "date": 1423192255136
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a65d0a6a63d2949",
+        "text": ""
+      },
+      "id": "9a65d0a6a63d2949",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1423192275318
+    },
+    {
+      "type": "edit",
+      "id": "9a65d0a6a63d2949",
+      "item": {
+        "type": "paragraph",
+        "id": "9a65d0a6a63d2949",
+        "text": "Hellp "
+      },
+      "date": 1423192281640
+    },
+    {
+      "type": "remove",
+      "id": "9a65d0a6a63d2949",
+      "date": 1423192296446
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08b50ec2e6ff2a25"
+      },
+      "id": "08b50ec2e6ff2a25",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1423192304554
     }
   ]
 }

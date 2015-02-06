@@ -4,6 +4,16 @@
     {
       "type": "paragraph",
       "id": "a3ca0ce4243de26c",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "b5f2cceb7fab4138",
+      "text": "Preferred link: [http://ward.fed.wiki.org/view/welcome-visitors/view/ward-cunningham Ward Cunningham]"
+    },
+    {
+      "type": "paragraph",
+      "id": "93d828d1650dc10e",
       "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
     },
     {
@@ -13,13 +23,13 @@
     },
     {
       "type": "paragraph",
-      "id": "9338dbfb5598f0ef",
-      "text": ""
+      "id": "a8f09cf6aa8c9ced",
+      "text": "I predicts the day when one will make federated wiki sites with the same frequency we now make documents. Its just too easy."
     },
     {
       "type": "paragraph",
-      "id": "a8f09cf6aa8c9ced",
-      "text": "I predicts the day when one will make federated wiki sites with the same frequency we now make documents. Its just too easy."
+      "id": "9338dbfb5598f0ef",
+      "text": ""
     }
   ],
   "journal": [
@@ -1000,6 +1010,69 @@
       "type": "fork",
       "site": "ward.fed.wiki.org",
       "date": 1423193029419
+    },
+    {
+      "type": "move",
+      "order": [
+        "a3ca0ce4243de26c",
+        "563cbabbdbb08867",
+        "a8f09cf6aa8c9ced",
+        "9338dbfb5598f0ef"
+      ],
+      "id": "a8f09cf6aa8c9ced",
+      "date": 1423193781204
+    },
+    {
+      "type": "edit",
+      "id": "a3ca0ce4243de26c",
+      "item": {
+        "type": "paragraph",
+        "id": "a3ca0ce4243de26c",
+        "text": " "
+      },
+      "date": 1423193875362
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "93d828d1650dc10e",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "id": "93d828d1650dc10e",
+      "type": "add",
+      "after": "a3ca0ce4243de26c",
+      "date": 1423193875403
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5f2cceb7fab4138",
+        "text": ""
+      },
+      "id": "b5f2cceb7fab4138",
+      "type": "add",
+      "after": "a3ca0ce4243de26c",
+      "date": 1423193875408
+    },
+    {
+      "type": "edit",
+      "id": "b5f2cceb7fab4138",
+      "item": {
+        "type": "paragraph",
+        "id": "b5f2cceb7fab4138",
+        "text": "Preferred link: [ Ward Cunningham]"
+      },
+      "date": 1423193901078
+    },
+    {
+      "type": "edit",
+      "id": "b5f2cceb7fab4138",
+      "item": {
+        "type": "paragraph",
+        "id": "b5f2cceb7fab4138",
+        "text": "Preferred link: [http://ward.fed.wiki.org/view/welcome-visitors/view/ward-cunningham Ward Cunningham]"
+      },
+      "date": 1423193945507
     }
   ]
 }

@@ -34,7 +34,7 @@
     {
       "type": "paragraph",
       "id": "85a1ac823b0b2a63",
-      "text": "[[Music"
+      "text": "[[Music]]"
     },
     {
       "type": "paragraph",
@@ -60,6 +60,11 @@
       "type": "paragraph",
       "id": "2c78f818d8d3525d",
       "text": "[[Bookmarks]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "67a89e32413dcd4f",
+      "text": "[[Quotes]]"
     },
     {
       "type": "pagefold",
@@ -1086,6 +1091,37 @@
       "type": "remove",
       "id": "2d451142faca11a3",
       "date": 1423282139675
+    },
+    {
+      "type": "edit",
+      "id": "85a1ac823b0b2a63",
+      "item": {
+        "type": "paragraph",
+        "id": "85a1ac823b0b2a63",
+        "text": "[[Music]]"
+      },
+      "date": 1423288537759
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67a89e32413dcd4f",
+        "text": ""
+      },
+      "id": "67a89e32413dcd4f",
+      "type": "add",
+      "after": "2c78f818d8d3525d",
+      "date": 1423288545751
+    },
+    {
+      "type": "edit",
+      "id": "67a89e32413dcd4f",
+      "item": {
+        "type": "paragraph",
+        "id": "67a89e32413dcd4f",
+        "text": "[[Quotes]]"
+      },
+      "date": 1423288551577
     }
   ]
 }

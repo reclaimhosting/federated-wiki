@@ -2,18 +2,14 @@
   "title": "Quotes",
   "story": [
     {
-      "type": "paragraph",
-      "id": "6f6a55b9199804c5",
-      "text": "\"The future has a valley and a shortcut around\" - Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born (2004)"
+      "type": "html",
+      "id": "6fa4c7297c3327cf",
+      "text": "<pre>\nThe future has a valley and a shortcut around\n</pre>\n- Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born (2004)"
     },
     {
-      "type": "paragraph",
-      "id": "1acfd330d394ca65",
-      "text": "\"Has the light gone out for you?/ Because the light's gone out for me/ It is the 21st century/ It is the 21st century\" - Thom Yorke, Radiohead, [http://www.greenplastic.com/radiohead-lyrics/in-rainbows/bodysnatchers/ \"Bodysnatchers,\"] from the album In Rainbows (2007)"
-    },
-    {
-      "type": "factory",
-      "id": "8eaf188f95359a55"
+      "type": "html",
+      "id": "462cbd533a46281c",
+      "text": "<pre>\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century\n</pre>- Thom Yorke, Radiohead, [http://www.greenplastic.com/radiohead-lyrics/in-rainbows/bodysnatchers/ \"Bodysnatchers,\"] from the album In Rainbows (2007)"
     }
   ],
   "journal": [
@@ -140,6 +136,161 @@
       "type": "add",
       "after": "1acfd330d394ca65",
       "date": 1423290592969
+    },
+    {
+      "type": "edit",
+      "id": "8eaf188f95359a55",
+      "item": {
+        "type": "code",
+        "id": "8eaf188f95359a55",
+        "text": "Has the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century"
+      },
+      "date": 1423290904989
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "462cbd533a46281c"
+      },
+      "id": "462cbd533a46281c",
+      "type": "add",
+      "after": "8eaf188f95359a55",
+      "date": 1423290912069
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "<pre>Has the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century</pre>"
+      },
+      "date": 1423290964757
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "Has the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century"
+      },
+      "date": 1423290981281
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "<pre>\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century\n</pre>"
+      },
+      "date": 1423290997576
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "<pre>\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century\n</pre>- Thom Yorke, Radiohead, [http://www.greenplastic.com/radiohead-lyrics/in-rainbows/bodysnatchers/ \"Bodysnatchers,\"] from the album In Rainbows (2007)"
+      },
+      "date": 1423291024011
+    },
+    {
+      "type": "move",
+      "order": [
+        "6f6a55b9199804c5",
+        "1acfd330d394ca65",
+        "462cbd533a46281c",
+        "8eaf188f95359a55"
+      ],
+      "id": "462cbd533a46281c",
+      "date": 1423291043284
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "<pre>\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century</pre>- Thom Yorke, Radiohead, [http://www.greenplastic.com/radiohead-lyrics/in-rainbows/bodysnatchers/ \"Bodysnatchers,\"] from the album In Rainbows (2007)"
+      },
+      "date": 1423291053446
+    },
+    {
+      "type": "edit",
+      "id": "462cbd533a46281c",
+      "item": {
+        "type": "html",
+        "id": "462cbd533a46281c",
+        "text": "<pre>\nHas the light gone out for you?\nBecause the light's gone out for me\nIt is the 21st century\nIt is the 21st century\n</pre>- Thom Yorke, Radiohead, [http://www.greenplastic.com/radiohead-lyrics/in-rainbows/bodysnatchers/ \"Bodysnatchers,\"] from the album In Rainbows (2007)"
+      },
+      "date": 1423291059798
+    },
+    {
+      "type": "remove",
+      "id": "1acfd330d394ca65",
+      "date": 1423291077969
+    },
+    {
+      "type": "remove",
+      "id": "8eaf188f95359a55",
+      "date": 1423291084031
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fa4c7297c3327cf"
+      },
+      "id": "6fa4c7297c3327cf",
+      "type": "add",
+      "after": "462cbd533a46281c",
+      "date": 1423291089372
+    },
+    {
+      "type": "edit",
+      "id": "6fa4c7297c3327cf",
+      "item": {
+        "type": "html",
+        "id": "6fa4c7297c3327cf",
+        "text": "<pre>\nThe future has a valley and a shortcut around\n</pre>"
+      },
+      "date": 1423291196812
+    },
+    {
+      "type": "edit",
+      "id": "6f6a55b9199804c5",
+      "item": {
+        "type": "paragraph",
+        "id": "6f6a55b9199804c5",
+        "text": "\"The future has a valley and a shortcut around\" "
+      },
+      "date": 1423291210780
+    },
+    {
+      "type": "edit",
+      "id": "6fa4c7297c3327cf",
+      "item": {
+        "type": "html",
+        "id": "6fa4c7297c3327cf",
+        "text": "<pre>\nThe future has a valley and a shortcut around\n</pre>\n- Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born (2004)"
+      },
+      "date": 1423291213957
+    },
+    {
+      "type": "remove",
+      "id": "6f6a55b9199804c5",
+      "date": 1423291219846
+    },
+    {
+      "type": "move",
+      "order": [
+        "6fa4c7297c3327cf",
+        "462cbd533a46281c"
+      ],
+      "id": "6fa4c7297c3327cf",
+      "date": 1423291223806
     }
   ]
 }

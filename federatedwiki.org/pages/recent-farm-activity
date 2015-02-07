@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "fa92888539cde4f1"
+      "id": "a8a13c498bb22cb5"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ad723f26696dd384"
+      "id": "abfe6bdd175da6d9"
     },
     {
-      "date": 1423281001000,
+      "date": 1423282177000,
+      "site": "jmahoney.federatedwiki.org",
+      "slug": "in-rainbows",
+      "title": "In Rainbows",
+      "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 47 pages.",
+      "type": "reference",
+      "id": "9b85f56c75cfc389"
+    },
+    {
+      "date": 1423281601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "7c52f279ff919fec"
-    },
-    {
-      "date": 1423196239000,
-      "site": "jmahoney.federatedwiki.org",
-      "slug": "ward-cunningham",
-      "title": "Ward Cunningham",
-      "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 44 pages.",
-      "type": "reference",
-      "id": "3fb8a95065270293"
+      "id": "a1f937560c78ce3a"
     },
     {
       "date": 1422944934000,
@@ -36,69 +36,69 @@
       "title": "3 Feb Moodle Install",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "e80df24ddc15414a"
+      "id": "b7f064191d171274"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "df38f48e218dff46",
+      "id": "0c4f51e3b343c7a4",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423281601000
+      "date": 1423282201000
     },
     {
       "type": "add",
-      "id": "fa92888539cde4f1",
+      "id": "a8a13c498bb22cb5",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "fa92888539cde4f1"
+        "id": "a8a13c498bb22cb5"
       },
-      "date": 1423281601000
+      "date": 1423282201000
     },
     {
       "type": "add",
-      "id": "ad723f26696dd384",
+      "id": "abfe6bdd175da6d9",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ad723f26696dd384"
+        "id": "abfe6bdd175da6d9"
       },
-      "date": 1423281601000
+      "date": 1423282201000
     },
     {
       "type": "add",
-      "id": "7c52f279ff919fec",
+      "id": "9b85f56c75cfc389",
       "item": {
-        "date": 1423281001000,
+        "date": 1423282177000,
+        "site": "jmahoney.federatedwiki.org",
+        "slug": "in-rainbows",
+        "title": "In Rainbows",
+        "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 47 pages.",
+        "type": "reference",
+        "id": "9b85f56c75cfc389"
+      },
+      "date": 1423282201000
+    },
+    {
+      "type": "add",
+      "id": "a1f937560c78ce3a",
+      "item": {
+        "date": 1423281601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "7c52f279ff919fec"
+        "id": "a1f937560c78ce3a"
       },
-      "date": 1423281601000
+      "date": 1423282201000
     },
     {
       "type": "add",
-      "id": "3fb8a95065270293",
-      "item": {
-        "date": 1423196239000,
-        "site": "jmahoney.federatedwiki.org",
-        "slug": "ward-cunningham",
-        "title": "Ward Cunningham",
-        "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 44 pages.",
-        "type": "reference",
-        "id": "3fb8a95065270293"
-      },
-      "date": 1423281601000
-    },
-    {
-      "type": "add",
-      "id": "e80df24ddc15414a",
+      "id": "b7f064191d171274",
       "item": {
         "date": 1422944934000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "3 Feb Moodle Install",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "e80df24ddc15414a"
+        "id": "b7f064191d171274"
       },
-      "date": 1423281601000
+      "date": 1423282201000
     }
   ]
 }

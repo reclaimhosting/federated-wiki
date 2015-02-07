@@ -30,6 +30,16 @@
       "type": "paragraph",
       "id": "0f4b9980c1e5d918",
       "text": "[http://www.heartlandfestivalorchestra.org/concerts.html Heartland Festival Orchestra Concerts]"
+    },
+    {
+      "type": "pagefold",
+      "id": "9995be920f446c60",
+      "text": "Open Mic Nights"
+    },
+    {
+      "type": "paragraph",
+      "id": "3f7c352b8fb806e2",
+      "text": "[http://www.peorianightout.com/bars/151247/open-mic-nights Peoria Open Mic Nights] (call beforehand, may not be up-to-date)"
     }
   ],
   "journal": [
@@ -176,6 +186,46 @@
         "text": "[http://www.heartlandfestivalorchestra.org/concerts.html Heartland Festival Orchestra Concerts]"
       },
       "date": 1423319766952
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9995be920f446c60"
+      },
+      "id": "9995be920f446c60",
+      "type": "add",
+      "after": "0f4b9980c1e5d918",
+      "date": 1423320499969
+    },
+    {
+      "type": "edit",
+      "id": "9995be920f446c60",
+      "item": {
+        "type": "pagefold",
+        "id": "9995be920f446c60",
+        "text": "Open Mic Nights"
+      },
+      "date": 1423320510676
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f7c352b8fb806e2"
+      },
+      "id": "3f7c352b8fb806e2",
+      "type": "add",
+      "after": "9995be920f446c60",
+      "date": 1423320513321
+    },
+    {
+      "type": "edit",
+      "id": "3f7c352b8fb806e2",
+      "item": {
+        "type": "paragraph",
+        "id": "3f7c352b8fb806e2",
+        "text": "[http://www.peorianightout.com/bars/151247/open-mic-nights Peoria Open Mic Nights] (call beforehand, may not be up-to-date)"
+      },
+      "date": 1423320540768
     }
   ]
 }

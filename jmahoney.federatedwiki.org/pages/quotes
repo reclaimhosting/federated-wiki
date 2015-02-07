@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "6f6a55b9199804c5",
-      "text": "The future has a valley and a shortcut around - Jeff Tweedy of Wilco, [\"Spiders (Kidsmoke),\"] from the album A ghost is born"
+      "text": "\"The future has a valley and a shortcut around\" - Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born"
+    },
+    {
+      "type": "paragraph",
+      "id": "1acfd330d394ca65",
+      "text": "\"Has the light gone out for you?/ Because the light's gone out for me/ It is the 21st century/ It is the 21st century\" - Thom Yorke, Radiohead, [\"Bodysnatchers,\"] from the album In Rainbows (2007)"
     }
   ],
   "journal": [
@@ -44,6 +49,63 @@
         "text": "The future has a valley and a shortcut around - Jeff Tweedy of Wilco, [\"Spiders (Kidsmoke),\"] from the album A ghost is born"
       },
       "date": 1423288690847
+    },
+    {
+      "type": "edit",
+      "id": "6f6a55b9199804c5",
+      "item": {
+        "type": "paragraph",
+        "id": "6f6a55b9199804c5",
+        "text": "The future has a valley and a shortcut around - Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born"
+      },
+      "date": 1423289008722
+    },
+    {
+      "type": "edit",
+      "id": "6f6a55b9199804c5",
+      "item": {
+        "type": "paragraph",
+        "id": "6f6a55b9199804c5",
+        "text": "\"The future has a valley and a shortcut around\" - Jeff Tweedy, Wilco, [http://www.bemydemon.org/songs/spiders.htm \"Spiders (Kidsmoke),\"] from the album A Ghost Is Born"
+      },
+      "date": 1423289020552
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f952e809afde6881",
+        "text": ""
+      },
+      "id": "f952e809afde6881",
+      "type": "add",
+      "after": "6f6a55b9199804c5",
+      "date": 1423289025145
+    },
+    {
+      "type": "remove",
+      "id": "f952e809afde6881",
+      "date": 1423289028987
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1acfd330d394ca65",
+        "text": ""
+      },
+      "id": "1acfd330d394ca65",
+      "type": "add",
+      "after": "6f6a55b9199804c5",
+      "date": 1423289196134
+    },
+    {
+      "type": "edit",
+      "id": "1acfd330d394ca65",
+      "item": {
+        "type": "paragraph",
+        "id": "1acfd330d394ca65",
+        "text": "\"Has the light gone out for you?/ Because the light's gone out for me/ It is the 21st century/ It is the 21st century\" - Thom Yorke, Radiohead, [\"Bodysnatchers,\"] from the album In Rainbows (2007)"
+      },
+      "date": 1423289303282
     }
   ]
 }

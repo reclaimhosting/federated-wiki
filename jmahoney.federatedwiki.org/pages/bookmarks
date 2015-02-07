@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "783b8ebf6bb64363",
       "text": "[http://courses.cs.vt.edu/~cs1604/notes/chap2/gopher/gopher.html Gopher]"
+    },
+    {
+      "type": "pagefold",
+      "id": "39444a2cc69bbf9d",
+      "text": "Music"
+    },
+    {
+      "type": "paragraph",
+      "id": "1d3518ec689c141d",
+      "text": "[http://www.bradley.edu/academic/departments/music/events/events.dot?categories=83451,84977 Bradley University Music Events]"
+    },
+    {
+      "type": "paragraph",
+      "id": "91a3a284e32d01e8",
+      "text": "[http://www.artsaticc.com/events/month/ ICC Arts Calendar]"
     }
   ],
   "journal": [
@@ -34,6 +49,81 @@
         "text": "[http://courses.cs.vt.edu/~cs1604/notes/chap2/gopher/gopher.html Gopher]"
       },
       "date": 1423192863756
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "39444a2cc69bbf9d"
+      },
+      "id": "39444a2cc69bbf9d",
+      "type": "add",
+      "after": "783b8ebf6bb64363",
+      "date": 1423319226265
+    },
+    {
+      "type": "edit",
+      "id": "39444a2cc69bbf9d",
+      "item": {
+        "type": "pagefold",
+        "id": "39444a2cc69bbf9d",
+        "text": "Music"
+      },
+      "date": 1423319234681
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6aea520351cf612c"
+      },
+      "id": "6aea520351cf612c",
+      "type": "add",
+      "after": "39444a2cc69bbf9d",
+      "date": 1423319237728
+    },
+    {
+      "type": "remove",
+      "id": "6aea520351cf612c",
+      "date": 1423319247701
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d3518ec689c141d"
+      },
+      "id": "1d3518ec689c141d",
+      "type": "add",
+      "after": "39444a2cc69bbf9d",
+      "date": 1423319257062
+    },
+    {
+      "type": "edit",
+      "id": "1d3518ec689c141d",
+      "item": {
+        "type": "paragraph",
+        "id": "1d3518ec689c141d",
+        "text": "[http://www.bradley.edu/academic/departments/music/events/events.dot?categories=83451,84977 Bradley University Music Events]"
+      },
+      "date": 1423319273122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "91a3a284e32d01e8"
+      },
+      "id": "91a3a284e32d01e8",
+      "type": "add",
+      "after": "1d3518ec689c141d",
+      "date": 1423319372527
+    },
+    {
+      "type": "edit",
+      "id": "91a3a284e32d01e8",
+      "item": {
+        "type": "paragraph",
+        "id": "91a3a284e32d01e8",
+        "text": "[http://www.artsaticc.com/events/month/ ICC Arts Calendar]"
+      },
+      "date": 1423319387441
     }
   ]
 }

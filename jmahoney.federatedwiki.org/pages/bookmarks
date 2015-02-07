@@ -40,6 +40,11 @@
       "type": "paragraph",
       "id": "3f7c352b8fb806e2",
       "text": "[http://www.peorianightout.com/bars/151247/open-mic-nights Peoria Open Mic Nights] (call beforehand, may not be up-to-date)"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d158d05f81a98af",
+      "text": "[http://openmikes.org/calendar/IL Illinois Open Mikes] ( more up-to-date than the one above?)"
     }
   ],
   "journal": [
@@ -226,6 +231,37 @@
         "text": "[http://www.peorianightout.com/bars/151247/open-mic-nights Peoria Open Mic Nights] (call beforehand, may not be up-to-date)"
       },
       "date": 1423320540768
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d158d05f81a98af",
+        "text": ""
+      },
+      "id": "3d158d05f81a98af",
+      "type": "add",
+      "after": "3f7c352b8fb806e2",
+      "date": 1423320882554
+    },
+    {
+      "type": "edit",
+      "id": "3d158d05f81a98af",
+      "item": {
+        "type": "paragraph",
+        "id": "3d158d05f81a98af",
+        "text": "[http://openmikes.org/calendar/IL Illinois Open Mikes, more up-to-date than the one above?]"
+      },
+      "date": 1423320911588
+    },
+    {
+      "type": "edit",
+      "id": "3d158d05f81a98af",
+      "item": {
+        "type": "paragraph",
+        "id": "3d158d05f81a98af",
+        "text": "[http://openmikes.org/calendar/IL Illinois Open Mikes] ( more up-to-date than the one above?)"
+      },
+      "date": 1423320930191
     }
   ]
 }

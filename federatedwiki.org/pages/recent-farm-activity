@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "fff53809946daeb7"
+      "id": "b3e22eec979eca13"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "85561afe9d834de7"
+      "id": "54125fa32f748ac8"
+    },
+    {
+      "date": 1423291201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "3e86c5ff85a9d1a3"
     },
     {
       "date": 1423291114000,
@@ -18,16 +27,7 @@
       "title": "Quotes",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 48 pages.",
       "type": "reference",
-      "id": "6772b81ff535ab91"
-    },
-    {
-      "date": 1423290601000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "69b23f5909aac912"
+      "id": "637ac35953254e91"
     },
     {
       "date": 1422944934000,
@@ -36,41 +36,55 @@
       "title": "3 Feb Moodle Install",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "aa01d32220836695"
+      "id": "f0095679896c039f"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b0e2956c336d8315",
+      "id": "86a645e877120735",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423291201000
+      "date": 1423291801000
     },
     {
       "type": "add",
-      "id": "fff53809946daeb7",
+      "id": "b3e22eec979eca13",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "fff53809946daeb7"
+        "id": "b3e22eec979eca13"
       },
-      "date": 1423291201000
+      "date": 1423291801000
     },
     {
       "type": "add",
-      "id": "85561afe9d834de7",
+      "id": "54125fa32f748ac8",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "85561afe9d834de7"
+        "id": "54125fa32f748ac8"
       },
-      "date": 1423291201000
+      "date": 1423291801000
     },
     {
       "type": "add",
-      "id": "6772b81ff535ab91",
+      "id": "3e86c5ff85a9d1a3",
+      "item": {
+        "date": 1423291201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "3e86c5ff85a9d1a3"
+      },
+      "date": 1423291801000
+    },
+    {
+      "type": "add",
+      "id": "637ac35953254e91",
       "item": {
         "date": 1423291114000,
         "site": "jmahoney.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Quotes",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 48 pages.",
         "type": "reference",
-        "id": "6772b81ff535ab91"
+        "id": "637ac35953254e91"
       },
-      "date": 1423291201000
+      "date": 1423291801000
     },
     {
       "type": "add",
-      "id": "69b23f5909aac912",
-      "item": {
-        "date": 1423290601000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "69b23f5909aac912"
-      },
-      "date": 1423291201000
-    },
-    {
-      "type": "add",
-      "id": "aa01d32220836695",
+      "id": "f0095679896c039f",
       "item": {
         "date": 1422944934000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "3 Feb Moodle Install",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "aa01d32220836695"
+        "id": "f0095679896c039f"
       },
-      "date": 1423291201000
+      "date": 1423291801000
     }
   ]
 }

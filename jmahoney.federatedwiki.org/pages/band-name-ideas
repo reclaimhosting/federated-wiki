@@ -9,7 +9,17 @@
     {
       "type": "paragraph",
       "id": "ee1a6636326b10c3",
-      "text": "Motha-Fuckin Toast with Butter (Bitches) (AND JAM) [esclation (Batman voice)]\n"
+      "text": "Motha-Fuckin Toast with Butter (Bitches) (AND JAM) [esclation (Batman voice)]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f78bc235b1772c90",
+      "text": "Policy Jacket"
+    },
+    {
+      "type": "paragraph",
+      "id": "95ec9e63849e6278",
+      "text": "Personal and Advertising Injury Redefined"
     }
   ],
   "journal": [
@@ -50,6 +60,74 @@
       "type": "add",
       "after": "a66f0de070788cac",
       "date": 1422236867450
+    },
+    {
+      "type": "edit",
+      "id": "ee1a6636326b10c3",
+      "item": {
+        "type": "paragraph",
+        "id": "ee1a6636326b10c3",
+        "text": "Motha-Fuckin Toast with Butter (Bitches) (AND JAM) [esclation (Batman voice)]"
+      },
+      "date": 1423428248975
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f78bc235b1772c90",
+        "text": ""
+      },
+      "id": "f78bc235b1772c90",
+      "type": "add",
+      "after": "ee1a6636326b10c3",
+      "date": 1423428249015
+    },
+    {
+      "type": "edit",
+      "id": "f78bc235b1772c90",
+      "item": {
+        "type": "paragraph",
+        "id": "f78bc235b1772c90",
+        "text": "Policy Jacket"
+      },
+      "date": 1423428253666
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95ec9e63849e6278",
+        "text": ""
+      },
+      "id": "95ec9e63849e6278",
+      "type": "add",
+      "after": "f78bc235b1772c90",
+      "date": 1423428253700
+    },
+    {
+      "type": "edit",
+      "id": "95ec9e63849e6278",
+      "item": {
+        "type": "paragraph",
+        "id": "95ec9e63849e6278",
+        "text": "Personal and Advertising Injury Redefined"
+      },
+      "date": 1423428268959
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0652699a1cc24d9c",
+        "text": ""
+      },
+      "id": "0652699a1cc24d9c",
+      "type": "add",
+      "after": "95ec9e63849e6278",
+      "date": 1423428269001
+    },
+    {
+      "type": "remove",
+      "id": "0652699a1cc24d9c",
+      "date": 1423428269942
     }
   ]
 }

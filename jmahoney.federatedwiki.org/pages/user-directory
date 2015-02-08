@@ -83,10 +83,10 @@
     },
     {
       "type": "reference",
-      "id": "f2f98b309e62f3a3",
+      "id": "5e3e5624ea579283",
       "site": "jmahoney.federatedwiki.org",
-      "title": "Welcome Visitors",
-      "text": "Hello. Hola. Salve. χαῖρε."
+      "title": "James Mahoney",
+      "text": "Man. Baptized and Confirmed Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
     },
     {
       "type": "paragraph",
@@ -1195,6 +1195,56 @@
       ],
       "id": "af55dfbce8d0186b",
       "date": 1423404414450
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5e3e5624ea579283"
+      },
+      "id": "5e3e5624ea579283",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423428315579
+    },
+    {
+      "type": "edit",
+      "id": "5e3e5624ea579283",
+      "item": {
+        "type": "reference",
+        "id": "5e3e5624ea579283",
+        "site": "jmahoney.federatedwiki.org",
+        "title": "James Mahoney",
+        "text": "Man. Baptized and Confirmed Catholic of the Roman Rite; adopted son of the Most High. Citizen of the United States of America. Illinois Resident."
+      },
+      "date": 1423428318351
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "caab88239d04b791",
+        "552060ea90ca9ab3",
+        "af55dfbce8d0186b",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "f2f98b309e62f3a3",
+        "5e3e5624ea579283",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "5e3e5624ea579283",
+      "date": 1423428330114
+    },
+    {
+      "type": "remove",
+      "id": "f2f98b309e62f3a3",
+      "date": 1423428335460
     }
   ]
 }

@@ -10,6 +10,21 @@
       "type": "paragraph",
       "id": "63c1559b8089ff38",
       "text": "[https://books.google.com/books?id=C3gKAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false The Book at Google Books]"
+    },
+    {
+      "type": "paragraph",
+      "id": "677ea02154235e02",
+      "text": "Pp. 134-135 are missing from the TextKit edition. See Google PDF pp. 191-192."
+    },
+    {
+      "type": "paragraph",
+      "id": "ada7e5de1c310ec4",
+      "text": "Pp. 182-183 are missing from the TextKit edition. See Google PDF pp. 239-240."
+    },
+    {
+      "type": "paragraph",
+      "id": "d85aa8cfb93e2f96",
+      "text": "Skip PDF p. 241 of the TextKit PDF."
     }
   ],
   "journal": [
@@ -60,6 +75,109 @@
         "text": "[https://books.google.com/books?id=C3gKAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false The Book at Google Books]"
       },
       "date": 1423426686977
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "677ea02154235e02",
+        "text": ""
+      },
+      "id": "677ea02154235e02",
+      "type": "add",
+      "after": "63c1559b8089ff38",
+      "date": 1423427530023
+    },
+    {
+      "type": "edit",
+      "id": "677ea02154235e02",
+      "item": {
+        "type": "paragraph",
+        "id": "677ea02154235e02",
+        "text": "Pp. 134-135 are missing from the TextKit edition."
+      },
+      "date": 1423427547712
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ada7e5de1c310ec4",
+        "text": ""
+      },
+      "id": "ada7e5de1c310ec4",
+      "type": "add",
+      "after": "677ea02154235e02",
+      "date": 1423427748925
+    },
+    {
+      "type": "edit",
+      "id": "ada7e5de1c310ec4",
+      "item": {
+        "type": "paragraph",
+        "id": "ada7e5de1c310ec4",
+        "text": "Pp. 182-183 are missing from the TextKit edition."
+      },
+      "date": 1423427767146
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d85aa8cfb93e2f96",
+        "text": ""
+      },
+      "id": "d85aa8cfb93e2f96",
+      "type": "add",
+      "after": "ada7e5de1c310ec4",
+      "date": 1423427831763
+    },
+    {
+      "type": "edit",
+      "id": "d85aa8cfb93e2f96",
+      "item": {
+        "type": "paragraph",
+        "id": "d85aa8cfb93e2f96",
+        "text": "Skip p. 241 of the TextKit PDF."
+      },
+      "date": 1423427839875
+    },
+    {
+      "type": "edit",
+      "id": "ada7e5de1c310ec4",
+      "item": {
+        "type": "paragraph",
+        "id": "ada7e5de1c310ec4",
+        "text": "Pp. 182-183 are missing from the TextKit edition. See Google PDF pp."
+      },
+      "date": 1423428004242
+    },
+    {
+      "type": "edit",
+      "id": "ada7e5de1c310ec4",
+      "item": {
+        "type": "paragraph",
+        "id": "ada7e5de1c310ec4",
+        "text": "Pp. 182-183 are missing from the TextKit edition. See Google PDF pp. 239-240."
+      },
+      "date": 1423428016222
+    },
+    {
+      "type": "edit",
+      "id": "677ea02154235e02",
+      "item": {
+        "type": "paragraph",
+        "id": "677ea02154235e02",
+        "text": "Pp. 134-135 are missing from the TextKit edition. See Google PDF pp. 191-192."
+      },
+      "date": 1423428064739
+    },
+    {
+      "type": "edit",
+      "id": "d85aa8cfb93e2f96",
+      "item": {
+        "type": "paragraph",
+        "id": "d85aa8cfb93e2f96",
+        "text": "Skip PDF p. 241 of the TextKit PDF."
+      },
+      "date": 1423428086792
     }
   ]
 }

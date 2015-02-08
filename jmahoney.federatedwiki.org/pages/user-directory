@@ -14,6 +14,15 @@
       "text": "This site consists of short essays, called patterns, which form a hierarchy that starts here. We also list each pattern in alphabetical order within the [[Reliable Prosperity Index]]."
     },
     {
+      "type": "factory",
+      "id": "f8decd41b48b63b9",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://fed.coevolving.com/",
+        "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+      }
+    },
+    {
       "type": "reference",
       "id": "9302476145b71d88",
       "site": "rosano.federatedwiki.org",
@@ -87,10 +96,6 @@
       "site": "innovation.federatedwiki.org",
       "title": "Innovation Wiki",
       "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
-    },
-    {
-      "type": "factory",
-      "id": "9fb20ad2f2ce066e"
     }
   ],
   "journal": [
@@ -948,6 +953,127 @@
       "type": "add",
       "after": "3ea3797594658b04",
       "date": 1423378912848
+    },
+    {
+      "type": "edit",
+      "id": "9fb20ad2f2ce066e",
+      "item": {
+        "type": "factory",
+        "id": "9fb20ad2f2ce066e",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fed.coevolving.com/",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1423378919887
+    },
+    {
+      "type": "edit",
+      "id": "9fb20ad2f2ce066e",
+      "item": {
+        "type": "factory",
+        "id": "9fb20ad2f2ce066e",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fed.coevolving.com/",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1423378943293
+    },
+    {
+      "type": "remove",
+      "id": "9fb20ad2f2ce066e",
+      "date": 1423379009948
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "673352e3dc64d705"
+      },
+      "id": "673352e3dc64d705",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423379012798
+    },
+    {
+      "type": "edit",
+      "id": "673352e3dc64d705",
+      "item": {
+        "type": "factory",
+        "id": "673352e3dc64d705",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fed.coevolving.com/",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1423379021352
+    },
+    {
+      "type": "remove",
+      "id": "673352e3dc64d705",
+      "date": 1423379120900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f8decd41b48b63b9"
+      },
+      "id": "f8decd41b48b63b9",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423379122851
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "caab88239d04b791",
+        "f8decd41b48b63b9",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "f2f98b309e62f3a3",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "f8decd41b48b63b9",
+      "date": 1423379129147
+    },
+    {
+      "type": "edit",
+      "id": "f8decd41b48b63b9",
+      "item": {
+        "type": "factory",
+        "id": "f8decd41b48b63b9",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fed.coevolving.com/",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1423379137878
+    },
+    {
+      "type": "edit",
+      "id": "f8decd41b48b63b9",
+      "item": {
+        "type": "factory",
+        "id": "f8decd41b48b63b9",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"url\":\"http://fed.coevolving.com/\"}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://fed.coevolving.com/",
+          "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0"
+        }
+      },
+      "date": 1423379161860
     }
   ]
 }

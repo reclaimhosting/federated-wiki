@@ -27,6 +27,13 @@
     },
     {
       "type": "reference",
+      "id": "af55dfbce8d0186b",
+      "site": "fedwiki.djon.es",
+      "title": "Welcome Visitors",
+      "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. "
+    },
+    {
+      "type": "reference",
       "id": "9302476145b71d88",
       "site": "rosano.federatedwiki.org",
       "title": "Rosano Coutinho",
@@ -1144,6 +1151,50 @@
       ],
       "id": "552060ea90ca9ab3",
       "date": 1423404033505
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af55dfbce8d0186b"
+      },
+      "id": "af55dfbce8d0186b",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423404376914
+    },
+    {
+      "type": "edit",
+      "id": "af55dfbce8d0186b",
+      "item": {
+        "type": "reference",
+        "id": "af55dfbce8d0186b",
+        "site": "fedwiki.djon.es",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. "
+      },
+      "date": 1423404387327
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "caab88239d04b791",
+        "552060ea90ca9ab3",
+        "af55dfbce8d0186b",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "f2f98b309e62f3a3",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "af55dfbce8d0186b",
+      "date": 1423404414450
     }
   ]
 }

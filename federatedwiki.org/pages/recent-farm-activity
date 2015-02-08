@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4baf93a5a9c4ef6a"
+      "id": "9aa749971a36adb8"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ae9e37f5c22a7981"
+      "id": "c7eb96515343e2b6"
+    },
+    {
+      "date": 1423426802000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "d184376831614b48"
     },
     {
       "date": 1423426575000,
@@ -18,16 +27,7 @@
       "title": "Pharr's Homeric Greek",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 50 pages.",
       "type": "reference",
-      "id": "8b8f116df0e65c73"
-    },
-    {
-      "date": 1423426202000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "9dcaf670a7a689da"
+      "id": "111419d3dc3ea8e0"
     },
     {
       "date": 1422944934000,
@@ -36,41 +36,55 @@
       "title": "3 Feb Moodle Install",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "c9675e219fd76a82"
+      "id": "8c30f5bdde70fe13"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "f49db069d6a43185",
+      "id": "924f6f097eda9086",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423426801000
+      "date": 1423427401000
     },
     {
       "type": "add",
-      "id": "4baf93a5a9c4ef6a",
+      "id": "9aa749971a36adb8",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4baf93a5a9c4ef6a"
+        "id": "9aa749971a36adb8"
       },
-      "date": 1423426801000
+      "date": 1423427401000
     },
     {
       "type": "add",
-      "id": "ae9e37f5c22a7981",
+      "id": "c7eb96515343e2b6",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ae9e37f5c22a7981"
+        "id": "c7eb96515343e2b6"
       },
-      "date": 1423426801000
+      "date": 1423427401000
     },
     {
       "type": "add",
-      "id": "8b8f116df0e65c73",
+      "id": "d184376831614b48",
+      "item": {
+        "date": 1423426802000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "d184376831614b48"
+      },
+      "date": 1423427401000
+    },
+    {
+      "type": "add",
+      "id": "111419d3dc3ea8e0",
       "item": {
         "date": 1423426575000,
         "site": "jmahoney.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Pharr's Homeric Greek",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 50 pages.",
         "type": "reference",
-        "id": "8b8f116df0e65c73"
+        "id": "111419d3dc3ea8e0"
       },
-      "date": 1423426801000
+      "date": 1423427401000
     },
     {
       "type": "add",
-      "id": "9dcaf670a7a689da",
-      "item": {
-        "date": 1423426202000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "9dcaf670a7a689da"
-      },
-      "date": 1423426801000
-    },
-    {
-      "type": "add",
-      "id": "c9675e219fd76a82",
+      "id": "8c30f5bdde70fe13",
       "item": {
         "date": 1422944934000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "3 Feb Moodle Install",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "c9675e219fd76a82"
+        "id": "8c30f5bdde70fe13"
       },
-      "date": 1423426801000
+      "date": 1423427401000
     }
   ]
 }

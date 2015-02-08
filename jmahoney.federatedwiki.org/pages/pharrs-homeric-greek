@@ -1,0 +1,65 @@
+{
+  "title": "Pharr's Homeric Greek",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "75b45683ebc50d03",
+      "text": "[http://www.textkit.com/learn/ID/165/author_id/81/ The Book at TextKit]"
+    },
+    {
+      "type": "paragraph",
+      "id": "63c1559b8089ff38",
+      "text": "[https://books.google.com/books?id=C3gKAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false The Book at Google Books]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pharr's Homeric Greek",
+        "story": []
+      },
+      "date": 1423426573642
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75b45683ebc50d03"
+      },
+      "id": "75b45683ebc50d03",
+      "type": "add",
+      "date": 1423426575244
+    },
+    {
+      "type": "edit",
+      "id": "75b45683ebc50d03",
+      "item": {
+        "type": "paragraph",
+        "id": "75b45683ebc50d03",
+        "text": "[http://www.textkit.com/learn/ID/165/author_id/81/ The Book at TextKit]"
+      },
+      "date": 1423426594616
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "63c1559b8089ff38",
+        "text": ""
+      },
+      "id": "63c1559b8089ff38",
+      "type": "add",
+      "after": "75b45683ebc50d03",
+      "date": 1423426677962
+    },
+    {
+      "type": "edit",
+      "id": "63c1559b8089ff38",
+      "item": {
+        "type": "paragraph",
+        "id": "63c1559b8089ff38",
+        "text": "[https://books.google.com/books?id=C3gKAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false The Book at Google Books]"
+      },
+      "date": 1423426686977
+    }
+  ]
+}

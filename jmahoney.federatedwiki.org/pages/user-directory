@@ -8,6 +8,13 @@
     },
     {
       "type": "reference",
+      "id": "caab88239d04b791",
+      "site": "reliable.prosperity.fed.wiki.org",
+      "title": "Reliable Prosperity",
+      "text": "This site consists of short essays, called patterns, which form a hierarchy that starts here. We also list each pattern in alphabetical order within the [[Reliable Prosperity Index]]."
+    },
+    {
+      "type": "reference",
       "id": "9302476145b71d88",
       "site": "rosano.federatedwiki.org",
       "title": "Rosano Coutinho",
@@ -80,6 +87,10 @@
       "site": "innovation.federatedwiki.org",
       "title": "Innovation Wiki",
       "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+    },
+    {
+      "type": "factory",
+      "id": "9fb20ad2f2ce066e"
     }
   ],
   "journal": [
@@ -858,6 +869,85 @@
       "type": "remove",
       "id": "3a550d32f144a281",
       "date": 1422168874782
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d9c1ccae87f7b31a"
+      },
+      "id": "d9c1ccae87f7b31a",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423378616363
+    },
+    {
+      "type": "edit",
+      "id": "d9c1ccae87f7b31a",
+      "item": {
+        "type": "reference",
+        "id": "d9c1ccae87f7b31a",
+        "site": "reliable.prosperity.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Smallest Federated Wiki]]. "
+      },
+      "date": 1423378620305
+    },
+    {
+      "type": "remove",
+      "id": "d9c1ccae87f7b31a",
+      "date": 1423378633608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "caab88239d04b791"
+      },
+      "id": "caab88239d04b791",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423378636080
+    },
+    {
+      "type": "edit",
+      "id": "caab88239d04b791",
+      "item": {
+        "type": "reference",
+        "id": "caab88239d04b791",
+        "site": "reliable.prosperity.fed.wiki.org",
+        "title": "Reliable Prosperity",
+        "text": "This site consists of short essays, called patterns, which form a hierarchy that starts here. We also list each pattern in alphabetical order within the [[Reliable Prosperity Index]]."
+      },
+      "date": 1423378645529
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "caab88239d04b791",
+        "9302476145b71d88",
+        "a09896322fd64849",
+        "e95f02e3ea01b70a",
+        "dea11b5f742c5089",
+        "0c6298446b678ba6",
+        "57c8b416e93cbaaa",
+        "7a7760bec8df2570",
+        "f2f98b309e62f3a3",
+        "278f56692d71b8e5",
+        "285bbb207ae9f46a",
+        "3ea3797594658b04"
+      ],
+      "id": "caab88239d04b791",
+      "date": 1423378660690
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9fb20ad2f2ce066e"
+      },
+      "id": "9fb20ad2f2ce066e",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1423378912848
     }
   ]
 }

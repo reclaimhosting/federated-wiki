@@ -22,14 +22,9 @@
       "text": "This is my [[Federated Wiki]]. Here is a very small [[User Directory]]. [http://federatedwiki.org/view/welcome-visitors/view/get-a-wiki Get A Wiki] "
     },
     {
-      "type": "pagefold",
-      "id": "357bd680b17bb5f4",
-      "text": "Helpful Notes From The Creators"
-    },
-    {
       "type": "paragraph",
       "id": "d61bcc89a2ddd936",
-      "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] and [[Local Changes]] here and nearby."
     }
   ],
   "journal": [
@@ -2131,6 +2126,21 @@
         "text": "Hello. Hola. Salve. χαῖρε."
       },
       "date": 1423119762355
+    },
+    {
+      "type": "edit",
+      "id": "d61bcc89a2ddd936",
+      "item": {
+        "type": "paragraph",
+        "id": "d61bcc89a2ddd936",
+        "text": "Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] and [[Local Changes]] here and nearby."
+      },
+      "date": 1423404069513
+    },
+    {
+      "type": "remove",
+      "id": "357bd680b17bb5f4",
+      "date": 1423404077371
     }
   ]
 }

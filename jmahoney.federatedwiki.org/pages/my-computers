@@ -34,17 +34,7 @@
     {
       "type": "paragraph",
       "id": "fe803237d6d0887d",
-      "text": "Not mine: [http://support.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-a-series-desktops/thinkcentre-a60 thinkcentre mt-m8700-25u]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f49ca0c8eb32d67e",
-      "text": "hd 31000 idk/7k1000"
-    },
-    {
-      "type": "paragraph",
-      "id": "24e3c61fdace6b02",
-      "text": "[http://www.frys.com/product/5947234?site=sr:SEARCH:MAIN_RSLT_PG the one that got away]"
+      "text": "[[Not mine]]"
     }
   ],
   "journal": [
@@ -288,6 +278,67 @@
         "text": "[http://www.frys.com/product/5947234?site=sr:SEARCH:MAIN_RSLT_PG the one that got away]"
       },
       "date": 1423453629333
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d16fcf3ce739ae85"
+      },
+      "id": "d16fcf3ce739ae85",
+      "type": "add",
+      "after": "24e3c61fdace6b02",
+      "date": 1423455813942
+    },
+    {
+      "type": "remove",
+      "id": "d16fcf3ce739ae85",
+      "date": 1423455821924
+    },
+    {
+      "type": "edit",
+      "id": "fe803237d6d0887d",
+      "item": {
+        "type": "paragraph",
+        "id": "fe803237d6d0887d",
+        "text": "[[Not mine]] [http://support.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-a-series-desktops/thinkcentre-a60 thinkcentre mt-m8700-25u]"
+      },
+      "date": 1423455829984
+    },
+    {
+      "type": "edit",
+      "id": "fe803237d6d0887d",
+      "item": {
+        "type": "paragraph",
+        "id": "fe803237d6d0887d",
+        "text": "[[Not mine]]"
+      },
+      "date": 1423455835624
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75b6fc65f7adf7c8",
+        "text": "[http://support.lenovo.com/us/en/products/desktops-and-all-in-ones/thinkcentre-a-series-desktops/thinkcentre-a60 thinkcentre mt-m8700-25u]"
+      },
+      "id": "75b6fc65f7adf7c8",
+      "type": "add",
+      "after": "fe803237d6d0887d",
+      "date": 1423455835650
+    },
+    {
+      "type": "remove",
+      "id": "75b6fc65f7adf7c8",
+      "date": 1423455846548
+    },
+    {
+      "type": "remove",
+      "id": "f49ca0c8eb32d67e",
+      "date": 1423455853836
+    },
+    {
+      "type": "remove",
+      "id": "24e3c61fdace6b02",
+      "date": 1423455861168
     }
   ]
 }

@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "24e3c61fdace6b02",
       "text": "[http://www.frys.com/product/5947234?site=sr:SEARCH:MAIN_RSLT_PG the one that got away]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae0bffff24d9d8c6",
+      "text": "[http://www.frys.com/search?cat=-69564&pType=pDisplay&fq=100413%203.5-100414%20SATA/300-100415%207200 narrowed]"
     }
   ],
   "journal": [
@@ -57,6 +62,27 @@
       "after": "f49ca0c8eb32d67e",
       "id": "24e3c61fdace6b02",
       "date": 1423455861176
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ae0bffff24d9d8c6",
+        "text": ""
+      },
+      "id": "ae0bffff24d9d8c6",
+      "type": "add",
+      "after": "24e3c61fdace6b02",
+      "date": 1423546943118
+    },
+    {
+      "type": "edit",
+      "id": "ae0bffff24d9d8c6",
+      "item": {
+        "type": "paragraph",
+        "id": "ae0bffff24d9d8c6",
+        "text": "[http://www.frys.com/search?cat=-69564&pType=pDisplay&fq=100413%203.5-100414%20SATA/300-100415%207200 narrowed]"
+      },
+      "date": 1423546956089
     }
   ]
 }

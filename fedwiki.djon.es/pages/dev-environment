@@ -20,6 +20,16 @@
       "type": "html",
       "id": "0c24753833ac82c9",
       "text": "Moodle\n<ul>\n  <li> ~XAMPP/htdocs/[m24 | m25 | m28] </li>\n</ul>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "521d5b0d1595c9be",
+      "text": "###Moodle development git\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f97231789864af2",
+      "text": "localhost:8080/moodle is source code of Moodle managed with git."
     }
   ],
   "journal": [
@@ -374,6 +384,72 @@
         "text": "<h3>To do</h3>\n\n<ol>\n  <li> Install Moodle. \n  </li>\n  <li> Install BIM. </li>\n  <li> Restore course backups. </li>\n  <li> Possible to copy old Postgres databases over? </li>\n  <li> What about the course search option? </li>\n  <li> Check operation of process analytics. </li>\n  <li> What about local MAV??? </li>\n</ol>"
       },
       "date": 1421117650058
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.djon.es",
+      "date": 1423539128367
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "521d5b0d1595c9be"
+      },
+      "id": "521d5b0d1595c9be",
+      "type": "add",
+      "after": "0c24753833ac82c9",
+      "site": "fedwiki.djon.es",
+      "date": 1423539128365
+    },
+    {
+      "type": "edit",
+      "id": "521d5b0d1595c9be",
+      "item": {
+        "type": "markdown",
+        "id": "521d5b0d1595c9be",
+        "text": "###Moodle development git\n"
+      },
+      "date": 1423539137864
+    },
+    {
+      "type": "fork",
+      "date": 1423539169034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f97231789864af2"
+      },
+      "id": "4f97231789864af2",
+      "type": "add",
+      "after": "521d5b0d1595c9be",
+      "date": 1423539172447
+    },
+    {
+      "type": "edit",
+      "id": "4f97231789864af2",
+      "item": {
+        "type": "paragraph",
+        "id": "4f97231789864af2",
+        "text": "localhost:8080/moodle is source code of Moodle managed with git."
+      },
+      "date": 1423539192992
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "79de9a49125de7ab",
+        "text": ""
+      },
+      "id": "79de9a49125de7ab",
+      "type": "add",
+      "after": "4f97231789864af2",
+      "date": 1423539193022
+    },
+    {
+      "type": "remove",
+      "id": "79de9a49125de7ab",
+      "date": 1423539196277
     }
   ]
 }

@@ -25,6 +25,11 @@
       "type": "paragraph",
       "id": "221cb9f72f1865b5",
       "text": "[[the teddy bear man]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "493e6f1b6bc942bf",
+      "text": "[[the war ends]]"
     }
   ],
   "journal": [
@@ -203,6 +208,43 @@
     {
       "type": "fork",
       "date": 1421363971210
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "195e6af9af4b32e6",
+        "text": ""
+      },
+      "id": "195e6af9af4b32e6",
+      "type": "add",
+      "after": "221cb9f72f1865b5",
+      "date": 1423678250385
+    },
+    {
+      "type": "remove",
+      "id": "195e6af9af4b32e6",
+      "date": 1423678258467
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "493e6f1b6bc942bf",
+        "text": ""
+      },
+      "id": "493e6f1b6bc942bf",
+      "type": "add",
+      "after": "221cb9f72f1865b5",
+      "date": 1423678288856
+    },
+    {
+      "type": "edit",
+      "id": "493e6f1b6bc942bf",
+      "item": {
+        "type": "paragraph",
+        "id": "493e6f1b6bc942bf",
+        "text": "[[the war ends]]"
+      },
+      "date": 1423678308660
     }
   ]
 }

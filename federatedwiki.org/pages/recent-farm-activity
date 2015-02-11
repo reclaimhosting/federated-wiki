@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f9cb7fa5df32bbf3"
+      "id": "ddba511d9684b6fd"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "c2c4345d8dc2a309"
+      "id": "82f6fb400291e8e3"
     },
     {
-      "date": 1423677001000,
+      "date": 1423678197000,
+      "site": "max.federatedwiki.org",
+      "slug": "the-war-ends",
+      "title": "the war ends",
+      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 71 pages.",
+      "type": "reference",
+      "id": "a1eeb863f8881a18"
+    },
+    {
+      "date": 1423677601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "43489d4fd2ffa987"
+      "id": "abd807ee6b05f042"
     },
     {
       "date": 1423550945000,
@@ -27,7 +36,7 @@
       "title": "Bookmarks",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 51 pages.",
       "type": "reference",
-      "id": "d5d5270bd4c51480"
+      "id": "bb9d1971fd49993b"
     },
     {
       "date": 1423539083000,
@@ -36,55 +45,69 @@
       "title": "Dev Environment",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "fab1150f9a66cad5"
+      "id": "5168f17b96b29707"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "20a1875fd82ed172",
+      "id": "6e3bc8f23c508ace",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     },
     {
       "type": "add",
-      "id": "f9cb7fa5df32bbf3",
+      "id": "ddba511d9684b6fd",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f9cb7fa5df32bbf3"
+        "id": "ddba511d9684b6fd"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     },
     {
       "type": "add",
-      "id": "c2c4345d8dc2a309",
+      "id": "82f6fb400291e8e3",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "c2c4345d8dc2a309"
+        "id": "82f6fb400291e8e3"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     },
     {
       "type": "add",
-      "id": "43489d4fd2ffa987",
+      "id": "a1eeb863f8881a18",
       "item": {
-        "date": 1423677001000,
+        "date": 1423678197000,
+        "site": "max.federatedwiki.org",
+        "slug": "the-war-ends",
+        "title": "the war ends",
+        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 71 pages.",
+        "type": "reference",
+        "id": "a1eeb863f8881a18"
+      },
+      "date": 1423678201000
+    },
+    {
+      "type": "add",
+      "id": "abd807ee6b05f042",
+      "item": {
+        "date": 1423677601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "43489d4fd2ffa987"
+        "id": "abd807ee6b05f042"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     },
     {
       "type": "add",
-      "id": "d5d5270bd4c51480",
+      "id": "bb9d1971fd49993b",
       "item": {
         "date": 1423550945000,
         "site": "jmahoney.federatedwiki.org",
@@ -92,13 +115,13 @@
         "title": "Bookmarks",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 51 pages.",
         "type": "reference",
-        "id": "d5d5270bd4c51480"
+        "id": "bb9d1971fd49993b"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     },
     {
       "type": "add",
-      "id": "fab1150f9a66cad5",
+      "id": "5168f17b96b29707",
       "item": {
         "date": 1423539083000,
         "site": "fedwiki.djon.es",
@@ -106,9 +129,9 @@
         "title": "Dev Environment",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "fab1150f9a66cad5"
+        "id": "5168f17b96b29707"
       },
-      "date": 1423677601000
+      "date": 1423678201000
     }
   ]
 }

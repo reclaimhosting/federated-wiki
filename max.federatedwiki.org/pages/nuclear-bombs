@@ -2,8 +2,9 @@
   "title": "nuclear bombs",
   "story": [
     {
-      "type": "factory",
-      "id": "73d2d1e486de84ed"
+      "type": "paragraph",
+      "id": "73d2d1e486de84ed",
+      "text": "[[creation]]"
     }
   ],
   "journal": [
@@ -23,6 +24,58 @@
       "id": "73d2d1e486de84ed",
       "type": "add",
       "date": 1423678917720
+    },
+    {
+      "type": "edit",
+      "id": "73d2d1e486de84ed",
+      "item": {
+        "type": "paragraph",
+        "id": "73d2d1e486de84ed",
+        "text": "creation"
+      },
+      "date": 1423678923919
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c63903260c1bf67",
+        "text": ""
+      },
+      "id": "8c63903260c1bf67",
+      "type": "add",
+      "after": "73d2d1e486de84ed",
+      "date": 1423678923928
+    },
+    {
+      "type": "remove",
+      "id": "8c63903260c1bf67",
+      "date": 1423678925200
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "aeb333f47602b50a",
+        "text": ""
+      },
+      "id": "aeb333f47602b50a",
+      "type": "add",
+      "after": "73d2d1e486de84ed",
+      "date": 1423678932575
+    },
+    {
+      "type": "edit",
+      "id": "73d2d1e486de84ed",
+      "item": {
+        "type": "paragraph",
+        "id": "73d2d1e486de84ed",
+        "text": "[[creation]]"
+      },
+      "date": 1423678932571
+    },
+    {
+      "type": "remove",
+      "id": "aeb333f47602b50a",
+      "date": 1423678955449
     }
   ]
 }

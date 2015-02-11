@@ -1,0 +1,39 @@
+{
+  "title": "creation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d1c095a286bfd01f",
+      "text": "the atom bomb was created "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "creation",
+        "story": []
+      },
+      "date": 1423678998165
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1c095a286bfd01f"
+      },
+      "id": "d1c095a286bfd01f",
+      "type": "add",
+      "date": 1423679268429
+    },
+    {
+      "type": "edit",
+      "id": "d1c095a286bfd01f",
+      "item": {
+        "type": "paragraph",
+        "id": "d1c095a286bfd01f",
+        "text": "the atom bomb was created "
+      },
+      "date": 1423679304965
+    }
+  ]
+}

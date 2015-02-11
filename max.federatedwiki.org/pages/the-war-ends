@@ -2,8 +2,13 @@
   "title": "the war ends",
   "story": [
     {
+      "type": "paragraph",
+      "id": "0b187abca83777cb",
+      "text": "[[nuclear bombs]]"
+    },
+    {
       "type": "factory",
-      "id": "2ae34227002768c6"
+      "id": "115e691ac26ff465"
     }
   ],
   "journal": [
@@ -23,6 +28,60 @@
       "id": "2ae34227002768c6",
       "type": "add",
       "date": 1423678314192
+    },
+    {
+      "type": "remove",
+      "id": "2ae34227002768c6",
+      "date": 1423678451800
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0b187abca83777cb"
+      },
+      "id": "0b187abca83777cb",
+      "type": "add",
+      "date": 1423678456659
+    },
+    {
+      "type": "edit",
+      "id": "0b187abca83777cb",
+      "item": {
+        "type": "paragraph",
+        "id": "0b187abca83777cb",
+        "text": "[[nuclear bombs]]"
+      },
+      "date": 1423678581459
+    },
+    {
+      "type": "remove",
+      "id": "1497389d4eb64610",
+      "date": 1423678584307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cb744b49c2987c71"
+      },
+      "id": "cb744b49c2987c71",
+      "type": "add",
+      "after": "0b187abca83777cb",
+      "date": 1423678587632
+    },
+    {
+      "type": "remove",
+      "id": "cb744b49c2987c71",
+      "date": 1423678591564
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "115e691ac26ff465"
+      },
+      "id": "115e691ac26ff465",
+      "type": "add",
+      "after": "0b187abca83777cb",
+      "date": 1423678595807
     }
   ]
 }

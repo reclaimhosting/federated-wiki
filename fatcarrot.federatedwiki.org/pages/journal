@@ -1,0 +1,71 @@
+{
+  "title": "journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0788ae745edfb2d4",
+      "text": "2015"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "journal",
+        "story": []
+      },
+      "date": 1423693968820
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0788ae745edfb2d4"
+      },
+      "id": "0788ae745edfb2d4",
+      "type": "add",
+      "date": 1423693971705
+    },
+    {
+      "type": "edit",
+      "id": "0788ae745edfb2d4",
+      "item": {
+        "type": "paragraph",
+        "id": "0788ae745edfb2d4",
+        "text": "2015"
+      },
+      "date": 1423693985933
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f9f0ebcab5a9878",
+        "text": ""
+      },
+      "id": "1f9f0ebcab5a9878",
+      "type": "add",
+      "after": "0788ae745edfb2d4",
+      "date": 1423693985933
+    },
+    {
+      "type": "remove",
+      "id": "1f9f0ebcab5a9878",
+      "date": 1423693992836
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "123495b66f26a837",
+        "text": ""
+      },
+      "id": "123495b66f26a837",
+      "type": "add",
+      "after": "0788ae745edfb2d4",
+      "date": 1423693999825
+    },
+    {
+      "type": "remove",
+      "id": "123495b66f26a837",
+      "date": 1423694003881
+    }
+  ]
+}

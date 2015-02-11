@@ -1,0 +1,53 @@
+{
+  "title": "January",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a41ee47ebc16b4a2",
+      "text": "#Too Late\nToo late - it already happened.\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "January",
+        "story": []
+      },
+      "date": 1423694060361
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "595094ac984089fc"
+      },
+      "id": "595094ac984089fc",
+      "type": "add",
+      "date": 1423694063573
+    },
+    {
+      "type": "remove",
+      "id": "595094ac984089fc",
+      "date": 1423694070845
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a41ee47ebc16b4a2"
+      },
+      "id": "a41ee47ebc16b4a2",
+      "type": "add",
+      "date": 1423694073971
+    },
+    {
+      "type": "edit",
+      "id": "a41ee47ebc16b4a2",
+      "item": {
+        "type": "markdown",
+        "id": "a41ee47ebc16b4a2",
+        "text": "#Too Late\nToo late - it already happened.\n"
+      },
+      "date": 1423694106692
+    }
+  ]
+}

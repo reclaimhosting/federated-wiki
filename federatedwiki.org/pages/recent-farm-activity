@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "0f14ad63875ea079"
+      "id": "a0c0e3b25699ca11"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "2f39134b5d3de723"
+      "id": "f9f9837e0bfed8c7"
+    },
+    {
+      "date": 1423680001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "9f56d00feac5ed35"
     },
     {
       "date": 1423679428000,
@@ -18,16 +27,7 @@
       "title": "creation",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 73 pages.",
       "type": "reference",
-      "id": "c347faa1fda54731"
-    },
-    {
-      "date": 1423679401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "ceb150affbe1beec"
+      "id": "dfd4eccada29c560"
     },
     {
       "date": 1423550945000,
@@ -36,7 +36,7 @@
       "title": "Bookmarks",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 51 pages.",
       "type": "reference",
-      "id": "fbc362323e5c060c"
+      "id": "693469cb0f6e11be"
     },
     {
       "date": 1423539083000,
@@ -45,41 +45,55 @@
       "title": "Dev Environment",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "b3e020d8f66f94bd"
+      "id": "da3149e712a4d5f7"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "96811745e5614d52",
+      "id": "3425e07a41f3d094",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     },
     {
       "type": "add",
-      "id": "0f14ad63875ea079",
+      "id": "a0c0e3b25699ca11",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "0f14ad63875ea079"
+        "id": "a0c0e3b25699ca11"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     },
     {
       "type": "add",
-      "id": "2f39134b5d3de723",
+      "id": "f9f9837e0bfed8c7",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "2f39134b5d3de723"
+        "id": "f9f9837e0bfed8c7"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     },
     {
       "type": "add",
-      "id": "c347faa1fda54731",
+      "id": "9f56d00feac5ed35",
+      "item": {
+        "date": 1423680001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "9f56d00feac5ed35"
+      },
+      "date": 1423680601000
+    },
+    {
+      "type": "add",
+      "id": "dfd4eccada29c560",
       "item": {
         "date": 1423679428000,
         "site": "max.federatedwiki.org",
@@ -87,27 +101,13 @@
         "title": "creation",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 73 pages.",
         "type": "reference",
-        "id": "c347faa1fda54731"
+        "id": "dfd4eccada29c560"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     },
     {
       "type": "add",
-      "id": "ceb150affbe1beec",
-      "item": {
-        "date": 1423679401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "ceb150affbe1beec"
-      },
-      "date": 1423680001000
-    },
-    {
-      "type": "add",
-      "id": "fbc362323e5c060c",
+      "id": "693469cb0f6e11be",
       "item": {
         "date": 1423550945000,
         "site": "jmahoney.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "Bookmarks",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 51 pages.",
         "type": "reference",
-        "id": "fbc362323e5c060c"
+        "id": "693469cb0f6e11be"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     },
     {
       "type": "add",
-      "id": "b3e020d8f66f94bd",
+      "id": "da3149e712a4d5f7",
       "item": {
         "date": 1423539083000,
         "site": "fedwiki.djon.es",
@@ -129,9 +129,9 @@
         "title": "Dev Environment",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "b3e020d8f66f94bd"
+        "id": "da3149e712a4d5f7"
       },
-      "date": 1423680001000
+      "date": 1423680601000
     }
   ]
 }

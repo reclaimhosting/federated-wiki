@@ -1,6 +1,12 @@
 {
   "title": "german surrender",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cffd9e70fc644b45",
+      "text": "the german warmachine was hard to defeat because of it's weaponry and also it's stubborn leader, Adolf Hitler"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,35 @@
         "story": []
       },
       "date": 1423732316187
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cffd9e70fc644b45"
+      },
+      "id": "cffd9e70fc644b45",
+      "type": "add",
+      "date": 1423732618848
+    },
+    {
+      "type": "edit",
+      "id": "cffd9e70fc644b45",
+      "item": {
+        "type": "paragraph",
+        "id": "cffd9e70fc644b45",
+        "text": "the german warmachine was hard to defeat because of it's weaponry"
+      },
+      "date": 1423732669099
+    },
+    {
+      "type": "edit",
+      "id": "cffd9e70fc644b45",
+      "item": {
+        "type": "paragraph",
+        "id": "cffd9e70fc644b45",
+        "text": "the german warmachine was hard to defeat because of it's weaponry and also it's stubborn leader, Adolf Hitler"
+      },
+      "date": 1423732846445
     }
   ]
 }

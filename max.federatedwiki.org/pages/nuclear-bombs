@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "73d2d1e486de84ed",
       "text": "[[creation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c343595555043802",
+      "text": "[["
     }
   ],
   "journal": [
@@ -76,6 +81,26 @@
       "type": "remove",
       "id": "aeb333f47602b50a",
       "date": 1423678955449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c343595555043802"
+      },
+      "id": "c343595555043802",
+      "type": "add",
+      "after": "73d2d1e486de84ed",
+      "date": 1423723225763
+    },
+    {
+      "type": "edit",
+      "id": "c343595555043802",
+      "item": {
+        "type": "paragraph",
+        "id": "c343595555043802",
+        "text": "[["
+      },
+      "date": 1423723250345
     }
   ]
 }

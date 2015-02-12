@@ -1,0 +1,1145 @@
+{
+  "title": "Wiki OpenShift Quickstart",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6eb03ffc98112687",
+      "text": "An easy way to start your personal wiki in the federation is to sign up for a free [https://www.openshift.com/products/pricing OpenShift PaaS] (Platform as a Service), and deploy the [https://github.com/paul90/wiki-openshift-quickstart Wiki OpenShift Quickstart on GitHub].  The [https://www.openshift.com/promotions/ebook Getting Started with OpenShift eBook] is informative.  There are two ways to deploy the SFW (Smallest Federated Wiki) technology."
+    },
+    {
+      "type": "paragraph",
+      "id": "94d0b2a5ad2eec7b",
+      "text": "(1) For a site to be labelled as wiki-$yournamespace.rhcloud.com, the [https://openshift.redhat.com/app/console/application_types/custom?cartridges[]=nodejs-0.10&initial_git_url=https%3A%2F%2Fgithub.com/paul90/wiki-openshift-quickstart.git&name=wiki OpenShift web creation] workflow fills in most of the fields for a one-button browser installation."
+    },
+    {
+      "type": "paragraph",
+      "id": "5f17137d352182d1",
+      "text": "(2) For a site to be customized as wiki.$yourdomain.com, you will have to not be intimidated by a command line terminal."
+    },
+    {
+      "type": "paragraph",
+      "id": "434f8cab927e2a0f",
+      "text": "(a) [https://help.github.com/articles/set-up-git Set up Git] on your Mac, Windows or Linux."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba37ce92efb372cd",
+      "text": "(b) [https://www.openshift.com/developers/rhc-client-tools-install Install the RHC Client Tools].  Through [https://www.openshift.com/developers/remote-access Remote Access] to Openshift, setup RHC and login."
+    },
+    {
+      "type": "html",
+      "id": "d81d305df7dd1b77",
+      "text": "(c) Following the Wiki OpenShift Quickstart [https://github.com/paul90/wiki-openshift-quickstart/blob/master/README.md readme], (i) create the node-0.10 application, (ii) add the upstream Wiki Quickstart repository and pull to your personal workstation, and (iii) push the code Openshift. "
+    },
+    {
+      "type": "paragraph",
+      "id": "75d3529b42d6a0d5",
+      "text": "(d) The instruction to \"Claim with your email\" should be deferred.  Configure your [https://www.openshift.com/blogs/custom-url-names-for-your-paas-applications-host-forwarding-and-cnames-the-openshift-way custom URL] with a CNAME."
+    },
+    {
+      "type": "paragraph",
+      "id": "1dc9e6c3ea36ada0",
+      "text": "(e) On your local workstation, edit wiki/server.js.  Change"
+    },
+    {
+      "type": "code",
+      "id": "548e2b601affaa80",
+      "text": "// Application URL - used by the Persona authentication\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;"
+    },
+    {
+      "type": "paragraph",
+      "id": "aadf9511fa6fe535",
+      "text": "to read"
+    },
+    {
+      "type": "code",
+      "id": "21d641dc2541f6ec",
+      "text": "// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.$yourdomain.com'"
+    },
+    {
+      "type": "paragraph",
+      "id": "119f8dae85b8d725",
+      "text": "There are some [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/414#issuecomment-45099144 alternative ways] to achieve the same result."
+    },
+    {
+      "type": "html",
+      "id": "dbee5ecbc5896fdb",
+      "text": "(f) In the command line terminal ...<br />\n<code>git add server.js</code><br />\n<code>git commit -m \"Hard coded URL\"<code><br />\n<code>git push</code>"
+    },
+    {
+      "type": "paragraph",
+      "id": "3ed8adceec5f89bf",
+      "text": "(g) At wiki.$yourdomain.com, \"Claim with your email\"."
+    },
+    {
+      "type": "html",
+      "id": "33bf689d6aa3fa0d",
+      "text": "If you have multiple OpenShift accounts, switch between [http://stackoverflow.com/questions/16046038/openshift-rhc-setup-using-multiple-accounts logins] with <code>rhc setup -l</code>."
+    },
+    {
+      "type": "html",
+      "id": "1f8807b0fd804afd",
+      "text": "<h3>Updates</h3>"
+    },
+    {
+      "type": "html",
+      "id": "5f8ccfdf1cf5e655",
+      "text": "<b>June 2014</b> - the build has been updated to use the custom node version code, so we can specify the version of node we want. This avoids the problems we were seeing with the standard node v0.10 build."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki OpenShift Quickstart"
+      },
+      "date": 1381499057617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee69546d077ed016"
+      },
+      "id": "ee69546d077ed016",
+      "type": "add",
+      "date": 1381499062444
+    },
+    {
+      "type": "edit",
+      "id": "ee69546d077ed016",
+      "item": {
+        "type": "paragraph",
+        "id": "ee69546d077ed016",
+        "text": "t"
+      },
+      "date": 1381640091156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b83b090d4447de85",
+        "text": ""
+      },
+      "id": "b83b090d4447de85",
+      "type": "add",
+      "after": "ee69546d077ed016",
+      "date": 1381640091684
+    },
+    {
+      "type": "remove",
+      "id": "b83b090d4447de85",
+      "date": 1381640096944
+    },
+    {
+      "type": "remove",
+      "id": "ee69546d077ed016",
+      "date": 1381640100301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6eb03ffc98112687"
+      },
+      "id": "6eb03ffc98112687",
+      "type": "add",
+      "date": 1381920368595
+    },
+    {
+      "type": "edit",
+      "id": "6eb03ffc98112687",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb03ffc98112687",
+        "text": "The Wiki OpenShift Quickstart can be found on GitHub as "
+      },
+      "date": 1381920416542
+    },
+    {
+      "type": "edit",
+      "id": "6eb03ffc98112687",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb03ffc98112687",
+        "text": "The Wiki OpenShift Quickstart can be found on GitHub as [[https://github.com/paul90/wiki-openshift-quickstart]]."
+      },
+      "date": 1381920452868
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "40a22e4656f21ea9",
+        "text": ""
+      },
+      "id": "40a22e4656f21ea9",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1381920453395
+    },
+    {
+      "type": "remove",
+      "id": "40a22e4656f21ea9",
+      "date": 1381920460918
+    },
+    {
+      "type": "edit",
+      "id": "6eb03ffc98112687",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb03ffc98112687",
+        "text": "The Wiki OpenShift Quickstart can be found in this [https://github.com/paul90/wiki-openshift-quickstart GitHub repository]."
+      },
+      "date": 1381920659764
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f795bee7ddc7a05",
+        "text": ""
+      },
+      "id": "0f795bee7ddc7a05",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1381922031650
+    },
+    {
+      "type": "remove",
+      "id": "0f795bee7ddc7a05",
+      "date": 1381922037678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c994de4be9e6c22"
+      },
+      "id": "0c994de4be9e6c22",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1381922107116
+    },
+    {
+      "type": "edit",
+      "id": "0c994de4be9e6c22",
+      "item": {
+        "type": "paragraph",
+        "id": "0c994de4be9e6c22",
+        "text": "September 2013 saw the release of the NodeJS 0.10 cartridge, so the Quickstart for there is no longer any need to use the Custom-N"
+      },
+      "date": 1381922181297
+    },
+    {
+      "type": "edit",
+      "id": "0c994de4be9e6c22",
+      "item": {
+        "type": "paragraph",
+        "id": "0c994de4be9e6c22",
+        "text": "September 2013 saw the release of the NodeJS 0.10 cartridge, so there is no-longer any need to use the Custom Node Version Quickstart, which makes this quickstart a lot simplier."
+      },
+      "date": 1381922312407
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "95cea9a1c0fb551c",
+        "text": ""
+      },
+      "id": "95cea9a1c0fb551c",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1382346285682
+    },
+    {
+      "type": "remove",
+      "id": "95cea9a1c0fb551c",
+      "date": 1382346300989
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "22692e3de5032648",
+        "text": ""
+      },
+      "id": "22692e3de5032648",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1382346323377
+    },
+    {
+      "type": "remove",
+      "id": "22692e3de5032648",
+      "date": 1382346349489
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": ""
+      },
+      "id": "d81d305df7dd1b77",
+      "type": "add",
+      "after": "6eb03ffc98112687",
+      "date": 1382347183997
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": "The current instructions cover installation from the command line, using rhc."
+      },
+      "date": 1382347559777
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "94d0b2a5ad2eec7b",
+        "text": "An alternative is to install via the web interface, "
+      },
+      "id": "94d0b2a5ad2eec7b",
+      "type": "add",
+      "after": "d81d305df7dd1b77",
+      "date": 1382347560306
+    },
+    {
+      "type": "edit",
+      "id": "94d0b2a5ad2eec7b",
+      "item": {
+        "type": "paragraph",
+        "id": "94d0b2a5ad2eec7b",
+        "text": "For those wanting to get up and running really quickly, and not wanting to install anything locally, using the OpenShift web interface is an option."
+      },
+      "date": 1382347785633
+    },
+    {
+      "type": "edit",
+      "id": "0c994de4be9e6c22",
+      "item": {
+        "type": "paragraph",
+        "id": "0c994de4be9e6c22",
+        "text": "The current quickstart is made simplier with the September 2013 release of the NodeJS 0.10 cartridge. So, we no-longer any need the Custom Node Version Quickstart as a starting point."
+      },
+      "date": 1382347916069
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": "The current instructions cover installation from the command line, see ."
+      },
+      "date": 1382348715855
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": "The current instructions cover installation from the command line, see the README on GitHub."
+      },
+      "date": 1382348852755
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": "The [https://github.com/paul90/wiki-openshift-quickstart/blob/master/README.md current instructions] cover installation from the command line."
+      },
+      "date": 1387101692609
+    },
+    {
+      "type": "remove",
+      "id": "0c994de4be9e6c22",
+      "date": 1387101839409
+    },
+    {
+      "type": "edit",
+      "id": "94d0b2a5ad2eec7b",
+      "item": {
+        "type": "paragraph",
+        "id": "94d0b2a5ad2eec7b",
+        "text": "For those wanting to get up and running really quickly, and not wanting to install anything locally, using the [https://openshift.redhat.com/app/console/application_types/custom?cartridges[]=nodejs-0.10&initial_git_url=https%3A%2F%2Fgithub.com/paul90/wiki-openshift-quickstart.git&name=wiki OpenShift web creation] workflow interface is an option."
+      },
+      "date": 1400874094838
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f8807b0fd804afd"
+      },
+      "id": "1f8807b0fd804afd",
+      "type": "add",
+      "after": "94d0b2a5ad2eec7b",
+      "date": 1403086511652
+    },
+    {
+      "type": "edit",
+      "id": "1f8807b0fd804afd",
+      "item": {
+        "type": "paragraph",
+        "id": "1f8807b0fd804afd",
+        "text": "<h2>Updates</h2>"
+      },
+      "date": 1403086526109
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5f8ccfdf1cf5e655",
+        "text": ""
+      },
+      "id": "5f8ccfdf1cf5e655",
+      "type": "add",
+      "after": "1f8807b0fd804afd",
+      "date": 1403086526114
+    },
+    {
+      "type": "edit",
+      "id": "5f8ccfdf1cf5e655",
+      "item": {
+        "type": "paragraph",
+        "id": "5f8ccfdf1cf5e655",
+        "text": "<b>June 2014</b> - the build has been updated to use the "
+      },
+      "date": 1403086570204
+    },
+    {
+      "type": "edit",
+      "id": "5f8ccfdf1cf5e655",
+      "item": {
+        "type": "paragraph",
+        "id": "5f8ccfdf1cf5e655",
+        "text": "<b>June 2014</b> - the build has been updated to use the custom node version code, so we can specify the version of node we want. This avoids the problems we were seeing with the standard node v10 build."
+      },
+      "date": 1403086690416
+    },
+    {
+      "type": "fork",
+      "site": "wiki-paul90.rhcloud.com",
+      "date": 1403637458937
+    },
+    {
+      "type": "edit",
+      "id": "6eb03ffc98112687",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb03ffc98112687",
+        "text": "An easy way to start your personal wiki in the federation is to sign up for a free [https://www.openshift.com/products/pricing OpenShift PaaS] (Platform as a Service), and deploy the [https://github.com/paul90/wiki-openshift-quickstart Wiki OpenShift Quickstart on GitHub].  The [https://www.openshift.com/promotions/ebook Getting Started with OpenShift eBook] is informative.  There are two ways to deploy the SFW (Smallest Federated Wiki) technology."
+      },
+      "date": 1403637508668
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "d81d305df7dd1b77",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "94d0b2a5ad2eec7b",
+      "date": 1403637522866
+    },
+    {
+      "type": "edit",
+      "id": "94d0b2a5ad2eec7b",
+      "item": {
+        "type": "paragraph",
+        "id": "94d0b2a5ad2eec7b",
+        "text": "(1) For a site to be labelled as wiki-$yournamespace.rhcloud.com, the [https://openshift.redhat.com/app/console/application_types/custom?cartridges[]=nodejs-0.10&initial_git_url=https%3A%2F%2Fgithub.com/paul90/wiki-openshift-quickstart.git&name=wiki OpenShift web creation] workflow fills in most of the fields for a one-button browser installation.."
+      },
+      "date": 1403637540442
+    },
+    {
+      "type": "edit",
+      "id": "94d0b2a5ad2eec7b",
+      "item": {
+        "type": "paragraph",
+        "id": "94d0b2a5ad2eec7b",
+        "text": "(1) For a site to be labelled as wiki-$yournamespace.rhcloud.com, the [https://openshift.redhat.com/app/console/application_types/custom?cartridges[]=nodejs-0.10&initial_git_url=https%3A%2F%2Fgithub.com/paul90/wiki-openshift-quickstart.git&name=wiki OpenShift web creation] workflow fills in most of the fields for a one-button browser installation."
+      },
+      "date": 1403637546693
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5f17137d352182d1",
+        "text": ""
+      },
+      "id": "5f17137d352182d1",
+      "type": "add",
+      "after": "94d0b2a5ad2eec7b",
+      "date": 1403637559647
+    },
+    {
+      "type": "edit",
+      "id": "5f17137d352182d1",
+      "item": {
+        "type": "paragraph",
+        "id": "5f17137d352182d1",
+        "text": "(2) For a site to be customized as wiki.$yourdomain.com, you will have to not be intimidated by a command line terminal."
+      },
+      "date": 1403637584720
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "434f8cab927e2a0f",
+        "text": ""
+      },
+      "id": "434f8cab927e2a0f",
+      "type": "add",
+      "after": "5f17137d352182d1",
+      "date": 1403637598646
+    },
+    {
+      "type": "edit",
+      "id": "434f8cab927e2a0f",
+      "item": {
+        "type": "paragraph",
+        "id": "434f8cab927e2a0f",
+        "text": "(a) [https://help.github.com/articles/set-up-git Set up Git] on your Mac, Windows or Linux."
+      },
+      "date": 1403637602371
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d0186bf869a69343",
+        "text": ""
+      },
+      "id": "d0186bf869a69343",
+      "type": "add",
+      "after": "434f8cab927e2a0f",
+      "date": 1403637602401
+    },
+    {
+      "type": "remove",
+      "id": "d0186bf869a69343",
+      "date": 1403637605561
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ba37ce92efb372cd",
+        "text": ""
+      },
+      "id": "ba37ce92efb372cd",
+      "type": "add",
+      "after": "434f8cab927e2a0f",
+      "date": 1403637612115
+    },
+    {
+      "type": "edit",
+      "id": "ba37ce92efb372cd",
+      "item": {
+        "type": "paragraph",
+        "id": "ba37ce92efb372cd",
+        "text": "(b) [https://www.openshift.com/developers/rhc-client-tools-install Install the RHC Client Tools].  Through [https://www.openshift.com/developers/remote-access Remote Access] to Openshift, setup RHC and login."
+      },
+      "date": 1403637619083
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "paragraph",
+        "id": "d81d305df7dd1b77",
+        "text": "(c) Following the Wiki OpenShift Quickstart [https://github.com/paul90/wiki-openshift-quickstart/blob/master/README.md readme], (i) create the node-0.10 application, (ii) add the upstream Wiki Quickstart repository and pull to your personal workstation, and (iii) push the code Openshift. "
+      },
+      "date": 1403637641863
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d08b82635f501df4",
+        "text": ""
+      },
+      "id": "d08b82635f501df4",
+      "type": "add",
+      "after": "d81d305df7dd1b77",
+      "date": 1403637641876
+    },
+    {
+      "type": "remove",
+      "id": "d08b82635f501df4",
+      "date": 1403637645476
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": ""
+      },
+      "id": "1dc9e6c3ea36ada0",
+      "type": "add",
+      "after": "d81d305df7dd1b77",
+      "date": 1403637652721
+    },
+    {
+      "type": "edit",
+      "id": "1dc9e6c3ea36ada0",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": "(e) On your local workstation, edit wiki/server.js.  Change ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;</code><br />\n... to ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.yourdomain.com'</code>"
+      },
+      "date": 1403637666386
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9189415c10e7fee2",
+        "text": ""
+      },
+      "id": "9189415c10e7fee2",
+      "type": "add",
+      "after": "1dc9e6c3ea36ada0",
+      "date": 1403637666410
+    },
+    {
+      "type": "remove",
+      "id": "9189415c10e7fee2",
+      "date": 1403637679900
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75d3529b42d6a0d5",
+        "text": ""
+      },
+      "id": "75d3529b42d6a0d5",
+      "type": "add",
+      "after": "d81d305df7dd1b77",
+      "date": 1403637745917
+    },
+    {
+      "type": "edit",
+      "id": "75d3529b42d6a0d5",
+      "item": {
+        "type": "paragraph",
+        "id": "75d3529b42d6a0d5",
+        "text": "(d) The instruction to \"Claim with your email\" should be deferred.  Configure your [https://www.openshift.com/blogs/custom-url-names-for-your-paas-applications-host-forwarding-and-cnames-the-openshift-way custom URL] with a CNAME."
+      },
+      "date": 1403637804452
+    },
+    {
+      "type": "edit",
+      "id": "1dc9e6c3ea36ada0",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": "(e) On your local workstation, edit wiki/server.js.  Change ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;</code><br />\n... to ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.$yourdomain.com'</code>"
+      },
+      "date": 1403637825158
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dbee5ecbc5896fdb",
+        "text": ""
+      },
+      "id": "dbee5ecbc5896fdb",
+      "type": "add",
+      "after": "1dc9e6c3ea36ada0",
+      "date": 1403637825191
+    },
+    {
+      "type": "edit",
+      "id": "dbee5ecbc5896fdb",
+      "item": {
+        "type": "paragraph",
+        "id": "dbee5ecbc5896fdb",
+        "text": "(f) In the command line terminal ...<br />\n<code>git add server.js</code><br />\n<code>git commit -m \"Hard coded URL\"<code><br />\n<code>git push</code>"
+      },
+      "date": 1403637839562
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3ed8adceec5f89bf",
+        "text": ""
+      },
+      "id": "3ed8adceec5f89bf",
+      "type": "add",
+      "after": "dbee5ecbc5896fdb",
+      "date": 1403637847953
+    },
+    {
+      "type": "edit",
+      "id": "3ed8adceec5f89bf",
+      "item": {
+        "type": "paragraph",
+        "id": "3ed8adceec5f89bf",
+        "text": "(g) At wiki.$yourdomain.com, \"Claim with your email\"."
+      },
+      "date": 1403637851910
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52e6154dab14ab35",
+        "text": ""
+      },
+      "id": "52e6154dab14ab35",
+      "type": "add",
+      "after": "3ed8adceec5f89bf",
+      "date": 1403637851923
+    },
+    {
+      "type": "remove",
+      "id": "52e6154dab14ab35",
+      "date": 1403637890571
+    },
+    {
+      "type": "edit",
+      "id": "1dc9e6c3ea36ada0",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": "(e) On your local workstation, edit wiki/server.js.  Change ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;</code><br />\n... to ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.$yourdomain.com'</code><br /> There are some [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/414#issuecomment-45099144 alternative ways] to achieve the same result."
+      },
+      "date": 1403637953678
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "33bf689d6aa3fa0d",
+        "text": ""
+      },
+      "id": "33bf689d6aa3fa0d",
+      "type": "add",
+      "after": "3ed8adceec5f89bf",
+      "date": 1403638008203
+    },
+    {
+      "type": "edit",
+      "id": "33bf689d6aa3fa0d",
+      "item": {
+        "type": "paragraph",
+        "id": "33bf689d6aa3fa0d",
+        "text": "If you have multiple OpenShift accounts, switch between them [http://stackoverflow.com/questions/16046038/openshift-rhc-setup-using-multiple-accounts with <code>rhc setup -l<code> login and logouts."
+      },
+      "date": 1403638064901
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "77024cc3de332a65",
+        "text": ""
+      },
+      "id": "77024cc3de332a65",
+      "type": "add",
+      "after": "33bf689d6aa3fa0d",
+      "date": 1403638064922
+    },
+    {
+      "type": "remove",
+      "id": "77024cc3de332a65",
+      "date": 1403638069083
+    },
+    {
+      "type": "edit",
+      "id": "33bf689d6aa3fa0d",
+      "item": {
+        "type": "paragraph",
+        "id": "33bf689d6aa3fa0d",
+        "text": "If you have multiple OpenShift accounts, switch between them [http://stackoverflow.com/questions/16046038/openshift-rhc-setup-using-multiple-accounts with <code>rhc setup -l</code> login and logouts."
+      },
+      "date": 1403638074201
+    },
+    {
+      "type": "edit",
+      "id": "33bf689d6aa3fa0d",
+      "item": {
+        "type": "paragraph",
+        "id": "33bf689d6aa3fa0d",
+        "text": "If you have multiple OpenShift accounts, switch between [http://stackoverflow.com/questions/16046038/openshift-rhc-setup-using-multiple-accounts logins] with <code>rhc setup -l</code>."
+      },
+      "date": 1403638115378
+    },
+    {
+      "type": "edit",
+      "id": "1f8807b0fd804afd",
+      "item": {
+        "type": "paragraph",
+        "id": "1f8807b0fd804afd",
+        "text": "<h3>Updates</h3>"
+      },
+      "date": 1403638130044
+    },
+    {
+      "type": "fork",
+      "site": "fed.coevolving.com",
+      "date": 1407347322377
+    },
+    {
+      "type": "edit",
+      "id": "5f8ccfdf1cf5e655",
+      "item": {
+        "type": "paragraph",
+        "id": "5f8ccfdf1cf5e655",
+        "text": "<b>June 2014</b> - the build has been updated to use the custom node version code, so we can specify the version of node we want. This avoids the problems we were seeing with the standard node v0.10 build."
+      },
+      "date": 1407355230422
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b41ba25a02276814"
+      },
+      "id": "b41ba25a02276814",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161125285
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "b41ba25a02276814",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "b41ba25a02276814",
+      "date": 1414161130220
+    },
+    {
+      "type": "edit",
+      "id": "b41ba25a02276814",
+      "item": {
+        "type": "paragraph",
+        "id": "b41ba25a02276814",
+        "text": "// Application URL - used by the Persona authentication\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;"
+      },
+      "date": 1414161462295
+    },
+    {
+      "type": "remove",
+      "id": "b41ba25a02276814",
+      "date": 1414161480509
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "548e2b601affaa80"
+      },
+      "id": "548e2b601affaa80",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161484295
+    },
+    {
+      "type": "edit",
+      "id": "548e2b601affaa80",
+      "item": {
+        "type": "code",
+        "id": "548e2b601affaa80",
+        "text": "// Application URL - used by the Persona authentication\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;"
+      },
+      "date": 1414161489166
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "548e2b601affaa80",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "548e2b601affaa80",
+      "date": 1414161492789
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aadf9511fa6fe535"
+      },
+      "id": "aadf9511fa6fe535",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161496971
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "548e2b601affaa80",
+        "aadf9511fa6fe535",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "aadf9511fa6fe535",
+      "date": 1414161498918
+    },
+    {
+      "type": "edit",
+      "id": "aadf9511fa6fe535",
+      "item": {
+        "type": "paragraph",
+        "id": "aadf9511fa6fe535",
+        "text": "to read"
+      },
+      "date": 1414161505781
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fd770a869107b32b",
+        "text": ""
+      },
+      "id": "fd770a869107b32b",
+      "type": "add",
+      "after": "aadf9511fa6fe535",
+      "date": 1414161505789
+    },
+    {
+      "type": "remove",
+      "id": "fd770a869107b32b",
+      "date": 1414161508004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "373fd39720fd101e"
+      },
+      "id": "373fd39720fd101e",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161509647
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "548e2b601affaa80",
+        "aadf9511fa6fe535",
+        "373fd39720fd101e",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "373fd39720fd101e",
+      "date": 1414161511622
+    },
+    {
+      "type": "edit",
+      "id": "1dc9e6c3ea36ada0",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": "(e) On your local workstation, edit wiki/server.js.  Change ...<br />\n<code>// Application URL - used by the Persona authentication <br />\n        self.url = \"http://\" + process.env.OPENSHIFT_APP_DNS;</code><br />\n... to ...<br />\n<br /> There are some [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/414#issuecomment-45099144 alternative ways] to achieve the same result."
+      },
+      "date": 1414161535920
+    },
+    {
+      "type": "remove",
+      "id": "373fd39720fd101e",
+      "date": 1414161543698
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21d641dc2541f6ec"
+      },
+      "id": "21d641dc2541f6ec",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161545725
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "548e2b601affaa80",
+        "aadf9511fa6fe535",
+        "21d641dc2541f6ec",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "21d641dc2541f6ec",
+      "date": 1414161547947
+    },
+    {
+      "type": "edit",
+      "id": "21d641dc2541f6ec",
+      "item": {
+        "type": "code",
+        "id": "21d641dc2541f6ec",
+        "text": "<code>// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.$yourdomain.com'</code>"
+      },
+      "date": 1414161553137
+    },
+    {
+      "type": "edit",
+      "id": "1dc9e6c3ea36ada0",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc9e6c3ea36ada0",
+        "text": "(e) On your local workstation, edit wiki/server.js.  Change"
+      },
+      "date": 1414161582532
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "119f8dae85b8d725"
+      },
+      "id": "119f8dae85b8d725",
+      "type": "add",
+      "after": "5f8ccfdf1cf5e655",
+      "date": 1414161587677
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb03ffc98112687",
+        "94d0b2a5ad2eec7b",
+        "5f17137d352182d1",
+        "434f8cab927e2a0f",
+        "ba37ce92efb372cd",
+        "d81d305df7dd1b77",
+        "75d3529b42d6a0d5",
+        "1dc9e6c3ea36ada0",
+        "548e2b601affaa80",
+        "aadf9511fa6fe535",
+        "21d641dc2541f6ec",
+        "119f8dae85b8d725",
+        "dbee5ecbc5896fdb",
+        "3ed8adceec5f89bf",
+        "33bf689d6aa3fa0d",
+        "1f8807b0fd804afd",
+        "5f8ccfdf1cf5e655"
+      ],
+      "id": "119f8dae85b8d725",
+      "date": 1414161590370
+    },
+    {
+      "type": "edit",
+      "id": "119f8dae85b8d725",
+      "item": {
+        "type": "paragraph",
+        "id": "119f8dae85b8d725",
+        "text": "There are some [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/414#issuecomment-45099144 alternative ways] to achieve the same result."
+      },
+      "date": 1414161597930
+    },
+    {
+      "type": "edit",
+      "id": "21d641dc2541f6ec",
+      "item": {
+        "type": "code",
+        "id": "21d641dc2541f6ec",
+        "text": "// Application URL - used by the Persona authentication <br />\n        self.url = 'http://wiki.$yourdomain.com'"
+      },
+      "date": 1414161623026
+    },
+    {
+      "type": "edit",
+      "id": "5f8ccfdf1cf5e655",
+      "item": {
+        "type": "html",
+        "id": "5f8ccfdf1cf5e655",
+        "text": "<b>June 2014</b> - the build has been updated to use the custom node version code, so we can specify the version of node we want. This avoids the problems we were seeing with the standard node v0.10 build."
+      },
+      "date": 1421775316133
+    },
+    {
+      "type": "edit",
+      "id": "1f8807b0fd804afd",
+      "item": {
+        "type": "html",
+        "id": "1f8807b0fd804afd",
+        "text": "<h3>Updates</h3>"
+      },
+      "date": 1421775318009
+    },
+    {
+      "type": "edit",
+      "id": "33bf689d6aa3fa0d",
+      "item": {
+        "type": "html",
+        "id": "33bf689d6aa3fa0d",
+        "text": "If you have multiple OpenShift accounts, switch between [http://stackoverflow.com/questions/16046038/openshift-rhc-setup-using-multiple-accounts logins] with <code>rhc setup -l</code>."
+      },
+      "date": 1421775320687
+    },
+    {
+      "type": "edit",
+      "id": "dbee5ecbc5896fdb",
+      "item": {
+        "type": "html",
+        "id": "dbee5ecbc5896fdb",
+        "text": "(f) In the command line terminal ...<br />\n<code>git add server.js</code><br />\n<code>git commit -m \"Hard coded URL\"<code><br />\n<code>git push</code>"
+      },
+      "date": 1421775323366
+    },
+    {
+      "type": "edit",
+      "id": "d81d305df7dd1b77",
+      "item": {
+        "type": "html",
+        "id": "d81d305df7dd1b77",
+        "text": "(c) Following the Wiki OpenShift Quickstart [https://github.com/paul90/wiki-openshift-quickstart/blob/master/README.md readme], (i) create the node-0.10 application, (ii) add the upstream Wiki Quickstart repository and pull to your personal workstation, and (iii) push the code Openshift. "
+      },
+      "date": 1421775333265
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.rodwell.me",
+      "date": 1423704075207
+    }
+  ]
+}

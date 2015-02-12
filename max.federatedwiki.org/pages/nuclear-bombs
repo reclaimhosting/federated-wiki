@@ -9,7 +9,11 @@
     {
       "type": "paragraph",
       "id": "c343595555043802",
-      "text": "[["
+      "text": "[[debugging and development]]"
+    },
+    {
+      "type": "factory",
+      "id": "991a4143a0268076"
     }
   ],
   "journal": [
@@ -101,6 +105,26 @@
         "text": "[["
       },
       "date": 1423723250345
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "991a4143a0268076"
+      },
+      "id": "991a4143a0268076",
+      "type": "add",
+      "after": "c343595555043802",
+      "date": 1423723389290
+    },
+    {
+      "type": "edit",
+      "id": "c343595555043802",
+      "item": {
+        "type": "paragraph",
+        "id": "c343595555043802",
+        "text": "[[debugging and development]]"
+      },
+      "date": 1423723426292
     }
   ]
 }

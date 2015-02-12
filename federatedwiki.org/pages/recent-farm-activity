@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "b85d35e1e6b98667"
+      "id": "8e41d1860422c81d"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f68043054cec46ae"
+      "id": "e82f8cf66e25eba4"
+    },
+    {
+      "date": 1423704001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "725dc3158917a7fc"
     },
     {
       "date": 1423703960000,
@@ -18,16 +27,7 @@
       "title": "Wiki OpenShift Quickstart",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 52 pages.",
       "type": "reference",
-      "id": "a16642188c21d877"
-    },
-    {
-      "date": 1423703401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "0476d7cc3f0cd099"
+      "id": "d36bb32c9d860810"
     },
     {
       "date": 1423694390000,
@@ -36,7 +36,7 @@
       "title": "February",
       "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "6595409d07c546eb"
+      "id": "bde2b71b5c06fa41"
     },
     {
       "date": 1423679428000,
@@ -45,7 +45,7 @@
       "title": "creation",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 73 pages.",
       "type": "reference",
-      "id": "6938058988b7c441"
+      "id": "191007556e40979a"
     },
     {
       "date": 1423539083000,
@@ -54,41 +54,55 @@
       "title": "Dev Environment",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "b0e094883488a413"
+      "id": "5050371108541f3c"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "81f88e2c165698c4",
+      "id": "14cce4eeca604b8e",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "b85d35e1e6b98667",
+      "id": "8e41d1860422c81d",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "b85d35e1e6b98667"
+        "id": "8e41d1860422c81d"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "f68043054cec46ae",
+      "id": "e82f8cf66e25eba4",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f68043054cec46ae"
+        "id": "e82f8cf66e25eba4"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "a16642188c21d877",
+      "id": "725dc3158917a7fc",
+      "item": {
+        "date": 1423704001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "725dc3158917a7fc"
+      },
+      "date": 1423704601000
+    },
+    {
+      "type": "add",
+      "id": "d36bb32c9d860810",
       "item": {
         "date": 1423703960000,
         "site": "jmahoney.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "Wiki OpenShift Quickstart",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 52 pages.",
         "type": "reference",
-        "id": "a16642188c21d877"
+        "id": "d36bb32c9d860810"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "0476d7cc3f0cd099",
-      "item": {
-        "date": 1423703401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "0476d7cc3f0cd099"
-      },
-      "date": 1423704001000
-    },
-    {
-      "type": "add",
-      "id": "6595409d07c546eb",
+      "id": "bde2b71b5c06fa41",
       "item": {
         "date": 1423694390000,
         "site": "fatcarrot.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "February",
         "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "6595409d07c546eb"
+        "id": "bde2b71b5c06fa41"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "6938058988b7c441",
+      "id": "191007556e40979a",
       "item": {
         "date": 1423679428000,
         "site": "max.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "creation",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 73 pages.",
         "type": "reference",
-        "id": "6938058988b7c441"
+        "id": "191007556e40979a"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     },
     {
       "type": "add",
-      "id": "b0e094883488a413",
+      "id": "5050371108541f3c",
       "item": {
         "date": 1423539083000,
         "site": "fedwiki.djon.es",
@@ -152,9 +152,9 @@
         "title": "Dev Environment",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "b0e094883488a413"
+        "id": "5050371108541f3c"
       },
-      "date": 1423704001000
+      "date": 1423704601000
     }
   ]
 }

@@ -7,8 +7,9 @@
       "text": "[[nuclear bombs]]"
     },
     {
-      "type": "factory",
-      "id": "115e691ac26ff465"
+      "type": "paragraph",
+      "id": "7008d4e4cd437d45",
+      "text": "[[german surrender]]"
     }
   ],
   "journal": [
@@ -82,6 +83,47 @@
       "type": "add",
       "after": "0b187abca83777cb",
       "date": 1423678595807
+    },
+    {
+      "type": "remove",
+      "id": "115e691ac26ff465",
+      "date": 1423731740446
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7008d4e4cd437d45"
+      },
+      "id": "7008d4e4cd437d45",
+      "type": "add",
+      "after": "0b187abca83777cb",
+      "date": 1423732288513
+    },
+    {
+      "type": "edit",
+      "id": "7008d4e4cd437d45",
+      "item": {
+        "type": "paragraph",
+        "id": "7008d4e4cd437d45",
+        "text": "[[german surrender]]"
+      },
+      "date": 1423732310771
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb1514a85cef8919",
+        "text": ""
+      },
+      "id": "eb1514a85cef8919",
+      "type": "add",
+      "after": "7008d4e4cd437d45",
+      "date": 1423732310848
+    },
+    {
+      "type": "remove",
+      "id": "eb1514a85cef8919",
+      "date": 1423732316034
     }
   ]
 }

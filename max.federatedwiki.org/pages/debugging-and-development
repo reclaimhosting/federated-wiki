@@ -1,6 +1,12 @@
 {
   "title": "debugging and development",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "02387b49be17a88a",
+      "text": "the nuclear bomb was developed in secret s that the enemy would not biuld their own"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -23,6 +29,25 @@
       "type": "remove",
       "id": "6a11a52591ac1764",
       "date": 1423723744300
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02387b49be17a88a"
+      },
+      "id": "02387b49be17a88a",
+      "type": "add",
+      "date": 1423724380134
+    },
+    {
+      "type": "edit",
+      "id": "02387b49be17a88a",
+      "item": {
+        "type": "paragraph",
+        "id": "02387b49be17a88a",
+        "text": "the nuclear bomb was developed in secret s that the enemy would not biuld their own"
+      },
+      "date": 1423724463164
     }
   ]
 }

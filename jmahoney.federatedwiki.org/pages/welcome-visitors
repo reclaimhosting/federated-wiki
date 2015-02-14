@@ -14,17 +14,7 @@
     {
       "type": "paragraph",
       "id": "91f5c89898adef2d",
-      "text": "Pages where I do and share:"
-    },
-    {
-      "type": "paragraph",
-      "id": "9063d84df58d8e8e",
-      "text": "[[Notes]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "38087616c038caf6",
-      "text": "[[Reading List]]"
+      "text": "Here are some things I keep notes on: [[Notes]]"
     },
     {
       "type": "paragraph",
@@ -2193,6 +2183,52 @@
         "text": "[[Reading List]]"
       },
       "date": 1423890271174
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b095799c5c9dbbdf",
+        "text": "[[Parks]]"
+      },
+      "after": "9063d84df58d8e8e",
+      "id": "b095799c5c9dbbdf",
+      "date": 1423893925351
+    },
+    {
+      "type": "edit",
+      "id": "91f5c89898adef2d",
+      "item": {
+        "type": "paragraph",
+        "id": "91f5c89898adef2d",
+        "text": "Here are some things I keep notes on:"
+      },
+      "date": 1423894112148
+    },
+    {
+      "type": "remove",
+      "id": "9063d84df58d8e8e",
+      "date": 1423894115415
+    },
+    {
+      "type": "edit",
+      "id": "91f5c89898adef2d",
+      "item": {
+        "type": "paragraph",
+        "id": "91f5c89898adef2d",
+        "text": "Here are some things I keep notes on: [[Notes]]"
+      },
+      "date": 1423894116967
+    },
+    {
+      "type": "remove",
+      "id": "b095799c5c9dbbdf",
+      "date": 1423894121396
+    },
+    {
+      "type": "remove",
+      "id": "38087616c038caf6",
+      "date": 1423894128238
     }
   ]
 }

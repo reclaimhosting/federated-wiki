@@ -3,43 +3,28 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "b095799c5c9dbbdf",
-      "text": "[[Parks]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "e1ff074beb195ad4",
-      "text": "[[Recording]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "f5fcd0a6385d4bf1",
-      "text": "[[My Own Server]] (Things I'd Do)"
-    },
-    {
-      "type": "paragraph",
       "id": "d52776605d5e2815",
       "text": "[[Intro To FedWiki]]"
     },
     {
       "type": "paragraph",
-      "id": "82f48ee31a4f8c45",
-      "text": "[[Federated Wiki Notes]]"
+      "id": "be0c344787d69f2a",
+      "text": "[[Parks]]"
     },
     {
       "type": "paragraph",
-      "id": "62397a184e9fe117",
+      "id": "67a89e32413dcd4f",
+      "text": "[[Quotes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e7c3a6ea3f7963cc",
       "text": "[[Reading List]]"
     },
     {
       "type": "paragraph",
-      "id": "85a1ac823b0b2a63",
-      "text": "[[Music]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "6da03915fc5f10b7",
-      "text": "[[Pharr's Homeric Greek]]"
+      "id": "e1ff074beb195ad4",
+      "text": "[[Recording]]"
     },
     {
       "type": "paragraph",
@@ -58,18 +43,33 @@
     },
     {
       "type": "paragraph",
-      "id": "283648129c0f8f8d",
-      "text": "[[My Computers]]"
-    },
-    {
-      "type": "paragraph",
       "id": "2c78f818d8d3525d",
       "text": "[[Bookmarks]]"
     },
     {
       "type": "paragraph",
-      "id": "67a89e32413dcd4f",
-      "text": "[[Quotes]]"
+      "id": "82f48ee31a4f8c45",
+      "text": "[[Federated Wiki Notes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "85a1ac823b0b2a63",
+      "text": "[[Music]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "283648129c0f8f8d",
+      "text": "[[My Computers]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f5fcd0a6385d4bf1",
+      "text": "[[My Own Server]] (Things I'd Do)"
+    },
+    {
+      "type": "paragraph",
+      "id": "6da03915fc5f10b7",
+      "text": "[[Pharr's Homeric Greek]]"
     },
     {
       "type": "pagefold",
@@ -1148,6 +1148,295 @@
         "text": "[[Pharr's Homeric Greek]]"
       },
       "date": 1423426571022
+    },
+    {
+      "type": "remove",
+      "id": "b095799c5c9dbbdf",
+      "date": 1423893925289
+    },
+    {
+      "type": "remove",
+      "id": "62397a184e9fe117",
+      "date": 1423893941517
+    },
+    {
+      "type": "move",
+      "order": [
+        "e1ff074beb195ad4",
+        "d52776605d5e2815",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "6da03915fc5f10b7",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "2c78f818d8d3525d",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "f5fcd0a6385d4bf1",
+      "date": 1423894148289
+    },
+    {
+      "type": "move",
+      "order": [
+        "e1ff074beb195ad4",
+        "d52776605d5e2815",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "6da03915fc5f10b7",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "2c78f818d8d3525d",
+      "date": 1423894153946
+    },
+    {
+      "type": "move",
+      "order": [
+        "e1ff074beb195ad4",
+        "d52776605d5e2815",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "6da03915fc5f10b7",
+      "date": 1423894174706
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e7c3a6ea3f7963cc",
+        "text": ""
+      },
+      "id": "e7c3a6ea3f7963cc",
+      "type": "add",
+      "after": "e1ff074beb195ad4",
+      "date": 1423894191159
+    },
+    {
+      "type": "edit",
+      "id": "e7c3a6ea3f7963cc",
+      "item": {
+        "type": "paragraph",
+        "id": "e7c3a6ea3f7963cc",
+        "text": "[[Reading List]]"
+      },
+      "date": 1423894196527
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "be0c344787d69f2a",
+        "text": ""
+      },
+      "id": "be0c344787d69f2a",
+      "type": "add",
+      "after": "e7c3a6ea3f7963cc",
+      "date": 1423894196616
+    },
+    {
+      "type": "edit",
+      "id": "be0c344787d69f2a",
+      "item": {
+        "type": "paragraph",
+        "id": "be0c344787d69f2a",
+        "text": "[[Parks]]"
+      },
+      "date": 1423894201774
+    },
+    {
+      "type": "move",
+      "order": [
+        "be0c344787d69f2a",
+        "e1ff074beb195ad4",
+        "e7c3a6ea3f7963cc",
+        "d52776605d5e2815",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "be0c344787d69f2a",
+      "date": 1423894206357
+    },
+    {
+      "type": "move",
+      "order": [
+        "be0c344787d69f2a",
+        "e7c3a6ea3f7963cc",
+        "e1ff074beb195ad4",
+        "d52776605d5e2815",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "e7c3a6ea3f7963cc",
+      "date": 1423894233680
+    },
+    {
+      "type": "move",
+      "order": [
+        "d52776605d5e2815",
+        "be0c344787d69f2a",
+        "e7c3a6ea3f7963cc",
+        "e1ff074beb195ad4",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "d52776605d5e2815",
+      "date": 1423894237860
+    },
+    {
+      "type": "move",
+      "order": [
+        "d52776605d5e2815",
+        "be0c344787d69f2a",
+        "e7c3a6ea3f7963cc",
+        "e1ff074beb195ad4",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "82f48ee31a4f8c45",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "67a89e32413dcd4f",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "82f48ee31a4f8c45",
+      "date": 1423894257660
+    },
+    {
+      "type": "move",
+      "order": [
+        "d52776605d5e2815",
+        "be0c344787d69f2a",
+        "67a89e32413dcd4f",
+        "e7c3a6ea3f7963cc",
+        "e1ff074beb195ad4",
+        "85a1ac823b0b2a63",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "82f48ee31a4f8c45",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "67a89e32413dcd4f",
+      "date": 1423894297358
+    },
+    {
+      "type": "move",
+      "order": [
+        "d52776605d5e2815",
+        "be0c344787d69f2a",
+        "67a89e32413dcd4f",
+        "e7c3a6ea3f7963cc",
+        "e1ff074beb195ad4",
+        "33f65685d4bb3f2d",
+        "f2accc48d18c4f9f",
+        "1a38cecf0e08190d",
+        "2c78f818d8d3525d",
+        "82f48ee31a4f8c45",
+        "85a1ac823b0b2a63",
+        "283648129c0f8f8d",
+        "f5fcd0a6385d4bf1",
+        "6da03915fc5f10b7",
+        "a59bb89355bdbe03",
+        "6fbc316c34a043ce",
+        "4dda0b8a0a91b4aa",
+        "f8c34b636bc2034c",
+        "cf8416712966ed0b",
+        "f84c5d633628edec"
+      ],
+      "id": "85a1ac823b0b2a63",
+      "date": 1423894312924
     }
   ]
 }

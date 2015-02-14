@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "cdb3c1968f60115c"
+      "id": "6565b9de6e143bb7"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f1c57204ed7377b2"
+      "id": "afdb092218f498ee"
     },
     {
-      "date": 1423889401000,
+      "date": 1423890591000,
+      "site": "jmahoney.federatedwiki.org",
+      "slug": "reading-list",
+      "title": "Reading List",
+      "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 53 pages.",
+      "type": "reference",
+      "id": "730761516de125bb"
+    },
+    {
+      "date": 1423890001000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "c808864b258e5646"
+      "id": "80656e2a4854ca6d"
     },
     {
       "date": 1423734251000,
@@ -27,16 +36,7 @@
       "title": "german surrender",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
       "type": "reference",
-      "id": "ca093065fa6c7e5b"
-    },
-    {
-      "date": 1423703960000,
-      "site": "jmahoney.federatedwiki.org",
-      "slug": "wiki-openshift-quickstart",
-      "title": "Wiki OpenShift Quickstart",
-      "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 52 pages.",
-      "type": "reference",
-      "id": "e7f53ae2d521936d"
+      "id": "7fc5da65894d2827"
     },
     {
       "date": 1423694390000,
@@ -45,7 +45,7 @@
       "title": "February",
       "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "ac656f0e358a60a8"
+      "id": "cf1f09e14765a886"
     },
     {
       "date": 1423539083000,
@@ -54,55 +54,69 @@
       "title": "Dev Environment",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
       "type": "reference",
-      "id": "5f87ceb27cd68bdb"
+      "id": "6a7a4a9fb0ce4541"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "30c9db3f2ac08b22",
+      "id": "3ad28798ba164eca",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "cdb3c1968f60115c",
+      "id": "6565b9de6e143bb7",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "cdb3c1968f60115c"
+        "id": "6565b9de6e143bb7"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "f1c57204ed7377b2",
+      "id": "afdb092218f498ee",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f1c57204ed7377b2"
+        "id": "afdb092218f498ee"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "c808864b258e5646",
+      "id": "730761516de125bb",
       "item": {
-        "date": 1423889401000,
+        "date": 1423890591000,
+        "site": "jmahoney.federatedwiki.org",
+        "slug": "reading-list",
+        "title": "Reading List",
+        "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 53 pages.",
+        "type": "reference",
+        "id": "730761516de125bb"
+      },
+      "date": 1423890601000
+    },
+    {
+      "type": "add",
+      "id": "80656e2a4854ca6d",
+      "item": {
+        "date": 1423890001000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "c808864b258e5646"
+        "id": "80656e2a4854ca6d"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "ca093065fa6c7e5b",
+      "id": "7fc5da65894d2827",
       "item": {
         "date": 1423734251000,
         "site": "max.federatedwiki.org",
@@ -110,27 +124,13 @@
         "title": "german surrender",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
         "type": "reference",
-        "id": "ca093065fa6c7e5b"
+        "id": "7fc5da65894d2827"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "e7f53ae2d521936d",
-      "item": {
-        "date": 1423703960000,
-        "site": "jmahoney.federatedwiki.org",
-        "slug": "wiki-openshift-quickstart",
-        "title": "Wiki OpenShift Quickstart",
-        "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 52 pages.",
-        "type": "reference",
-        "id": "e7f53ae2d521936d"
-      },
-      "date": 1423890001000
-    },
-    {
-      "type": "add",
-      "id": "ac656f0e358a60a8",
+      "id": "cf1f09e14765a886",
       "item": {
         "date": 1423694390000,
         "site": "fatcarrot.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "February",
         "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "ac656f0e358a60a8"
+        "id": "cf1f09e14765a886"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     },
     {
       "type": "add",
-      "id": "5f87ceb27cd68bdb",
+      "id": "6a7a4a9fb0ce4541",
       "item": {
         "date": 1423539083000,
         "site": "fedwiki.djon.es",
@@ -152,9 +152,9 @@
         "title": "Dev Environment",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 77 pages.",
         "type": "reference",
-        "id": "5f87ceb27cd68bdb"
+        "id": "6a7a4a9fb0ce4541"
       },
-      "date": 1423890001000
+      "date": 1423890601000
     }
   ]
 }

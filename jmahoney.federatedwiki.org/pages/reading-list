@@ -1,0 +1,78 @@
+{
+  "title": "Reading List",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "a9c277f8ea076f1c",
+      "text": "Currently Reading"
+    },
+    {
+      "type": "pagefold",
+      "id": "8f0531d5b66748f9",
+      "text": "To Be Read"
+    },
+    {
+      "type": "factory",
+      "id": "a7c4442c42d70c5e"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Reading List",
+        "story": []
+      },
+      "date": 1423890275076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a9c277f8ea076f1c"
+      },
+      "id": "a9c277f8ea076f1c",
+      "type": "add",
+      "date": 1423890278953
+    },
+    {
+      "type": "edit",
+      "id": "a9c277f8ea076f1c",
+      "item": {
+        "type": "pagefold",
+        "id": "a9c277f8ea076f1c",
+        "text": "Currently Reading"
+      },
+      "date": 1423890286340
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f0531d5b66748f9"
+      },
+      "id": "8f0531d5b66748f9",
+      "type": "add",
+      "after": "a9c277f8ea076f1c",
+      "date": 1423890699310
+    },
+    {
+      "type": "edit",
+      "id": "8f0531d5b66748f9",
+      "item": {
+        "type": "pagefold",
+        "id": "8f0531d5b66748f9",
+        "text": "To Be Read"
+      },
+      "date": 1423890706690
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7c4442c42d70c5e"
+      },
+      "id": "a7c4442c42d70c5e",
+      "type": "add",
+      "after": "8f0531d5b66748f9",
+      "date": 1423890708856
+    }
+  ]
+}

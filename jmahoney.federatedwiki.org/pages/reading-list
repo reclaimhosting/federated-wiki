@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "a7c4442c42d70c5e",
-      "text": "Spikermann, Erik: [[Stop Stealing Sheep & find out how type works]], Third Edition"
+      "text": "Spiekermann, Erik: [[Stop Stealing Sheep & find out how type works]], Third Edition"
     },
     {
       "type": "paragraph",
@@ -35,6 +35,16 @@
       "type": "paragraph",
       "id": "d0e29f51d1e2bd54",
       "text": "Homer: [[The Iliad]], tr. Lattimore, Richmond"
+    },
+    {
+      "type": "paragraph",
+      "id": "711122c7fefce1f1",
+      "text": "Tweedy, Jeff: [[Adult Head]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "39a3592545b46397",
+      "text": "Samson, John K.: [[]]"
     }
   ],
   "journal": [
@@ -291,6 +301,58 @@
         "text": "Homer: [[The Iliad]], tr. Lattimore, Richmond"
       },
       "date": 1423891007010
+    },
+    {
+      "type": "edit",
+      "id": "a7c4442c42d70c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "a7c4442c42d70c5e",
+        "text": "Spiekermann, Erik: [[Stop Stealing Sheep & find out how type works]], Third Edition"
+      },
+      "date": 1423894466991
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "711122c7fefce1f1",
+        "text": ""
+      },
+      "id": "711122c7fefce1f1",
+      "type": "add",
+      "after": "d0e29f51d1e2bd54",
+      "date": 1423894846327
+    },
+    {
+      "type": "edit",
+      "id": "711122c7fefce1f1",
+      "item": {
+        "type": "paragraph",
+        "id": "711122c7fefce1f1",
+        "text": "Tweedy, Jeff: [[Adult Head]]"
+      },
+      "date": 1423894856040
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "39a3592545b46397",
+        "text": ""
+      },
+      "id": "39a3592545b46397",
+      "type": "add",
+      "after": "711122c7fefce1f1",
+      "date": 1423894859356
+    },
+    {
+      "type": "edit",
+      "id": "39a3592545b46397",
+      "item": {
+        "type": "paragraph",
+        "id": "39a3592545b46397",
+        "text": "Samson, John K.: [[]]"
+      },
+      "date": 1423894867911
     }
   ]
 }

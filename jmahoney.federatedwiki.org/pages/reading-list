@@ -7,13 +7,34 @@
       "text": "Currently Reading"
     },
     {
+      "type": "paragraph",
+      "id": "08ab1b0b5501c4b9",
+      "text": "Berry, Wendell: [[Terrapin And Other Poems]], Illustrated By Tom Pohrt"
+    },
+    {
+      "type": "paragraph",
+      "id": "d4e9f9f02f28d99a",
+      "text": "Giussani, Luigi: [[Why The Church?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a7c4442c42d70c5e",
+      "text": "Spikermann, Erik: [[Stop Stealing Sheep & find out how type works]], Third Edition"
+    },
+    {
+      "type": "paragraph",
+      "id": "8dcb5bcaf4d3bfce",
+      "text": "Thorne, Kip: [[The Science Of Interstellar]]"
+    },
+    {
       "type": "pagefold",
       "id": "8f0531d5b66748f9",
       "text": "To Be Read"
     },
     {
-      "type": "factory",
-      "id": "a7c4442c42d70c5e"
+      "type": "paragraph",
+      "id": "d0e29f51d1e2bd54",
+      "text": "Homer: [[The Iliad]], tr. Lattimore, Richmond"
     }
   ],
   "journal": [
@@ -73,6 +94,203 @@
       "type": "add",
       "after": "8f0531d5b66748f9",
       "date": 1423890708856
+    },
+    {
+      "type": "edit",
+      "id": "a7c4442c42d70c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "a7c4442c42d70c5e",
+        "text": "Spikermann, Erik: "
+      },
+      "date": 1423890749120
+    },
+    {
+      "type": "edit",
+      "id": "a7c4442c42d70c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "a7c4442c42d70c5e",
+        "text": "Spikermann, Erik: Stop Stealing Sheep & find out how type works, Third Edition"
+      },
+      "date": 1423890772688
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9c277f8ea076f1c",
+        "a7c4442c42d70c5e",
+        "8f0531d5b66748f9"
+      ],
+      "id": "a7c4442c42d70c5e",
+      "date": 1423890775666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dcb5bcaf4d3bfce"
+      },
+      "id": "8dcb5bcaf4d3bfce",
+      "type": "add",
+      "after": "8f0531d5b66748f9",
+      "date": 1423890777608
+    },
+    {
+      "type": "edit",
+      "id": "8dcb5bcaf4d3bfce",
+      "item": {
+        "type": "paragraph",
+        "id": "8dcb5bcaf4d3bfce",
+        "text": "Thorne, Kip: The Science Of Interstellar"
+      },
+      "date": 1423890805845
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9c277f8ea076f1c",
+        "a7c4442c42d70c5e",
+        "8dcb5bcaf4d3bfce",
+        "8f0531d5b66748f9"
+      ],
+      "id": "8dcb5bcaf4d3bfce",
+      "date": 1423890808148
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4e9f9f02f28d99a"
+      },
+      "id": "d4e9f9f02f28d99a",
+      "type": "add",
+      "after": "8f0531d5b66748f9",
+      "date": 1423890809521
+    },
+    {
+      "type": "edit",
+      "id": "d4e9f9f02f28d99a",
+      "item": {
+        "type": "paragraph",
+        "id": "d4e9f9f02f28d99a",
+        "text": "Giussani, Luigi: Why The Church?"
+      },
+      "date": 1423890821856
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9c277f8ea076f1c",
+        "d4e9f9f02f28d99a",
+        "a7c4442c42d70c5e",
+        "8dcb5bcaf4d3bfce",
+        "8f0531d5b66748f9"
+      ],
+      "id": "d4e9f9f02f28d99a",
+      "date": 1423890825159
+    },
+    {
+      "type": "edit",
+      "id": "d4e9f9f02f28d99a",
+      "item": {
+        "type": "paragraph",
+        "id": "d4e9f9f02f28d99a",
+        "text": "[[Giussani, Luigi: Why The Church?]]"
+      },
+      "date": 1423890833952
+    },
+    {
+      "type": "edit",
+      "id": "d4e9f9f02f28d99a",
+      "item": {
+        "type": "paragraph",
+        "id": "d4e9f9f02f28d99a",
+        "text": "Giussani, Luigi: [[Why The Church?]]"
+      },
+      "date": 1423890852812
+    },
+    {
+      "type": "edit",
+      "id": "a7c4442c42d70c5e",
+      "item": {
+        "type": "paragraph",
+        "id": "a7c4442c42d70c5e",
+        "text": "Spikermann, Erik: [[Stop Stealing Sheep & find out how type works]], Third Edition"
+      },
+      "date": 1423890863552
+    },
+    {
+      "type": "edit",
+      "id": "8dcb5bcaf4d3bfce",
+      "item": {
+        "type": "paragraph",
+        "id": "8dcb5bcaf4d3bfce",
+        "text": "Thorne, Kip: [[The Science Of Interstellar]]"
+      },
+      "date": 1423890874925
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0e29f51d1e2bd54"
+      },
+      "id": "d0e29f51d1e2bd54",
+      "type": "add",
+      "after": "8f0531d5b66748f9",
+      "date": 1423890879229
+    },
+    {
+      "type": "edit",
+      "id": "d0e29f51d1e2bd54",
+      "item": {
+        "type": "paragraph",
+        "id": "d0e29f51d1e2bd54",
+        "text": "Homer: The Iliad, tr. Lattimore, Richmond"
+      },
+      "date": 1423890900157
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08ab1b0b5501c4b9"
+      },
+      "id": "08ab1b0b5501c4b9",
+      "type": "add",
+      "after": "d0e29f51d1e2bd54",
+      "date": 1423890921562
+    },
+    {
+      "type": "edit",
+      "id": "08ab1b0b5501c4b9",
+      "item": {
+        "type": "paragraph",
+        "id": "08ab1b0b5501c4b9",
+        "text": "Berry, Wendell: [[Terrapin And Other Poems]], Illustrated By Tom Pohrt"
+      },
+      "date": 1423890976662
+    },
+    {
+      "type": "move",
+      "order": [
+        "a9c277f8ea076f1c",
+        "08ab1b0b5501c4b9",
+        "d4e9f9f02f28d99a",
+        "a7c4442c42d70c5e",
+        "8dcb5bcaf4d3bfce",
+        "8f0531d5b66748f9",
+        "d0e29f51d1e2bd54"
+      ],
+      "id": "08ab1b0b5501c4b9",
+      "date": 1423890980113
+    },
+    {
+      "type": "edit",
+      "id": "d0e29f51d1e2bd54",
+      "item": {
+        "type": "paragraph",
+        "id": "d0e29f51d1e2bd54",
+        "text": "Homer: [[The Iliad]], tr. Lattimore, Richmond"
+      },
+      "date": 1423891007010
     }
   ]
 }

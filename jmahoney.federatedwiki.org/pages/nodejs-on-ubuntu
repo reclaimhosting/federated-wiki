@@ -3,8 +3,13 @@
   "story": [
     {
       "type": "paragraph",
-      "id": "b2ff2abb14c3738c",
-      "text": "[http://saptarshichakraborty.me/blog/technology/installing-node-js-in-ubuntu-14-04/]"
+      "id": "b302dc8d080a7ecf",
+      "text": "[https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#debian-and-ubuntu-based-linux-distributions]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ba11f4fd9dab959c",
+      "text": "[https://deb.nodesource.com/setup]"
     }
   ],
   "journal": [
@@ -34,6 +39,52 @@
         "text": "[http://saptarshichakraborty.me/blog/technology/installing-node-js-in-ubuntu-14-04/]"
       },
       "date": 1423962259955
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b302dc8d080a7ecf"
+      },
+      "id": "b302dc8d080a7ecf",
+      "type": "add",
+      "after": "b2ff2abb14c3738c",
+      "date": 1423971952148
+    },
+    {
+      "type": "edit",
+      "id": "b302dc8d080a7ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "b302dc8d080a7ecf",
+        "text": "[https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#debian-and-ubuntu-based-linux-distributions]"
+      },
+      "date": 1423971958755
+    },
+    {
+      "type": "remove",
+      "id": "b2ff2abb14c3738c",
+      "date": 1423971963596
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ba11f4fd9dab959c",
+        "text": ""
+      },
+      "id": "ba11f4fd9dab959c",
+      "type": "add",
+      "after": "b302dc8d080a7ecf",
+      "date": 1423971975439
+    },
+    {
+      "type": "edit",
+      "id": "ba11f4fd9dab959c",
+      "item": {
+        "type": "paragraph",
+        "id": "ba11f4fd9dab959c",
+        "text": "[https://deb.nodesource.com/setup]"
+      },
+      "date": 1423971978776
     }
   ]
 }

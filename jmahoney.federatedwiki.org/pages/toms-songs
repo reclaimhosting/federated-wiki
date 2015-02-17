@@ -1,0 +1,55 @@
+{
+  "title": "toms songs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "96a2352abfb0d409",
+      "text": "Glory And Praise To Our God"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "toms songs",
+        "story": []
+      },
+      "date": 1424141576407
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96a2352abfb0d409"
+      },
+      "id": "96a2352abfb0d409",
+      "type": "add",
+      "date": 1424141577877
+    },
+    {
+      "type": "edit",
+      "id": "96a2352abfb0d409",
+      "item": {
+        "type": "paragraph",
+        "id": "96a2352abfb0d409",
+        "text": "Glory And Praise To Our God"
+      },
+      "date": 1424141585491
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "34545effa9cf82e3",
+        "text": ""
+      },
+      "id": "34545effa9cf82e3",
+      "type": "add",
+      "after": "96a2352abfb0d409",
+      "date": 1424141585528
+    },
+    {
+      "type": "remove",
+      "id": "34545effa9cf82e3",
+      "date": 1424141588995
+    }
+  ]
+}

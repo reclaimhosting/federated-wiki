@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "b9ed1e703c033545",
       "text": "[https://help.ubuntu.com/community/EnablingUseOfApacheHtaccessFiles]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e04cf1cf4a0e8610",
+      "text": "[http://www.dev-metal.com/enable-mod_rewrite-ubuntu-14-04-lts/]"
     }
   ],
   "journal": [
@@ -34,6 +39,27 @@
         "text": "[https://help.ubuntu.com/community/EnablingUseOfApacheHtaccessFiles]"
       },
       "date": 1424534241687
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e04cf1cf4a0e8610",
+        "text": ""
+      },
+      "id": "e04cf1cf4a0e8610",
+      "type": "add",
+      "after": "b9ed1e703c033545",
+      "date": 1424534572680
+    },
+    {
+      "type": "edit",
+      "id": "e04cf1cf4a0e8610",
+      "item": {
+        "type": "paragraph",
+        "id": "e04cf1cf4a0e8610",
+        "text": "[http://www.dev-metal.com/enable-mod_rewrite-ubuntu-14-04-lts/]"
+      },
+      "date": 1424534576957
     }
   ]
 }

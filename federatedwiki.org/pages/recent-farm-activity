@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "cb3cb060860c3cf8"
+      "id": "c00ec620fe9f40db"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "0df857a879d066c2"
+      "id": "b35b58634d52be66"
+    },
+    {
+      "date": 1424545801000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "b5928c786dcb0e43"
     },
     {
       "date": 1424545601000,
@@ -18,16 +27,7 @@
       "title": "Apache Configuration",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "72e82aefd11302d7"
-    },
-    {
-      "date": 1424545201000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "9d7a54c624ae839d"
+      "id": "cfa6035d9a465d19"
     },
     {
       "date": 1423734251000,
@@ -36,7 +36,7 @@
       "title": "german surrender",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
       "type": "reference",
-      "id": "7929d62d8d9d203c"
+      "id": "b9fb752c57da00cc"
     },
     {
       "date": 1423694390000,
@@ -45,41 +45,55 @@
       "title": "February",
       "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "7764659a1c743a47"
+      "id": "aaa17424cc7e92cf"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "c14dfa537c7ae25e",
+      "id": "4f4750c1a7684d0a",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     },
     {
       "type": "add",
-      "id": "cb3cb060860c3cf8",
+      "id": "c00ec620fe9f40db",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "cb3cb060860c3cf8"
+        "id": "c00ec620fe9f40db"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     },
     {
       "type": "add",
-      "id": "0df857a879d066c2",
+      "id": "b35b58634d52be66",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "0df857a879d066c2"
+        "id": "b35b58634d52be66"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     },
     {
       "type": "add",
-      "id": "72e82aefd11302d7",
+      "id": "b5928c786dcb0e43",
+      "item": {
+        "date": 1424545801000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "b5928c786dcb0e43"
+      },
+      "date": 1424546401000
+    },
+    {
+      "type": "add",
+      "id": "cfa6035d9a465d19",
       "item": {
         "date": 1424545601000,
         "site": "jmahoney.federatedwiki.org",
@@ -87,27 +101,13 @@
         "title": "Apache Configuration",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "72e82aefd11302d7"
+        "id": "cfa6035d9a465d19"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     },
     {
       "type": "add",
-      "id": "9d7a54c624ae839d",
-      "item": {
-        "date": 1424545201000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "9d7a54c624ae839d"
-      },
-      "date": 1424545801000
-    },
-    {
-      "type": "add",
-      "id": "7929d62d8d9d203c",
+      "id": "b9fb752c57da00cc",
       "item": {
         "date": 1423734251000,
         "site": "max.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "german surrender",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
         "type": "reference",
-        "id": "7929d62d8d9d203c"
+        "id": "b9fb752c57da00cc"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     },
     {
       "type": "add",
-      "id": "7764659a1c743a47",
+      "id": "aaa17424cc7e92cf",
       "item": {
         "date": 1423694390000,
         "site": "fatcarrot.federatedwiki.org",
@@ -129,9 +129,9 @@
         "title": "February",
         "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "7764659a1c743a47"
+        "id": "aaa17424cc7e92cf"
       },
-      "date": 1424545801000
+      "date": 1424546401000
     }
   ]
 }

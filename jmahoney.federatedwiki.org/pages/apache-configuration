@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "e04cf1cf4a0e8610",
       "text": "[http://www.dev-metal.com/enable-mod_rewrite-ubuntu-14-04-lts/]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7195ce6bc1325e1d",
+      "text": "[http://www.binarytides.com/install-apache-ubuntu-13-10/]"
     }
   ],
   "journal": [
@@ -60,6 +65,27 @@
         "text": "[http://www.dev-metal.com/enable-mod_rewrite-ubuntu-14-04-lts/]"
       },
       "date": 1424534576957
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7195ce6bc1325e1d",
+        "text": ""
+      },
+      "id": "7195ce6bc1325e1d",
+      "type": "add",
+      "after": "e04cf1cf4a0e8610",
+      "date": 1424545723636
+    },
+    {
+      "type": "edit",
+      "id": "7195ce6bc1325e1d",
+      "item": {
+        "type": "paragraph",
+        "id": "7195ce6bc1325e1d",
+        "text": "[http://www.binarytides.com/install-apache-ubuntu-13-10/]"
+      },
+      "date": 1424545728106
     }
   ]
 }

@@ -13,6 +13,16 @@
     },
     {
       "type": "paragraph",
+      "id": "d22c1e438becea31",
+      "text": "$ sudo mkdir /var/www/html/get-simple"
+    },
+    {
+      "type": "paragraph",
+      "id": "56283b734716a757",
+      "text": "~/Downloads/GetSimpleCMS-3.3.5$ sudo cp -r . /var/www/html/get-simple/"
+    },
+    {
+      "type": "paragraph",
       "id": "4bfd363b5068b527",
       "text": "[http://get-simple.info/forums/showthread.php?tid=1287&pid=8909#pid8909 /var/www/html$ sudo chown -R www-data.www-data get-simple]"
     },
@@ -35,6 +45,11 @@
       "type": "paragraph",
       "id": "f4ad840b9a7baf0b",
       "text": "$ sudo apache2ctl restart"
+    },
+    {
+      "type": "paragraph",
+      "id": "7469e660527c7b67",
+      "text": "http://127.0.0.1/get-simple/admin"
     }
   ],
   "journal": [
@@ -216,6 +231,69 @@
         "text": "$ sudo apache2ctl restart"
       },
       "date": 1424502677729
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d22c1e438becea31",
+        "text": ""
+      },
+      "id": "d22c1e438becea31",
+      "type": "add",
+      "after": "7e73d9016f32c382",
+      "date": 1424502851278
+    },
+    {
+      "type": "edit",
+      "id": "d22c1e438becea31",
+      "item": {
+        "type": "paragraph",
+        "id": "d22c1e438becea31",
+        "text": "$ sudo mkdir /var/www/html/get-simple"
+      },
+      "date": 1424502854143
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "56283b734716a757",
+        "text": ""
+      },
+      "id": "56283b734716a757",
+      "type": "add",
+      "after": "d22c1e438becea31",
+      "date": 1424502953409
+    },
+    {
+      "type": "edit",
+      "id": "56283b734716a757",
+      "item": {
+        "type": "paragraph",
+        "id": "56283b734716a757",
+        "text": "~/Downloads/GetSimpleCMS-3.3.5$ sudo cp -r . /var/www/html/get-simple/"
+      },
+      "date": 1424502957896
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7469e660527c7b67",
+        "text": ""
+      },
+      "id": "7469e660527c7b67",
+      "type": "add",
+      "after": "f4ad840b9a7baf0b",
+      "date": 1424503028516
+    },
+    {
+      "type": "edit",
+      "id": "7469e660527c7b67",
+      "item": {
+        "type": "paragraph",
+        "id": "7469e660527c7b67",
+        "text": "http://127.0.0.1/get-simple/admin"
+      },
+      "date": 1424503043223
     }
   ]
 }

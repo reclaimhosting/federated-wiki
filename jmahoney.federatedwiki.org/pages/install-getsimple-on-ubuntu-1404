@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "f95a7b4c5d91efc0",
       "text": "$ sudo apt-get install apache2"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e73d9016f32c382",
+      "text": "$ sudo apt-get install php5"
     }
   ],
   "journal": [
@@ -34,6 +39,27 @@
         "text": "$ sudo apt-get install apache2"
       },
       "date": 1424497505529
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7e73d9016f32c382",
+        "text": ""
+      },
+      "id": "7e73d9016f32c382",
+      "type": "add",
+      "after": "f95a7b4c5d91efc0",
+      "date": 1424497954478
+    },
+    {
+      "type": "edit",
+      "id": "7e73d9016f32c382",
+      "item": {
+        "type": "paragraph",
+        "id": "7e73d9016f32c382",
+        "text": "$ sudo apt-get install php5"
+      },
+      "date": 1424497957140
     }
   ]
 }

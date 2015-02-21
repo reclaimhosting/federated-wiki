@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "1b73a6fd0f7ffa35"
+      "id": "92bf76eeef576907"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "5ea9f07869dde1bb"
+      "id": "4f185d4edeaaca25"
+    },
+    {
+      "date": 1424507401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "90565fa4f680c7dd"
     },
     {
       "date": 1424507110000,
@@ -18,16 +27,7 @@
       "title": "Install GetSimple on Ubuntu 14.04",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 56 pages.",
       "type": "reference",
-      "id": "5067b02359d95229"
-    },
-    {
-      "date": 1424506801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "2715456e43812331"
+      "id": "4101fb403102ad84"
     },
     {
       "date": 1423734251000,
@@ -36,7 +36,7 @@
       "title": "german surrender",
       "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
       "type": "reference",
-      "id": "396393c8a1f451e9"
+      "id": "f7644fe9f9c07b8e"
     },
     {
       "date": 1423694390000,
@@ -45,41 +45,55 @@
       "title": "February",
       "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "13afccced42abfd2"
+      "id": "fd00d03dde125e43"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "183804592d9eb85e",
+      "id": "4cae754b7bee2581",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     },
     {
       "type": "add",
-      "id": "1b73a6fd0f7ffa35",
+      "id": "92bf76eeef576907",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "1b73a6fd0f7ffa35"
+        "id": "92bf76eeef576907"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     },
     {
       "type": "add",
-      "id": "5ea9f07869dde1bb",
+      "id": "4f185d4edeaaca25",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "5ea9f07869dde1bb"
+        "id": "4f185d4edeaaca25"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     },
     {
       "type": "add",
-      "id": "5067b02359d95229",
+      "id": "90565fa4f680c7dd",
+      "item": {
+        "date": 1424507401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "90565fa4f680c7dd"
+      },
+      "date": 1424508001000
+    },
+    {
+      "type": "add",
+      "id": "4101fb403102ad84",
       "item": {
         "date": 1424507110000,
         "site": "jmahoney.federatedwiki.org",
@@ -87,27 +101,13 @@
         "title": "Install GetSimple on Ubuntu 14.04",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 56 pages.",
         "type": "reference",
-        "id": "5067b02359d95229"
+        "id": "4101fb403102ad84"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     },
     {
       "type": "add",
-      "id": "2715456e43812331",
-      "item": {
-        "date": 1424506801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "2715456e43812331"
-      },
-      "date": 1424507401000
-    },
-    {
-      "type": "add",
-      "id": "396393c8a1f451e9",
+      "id": "f7644fe9f9c07b8e",
       "item": {
         "date": 1423734251000,
         "site": "max.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "german surrender",
         "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
         "type": "reference",
-        "id": "396393c8a1f451e9"
+        "id": "f7644fe9f9c07b8e"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     },
     {
       "type": "add",
-      "id": "13afccced42abfd2",
+      "id": "fd00d03dde125e43",
       "item": {
         "date": 1423694390000,
         "site": "fatcarrot.federatedwiki.org",
@@ -129,9 +129,9 @@
         "title": "February",
         "text": "In [http://fatcarrot.federatedwiki.org fatcarrot.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "13afccced42abfd2"
+        "id": "fd00d03dde125e43"
       },
-      "date": 1424507401000
+      "date": 1424508001000
     }
   ]
 }

@@ -25,6 +25,16 @@
       "type": "paragraph",
       "id": "9386f801df9d1bd4",
       "text": "$ sudo apt-get install php5-gd"
+    },
+    {
+      "type": "paragraph",
+      "id": "99947f8711f39dcb",
+      "text": "$ sudo a2enmod rewrite"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4ad840b9a7baf0b",
+      "text": "$ sudo apache2ctl restart"
     }
   ],
   "journal": [
@@ -164,6 +174,48 @@
         "text": "$ sudo apt-get install php5-gd"
       },
       "date": 1424502048684
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99947f8711f39dcb",
+        "text": ""
+      },
+      "id": "99947f8711f39dcb",
+      "type": "add",
+      "after": "9386f801df9d1bd4",
+      "date": 1424502652835
+    },
+    {
+      "type": "edit",
+      "id": "99947f8711f39dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "99947f8711f39dcb",
+        "text": "$ sudo a2enmod rewrite"
+      },
+      "date": 1424502655035
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f4ad840b9a7baf0b",
+        "text": ""
+      },
+      "id": "f4ad840b9a7baf0b",
+      "type": "add",
+      "after": "99947f8711f39dcb",
+      "date": 1424502663181
+    },
+    {
+      "type": "edit",
+      "id": "f4ad840b9a7baf0b",
+      "item": {
+        "type": "paragraph",
+        "id": "f4ad840b9a7baf0b",
+        "text": "$ sudo apache2ctl restart"
+      },
+      "date": 1424502677729
     }
   ]
 }

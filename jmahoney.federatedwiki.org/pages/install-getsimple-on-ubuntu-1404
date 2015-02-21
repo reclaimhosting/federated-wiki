@@ -50,6 +50,11 @@
       "type": "paragraph",
       "id": "7469e660527c7b67",
       "text": "http://127.0.0.1/get-simple/admin"
+    },
+    {
+      "type": "paragraph",
+      "id": "f5f5856db45135f7",
+      "text": "[[Apache Configuration]]"
     }
   ],
   "journal": [
@@ -304,6 +309,27 @@
         "text": "[http://stackoverflow.com/questions/17745310/how-to-enable-mod-rewrite-in-lamp-on-ubuntu $ sudo a2enmod rewrite]"
       },
       "date": 1424507236495
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f5f5856db45135f7",
+        "text": ""
+      },
+      "id": "f5f5856db45135f7",
+      "type": "add",
+      "after": "7469e660527c7b67",
+      "date": 1424530190148
+    },
+    {
+      "type": "edit",
+      "id": "f5f5856db45135f7",
+      "item": {
+        "type": "paragraph",
+        "id": "f5f5856db45135f7",
+        "text": "[[Apache Configuration]]"
+      },
+      "date": 1424530200995
     }
   ]
 }

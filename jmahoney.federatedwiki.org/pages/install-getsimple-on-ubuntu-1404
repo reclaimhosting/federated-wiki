@@ -1,0 +1,39 @@
+{
+  "title": "Install GetSimple on Ubuntu 14.04",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f95a7b4c5d91efc0",
+      "text": "$ sudo apt-get install apache2"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Install GetSimple on Ubuntu 14.04",
+        "story": []
+      },
+      "date": 1424497466497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f95a7b4c5d91efc0"
+      },
+      "id": "f95a7b4c5d91efc0",
+      "type": "add",
+      "date": 1424497496844
+    },
+    {
+      "type": "edit",
+      "id": "f95a7b4c5d91efc0",
+      "item": {
+        "type": "paragraph",
+        "id": "f95a7b4c5d91efc0",
+        "text": "$ sudo apt-get install apache2"
+      },
+      "date": 1424497505529
+    }
+  ]
+}

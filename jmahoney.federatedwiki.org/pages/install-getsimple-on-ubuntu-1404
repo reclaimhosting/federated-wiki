@@ -15,6 +15,16 @@
       "type": "paragraph",
       "id": "4bfd363b5068b527",
       "text": "[http://get-simple.info/forums/showthread.php?tid=1287&pid=8909#pid8909 /var/www/html$ sudo chown -R www-data.www-data get-simple]"
+    },
+    {
+      "type": "paragraph",
+      "id": "04258a93280627b6",
+      "text": "$ sudo apt-get install php5-curl"
+    },
+    {
+      "type": "paragraph",
+      "id": "9386f801df9d1bd4",
+      "text": "$ sudo apt-get install php5-gd"
     }
   ],
   "journal": [
@@ -112,6 +122,48 @@
         "text": "[http://get-simple.info/forums/showthread.php?tid=1287&pid=8909#pid8909 /var/www/html$ sudo chown -R www-data.www-data get-simple]"
       },
       "date": 1424501513374
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "04258a93280627b6",
+        "text": ""
+      },
+      "id": "04258a93280627b6",
+      "type": "add",
+      "after": "4bfd363b5068b527",
+      "date": 1424501855644
+    },
+    {
+      "type": "edit",
+      "id": "04258a93280627b6",
+      "item": {
+        "type": "paragraph",
+        "id": "04258a93280627b6",
+        "text": "$ sudo apt-get install php5-curl"
+      },
+      "date": 1424501858307
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9386f801df9d1bd4",
+        "text": ""
+      },
+      "id": "9386f801df9d1bd4",
+      "type": "add",
+      "after": "04258a93280627b6",
+      "date": 1424502046498
+    },
+    {
+      "type": "edit",
+      "id": "9386f801df9d1bd4",
+      "item": {
+        "type": "paragraph",
+        "id": "9386f801df9d1bd4",
+        "text": "$ sudo apt-get install php5-gd"
+      },
+      "date": 1424502048684
     }
   ]
 }

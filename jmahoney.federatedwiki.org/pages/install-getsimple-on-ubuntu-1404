@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "7e73d9016f32c382",
       "text": "$ sudo apt-get install php5"
+    },
+    {
+      "type": "paragraph",
+      "id": "4bfd363b5068b527",
+      "text": "[http://get-simple.info/forums/showthread.php?tid=1287&pid=8909#pid8909 /var/www/html$ sudo chown -R www-data.www-data get-simple]"
     }
   ],
   "journal": [
@@ -60,6 +65,53 @@
         "text": "$ sudo apt-get install php5"
       },
       "date": 1424497957140
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "23a71af49e3deac3",
+        "text": ""
+      },
+      "id": "23a71af49e3deac3",
+      "type": "add",
+      "after": "7e73d9016f32c382",
+      "date": 1424501432817
+    },
+    {
+      "type": "remove",
+      "id": "23a71af49e3deac3",
+      "date": 1424501438478
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4bfd363b5068b527",
+        "text": ""
+      },
+      "id": "4bfd363b5068b527",
+      "type": "add",
+      "after": "7e73d9016f32c382",
+      "date": 1424501450754
+    },
+    {
+      "type": "edit",
+      "id": "4bfd363b5068b527",
+      "item": {
+        "type": "paragraph",
+        "id": "4bfd363b5068b527",
+        "text": "/var/www/html$ sudo chown -R www-data.www-data get-simple"
+      },
+      "date": 1424501453899
+    },
+    {
+      "type": "edit",
+      "id": "4bfd363b5068b527",
+      "item": {
+        "type": "paragraph",
+        "id": "4bfd363b5068b527",
+        "text": "[http://get-simple.info/forums/showthread.php?tid=1287&pid=8909#pid8909 /var/www/html$ sudo chown -R www-data.www-data get-simple]"
+      },
+      "date": 1424501513374
     }
   ]
 }

@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "1f72dc0a0726943b"
+      "id": "30971bfc65afb521"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "145ae0c0b5b70ae8"
+      "id": "47c6547d8cc7bf05"
     },
     {
-      "date": 1424772602000,
+      "date": 1424773798000,
+      "site": "fedwiki.djon.es",
+      "slug": "things-you-must-do",
+      "title": "Things You Must Do",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
+      "type": "reference",
+      "id": "837940bfd4e9282c"
+    },
+    {
+      "date": 1424773201000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "279c9c2f0ca09a40"
+      "id": "628f63aece87a688"
     },
     {
       "date": 1424545601000,
@@ -27,55 +36,69 @@
       "title": "Apache Configuration",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "07fa29c4ad9dc8e4"
+      "id": "90dd27f88a09d859"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b9a2efd33f6708c4",
+      "id": "971193eb98e488ef",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1424773201000
+      "date": 1424773801000
     },
     {
       "type": "add",
-      "id": "1f72dc0a0726943b",
+      "id": "30971bfc65afb521",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "1f72dc0a0726943b"
+        "id": "30971bfc65afb521"
       },
-      "date": 1424773201000
+      "date": 1424773801000
     },
     {
       "type": "add",
-      "id": "145ae0c0b5b70ae8",
+      "id": "47c6547d8cc7bf05",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "145ae0c0b5b70ae8"
+        "id": "47c6547d8cc7bf05"
       },
-      "date": 1424773201000
+      "date": 1424773801000
     },
     {
       "type": "add",
-      "id": "279c9c2f0ca09a40",
+      "id": "837940bfd4e9282c",
       "item": {
-        "date": 1424772602000,
+        "date": 1424773798000,
+        "site": "fedwiki.djon.es",
+        "slug": "things-you-must-do",
+        "title": "Things You Must Do",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
+        "type": "reference",
+        "id": "837940bfd4e9282c"
+      },
+      "date": 1424773801000
+    },
+    {
+      "type": "add",
+      "id": "628f63aece87a688",
+      "item": {
+        "date": 1424773201000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "279c9c2f0ca09a40"
+        "id": "628f63aece87a688"
       },
-      "date": 1424773201000
+      "date": 1424773801000
     },
     {
       "type": "add",
-      "id": "07fa29c4ad9dc8e4",
+      "id": "90dd27f88a09d859",
       "item": {
         "date": 1424545601000,
         "site": "jmahoney.federatedwiki.org",
@@ -83,9 +106,9 @@
         "title": "Apache Configuration",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "07fa29c4ad9dc8e4"
+        "id": "90dd27f88a09d859"
       },
-      "date": 1424773201000
+      "date": 1424773801000
     }
   ]
 }

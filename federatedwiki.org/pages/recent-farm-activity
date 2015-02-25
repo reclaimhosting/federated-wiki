@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "0924a6d7d20c1ba3"
+      "id": "a49dc6a3c94d1d33"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ee19e99633d0753f"
+      "id": "a003cf787ba4794a"
+    },
+    {
+      "date": 1424830801000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "e464c2dae299c238"
     },
     {
       "date": 1424830733000,
@@ -18,16 +27,7 @@
       "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
       "type": "reference",
-      "id": "162a89c21452fc37"
-    },
-    {
-      "date": 1424830201000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "c52810498e92df73"
+      "id": "95ffbcf90966811d"
     },
     {
       "date": 1424545601000,
@@ -36,41 +36,55 @@
       "title": "Apache Configuration",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "59c392dd3df898f2"
+      "id": "5c620e6aa2decacf"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b51fab533407d4a5",
+      "id": "67cf751bd899d8c5",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1424830801000
+      "date": 1424831401000
     },
     {
       "type": "add",
-      "id": "0924a6d7d20c1ba3",
+      "id": "a49dc6a3c94d1d33",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "0924a6d7d20c1ba3"
+        "id": "a49dc6a3c94d1d33"
       },
-      "date": 1424830801000
+      "date": 1424831401000
     },
     {
       "type": "add",
-      "id": "ee19e99633d0753f",
+      "id": "a003cf787ba4794a",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ee19e99633d0753f"
+        "id": "a003cf787ba4794a"
       },
-      "date": 1424830801000
+      "date": 1424831401000
     },
     {
       "type": "add",
-      "id": "162a89c21452fc37",
+      "id": "e464c2dae299c238",
+      "item": {
+        "date": 1424830801000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "e464c2dae299c238"
+      },
+      "date": 1424831401000
+    },
+    {
+      "type": "add",
+      "id": "95ffbcf90966811d",
       "item": {
         "date": 1424830733000,
         "site": "fedwiki.djon.es",
@@ -78,27 +92,13 @@
         "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
         "type": "reference",
-        "id": "162a89c21452fc37"
+        "id": "95ffbcf90966811d"
       },
-      "date": 1424830801000
+      "date": 1424831401000
     },
     {
       "type": "add",
-      "id": "c52810498e92df73",
-      "item": {
-        "date": 1424830201000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "c52810498e92df73"
-      },
-      "date": 1424830801000
-    },
-    {
-      "type": "add",
-      "id": "59c392dd3df898f2",
+      "id": "5c620e6aa2decacf",
       "item": {
         "date": 1424545601000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Apache Configuration",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "59c392dd3df898f2"
+        "id": "5c620e6aa2decacf"
       },
-      "date": 1424830801000
+      "date": 1424831401000
     }
   ]
 }

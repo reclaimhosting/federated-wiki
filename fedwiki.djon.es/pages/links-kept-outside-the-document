@@ -1,0 +1,218 @@
+{
+  "title": "Links Kept Outside the Document",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2b071443ff4fb45c",
+      "text": "Links can be inside or outside a document (internal or external). "
+    },
+    {
+      "type": "paragraph",
+      "id": "c1407c9b4d1bedf9",
+      "text": "On the web links are inside the document, embedded in the HTML. A problem this creates is that you can only create a link from a document, if you have permission to edit that document. "
+    },
+    {
+      "type": "html",
+      "id": "316b56d33a0bac17",
+      "text": "<a href=\"https://davidtjones.wordpress.com/publications/web-information-systems-development-some-neglected-aspects/\">Gregor et al (1999)</a> identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Links Kept Outside the Document",
+        "story": []
+      },
+      "date": 1424569450562
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "788f5b4506b21ea2"
+      },
+      "id": "788f5b4506b21ea2",
+      "type": "add",
+      "date": 1424569452317
+    },
+    {
+      "type": "remove",
+      "id": "788f5b4506b21ea2",
+      "date": 1424569468600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2b071443ff4fb45c"
+      },
+      "id": "2b071443ff4fb45c",
+      "type": "add",
+      "date": 1424569477695
+    },
+    {
+      "type": "edit",
+      "id": "2b071443ff4fb45c",
+      "item": {
+        "type": "paragraph",
+        "id": "2b071443ff4fb45c",
+        "text": "Links can be inside or outside a document (internal or external). "
+      },
+      "date": 1424569491287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1407c9b4d1bedf9"
+      },
+      "id": "c1407c9b4d1bedf9",
+      "type": "add",
+      "after": "2b071443ff4fb45c",
+      "date": 1424569527375
+    },
+    {
+      "type": "fork",
+      "site": "audrey.sf.fedwikihappening.net",
+      "date": 1425120131124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "316b56d33a0bac17"
+      },
+      "id": "316b56d33a0bac17",
+      "type": "add",
+      "after": "c1407c9b4d1bedf9",
+      "date": 1425120275994
+    },
+    {
+      "type": "edit",
+      "id": "c1407c9b4d1bedf9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1407c9b4d1bedf9",
+        "text": "On the web links are inside the document, embedded in the HTML. A problem this creates is that you cannot create a link "
+      },
+      "date": 1425120308756
+    },
+    {
+      "type": "edit",
+      "id": "c1407c9b4d1bedf9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1407c9b4d1bedf9",
+        "text": "On the web links are inside the document, embedded in the HTML. A problem this creates is that you can only create a link from a document, if you have permission to edit that document."
+      },
+      "date": 1425120349649
+    },
+    {
+      "type": "edit",
+      "id": "c1407c9b4d1bedf9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1407c9b4d1bedf9",
+        "text": "On the web links are inside the document, embedded in the HTML. A problem this creates is that you can only create a link from a document, if you have permission to edit that document. Making it impossible to "
+      },
+      "date": 1425120358510
+    },
+    {
+      "type": "edit",
+      "id": "c1407c9b4d1bedf9",
+      "item": {
+        "type": "paragraph",
+        "id": "c1407c9b4d1bedf9",
+        "text": "On the web links are inside the document, embedded in the HTML. A problem this creates is that you can only create a link from a document, if you have permission to edit that document. "
+      },
+      "date": 1425120396083
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "paragraph",
+        "id": "316b56d33a0bac17",
+        "text": "This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997). "
+      },
+      "date": 1425120398559
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "paragraph",
+        "id": "316b56d33a0bac17",
+        "text": "<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120441520
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "paragraph",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al ()<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120456851
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "paragraph",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al (1999) identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120485786
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "html",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al (1999) identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120489689
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "html",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al (1999) identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120489691
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "html",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al (1999) identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120489693
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "html",
+        "id": "316b56d33a0bac17",
+        "text": "Gregor et al (1999) identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120489695
+    },
+    {
+      "type": "edit",
+      "id": "316b56d33a0bac17",
+      "item": {
+        "type": "html",
+        "id": "316b56d33a0bac17",
+        "text": "<a href=\"https://davidtjones.wordpress.com/publications/web-information-systems-development-some-neglected-aspects/\">Gregor et al (1999)</a> identify some problems with links inside the document<blockquote>This makes it impossible to link from legacy or non-hypermedia applications, documents on CD-ROM or those owned by other people (Andrews, 1996; Bieber et al, 1997). The absence of this ability makes it difficult to implement personal annotations which are thought to be a basic right for hypermedia readers and a basic tool for collaboration and exchange of ideas (Bieber et al, 1997). Enabling annotations and allowing Web information systems to be used for communication and cooperation will help increase the systems success (Andrews 1996). Maintaining external link bases enables such services as link and view customization, guided tours, trails, bi-directional links, link typing, individual access permissions and guaranteed consistency (Bieber et al, 1997).</blockquote>"
+      },
+      "date": 1425120498869
+    }
+  ]
+}

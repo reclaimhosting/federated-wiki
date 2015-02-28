@@ -1,0 +1,95 @@
+{
+  "title": "Transclusion",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fdca21bd53c17975",
+      "text": "In computer science, transclusion is the inclusion of a document or part of a document into another document by reference. For example, an article about a country might include a chart or a paragraph describing that country's agricultural exports from a different article about agriculture."
+    },
+    {
+      "type": "paragraph",
+      "id": "30d11f119d357af4",
+      "text": "This concept is implemented in many systems, for instance [[Xanadu]] or [[Knowls]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Transclusion",
+        "story": []
+      },
+      "site": "podehaye.uk2.fedwikihappening.net",
+      "date": 1424394017447,
+      "fork": "podehaye.uk2.fedwikihappening.net"
+    },
+    {
+      "type": "fork",
+      "date": 1424394081516
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fdca21bd53c17975"
+      },
+      "id": "fdca21bd53c17975",
+      "type": "add",
+      "date": 1424394087698
+    },
+    {
+      "type": "edit",
+      "id": "fdca21bd53c17975",
+      "item": {
+        "type": "paragraph",
+        "id": "fdca21bd53c17975",
+        "text": "In computer science, transclusion is the inclusion of a document or part of a document into another document by reference. For example, an article about a country might include a chart or a paragraph describing that country's agricultural exports from a different article about agriculture."
+      },
+      "date": 1424394096996
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30d11f119d357af4"
+      },
+      "id": "30d11f119d357af4",
+      "type": "add",
+      "after": "fdca21bd53c17975",
+      "date": 1424394102829
+    },
+    {
+      "type": "edit",
+      "id": "30d11f119d357af4",
+      "item": {
+        "type": "paragraph",
+        "id": "30d11f119d357af4",
+        "text": "This concept is implemented in many systems, for instance [[Xanadu]] or [[Knowls]]"
+      },
+      "date": 1424394130037
+    },
+    {
+      "type": "edit",
+      "id": "30d11f119d357af4",
+      "item": {
+        "type": "paragraph",
+        "id": "30d11f119d357af4",
+        "text": "This concept is implemented in many systems, for instance [[Xanadu]] or [[Knowls]]."
+      },
+      "date": 1424394432218
+    },
+    {
+      "type": "fork",
+      "site": "podehaye.uk2.fedwikihappening.net",
+      "date": 1424402414042
+    },
+    {
+      "type": "fork",
+      "site": "machines.hapgood.net",
+      "date": 1424560209688
+    },
+    {
+      "type": "fork",
+      "site": "audrey.sf.fedwikihappening.net",
+      "date": 1425120119430
+    }
+  ]
+}

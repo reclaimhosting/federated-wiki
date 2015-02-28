@@ -28,6 +28,11 @@
     },
     {
       "type": "paragraph",
+      "id": "1b9965467237c2e5",
+      "text": "[https://store.solaptop.com/ SOL Laptop] - Solar Powered, Linux?"
+    },
+    {
+      "type": "paragraph",
       "id": "b0a195373e0ef3b4",
       "text": "[https://www.thinkpenguin.com/ ThinkPenguin]"
     },
@@ -35,6 +40,11 @@
       "type": "paragraph",
       "id": "4b983c39e850792f",
       "text": "[http://emperorlinux.com/ EmperorLinux]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4da64da898782643",
+      "text": "[http://www.linuxcertified.com/linux_laptops.html \"Linux Certified\" Linux Laptops]"
     },
     {
       "type": "paragraph",
@@ -1174,6 +1184,72 @@
         "text": "[http://www.fairphone.com/ Fairphone] (not a laptop)"
       },
       "date": 1425146883738
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4da64da898782643",
+        "text": ""
+      },
+      "id": "4da64da898782643",
+      "type": "add",
+      "after": "4b983c39e850792f",
+      "date": 1425150708237,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "4da64da898782643",
+      "item": {
+        "type": "paragraph",
+        "id": "4da64da898782643",
+        "text": "[http://www.linuxcertified.com/linux_laptops.html \"Linux Certified\" Linux Laptops]"
+      },
+      "date": 1425150742221,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1b9965467237c2e5",
+        "text": ""
+      },
+      "id": "1b9965467237c2e5",
+      "type": "add",
+      "after": "7686a29782ff9109",
+      "date": 1425151059733,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1b9965467237c2e5",
+      "item": {
+        "type": "paragraph",
+        "id": "1b9965467237c2e5",
+        "text": "[https://store.solaptop.com/ SOL Laptop] - Solar Powered, Linux?"
+      },
+      "date": 1425151081591,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1425151116778
     }
   ]
 }

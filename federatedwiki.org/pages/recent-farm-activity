@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "0752891e0d023a95"
+      "id": "728363cd88382cae"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f9f57e99eb0a8b9a"
+      "id": "31983acf34e5e397"
+    },
+    {
+      "date": 1425100801000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "17c35fdc24af851b"
     },
     {
       "date": 1425100287000,
@@ -18,16 +27,7 @@
       "title": "James Mahoney",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "8aec1ec4dffb3560"
-    },
-    {
-      "date": 1425100202000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "8c558123b61ae89e"
+      "id": "d770d17d29771bf1"
     },
     {
       "date": 1424830733000,
@@ -36,41 +36,55 @@
       "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
       "type": "reference",
-      "id": "26313bbd616222cd"
+      "id": "06cc3cf97c571b4b"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "65f2de0f4d83266a",
+      "id": "a0f48145397cc507",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1425100801000
+      "date": 1425101401000
     },
     {
       "type": "add",
-      "id": "0752891e0d023a95",
+      "id": "728363cd88382cae",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "0752891e0d023a95"
+        "id": "728363cd88382cae"
       },
-      "date": 1425100801000
+      "date": 1425101401000
     },
     {
       "type": "add",
-      "id": "f9f57e99eb0a8b9a",
+      "id": "31983acf34e5e397",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f9f57e99eb0a8b9a"
+        "id": "31983acf34e5e397"
       },
-      "date": 1425100801000
+      "date": 1425101401000
     },
     {
       "type": "add",
-      "id": "8aec1ec4dffb3560",
+      "id": "17c35fdc24af851b",
+      "item": {
+        "date": 1425100801000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "17c35fdc24af851b"
+      },
+      "date": 1425101401000
+    },
+    {
+      "type": "add",
+      "id": "d770d17d29771bf1",
       "item": {
         "date": 1425100287000,
         "site": "jmahoney.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "James Mahoney",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "8aec1ec4dffb3560"
+        "id": "d770d17d29771bf1"
       },
-      "date": 1425100801000
+      "date": 1425101401000
     },
     {
       "type": "add",
-      "id": "8c558123b61ae89e",
-      "item": {
-        "date": 1425100202000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "8c558123b61ae89e"
-      },
-      "date": 1425100801000
-    },
-    {
-      "type": "add",
-      "id": "26313bbd616222cd",
+      "id": "06cc3cf97c571b4b",
       "item": {
         "date": 1424830733000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 78 pages.",
         "type": "reference",
-        "id": "26313bbd616222cd"
+        "id": "06cc3cf97c571b4b"
       },
-      "date": 1425100801000
+      "date": 1425101401000
     }
   ]
 }

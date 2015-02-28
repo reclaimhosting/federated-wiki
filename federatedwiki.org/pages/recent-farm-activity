@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f9e044a449cda2a0"
+      "id": "1c5c1d72503495c2"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "bfb70a0295d46cad"
+      "id": "a05ac4347d518472"
     },
     {
-      "date": 1425124201000,
+      "date": 1425125046000,
+      "site": "fedwiki.djon.es",
+      "slug": "teaching-machines-djplaner",
+      "title": "Teaching Machines (@djplaner)",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 86 pages.",
+      "type": "reference",
+      "id": "01ef0ff121656f22"
+    },
+    {
+      "date": 1425124801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "65edc6cf3aab5c82"
-    },
-    {
-      "date": 1425120492000,
-      "site": "fedwiki.djon.es",
-      "slug": "links-kept-outside-the-document",
-      "title": "Links Kept Outside the Document",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 85 pages.",
-      "type": "reference",
-      "id": "c2039cb4e68794a6"
+      "id": "443ef20cd867fbd0"
     },
     {
       "date": 1425100287000,
@@ -36,69 +36,69 @@
       "title": "James Mahoney",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "47bee3c31c7d1389"
+      "id": "7b590a47098b6331"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "73c35f69b77efb61",
+      "id": "e678c777d1669c52",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1425124801000
+      "date": 1425125401000
     },
     {
       "type": "add",
-      "id": "f9e044a449cda2a0",
+      "id": "1c5c1d72503495c2",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f9e044a449cda2a0"
+        "id": "1c5c1d72503495c2"
       },
-      "date": 1425124801000
+      "date": 1425125401000
     },
     {
       "type": "add",
-      "id": "bfb70a0295d46cad",
+      "id": "a05ac4347d518472",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "bfb70a0295d46cad"
+        "id": "a05ac4347d518472"
       },
-      "date": 1425124801000
+      "date": 1425125401000
     },
     {
       "type": "add",
-      "id": "65edc6cf3aab5c82",
+      "id": "01ef0ff121656f22",
       "item": {
-        "date": 1425124201000,
+        "date": 1425125046000,
+        "site": "fedwiki.djon.es",
+        "slug": "teaching-machines-djplaner",
+        "title": "Teaching Machines (@djplaner)",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 86 pages.",
+        "type": "reference",
+        "id": "01ef0ff121656f22"
+      },
+      "date": 1425125401000
+    },
+    {
+      "type": "add",
+      "id": "443ef20cd867fbd0",
+      "item": {
+        "date": 1425124801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "65edc6cf3aab5c82"
+        "id": "443ef20cd867fbd0"
       },
-      "date": 1425124801000
+      "date": 1425125401000
     },
     {
       "type": "add",
-      "id": "c2039cb4e68794a6",
-      "item": {
-        "date": 1425120492000,
-        "site": "fedwiki.djon.es",
-        "slug": "links-kept-outside-the-document",
-        "title": "Links Kept Outside the Document",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 85 pages.",
-        "type": "reference",
-        "id": "c2039cb4e68794a6"
-      },
-      "date": 1425124801000
-    },
-    {
-      "type": "add",
-      "id": "47bee3c31c7d1389",
+      "id": "7b590a47098b6331",
       "item": {
         "date": 1425100287000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "James Mahoney",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "47bee3c31c7d1389"
+        "id": "7b590a47098b6331"
       },
-      "date": 1425124801000
+      "date": 1425125401000
     }
   ]
 }

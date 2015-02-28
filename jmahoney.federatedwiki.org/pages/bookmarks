@@ -2,44 +2,29 @@
   "title": "Bookmarks",
   "story": [
     {
-      "type": "paragraph",
-      "id": "783b8ebf6bb64363",
-      "text": "[http://courses.cs.vt.edu/~cs1604/notes/chap2/gopher/gopher.html Gopher]"
-    },
-    {
-      "type": "paragraph",
-      "id": "38bc370fcc3850d0",
-      "text": "[http://superuser.com/a/820024 upload whole dir in sftp]"
-    },
-    {
-      "type": "paragraph",
-      "id": "47af1bfd75e54015",
-      "text": "[https://engineering.purdue.edu/ECN/Support/KB/Docs/MailXTutorial Purdue MailX Tutorial]"
-    },
-    {
-      "type": "paragraph",
-      "id": "e0c44b70c5100827",
-      "text": "[http://www.fairphone.com/ Fairphone]"
-    },
-    {
-      "type": "paragraph",
-      "id": "aad370fe5b3240a3",
-      "text": "[https://www.crowdsupply.com/kosagi/novena-open-laptop Novena Open \"Laptop\"]"
-    },
-    {
-      "type": "paragraph",
-      "id": "7686a29782ff9109",
-      "text": "[https://www.crowdsupply.com/purism/librem-laptop Purism Librem Laptop]"
-    },
-    {
-      "type": "paragraph",
-      "id": "04d870bc55002667",
-      "text": "[http://thelinuxlaptop.com/ The Linux Laptop Company]"
+      "type": "pagefold",
+      "id": "d64ab99c91382c37",
+      "text": "Linux Laptops"
     },
     {
       "type": "paragraph",
       "id": "fcf7c9fdcfa5b66a",
       "text": "[https://system76.com/ System76]"
+    },
+    {
+      "type": "paragraph",
+      "id": "04f23f71bb18476a",
+      "text": "[http://shop.gluglug.org.uk/ Gluglug Libreboot Laptops]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad1751b4fec30675",
+      "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Dell Precision M3800 Mobile Workstation] w/ Ubuntu 14.04 LTS Option"
+    },
+    {
+      "type": "paragraph",
+      "id": "7686a29782ff9109",
+      "text": "[https://www.crowdsupply.com/purism/librem-laptop Purism Librem Laptop]"
     },
     {
       "type": "paragraph",
@@ -53,13 +38,38 @@
     },
     {
       "type": "paragraph",
-      "id": "04f23f71bb18476a",
-      "text": "[http://shop.gluglug.org.uk/ Gluglug Libreboot Laptops]"
+      "id": "04d870bc55002667",
+      "text": "[http://thelinuxlaptop.com/ The Linux Laptop Company]"
     },
     {
       "type": "paragraph",
-      "id": "ad1751b4fec30675",
-      "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Dell Precision M3800 Mobile Workstation] w/ Ubuntu 14.04 LTS Option"
+      "id": "aad370fe5b3240a3",
+      "text": "[https://www.crowdsupply.com/kosagi/novena-open-laptop Novena Open \"Laptop\"]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e0c44b70c5100827",
+      "text": "[http://www.fairphone.com/ Fairphone] (not a laptop)"
+    },
+    {
+      "type": "pagefold",
+      "id": "1c48976f72329b84",
+      "text": "Misc."
+    },
+    {
+      "type": "paragraph",
+      "id": "783b8ebf6bb64363",
+      "text": "[http://courses.cs.vt.edu/~cs1604/notes/chap2/gopher/gopher.html Gopher]"
+    },
+    {
+      "type": "paragraph",
+      "id": "38bc370fcc3850d0",
+      "text": "[http://superuser.com/a/820024 upload whole dir in sftp]"
+    },
+    {
+      "type": "paragraph",
+      "id": "47af1bfd75e54015",
+      "text": "[https://engineering.purdue.edu/ECN/Support/KB/Docs/MailXTutorial Purdue MailX Tutorial]"
     },
     {
       "type": "pagefold",
@@ -752,6 +762,418 @@
         "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Dell Precision M3800 Mobile Workstation] w/ Ubuntu 14.04 LTS Option"
       },
       "date": 1425141825107
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d64ab99c91382c37"
+      },
+      "id": "d64ab99c91382c37",
+      "type": "add",
+      "after": "3d158d05f81a98af",
+      "date": 1425146754863
+    },
+    {
+      "type": "edit",
+      "id": "d64ab99c91382c37",
+      "item": {
+        "type": "pagefold",
+        "id": "d64ab99c91382c37",
+        "text": "Linux Laptops"
+      },
+      "date": 1425146769375
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "fcf7c9fdcfa5b66a",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "d64ab99c91382c37",
+      "date": 1425146776372
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c48976f72329b84"
+      },
+      "id": "1c48976f72329b84",
+      "type": "add",
+      "after": "3d158d05f81a98af",
+      "date": 1425146782025
+    },
+    {
+      "type": "edit",
+      "id": "1c48976f72329b84",
+      "item": {
+        "type": "pagefold",
+        "id": "1c48976f72329b84",
+        "text": "Misc."
+      },
+      "date": 1425146788801
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "fcf7c9fdcfa5b66a",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "1c48976f72329b84",
+      "date": 1425146803605
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "fcf7c9fdcfa5b66a",
+      "date": 1425146815865
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "ad1751b4fec30675",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "04f23f71bb18476a",
+      "date": 1425146822412
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "ad1751b4fec30675",
+      "date": 1425146825630
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "b0a195373e0ef3b4",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "4b983c39e850792f",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "b0a195373e0ef3b4",
+      "date": 1425146838145
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "04d870bc55002667",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "4b983c39e850792f",
+      "date": 1425146843231
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04d870bc55002667",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "7686a29782ff9109",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "04d870bc55002667",
+      "date": 1425146853166
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "7686a29782ff9109",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04d870bc55002667",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "aad370fe5b3240a3",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "7686a29782ff9109",
+      "date": 1425146863120
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "7686a29782ff9109",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04d870bc55002667",
+        "aad370fe5b3240a3",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "e0c44b70c5100827",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "aad370fe5b3240a3",
+      "date": 1425146866465
+    },
+    {
+      "type": "move",
+      "order": [
+        "d64ab99c91382c37",
+        "fcf7c9fdcfa5b66a",
+        "04f23f71bb18476a",
+        "ad1751b4fec30675",
+        "7686a29782ff9109",
+        "b0a195373e0ef3b4",
+        "4b983c39e850792f",
+        "04d870bc55002667",
+        "aad370fe5b3240a3",
+        "e0c44b70c5100827",
+        "1c48976f72329b84",
+        "783b8ebf6bb64363",
+        "38bc370fcc3850d0",
+        "47af1bfd75e54015",
+        "39444a2cc69bbf9d",
+        "1d3518ec689c141d",
+        "91a3a284e32d01e8",
+        "cb1bf200c3e1870e",
+        "0f4b9980c1e5d918",
+        "709289b352977066",
+        "a5e3ba5605d322be",
+        "a8a814ea4bbce1c9",
+        "471fa4310cd99675",
+        "9995be920f446c60",
+        "3f7c352b8fb806e2",
+        "3d158d05f81a98af"
+      ],
+      "id": "e0c44b70c5100827",
+      "date": 1425146869510
+    },
+    {
+      "type": "edit",
+      "id": "e0c44b70c5100827",
+      "item": {
+        "type": "paragraph",
+        "id": "e0c44b70c5100827",
+        "text": "[http://www.fairphone.com/ Fairphone] (not a laptop)"
+      },
+      "date": 1425146883738
     }
   ]
 }

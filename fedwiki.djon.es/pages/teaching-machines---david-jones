@@ -2,8 +2,14 @@
   "title": "Teaching Machines - (David Jones)",
   "story": [
     {
-      "type": "factory",
-      "id": "51c2e9b9cd953237"
+      "type": "paragraph",
+      "id": "51c2e9b9cd953237",
+      "text": "Index of articles written and edited for the Teaching Machine Happening, March 2015."
+    },
+    {
+      "type": "html",
+      "id": "318e75246270cba9",
+      "text": "<h3>Articles I Started</h3>"
     }
   ],
   "journal": [
@@ -23,6 +29,73 @@
       "id": "51c2e9b9cd953237",
       "type": "add",
       "date": 1425118791126
+    },
+    {
+      "type": "edit",
+      "id": "51c2e9b9cd953237",
+      "item": {
+        "type": "paragraph",
+        "id": "51c2e9b9cd953237",
+        "text": "Index of articles written and edited for the Teaching Machine Happening, March 2015."
+      },
+      "date": 1425118813274
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "318e75246270cba9",
+        "text": ""
+      },
+      "id": "318e75246270cba9",
+      "type": "add",
+      "after": "51c2e9b9cd953237",
+      "date": 1425118813297
+    },
+    {
+      "type": "edit",
+      "id": "318e75246270cba9",
+      "item": {
+        "type": "paragraph",
+        "id": "318e75246270cba9",
+        "text": "<h3>Articles I Started</h3>"
+      },
+      "date": 1425118821137
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "92260a624af45bff",
+        "text": ""
+      },
+      "id": "92260a624af45bff",
+      "type": "add",
+      "after": "318e75246270cba9",
+      "date": 1425118821145
+    },
+    {
+      "type": "edit",
+      "id": "318e75246270cba9",
+      "item": {
+        "type": "html",
+        "id": "318e75246270cba9",
+        "text": "<h3>Articles I Started</h3>"
+      },
+      "date": 1425118825148
+    },
+    {
+      "type": "edit",
+      "id": "318e75246270cba9",
+      "item": {
+        "type": "html",
+        "id": "318e75246270cba9",
+        "text": "<h3>Articles I Started</h3>"
+      },
+      "date": 1425118825150
+    },
+    {
+      "type": "remove",
+      "id": "92260a624af45bff",
+      "date": 1425118829412
     }
   ]
 }

@@ -46,6 +46,16 @@
       "type": "paragraph",
       "id": "7fcffdbcd9ad70f2",
       "text": "[[Things You Must Do]]"
+    },
+    {
+      "type": "html",
+      "id": "2bfe2a5cd51cec33",
+      "text": "<h3>Related Sites</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "7de862242cdb2b1f",
+      "text": "Conversation Clubs [http://fed.wiki.org/rosters/happening-2.html html]"
     }
   ],
   "journal": [
@@ -1323,6 +1333,73 @@
         "text": "After playing a bit as part of #fedwikihappening with the [[Happening Folks]] I'm now moving (slowly) onto the next big SFW thing - [[Teaching Machines Sites]]. If I ever do anything related, it will be [[Teaching Machines - (David Jones)]]"
       },
       "date": 1425118771024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2bfe2a5cd51cec33"
+      },
+      "id": "2bfe2a5cd51cec33",
+      "type": "add",
+      "after": "7fcffdbcd9ad70f2",
+      "date": 1425119017987
+    },
+    {
+      "type": "edit",
+      "id": "2bfe2a5cd51cec33",
+      "item": {
+        "type": "paragraph",
+        "id": "2bfe2a5cd51cec33",
+        "text": "<h3>Related Sites</h3>"
+      },
+      "date": 1425119029361
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7de862242cdb2b1f",
+        "text": ""
+      },
+      "id": "7de862242cdb2b1f",
+      "type": "add",
+      "after": "2bfe2a5cd51cec33",
+      "date": 1425119029382
+    },
+    {
+      "type": "edit",
+      "id": "2bfe2a5cd51cec33",
+      "item": {
+        "type": "html",
+        "id": "2bfe2a5cd51cec33",
+        "text": "<h3>Related Sites</h3>"
+      },
+      "date": 1425119032132
+    },
+    {
+      "type": "edit",
+      "id": "7de862242cdb2b1f",
+      "item": {
+        "type": "paragraph",
+        "id": "7de862242cdb2b1f",
+        "text": "Conversation Clubs [http://fed.wiki.org/rosters/happening-2.html html]"
+      },
+      "date": 1425119053625
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e6e3b97d5c55fbdf",
+        "text": ""
+      },
+      "id": "e6e3b97d5c55fbdf",
+      "type": "add",
+      "after": "7de862242cdb2b1f",
+      "date": 1425119053642
+    },
+    {
+      "type": "remove",
+      "id": "e6e3b97d5c55fbdf",
+      "date": 1425119056893
     }
   ]
 }

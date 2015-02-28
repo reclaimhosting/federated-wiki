@@ -47,6 +47,21 @@
       "text": "[https://www.thinkpenguin.com/ ThinkPenguin]"
     },
     {
+      "type": "paragraph",
+      "id": "4b983c39e850792f",
+      "text": "[http://emperorlinux.com/ EmperorLinux]"
+    },
+    {
+      "type": "paragraph",
+      "id": "04f23f71bb18476a",
+      "text": "[http://shop.gluglug.org.uk/ Gluglug Libreboot Laptops]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad1751b4fec30675",
+      "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Dell Precision M3800 Mobile Workstation] w/ Ubuntu 14.04 LTS Option"
+    },
+    {
       "type": "pagefold",
       "id": "39444a2cc69bbf9d",
       "text": "Music"
@@ -664,6 +679,79 @@
         "text": "[https://www.thinkpenguin.com/ ThinkPenguin]"
       },
       "date": 1425141595534
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4b983c39e850792f",
+        "text": ""
+      },
+      "id": "4b983c39e850792f",
+      "type": "add",
+      "after": "b0a195373e0ef3b4",
+      "date": 1425141614291
+    },
+    {
+      "type": "edit",
+      "id": "4b983c39e850792f",
+      "item": {
+        "type": "paragraph",
+        "id": "4b983c39e850792f",
+        "text": "[http://emperorlinux.com/ EmperorLinux]"
+      },
+      "date": 1425141621033
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "04f23f71bb18476a",
+        "text": ""
+      },
+      "id": "04f23f71bb18476a",
+      "type": "add",
+      "after": "4b983c39e850792f",
+      "date": 1425141652039
+    },
+    {
+      "type": "edit",
+      "id": "04f23f71bb18476a",
+      "item": {
+        "type": "paragraph",
+        "id": "04f23f71bb18476a",
+        "text": "[http://shop.gluglug.org.uk/ Gluglug Libreboot Laptops]"
+      },
+      "date": 1425141665600
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ad1751b4fec30675",
+        "text": ""
+      },
+      "id": "ad1751b4fec30675",
+      "type": "add",
+      "after": "04f23f71bb18476a",
+      "date": 1425141771934
+    },
+    {
+      "type": "edit",
+      "id": "ad1751b4fec30675",
+      "item": {
+        "type": "paragraph",
+        "id": "ad1751b4fec30675",
+        "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Gell Precision m3800 w/ Ubuntu 14.04 LTS Option]"
+      },
+      "date": 1425141792191
+    },
+    {
+      "type": "edit",
+      "id": "ad1751b4fec30675",
+      "item": {
+        "type": "paragraph",
+        "id": "ad1751b4fec30675",
+        "text": "[http://www.dell.com/us/business/p/precision-m3800-workstation/pd Dell Precision M3800 Mobile Workstation] w/ Ubuntu 14.04 LTS Option"
+      },
+      "date": 1425141825107
     }
   ]
 }

@@ -404,8 +404,11 @@
       "text": "I am a Masters student at Carnegie Mellon University studying educational technology. I'm interested in seeing the whole picture rather than the picture that my research first school might present.  "
     },
     {
-      "type": "factory",
-      "id": "0d855c932f9aff04"
+      "type": "reference",
+      "id": "fa01237480a95d94",
+      "site": "fedwiki.djon.es",
+      "title": "David Jones",
+      "text": "A tinker and [[Digital Renovator]], always looking for how digital technologies might help enhance/transform learning and teaching, especially my own."
     }
   ],
   "journal": [
@@ -4313,6 +4316,45 @@
       "type": "add",
       "after": "6bc3db58f88c5194",
       "date": 1425117829297
+    },
+    {
+      "type": "edit",
+      "id": "0d855c932f9aff04",
+      "item": {
+        "type": "reference",
+        "id": "0d855c932f9aff04",
+        "site": "fedwiki.djon.es",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the [[Federated Wiki]] site of [[David Jones]]. "
+      },
+      "date": 1425118306773
+    },
+    {
+      "type": "remove",
+      "id": "0d855c932f9aff04",
+      "date": 1425118322231
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fa01237480a95d94"
+      },
+      "id": "fa01237480a95d94",
+      "type": "add",
+      "after": "6bc3db58f88c5194",
+      "date": 1425118595684
+    },
+    {
+      "type": "edit",
+      "id": "fa01237480a95d94",
+      "item": {
+        "type": "reference",
+        "id": "fa01237480a95d94",
+        "site": "fedwiki.djon.es",
+        "title": "David Jones",
+        "text": "A tinker and [[Digital Renovator]], always looking for how digital technologies might help enhance/transform learning and teaching, especially my own."
+      },
+      "date": 1425118601078
     }
   ]
 }

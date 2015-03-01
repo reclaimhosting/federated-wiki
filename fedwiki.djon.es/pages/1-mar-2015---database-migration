@@ -15,6 +15,16 @@
       "type": "html",
       "id": "d09cb3d4e17ad22e",
       "text": "<h3>Perl talking to Postgres</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c9f91f571d1fc031",
+      "text": "Yep, that works.  Just need to make the changes to the .txt database file"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d21357a7ed96391",
+      "text": "[DATABASE]dbname=moodle;host=localhost;port=5433"
     }
   ],
   "journal": [
@@ -193,6 +203,47 @@
       "type": "remove",
       "id": "2c5ffb6d081a49ed",
       "date": 1425192226736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9f91f571d1fc031"
+      },
+      "id": "c9f91f571d1fc031",
+      "type": "add",
+      "after": "d09cb3d4e17ad22e",
+      "date": 1425192813006
+    },
+    {
+      "type": "edit",
+      "id": "c9f91f571d1fc031",
+      "item": {
+        "type": "paragraph",
+        "id": "c9f91f571d1fc031",
+        "text": "Yep, that works.  Just need to make the changes to the .txt database file"
+      },
+      "date": 1425192825600
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4d21357a7ed96391",
+        "text": ""
+      },
+      "id": "4d21357a7ed96391",
+      "type": "add",
+      "after": "c9f91f571d1fc031",
+      "date": 1425192825607
+    },
+    {
+      "type": "edit",
+      "id": "4d21357a7ed96391",
+      "item": {
+        "type": "paragraph",
+        "id": "4d21357a7ed96391",
+        "text": "[DATABASE]dbname=moodle;host=localhost;port=5433"
+      },
+      "date": 1425192830038
     }
   ]
 }

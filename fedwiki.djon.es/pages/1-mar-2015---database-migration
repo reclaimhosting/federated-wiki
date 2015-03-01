@@ -1,0 +1,198 @@
+{
+  "title": "1 Mar 2015 - Database migration",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ae74b03ad4d0f834",
+      "text": "Problem - new web server install is running on a different version of Postgres and PHP. Need to explore if old style Perl and PHP scripts can work with the new Postgres"
+    },
+    {
+      "type": "html",
+      "id": "6619ee26f0477ee4",
+      "text": "Tasks to do\n<ol>\n  <li> Can Perl talk to Postgres. </li>\n  <li> Can Greasemonkey talk to server running new PHP? </li>\n</ol>"
+    },
+    {
+      "type": "html",
+      "id": "d09cb3d4e17ad22e",
+      "text": "<h3>Perl talking to Postgres</h3>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "1 Mar 2015 - Database migration",
+        "story": []
+      },
+      "date": 1425192033339
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae74b03ad4d0f834"
+      },
+      "id": "ae74b03ad4d0f834",
+      "type": "add",
+      "date": 1425192068885
+    },
+    {
+      "type": "edit",
+      "id": "ae74b03ad4d0f834",
+      "item": {
+        "type": "paragraph",
+        "id": "ae74b03ad4d0f834",
+        "text": "Problem - new web server install is running on a different version of Postgres and PHP. Need to explore if old style Perl and PHP scripts can work with the new Postgres"
+      },
+      "date": 1425192125624
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6619ee26f0477ee4",
+        "text": ""
+      },
+      "id": "6619ee26f0477ee4",
+      "type": "add",
+      "after": "ae74b03ad4d0f834",
+      "date": 1425192125632
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "paragraph",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do"
+      },
+      "date": 1425192130157
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07c54db800b73cd3",
+        "text": ""
+      },
+      "id": "07c54db800b73cd3",
+      "type": "add",
+      "after": "6619ee26f0477ee4",
+      "date": 1425192130168
+    },
+    {
+      "type": "remove",
+      "id": "07c54db800b73cd3",
+      "date": 1425192131455
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "paragraph",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do<ol></ol>"
+      },
+      "date": 1425192139516
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0f293f8ddde3384a",
+        "text": ""
+      },
+      "id": "0f293f8ddde3384a",
+      "type": "add",
+      "after": "6619ee26f0477ee4",
+      "date": 1425192139522
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "html",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do<ol></ol>"
+      },
+      "date": 1425192141929
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "html",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do<ol></ol>"
+      },
+      "date": 1425192141931
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "html",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do<ol></ol>"
+      },
+      "date": 1425192141932
+    },
+    {
+      "type": "remove",
+      "id": "0f293f8ddde3384a",
+      "date": 1425192143687
+    },
+    {
+      "type": "edit",
+      "id": "6619ee26f0477ee4",
+      "item": {
+        "type": "html",
+        "id": "6619ee26f0477ee4",
+        "text": "Tasks to do\n<ol>\n  <li> Can Perl talk to Postgres. </li>\n  <li> Can Greasemonkey talk to server running new PHP? </li>\n</ol>"
+      },
+      "date": 1425192179916
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d09cb3d4e17ad22e"
+      },
+      "id": "d09cb3d4e17ad22e",
+      "type": "add",
+      "after": "6619ee26f0477ee4",
+      "date": 1425192208338
+    },
+    {
+      "type": "edit",
+      "id": "d09cb3d4e17ad22e",
+      "item": {
+        "type": "paragraph",
+        "id": "d09cb3d4e17ad22e",
+        "text": "<h3>Perl talking to Postgres</h3>"
+      },
+      "date": 1425192219355
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2c5ffb6d081a49ed",
+        "text": ""
+      },
+      "id": "2c5ffb6d081a49ed",
+      "type": "add",
+      "after": "d09cb3d4e17ad22e",
+      "date": 1425192219361
+    },
+    {
+      "type": "edit",
+      "id": "d09cb3d4e17ad22e",
+      "item": {
+        "type": "html",
+        "id": "d09cb3d4e17ad22e",
+        "text": "<h3>Perl talking to Postgres</h3>"
+      },
+      "date": 1425192221251
+    },
+    {
+      "type": "remove",
+      "id": "2c5ffb6d081a49ed",
+      "date": 1425192226736
+    }
+  ]
+}

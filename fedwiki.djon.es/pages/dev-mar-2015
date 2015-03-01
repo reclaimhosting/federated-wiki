@@ -1,6 +1,12 @@
 {
   "title": "Dev Mar 2015",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6e18a1303c530ebd",
+      "text": "[[1 Mar 2015 - Database migration]]"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,25 @@
         "story": []
       },
       "date": 1425192006912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6e18a1303c530ebd"
+      },
+      "id": "6e18a1303c530ebd",
+      "type": "add",
+      "date": 1425192012695
+    },
+    {
+      "type": "edit",
+      "id": "6e18a1303c530ebd",
+      "item": {
+        "type": "paragraph",
+        "id": "6e18a1303c530ebd",
+        "text": "[[1 Mar 2015 - Database migration]]"
+      },
+      "date": 1425192029502
     }
   ]
 }

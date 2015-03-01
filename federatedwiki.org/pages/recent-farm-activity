@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c6398432100b14f4"
+      "id": "031a0223269decdb"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "4a82e459f84c1df3"
+      "id": "0912fc8a4d92fae5"
     },
     {
-      "date": 1425190801000,
+      "date": 1425191999000,
+      "site": "fedwiki.djon.es",
+      "slug": "dev-mar-2015",
+      "title": "Dev Mar 2015",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 87 pages.",
+      "type": "reference",
+      "id": "a4b50a0935ce18a6"
+    },
+    {
+      "date": 1425191401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "072e724ec3597948"
+      "id": "688366e48d14ea8d"
     },
     {
       "date": 1425151109000,
@@ -27,64 +36,69 @@
       "title": "Bookmarks",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "a48c3ab20af50a2d"
-    },
-    {
-      "date": 1425125046000,
-      "site": "fedwiki.djon.es",
-      "slug": "teaching-machines-djplaner",
-      "title": "Teaching Machines (@djplaner)",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 86 pages.",
-      "type": "reference",
-      "id": "d007e704a6cd49b9"
+      "id": "cb3f78cbbac49097"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "deceaec37d1caeef",
+      "id": "ba4b033c58b64e5c",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1425191401000
+      "date": 1425192001000
     },
     {
       "type": "add",
-      "id": "c6398432100b14f4",
+      "id": "031a0223269decdb",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c6398432100b14f4"
+        "id": "031a0223269decdb"
       },
-      "date": 1425191401000
+      "date": 1425192001000
     },
     {
       "type": "add",
-      "id": "4a82e459f84c1df3",
+      "id": "0912fc8a4d92fae5",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "4a82e459f84c1df3"
+        "id": "0912fc8a4d92fae5"
       },
-      "date": 1425191401000
+      "date": 1425192001000
     },
     {
       "type": "add",
-      "id": "072e724ec3597948",
+      "id": "a4b50a0935ce18a6",
       "item": {
-        "date": 1425190801000,
+        "date": 1425191999000,
+        "site": "fedwiki.djon.es",
+        "slug": "dev-mar-2015",
+        "title": "Dev Mar 2015",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 87 pages.",
+        "type": "reference",
+        "id": "a4b50a0935ce18a6"
+      },
+      "date": 1425192001000
+    },
+    {
+      "type": "add",
+      "id": "688366e48d14ea8d",
+      "item": {
+        "date": 1425191401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "072e724ec3597948"
+        "id": "688366e48d14ea8d"
       },
-      "date": 1425191401000
+      "date": 1425192001000
     },
     {
       "type": "add",
-      "id": "a48c3ab20af50a2d",
+      "id": "cb3f78cbbac49097",
       "item": {
         "date": 1425151109000,
         "site": "jmahoney.federatedwiki.org",
@@ -92,23 +106,9 @@
         "title": "Bookmarks",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "a48c3ab20af50a2d"
+        "id": "cb3f78cbbac49097"
       },
-      "date": 1425191401000
-    },
-    {
-      "type": "add",
-      "id": "d007e704a6cd49b9",
-      "item": {
-        "date": 1425125046000,
-        "site": "fedwiki.djon.es",
-        "slug": "teaching-machines-djplaner",
-        "title": "Teaching Machines (@djplaner)",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 86 pages.",
-        "type": "reference",
-        "id": "d007e704a6cd49b9"
-      },
-      "date": 1425191401000
+      "date": 1425192001000
     }
   ]
 }

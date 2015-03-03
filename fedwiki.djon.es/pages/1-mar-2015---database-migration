@@ -25,6 +25,21 @@
       "type": "paragraph",
       "id": "4d21357a7ed96391",
       "text": "[DATABASE]dbname=moodle;host=localhost;port=5433"
+    },
+    {
+      "type": "html",
+      "id": "9dd8aba4e7d8762e",
+      "text": "<h3>Update and import to that database</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "07d2444bc7137741",
+      "text": "Add the extra field to mdl_user"
+    },
+    {
+      "type": "paragraph",
+      "id": "62419866804755f0",
+      "text": "Run the import scripts from remote"
     }
   ],
   "journal": [
@@ -244,6 +259,94 @@
         "text": "[DATABASE]dbname=moodle;host=localhost;port=5433"
       },
       "date": 1425192830038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9dd8aba4e7d8762e"
+      },
+      "id": "9dd8aba4e7d8762e",
+      "type": "add",
+      "after": "4d21357a7ed96391",
+      "date": 1425340743843
+    },
+    {
+      "type": "edit",
+      "id": "9dd8aba4e7d8762e",
+      "item": {
+        "type": "paragraph",
+        "id": "9dd8aba4e7d8762e",
+        "text": "<h3>Update and import to that database</h3>"
+      },
+      "date": 1425340761741
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07d2444bc7137741",
+        "text": ""
+      },
+      "id": "07d2444bc7137741",
+      "type": "add",
+      "after": "9dd8aba4e7d8762e",
+      "date": 1425340761762
+    },
+    {
+      "type": "edit",
+      "id": "9dd8aba4e7d8762e",
+      "item": {
+        "type": "html",
+        "id": "9dd8aba4e7d8762e",
+        "text": "<h3>Update and import to that database</h3>"
+      },
+      "date": 1425340763546
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "62419866804755f0",
+        "text": ""
+      },
+      "id": "62419866804755f0",
+      "type": "add",
+      "after": "07d2444bc7137741",
+      "date": 1425340774939
+    },
+    {
+      "type": "edit",
+      "id": "07d2444bc7137741",
+      "item": {
+        "type": "paragraph",
+        "id": "07d2444bc7137741",
+        "text": "Add the extra field to mdl_user"
+      },
+      "date": 1425340774933
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd2305268b968566",
+        "text": ""
+      },
+      "id": "dd2305268b968566",
+      "type": "add",
+      "after": "62419866804755f0",
+      "date": 1425340789521
+    },
+    {
+      "type": "edit",
+      "id": "62419866804755f0",
+      "item": {
+        "type": "paragraph",
+        "id": "62419866804755f0",
+        "text": "Run the import scripts from remote"
+      },
+      "date": 1425340789515
+    },
+    {
+      "type": "remove",
+      "id": "dd2305268b968566",
+      "date": 1425340799725
     }
   ]
 }

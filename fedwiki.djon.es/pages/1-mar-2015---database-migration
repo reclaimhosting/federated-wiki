@@ -38,8 +38,23 @@
     },
     {
       "type": "paragraph",
+      "id": "256cb05afc797e13",
+      "text": "\"usqMoodleId\" bigint DEFAULT 0, -- A kludge to store the user id from the USQ version"
+    },
+    {
+      "type": "paragraph",
       "id": "62419866804755f0",
       "text": "Run the import scripts from remote"
+    },
+    {
+      "type": "html",
+      "id": "3617a0cf2969f6a5",
+      "text": "<ol> <li> Import Moodle participant data </li>\n  <li> Add the peoplesoft data </li>\n  <li> Insert activity mapping - save home page </li>\n  <li> Update activity completion </li>\n</ol>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a47e8640e1cba798",
+      "text": "  "
     }
   ],
   "journal": [
@@ -347,6 +362,89 @@
       "type": "remove",
       "id": "dd2305268b968566",
       "date": 1425340799725
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "256cb05afc797e13",
+        "text": ""
+      },
+      "id": "256cb05afc797e13",
+      "type": "add",
+      "after": "07d2444bc7137741",
+      "date": 1425340922378
+    },
+    {
+      "type": "edit",
+      "id": "256cb05afc797e13",
+      "item": {
+        "type": "paragraph",
+        "id": "256cb05afc797e13",
+        "text": "\"usqMoodleId\" bigint DEFAULT 0, -- A kludge to store the user id from the USQ version"
+      },
+      "date": 1425340927024
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3617a0cf2969f6a5",
+        "text": ""
+      },
+      "id": "3617a0cf2969f6a5",
+      "type": "add",
+      "after": "62419866804755f0",
+      "date": 1425341220147
+    },
+    {
+      "type": "edit",
+      "id": "3617a0cf2969f6a5",
+      "item": {
+        "type": "paragraph",
+        "id": "3617a0cf2969f6a5",
+        "text": "<ol> <li> Import Moodle participant data </li>"
+      },
+      "date": 1425341234469
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a47e8640e1cba798",
+        "text": ""
+      },
+      "id": "a47e8640e1cba798",
+      "type": "add",
+      "after": "3617a0cf2969f6a5",
+      "date": 1425341234477
+    },
+    {
+      "type": "edit",
+      "id": "3617a0cf2969f6a5",
+      "item": {
+        "type": "html",
+        "id": "3617a0cf2969f6a5",
+        "text": "<ol> <li> Import Moodle participant data </li>"
+      },
+      "date": 1425341237251
+    },
+    {
+      "type": "edit",
+      "id": "a47e8640e1cba798",
+      "item": {
+        "type": "paragraph",
+        "id": "a47e8640e1cba798",
+        "text": "  "
+      },
+      "date": 1425341238954
+    },
+    {
+      "type": "edit",
+      "id": "3617a0cf2969f6a5",
+      "item": {
+        "type": "html",
+        "id": "3617a0cf2969f6a5",
+        "text": "<ol> <li> Import Moodle participant data </li>\n  <li> Add the peoplesoft data </li>\n  <li> Insert activity mapping - save home page </li>\n  <li> Update activity completion </li>\n</ol>\n"
+      },
+      "date": 1425341275810
     }
   ]
 }

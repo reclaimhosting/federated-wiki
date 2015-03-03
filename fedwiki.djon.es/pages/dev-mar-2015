@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "6e18a1303c530ebd",
       "text": "[[1 Mar 2015 - Database migration]]"
+    },
+    {
+      "type": "factory",
+      "id": "df25ea81382096be"
     }
   ],
   "journal": [
@@ -34,6 +38,16 @@
         "text": "[[1 Mar 2015 - Database migration]]"
       },
       "date": 1425192029502
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df25ea81382096be"
+      },
+      "id": "df25ea81382096be",
+      "type": "add",
+      "after": "6e18a1303c530ebd",
+      "date": 1425363005446
     }
   ]
 }

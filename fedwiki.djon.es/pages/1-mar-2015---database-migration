@@ -43,6 +43,11 @@
     },
     {
       "type": "paragraph",
+      "id": "a286046ab6c1a308",
+      "text": "Create the activity_mapping table"
+    },
+    {
+      "type": "paragraph",
       "id": "62419866804755f0",
       "text": "Run the import scripts from remote"
     },
@@ -445,6 +450,43 @@
         "text": "<ol> <li> Import Moodle participant data </li>\n  <li> Add the peoplesoft data </li>\n  <li> Insert activity mapping - save home page </li>\n  <li> Update activity completion </li>\n</ol>\n"
       },
       "date": 1425341275810
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a286046ab6c1a308",
+        "text": ""
+      },
+      "id": "a286046ab6c1a308",
+      "type": "add",
+      "after": "256cb05afc797e13",
+      "date": 1425343526066
+    },
+    {
+      "type": "edit",
+      "id": "a286046ab6c1a308",
+      "item": {
+        "type": "paragraph",
+        "id": "a286046ab6c1a308",
+        "text": "Create the activity_mapping table"
+      },
+      "date": 1425343531628
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "754ba61d03bf91bf",
+        "text": ""
+      },
+      "id": "754ba61d03bf91bf",
+      "type": "add",
+      "after": "a286046ab6c1a308",
+      "date": 1425343531635
+    },
+    {
+      "type": "remove",
+      "id": "754ba61d03bf91bf",
+      "date": 1425343532523
     }
   ]
 }

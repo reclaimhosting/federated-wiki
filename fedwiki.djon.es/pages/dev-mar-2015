@@ -7,8 +7,9 @@
       "text": "[[1 Mar 2015 - Database migration]]"
     },
     {
-      "type": "factory",
-      "id": "df25ea81382096be"
+      "type": "paragraph",
+      "id": "df25ea81382096be",
+      "text": "[[3 Mar 2015 - BIM web scraping]]"
     }
   ],
   "journal": [
@@ -48,6 +49,16 @@
       "type": "add",
       "after": "6e18a1303c530ebd",
       "date": 1425363005446
+    },
+    {
+      "type": "edit",
+      "id": "df25ea81382096be",
+      "item": {
+        "type": "paragraph",
+        "id": "df25ea81382096be",
+        "text": "[[3 Mar 2015 - BIM web scraping]]"
+      },
+      "date": 1425363015406
     }
   ]
 }

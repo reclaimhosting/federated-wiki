@@ -1,0 +1,228 @@
+{
+  "title": "3 Mar 2015 - BIM web scraping",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f9ae2bd7441d3622",
+      "text": "Can't get registered blog details out of LMS. Service request has gone unanswered.  Time to webscrap"
+    },
+    {
+      "type": "html",
+      "id": "44a7228d3df3378e",
+      "text": "<h3>How to get the goods</h3>"
+    },
+    {
+      "type": "factory",
+      "id": "44b10ecea5c8d66e"
+    },
+    {
+      "type": "paragraph",
+      "id": "4525ac81ecb998bd",
+      "text": "Column names are Username, Name, Email etc."
+    },
+    {
+      "type": "html",
+      "id": "1d6accc2f3b1de32",
+      "text": "Row elements are\n<ol>\n  <Li> student number (u0000) </li>\n  <li> Lastname, Firstname </li>\n  <li> href mailto:email address </li>\n  <li> # of posts </li>\n  <li> Last post </li>\n  <Li> Two links separated by |.  \n        <ol>\n          <Li> Link to student blog with \"View Current\" </li>\n         <li> Link to change the blog - href includes Moodle ID &amp;student=17223 </li>\n        </ol>\n  </li>\n</ol>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3 Mar 2015 - BIM web scraping",
+        "story": []
+      },
+      "date": 1425363019055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f9ae2bd7441d3622"
+      },
+      "id": "f9ae2bd7441d3622",
+      "type": "add",
+      "date": 1425363020809
+    },
+    {
+      "type": "edit",
+      "id": "f9ae2bd7441d3622",
+      "item": {
+        "type": "paragraph",
+        "id": "f9ae2bd7441d3622",
+        "text": "Can't get registered blog details out of LMS. Service request has gone unanswered.  Time to webscrap"
+      },
+      "date": 1425363054999
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "44a7228d3df3378e",
+        "text": "."
+      },
+      "id": "44a7228d3df3378e",
+      "type": "add",
+      "after": "f9ae2bd7441d3622",
+      "date": 1425363055007
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "44b10ecea5c8d66e"
+      },
+      "id": "44b10ecea5c8d66e",
+      "type": "add",
+      "after": "44a7228d3df3378e",
+      "date": 1425363095935
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d75458ca831a9d52",
+        "text": ""
+      },
+      "id": "d75458ca831a9d52",
+      "type": "add",
+      "after": "44b10ecea5c8d66e",
+      "date": 1425363102219
+    },
+    {
+      "type": "remove",
+      "id": "d75458ca831a9d52",
+      "date": 1425363107642
+    },
+    {
+      "type": "edit",
+      "id": "44a7228d3df3378e",
+      "item": {
+        "type": "paragraph",
+        "id": "44a7228d3df3378e",
+        "text": "<h3>How to get the goods</h3>"
+      },
+      "date": 1425363116338
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3af1d115ac1acef7",
+        "text": ""
+      },
+      "id": "3af1d115ac1acef7",
+      "type": "add",
+      "after": "44a7228d3df3378e",
+      "date": 1425363116368
+    },
+    {
+      "type": "edit",
+      "id": "44a7228d3df3378e",
+      "item": {
+        "type": "html",
+        "id": "44a7228d3df3378e",
+        "text": "<h3>How to get the goods</h3>"
+      },
+      "date": 1425363117793
+    },
+    {
+      "type": "edit",
+      "id": "44a7228d3df3378e",
+      "item": {
+        "type": "html",
+        "id": "44a7228d3df3378e",
+        "text": "<h3>How to get the goods</h3>"
+      },
+      "date": 1425363117791
+    },
+    {
+      "type": "edit",
+      "id": "44a7228d3df3378e",
+      "item": {
+        "type": "html",
+        "id": "44a7228d3df3378e",
+        "text": "<h3>How to get the goods</h3>"
+      },
+      "date": 1425363117788
+    },
+    {
+      "type": "remove",
+      "id": "3af1d115ac1acef7",
+      "date": 1425363119661
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4525ac81ecb998bd",
+        "text": ""
+      },
+      "id": "4525ac81ecb998bd",
+      "type": "add",
+      "after": "44b10ecea5c8d66e",
+      "date": 1425363132256
+    },
+    {
+      "type": "edit",
+      "id": "4525ac81ecb998bd",
+      "item": {
+        "type": "paragraph",
+        "id": "4525ac81ecb998bd",
+        "text": "Column names are Username, Name, Email etc."
+      },
+      "date": 1425363146478
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c9ed3d6e4ef7cc8a",
+        "text": ""
+      },
+      "id": "c9ed3d6e4ef7cc8a",
+      "type": "add",
+      "after": "4525ac81ecb998bd",
+      "date": 1425363146492
+    },
+    {
+      "type": "remove",
+      "id": "c9ed3d6e4ef7cc8a",
+      "date": 1425363147991
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d6accc2f3b1de32"
+      },
+      "id": "1d6accc2f3b1de32",
+      "type": "add",
+      "after": "4525ac81ecb998bd",
+      "date": 1425363154630
+    },
+    {
+      "type": "edit",
+      "id": "1d6accc2f3b1de32",
+      "item": {
+        "type": "html",
+        "id": "1d6accc2f3b1de32",
+        "text": "Row elements are\n<ol>\n  <Li> student number (u0000) </li>\n  <li> Lastname, Firstname </li>\n  <li> "
+      },
+      "date": 1425363193081
+    },
+    {
+      "type": "edit",
+      "id": "1d6accc2f3b1de32",
+      "item": {
+        "type": "html",
+        "id": "1d6accc2f3b1de32",
+        "text": "Row elements are\n<ol>\n  <Li> student number (u0000) </li>\n  <li> Lastname, Firstname </li>\n  <li> href mailto:email address </li>\n  <li> # of posts </li>\n  <li> Last post </li>\n  <Li> "
+      },
+      "date": 1425363225868
+    },
+    {
+      "type": "edit",
+      "id": "1d6accc2f3b1de32",
+      "item": {
+        "type": "html",
+        "id": "1d6accc2f3b1de32",
+        "text": "Row elements are\n<ol>\n  <Li> student number (u0000) </li>\n  <li> Lastname, Firstname </li>\n  <li> href mailto:email address </li>\n  <li> # of posts </li>\n  <li> Last post </li>\n  <Li> Two links separated by |.  \n        <ol>\n          <Li> Link to student blog with \"View Current\" </li>\n         <li> Link to change the blog - href includes Moodle ID &amp;student=17223 </li>\n        </ol>\n  </li>\n</ol>"
+      },
+      "date": 1425363296788
+    }
+  ]
+}

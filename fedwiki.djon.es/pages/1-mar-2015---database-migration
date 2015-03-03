@@ -48,6 +48,11 @@
     },
     {
       "type": "paragraph",
+      "id": "1767ff54be094ca6",
+      "text": "Create the mdl_user_extras table"
+    },
+    {
+      "type": "paragraph",
       "id": "62419866804755f0",
       "text": "Run the import scripts from remote"
     },
@@ -487,6 +492,43 @@
       "type": "remove",
       "id": "754ba61d03bf91bf",
       "date": 1425343532523
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1767ff54be094ca6",
+        "text": ""
+      },
+      "id": "1767ff54be094ca6",
+      "type": "add",
+      "after": "a286046ab6c1a308",
+      "date": 1425343893459
+    },
+    {
+      "type": "edit",
+      "id": "1767ff54be094ca6",
+      "item": {
+        "type": "paragraph",
+        "id": "1767ff54be094ca6",
+        "text": "Create the mdl_user_extras table"
+      },
+      "date": 1425343898569
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "37ff7b9f3278ad1a",
+        "text": ""
+      },
+      "id": "37ff7b9f3278ad1a",
+      "type": "add",
+      "after": "1767ff54be094ca6",
+      "date": 1425343898585
+    },
+    {
+      "type": "remove",
+      "id": "37ff7b9f3278ad1a",
+      "date": 1425343902052
     }
   ]
 }

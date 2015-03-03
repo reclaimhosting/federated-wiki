@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "445615c39b7f60a6"
+      "id": "349eb0f4efcab061"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "1785769b441b0247"
+      "id": "82ba0803001ad07c"
+    },
+    {
+      "date": 1425341401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "23d899ff75115179"
     },
     {
       "date": 1425341265000,
@@ -18,16 +27,7 @@
       "title": "1 Mar 2015 - Database migration",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 88 pages.",
       "type": "reference",
-      "id": "23ddb10de9e2ea4a"
-    },
-    {
-      "date": 1425340801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "f10ccef3888d1df8"
+      "id": "0726813151b73d27"
     },
     {
       "date": 1425151109000,
@@ -36,41 +36,55 @@
       "title": "Bookmarks",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
       "type": "reference",
-      "id": "6e1508de6424d556"
+      "id": "fd67e56a366b03ef"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "0936ef3023b184ab",
+      "id": "1a2c628f54e72da2",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1425341401000
+      "date": 1425342001000
     },
     {
       "type": "add",
-      "id": "445615c39b7f60a6",
+      "id": "349eb0f4efcab061",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "445615c39b7f60a6"
+        "id": "349eb0f4efcab061"
       },
-      "date": 1425341401000
+      "date": 1425342001000
     },
     {
       "type": "add",
-      "id": "1785769b441b0247",
+      "id": "82ba0803001ad07c",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "1785769b441b0247"
+        "id": "82ba0803001ad07c"
       },
-      "date": 1425341401000
+      "date": 1425342001000
     },
     {
       "type": "add",
-      "id": "23ddb10de9e2ea4a",
+      "id": "23d899ff75115179",
+      "item": {
+        "date": 1425341401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "23d899ff75115179"
+      },
+      "date": 1425342001000
+    },
+    {
+      "type": "add",
+      "id": "0726813151b73d27",
       "item": {
         "date": 1425341265000,
         "site": "fedwiki.djon.es",
@@ -78,27 +92,13 @@
         "title": "1 Mar 2015 - Database migration",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 88 pages.",
         "type": "reference",
-        "id": "23ddb10de9e2ea4a"
+        "id": "0726813151b73d27"
       },
-      "date": 1425341401000
+      "date": 1425342001000
     },
     {
       "type": "add",
-      "id": "f10ccef3888d1df8",
-      "item": {
-        "date": 1425340801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "f10ccef3888d1df8"
-      },
-      "date": 1425341401000
-    },
-    {
-      "type": "add",
-      "id": "6e1508de6424d556",
+      "id": "fd67e56a366b03ef",
       "item": {
         "date": 1425151109000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Bookmarks",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 57 pages.",
         "type": "reference",
-        "id": "6e1508de6424d556"
+        "id": "fd67e56a366b03ef"
       },
-      "date": 1425341401000
+      "date": 1425342001000
     }
   ]
 }

@@ -1,0 +1,275 @@
+{
+  "title": "e6500",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a5dd09c485ab474d",
+      "text": "[http://en.community.dell.com/support-forums/laptop/f/3518/t/19311390 numlock bios]"
+    },
+    {
+      "type": "paragraph",
+      "id": "991176f64da29ffd",
+      "text": "[http://www.dell.com/support/home/us/en/19/product-support/product/latitude-e6500/drivers Dell Drivers] and BIOS update"
+    },
+    {
+      "type": "paragraph",
+      "id": "1f013f8564dd3d0a",
+      "text": "Change clock to 12H format"
+    },
+    {
+      "type": "paragraph",
+      "id": "3a9f89f2ef3d9e36",
+      "text": "Run Updates"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d9b0a4308b0613d",
+      "text": "Add KXStudio Repos"
+    },
+    {
+      "type": "paragraph",
+      "id": "259871e58add4dc5",
+      "text": "$ sudo apt-get install kxstudio-meta-all"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e66b3c9ebee0053",
+      "text": "$ sudo adduser james audio"
+    },
+    {
+      "type": "paragraph",
+      "id": "91e734fbbe8bbcbf",
+      "text": "install kxstudio-default-settings ?"
+    },
+    {
+      "type": "paragraph",
+      "id": "355048165cea9eff",
+      "text": "install ardour (2.8.16)"
+    },
+    {
+      "type": "paragraph",
+      "id": "9eea5d8ca809aa74",
+      "text": "install backintime"
+    },
+    {
+      "type": "paragraph",
+      "id": "e69a31d1a1b06004",
+      "text": "[[Places Menu]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "e6500",
+        "story": []
+      },
+      "date": 1425601386301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a5dd09c485ab474d"
+      },
+      "id": "a5dd09c485ab474d",
+      "type": "add",
+      "date": 1425601388187
+    },
+    {
+      "type": "edit",
+      "id": "a5dd09c485ab474d",
+      "item": {
+        "type": "paragraph",
+        "id": "a5dd09c485ab474d",
+        "text": "[]"
+      },
+      "date": 1425601390920
+    },
+    {
+      "type": "edit",
+      "id": "a5dd09c485ab474d",
+      "item": {
+        "type": "paragraph",
+        "id": "a5dd09c485ab474d",
+        "text": "[http://en.community.dell.com/support-forums/laptop/f/3518/t/19311390 numlock bios]"
+      },
+      "date": 1425601436449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "991176f64da29ffd"
+      },
+      "id": "991176f64da29ffd",
+      "type": "add",
+      "after": "a5dd09c485ab474d",
+      "date": 1425606024558
+    },
+    {
+      "type": "edit",
+      "id": "991176f64da29ffd",
+      "item": {
+        "type": "paragraph",
+        "id": "991176f64da29ffd",
+        "text": "[http://www.dell.com/support/home/us/en/19/product-support/product/latitude-e6500/drivers Dell Drivers] and BIOS update"
+      },
+      "date": 1425606036551
+    },
+    {
+      "type": "add",
+      "id": "1f013f8564dd3d0a",
+      "item": {
+        "type": "paragraph",
+        "id": "1f013f8564dd3d0a",
+        "text": "Change clock to 12H format"
+      },
+      "after": "991176f64da29ffd",
+      "date": 1425616649902
+    },
+    {
+      "type": "add",
+      "id": "3a9f89f2ef3d9e36",
+      "item": {
+        "type": "paragraph",
+        "id": "3a9f89f2ef3d9e36",
+        "text": "Run Updates"
+      },
+      "after": "1f013f8564dd3d0a",
+      "date": 1425616653977
+    },
+    {
+      "type": "add",
+      "id": "4d9b0a4308b0613d",
+      "item": {
+        "type": "paragraph",
+        "id": "4d9b0a4308b0613d",
+        "text": "Add KXStudio Repos"
+      },
+      "after": "3a9f89f2ef3d9e36",
+      "date": 1425616672474
+    },
+    {
+      "type": "add",
+      "id": "f11abc00ed1030a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f11abc00ed1030a5",
+        "text": "[http://forums.mate-desktop.org/viewtopic.php?f=6&t=1857 ]"
+      },
+      "after": "4d9b0a4308b0613d",
+      "date": 1425618074647
+    },
+    {
+      "type": "add",
+      "id": "ff5515ec1055e94d",
+      "item": {
+        "type": "paragraph",
+        "id": "ff5515ec1055e94d",
+        "text": "Places Menu"
+      },
+      "after": "4d9b0a4308b0613d",
+      "date": 1425618184861
+    },
+    {
+      "type": "edit",
+      "id": "f11abc00ed1030a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f11abc00ed1030a5",
+        "text": "[http://forums.mate-desktop.org/viewtopic.php?f=6&t=1857 Places Menu"
+      },
+      "date": 1425618194070
+    },
+    {
+      "type": "edit",
+      "id": "f11abc00ed1030a5",
+      "item": {
+        "type": "paragraph",
+        "id": "f11abc00ed1030a5",
+        "text": "[http://forums.mate-desktop.org/viewtopic.php?f=6&t=1857 Places Menu]"
+      },
+      "date": 1425618196484
+    },
+    {
+      "type": "remove",
+      "id": "ff5515ec1055e94d",
+      "date": 1425618201977
+    },
+    {
+      "type": "add",
+      "id": "e69a31d1a1b06004",
+      "item": {
+        "type": "paragraph",
+        "id": "e69a31d1a1b06004",
+        "text": "[[Places Menu]]"
+      },
+      "after": "f11abc00ed1030a5",
+      "date": 1425637598883
+    },
+    {
+      "type": "remove",
+      "id": "f11abc00ed1030a5",
+      "date": 1425637605264
+    },
+    {
+      "type": "add",
+      "id": "3e66b3c9ebee0053",
+      "item": {
+        "type": "paragraph",
+        "id": "3e66b3c9ebee0053",
+        "text": "$ sudo adduser james audio"
+      },
+      "after": "4d9b0a4308b0613d",
+      "date": 1425642670775
+    },
+    {
+      "type": "add",
+      "id": "259871e58add4dc5",
+      "item": {
+        "type": "paragraph",
+        "id": "259871e58add4dc5",
+        "text": "$ sudo apt-get install kxstudio-meta-all"
+      },
+      "after": "4d9b0a4308b0613d",
+      "date": 1425642689682
+    },
+    {
+      "type": "add",
+      "id": "91e734fbbe8bbcbf",
+      "item": {
+        "type": "paragraph",
+        "id": "91e734fbbe8bbcbf",
+        "text": "install kxstudio-default-settings ?"
+      },
+      "after": "3e66b3c9ebee0053",
+      "date": 1425644010369
+    },
+    {
+      "type": "add",
+      "id": "355048165cea9eff",
+      "item": {
+        "type": "paragraph",
+        "id": "355048165cea9eff",
+        "text": "install ardour (2.8.16)"
+      },
+      "after": "91e734fbbe8bbcbf",
+      "date": 1425644181352
+    },
+    {
+      "type": "add",
+      "id": "9eea5d8ca809aa74",
+      "item": {
+        "type": "paragraph",
+        "id": "9eea5d8ca809aa74",
+        "text": "install backintime"
+      },
+      "after": "355048165cea9eff",
+      "date": 1425644242613
+    },
+    {
+      "type": "fork",
+      "site": "192.168.1.143:3000",
+      "date": 1425644382428
+    }
+  ]
+}

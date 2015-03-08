@@ -1,0 +1,311 @@
+{
+  "title": "8 Mar 2015 - Generating EDC3100 OPML files",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c5e145e46e3fc286",
+      "text": "Time to generate the OPML files for the separate specialisations in EDC3100."
+    },
+    {
+      "type": "html",
+      "id": "2a0e9dbc38ef423f",
+      "text": "<p>Process will be:</p>\n<ol>\n  <li> Update local databases. </li>\n  <li> Recover and update old scripts.</li>\n  <li> Generate and distributed OPML files. </li>\n</ol>"
+    },
+    {
+      "type": "html",
+      "id": "1c08db7bc1ae6e51",
+      "text": "<h3>Update old databases</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "205776e2d019633a",
+      "text": "Currently involves saving four separate web pages from the course site and then running scripts."
+    },
+    {
+      "type": "html",
+      "id": "495680401f5b056a",
+      "text": "<ol><li> BIM all students </li> <li> Home page for activities </li> <li>All participants</li> <li> Activity completion spreadsheet</li></oL>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "8 Mar 2015 - Generating EDC3100 OPML files",
+        "story": []
+      },
+      "date": 1425805986823
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5e145e46e3fc286"
+      },
+      "id": "c5e145e46e3fc286",
+      "type": "add",
+      "date": 1425805988762
+    },
+    {
+      "type": "edit",
+      "id": "c5e145e46e3fc286",
+      "item": {
+        "type": "paragraph",
+        "id": "c5e145e46e3fc286",
+        "text": "Time to generate the OPML files for the separate specialisations in EDC3100."
+      },
+      "date": 1425806004994
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cd3f5e685292837b",
+        "text": ""
+      },
+      "id": "cd3f5e685292837b",
+      "type": "add",
+      "after": "c5e145e46e3fc286",
+      "date": 1425806005008
+    },
+    {
+      "type": "remove",
+      "id": "cd3f5e685292837b",
+      "date": 1425806009113
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a0e9dbc38ef423f"
+      },
+      "id": "2a0e9dbc38ef423f",
+      "type": "add",
+      "after": "c5e145e46e3fc286",
+      "date": 1425806010478
+    },
+    {
+      "type": "edit",
+      "id": "2a0e9dbc38ef423f",
+      "item": {
+        "type": "html",
+        "id": "2a0e9dbc38ef423f",
+        "text": "<p>Process will be:</p>\n<ol>\n  <li> Update local databases. </li>\n  <li> Recover and update old scripts.</li>\n  <li> Generate and distributed OPML files. </li>\n</ol>"
+      },
+      "date": 1425806053055
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c08db7bc1ae6e51"
+      },
+      "id": "1c08db7bc1ae6e51",
+      "type": "add",
+      "after": "2a0e9dbc38ef423f",
+      "date": 1425806296980
+    },
+    {
+      "type": "edit",
+      "id": "1c08db7bc1ae6e51",
+      "item": {
+        "type": "paragraph",
+        "id": "1c08db7bc1ae6e51",
+        "text": "<h3>Update old databa"
+      },
+      "date": 1425806317586
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4f9883d584173756",
+        "text": "ses</h3>"
+      },
+      "id": "4f9883d584173756",
+      "type": "add",
+      "after": "1c08db7bc1ae6e51",
+      "date": 1425806317603
+    },
+    {
+      "type": "remove",
+      "id": "4f9883d584173756",
+      "date": 1425806318502
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "205776e2d019633a",
+        "text": ""
+      },
+      "id": "205776e2d019633a",
+      "type": "add",
+      "after": "1c08db7bc1ae6e51",
+      "date": 1425806319612
+    },
+    {
+      "type": "edit",
+      "id": "1c08db7bc1ae6e51",
+      "item": {
+        "type": "html",
+        "id": "1c08db7bc1ae6e51",
+        "text": "<h3>Update old databases</h3>"
+      },
+      "date": 1425806321319
+    },
+    {
+      "type": "edit",
+      "id": "1c08db7bc1ae6e51",
+      "item": {
+        "type": "html",
+        "id": "1c08db7bc1ae6e51",
+        "text": "<h3>Update old databases</h3>"
+      },
+      "date": 1425806321322
+    },
+    {
+      "type": "edit",
+      "id": "205776e2d019633a",
+      "item": {
+        "type": "paragraph",
+        "id": "205776e2d019633a",
+        "text": "Currently involves saving "
+      },
+      "date": 1425806328350
+    },
+    {
+      "type": "edit",
+      "id": "205776e2d019633a",
+      "item": {
+        "type": "paragraph",
+        "id": "205776e2d019633a",
+        "text": "Currently involves saving four separate web pages from the course site and then running scripts."
+      },
+      "date": 1425806349799
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "512ff12315531ebe",
+        "text": ""
+      },
+      "id": "512ff12315531ebe",
+      "type": "add",
+      "after": "205776e2d019633a",
+      "date": 1425806349839
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "210b73f453bda80c"
+      },
+      "id": "210b73f453bda80c",
+      "type": "add",
+      "after": "512ff12315531ebe",
+      "date": 1425806351317
+    },
+    {
+      "type": "remove",
+      "id": "512ff12315531ebe",
+      "date": 1425806353644
+    },
+    {
+      "type": "remove",
+      "id": "210b73f453bda80c",
+      "date": 1425806354113
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5714cdf0201c98b0"
+      },
+      "id": "5714cdf0201c98b0",
+      "type": "add",
+      "after": "205776e2d019633a",
+      "date": 1425806357163
+    },
+    {
+      "type": "remove",
+      "id": "5714cdf0201c98b0",
+      "date": 1425806363241
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "495680401f5b056a",
+        "text": ""
+      },
+      "id": "495680401f5b056a",
+      "type": "add",
+      "after": "205776e2d019633a",
+      "date": 1425806367088
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "paragraph",
+        "id": "495680401f5b056a",
+        "text": "<ol>"
+      },
+      "date": 1425806369061
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "01b636a0bbc7cd40",
+        "text": ""
+      },
+      "id": "01b636a0bbc7cd40",
+      "type": "add",
+      "after": "495680401f5b056a",
+      "date": 1425806369075
+    },
+    {
+      "type": "remove",
+      "id": "01b636a0bbc7cd40",
+      "date": 1425806370767
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "08df61abe4de208e",
+        "text": ""
+      },
+      "id": "08df61abe4de208e",
+      "type": "add",
+      "after": "495680401f5b056a",
+      "date": 1425806399169
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> <li> Home page for activities </li> <li>All participants</li> <li> Activity completion spreadsheet</li></oL>"
+      },
+      "date": 1425806400574
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> <li> Home page for activities </li> <li>All participants</li> <li> Activity completion spreadsheet</li></oL>"
+      },
+      "date": 1425806400578
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> <li> Home page for activities </li> <li>All participants</li> <li> Activity completion spreadsheet</li></oL>"
+      },
+      "date": 1425806400580
+    },
+    {
+      "type": "remove",
+      "id": "08df61abe4de208e",
+      "date": 1425806401953
+    }
+  ]
+}

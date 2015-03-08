@@ -39,7 +39,17 @@
     {
       "type": "paragraph",
       "id": "ef3a4fbfc8fe4505",
-      "text": "add vga=318 after -- in grub/kernel boot options"
+      "text": "add vga=318 after -- in grub/kernel boot options (not needed after install?"
+    },
+    {
+      "type": "paragraph",
+      "id": "4a5ff8d3b60d0118",
+      "text": "What happened to Plymouth?"
+    },
+    {
+      "type": "paragraph",
+      "id": "cd6ce990ecce243d",
+      "text": "[http://www.andrewychoi.com/2014/printing-blank-pages-with-brother-hl-2140-and-ubuntu-14-04/ Printer Fix] Foomatic hl1250"
     }
   ],
   "journal": [
@@ -243,6 +253,84 @@
         "text": "add vga=318 after -- in grub/kernel boot options"
       },
       "date": 1425781733191
+    },
+    {
+      "type": "edit",
+      "id": "ef3a4fbfc8fe4505",
+      "item": {
+        "type": "paragraph",
+        "id": "ef3a4fbfc8fe4505",
+        "text": "add vga=318 after -- in grub/kernel boot options (not needed after install?"
+      },
+      "date": 1425832221363
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f234f192924922ee",
+        "text": ")"
+      },
+      "id": "f234f192924922ee",
+      "type": "add",
+      "after": "ef3a4fbfc8fe4505",
+      "date": 1425832221392
+    },
+    {
+      "type": "remove",
+      "id": "f234f192924922ee",
+      "date": 1425832222764
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a5ff8d3b60d0118",
+        "text": ""
+      },
+      "id": "4a5ff8d3b60d0118",
+      "type": "add",
+      "after": "ef3a4fbfc8fe4505",
+      "date": 1425832225022
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cd6ce990ecce243d",
+        "text": ""
+      },
+      "id": "cd6ce990ecce243d",
+      "type": "add",
+      "after": "4a5ff8d3b60d0118",
+      "date": 1425832232125
+    },
+    {
+      "type": "edit",
+      "id": "cd6ce990ecce243d",
+      "item": {
+        "type": "paragraph",
+        "id": "cd6ce990ecce243d",
+        "text": "[http://www.andrewychoi.com/2014/printing-blank-pages-with-brother-hl-2140-and-ubuntu-14-04/ Printer Fix]"
+      },
+      "date": 1425832240084
+    },
+    {
+      "type": "edit",
+      "id": "4a5ff8d3b60d0118",
+      "item": {
+        "type": "paragraph",
+        "id": "4a5ff8d3b60d0118",
+        "text": "What happened to Plymouth?"
+      },
+      "date": 1425832247853
+    },
+    {
+      "type": "edit",
+      "id": "cd6ce990ecce243d",
+      "item": {
+        "type": "paragraph",
+        "id": "cd6ce990ecce243d",
+        "text": "[http://www.andrewychoi.com/2014/printing-blank-pages-with-brother-hl-2140-and-ubuntu-14-04/ Printer Fix] Foomatic hl1250"
+      },
+      "date": 1425832276723
     }
   ]
 }

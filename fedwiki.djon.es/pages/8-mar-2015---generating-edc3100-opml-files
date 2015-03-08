@@ -35,6 +35,16 @@
       "type": "paragraph",
       "id": "411b2a89b166372d",
       "text": "Old script was getting student extras data from file. Will need to update using database. Add a new folder to processAnalytics"
+    },
+    {
+      "type": "paragraph",
+      "id": "6ccf35a39dec6201",
+      "text": "It's also reading the OPML data from a file.  Old school.  Need to update that as well."
+    },
+    {
+      "type": "paragraph",
+      "id": "60f3e91d185db8f5",
+      "text": "Ahh, there's the expat problem with XML::OPML.  May have to create the XML by hand.  Quicker than stuffing around with shared libraries."
     }
   ],
   "journal": [
@@ -448,6 +458,80 @@
       "type": "remove",
       "id": "afceb750673626cf",
       "date": 1425807408775
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ccf35a39dec6201",
+        "text": ""
+      },
+      "id": "6ccf35a39dec6201",
+      "type": "add",
+      "after": "411b2a89b166372d",
+      "date": 1425807684180
+    },
+    {
+      "type": "edit",
+      "id": "6ccf35a39dec6201",
+      "item": {
+        "type": "paragraph",
+        "id": "6ccf35a39dec6201",
+        "text": "It's also reading the OPML data from a file.  Old school.  Need to update that as well."
+      },
+      "date": 1425807696224
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0b5c3742511aa04a",
+        "text": ""
+      },
+      "id": "0b5c3742511aa04a",
+      "type": "add",
+      "after": "6ccf35a39dec6201",
+      "date": 1425807696231
+    },
+    {
+      "type": "remove",
+      "id": "0b5c3742511aa04a",
+      "date": 1425807697341
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "60f3e91d185db8f5",
+        "text": ""
+      },
+      "id": "60f3e91d185db8f5",
+      "type": "add",
+      "after": "6ccf35a39dec6201",
+      "date": 1425807875768
+    },
+    {
+      "type": "edit",
+      "id": "60f3e91d185db8f5",
+      "item": {
+        "type": "paragraph",
+        "id": "60f3e91d185db8f5",
+        "text": "Ahh, there's the expat problem with XML::OPML.  May have to create the XML by hand.  Quicker than stuffing around with shared libraries."
+      },
+      "date": 1425807897425
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "32841846da3dfec2",
+        "text": ""
+      },
+      "id": "32841846da3dfec2",
+      "type": "add",
+      "after": "60f3e91d185db8f5",
+      "date": 1425807897431
+    },
+    {
+      "type": "remove",
+      "id": "32841846da3dfec2",
+      "date": 1425807899103
     }
   ]
 }

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "8778f866c936ff67"
+      "id": "76de42548219ff1e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "fa7bdf4a84f51338"
+      "id": "51472ff0c733fe6f"
+    },
+    {
+      "date": 1425808201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "1cfe4d6b7db060b3"
     },
     {
       "date": 1425807882000,
@@ -18,16 +27,7 @@
       "title": "8 Mar 2015 - Generating EDC3100 OPML files",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 90 pages.",
       "type": "reference",
-      "id": "2631ab40d71e3552"
-    },
-    {
-      "date": 1425807601000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "752e9b91fd1687e6"
+      "id": "ad8339f458e62858"
     },
     {
       "date": 1425781717000,
@@ -36,41 +36,55 @@
       "title": "Not mine",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "c39b720fba379ec9"
+      "id": "520964d620a05c0a"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "e48acc3a03237e8b",
+      "id": "0f62e51e226770d5",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1425808201000
+      "date": 1425808801000
     },
     {
       "type": "add",
-      "id": "8778f866c936ff67",
+      "id": "76de42548219ff1e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "8778f866c936ff67"
+        "id": "76de42548219ff1e"
       },
-      "date": 1425808201000
+      "date": 1425808801000
     },
     {
       "type": "add",
-      "id": "fa7bdf4a84f51338",
+      "id": "51472ff0c733fe6f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "fa7bdf4a84f51338"
+        "id": "51472ff0c733fe6f"
       },
-      "date": 1425808201000
+      "date": 1425808801000
     },
     {
       "type": "add",
-      "id": "2631ab40d71e3552",
+      "id": "1cfe4d6b7db060b3",
+      "item": {
+        "date": 1425808201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "1cfe4d6b7db060b3"
+      },
+      "date": 1425808801000
+    },
+    {
+      "type": "add",
+      "id": "ad8339f458e62858",
       "item": {
         "date": 1425807882000,
         "site": "fedwiki.djon.es",
@@ -78,27 +92,13 @@
         "title": "8 Mar 2015 - Generating EDC3100 OPML files",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 90 pages.",
         "type": "reference",
-        "id": "2631ab40d71e3552"
+        "id": "ad8339f458e62858"
       },
-      "date": 1425808201000
+      "date": 1425808801000
     },
     {
       "type": "add",
-      "id": "752e9b91fd1687e6",
-      "item": {
-        "date": 1425807601000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "752e9b91fd1687e6"
-      },
-      "date": 1425808201000
-    },
-    {
-      "type": "add",
-      "id": "c39b720fba379ec9",
+      "id": "520964d620a05c0a",
       "item": {
         "date": 1425781717000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Not mine",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "c39b720fba379ec9"
+        "id": "520964d620a05c0a"
       },
-      "date": 1425808201000
+      "date": 1425808801000
     }
   ]
 }

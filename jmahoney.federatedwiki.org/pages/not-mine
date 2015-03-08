@@ -25,6 +25,16 @@
       "type": "paragraph",
       "id": "2d93a2bc168ed77e",
       "text": "3.5\" SATA 300 7200 RPM"
+    },
+    {
+      "type": "paragraph",
+      "id": "7ea83432f819f0a6",
+      "text": "20\" 1600x900"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b91a4d5c54774ca",
+      "text": "vga=864 1280x800 [http://en.wikipedia.org/wiki/VESA_BIOS_Extensions#Linux_video_mode_numbers Linux Vid Mode Numbers]"
     }
   ],
   "journal": [
@@ -145,6 +155,68 @@
     {
       "type": "fork",
       "date": 1425368995305
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7ea83432f819f0a6",
+        "text": ""
+      },
+      "id": "7ea83432f819f0a6",
+      "type": "add",
+      "after": "2d93a2bc168ed77e",
+      "date": 1425780395397
+    },
+    {
+      "type": "edit",
+      "id": "7ea83432f819f0a6",
+      "item": {
+        "type": "paragraph",
+        "id": "7ea83432f819f0a6",
+        "text": "20\" 1600x900"
+      },
+      "date": 1425780401734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b91a4d5c54774ca",
+        "text": ""
+      },
+      "id": "8b91a4d5c54774ca",
+      "type": "add",
+      "after": "7ea83432f819f0a6",
+      "date": 1425780435246
+    },
+    {
+      "type": "edit",
+      "id": "8b91a4d5c54774ca",
+      "item": {
+        "type": "paragraph",
+        "id": "8b91a4d5c54774ca",
+        "text": "vga=864 1280x"
+      },
+      "date": 1425780445923
+    },
+    {
+      "type": "edit",
+      "id": "8b91a4d5c54774ca",
+      "item": {
+        "type": "paragraph",
+        "id": "8b91a4d5c54774ca",
+        "text": "vga=864 1280x800"
+      },
+      "date": 1425780456778
+    },
+    {
+      "type": "edit",
+      "id": "8b91a4d5c54774ca",
+      "item": {
+        "type": "paragraph",
+        "id": "8b91a4d5c54774ca",
+        "text": "vga=864 1280x800 [http://en.wikipedia.org/wiki/VESA_BIOS_Extensions#Linux_video_mode_numbers Linux Vid Mode Numbers]"
+      },
+      "date": 1425780481482
     }
   ]
 }

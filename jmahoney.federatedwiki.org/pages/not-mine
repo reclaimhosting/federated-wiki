@@ -35,6 +35,11 @@
       "type": "paragraph",
       "id": "8b91a4d5c54774ca",
       "text": "vga=864 1280x800 [http://en.wikipedia.org/wiki/VESA_BIOS_Extensions#Linux_video_mode_numbers Linux Vid Mode Numbers]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ef3a4fbfc8fe4505",
+      "text": "add vga=318 after -- in grub/kernel boot options"
     }
   ],
   "journal": [
@@ -217,6 +222,27 @@
         "text": "vga=864 1280x800 [http://en.wikipedia.org/wiki/VESA_BIOS_Extensions#Linux_video_mode_numbers Linux Vid Mode Numbers]"
       },
       "date": 1425780481482
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef3a4fbfc8fe4505",
+        "text": ""
+      },
+      "id": "ef3a4fbfc8fe4505",
+      "type": "add",
+      "after": "8b91a4d5c54774ca",
+      "date": 1425781719997
+    },
+    {
+      "type": "edit",
+      "id": "ef3a4fbfc8fe4505",
+      "item": {
+        "type": "paragraph",
+        "id": "ef3a4fbfc8fe4505",
+        "text": "add vga=318 after -- in grub/kernel boot options"
+      },
+      "date": 1425781733191
     }
   ]
 }

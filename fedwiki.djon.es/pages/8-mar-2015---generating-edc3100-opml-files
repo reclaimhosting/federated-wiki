@@ -24,7 +24,7 @@
     {
       "type": "html",
       "id": "495680401f5b056a",
-      "text": "<ol><li> BIM all students </li> <li> Home page for activities </li> <li>All participants</li> <li> Activity completion spreadsheet</li></oL>"
+      "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   <p>Problem - Moodle users isn't getting any so not inserting.</p>\n</li> \n<li> Activity completion spreadsheet</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
     }
   ],
   "journal": [
@@ -306,6 +306,26 @@
       "type": "remove",
       "id": "08df61abe4de208e",
       "date": 1425806401953
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   <p>Problem - Moodle users isn't getting any so not inserting.</p>\n</li> \n<li> Activity completion spreadsheet</li></oL>"
+      },
+      "date": 1425806872757
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   <p>Problem - Moodle users isn't getting any so not inserting.</p>\n</li> \n<li> Activity completion spreadsheet</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
+      },
+      "date": 1425806947210
     }
   ]
 }

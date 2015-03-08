@@ -24,7 +24,17 @@
     {
       "type": "html",
       "id": "495680401f5b056a",
-      "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   <p>Problem - Moodle users isn't getting any so not inserting.</p>\n</li> \n<li> Activity completion spreadsheet</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
+      "text": "<ol><li> BIM all students - DONE </li> \n<li> Home page for activities - DONE</li> \n<li>All participants - DONE\n   \n</li> \n<li> Activity completion spreadsheet - DONE\n<p>Problem - Moodle users isn't getting any so not inserting. Am running All participants next.</p>\n  <p>Actually, had forgotten to replace the newlines in the CSV file.</p>\n</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>\n\nNow running Moodle cron to update the BIM posts table.\n"
+    },
+    {
+      "type": "html",
+      "id": "7eff427a8acbb135",
+      "text": "<h3>Recover and update old scripts</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "411b2a89b166372d",
+      "text": "Old script was getting student extras data from file. Will need to update using database. Add a new folder to processAnalytics"
     }
   ],
   "journal": [
@@ -326,6 +336,118 @@
         "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   <p>Problem - Moodle users isn't getting any so not inserting.</p>\n</li> \n<li> Activity completion spreadsheet</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
       },
       "date": 1425806947210
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants\n   \n</li> \n<li> Activity completion spreadsheet\n<p>Problem - Moodle users isn't getting any so not inserting. Am running All participants next.</p>\n</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
+      },
+      "date": 1425807024816
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students </li> \n<li> Home page for activities - DONE</li> \n<li>All participants - DONE\n   \n</li> \n<li> Activity completion spreadsheet - DONE\n<p>Problem - Moodle users isn't getting any so not inserting. Am running All participants next.</p>\n  <p>Actually, had forgotten to replace the newlines in the CSV file.</p>\n</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>"
+      },
+      "date": 1425807077561
+    },
+    {
+      "type": "edit",
+      "id": "495680401f5b056a",
+      "item": {
+        "type": "html",
+        "id": "495680401f5b056a",
+        "text": "<ol><li> BIM all students - DONE </li> \n<li> Home page for activities - DONE</li> \n<li>All participants - DONE\n   \n</li> \n<li> Activity completion spreadsheet - DONE\n<p>Problem - Moodle users isn't getting any so not inserting. Am running All participants next.</p>\n  <p>Actually, had forgotten to replace the newlines in the CSV file.</p>\n</li>\n<Li> <em>Optional</em> - updated extras spreadsheet from peoplesoft. </li>\n</oL>\n\nNow running Moodle cron to update the BIM posts table.\n"
+      },
+      "date": 1425807264979
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7eff427a8acbb135"
+      },
+      "id": "7eff427a8acbb135",
+      "type": "add",
+      "after": "495680401f5b056a",
+      "date": 1425807272890
+    },
+    {
+      "type": "edit",
+      "id": "7eff427a8acbb135",
+      "item": {
+        "type": "paragraph",
+        "id": "7eff427a8acbb135",
+        "text": "<h3>Recover and update old scripts</h3>"
+      },
+      "date": 1425807280142
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8882f5b404b33733",
+        "text": ""
+      },
+      "id": "8882f5b404b33733",
+      "type": "add",
+      "after": "7eff427a8acbb135",
+      "date": 1425807280148
+    },
+    {
+      "type": "edit",
+      "id": "7eff427a8acbb135",
+      "item": {
+        "type": "html",
+        "id": "7eff427a8acbb135",
+        "text": "<h3>Recover and update old scripts</h3>"
+      },
+      "date": 1425807281693
+    },
+    {
+      "type": "remove",
+      "id": "8882f5b404b33733",
+      "date": 1425807285163
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "411b2a89b166372d"
+      },
+      "id": "411b2a89b166372d",
+      "type": "add",
+      "after": "7eff427a8acbb135",
+      "date": 1425807371197
+    },
+    {
+      "type": "edit",
+      "id": "411b2a89b166372d",
+      "item": {
+        "type": "paragraph",
+        "id": "411b2a89b166372d",
+        "text": "Old script was getting student extras data from file. Will need to update using database. Add a new folder to processAnalytics"
+      },
+      "date": 1425807401586
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "afceb750673626cf",
+        "text": ""
+      },
+      "id": "afceb750673626cf",
+      "type": "add",
+      "after": "411b2a89b166372d",
+      "date": 1425807401592
+    },
+    {
+      "type": "remove",
+      "id": "afceb750673626cf",
+      "date": 1425807408775
     }
   ]
 }

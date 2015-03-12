@@ -37,9 +37,29 @@
       "text": "<h3>Background</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0c3c3c2e4bd439e3",
-      "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
+      "text": "activity_mapping<ul>  <li> id\n</li><li> course_id\n</li><li> section_title\n</li><li> section_num\n</li><li> activity_long_name\n</li><li> activity_short_name</li>\n</ul>\nhow is it used?"
+    },
+    {
+      "type": "html",
+      "id": "bba754631913be64",
+      "text": "mdl_course_modules_completion\n<ul>\n  <Li> id </li>\n  <li> coursemoduleid </li>\n  <li> userid </li>\n  <li> completionstate </li>\n  <li> timemodified </li>\n</ul>"
+    },
+    {
+      "type": "html",
+      "id": "e8ecbeed4827336a",
+      "text": "<h3>Testing</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "89e3b25f9652b04b",
+      "text": "OL userid is 655; Conclusions from Section 2 (week 1) has id 365181"
+    },
+    {
+      "type": "paragraph",
+      "id": "b96c053af767ef68",
+      "text": "There are no entries in mdl_course_modules_completion for 365181 - appears that parseCompletion.pl is not inserting data into it."
     }
   ],
   "journal": [
@@ -355,6 +375,200 @@
       "type": "remove",
       "id": "190f8a03f52f0740",
       "date": 1426121403076
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "html",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
+      },
+      "date": 1426121435525
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "html",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
+      },
+      "date": 1426121435527
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "html",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
+      },
+      "date": 1426121435528
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "html",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping<ul>  <li> id\n</li><li> course_id\n</li><li> section_title\n</li><li> section_num\n</li><li> activity_long_name\n</li><li> activity_short_name</li>\n</ul>\nhow is it used?"
+      },
+      "date": 1426121471990
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bba754631913be64"
+      },
+      "id": "bba754631913be64",
+      "type": "add",
+      "after": "0c3c3c2e4bd439e3",
+      "date": 1426121478100
+    },
+    {
+      "type": "edit",
+      "id": "bba754631913be64",
+      "item": {
+        "type": "html",
+        "id": "bba754631913be64",
+        "text": "mdl_course_modules_completion\n<ul>\n  <Li>"
+      },
+      "date": 1426121489681
+    },
+    {
+      "type": "edit",
+      "id": "bba754631913be64",
+      "item": {
+        "type": "html",
+        "id": "bba754631913be64",
+        "text": "mdl_course_modules_completion\n<ul>\n  <Li> id </li>\n  <li> coursemoduleid </li>\n  <li> userid </li>\n  <li> completionstate </li>\n  <li> timemodified </li>\n</ul>"
+      },
+      "date": 1426121523761
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8ecbeed4827336a"
+      },
+      "id": "e8ecbeed4827336a",
+      "type": "add",
+      "after": "bba754631913be64",
+      "date": 1426121617254
+    },
+    {
+      "type": "edit",
+      "id": "e8ecbeed4827336a",
+      "item": {
+        "type": "paragraph",
+        "id": "e8ecbeed4827336a",
+        "text": "<h3>Testing</h3>"
+      },
+      "date": 1426121622683
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "89e3b25f9652b04b",
+        "text": ""
+      },
+      "id": "89e3b25f9652b04b",
+      "type": "add",
+      "after": "e8ecbeed4827336a",
+      "date": 1426121622689
+    },
+    {
+      "type": "edit",
+      "id": "e8ecbeed4827336a",
+      "item": {
+        "type": "html",
+        "id": "e8ecbeed4827336a",
+        "text": "<h3>Testing</h3>"
+      },
+      "date": 1426121623878
+    },
+    {
+      "type": "edit",
+      "id": "89e3b25f9652b04b",
+      "item": {
+        "type": "paragraph",
+        "id": "89e3b25f9652b04b",
+        "text": "OL userid is 655"
+      },
+      "date": 1426121632202
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07d3f3bc17fc6fa6",
+        "text": ""
+      },
+      "id": "07d3f3bc17fc6fa6",
+      "type": "add",
+      "after": "89e3b25f9652b04b",
+      "date": 1426121632209
+    },
+    {
+      "type": "remove",
+      "id": "07d3f3bc17fc6fa6",
+      "date": 1426121634257
+    },
+    {
+      "type": "edit",
+      "id": "89e3b25f9652b04b",
+      "item": {
+        "type": "paragraph",
+        "id": "89e3b25f9652b04b",
+        "text": "OL userid is 655; Conclusions from Section 2 (week 1) has id 65181"
+      },
+      "date": 1426121688273
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "58f3ad2d871adf61",
+        "text": ""
+      },
+      "id": "58f3ad2d871adf61",
+      "type": "add",
+      "after": "89e3b25f9652b04b",
+      "date": 1426121688279
+    },
+    {
+      "type": "remove",
+      "id": "58f3ad2d871adf61",
+      "date": 1426121689401
+    },
+    {
+      "type": "edit",
+      "id": "89e3b25f9652b04b",
+      "item": {
+        "type": "paragraph",
+        "id": "89e3b25f9652b04b",
+        "text": "OL userid is 655; Conclusions from Section 2 (week 1) has id 365181"
+      },
+      "date": 1426121812989
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b96c053af767ef68",
+        "text": ""
+      },
+      "id": "b96c053af767ef68",
+      "type": "add",
+      "after": "89e3b25f9652b04b",
+      "date": 1426121878979
+    },
+    {
+      "type": "edit",
+      "id": "b96c053af767ef68",
+      "item": {
+        "type": "paragraph",
+        "id": "b96c053af767ef68",
+        "text": "There are no entries in mdl_course_modules_completion for 365181 - appears that parseCompletion.pl is not inserting data into it."
+      },
+      "date": 1426121913296
     }
   ]
 }

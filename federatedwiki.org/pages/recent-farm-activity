@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "2be2c580df992f49"
+      "id": "d62dbb2452f8e46f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6fdb784d4f3079cc"
+      "id": "9dcb30a9e7d039d2"
+    },
+    {
+      "date": 1426122001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "94bf3cb570b975c1"
     },
     {
       "date": 1426121892000,
@@ -18,16 +27,7 @@
       "title": "12 Mar 2015 - Fixing activity completion",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
       "type": "reference",
-      "id": "a6f3a3751841c521"
-    },
-    {
-      "date": 1426121401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "c2be723274b9b038"
+      "id": "0d54152e8ba02e9d"
     },
     {
       "date": 1425835985000,
@@ -36,41 +36,55 @@
       "title": "My Computers",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "94b6641f54f92b02"
+      "id": "83bf36d72af984d7"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "5be63d8fe80e7cb3",
+      "id": "89613ac1fd686237",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1426122001000
+      "date": 1426122601000
     },
     {
       "type": "add",
-      "id": "2be2c580df992f49",
+      "id": "d62dbb2452f8e46f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "2be2c580df992f49"
+        "id": "d62dbb2452f8e46f"
       },
-      "date": 1426122001000
+      "date": 1426122601000
     },
     {
       "type": "add",
-      "id": "6fdb784d4f3079cc",
+      "id": "9dcb30a9e7d039d2",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6fdb784d4f3079cc"
+        "id": "9dcb30a9e7d039d2"
       },
-      "date": 1426122001000
+      "date": 1426122601000
     },
     {
       "type": "add",
-      "id": "a6f3a3751841c521",
+      "id": "94bf3cb570b975c1",
+      "item": {
+        "date": 1426122001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "94bf3cb570b975c1"
+      },
+      "date": 1426122601000
+    },
+    {
+      "type": "add",
+      "id": "0d54152e8ba02e9d",
       "item": {
         "date": 1426121892000,
         "site": "fedwiki.djon.es",
@@ -78,27 +92,13 @@
         "title": "12 Mar 2015 - Fixing activity completion",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
         "type": "reference",
-        "id": "a6f3a3751841c521"
+        "id": "0d54152e8ba02e9d"
       },
-      "date": 1426122001000
+      "date": 1426122601000
     },
     {
       "type": "add",
-      "id": "c2be723274b9b038",
-      "item": {
-        "date": 1426121401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "c2be723274b9b038"
-      },
-      "date": 1426122001000
-    },
-    {
-      "type": "add",
-      "id": "94b6641f54f92b02",
+      "id": "83bf36d72af984d7",
       "item": {
         "date": 1425835985000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "My Computers",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "94b6641f54f92b02"
+        "id": "83bf36d72af984d7"
       },
-      "date": 1426122001000
+      "date": 1426122601000
     }
   ]
 }

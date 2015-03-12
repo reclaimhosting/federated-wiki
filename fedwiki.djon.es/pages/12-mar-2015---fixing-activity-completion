@@ -14,7 +14,32 @@
     {
       "type": "html",
       "id": "7ad1a92326cbc8b2",
-      "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n</ul>"
+      "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n  <li> Week 2\n       <ul>\n          <li> Examples of ICTs for learning <p>Completed by ST, but not OL</p> </li>\n          <li> Your blog and Assignment 1 </li>\n          <li> Share your concept map (the book) </li>\n          <li> Conclusions </li>\n       </ul>\n  </li>\n</ul>"
+    },
+    {
+      "type": "html",
+      "id": "a268ff1712e24d26",
+      "text": "<h3>Find out why?</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "43b869437efea67a",
+      "text": "Why isn't the conclusions elements not working"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a564097b05e84b2",
+      "text": "Why is \"ICTs for learning\" working for some, but not others?"
+    },
+    {
+      "type": "html",
+      "id": "825427b72df7713b",
+      "text": "<h3>Background</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c3c3c2e4bd439e3",
+      "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
     }
   ],
   "journal": [
@@ -111,6 +136,225 @@
         "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n</ul>"
       },
       "date": 1426120636713
+    },
+    {
+      "type": "edit",
+      "id": "7ad1a92326cbc8b2",
+      "item": {
+        "type": "html",
+        "id": "7ad1a92326cbc8b2",
+        "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n  <li> Week 2\n       <ul>\n          <li> Examples of ICTs for learning </li>\n          <li> Your blog and Assignment 1 </li>\n          <li> Share your concept map (the book) </li>\n          <li> Conclusions </li>\n       </ul>\n  </li>\n</ul>"
+      },
+      "date": 1426120978091
+    },
+    {
+      "type": "edit",
+      "id": "7ad1a92326cbc8b2",
+      "item": {
+        "type": "html",
+        "id": "7ad1a92326cbc8b2",
+        "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n  <li> Week 2\n       <ul>\n          <li> Examples of ICTs for learning <p>Completed by </li>\n          <li> Your blog and Assignment 1 </li>\n          <li> Share your concept map (the book) </li>\n          <li> Conclusions </li>\n       </ul>\n  </li>\n</ul>"
+      },
+      "date": 1426121024411
+    },
+    {
+      "type": "edit",
+      "id": "7ad1a92326cbc8b2",
+      "item": {
+        "type": "html",
+        "id": "7ad1a92326cbc8b2",
+        "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n  <li> Week 2\n       <ul>\n          <li> Examples of ICTs for learning <p>Completed by ST, but not OL</p> </li>\n          <li> Your blog and Assignment 1 </li>\n          <li> Share your concept map (the book) </li>\n          <li> Conclusions </li>\n       </ul>\n  </li>\n</ul>"
+      },
+      "date": 1426121039995
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a268ff1712e24d26"
+      },
+      "id": "a268ff1712e24d26",
+      "type": "add",
+      "after": "7ad1a92326cbc8b2",
+      "date": 1426121207132
+    },
+    {
+      "type": "edit",
+      "id": "a268ff1712e24d26",
+      "item": {
+        "type": "paragraph",
+        "id": "a268ff1712e24d26",
+        "text": "<h3>Find out why?</h3>"
+      },
+      "date": 1426121221867
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "18daa04bb8972b30",
+        "text": ""
+      },
+      "id": "18daa04bb8972b30",
+      "type": "add",
+      "after": "a268ff1712e24d26",
+      "date": 1426121221874
+    },
+    {
+      "type": "edit",
+      "id": "a268ff1712e24d26",
+      "item": {
+        "type": "html",
+        "id": "a268ff1712e24d26",
+        "text": "<h3>Find out why?</h3>"
+      },
+      "date": 1426121223373
+    },
+    {
+      "type": "remove",
+      "id": "18daa04bb8972b30",
+      "date": 1426121225936
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c251a10bb30d683"
+      },
+      "id": "8c251a10bb30d683",
+      "type": "add",
+      "after": "a268ff1712e24d26",
+      "date": 1426121227272
+    },
+    {
+      "type": "remove",
+      "id": "8c251a10bb30d683",
+      "date": 1426121237964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43b869437efea67a"
+      },
+      "id": "43b869437efea67a",
+      "type": "add",
+      "after": "a268ff1712e24d26",
+      "date": 1426121238944
+    },
+    {
+      "type": "edit",
+      "id": "43b869437efea67a",
+      "item": {
+        "type": "paragraph",
+        "id": "43b869437efea67a",
+        "text": "Some "
+      },
+      "date": 1426121250903
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1a564097b05e84b2",
+        "text": ""
+      },
+      "id": "1a564097b05e84b2",
+      "type": "add",
+      "after": "43b869437efea67a",
+      "date": 1426121299312
+    },
+    {
+      "type": "edit",
+      "id": "43b869437efea67a",
+      "item": {
+        "type": "paragraph",
+        "id": "43b869437efea67a",
+        "text": "Why isn't the conclusions elements not working"
+      },
+      "date": 1426121299305
+    },
+    {
+      "type": "edit",
+      "id": "1a564097b05e84b2",
+      "item": {
+        "type": "paragraph",
+        "id": "1a564097b05e84b2",
+        "text": "Why is \"ICTs for learning\" working for some, but not others?"
+      },
+      "date": 1426121315609
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "825427b72df7713b"
+      },
+      "id": "825427b72df7713b",
+      "type": "add",
+      "after": "1a564097b05e84b2",
+      "date": 1426121326958
+    },
+    {
+      "type": "edit",
+      "id": "825427b72df7713b",
+      "item": {
+        "type": "paragraph",
+        "id": "825427b72df7713b",
+        "text": "<h3>Background</h3>"
+      },
+      "date": 1426121332214
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0c3c3c2e4bd439e3",
+        "text": ""
+      },
+      "id": "0c3c3c2e4bd439e3",
+      "type": "add",
+      "after": "825427b72df7713b",
+      "date": 1426121332220
+    },
+    {
+      "type": "edit",
+      "id": "825427b72df7713b",
+      "item": {
+        "type": "html",
+        "id": "825427b72df7713b",
+        "text": "<h3>Background</h3>"
+      },
+      "date": 1426121333927
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "paragraph",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping"
+      },
+      "date": 1426121346624
+    },
+    {
+      "type": "edit",
+      "id": "0c3c3c2e4bd439e3",
+      "item": {
+        "type": "paragraph",
+        "id": "0c3c3c2e4bd439e3",
+        "text": "activity_mapping - id, course_id, section_title, section_num, activity_long_name, activity_short_name - how is it used?"
+      },
+      "date": 1426121401275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "190f8a03f52f0740",
+        "text": ""
+      },
+      "id": "190f8a03f52f0740",
+      "type": "add",
+      "after": "0c3c3c2e4bd439e3",
+      "date": 1426121401282
+    },
+    {
+      "type": "remove",
+      "id": "190f8a03f52f0740",
+      "date": 1426121403076
     }
   ]
 }

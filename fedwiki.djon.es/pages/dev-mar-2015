@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "08d3a2ec3eee0807",
       "text": "[[8 Mar 2015 - Generating EDC3100 OPML files]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "61ac774e62768b6c",
+      "text": "[[12 Mar 2015 - Fixing activity completion]]"
     }
   ],
   "journal": [
@@ -84,6 +89,26 @@
         "text": "[[8 Mar 2015 - Generating EDC3100 OPML files]]"
       },
       "date": 1425805982268
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61ac774e62768b6c"
+      },
+      "id": "61ac774e62768b6c",
+      "type": "add",
+      "after": "08d3a2ec3eee0807",
+      "date": 1426120525005
+    },
+    {
+      "type": "edit",
+      "id": "61ac774e62768b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "61ac774e62768b6c",
+        "text": "[[12 Mar 2015 - Fixing activity completion]]"
+      },
+      "date": 1426120541233
     }
   ]
 }

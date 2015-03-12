@@ -1,0 +1,116 @@
+{
+  "title": "12 Mar 2015 - Fixing activity completion",
+  "story": [
+    {
+      "type": "html",
+      "id": "980397ddea95bede",
+      "text": "<h3>Problem</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "1d8d20ffa57d2505",
+      "text": "The CSV file from Moodle is showing that students have completed activities. But that indication is not showing up in the moreStudentDetails popup."
+    },
+    {
+      "type": "html",
+      "id": "7ad1a92326cbc8b2",
+      "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n</ul>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "12 Mar 2015 - Fixing activity completion",
+        "story": []
+      },
+      "date": 1426120544959
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "980397ddea95bede"
+      },
+      "id": "980397ddea95bede",
+      "type": "add",
+      "date": 1426120551319
+    },
+    {
+      "type": "edit",
+      "id": "980397ddea95bede",
+      "item": {
+        "type": "paragraph",
+        "id": "980397ddea95bede",
+        "text": "<h3>Problem</h3>"
+      },
+      "date": 1426120560340
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1d8d20ffa57d2505",
+        "text": ""
+      },
+      "id": "1d8d20ffa57d2505",
+      "type": "add",
+      "after": "980397ddea95bede",
+      "date": 1426120560348
+    },
+    {
+      "type": "edit",
+      "id": "980397ddea95bede",
+      "item": {
+        "type": "html",
+        "id": "980397ddea95bede",
+        "text": "<h3>Problem</h3>"
+      },
+      "date": 1426120562464
+    },
+    {
+      "type": "edit",
+      "id": "1d8d20ffa57d2505",
+      "item": {
+        "type": "paragraph",
+        "id": "1d8d20ffa57d2505",
+        "text": "The CSV file from Moodle is showing that students have completed activities. But that indication is not showing up in the moreStudentDetails popup."
+      },
+      "date": 1426120612065
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5a5e8bbe12f309b1",
+        "text": ""
+      },
+      "id": "5a5e8bbe12f309b1",
+      "type": "add",
+      "after": "1d8d20ffa57d2505",
+      "date": 1426120612078
+    },
+    {
+      "type": "remove",
+      "id": "5a5e8bbe12f309b1",
+      "date": 1426120615402
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ad1a92326cbc8b2"
+      },
+      "id": "7ad1a92326cbc8b2",
+      "type": "add",
+      "after": "1d8d20ffa57d2505",
+      "date": 1426120616906
+    },
+    {
+      "type": "edit",
+      "id": "7ad1a92326cbc8b2",
+      "item": {
+        "type": "html",
+        "id": "7ad1a92326cbc8b2",
+        "text": "<P>Examples of this include:</p>\n<ul>\n  <li> Conclusion at the end of week 1 </li>\n</ul>"
+      },
+      "date": 1426120636713
+    }
+  ]
+}

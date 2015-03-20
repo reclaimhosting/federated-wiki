@@ -1,0 +1,989 @@
+{
+  "title": "Lost My Origin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "372663bdd9e77d4d",
+      "text": "Mike Caulfield reports, after watching four dozen or so people play around with federated wiki in various contexts, I think I can identify the biggest problem: loss of write context, and the sad cycle of errors that result. "
+    },
+    {
+      "type": "html",
+      "id": "778447686cf25b07",
+      "text": "<h3> Scenario"
+    },
+    {
+      "type": "paragraph",
+      "id": "716743840432e15f",
+      "text": "Logged in; origin at left; browse to things they like; double click to see author; origin page shift.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "046f632bd7533c99",
+      "text": "Browse more; add pages; get forked-to-local in other's site; don't notice. keep adding; stuff forked to local elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5b9a11a83dda67c",
+      "text": "Is something wrong? Site keeps writing so it must be ok.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "67ab158010e846a8",
+      "text": "Somethings is wrong; back to origin in another tab; new neighborhood; what? Then try to drag local work from the site they don't own to the site they do.\n\n"
+    },
+    {
+      "type": "html",
+      "id": "4768278596dff2ca",
+      "text": "Except local pages on remote site are not draggable to their own site. <b>Due to site-indexing of local storage.</b>"
+    },
+    {
+      "type": "html",
+      "id": "27ccf1cec775a6eb",
+      "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. <b>This is a bug caused by improper href for the flag of recently forked pages.</b> [https://github.com/fedwiki/wiki-client/issues/61 issue]"
+    },
+    {
+      "type": "html",
+      "id": "f34309801ab1b8df",
+      "text": "<h3> Compounding"
+    },
+    {
+      "type": "paragraph",
+      "id": "192119eb557b5fa8",
+      "text": "Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "055f9fe7ce8489c0",
+      "text": "Also, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "2048f55120b05857",
+      "text": "I honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). "
+    },
+    {
+      "type": "html",
+      "id": "75b8132d5184a67a",
+      "text": "<h3> Root Cause"
+    },
+    {
+      "type": "paragraph",
+      "id": "65720d024e9f96ad",
+      "text": "After some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "00a3988cd64161f7",
+      "text": "I don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+    },
+    {
+      "type": "html",
+      "id": "18c8c1f72257f31f",
+      "text": "<h3> Solution?"
+    },
+    {
+      "type": "paragraph",
+      "id": "0c4c8eb83bd946eb",
+      "text": "Links are benign in federated wiki except for the page flag that takes one to a new origin, the root cause of the confusion described here."
+    },
+    {
+      "type": "paragraph",
+      "id": "3beb022fb37c9677",
+      "text": "An alternate behavior would be to simply add the remote sites welcome page to the right of the page in question. This is already the click behavior of flags in the neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "e4d593d520ef0ed8",
+      "text": "The footer contains another link that will change origin. This much less used feature is so labeled so may not as easily confuse. It should be marked with the external-link icon and open in a new tab."
+    },
+    {
+      "type": "paragraph",
+      "id": "5e284bfffc2b0122",
+      "text": "The page flag anchor href should remain as is since it will be examined when a page is dragged to a new tab or factory item. The javascript click handling ignores the href."
+    },
+    {
+      "type": "paragraph",
+      "id": "15cf8d465f4509f6",
+      "text": "Inconsistent behavior between sites will be noticed since not all sites will be serving an updated copy of wiki-client."
+    },
+    {
+      "type": "paragraph",
+      "id": "fb9b94f47c77bf8b",
+      "text": "Drawback: reloading from the origin is a convenient way to discard unwanted neighborhood. This is especially true looking at Recent Changes."
+    },
+    {
+      "type": "paragraph",
+      "id": "42e6267db2e72b0a",
+      "text": "Drawback: reloading from the origin is a convenient way to discard unwanted left hand pages from the lineup. Is there a better way?"
+    },
+    {
+      "type": "paragraph",
+      "id": "9aa606eff09424af",
+      "text": "Plan B: The javascript could just open a new tab if there is a change of origin. Would this be too complex? Probably."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lost My Origin",
+        "story": []
+      },
+      "date": 1414806420842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "372663bdd9e77d4d"
+      },
+      "id": "372663bdd9e77d4d",
+      "type": "add",
+      "date": 1414806423239
+    },
+    {
+      "type": "edit",
+      "id": "372663bdd9e77d4d",
+      "item": {
+        "type": "paragraph",
+        "id": "372663bdd9e77d4d",
+        "text": "Mike Caulfield reports, after watching four dozen or so people play around with federated wiki in various contexts, I think I can identify the biggest problem: loss of write context, and the sad cycle of errors that result. "
+      },
+      "date": 1414806447040
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "716743840432e15f"
+      },
+      "id": "716743840432e15f",
+      "type": "add",
+      "after": "372663bdd9e77d4d",
+      "date": 1414806541057
+    },
+    {
+      "type": "edit",
+      "id": "716743840432e15f",
+      "item": {
+        "type": "paragraph",
+        "id": "716743840432e15f",
+        "text": "User is logged in; origin page at the left; browse to something they like; double click to see who wrote it; origin page shift.\n\n"
+      },
+      "date": 1414806809671
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "046f632bd7533c99",
+        "text": "They browse more; add pages; get forked-to-local in other's site; don't notice. add more. \n\nNow they have a bunch of stuff that was forked to local on someone else's site. Usually they have no idea what is wrong -- the site let them write stuff here so it must have been OK. \n\nAt the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\nExcept pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "046f632bd7533c99",
+      "type": "add",
+      "after": "716743840432e15f",
+      "date": 1414806809695
+    },
+    {
+      "type": "edit",
+      "id": "046f632bd7533c99",
+      "item": {
+        "type": "paragraph",
+        "id": "046f632bd7533c99",
+        "text": "They browse more; add pages; get forked-to-local in other's site; don't notice. add more. \n\n"
+      },
+      "date": 1414806815793
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6152dd80583ec51d",
+        "text": "Now they have a bunch of stuff that was forked to local on someone else's site. Usually they have no idea what is wrong -- the site let them write stuff here so it must have been OK. \n\nAt the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\nExcept pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "6152dd80583ec51d",
+      "type": "add",
+      "after": "046f632bd7533c99",
+      "date": 1414806815811
+    },
+    {
+      "type": "edit",
+      "id": "716743840432e15f",
+      "item": {
+        "type": "paragraph",
+        "id": "716743840432e15f",
+        "text": "Logged in; origin at left; browse to things they like; double click to see author; origin page shift.\n\n"
+      },
+      "date": 1414806916422
+    },
+    {
+      "type": "edit",
+      "id": "046f632bd7533c99",
+      "item": {
+        "type": "paragraph",
+        "id": "046f632bd7533c99",
+        "text": "Browse more; add pages; get forked-to-local in other's site; don't notice. keep adding. \n\n"
+      },
+      "date": 1414806936688
+    },
+    {
+      "type": "remove",
+      "id": "6152dd80583ec51d",
+      "date": 1414806998580
+    },
+    {
+      "type": "edit",
+      "id": "046f632bd7533c99",
+      "item": {
+        "type": "paragraph",
+        "id": "046f632bd7533c99",
+        "text": "Browse more; add pages; get forked-to-local in other's site; don't notice. keep adding; stuff forked to local elsewhere."
+      },
+      "date": 1414807026585
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a5b9a11a83dda67c",
+        "text": "Usually they have no idea what is wrong -- the site let them write stuff here so it must have been OK. \n\nAt the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\nExcept pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "a5b9a11a83dda67c",
+      "type": "add",
+      "after": "046f632bd7533c99",
+      "date": 1414807026599
+    },
+    {
+      "type": "edit",
+      "id": "a5b9a11a83dda67c",
+      "item": {
+        "type": "paragraph",
+        "id": "a5b9a11a83dda67c",
+        "text": "Is something wrong? Site keeps writing so it must be ok.\n\nAt the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\nExcept pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "date": 1414807089353
+    },
+    {
+      "type": "edit",
+      "id": "a5b9a11a83dda67c",
+      "item": {
+        "type": "paragraph",
+        "id": "a5b9a11a83dda67c",
+        "text": "Is something wrong? Site keeps writing so it must be ok.\n\n"
+      },
+      "date": 1414807108857
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "67ab158010e846a8",
+        "text": "At the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\nExcept pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "67ab158010e846a8",
+      "type": "add",
+      "after": "a5b9a11a83dda67c",
+      "date": 1414807108877
+    },
+    {
+      "type": "edit",
+      "id": "67ab158010e846a8",
+      "item": {
+        "type": "paragraph",
+        "id": "67ab158010e846a8",
+        "text": "At the point they recognize somethings wrong, it gets worse. They go back to their own origin page in another tab (and lose the neighborhood they had loaded, which is confusing). Then they try to drag local work from the site they don't own to the site they do.\n\n"
+      },
+      "date": 1414807111910
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "Except pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\nAlso, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "4768278596dff2ca",
+      "type": "add",
+      "after": "67ab158010e846a8",
+      "date": 1414807111920
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "Except pages in the local namespace of someone else's site are not draggable to their own site. If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\n"
+      },
+      "date": 1414807116213
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "055f9fe7ce8489c0",
+        "text": "Also, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\nI honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "055f9fe7ce8489c0",
+      "type": "add",
+      "after": "4768278596dff2ca",
+      "date": 1414807116227
+    },
+    {
+      "type": "edit",
+      "id": "055f9fe7ce8489c0",
+      "item": {
+        "type": "paragraph",
+        "id": "055f9fe7ce8489c0",
+        "text": "Also, they now have this other site in their browser bar memory, so when they go to use autocomplete to get to their site (which most do) it may autocomplete them into the other person's site, and the cycle starts again.\n\n"
+      },
+      "date": 1414807119892
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2048f55120b05857",
+        "text": "I honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\nAfter some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "2048f55120b05857",
+      "type": "add",
+      "after": "055f9fe7ce8489c0",
+      "date": 1414807119904
+    },
+    {
+      "type": "edit",
+      "id": "2048f55120b05857",
+      "item": {
+        "type": "paragraph",
+        "id": "2048f55120b05857",
+        "text": "I honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). \n\n"
+      },
+      "date": 1414807122850
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65720d024e9f96ad",
+        "text": "After some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\nI don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "65720d024e9f96ad",
+      "type": "add",
+      "after": "2048f55120b05857",
+      "date": 1414807122863
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3da721d831d7ff66",
+        "text": "I don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "3da721d831d7ff66",
+      "type": "add",
+      "after": "65720d024e9f96ad",
+      "date": 1414807128086
+    },
+    {
+      "type": "edit",
+      "id": "67ab158010e846a8",
+      "item": {
+        "type": "paragraph",
+        "id": "67ab158010e846a8",
+        "text": "Somethings is wrong; back to origin in another tab; new neighborhood; what? Then they try to drag local work from the site they don't own to the site they do.\n\n"
+      },
+      "date": 1414807426811
+    },
+    {
+      "type": "edit",
+      "id": "67ab158010e846a8",
+      "item": {
+        "type": "paragraph",
+        "id": "67ab158010e846a8",
+        "text": "Somethings is wrong; back to origin in another tab; new neighborhood; what? Then try to drag local work from the site they don't own to the site they do.\n\n"
+      },
+      "date": 1414807436210
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "Except local pages on remote site are not draggable to their own site."
+      },
+      "date": 1414807634363
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "27ccf1cec775a6eb",
+        "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\n"
+      },
+      "id": "27ccf1cec775a6eb",
+      "type": "add",
+      "after": "4768278596dff2ca",
+      "date": 1414807634373
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "<b>Except local pages on remote site are not draggable to their own site."
+      },
+      "date": 1414807643816
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "<b>Except local pages on remote site are not draggable to their own site.</b> This fails because the drop logic is looking for the remote site but sees 'local'."
+      },
+      "date": 1414809947716
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "<b>Except local pages on remote site are not draggable to their own site.</b> This fails because the drop logic is looking for the remote site but sees 'local'. [https://github.com/fedwiki/wiki-client/blob/master/lib/drop.coffee#L16-L24 github]"
+      },
+      "date": 1414809981734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "93dd71ae9b55ffb3",
+        "text": ""
+      },
+      "id": "93dd71ae9b55ffb3",
+      "type": "add",
+      "after": "4768278596dff2ca",
+      "date": 1414810225913
+    },
+    {
+      "type": "edit",
+      "id": "93dd71ae9b55ffb3",
+      "item": {
+        "type": "paragraph",
+        "id": "93dd71ae9b55ffb3",
+        "text": "If the drop logic recognized 'local' and substituted the origin server which is visible in the url then the expected page would be opened in the lineup and fork-to-origin would have the expected behavior."
+      },
+      "date": 1414810306896
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "778447686cf25b07",
+        "text": ""
+      },
+      "id": "778447686cf25b07",
+      "type": "add",
+      "after": "372663bdd9e77d4d",
+      "date": 1414810315516
+    },
+    {
+      "type": "edit",
+      "id": "778447686cf25b07",
+      "item": {
+        "type": "paragraph",
+        "id": "778447686cf25b07",
+        "text": "<h3> Scenario"
+      },
+      "date": 1414810341096
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f34309801ab1b8df",
+        "text": ""
+      },
+      "id": "f34309801ab1b8df",
+      "type": "add",
+      "after": "93dd71ae9b55ffb3",
+      "date": 1414810350973
+    },
+    {
+      "type": "edit",
+      "id": "f34309801ab1b8df",
+      "item": {
+        "type": "paragraph",
+        "id": "f34309801ab1b8df",
+        "text": "<h3> Compounding"
+      },
+      "date": 1414810391983
+    },
+    {
+      "type": "remove",
+      "id": "3da721d831d7ff66",
+      "date": 1414810419138
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "<b>Except local pages on remote site are not draggable to their own site.</b>"
+      },
+      "date": 1414866155799
+    },
+    {
+      "type": "remove",
+      "id": "93dd71ae9b55ffb3",
+      "date": 1414866167883
+    },
+    {
+      "type": "edit",
+      "id": "27ccf1cec775a6eb",
+      "item": {
+        "type": "paragraph",
+        "id": "27ccf1cec775a6eb",
+        "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. "
+      },
+      "date": 1414866256791
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "192119eb557b5fa8",
+        "text": "Sometimes this is not noticed causing more confusion. The pages now exist in a limbo, unable to fork to server.\n\n"
+      },
+      "id": "192119eb557b5fa8",
+      "type": "add",
+      "after": "27ccf1cec775a6eb",
+      "date": 1414866256802
+    },
+    {
+      "type": "edit",
+      "id": "27ccf1cec775a6eb",
+      "item": {
+        "type": "paragraph",
+        "id": "27ccf1cec775a6eb",
+        "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. <b>This is a bug caused by improper href for the flag of recently forked pages.</b>"
+      },
+      "date": 1414866337052
+    },
+    {
+      "type": "edit",
+      "id": "27ccf1cec775a6eb",
+      "item": {
+        "type": "paragraph",
+        "id": "27ccf1cec775a6eb",
+        "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. <b>This is a bug caused by improper href for the flag of recently forked pages.</b> [https://github.com/fedwiki/wiki-client/issues/61 issue]"
+      },
+      "date": 1414866355065
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "paragraph",
+        "id": "4768278596dff2ca",
+        "text": "Except local pages on remote site are not draggable to their own site. <b>Due to site-indexing of local storage.</b>"
+      },
+      "date": 1414866466259
+    },
+    {
+      "type": "move",
+      "order": [
+        "372663bdd9e77d4d",
+        "778447686cf25b07",
+        "716743840432e15f",
+        "046f632bd7533c99",
+        "a5b9a11a83dda67c",
+        "67ab158010e846a8",
+        "4768278596dff2ca",
+        "27ccf1cec775a6eb",
+        "f34309801ab1b8df",
+        "192119eb557b5fa8",
+        "055f9fe7ce8489c0",
+        "2048f55120b05857",
+        "65720d024e9f96ad"
+      ],
+      "id": "f34309801ab1b8df",
+      "date": 1414866614344
+    },
+    {
+      "type": "edit",
+      "id": "2048f55120b05857",
+      "item": {
+        "type": "paragraph",
+        "id": "2048f55120b05857",
+        "text": "I honestly think I've seen everyone that has used federated wiki for any length of time get lost in this way.  (*I've* even gotten lost in this way myself, which is saying something). "
+      },
+      "date": 1414866681410
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "75b8132d5184a67a",
+        "text": ""
+      },
+      "id": "75b8132d5184a67a",
+      "type": "add",
+      "after": "2048f55120b05857",
+      "date": 1414866681420
+    },
+    {
+      "type": "edit",
+      "id": "75b8132d5184a67a",
+      "item": {
+        "type": "paragraph",
+        "id": "75b8132d5184a67a",
+        "text": "<h3> Root Cause"
+      },
+      "date": 1414866836505
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "18c8c1f72257f31f"
+      },
+      "id": "18c8c1f72257f31f",
+      "type": "add",
+      "after": "65720d024e9f96ad",
+      "date": 1414866916789
+    },
+    {
+      "type": "edit",
+      "id": "18c8c1f72257f31f",
+      "item": {
+        "type": "paragraph",
+        "id": "18c8c1f72257f31f",
+        "text": "<h3> Solution?"
+      },
+      "date": 1414866927745
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0c4c8eb83bd946eb",
+        "text": ""
+      },
+      "id": "0c4c8eb83bd946eb",
+      "type": "add",
+      "after": "18c8c1f72257f31f",
+      "date": 1414866927754
+    },
+    {
+      "type": "edit",
+      "id": "0c4c8eb83bd946eb",
+      "item": {
+        "type": "paragraph",
+        "id": "0c4c8eb83bd946eb",
+        "text": "Links are benign in federated wiki except for the page flag that takes one to a new origin. "
+      },
+      "date": 1414867056585
+    },
+    {
+      "type": "edit",
+      "id": "0c4c8eb83bd946eb",
+      "item": {
+        "type": "paragraph",
+        "id": "0c4c8eb83bd946eb",
+        "text": "Links are benign in federated wiki except for the page flag that takes one to a new origin."
+      },
+      "date": 1414867101836
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c2de6e4b4bba3ffe",
+        "text": ""
+      },
+      "id": "c2de6e4b4bba3ffe",
+      "type": "add",
+      "after": "0c4c8eb83bd946eb",
+      "date": 1414867101844
+    },
+    {
+      "type": "remove",
+      "id": "c2de6e4b4bba3ffe",
+      "date": 1414867157885
+    },
+    {
+      "type": "edit",
+      "id": "0c4c8eb83bd946eb",
+      "item": {
+        "type": "paragraph",
+        "id": "0c4c8eb83bd946eb",
+        "text": "Links are benign in federated wiki except for the page flag that takes one to a new origin, the root cause of the confusion described here."
+      },
+      "date": 1414867179457
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3beb022fb37c9677",
+        "text": ""
+      },
+      "id": "3beb022fb37c9677",
+      "type": "add",
+      "after": "0c4c8eb83bd946eb",
+      "date": 1414867179466
+    },
+    {
+      "type": "edit",
+      "id": "3beb022fb37c9677",
+      "item": {
+        "type": "paragraph",
+        "id": "3beb022fb37c9677",
+        "text": "An alternate behavior would be to simply add the remote sites welcome page to the right of the page in question. This is already the click behavior of flags in the neighborhood."
+      },
+      "date": 1414867412455
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e4d593d520ef0ed8",
+        "text": ""
+      },
+      "id": "e4d593d520ef0ed8",
+      "type": "add",
+      "after": "3beb022fb37c9677",
+      "date": 1414867412463
+    },
+    {
+      "type": "edit",
+      "id": "e4d593d520ef0ed8",
+      "item": {
+        "type": "paragraph",
+        "id": "e4d593d520ef0ed8",
+        "text": "The footer contains another link that will change origin. This much less used feature is so labeled so may not as easily confuse."
+      },
+      "date": 1414867658603
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5e284bfffc2b0122",
+        "text": ""
+      },
+      "id": "5e284bfffc2b0122",
+      "type": "add",
+      "after": "e4d593d520ef0ed8",
+      "date": 1414867658614
+    },
+    {
+      "type": "edit",
+      "id": "5e284bfffc2b0122",
+      "item": {
+        "type": "paragraph",
+        "id": "5e284bfffc2b0122",
+        "text": "The page flag anchor href should remain as is since it is examined when a page is dragged to a new tab or factory item. The javascript click handling ignores the href."
+      },
+      "date": 1414867770503
+    },
+    {
+      "type": "edit",
+      "id": "5e284bfffc2b0122",
+      "item": {
+        "type": "paragraph",
+        "id": "5e284bfffc2b0122",
+        "text": "The page flag anchor href should remain as is since it will be examined when a page is dragged to a new tab or factory item. The javascript click handling ignores the href."
+      },
+      "date": 1414867814846
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15cf8d465f4509f6",
+        "text": ""
+      },
+      "id": "15cf8d465f4509f6",
+      "type": "add",
+      "after": "5e284bfffc2b0122",
+      "date": 1414867840001
+    },
+    {
+      "type": "edit",
+      "id": "15cf8d465f4509f6",
+      "item": {
+        "type": "paragraph",
+        "id": "15cf8d465f4509f6",
+        "text": "Inconsistent behavior between sites will be noticed since not all sites will be serving an updated copy of wiki-client."
+      },
+      "date": 1414867992931
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b23054e9b0bf21d8",
+        "text": ""
+      },
+      "id": "b23054e9b0bf21d8",
+      "type": "add",
+      "after": "15cf8d465f4509f6",
+      "date": 1414867992943
+    },
+    {
+      "type": "edit",
+      "id": "b23054e9b0bf21d8",
+      "item": {
+        "type": "paragraph",
+        "id": "b23054e9b0bf21d8",
+        "text": "Without the change of origin browsing a remote site will require checking twins after each new page is retrieved to be sure one has not "
+      },
+      "date": 1414868097602
+    },
+    {
+      "type": "edit",
+      "id": "e4d593d520ef0ed8",
+      "item": {
+        "type": "paragraph",
+        "id": "e4d593d520ef0ed8",
+        "text": "The footer contains another link that will change origin. This much less used feature is so labeled so may not as easily confuse. It should be marked with the external-link icon and open in a new tab."
+      },
+      "date": 1414868128450
+    },
+    {
+      "type": "remove",
+      "id": "b23054e9b0bf21d8",
+      "date": 1414868503985
+    },
+    {
+      "type": "edit",
+      "id": "65720d024e9f96ad",
+      "item": {
+        "type": "paragraph",
+        "id": "65720d024e9f96ad",
+        "text": "After some thought, I've realized the biggest problem is that the write context and the browse context are intertwined. On almost any other system, when you log into a write context you stay logged into a write context. If I log into pinboard, I browse where I want, knowing that I'm posting page bookmarks to that pinboard account. If I log into tumblr and browse other tumblelogs, my write context stays my account, and if I have multiple blogs it asks me when I hit repost whichof my tumblelogs I want to post to.\n\n"
+      },
+      "date": 1414868564399
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "00a3988cd64161f7",
+        "text": "I don't know if this is fixable -- it is made complex by security blocks, cross-site scripting issues and by having multiple sites with no connection or knowledge of one another. I don't know what the answer is. But as I was watching yet another student do this in front of me in office hours, I realized how many problems and frustration have a shifting write context at their root and thought I should pass it on. I get emails from students who say \"I I logged in and tried to do work on Friday but it looks like you own all the pages now? It wouldn't let me write.\" etc. It's usually that they've auto-completed their way to my site, etc. "
+      },
+      "id": "00a3988cd64161f7",
+      "type": "add",
+      "after": "65720d024e9f96ad",
+      "date": 1414868564409
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fb9b94f47c77bf8b",
+        "text": ""
+      },
+      "id": "fb9b94f47c77bf8b",
+      "type": "add",
+      "after": "15cf8d465f4509f6",
+      "date": 1414871986993
+    },
+    {
+      "type": "edit",
+      "id": "fb9b94f47c77bf8b",
+      "item": {
+        "type": "paragraph",
+        "id": "fb9b94f47c77bf8b",
+        "text": "Drawback: reloading from the origin is a convenient way to discard unwanted neighborhood. This is especially true looking at Recent Changes."
+      },
+      "date": 1414872093512
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "42e6267db2e72b0a",
+        "text": ""
+      },
+      "id": "42e6267db2e72b0a",
+      "type": "add",
+      "after": "fb9b94f47c77bf8b",
+      "date": 1414872120255
+    },
+    {
+      "type": "edit",
+      "id": "42e6267db2e72b0a",
+      "item": {
+        "type": "paragraph",
+        "id": "42e6267db2e72b0a",
+        "text": "Drawback: reloading from the origin is a convenient way to discard unwanted left hand pages from the lineup. Is there a better way?"
+      },
+      "date": 1414872258260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9aa606eff09424af"
+      },
+      "id": "9aa606eff09424af",
+      "type": "add",
+      "after": "42e6267db2e72b0a",
+      "date": 1414884317179
+    },
+    {
+      "type": "edit",
+      "id": "9aa606eff09424af",
+      "item": {
+        "type": "paragraph",
+        "id": "9aa606eff09424af",
+        "text": "Plan B: The javascript could just open a new tab if there is a change of origin. Would this be too complex? Probably."
+      },
+      "date": 1414884362227
+    },
+    {
+      "type": "edit",
+      "id": "778447686cf25b07",
+      "item": {
+        "type": "html",
+        "id": "778447686cf25b07",
+        "text": "<h3> Scenario"
+      },
+      "date": 1420344686101
+    },
+    {
+      "type": "edit",
+      "id": "4768278596dff2ca",
+      "item": {
+        "type": "html",
+        "id": "4768278596dff2ca",
+        "text": "Except local pages on remote site are not draggable to their own site. <b>Due to site-indexing of local storage.</b>"
+      },
+      "date": 1420344692435
+    },
+    {
+      "type": "edit",
+      "id": "27ccf1cec775a6eb",
+      "item": {
+        "type": "html",
+        "id": "27ccf1cec775a6eb",
+        "text": "If you try to drag them to your own site it resets the origin page to the site you don't own. <b>This is a bug caused by improper href for the flag of recently forked pages.</b> [https://github.com/fedwiki/wiki-client/issues/61 issue]"
+      },
+      "date": 1420344695982
+    },
+    {
+      "type": "edit",
+      "id": "f34309801ab1b8df",
+      "item": {
+        "type": "html",
+        "id": "f34309801ab1b8df",
+        "text": "<h3> Compounding"
+      },
+      "date": 1420344698272
+    },
+    {
+      "type": "edit",
+      "id": "75b8132d5184a67a",
+      "item": {
+        "type": "html",
+        "id": "75b8132d5184a67a",
+        "text": "<h3> Root Cause"
+      },
+      "date": 1420344701942
+    },
+    {
+      "type": "edit",
+      "id": "18c8c1f72257f31f",
+      "item": {
+        "type": "html",
+        "id": "18c8c1f72257f31f",
+        "text": "<h3> Solution?"
+      },
+      "date": 1420344706365
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1426875287854
+    }
+  ]
+}

@@ -4,12 +4,32 @@
     {
       "type": "paragraph",
       "id": "92a7d6e45298795b",
-      "text": "This is a personal wiki kept for the purpose of exploring the federated wiki concept. "
+      "text": "This is a personal wiki of Esben Sørig kept for the purpose of exploring the federated wiki concept. "
+    },
+    {
+      "type": "markdown",
+      "id": "1d35b954d92a2edc",
+      "text": "### Topics"
     },
     {
       "type": "paragraph",
       "id": "837a5720098e373d",
-      "text": "<b>Topics</b>"
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "db66e459c6ad9414",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "3870212ba02b99cd",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "50f0eff065d53270",
+      "text": " "
     },
     {
       "type": "paragraph",
@@ -22,9 +42,9 @@
       "text": "[[Exploring the federated wiki]]"
     },
     {
-      "type": "paragraph",
-      "id": "5fe13f04ed0b9b76",
-      "text": "<b>Circles"
+      "type": "markdown",
+      "id": "510a2ca13dc33ed4",
+      "text": "### People"
     },
     {
       "type": "paragraph",
@@ -32,14 +52,14 @@
       "text": "[[People I Follow]]"
     },
     {
-      "type": "paragraph",
-      "id": "1f671b924795751b",
-      "text": ""
+      "type": "markdown",
+      "id": "06c1279a77819271",
+      "text": "### Other"
     },
     {
       "type": "paragraph",
-      "id": "243bb5eb3cfe2303",
-      "text": "<b>Other"
+      "id": "1f671b924795751b",
+      "text": ""
     },
     {
       "type": "paragraph",
@@ -73,11 +93,6 @@
     },
     {
       "type": "paragraph",
-      "id": "e9355e6a0f742b9e",
-      "text": "<b>"
-    },
-    {
-      "type": "paragraph",
       "id": "5f48f96062bc067f",
       "text": " "
     },
@@ -90,10 +105,6 @@
       "type": "paragraph",
       "id": "164ec0d3887350a8",
       "text": " "
-    },
-    {
-      "type": "factory",
-      "id": "1d35b954d92a2edc"
     }
   ],
   "journal": [
@@ -1299,6 +1310,259 @@
       "type": "add",
       "after": "164ec0d3887350a8",
       "date": 1426873140202
+    },
+    {
+      "type": "edit",
+      "id": "1d35b954d92a2edc",
+      "item": {
+        "type": "markdown",
+        "id": "1d35b954d92a2edc",
+        "text": "### Topics"
+      },
+      "date": 1426873155281
+    },
+    {
+      "type": "move",
+      "order": [
+        "92a7d6e45298795b",
+        "1d35b954d92a2edc",
+        "837a5720098e373d",
+        "9c54cacfce8cf254",
+        "5c8182dd46fce8fd",
+        "5fe13f04ed0b9b76",
+        "c2b99fc27b1d20f4",
+        "1f671b924795751b",
+        "243bb5eb3cfe2303",
+        "1770e74fbda6ac94",
+        "bb7c43b5cf13b5b2",
+        "53ddcba0b848825f",
+        "dce3a7b0e004b5b9",
+        "c1290b804fd05bde",
+        "620bd45523ef7c32",
+        "e9355e6a0f742b9e",
+        "5f48f96062bc067f",
+        "ee416d431ebf4fb4",
+        "164ec0d3887350a8"
+      ],
+      "id": "1d35b954d92a2edc",
+      "date": 1426873157589
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db66e459c6ad9414",
+        "text": ""
+      },
+      "id": "db66e459c6ad9414",
+      "type": "add",
+      "after": "837a5720098e373d",
+      "date": 1426873163317
+    },
+    {
+      "type": "edit",
+      "id": "837a5720098e373d",
+      "item": {
+        "type": "paragraph",
+        "id": "837a5720098e373d",
+        "text": " "
+      },
+      "date": 1426873163294
+    },
+    {
+      "type": "remove",
+      "id": "e0b7469d139c44b3",
+      "date": 1426873163298
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3870212ba02b99cd",
+        "text": ""
+      },
+      "id": "3870212ba02b99cd",
+      "type": "add",
+      "after": "db66e459c6ad9414",
+      "date": 1426873164373
+    },
+    {
+      "type": "remove",
+      "id": "b055406efd806ea7",
+      "date": 1426873164801
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e3ae5e19d0e75720",
+        "text": ""
+      },
+      "id": "e3ae5e19d0e75720",
+      "type": "add",
+      "after": "50f0eff065d53270",
+      "date": 1426873165441
+    },
+    {
+      "type": "remove",
+      "id": "e3ae5e19d0e75720",
+      "date": 1426873165426
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "50f0eff065d53270",
+        "text": ""
+      },
+      "id": "50f0eff065d53270",
+      "type": "add",
+      "after": "3870212ba02b99cd",
+      "date": 1426873164819
+    },
+    {
+      "type": "edit",
+      "id": "50f0eff065d53270",
+      "item": {
+        "type": "paragraph",
+        "id": "50f0eff065d53270",
+        "text": " "
+      },
+      "date": 1426873165422
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7dcbcdf75ab7aac6",
+        "text": ""
+      },
+      "id": "7dcbcdf75ab7aac6",
+      "type": "add",
+      "after": "50f0eff065d53270",
+      "date": 1426873165442
+    },
+    {
+      "type": "remove",
+      "id": "7dcbcdf75ab7aac6",
+      "date": 1426873169511
+    },
+    {
+      "type": "remove",
+      "id": "5fe13f04ed0b9b76",
+      "date": 1426873177121
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "510a2ca13dc33ed4"
+      },
+      "id": "510a2ca13dc33ed4",
+      "type": "add",
+      "after": "164ec0d3887350a8",
+      "date": 1426873180283
+    },
+    {
+      "type": "edit",
+      "id": "510a2ca13dc33ed4",
+      "item": {
+        "type": "markdown",
+        "id": "510a2ca13dc33ed4",
+        "text": "### People"
+      },
+      "date": 1426873193615
+    },
+    {
+      "type": "move",
+      "order": [
+        "92a7d6e45298795b",
+        "1d35b954d92a2edc",
+        "837a5720098e373d",
+        "db66e459c6ad9414",
+        "3870212ba02b99cd",
+        "50f0eff065d53270",
+        "9c54cacfce8cf254",
+        "5c8182dd46fce8fd",
+        "510a2ca13dc33ed4",
+        "c2b99fc27b1d20f4",
+        "1f671b924795751b",
+        "243bb5eb3cfe2303",
+        "1770e74fbda6ac94",
+        "bb7c43b5cf13b5b2",
+        "53ddcba0b848825f",
+        "dce3a7b0e004b5b9",
+        "c1290b804fd05bde",
+        "620bd45523ef7c32",
+        "e9355e6a0f742b9e",
+        "5f48f96062bc067f",
+        "ee416d431ebf4fb4",
+        "164ec0d3887350a8"
+      ],
+      "id": "510a2ca13dc33ed4",
+      "date": 1426873195639
+    },
+    {
+      "type": "remove",
+      "id": "e9355e6a0f742b9e",
+      "date": 1426873200527
+    },
+    {
+      "type": "remove",
+      "id": "243bb5eb3cfe2303",
+      "date": 1426873215946
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "06c1279a77819271"
+      },
+      "id": "06c1279a77819271",
+      "type": "add",
+      "after": "164ec0d3887350a8",
+      "date": 1426873217738
+    },
+    {
+      "type": "edit",
+      "id": "06c1279a77819271",
+      "item": {
+        "type": "markdown",
+        "id": "06c1279a77819271",
+        "text": "### Other"
+      },
+      "date": 1426873224151
+    },
+    {
+      "type": "move",
+      "order": [
+        "92a7d6e45298795b",
+        "1d35b954d92a2edc",
+        "837a5720098e373d",
+        "db66e459c6ad9414",
+        "3870212ba02b99cd",
+        "50f0eff065d53270",
+        "9c54cacfce8cf254",
+        "5c8182dd46fce8fd",
+        "510a2ca13dc33ed4",
+        "c2b99fc27b1d20f4",
+        "06c1279a77819271",
+        "1f671b924795751b",
+        "1770e74fbda6ac94",
+        "bb7c43b5cf13b5b2",
+        "53ddcba0b848825f",
+        "dce3a7b0e004b5b9",
+        "c1290b804fd05bde",
+        "620bd45523ef7c32",
+        "5f48f96062bc067f",
+        "ee416d431ebf4fb4",
+        "164ec0d3887350a8"
+      ],
+      "id": "06c1279a77819271",
+      "date": 1426873225707
+    },
+    {
+      "type": "edit",
+      "id": "92a7d6e45298795b",
+      "item": {
+        "type": "paragraph",
+        "id": "92a7d6e45298795b",
+        "text": "This is a personal wiki of Esben Sørig kept for the purpose of exploring the federated wiki concept. "
+      },
+      "date": 1426873431310
     }
   ]
 }

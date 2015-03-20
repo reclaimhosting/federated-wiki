@@ -22,9 +22,9 @@
       "text": "$$\\hat{\\mathbf{w}} = \\sum_{i=1}^m c_i \\mathbf{x}_i$$\n$$c_i \\in \\mathbb{R} $$"
     },
     {
-      "type": "paragraph",
-      "id": "dad99fff49bebc27",
-      "text": "<b>Proof 1"
+      "type": "markdown",
+      "id": "1f91a15468f38fe5",
+      "text": "### Proof 1"
     },
     {
       "type": "mathjax",
@@ -37,9 +37,9 @@
       "text": "(Incomplete)"
     },
     {
-      "type": "paragraph",
-      "id": "7eed7b6ce441fcd0",
-      "text": "<b>Proof 2"
+      "type": "markdown",
+      "id": "c5a0471a1517316e",
+      "text": "###Proof 2"
     },
     {
       "type": "mathjax",
@@ -448,6 +448,102 @@
         "text": "\\begin{equation}\n\\min_{\\mathbf{w} \\in \\mathbb{R}^d} \\{ \\sum_{i=1}^m E( \\mathbf{w}^T \\mathbf{x}_i, y_i) + \\delta ||\\mathbf{w}||_2^2 \\}\n\\end{equation}"
       },
       "date": 1416937928348
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f91a15468f38fe5"
+      },
+      "id": "1f91a15468f38fe5",
+      "type": "add",
+      "after": "c9153a2fabc0d9fd",
+      "date": 1426873308891
+    },
+    {
+      "type": "edit",
+      "id": "1f91a15468f38fe5",
+      "item": {
+        "type": "markdown",
+        "id": "1f91a15468f38fe5",
+        "text": "### Proof 1"
+      },
+      "date": 1426873320139
+    },
+    {
+      "type": "move",
+      "order": [
+        "399abd4cfe32f48b",
+        "e84640e839f493e5",
+        "e6d2b649418f9e90",
+        "89c7ff238a88395c",
+        "1f91a15468f38fe5",
+        "dad99fff49bebc27",
+        "e93048b892c020d5",
+        "ac8a7fd570cdb666",
+        "7eed7b6ce441fcd0",
+        "c259b8bcd60beb9b",
+        "c9153a2fabc0d9fd"
+      ],
+      "id": "1f91a15468f38fe5",
+      "date": 1426873322786
+    },
+    {
+      "type": "remove",
+      "id": "dad99fff49bebc27",
+      "date": 1426873328305
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5a0471a1517316e"
+      },
+      "id": "c5a0471a1517316e",
+      "type": "add",
+      "after": "c9153a2fabc0d9fd",
+      "date": 1426873333539
+    },
+    {
+      "type": "edit",
+      "id": "c5a0471a1517316e",
+      "item": {
+        "type": "markdown",
+        "id": "c5a0471a1517316e",
+        "text": "Proof 2"
+      },
+      "date": 1426873338692
+    },
+    {
+      "type": "edit",
+      "id": "c5a0471a1517316e",
+      "item": {
+        "type": "markdown",
+        "id": "c5a0471a1517316e",
+        "text": "###Proof 2"
+      },
+      "date": 1426873343316
+    },
+    {
+      "type": "move",
+      "order": [
+        "399abd4cfe32f48b",
+        "e84640e839f493e5",
+        "e6d2b649418f9e90",
+        "89c7ff238a88395c",
+        "1f91a15468f38fe5",
+        "e93048b892c020d5",
+        "ac8a7fd570cdb666",
+        "7eed7b6ce441fcd0",
+        "c5a0471a1517316e",
+        "c259b8bcd60beb9b",
+        "c9153a2fabc0d9fd"
+      ],
+      "id": "c5a0471a1517316e",
+      "date": 1426873344990
+    },
+    {
+      "type": "remove",
+      "id": "7eed7b6ce441fcd0",
+      "date": 1426873348649
     }
   ]
 }

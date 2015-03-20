@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "837a5720098e373d",
-      "text": "<b>Topics"
+      "text": "<b>Topics</b>"
     },
     {
       "type": "paragraph",
@@ -90,6 +90,10 @@
       "type": "paragraph",
       "id": "164ec0d3887350a8",
       "text": " "
+    },
+    {
+      "type": "factory",
+      "id": "1d35b954d92a2edc"
     }
   ],
   "journal": [
@@ -1243,6 +1247,58 @@
       "type": "remove",
       "id": "dab01df5f7721605",
       "date": 1416994902686
+    },
+    {
+      "type": "edit",
+      "id": "837a5720098e373d",
+      "item": {
+        "type": "paragraph",
+        "id": "837a5720098e373d",
+        "text": "<b>Topics</b>"
+      },
+      "date": 1426873124142
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c1a9d1fef4da610b",
+        "text": ""
+      },
+      "id": "c1a9d1fef4da610b",
+      "type": "add",
+      "after": "837a5720098e373d",
+      "date": 1426873124164
+    },
+    {
+      "type": "remove",
+      "id": "c1a9d1fef4da610b",
+      "date": 1426873124614
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "491cdf9fef40d249",
+        "text": ""
+      },
+      "id": "491cdf9fef40d249",
+      "type": "add",
+      "after": "837a5720098e373d",
+      "date": 1426873125734
+    },
+    {
+      "type": "remove",
+      "id": "491cdf9fef40d249",
+      "date": 1426873126189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d35b954d92a2edc"
+      },
+      "id": "1d35b954d92a2edc",
+      "type": "add",
+      "after": "164ec0d3887350a8",
+      "date": 1426873140202
     }
   ]
 }

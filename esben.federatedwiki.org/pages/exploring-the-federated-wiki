@@ -3,7 +3,22 @@
   "story": [
     {
       "type": "paragraph",
+      "id": "6eb50cf6b6934bfb",
+      "text": "Interesting/enlightening discussion: [[Alternate Vision]]"
+    },
+    {
+      "type": "markdown",
+      "id": "a3204b261b82b43d",
+      "text": "### Notes on first time use of federated wiki"
+    },
+    {
+      "type": "paragraph",
       "id": "d2bc8eba97cf8e58",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "7a7ea1d7f690507b",
       "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
     },
     {
@@ -517,6 +532,178 @@
         "text": "I can't exactly figure out how you \"follow\" someone like in Mike Caulfield's lifecycle video [https://www.youtube.com/watch?v=2Gi9SRsRrE4&list=UUQ0dKDgVskAtKU4lN3cAHxg&spfreload=10 youtube]"
       },
       "date": 1416937895380
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7a7ea1d7f690507b",
+        "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
+      },
+      "id": "7a7ea1d7f690507b",
+      "type": "add",
+      "after": "d2bc8eba97cf8e58",
+      "date": 1426874601846
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d2c6fb7118db3ca1",
+        "text": ""
+      },
+      "id": "d2c6fb7118db3ca1",
+      "type": "add",
+      "after": "d2bc8eba97cf8e58",
+      "date": 1426874601847
+    },
+    {
+      "type": "edit",
+      "id": "d2bc8eba97cf8e58",
+      "item": {
+        "type": "paragraph",
+        "id": "d2bc8eba97cf8e58",
+        "text": " "
+      },
+      "date": 1426874601820
+    },
+    {
+      "type": "remove",
+      "id": "d2c6fb7118db3ca1",
+      "date": 1426874609445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3204b261b82b43d"
+      },
+      "id": "a3204b261b82b43d",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "date": 1426874616911
+    },
+    {
+      "type": "edit",
+      "id": "a3204b261b82b43d",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "### Notes on first time use of federated wiki"
+      },
+      "date": 1426874648182
+    },
+    {
+      "type": "move",
+      "order": [
+        "a3204b261b82b43d",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1"
+      ],
+      "id": "a3204b261b82b43d",
+      "date": 1426874652896
+    },
+    {
+      "type": "edit",
+      "id": "a3204b261b82b43d",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "\n\n### Notes on first time use of federated wiki"
+      },
+      "date": 1426874673763
+    },
+    {
+      "type": "edit",
+      "id": "a3204b261b82b43d",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "[[Alternate Vision]\n### Notes on first time use of federated wiki"
+      },
+      "date": 1426874683303
+    },
+    {
+      "type": "edit",
+      "id": "a3204b261b82b43d",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "[[Alternate Vision]]\n### Notes on first time use of federated wiki"
+      },
+      "date": 1426874688002
+    },
+    {
+      "type": "edit",
+      "id": "a3204b261b82b43d",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "### Notes on first time use of federated wiki"
+      },
+      "date": 1426874703288
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6eb50cf6b6934bfb"
+      },
+      "id": "6eb50cf6b6934bfb",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "date": 1426874705868
+    },
+    {
+      "type": "edit",
+      "id": "6eb50cf6b6934bfb",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb50cf6b6934bfb",
+        "text": "Interesting/enlightening discussion[[Alternate Vision]]"
+      },
+      "date": 1426874725357
+    },
+    {
+      "type": "edit",
+      "id": "6eb50cf6b6934bfb",
+      "item": {
+        "type": "paragraph",
+        "id": "6eb50cf6b6934bfb",
+        "text": "Interesting/enlightening discussion: [[Alternate Vision]]"
+      },
+      "date": 1426874734319
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb50cf6b6934bfb",
+        "a3204b261b82b43d",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1"
+      ],
+      "id": "6eb50cf6b6934bfb",
+      "date": 1426874738357
     }
   ]
 }

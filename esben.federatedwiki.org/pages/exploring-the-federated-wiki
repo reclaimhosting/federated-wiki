@@ -17,9 +17,9 @@
       "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
     },
     {
-      "type": "html",
-      "id": "5e35467ef7af1a9e",
-      "text": "<h3>Other resources</h3>"
+      "type": "pagefold",
+      "id": "9134a829d4b8bb45",
+      "text": "Other resources"
     },
     {
       "type": "paragraph",
@@ -35,6 +35,11 @@
       "type": "paragraph",
       "id": "8d265a178d6005f0",
       "text": "Many answers to frustrating scenarios described below can be found here: [[Lost My Origin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "826ce79a5d409b8d",
+      "text": "On merging: [[Question: How can I merge changes from forks?]]"
     },
     {
       "type": "paragraph",
@@ -1042,6 +1047,83 @@
         "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
       },
       "date": 1426949813452
+    },
+    {
+      "type": "remove",
+      "id": "5e35467ef7af1a9e",
+      "date": 1426949962314
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9134a829d4b8bb45"
+      },
+      "id": "9134a829d4b8bb45",
+      "type": "add",
+      "after": "1d255ff17a7af972",
+      "date": 1426949964092
+    },
+    {
+      "type": "edit",
+      "id": "9134a829d4b8bb45",
+      "item": {
+        "type": "pagefold",
+        "id": "9134a829d4b8bb45",
+        "text": "Other resources"
+      },
+      "date": 1426949974683
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb50cf6b6934bfb",
+        "773a37332adabb3c",
+        "35d0d02c918cd7ad",
+        "9134a829d4b8bb45",
+        "e170ea18fc390c4c",
+        "7815219d5d739bf4",
+        "8d265a178d6005f0",
+        "7e7fa407b1e6174f",
+        "a3204b261b82b43d",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1",
+        "1d255ff17a7af972"
+      ],
+      "id": "9134a829d4b8bb45",
+      "date": 1426949981922
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "826ce79a5d409b8d",
+        "text": ""
+      },
+      "id": "826ce79a5d409b8d",
+      "type": "add",
+      "after": "8d265a178d6005f0",
+      "date": 1426949986583
+    },
+    {
+      "type": "edit",
+      "id": "826ce79a5d409b8d",
+      "item": {
+        "type": "paragraph",
+        "id": "826ce79a5d409b8d",
+        "text": "On merging: [[Question: How can I merge changes from forks?]]"
+      },
+      "date": 1426949991829
     }
   ]
 }

@@ -87,7 +87,7 @@
       "text": "I can't exactly figure out how you \"follow\" someone like in Mike Caulfield's lifecycle video [https://www.youtube.com/watch?v=2Gi9SRsRrE4&list=UUQ0dKDgVskAtKU4lN3cAHxg&spfreload=10 youtube]"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "dd04eae9bb626d00",
       "text": "<h3>Trying to understand federated wiki"
     },
@@ -120,13 +120,6 @@
       "type": "paragraph",
       "id": "79b5aa219550e6a1",
       "text": ""
-    },
-    {
-      "type": "reference",
-      "id": "1d255ff17a7af972",
-      "site": "orientation.hapgood.net",
-      "title": "Welcome Visitors",
-      "text": "Welcome to this [[Federated Wiki]] site. This site is part of the Fedwiki Happening on Teaching Machines. On this Welcome Visitors page we talk about who we are, what we do, and with whom we do it."
     }
   ],
   "journal": [
@@ -1124,6 +1117,21 @@
         "text": "On merging: [[Question: How can I merge changes from forks?]]"
       },
       "date": 1426949991829
+    },
+    {
+      "type": "edit",
+      "id": "dd04eae9bb626d00",
+      "item": {
+        "type": "html",
+        "id": "dd04eae9bb626d00",
+        "text": "<h3>Trying to understand federated wiki"
+      },
+      "date": 1426953077547
+    },
+    {
+      "type": "remove",
+      "id": "1d255ff17a7af972",
+      "date": 1426953095863
     }
   ]
 }

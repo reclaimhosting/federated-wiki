@@ -12,24 +12,9 @@
       "text": "Parser generators / parsing libraries that have been considered:"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "20502e2da707ffc4",
-      "text": "<li>ANTLR"
-    },
-    {
-      "type": "paragraph",
-      "id": "bef10b5d3082c898",
-      "text": "<li>Bison"
-    },
-    {
-      "type": "paragraph",
-      "id": "ab681791d8e9126b",
-      "text": "<li>pyparsing (for prototyping)"
-    },
-    {
-      "type": "paragraph",
-      "id": "7b72905e61bb9cdd",
-      "text": "<li>boost::spirit"
+      "text": "<li>ANTLR\n<li>Bison\n<li>pyparsing (for prototyping)\n<li>PLY\n<li>boost::spirit"
     }
   ],
   "journal": [
@@ -190,6 +175,91 @@
         "text": "<li>Bison"
       },
       "date": 1416922039406
+    },
+    {
+      "type": "edit",
+      "id": "20502e2da707ffc4",
+      "item": {
+        "type": "html",
+        "id": "20502e2da707ffc4",
+        "text": "<li>ANTLR"
+      },
+      "date": 1426951769696
+    },
+    {
+      "type": "edit",
+      "id": "bef10b5d3082c898",
+      "item": {
+        "type": "html",
+        "id": "bef10b5d3082c898",
+        "text": "<li>Bison"
+      },
+      "date": 1426951770380
+    },
+    {
+      "type": "edit",
+      "id": "ab681791d8e9126b",
+      "item": {
+        "type": "html",
+        "id": "ab681791d8e9126b",
+        "text": "<li>pyparsing (for prototyping)"
+      },
+      "date": 1426951771042
+    },
+    {
+      "type": "edit",
+      "id": "7b72905e61bb9cdd",
+      "item": {
+        "type": "html",
+        "id": "7b72905e61bb9cdd",
+        "text": "<li>boost::spirit"
+      },
+      "date": 1426951771707
+    },
+    {
+      "type": "edit",
+      "id": "20502e2da707ffc4",
+      "item": {
+        "type": "html",
+        "id": "20502e2da707ffc4",
+        "text": "<li>ANTLR\n<li>Bison"
+      },
+      "date": 1426951787737
+    },
+    {
+      "type": "edit",
+      "id": "20502e2da707ffc4",
+      "item": {
+        "type": "html",
+        "id": "20502e2da707ffc4",
+        "text": "<li>ANTLR\n<li>Bison\n<li>pyparsing (for prototyping)"
+      },
+      "date": 1426951791216
+    },
+    {
+      "type": "remove",
+      "id": "bef10b5d3082c898",
+      "date": 1426951794788
+    },
+    {
+      "type": "remove",
+      "id": "ab681791d8e9126b",
+      "date": 1426951799068
+    },
+    {
+      "type": "remove",
+      "id": "7b72905e61bb9cdd",
+      "date": 1426951802285
+    },
+    {
+      "type": "edit",
+      "id": "20502e2da707ffc4",
+      "item": {
+        "type": "html",
+        "id": "20502e2da707ffc4",
+        "text": "<li>ANTLR\n<li>Bison\n<li>pyparsing (for prototyping)\n<li>PLY\n<li>boost::spirit"
+      },
+      "date": 1426951817054
     }
   ]
 }

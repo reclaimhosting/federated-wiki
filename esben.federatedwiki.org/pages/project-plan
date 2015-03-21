@@ -17,7 +17,7 @@
       "text": "<h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0664d60df1553e23",
       "text": "<h3>Aims and Objectives"
     },
@@ -37,47 +37,47 @@
       "text": "If time permits, a last objective is to research a theoretical machine learning topic and either document this (in for example an IPython notebook) or implement this into the Shogun toolbox.\n"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "7831605b63ea297c",
       "text": "<h3>Expected outcomes</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5c0871a28249c8e3",
       "text": "<li>A review of the formal language theory, type theory, language design principles, and engineering principles needed to achieve the objectives."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "239d0cf69b0f8dc4",
       "text": "<li>A formal specification of the meta-language"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0bd039f9a1f53ac0",
       "text": "<li>An implementation of the language. This will be like a compiler although instead of creating a binary based on the input, the final output will be a collection of files in the target languages representing the same underlying example API usage.\n"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "51da1869fb5bbf5e",
       "text": "<li>If needed, a collection of IPython notebooks with examples that are not translatable to the meta-language. These notebooks will usually be a more thorough review of the specific algorithms with plots, illustrations, and detailed explanations of the algorithms.\n"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "7eba71f8974be683",
       "text": "<li>Documentation of all implemented tools and algorithms."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5a5e4adc2ff0c6c7",
       "text": "<li>A plan and showcase of using the meta-language tool in Shogun’s continuous integration testing pipeline."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "166895b662a1872b",
       "text": "<li>Lastly, given there is enough time, the final deliverable will be a theoretical machine learning chapter which covers a final contribution to the shogun toolbox. This final contribution will be a review of a machine learning algorithm and either a documentation of it (in an Python notebook), an implementation of it, or both."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0860211333ae1b0f",
       "text": "<h3>Work plan"
     },
@@ -87,7 +87,7 @@
       "text": " "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "b0bf708b11802680",
       "text": "Project start to end October - Literature search and review\n<ul><li>The main research needs to go into finding the best way of implementing the meta-language and what tools and libraries should be used</li></ul>"
     },
@@ -97,27 +97,27 @@
       "text": " "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "22a15781dee75669",
       "text": "December and January - System implementation\n<ul><li>The bulk of coding and implementation will be performed during this time."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "66a03f8788aa4280",
       "text": "Mid-January - Interim Report\n<ul><li>A short 2-3 page report on the progress so far will be written and submitted by the 21st of January 2015."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "6c575805c9bce0be",
       "text": "Mid-January to mid-February - Testing and integration\n<ul><li>Making sure that the tool works as intended and can be integrated into Shogun. Doing the actual integration into Shogun."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "aa6b106946270887",
       "text": "\nFebruary - Machine learning contribution\nIf there is enough time, this will be the time period for doing the machine learning contribution. This will either be in the form of an implementation of an algorithm or documentation and explanation of existing algorithms in the toolbox.\nMid-February to end-March - Work on final report\nThe majority of the writing for the final report will be done in this time period. All major chapters should be finished by the end of March."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "fd75d786a8d31f38",
       "text": "Mid-February to end-March - Work on final report\n<ul><li>The majority of the writing for the final report will be done in this time period. All major chapters should be finished by the end of March."
     }
@@ -1061,6 +1061,166 @@
         "text": "Mid-February to end-March - Work on final report\n<ul><li>The majority of the writing for the final report will be done in this time period. All major chapters should be finished by the end of March."
       },
       "date": 1416921465370
+    },
+    {
+      "type": "edit",
+      "id": "0664d60df1553e23",
+      "item": {
+        "type": "html",
+        "id": "0664d60df1553e23",
+        "text": "<h3>Aims and Objectives"
+      },
+      "date": 1426951742068
+    },
+    {
+      "type": "edit",
+      "id": "7831605b63ea297c",
+      "item": {
+        "type": "html",
+        "id": "7831605b63ea297c",
+        "text": "<h3>Expected outcomes</h3>"
+      },
+      "date": 1426951744468
+    },
+    {
+      "type": "edit",
+      "id": "5c0871a28249c8e3",
+      "item": {
+        "type": "html",
+        "id": "5c0871a28249c8e3",
+        "text": "<li>A review of the formal language theory, type theory, language design principles, and engineering principles needed to achieve the objectives."
+      },
+      "date": 1426951745843
+    },
+    {
+      "type": "edit",
+      "id": "239d0cf69b0f8dc4",
+      "item": {
+        "type": "html",
+        "id": "239d0cf69b0f8dc4",
+        "text": "<li>A formal specification of the meta-language"
+      },
+      "date": 1426951746657
+    },
+    {
+      "type": "edit",
+      "id": "0bd039f9a1f53ac0",
+      "item": {
+        "type": "html",
+        "id": "0bd039f9a1f53ac0",
+        "text": "<li>An implementation of the language. This will be like a compiler although instead of creating a binary based on the input, the final output will be a collection of files in the target languages representing the same underlying example API usage.\n"
+      },
+      "date": 1426951747276
+    },
+    {
+      "type": "edit",
+      "id": "51da1869fb5bbf5e",
+      "item": {
+        "type": "html",
+        "id": "51da1869fb5bbf5e",
+        "text": "<li>If needed, a collection of IPython notebooks with examples that are not translatable to the meta-language. These notebooks will usually be a more thorough review of the specific algorithms with plots, illustrations, and detailed explanations of the algorithms.\n"
+      },
+      "date": 1426951748511
+    },
+    {
+      "type": "edit",
+      "id": "7eba71f8974be683",
+      "item": {
+        "type": "html",
+        "id": "7eba71f8974be683",
+        "text": "<li>Documentation of all implemented tools and algorithms."
+      },
+      "date": 1426951749212
+    },
+    {
+      "type": "edit",
+      "id": "5a5e4adc2ff0c6c7",
+      "item": {
+        "type": "html",
+        "id": "5a5e4adc2ff0c6c7",
+        "text": "<li>A plan and showcase of using the meta-language tool in Shogun’s continuous integration testing pipeline."
+      },
+      "date": 1426951750641
+    },
+    {
+      "type": "edit",
+      "id": "166895b662a1872b",
+      "item": {
+        "type": "html",
+        "id": "166895b662a1872b",
+        "text": "<li>Lastly, given there is enough time, the final deliverable will be a theoretical machine learning chapter which covers a final contribution to the shogun toolbox. This final contribution will be a review of a machine learning algorithm and either a documentation of it (in an Python notebook), an implementation of it, or both."
+      },
+      "date": 1426951751484
+    },
+    {
+      "type": "edit",
+      "id": "0860211333ae1b0f",
+      "item": {
+        "type": "html",
+        "id": "0860211333ae1b0f",
+        "text": "<h3>Work plan"
+      },
+      "date": 1426951753472
+    },
+    {
+      "type": "edit",
+      "id": "b0bf708b11802680",
+      "item": {
+        "type": "html",
+        "id": "b0bf708b11802680",
+        "text": "Project start to end October - Literature search and review\n<ul><li>The main research needs to go into finding the best way of implementing the meta-language and what tools and libraries should be used</li></ul>"
+      },
+      "date": 1426951754155
+    },
+    {
+      "type": "edit",
+      "id": "22a15781dee75669",
+      "item": {
+        "type": "html",
+        "id": "22a15781dee75669",
+        "text": "December and January - System implementation\n<ul><li>The bulk of coding and implementation will be performed during this time."
+      },
+      "date": 1426951755429
+    },
+    {
+      "type": "edit",
+      "id": "66a03f8788aa4280",
+      "item": {
+        "type": "html",
+        "id": "66a03f8788aa4280",
+        "text": "Mid-January - Interim Report\n<ul><li>A short 2-3 page report on the progress so far will be written and submitted by the 21st of January 2015."
+      },
+      "date": 1426951757526
+    },
+    {
+      "type": "edit",
+      "id": "6c575805c9bce0be",
+      "item": {
+        "type": "html",
+        "id": "6c575805c9bce0be",
+        "text": "Mid-January to mid-February - Testing and integration\n<ul><li>Making sure that the tool works as intended and can be integrated into Shogun. Doing the actual integration into Shogun."
+      },
+      "date": 1426951758775
+    },
+    {
+      "type": "edit",
+      "id": "aa6b106946270887",
+      "item": {
+        "type": "html",
+        "id": "aa6b106946270887",
+        "text": "\nFebruary - Machine learning contribution\nIf there is enough time, this will be the time period for doing the machine learning contribution. This will either be in the form of an implementation of an algorithm or documentation and explanation of existing algorithms in the toolbox.\nMid-February to end-March - Work on final report\nThe majority of the writing for the final report will be done in this time period. All major chapters should be finished by the end of March."
+      },
+      "date": 1426951759474
+    },
+    {
+      "type": "edit",
+      "id": "fd75d786a8d31f38",
+      "item": {
+        "type": "html",
+        "id": "fd75d786a8d31f38",
+        "text": "Mid-February to end-March - Work on final report\n<ul><li>The majority of the writing for the final report will be done in this time period. All major chapters should be finished by the end of March."
+      },
+      "date": 1426951761474
     }
   ]
 }

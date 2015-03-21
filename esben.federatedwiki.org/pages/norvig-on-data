@@ -1,0 +1,376 @@
+{
+  "title": "Norvig on Data",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c9089db075808da0",
+      "text": "Peter Norvig, et al. \"The Unreasonable Effectiveness of Data\" in IEEE Intelligent Systems (2011) [http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35179.pdf pdf]"
+    },
+    {
+      "type": "pagefold",
+      "id": "47178c7a724216f5",
+      "text": "quotes"
+    },
+    {
+      "type": "paragraph",
+      "id": "b4894707516ad1b4",
+      "text": "For many\ntasks, words and word combinations\nprovide all the representational machinery\nwe need to learn from text.\nHuman language has evolved over\nmillennia to have words for the important\nconcepts; let’s use them. Abstract\nrepresentations (such as clusters\nfrom latent analysis) that lack linguistic\ncounterparts are hard to learn or\nvalidate and tend to lose information. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a2883ae25971959f",
+      "text": "In reality, three orthogonal problems\narise: choosing a representation language,\nencoding a model in that language,\nand performing inference on the model. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3fbd7b6e203c6141",
+      "text": " Semantic interpretation\ndeals with imprecise, ambiguous\nnatural languages, whereas service\ninteroperability deals with making\ndata precise enough that the programs\noperating on the data will function effectively.\nThe fact that\nthe word “semantic” appears in both\n“Semantic Web” and “semantic interpretation”\nmeans that the two problems\nhave often been conflated, causing\nneedless and endless consternation\nand confusion."
+    },
+    {
+      "type": "paragraph",
+      "id": "ad319aa505e37228",
+      "text": "We\nknow how to build sound inference\nmechanisms that take true premises\nand infer true conclusions. But we\ndon’t have an established methodology\nto deal with mistaken premises\nor with actors who lie, cheat, or otherwise\ndeceive. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c288f9741d2f117b",
+      "text": "Using\na Semantic Web formalism just means\nthat semantic interpretation must be\ndone on shorter strings that fall between\nangle brackets."
+    },
+    {
+      "type": "paragraph",
+      "id": "d837ff283a44770e",
+      "text": "So, follow the data. Choose a representation\nthat can use unsupervised\nlearning on unlabeled data, which is\nso much more plentiful than labeled\ndata. Represent all the data with a nonparametric model rather than trying\nto summarize it with a parametric\nmodel, because with very large data\nsources, the data holds a lot of detail.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "d1cdee0e93553fca",
+      "text": "For natural language applications,\ntrust that human language has already\nevolved words for the important concepts.\nSee how far you can go by tying\ntogether the words that are already\nthere, rather than by inventing new\nconcepts with clusters of words. Now\ngo out and gather some data, and see\nwhat it can do."
+    },
+    {
+      "type": "pagefold",
+      "id": "ee7169aacfda7f5b",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "eb3c74a559c667d2",
+      "text": "The authors skewer the notion of ontologies offering any useful meaning for any but the most important domains and then only when the primary players in that domain choose to cooperate."
+    },
+    {
+      "type": "paragraph",
+      "id": "6180afbaf072981c",
+      "text": "Federated wiki suggests a middle ground between ontology and statistics: co-evolution of datasets and the mechanisms that employ them. Google has made much of rampant but isolated digital publications. But what more could happen if that isolation is removed?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Norvig on Data",
+        "story": []
+      },
+      "date": 1426947834044
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9089db075808da0"
+      },
+      "id": "c9089db075808da0",
+      "type": "add",
+      "date": 1426947838317
+    },
+    {
+      "type": "edit",
+      "id": "c9089db075808da0",
+      "item": {
+        "type": "paragraph",
+        "id": "c9089db075808da0",
+        "text": "Peter Norvig, et al. \"The Unreasonable Effectiveness of Data\" (2011) [http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35179.pdf pdf]"
+      },
+      "date": 1426947848212
+    },
+    {
+      "type": "edit",
+      "id": "c9089db075808da0",
+      "item": {
+        "type": "paragraph",
+        "id": "c9089db075808da0",
+        "text": "Peter Norvig, et al. \"The Unreasonable Effectiveness of Data\" in IEEE Intelligent Systems (2011) [http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35179.pdf pdf]"
+      },
+      "date": 1426947940141
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47178c7a724216f5"
+      },
+      "id": "47178c7a724216f5",
+      "type": "add",
+      "after": "c9089db075808da0",
+      "date": 1426947949065
+    },
+    {
+      "type": "edit",
+      "id": "47178c7a724216f5",
+      "item": {
+        "type": "pagefold",
+        "id": "47178c7a724216f5",
+        "text": "quotes"
+      },
+      "date": 1426947955004
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4894707516ad1b4"
+      },
+      "id": "b4894707516ad1b4",
+      "type": "add",
+      "after": "47178c7a724216f5",
+      "date": 1426947956919
+    },
+    {
+      "type": "edit",
+      "id": "b4894707516ad1b4",
+      "item": {
+        "type": "paragraph",
+        "id": "b4894707516ad1b4",
+        "text": "For many\ntasks, words and word combinations\nprovide all the representational machinery\nwe need to learn from text.\n"
+      },
+      "date": 1426947969933
+    },
+    {
+      "type": "add",
+      "id": "b00b70a479b87eb3",
+      "item": {
+        "type": "paragraph",
+        "id": "b00b70a479b87eb3",
+        "text": "Human language has evolved over\nmillennia to have words for the important\nconcepts; let’s use them."
+      },
+      "after": "b4894707516ad1b4",
+      "date": 1426947988365
+    },
+    {
+      "type": "add",
+      "id": "84816589f21ddc0e",
+      "item": {
+        "type": "paragraph",
+        "id": "84816589f21ddc0e",
+        "text": "Abstract\nrepresentations (such as clusters\nfrom latent analysis) that lack linguistic\ncounterparts are hard to learn or\nvalidate and tend to lose information. "
+      },
+      "after": "b00b70a479b87eb3",
+      "date": 1426947990443
+    },
+    {
+      "type": "remove",
+      "id": "b00b70a479b87eb3",
+      "date": 1426948007658
+    },
+    {
+      "type": "edit",
+      "id": "b4894707516ad1b4",
+      "item": {
+        "type": "paragraph",
+        "id": "b4894707516ad1b4",
+        "text": "For many\ntasks, words and word combinations\nprovide all the representational machinery\nwe need to learn from text.\nHuman language has evolved over\nmillennia to have words for the important\nconcepts; let’s use them."
+      },
+      "date": 1426948012936
+    },
+    {
+      "type": "remove",
+      "id": "84816589f21ddc0e",
+      "date": 1426948016510
+    },
+    {
+      "type": "edit",
+      "id": "b4894707516ad1b4",
+      "item": {
+        "type": "paragraph",
+        "id": "b4894707516ad1b4",
+        "text": "For many\ntasks, words and word combinations\nprovide all the representational machinery\nwe need to learn from text.\nHuman language has evolved over\nmillennia to have words for the important\nconcepts; let’s use them.Abstract\nrepresentations (such as clusters\nfrom latent analysis) that lack linguistic\ncounterparts are hard to learn or\nvalidate and tend to lose information. "
+      },
+      "date": 1426948017367
+    },
+    {
+      "type": "edit",
+      "id": "b4894707516ad1b4",
+      "item": {
+        "type": "paragraph",
+        "id": "b4894707516ad1b4",
+        "text": "For many\ntasks, words and word combinations\nprovide all the representational machinery\nwe need to learn from text.\nHuman language has evolved over\nmillennia to have words for the important\nconcepts; let’s use them. Abstract\nrepresentations (such as clusters\nfrom latent analysis) that lack linguistic\ncounterparts are hard to learn or\nvalidate and tend to lose information. "
+      },
+      "date": 1426948023746
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3fbd7b6e203c6141"
+      },
+      "id": "3fbd7b6e203c6141",
+      "type": "add",
+      "after": "b4894707516ad1b4",
+      "date": 1426948343244
+    },
+    {
+      "type": "edit",
+      "id": "3fbd7b6e203c6141",
+      "item": {
+        "type": "paragraph",
+        "id": "3fbd7b6e203c6141",
+        "text": " Semantic interpretation\ndeals with imprecise, ambiguous\nnatural languages, whereas service\ninteroperability deals with making\ndata precise enough that the programs\noperating on the data will function effectively.\nUnfortunately, the fact that\nthe word “semantic” appears in both\n“Semantic Web” and “semantic interpretation”\nmeans that the two problems\nhave often been conflated, causing\nneedless and endless consternation\nand confusion."
+      },
+      "date": 1426948354671
+    },
+    {
+      "type": "edit",
+      "id": "3fbd7b6e203c6141",
+      "item": {
+        "type": "paragraph",
+        "id": "3fbd7b6e203c6141",
+        "text": " Semantic interpretation\ndeals with imprecise, ambiguous\nnatural languages, whereas service\ninteroperability deals with making\ndata precise enough that the programs\noperating on the data will function effectively.\nThe fact that\nthe word “semantic” appears in both\n“Semantic Web” and “semantic interpretation”\nmeans that the two problems\nhave often been conflated, causing\nneedless and endless consternation\nand confusion."
+      },
+      "date": 1426948401193
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad319aa505e37228"
+      },
+      "id": "ad319aa505e37228",
+      "type": "add",
+      "after": "3fbd7b6e203c6141",
+      "date": 1426948670391
+    },
+    {
+      "type": "edit",
+      "id": "ad319aa505e37228",
+      "item": {
+        "type": "paragraph",
+        "id": "ad319aa505e37228",
+        "text": "We\nBecause of a huge\nshared cognitive and\ncultural context, linguistic\nexpression can be highly\nambiguous and still often\nbe understood correctly.\nAuthorized licensed use limited to: Univ of Calif Berkeley. Downloaded on February 5, 2010 at 22:51 from IEEE Xplore. Restrictions apply. \nMarch/April 2009 www.computer.org/intelligent 11\nknow how to build sound inference\nmechanisms that take true premises\nand infer true conclusions. But we\ndon’t have an established methodology\nto deal with mistaken premises\nor with actors who lie, cheat, or otherwise\ndeceive. "
+      },
+      "date": 1426948726411
+    },
+    {
+      "type": "edit",
+      "id": "ad319aa505e37228",
+      "item": {
+        "type": "paragraph",
+        "id": "ad319aa505e37228",
+        "text": "We\nknow how to build sound inference\nmechanisms that take true premises\nand infer true conclusions. But we\ndon’t have an established methodology\nto deal with mistaken premises\nor with actors who lie, cheat, or otherwise\ndeceive. "
+      },
+      "date": 1426948763341
+    },
+    {
+      "type": "add",
+      "id": "c288f9741d2f117b",
+      "item": {
+        "type": "paragraph",
+        "id": "c288f9741d2f117b",
+        "text": "Using\na Semantic Web formalism just means\nthat semantic interpretation must be\ndone on shorter strings that fall between\nangle brackets."
+      },
+      "after": "ad319aa505e37228",
+      "date": 1426948946645
+    },
+    {
+      "type": "add",
+      "id": "a2883ae25971959f",
+      "item": {
+        "type": "paragraph",
+        "id": "a2883ae25971959f",
+        "text": "In reality, three orthogonal problems\narise: choosing a representation language,\nencoding a model in that language,\nand performing inference on the model. "
+      },
+      "after": "b4894707516ad1b4",
+      "date": 1426949447321
+    },
+    {
+      "type": "add",
+      "id": "d837ff283a44770e",
+      "item": {
+        "type": "paragraph",
+        "id": "d837ff283a44770e",
+        "text": "So, follow the data. Choose a representation\nthat can use unsupervised\nlearning on unlabeled data, which is\nso much more plentiful than labeled\ndata. Represent all the data with a"
+      },
+      "after": "c288f9741d2f117b",
+      "date": 1426949498936
+    },
+    {
+      "type": "edit",
+      "id": "d837ff283a44770e",
+      "item": {
+        "type": "paragraph",
+        "id": "d837ff283a44770e",
+        "text": "So, follow the data. Choose a representation\nthat can use unsupervised\nlearning on unlabeled data, which is\nso much more plentiful than labeled\ndata. Represent all the data with a nonparametric model rather than trying\nto summarize it with a parametric\nmodel, because with very large data\nsources, the data holds a lot of detail.\n"
+      },
+      "date": 1426949532069
+    },
+    {
+      "type": "add",
+      "id": "d1cdee0e93553fca",
+      "item": {
+        "type": "paragraph",
+        "id": "d1cdee0e93553fca",
+        "text": "For natural language applications,\ntrust that human language has already\nevolved words for the important concepts.\nSee how far you can go by tying\ntogether the words that are already\nthere, rather than by inventing new\nconcepts with clusters of words. Now\ngo out and gather some data, and see\nwhat it can do."
+      },
+      "after": "d837ff283a44770e",
+      "date": 1426949534262
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee7169aacfda7f5b"
+      },
+      "id": "ee7169aacfda7f5b",
+      "type": "add",
+      "after": "d1cdee0e93553fca",
+      "date": 1426949587568
+    },
+    {
+      "type": "edit",
+      "id": "ee7169aacfda7f5b",
+      "item": {
+        "type": "pagefold",
+        "id": "ee7169aacfda7f5b",
+        "text": "."
+      },
+      "date": 1426949591921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb3c74a559c667d2"
+      },
+      "id": "eb3c74a559c667d2",
+      "type": "add",
+      "after": "ee7169aacfda7f5b",
+      "date": 1426949819961
+    },
+    {
+      "type": "edit",
+      "id": "eb3c74a559c667d2",
+      "item": {
+        "type": "paragraph",
+        "id": "eb3c74a559c667d2",
+        "text": "The authors skewer the notion of ontologies offering any useful meaning for any but the most important domains and then only when the primary players in that domain choose to cooperate."
+      },
+      "date": 1426949994196
+    },
+    {
+      "type": "add",
+      "id": "6180afbaf072981c",
+      "item": {
+        "type": "paragraph",
+        "id": "6180afbaf072981c",
+        "text": "Federated wiki suggests a middle ground between ontology and statistics: co-evolution of datasets and the mechanisms that employ them. Google has made much of rampant but isolated digital publications. But what more could happen if that isolation is removed?"
+      },
+      "after": "eb3c74a559c667d2",
+      "date": 1426950198042
+    },
+    {
+      "type": "fork",
+      "site": "h2.ward.asia.wiki.org",
+      "date": 1426951202148
+    }
+  ]
+}

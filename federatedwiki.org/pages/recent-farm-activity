@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "55afba21e4c1def4"
+      "id": "c31ed85da652906c"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "6a39498b6b580d9d"
+      "id": "946843286ad5257f"
     },
     {
-      "date": 1426936801000,
+      "date": 1426937591000,
+      "site": "esben.federatedwiki.org",
+      "slug": "3500000-articles",
+      "title": "3,500,000 Articles",
+      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 16 pages.",
+      "type": "reference",
+      "id": "3ab8ccf24abc712f"
+    },
+    {
+      "date": 1426937401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "9d4c466a84f30923"
-    },
-    {
-      "date": 1426875984000,
-      "site": "esben.federatedwiki.org",
-      "slug": "exploring-the-federated-wiki",
-      "title": "Exploring the federated wiki",
-      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 15 pages.",
-      "type": "reference",
-      "id": "10fa06e89ca438a9"
+      "id": "263ede54fbcf7afd"
     },
     {
       "date": 1426121892000,
@@ -36,69 +36,69 @@
       "title": "12 Mar 2015 - Fixing activity completion",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
       "type": "reference",
-      "id": "dc9d7a3cab871df0"
+      "id": "7b1dd4fbeadff2e2"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "27b56052cf76b7af",
+      "id": "3d702f8efda5f7f7",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1426937401000
+      "date": 1426938001000
     },
     {
       "type": "add",
-      "id": "55afba21e4c1def4",
+      "id": "c31ed85da652906c",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "55afba21e4c1def4"
+        "id": "c31ed85da652906c"
       },
-      "date": 1426937401000
+      "date": 1426938001000
     },
     {
       "type": "add",
-      "id": "6a39498b6b580d9d",
+      "id": "946843286ad5257f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "6a39498b6b580d9d"
+        "id": "946843286ad5257f"
       },
-      "date": 1426937401000
+      "date": 1426938001000
     },
     {
       "type": "add",
-      "id": "9d4c466a84f30923",
+      "id": "3ab8ccf24abc712f",
       "item": {
-        "date": 1426936801000,
+        "date": 1426937591000,
+        "site": "esben.federatedwiki.org",
+        "slug": "3500000-articles",
+        "title": "3,500,000 Articles",
+        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 16 pages.",
+        "type": "reference",
+        "id": "3ab8ccf24abc712f"
+      },
+      "date": 1426938001000
+    },
+    {
+      "type": "add",
+      "id": "263ede54fbcf7afd",
+      "item": {
+        "date": 1426937401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "9d4c466a84f30923"
+        "id": "263ede54fbcf7afd"
       },
-      "date": 1426937401000
+      "date": 1426938001000
     },
     {
       "type": "add",
-      "id": "10fa06e89ca438a9",
-      "item": {
-        "date": 1426875984000,
-        "site": "esben.federatedwiki.org",
-        "slug": "exploring-the-federated-wiki",
-        "title": "Exploring the federated wiki",
-        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 15 pages.",
-        "type": "reference",
-        "id": "10fa06e89ca438a9"
-      },
-      "date": 1426937401000
-    },
-    {
-      "type": "add",
-      "id": "dc9d7a3cab871df0",
+      "id": "7b1dd4fbeadff2e2",
       "item": {
         "date": 1426121892000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "12 Mar 2015 - Fixing activity completion",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
         "type": "reference",
-        "id": "dc9d7a3cab871df0"
+        "id": "7b1dd4fbeadff2e2"
       },
-      "date": 1426937401000
+      "date": 1426938001000
     }
   ]
 }

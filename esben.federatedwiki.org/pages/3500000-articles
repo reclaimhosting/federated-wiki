@@ -1,0 +1,804 @@
+{
+  "title": "3,500,000 Articles",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6211ea5617c7f3ea",
+      "text": "We retrieved the English Wikipedia current-articles-only xml dump sometime in 2011. We extract title and text elements for each article. We'll develop a variety of useful parsers while we understand there is no reliable spec for markup. [http://www.mediawiki.org/wiki/Markup_spec wikipedia]"
+    },
+    {
+      "type": "code",
+      "id": "fa5e099118a821a7",
+      "text": "dump-xml = page-tag | .\npage-tag =\n  '<page>'\n  << (  specific-tag | !'</page>' . )* >>\n  '</page>'\n\nspecific-tag = title-tag | text-tag\ntitle-tag =\n  '<title>'\n  << ( !'<' . )+ >>\n  '</title>'\n\ntext-tag =\n  '<text xml:space=\\\"preserve\\\">'\n  << wikitext >>\n  '</text>'"
+    },
+    {
+      "type": "parse",
+      "id": "7715f521b76d9a9b",
+      "text": "grammar: 35 productions\ndataset: 13.56 Gb\n"
+    },
+    {
+      "type": "parse",
+      "id": "13453bbbc4ac27cd",
+      "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+      "state": "stopped",
+      "parsed": 0,
+      "server": "closed"
+    },
+    {
+      "type": "parse",
+      "id": "45f026f9d50ce6c2",
+      "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+      "state": "stopped",
+      "parsed": 0,
+      "server": "closed"
+    },
+    {
+      "type": "parse",
+      "id": "b0e7af952868abbc",
+      "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+      "state": "stopped",
+      "parsed": 0,
+      "server": "closed"
+    },
+    {
+      "type": "parse",
+      "id": "14e7ee2439f67a70",
+      "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+      "state": "stopped",
+      "parsed": 0,
+      "server": "closed"
+    },
+    {
+      "type": "html",
+      "id": "1817f61e9a21bc62",
+      "text": "<h3> Strategy"
+    },
+    {
+      "type": "paragraph",
+      "id": "81c9fac891eef490",
+      "text": "See [[30,000 Web Pages]] for a mockup of how this might work. For this dataset we're actually going manage the remote job from this wiki page."
+    },
+    {
+      "type": "paragraph",
+      "id": "85264cc930f70995",
+      "text": "Create a Parse plugin that initiates a remote job based on dataset information in the text field and Code plugins it finds looking left."
+    },
+    {
+      "type": "paragraph",
+      "id": "1e781a287d6e3c04",
+      "text": "With each initiation add a Parse plugin copy to the current page. Store sufficient run information so that a WebSocket connection can be reestablished to capture live status of the run."
+    },
+    {
+      "type": "paragraph",
+      "id": "38715b5e6a294ff5",
+      "text": "The Parse plugin shows progress and offers to open svg parse charts as ghost pages that track progress and offer sample matches for each arc. These show up as an additional ghost page filled with Record objects that can outlive a parse."
+    },
+    {
+      "type": "paragraph",
+      "id": "bc4aa890b53d7b46",
+      "text": "Aside: We're exploring this interaction by creating a mock Parse plugin that just pretends to be launching jobs on the remote server. So far it feels a lot like any desktop except this one has history. [https://github.com/WardCunningham/Smallest-Federated-Wiki/blob/master/client/plugins/parse/parse.coffee github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "3,500,000 Articles"
+      },
+      "date": 1353284269385
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6211ea5617c7f3ea"
+      },
+      "id": "6211ea5617c7f3ea",
+      "type": "add",
+      "date": 1353284271629
+    },
+    {
+      "type": "edit",
+      "id": "6211ea5617c7f3ea",
+      "item": {
+        "type": "paragraph",
+        "id": "6211ea5617c7f3ea",
+        "text": "This is the English Wikipedia current articles only XML dump sometime sometime in 2011. Here we're experimenting using Federated Wiki plugins to replace the [[Exploratory Parsing]] web application."
+      },
+      "date": 1353284621657
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "81c9fac891eef490",
+        "text": ""
+      },
+      "id": "81c9fac891eef490",
+      "type": "add",
+      "after": "6211ea5617c7f3ea",
+      "date": 1353284622163
+    },
+    {
+      "type": "edit",
+      "id": "81c9fac891eef490",
+      "item": {
+        "type": "paragraph",
+        "id": "81c9fac891eef490",
+        "text": "See [[30,000 Web Pages]] for a mockup of how this might work. "
+      },
+      "date": 1353284653330
+    },
+    {
+      "type": "edit",
+      "id": "81c9fac891eef490",
+      "item": {
+        "type": "paragraph",
+        "id": "81c9fac891eef490",
+        "text": "See [[30,000 Web Pages]] for a mockup of how this might work. For this dataset we're actually going manage the parses."
+      },
+      "date": 1353284687330
+    },
+    {
+      "type": "edit",
+      "id": "81c9fac891eef490",
+      "item": {
+        "type": "paragraph",
+        "id": "81c9fac891eef490",
+        "text": "See [[30,000 Web Pages]] for a mockup of how this might work. For this dataset we're actually going manage the remote job from this wiki page."
+      },
+      "date": 1353284782745
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1817f61e9a21bc62",
+        "text": ""
+      },
+      "id": "1817f61e9a21bc62",
+      "type": "add",
+      "after": "81c9fac891eef490",
+      "date": 1353294336315
+    },
+    {
+      "type": "edit",
+      "id": "1817f61e9a21bc62",
+      "item": {
+        "type": "paragraph",
+        "id": "1817f61e9a21bc62",
+        "text": "<h3> Strategy"
+      },
+      "date": 1353294347081
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "85264cc930f70995",
+        "text": ""
+      },
+      "id": "85264cc930f70995",
+      "type": "add",
+      "after": "1817f61e9a21bc62",
+      "date": 1353294347587
+    },
+    {
+      "type": "edit",
+      "id": "85264cc930f70995",
+      "item": {
+        "type": "paragraph",
+        "id": "85264cc930f70995",
+        "text": "Create a plugin that initiates a remote job based on dataset information in the text field and Code plugins it finds looking left."
+      },
+      "date": 1353294612943
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1e781a287d6e3c04",
+        "text": ""
+      },
+      "id": "1e781a287d6e3c04",
+      "type": "add",
+      "after": "85264cc930f70995",
+      "date": 1353294613450
+    },
+    {
+      "type": "edit",
+      "id": "1e781a287d6e3c04",
+      "item": {
+        "type": "paragraph",
+        "id": "1e781a287d6e3c04",
+        "text": "With each initiation add a Run plugin to the current page. Store sufficient run information so that a WebSocket connection can be reestablished to capture live status of the run."
+      },
+      "date": 1353294812208
+    },
+    {
+      "type": "edit",
+      "id": "85264cc930f70995",
+      "item": {
+        "type": "paragraph",
+        "id": "85264cc930f70995",
+        "text": "Create a Start plugin that initiates a remote job based on dataset information in the text field and Code plugins it finds looking left."
+      },
+      "date": 1353294824287
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c224e07d5f398e27",
+        "text": ""
+      },
+      "id": "c224e07d5f398e27",
+      "type": "add",
+      "after": "1e781a287d6e3c04",
+      "date": 1353294843392
+    },
+    {
+      "type": "remove",
+      "id": "c224e07d5f398e27",
+      "date": 1353295816877
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "38715b5e6a294ff5",
+        "text": ""
+      },
+      "id": "38715b5e6a294ff5",
+      "type": "add",
+      "after": "1e781a287d6e3c04",
+      "date": 1353297538003
+    },
+    {
+      "type": "edit",
+      "id": "38715b5e6a294ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "38715b5e6a294ff5",
+        "text": "The Run plugin shows progress and offers to open svg parse charts as ghost pages that track progress and offer sample matches for each arc. These show up as an additional ghost page filled with Record objects that can outlive a parse."
+      },
+      "date": 1353297878531
+    },
+    {
+      "type": "edit",
+      "id": "6211ea5617c7f3ea",
+      "item": {
+        "type": "paragraph",
+        "id": "6211ea5617c7f3ea",
+        "text": "This is the English Wikipedia current articles only XML dump sometime sometime in 2011. Here we're experimenting using Federated Wiki plugins to replace the original [[Exploratory Parsing]] web application."
+      },
+      "date": 1353298158567
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94c0983522f3c6f0"
+      },
+      "id": "94c0983522f3c6f0",
+      "type": "add",
+      "after": "38715b5e6a294ff5",
+      "date": 1353298300395
+    },
+    {
+      "type": "remove",
+      "id": "94c0983522f3c6f0",
+      "date": 1353298311513
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60a1774e4fec3afc"
+      },
+      "id": "60a1774e4fec3afc",
+      "type": "add",
+      "after": "38715b5e6a294ff5",
+      "date": 1353298358226
+    },
+    {
+      "type": "edit",
+      "id": "60a1774e4fec3afc",
+      "item": {
+        "type": "paragraph",
+        "id": "60a1774e4fec3afc",
+        "text": "SERVER home.c2.com:8080"
+      },
+      "date": 1353298392280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6daaf944baab2c52"
+      },
+      "id": "6daaf944baab2c52",
+      "type": "add",
+      "after": "60a1774e4fec3afc",
+      "date": 1353298403116
+    },
+    {
+      "type": "remove",
+      "id": "6daaf944baab2c52",
+      "date": 1353298411006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f51349dfeb75920"
+      },
+      "id": "8f51349dfeb75920",
+      "type": "add",
+      "after": "60a1774e4fec3afc",
+      "date": 1353298413604
+    },
+    {
+      "type": "edit",
+      "id": "8f51349dfeb75920",
+      "item": {
+        "type": "method",
+        "id": "8f51349dfeb75920",
+        "text": "SERVER home.c2.com:8080"
+      },
+      "date": 1353298427727
+    },
+    {
+      "type": "remove",
+      "id": "8f51349dfeb75920",
+      "date": 1353298443877
+    },
+    {
+      "type": "remove",
+      "id": "60a1774e4fec3afc",
+      "date": 1353298473925
+    },
+    {
+      "type": "edit",
+      "id": "85264cc930f70995",
+      "item": {
+        "type": "paragraph",
+        "id": "85264cc930f70995",
+        "text": "Create a Parse(start) plugin that initiates a remote job based on dataset information in the text field and Code plugins it finds looking left."
+      },
+      "date": 1353298517074
+    },
+    {
+      "type": "edit",
+      "id": "85264cc930f70995",
+      "item": {
+        "type": "paragraph",
+        "id": "85264cc930f70995",
+        "text": "Create a Parse plugin that initiates a remote job based on dataset information in the text field and Code plugins it finds looking left."
+      },
+      "date": 1353298529965
+    },
+    {
+      "type": "edit",
+      "id": "1e781a287d6e3c04",
+      "item": {
+        "type": "paragraph",
+        "id": "1e781a287d6e3c04",
+        "text": "With each initiation add a Parse plugin copy to the current page. Store sufficient run information so that a WebSocket connection can be reestablished to capture live status of the run."
+      },
+      "date": 1353298562162
+    },
+    {
+      "type": "edit",
+      "id": "38715b5e6a294ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "38715b5e6a294ff5",
+        "text": "The Parse plugin shows progress and offers to open svg parse charts as ghost pages that track progress and offer sample matches for each arc. These show up as an additional ghost page filled with Record objects that can outlive a parse."
+      },
+      "date": 1353298577976
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "code",
+        "id": "fa5e099118a821a7",
+        "text": "dump-xml = page-tag | .\npage-tag =\n  '<page>'\n  << (  specific-tag | !'</page>' . )* >>\n  '</page>'\n\nspecific-tag = title-tag | text-tag\ntitle-tag =\n  '<title>'\n  << ( !'<' . )+ >>\n  '</title>'\n\ntext-tag =\n  '<text xml:space=\\\"preserve\\\">'\n  << wikitext >>\n  '</text>'"
+      },
+      "after": "6211ea5617c7f3ea",
+      "id": "fa5e099118a821a7",
+      "date": 1353375348159
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "parse",
+        "id": "7715f521b76d9a9b",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n"
+      },
+      "after": "fa5e099118a821a7",
+      "id": "7715f521b76d9a9b",
+      "date": 1353375359992
+    },
+    {
+      "type": "edit",
+      "id": "6211ea5617c7f3ea",
+      "item": {
+        "type": "paragraph",
+        "id": "6211ea5617c7f3ea",
+        "text": "We retrieved the English Wikipedia current-articles-only xml dump sometime in 2011. We extract title and text elements for each article."
+      },
+      "date": 1353375382557
+    },
+    {
+      "type": "move",
+      "order": [
+        "6211ea5617c7f3ea",
+        "fa5e099118a821a7",
+        "7715f521b76d9a9b",
+        "1817f61e9a21bc62",
+        "81c9fac891eef490",
+        "85264cc930f70995",
+        "1e781a287d6e3c04",
+        "38715b5e6a294ff5"
+      ],
+      "id": "81c9fac891eef490",
+      "date": 1353375390036
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "34189adfb3fd7fab",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 1875233
+      },
+      "id": "34189adfb3fd7fab",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353375595024
+    },
+    {
+      "type": "remove",
+      "id": "34189adfb3fd7fab",
+      "date": 1353375605062
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "976f26ae1eb94f8d",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 5412503
+      },
+      "id": "976f26ae1eb94f8d",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353377252558
+    },
+    {
+      "type": "remove",
+      "id": "976f26ae1eb94f8d",
+      "date": 1353439656349
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "730c07bf8aa64f59",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 4606977
+      },
+      "id": "730c07bf8aa64f59",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353439669061
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "5463b3c5b1998a53",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 6426566
+      },
+      "id": "5463b3c5b1998a53",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353439727027
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "398d228cfc549d39",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 4125281
+      },
+      "id": "398d228cfc549d39",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353439728929
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "2b74e7d819690194",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 3787852
+      },
+      "id": "2b74e7d819690194",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353439731836
+    },
+    {
+      "type": "remove",
+      "id": "398d228cfc549d39",
+      "date": 1353439745211
+    },
+    {
+      "type": "remove",
+      "id": "5463b3c5b1998a53",
+      "date": 1353439750112
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "b438c25d49fee989",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 5653778
+      },
+      "id": "b438c25d49fee989",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1353440261037
+    },
+    {
+      "type": "remove",
+      "id": "730c07bf8aa64f59",
+      "date": 1353441224907
+    },
+    {
+      "type": "remove",
+      "id": "2b74e7d819690194",
+      "date": 1353441227071
+    },
+    {
+      "type": "remove",
+      "id": "b438c25d49fee989",
+      "date": 1353441228656
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bc4aa890b53d7b46",
+        "text": ""
+      },
+      "id": "bc4aa890b53d7b46",
+      "type": "add",
+      "after": "38715b5e6a294ff5",
+      "date": 1353441275313
+    },
+    {
+      "type": "edit",
+      "id": "bc4aa890b53d7b46",
+      "item": {
+        "type": "paragraph",
+        "id": "bc4aa890b53d7b46",
+        "text": "Aside: We're exploring this interaction by creating a mock Parse plugin that just pretends to be launching jobs on the remote server. [https://github.com/WardCunningham/Smallest-Federated-Wiki/blob/master/client/plugins/parse/parse.coffee github]"
+      },
+      "date": 1353441385395
+    },
+    {
+      "type": "edit",
+      "id": "bc4aa890b53d7b46",
+      "item": {
+        "type": "paragraph",
+        "id": "bc4aa890b53d7b46",
+        "text": "Aside: We're exploring this interaction by creating a mock Parse plugin that just pretends to be launching jobs on the remote server. So far it feels a lot like any desktop except this one has history. [https://github.com/WardCunningham/Smallest-Federated-Wiki/blob/master/client/plugins/parse/parse.coffee github]"
+      },
+      "date": 1353441576535
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "432dd4217acb49cf",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 5721512
+      },
+      "id": "432dd4217acb49cf",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1356305025814
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "36b33ed1e0705cc5",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 6594683
+      },
+      "id": "36b33ed1e0705cc5",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1356305049242
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "618250d9feea5169",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 3323576
+      },
+      "id": "618250d9feea5169",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1356305050249
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "75fe558d42f4593f",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 3637537
+      },
+      "id": "75fe558d42f4593f",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1356305053287
+    },
+    {
+      "type": "remove",
+      "id": "75fe558d42f4593f",
+      "date": 1356305090428
+    },
+    {
+      "type": "move",
+      "order": [
+        "6211ea5617c7f3ea",
+        "fa5e099118a821a7",
+        "7715f521b76d9a9b",
+        "",
+        "",
+        "",
+        "1817f61e9a21bc62",
+        "81c9fac891eef490",
+        "85264cc930f70995",
+        "1e781a287d6e3c04",
+        "38715b5e6a294ff5",
+        "bc4aa890b53d7b46"
+      ],
+      "id": "36b33ed1e0705cc5",
+      "date": 1356305167379
+    },
+    {
+      "type": "remove",
+      "id": "7715f521b76d9a9b",
+      "date": 1356305188827
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "parse",
+        "id": "7715f521b76d9a9b",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n"
+      },
+      "after": "fa5e099118a821a7",
+      "id": "7715f521b76d9a9b",
+      "date": 1356305199875
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "8c467ff40d9937ee",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "running",
+        "parsed": 6475086
+      },
+      "id": "8c467ff40d9937ee",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1356305375190
+    },
+    {
+      "type": "remove",
+      "id": "8c467ff40d9937ee",
+      "date": 1358098045364
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "14e7ee2439f67a70",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "stopped",
+        "parsed": 0,
+        "server": "closed"
+      },
+      "id": "14e7ee2439f67a70",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1360285403998
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "c47a7b656ef634d9",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "stopped",
+        "parsed": 0,
+        "server": "closed"
+      },
+      "id": "c47a7b656ef634d9",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1360285424132
+    },
+    {
+      "type": "edit",
+      "id": "6211ea5617c7f3ea",
+      "item": {
+        "type": "paragraph",
+        "id": "6211ea5617c7f3ea",
+        "text": "We retrieved the English Wikipedia current-articles-only xml dump sometime in 2011. We extract title and text elements for each article. We'll develop a variety of useful parsers while we understand there is no reliable spec for markup. [http://www.mediawiki.org/wiki/Markup_spec wikipedia]"
+      },
+      "date": 1360522610450
+    },
+    {
+      "type": "edit",
+      "id": "1817f61e9a21bc62",
+      "item": {
+        "type": "html",
+        "id": "1817f61e9a21bc62",
+        "text": "<h3> Strategy"
+      },
+      "date": 1422315934181
+    },
+    {
+      "type": "fork",
+      "site": "lab.fed.wiki.org"
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "b0e7af952868abbc",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "stopped",
+        "parsed": 0,
+        "server": "closed"
+      },
+      "id": "b0e7af952868abbc",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1426937521869
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "45f026f9d50ce6c2",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "stopped",
+        "parsed": 0,
+        "server": "closed"
+      },
+      "id": "45f026f9d50ce6c2",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1426937530262
+    },
+    {
+      "type": "remove",
+      "id": "c47a7b656ef634d9",
+      "date": 1426937532475
+    },
+    {
+      "item": {
+        "type": "parse",
+        "id": "13453bbbc4ac27cd",
+        "text": "grammar: 35 productions\ndataset: 13.56 Gb\n",
+        "state": "stopped",
+        "parsed": 0,
+        "server": "closed"
+      },
+      "id": "13453bbbc4ac27cd",
+      "type": "add",
+      "after": "7715f521b76d9a9b",
+      "date": 1426937535446
+    }
+  ]
+}

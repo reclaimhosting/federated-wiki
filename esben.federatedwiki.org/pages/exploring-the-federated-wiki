@@ -42,6 +42,13 @@
       "text": "On merging: [[Question: How can I merge changes from forks?]]"
     },
     {
+      "type": "reference",
+      "id": "69f73601dbf37133",
+      "site": "video.fed.wiki.org",
+      "title": "Federated Wiki Videos",
+      "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+    },
+    {
       "type": "paragraph",
       "id": "7e7fa407b1e6174f",
       "text": ""
@@ -1132,6 +1139,102 @@
       "type": "remove",
       "id": "1d255ff17a7af972",
       "date": 1426953095863
+    },
+    {
+      "type": "fork",
+      "site": "esben.federatedwiki.org",
+      "date": 1426962894687
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69f73601dbf37133"
+      },
+      "id": "69f73601dbf37133",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "site": "esben.federatedwiki.org",
+      "date": 1426962894685
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb50cf6b6934bfb",
+        "773a37332adabb3c",
+        "35d0d02c918cd7ad",
+        "9134a829d4b8bb45",
+        "e170ea18fc390c4c",
+        "7815219d5d739bf4",
+        "8d265a178d6005f0",
+        "826ce79a5d409b8d",
+        "7e7fa407b1e6174f",
+        "a3204b261b82b43d",
+        "69f73601dbf37133",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1"
+      ],
+      "id": "69f73601dbf37133",
+      "date": 1426962904695
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb50cf6b6934bfb",
+        "773a37332adabb3c",
+        "35d0d02c918cd7ad",
+        "9134a829d4b8bb45",
+        "e170ea18fc390c4c",
+        "7815219d5d739bf4",
+        "8d265a178d6005f0",
+        "826ce79a5d409b8d",
+        "69f73601dbf37133",
+        "7e7fa407b1e6174f",
+        "a3204b261b82b43d",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1"
+      ],
+      "id": "69f73601dbf37133",
+      "date": 1426962907714
+    },
+    {
+      "type": "edit",
+      "id": "69f73601dbf37133",
+      "item": {
+        "type": "reference",
+        "id": "69f73601dbf37133",
+        "site": "video.fed.wiki.org",
+        "title": "Federated Wiki Videos",
+        "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+      },
+      "date": 1426962910517
+    },
+    {
+      "type": "fork",
+      "date": 1426962955960
     }
   ]
 }

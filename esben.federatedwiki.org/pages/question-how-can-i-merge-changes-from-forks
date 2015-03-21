@@ -1,0 +1,424 @@
+{
+  "title": "Question: How can I merge changes from forks?",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "07faac53018037af",
+      "text": "There are approximately a billion copies of [[Happening Folks]]. How can we integrate the changes into a shared version, assuming we want to? I don't even know which version I've linked to."
+    },
+    {
+      "type": "markdown",
+      "id": "779ffa2b7579d9c3",
+      "text": "Summary:\n- Forking someone's fork back to yours is dangerous\n- Drag-dropping paragraphs from a \"newer\" page.\n- Experimental journal merge: drag-drop journals (I will experiment!)"
+    },
+    {
+      "type": "pagefold",
+      "id": "35bb435358ced057",
+      "text": "Answers"
+    },
+    {
+      "type": "paragraph",
+      "id": "27895ac2d3a3f148",
+      "text": "Oh, I've discovered that drag-dropping from \"newer\" pages is a neat way of integrating into pages I started. It kind of destroys my fork of their fork, but I guess that's ok."
+    },
+    {
+      "type": "paragraph",
+      "id": "20ac91a2af9213fd",
+      "text": "I note that forking someone's forked response to my question destroys any changes in the original that had happened since the fork point. This was initially upsetting as to (programmer) me \"fork\" implies change tracking and a subsequent information-preserving merge/rebase."
+    },
+    {
+      "type": "paragraph",
+      "id": "e504ad0b0437ccc0",
+      "text": "[[Mike Caulfield]]: Hover over the red-to-green square that gives you a hover tag of directory.fedwikihappening.net. I've consolidated people in there. Fork that one to your server. "
+    },
+    {
+      "type": "paragraph",
+      "id": "83d13c6e02737850",
+      "text": ""
+    },
+    {
+      "type": "html",
+      "id": "96d643f62e80ac0e",
+      "text": "[[Jon Udell]]: I had done so. Now I did again to refresh your changes. Was unclear until just now that reforking is an overwrite.\nSee also [[Pull Request]]. Note also the transposition of your above two paragraphs in this fork of your fork of the original. Bug?"
+    },
+    {
+      "type": "markdown",
+      "id": "b32372dbdd3ea968",
+      "text": "[[Jon Udell]]: I'm getting the strong feeling that [[Some Things Should Be Co-Edited]]. In recent days I forked Happening Folks from directory.fedwikihappening.net, added a bio for myself, and then later noticed (or think I noticed) that Mike had consolidated it into his page. Which is authoritative only to the extent that someone saw Mike's comment and expected it to be. Today I can find my bio nowhere. Was data lost? Not in the sense that the system failed to record an edit, I suspect, but rather in the sense that it has receded into one or more page histories. Which (see [[Finding Things in FedWiki]]) I suspect are not searchable. "
+    },
+    {
+      "type": "paragraph",
+      "id": "04d359bf2a1704d0",
+      "text": "[[Mike Caulfield]]: I should note there is a \"journal merge\" action that is experimental. This allows you to drop one journal onto another and combine the edit histories, which are then run to produce a guess at what a merge might look like. It works much of the time for simpler histories, but occasionally acts odd. It's not publicized because it can make messes. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Question: How can I merge changes from forks?",
+        "story": []
+      },
+      "date": 1418941828834
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07faac53018037af"
+      },
+      "id": "07faac53018037af",
+      "type": "add",
+      "date": 1418941830552
+    },
+    {
+      "type": "edit",
+      "id": "07faac53018037af",
+      "item": {
+        "type": "paragraph",
+        "id": "07faac53018037af",
+        "text": "There are approximately a billion copies of [[Happening Folks]]. How can we integrate the changes into a shared version, assuming we want to? I don't even know which version I've linked to."
+      },
+      "date": 1418941871736
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27895ac2d3a3f148"
+      },
+      "id": "27895ac2d3a3f148",
+      "type": "add",
+      "after": "07faac53018037af",
+      "date": 1419054483641
+    },
+    {
+      "type": "edit",
+      "id": "27895ac2d3a3f148",
+      "item": {
+        "type": "paragraph",
+        "id": "27895ac2d3a3f148",
+        "text": "Oh, I've discovered that drag-dropping from \"newer\" pages is a neat way of integrating. It kind of destroys my fork of their fork, but I guess that's ok."
+      },
+      "date": 1419054526677
+    },
+    {
+      "type": "edit",
+      "id": "27895ac2d3a3f148",
+      "item": {
+        "type": "paragraph",
+        "id": "27895ac2d3a3f148",
+        "text": "Oh, I've discovered that drag-dropping from \"newer\" pages is a neat way of integrating into pages I started. It kind of destroys my fork of their fork, but I guess that's ok."
+      },
+      "date": 1419054557969
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35bb435358ced057"
+      },
+      "id": "35bb435358ced057",
+      "type": "add",
+      "after": "27895ac2d3a3f148",
+      "date": 1419054559715
+    },
+    {
+      "type": "edit",
+      "id": "35bb435358ced057",
+      "item": {
+        "type": "pagefold",
+        "id": "35bb435358ced057",
+        "text": "Answers"
+      },
+      "date": 1419054566248
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e504ad0b0437ccc0",
+        "text": "[[Mike Caulfield]]: Hover over the red-to-green square that gives you a hover tag of directory.fedwikihappening.net. I've consolidated people in there. Fork that one to your server. "
+      },
+      "after": "35bb435358ced057",
+      "id": "e504ad0b0437ccc0",
+      "date": 1419054571790
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "83d13c6e02737850",
+        "text": "These lists of people are kind of a hack for bootstrapping a neighborhood. We thought we'd initial run this with 10-15 people, I said yes to too many people who asked, and now it's out of hand. "
+      },
+      "after": "e504ad0b0437ccc0",
+      "id": "83d13c6e02737850",
+      "date": 1419054575734
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "83d13c6e02737850",
+        "text": "These lists of people are kind of a hack for bootstrapping a neighborhood. We thought we'd initial run this with 10-15 people, I said yes to too many people who asked, and now it's out of hand. "
+      },
+      "after": "35bb435358ced057",
+      "id": "83d13c6e02737850",
+      "date": 1419054600100
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "27895ac2d3a3f148",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "83d13c6e02737850"
+      ],
+      "id": "83d13c6e02737850",
+      "date": 1419054613049
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "96d643f62e80ac0e",
+        "text": "[[Jon Udell]]: I had done so. Now I did again to refresh your changes. Was unclear until just now that reforking is an overwrite.\nSee also [[Pull Request]]. Note also the transposition of your above two paragraphs in this fork of your fork of the original. Bug?"
+      },
+      "after": "83d13c6e02737850",
+      "id": "96d643f62e80ac0e",
+      "date": 1419054623367
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "20ac91a2af9213fd",
+        "text": ""
+      },
+      "id": "20ac91a2af9213fd",
+      "type": "add",
+      "after": "27895ac2d3a3f148",
+      "date": 1419054660478
+    },
+    {
+      "type": "edit",
+      "id": "20ac91a2af9213fd",
+      "item": {
+        "type": "paragraph",
+        "id": "20ac91a2af9213fd",
+        "text": "I note that forking someone's forked response to my question destroys any changes in the original that had happened since the fork point, which was initially upsetting as to (programmer) me \"fork\" implies change tracking and a subsequent information-preserving merge/rebase."
+      },
+      "date": 1419054757185
+    },
+    {
+      "type": "edit",
+      "id": "20ac91a2af9213fd",
+      "item": {
+        "type": "paragraph",
+        "id": "20ac91a2af9213fd",
+        "text": "I note that forking someone's forked response to my question destroys any changes in the original that had happened since the fork point. This was initially upsetting as to (programmer) me \"fork\" implies change tracking and a subsequent information-preserving merge/rebase."
+      },
+      "date": 1419054795513
+    },
+    {
+      "type": "remove",
+      "id": "83d13c6e02737850",
+      "date": 1419127504616
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "b32372dbdd3ea968",
+        "text": "[[Jon Udell]]: I'm getting the strong feeling that [[Some Things Should Be Co-Edited]]. In recent days I forked Happening Folks from directory.fedwikihappening.net, added a bio for myself, and then later noticed (or think I noticed) that Mike had consolidated it into his page. Which is authoritative only to the extent that someone saw Mike's comment and expected it to be. Today I can find my bio nowhere. Was data lost? Not in the sense that the system failed to record an edit, I suspect, but rather in the sense that it has receded into one or more page histories. Which (see [[Finding Things in FedWiki]]) I suspect are not searchable. "
+      },
+      "after": "83d13c6e02737850",
+      "id": "b32372dbdd3ea968",
+      "date": 1419127525082
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968"
+      ],
+      "id": "96d643f62e80ac0e",
+      "date": 1419127527375,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1419127542102
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "04d359bf2a1704d0",
+        "text": "[[Mike Caulfield]]: I should note there is a \"journal merge\" action that is experimental. This allows you to drop one journal onto another and combine the edit histories, which are then run to produce a guess at what a merge might look like. It works much of the time for simpler histories, but occasionally acts odd. It's not publicized because it can make messes. "
+      },
+      "after": "96d643f62e80ac0e",
+      "id": "04d359bf2a1704d0",
+      "date": 1419127566516
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "b32372dbdd3ea968",
+        "96d643f62e80ac0e",
+        "04d359bf2a1704d0"
+      ],
+      "id": "b32372dbdd3ea968",
+      "date": 1419127569113
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968",
+        "04d359bf2a1704d0"
+      ],
+      "id": "96d643f62e80ac0e",
+      "date": 1419127572319
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "49a4bf7d91b8b50f",
+        "text": ""
+      },
+      "id": "49a4bf7d91b8b50f",
+      "type": "add",
+      "after": "07faac53018037af",
+      "date": 1419127640346
+    },
+    {
+      "type": "remove",
+      "id": "49a4bf7d91b8b50f",
+      "date": 1419127644307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "779ffa2b7579d9c3"
+      },
+      "id": "779ffa2b7579d9c3",
+      "type": "add",
+      "after": "04d359bf2a1704d0",
+      "date": 1419127649521
+    },
+    {
+      "type": "edit",
+      "id": "779ffa2b7579d9c3",
+      "item": {
+        "type": "markdown",
+        "id": "779ffa2b7579d9c3",
+        "text": "- Drag-dropping from a \"newer\" page."
+      },
+      "date": 1419127665053
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "779ffa2b7579d9c3",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968",
+        "04d359bf2a1704d0"
+      ],
+      "id": "779ffa2b7579d9c3",
+      "date": 1419127668430
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "779ffa2b7579d9c3",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "35bb435358ced057",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968",
+        "04d359bf2a1704d0"
+      ],
+      "id": "779ffa2b7579d9c3",
+      "date": 1419127672074
+    },
+    {
+      "type": "edit",
+      "id": "779ffa2b7579d9c3",
+      "item": {
+        "type": "markdown",
+        "id": "779ffa2b7579d9c3",
+        "text": "Summary:\n- Forking someone's fork back to yours is dangerous\n- Drag-dropping paragraphs from a \"newer\" page.\n- Experimental journal merge: drag-drop journals (I will experiment!)"
+      },
+      "date": 1419127744806
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "779ffa2b7579d9c3",
+        "27895ac2d3a3f148",
+        "35bb435358ced057",
+        "20ac91a2af9213fd",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968",
+        "04d359bf2a1704d0"
+      ],
+      "id": "20ac91a2af9213fd",
+      "date": 1419127749732
+    },
+    {
+      "type": "move",
+      "order": [
+        "07faac53018037af",
+        "779ffa2b7579d9c3",
+        "35bb435358ced057",
+        "27895ac2d3a3f148",
+        "20ac91a2af9213fd",
+        "e504ad0b0437ccc0",
+        "83d13c6e02737850",
+        "96d643f62e80ac0e",
+        "b32372dbdd3ea968",
+        "04d359bf2a1704d0"
+      ],
+      "id": "27895ac2d3a3f148",
+      "date": 1419127751060
+    },
+    {
+      "type": "fork",
+      "site": "alex.au.fedwikihappening.net",
+      "date": 1426949921005
+    }
+  ]
+}

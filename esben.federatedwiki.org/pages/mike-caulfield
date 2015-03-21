@@ -37,6 +37,11 @@
       "text": "I've worked in educational technology since the 1990s. I'm currently exploring applications of federated wiki to education. Most of my day is spent helping faculty integrate technology into teaching as Washington State University Vancouver as the Director of Blended and Networked Learning."
     },
     {
+      "type": "pagefold",
+      "id": "27b6655bf7b8a8e5",
+      "text": "Other"
+    },
+    {
       "type": "paragraph",
       "id": "8433c97cb2f69383",
       "text": "More info on Mike's personal website [http://hapgood.us html]"
@@ -576,6 +581,42 @@
     {
       "type": "fork",
       "date": 1426947051412
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27b6655bf7b8a8e5"
+      },
+      "id": "27b6655bf7b8a8e5",
+      "type": "add",
+      "after": "8433c97cb2f69383",
+      "date": 1426949751183
+    },
+    {
+      "type": "edit",
+      "id": "27b6655bf7b8a8e5",
+      "item": {
+        "type": "pagefold",
+        "id": "27b6655bf7b8a8e5",
+        "text": "Other"
+      },
+      "date": 1426949761378
+    },
+    {
+      "type": "move",
+      "order": [
+        "bd915afe78521a12",
+        "511cb11352c9b8f5",
+        "6a21151028681efd",
+        "ddcd0fb5ea37c348",
+        "f4e047b73a157efc",
+        "426c5c54a344dcaf",
+        "6f05f6ee38323acc",
+        "27b6655bf7b8a8e5",
+        "8433c97cb2f69383"
+      ],
+      "id": "27b6655bf7b8a8e5",
+      "date": 1426949763595
     }
   ]
 }

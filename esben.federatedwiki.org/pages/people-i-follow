@@ -22,6 +22,13 @@
       "site": "jonas.federatedwiki.org",
       "title": "Welcome Visitors",
       "text": "Jonas Krøner"
+    },
+    {
+      "type": "reference",
+      "id": "edd49f1bd38e296e",
+      "site": "nicolas.federatedwiki.org",
+      "title": "Welcome Visitors",
+      "text": "Nicolas Collignon"
     }
   ],
   "journal": [
@@ -635,6 +642,40 @@
       "type": "remove",
       "id": "69a1397346ee38fc",
       "date": 1426875778866
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edd49f1bd38e296e"
+      },
+      "id": "edd49f1bd38e296e",
+      "type": "add",
+      "after": "fa111646b0d1bf6d",
+      "date": 1426939005757
+    },
+    {
+      "type": "edit",
+      "id": "edd49f1bd38e296e",
+      "item": {
+        "type": "reference",
+        "id": "edd49f1bd38e296e",
+        "site": "nicolas.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to this [[Federated Wiki]] site. "
+      },
+      "date": 1426939042537
+    },
+    {
+      "type": "edit",
+      "id": "edd49f1bd38e296e",
+      "item": {
+        "type": "reference",
+        "id": "edd49f1bd38e296e",
+        "site": "nicolas.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": "Nicolas Collignon"
+      },
+      "date": 1426939069843
     }
   ]
 }

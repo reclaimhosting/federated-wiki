@@ -2,9 +2,24 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to this [[Federated Wiki]] site. ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "29ac1f5de7f480b1",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "d1d3a1a8e52e5cc0",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "43ed088565de4740",
+      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
     },
     {
       "type": "paragraph",
@@ -399,6 +414,100 @@
       "type": "add",
       "after": "ee416d431ebf4fb4",
       "date": 1426896403292
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1426896612001
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "29ac1f5de7f480b1",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "id": "29ac1f5de7f480b1",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426896612018
+    },
+    {
+      "type": "edit",
+      "id": "29ac1f5de7f480b1",
+      "item": {
+        "type": "paragraph",
+        "id": "29ac1f5de7f480b1",
+        "text": " "
+      },
+      "date": 1426896612772
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "43ed088565de4740",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "id": "43ed088565de4740",
+      "type": "add",
+      "after": "29ac1f5de7f480b1",
+      "date": 1426896612780
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d1d3a1a8e52e5cc0",
+        "text": ""
+      },
+      "id": "d1d3a1a8e52e5cc0",
+      "type": "add",
+      "after": "29ac1f5de7f480b1",
+      "date": 1426896612792
+    },
+    {
+      "type": "edit",
+      "id": "d1d3a1a8e52e5cc0",
+      "item": {
+        "type": "paragraph",
+        "id": "d1d3a1a8e52e5cc0",
+        "text": " "
+      },
+      "date": 1426896613933
+    },
+    {
+      "type": "remove",
+      "id": "7710b5771698e30e",
+      "date": 1426896613938
+    },
+    {
+      "type": "edit",
+      "id": "767d570ba13226c8",
+      "item": {
+        "type": "paragraph",
+        "id": "767d570ba13226c8",
+        "text": " "
+      },
+      "date": 1426896614246
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99a5a54163268f47",
+        "text": ""
+      },
+      "id": "99a5a54163268f47",
+      "type": "add",
+      "after": "767d570ba13226c8",
+      "date": 1426896614263
+    },
+    {
+      "type": "remove",
+      "id": "99a5a54163268f47",
+      "date": 1426896618031
     }
   ]
 }

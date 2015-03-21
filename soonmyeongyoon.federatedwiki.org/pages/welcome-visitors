@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to this [[Federated Wiki]] site. I am still trying to work on it, but I guess it will take some time.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -10,11 +10,6 @@
       "type": "paragraph",
       "id": "821827c99b90cfd1",
       "text": "Pages about us."
-    },
-    {
-      "type": "factory",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below."
     },
     {
       "type": "paragraph",
@@ -381,6 +376,77 @@
         "text": "Hello!"
       },
       "date": 1426896511719
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2d9eab7b1dddac8"
+      },
+      "id": "d2d9eab7b1dddac8",
+      "type": "add",
+      "after": "a9a52e2384be725b",
+      "date": 1426896541532
+    },
+    {
+      "type": "remove",
+      "id": "d2d9eab7b1dddac8",
+      "date": 1426896546043
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "329a05346c6382a7"
+      },
+      "id": "329a05346c6382a7",
+      "type": "add",
+      "after": "a9a52e2384be725b",
+      "date": 1426896547532
+    },
+    {
+      "type": "edit",
+      "id": "329a05346c6382a7",
+      "item": {
+        "type": "html",
+        "id": "329a05346c6382a7",
+        "text": "presto: newpage"
+      },
+      "date": 1426896566950
+    },
+    {
+      "type": "remove",
+      "id": "329a05346c6382a7",
+      "date": 1426896570536
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1426896683018
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. I am still trying to work on it, but I guess it will take some time.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1426896725414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "434ba1cd40480f10",
+        "text": ""
+      },
+      "id": "434ba1cd40480f10",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426896725421
+    },
+    {
+      "type": "remove",
+      "id": "434ba1cd40480f10",
+      "date": 1426896726843
     }
   ]
 }

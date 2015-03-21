@@ -29,6 +29,18 @@
       "site": "nicolas.federatedwiki.org",
       "title": "Welcome Visitors",
       "text": "Nicolas Collignon"
+    },
+    {
+      "type": "reference",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "site": "rosano.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    },
+    {
+      "type": "factory",
+      "id": "52a5f8b9018cb5e7"
     }
   ],
   "journal": [
@@ -676,6 +688,30 @@
         "text": "Nicolas Collignon"
       },
       "date": 1426939069843
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52a5f8b9018cb5e7"
+      },
+      "id": "52a5f8b9018cb5e7",
+      "type": "add",
+      "after": "edd49f1bd38e296e",
+      "date": 1426939160126
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "site": "rosano.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "after": "edd49f1bd38e296e",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1426939163049
     }
   ]
 }

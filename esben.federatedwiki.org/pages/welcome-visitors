@@ -2,109 +2,49 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "type": "paragraph",
-      "id": "92a7d6e45298795b",
-      "text": "This is a personal wiki of Esben Sørig kept for the purpose of exploring the federated wiki concept. "
-    },
-    {
-      "type": "markdown",
-      "id": "1d35b954d92a2edc",
-      "text": "### Topics"
+      "text": "Welcome to this [[Federated Wiki]] site. ",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "837a5720098e373d",
+      "id": "29ac1f5de7f480b1",
       "text": " "
     },
     {
       "type": "paragraph",
-      "id": "db66e459c6ad9414",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
-      "id": "9c54cacfce8cf254",
-      "text": "[[Academic Topics]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "3870212ba02b99cd",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
-      "id": "50f0eff065d53270",
+      "id": "d1d3a1a8e52e5cc0",
       "text": " "
     },
     {
       "type": "paragraph",
-      "id": "5c8182dd46fce8fd",
-      "text": "[[Exploring the federated wiki]]"
-    },
-    {
-      "type": "markdown",
-      "id": "510a2ca13dc33ed4",
-      "text": "### People"
+      "id": "43ed088565de4740",
+      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topics]]"
     },
     {
       "type": "paragraph",
-      "id": "c2b99fc27b1d20f4",
-      "text": "[[People I Follow]]"
-    },
-    {
-      "type": "markdown",
-      "id": "06c1279a77819271",
-      "text": "### Other"
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us."
     },
     {
       "type": "paragraph",
-      "id": "1f671b924795751b",
-      "text": ""
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
     },
     {
       "type": "paragraph",
-      "id": "1770e74fbda6ac94",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
-      "id": "bb7c43b5cf13b5b2",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
-      "id": "53ddcba0b848825f",
-      "text": "[[Recent Changes]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "dce3a7b0e004b5b9",
-      "text": ""
-    },
-    {
-      "type": "paragraph",
-      "id": "c1290b804fd05bde",
-      "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "620bd45523ef7c32",
-      "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "5f48f96062bc067f",
-      "text": " "
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[my page]]"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": " "
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
     {
-      "type": "paragraph",
-      "id": "164ec0d3887350a8",
-      "text": " "
+      "type": "factory",
+      "id": "57c00a203c3c03ff"
     }
   ],
   "journal": [
@@ -408,39 +348,167 @@
       "date": 1376164176294
     },
     {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1418521420269
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "site": "rosano.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "date": 1426896276123
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[my page]]"
+      },
+      "date": 1426896298360
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9b06eeea6d2052f7",
+        "text": ""
+      },
+      "id": "9b06eeea6d2052f7",
+      "type": "add",
+      "after": "05e2fa92643677ca",
+      "date": 1426896298383
+    },
+    {
+      "type": "remove",
+      "id": "9b06eeea6d2052f7",
+      "date": 1426896308523
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57c00a203c3c03ff"
+      },
+      "id": "57c00a203c3c03ff",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426896403292
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1426896612001
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "29ac1f5de7f480b1",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "id": "29ac1f5de7f480b1",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426896612018
+    },
+    {
+      "type": "edit",
+      "id": "29ac1f5de7f480b1",
+      "item": {
+        "type": "paragraph",
+        "id": "29ac1f5de7f480b1",
+        "text": " "
+      },
+      "date": 1426896612772
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "43ed088565de4740",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+      },
+      "id": "43ed088565de4740",
+      "type": "add",
+      "after": "29ac1f5de7f480b1",
+      "date": 1426896612780
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d1d3a1a8e52e5cc0",
+        "text": ""
+      },
+      "id": "d1d3a1a8e52e5cc0",
+      "type": "add",
+      "after": "29ac1f5de7f480b1",
+      "date": 1426896612792
+    },
+    {
+      "type": "edit",
+      "id": "d1d3a1a8e52e5cc0",
+      "item": {
+        "type": "paragraph",
+        "id": "d1d3a1a8e52e5cc0",
+        "text": " "
+      },
+      "date": 1426896613933
+    },
+    {
+      "type": "remove",
+      "id": "7710b5771698e30e",
+      "date": 1426896613938
+    },
+    {
+      "type": "edit",
+      "id": "767d570ba13226c8",
+      "item": {
+        "type": "paragraph",
+        "id": "767d570ba13226c8",
+        "text": " "
+      },
+      "date": 1426896614246
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99a5a54163268f47",
+        "text": ""
+      },
+      "id": "99a5a54163268f47",
+      "type": "add",
+      "after": "767d570ba13226c8",
+      "date": 1426896614263
+    },
+    {
+      "type": "remove",
+      "id": "99a5a54163268f47",
+      "date": 1426896618031
+    },
+    {
+      "type": "fork",
+      "site": "nicolas.federatedwiki.org"
+    },
+    {
       "type": "remove",
       "id": "63ad2e58eecdd9e5",
-      "date": 1416917394002
-    },
-    {
-      "type": "remove",
-      "id": "05e2fa92643677ca",
-      "date": 1416917396135
-    },
-    {
-      "type": "remove",
-      "id": "7b56f22a4b9ee974",
-      "date": 1416917418003
-    },
-    {
-      "type": "remove",
-      "id": "821827c99b90cfd1",
-      "date": 1416917421218
-    },
-    {
-      "type": "remove",
-      "id": "2bbd646ff3f44b51",
-      "date": 1416917424193
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "92a7d6e45298795b"
-      },
-      "id": "92a7d6e45298795b",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1416917448576
+      "date": 1426939163044
     },
     {
       "type": "edit",
@@ -448,1149 +516,45 @@
       "item": {
         "type": "paragraph",
         "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki kept for the purpose of exploring the federated wiki concept."
+        "text": "This is a personal wiki of [[Esben Sørig]] kept for the purpose of exploring the federated wiki concept. "
       },
-      "date": 1416917505587
+      "date": 1426939184029
+    },
+    {
+      "type": "edit",
+      "id": "43ed088565de4740",
+      "item": {
+        "type": "paragraph",
+        "id": "43ed088565de4740",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topic]]"
+      },
+      "date": 1426939628399
     },
     {
       "item": {
         "type": "paragraph",
-        "id": "b847c0fbd8371b12",
+        "id": "c23ec1e2893a4844",
         "text": ""
       },
-      "id": "b847c0fbd8371b12",
+      "id": "c23ec1e2893a4844",
       "type": "add",
-      "after": "92a7d6e45298795b",
-      "date": 1416917505615
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "ee416d431ebf4fb4",
-        "b847c0fbd8371b12"
-      ],
-      "id": "92a7d6e45298795b",
-      "date": 1416917508251
+      "after": "43ed088565de4740",
+      "date": 1426939628428
     },
     {
       "type": "remove",
-      "id": "b847c0fbd8371b12",
-      "date": 1416917547582
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "5f48f96062bc067f",
-        "text": ""
-      },
-      "id": "5f48f96062bc067f",
-      "type": "add",
-      "after": "92a7d6e45298795b",
-      "date": 1416917549151
+      "id": "c23ec1e2893a4844",
+      "date": 1426939632192
     },
     {
       "type": "edit",
-      "id": "5f48f96062bc067f",
+      "id": "43ed088565de4740",
       "item": {
         "type": "paragraph",
-        "id": "5f48f96062bc067f",
-        "text": " "
+        "id": "43ed088565de4740",
+        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topics]]"
       },
-      "date": 1416917549314
-    },
-    {
-      "type": "remove",
-      "id": "d48292997e8b0e35",
-      "date": 1416917549318
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "d48292997e8b0e35",
-        "text": ""
-      },
-      "id": "d48292997e8b0e35",
-      "type": "add",
-      "after": "5f48f96062bc067f",
-      "date": 1416917549320
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "131ad2098e935fb1",
-        "text": ""
-      },
-      "id": "131ad2098e935fb1",
-      "type": "add",
-      "after": "5f48f96062bc067f",
-      "date": 1416917549349
-    },
-    {
-      "type": "remove",
-      "id": "131ad2098e935fb1",
-      "date": 1416917560088
-    },
-    {
-      "type": "edit",
-      "id": "92a7d6e45298795b",
-      "item": {
-        "type": "paragraph",
-        "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki kept for the purpose of exploring the federated wiki concept. Please fo"
-      },
-      "date": 1416917562987
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "0efabb90297902db",
-        "text": ""
-      },
-      "id": "0efabb90297902db",
-      "type": "add",
-      "after": "92a7d6e45298795b",
-      "date": 1416917563017
-    },
-    {
-      "type": "remove",
-      "id": "0efabb90297902db",
-      "date": 1416917564209
-    },
-    {
-      "type": "edit",
-      "id": "92a7d6e45298795b",
-      "item": {
-        "type": "paragraph",
-        "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki kept for the purpose of exploring the federated wiki concept. Please follow go to one of the following topics to see what topics I work on"
-      },
-      "date": 1416917608141
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "9c54cacfce8cf254",
-        "text": ""
-      },
-      "id": "9c54cacfce8cf254",
-      "type": "add",
-      "after": "92a7d6e45298795b",
-      "date": 1416917608171
-    },
-    {
-      "type": "edit",
-      "id": "9c54cacfce8cf254",
-      "item": {
-        "type": "paragraph",
-        "id": "9c54cacfce8cf254",
-        "text": "[[Machine Learning]]"
-      },
-      "date": 1416917616469
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "306d6c5f8eacb411",
-        "text": ""
-      },
-      "id": "306d6c5f8eacb411",
-      "type": "add",
-      "after": "9c54cacfce8cf254",
-      "date": 1416917616499
-    },
-    {
-      "type": "remove",
-      "id": "306d6c5f8eacb411",
-      "date": 1416917627844
-    },
-    {
-      "type": "edit",
-      "id": "9c54cacfce8cf254",
-      "item": {
-        "type": "paragraph",
-        "id": "9c54cacfce8cf254",
-        "text": "[[Academic topics]]"
-      },
-      "date": 1416917639406
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "5c8182dd46fce8fd",
-        "text": ""
-      },
-      "id": "5c8182dd46fce8fd",
-      "type": "add",
-      "after": "9c54cacfce8cf254",
-      "date": 1416917639436
-    },
-    {
-      "type": "edit",
-      "id": "5c8182dd46fce8fd",
-      "item": {
-        "type": "paragraph",
-        "id": "5c8182dd46fce8fd",
-        "text": "Fedarated wik"
-      },
-      "date": 1416917644618
-    },
-    {
-      "type": "edit",
-      "id": "5c8182dd46fce8fd",
-      "item": {
-        "type": "paragraph",
-        "id": "5c8182dd46fce8fd",
-        "text": "[[Exploring the federated wiki]]"
-      },
-      "date": 1416917661279
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "8856ad9c443c97ba",
-        "text": ""
-      },
-      "id": "8856ad9c443c97ba",
-      "type": "add",
-      "after": "5c8182dd46fce8fd",
-      "date": 1416917661311
-    },
-    {
-      "type": "remove",
-      "id": "8856ad9c443c97ba",
-      "date": 1416917663799
-    },
-    {
-      "type": "edit",
-      "id": "ee416d431ebf4fb4",
-      "item": {
-        "type": "paragraph",
-        "id": "ee416d431ebf4fb4",
-        "text": " "
-      },
-      "date": 1416917699929
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "164ec0d3887350a8",
-        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-      },
-      "id": "164ec0d3887350a8",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1416917699960
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "4f1a7ba53d2a2338",
-        "text": ""
-      },
-      "id": "4f1a7ba53d2a2338",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1416917699961
-    },
-    {
-      "type": "remove",
-      "id": "4f1a7ba53d2a2338",
-      "date": 1416917701423
-    },
-    {
-      "type": "edit",
-      "id": "164ec0d3887350a8",
-      "item": {
-        "type": "paragraph",
-        "id": "164ec0d3887350a8",
-        "text": "Other stuff:"
-      },
-      "date": 1416917706977
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "b01c78d45c1f38a2",
-        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-      },
-      "id": "b01c78d45c1f38a2",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1416917707008
-    },
-    {
-      "type": "edit",
-      "id": "164ec0d3887350a8",
-      "item": {
-        "type": "paragraph",
-        "id": "164ec0d3887350a8",
-        "text": " "
-      },
-      "date": 1416917713098
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "fcb9e40d100cc7e6",
-        "text": ""
-      },
-      "id": "fcb9e40d100cc7e6",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1416917713104
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "3ab41dc99e970e00",
-        "text": ""
-      },
-      "id": "3ab41dc99e970e00",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1416917713131
-    },
-    {
-      "type": "remove",
-      "id": "3ab41dc99e970e00",
-      "date": 1416917713847
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "9c54cacfce8cf254",
-        "5c8182dd46fce8fd",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "b01c78d45c1f38a2",
-        "164ec0d3887350a8"
-      ],
-      "id": "b01c78d45c1f38a2",
-      "date": 1416917718113
-    },
-    {
-      "type": "edit",
-      "id": "9c54cacfce8cf254",
-      "item": {
-        "type": "paragraph",
-        "id": "9c54cacfce8cf254",
-        "text": "[[Academic T"
-      },
-      "date": 1416917951595
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "41be66cecbb337fa",
-        "text": "opics]]"
-      },
-      "id": "41be66cecbb337fa",
-      "type": "add",
-      "after": "9c54cacfce8cf254",
-      "date": 1416917951629
-    },
-    {
-      "type": "remove",
-      "id": "41be66cecbb337fa",
-      "date": 1416917953869
-    },
-    {
-      "type": "edit",
-      "id": "9c54cacfce8cf254",
-      "item": {
-        "type": "paragraph",
-        "id": "9c54cacfce8cf254",
-        "text": "[[Academic Topics]]"
-      },
-      "date": 1416918018727
-    },
-    {
-      "type": "remove",
-      "id": "b01c78d45c1f38a2",
-      "date": 1416919606725
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "c1290b804fd05bde",
-        "text": ""
-      },
-      "id": "c1290b804fd05bde",
-      "type": "add",
-      "after": "5c8182dd46fce8fd",
-      "date": 1416936686249
-    },
-    {
-      "type": "edit",
-      "id": "c1290b804fd05bde",
-      "item": {
-        "type": "paragraph",
-        "id": "c1290b804fd05bde",
-        "text": " "
-      },
-      "date": 1416936686612
-    },
-    {
-      "type": "remove",
-      "id": "17d9be1d9e7ea1e8",
-      "date": 1416936686616
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "620bd45523ef7c32",
-        "text": ""
-      },
-      "id": "620bd45523ef7c32",
-      "type": "add",
-      "after": "c1290b804fd05bde",
-      "date": 1416936686651
-    },
-    {
-      "type": "edit",
-      "id": "620bd45523ef7c32",
-      "item": {
-        "type": "paragraph",
-        "id": "620bd45523ef7c32",
-        "text": "People I follow "
-      },
-      "date": 1416936693203
-    },
-    {
-      "type": "edit",
-      "id": "620bd45523ef7c32",
-      "item": {
-        "type": "paragraph",
-        "id": "620bd45523ef7c32",
-        "text": " "
-      },
-      "date": 1416936715973
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "e9355e6a0f742b9e",
-        "text": ""
-      },
-      "id": "e9355e6a0f742b9e",
-      "type": "add",
-      "after": "620bd45523ef7c32",
-      "date": 1416936716013
-    },
-    {
-      "type": "edit",
-      "id": "e9355e6a0f742b9e",
-      "item": {
-        "type": "paragraph",
-        "id": "e9355e6a0f742b9e",
-        "text": "Circles"
-      },
-      "date": 1416936718574
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "1cb6710574955dd2",
-        "text": ""
-      },
-      "id": "1cb6710574955dd2",
-      "type": "add",
-      "after": "e9355e6a0f742b9e",
-      "date": 1416936718609
-    },
-    {
-      "type": "remove",
-      "id": "1cb6710574955dd2",
-      "date": 1416936719874
-    },
-    {
-      "type": "edit",
-      "id": "e9355e6a0f742b9e",
-      "item": {
-        "type": "paragraph",
-        "id": "e9355e6a0f742b9e",
-        "text": "<b>"
-      },
-      "date": 1416936722542
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "794971c9b8ed6a39",
-        "text": "Circles"
-      },
-      "id": "794971c9b8ed6a39",
-      "type": "add",
-      "after": "e9355e6a0f742b9e",
-      "date": 1416936722577
-    },
-    {
-      "type": "remove",
-      "id": "794971c9b8ed6a39",
-      "date": 1416936725032
-    },
-    {
-      "type": "edit",
-      "id": "92a7d6e45298795b",
-      "item": {
-        "type": "paragraph",
-        "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki kept for the purpose of exploring the federated wiki concept. "
-      },
-      "date": 1416936741067
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "837a5720098e373d",
-        "text": ""
-      },
-      "id": "837a5720098e373d",
-      "type": "add",
-      "after": "92a7d6e45298795b",
-      "date": 1416936745780
-    },
-    {
-      "type": "edit",
-      "id": "837a5720098e373d",
-      "item": {
-        "type": "paragraph",
-        "id": "837a5720098e373d",
-        "text": "Topics"
-      },
-      "date": 1416936748793
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "3c5b727b1b75ffde",
-        "text": ""
-      },
-      "id": "3c5b727b1b75ffde",
-      "type": "add",
-      "after": "837a5720098e373d",
-      "date": 1416936748827
-    },
-    {
-      "type": "remove",
-      "id": "3c5b727b1b75ffde",
-      "date": 1416936750152
-    },
-    {
-      "type": "edit",
-      "id": "837a5720098e373d",
-      "item": {
-        "type": "paragraph",
-        "id": "837a5720098e373d",
-        "text": "<b>Topics"
-      },
-      "date": 1416936752707
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "5fe13f04ed0b9b76",
-        "text": ""
-      },
-      "id": "5fe13f04ed0b9b76",
-      "type": "add",
-      "after": "5c8182dd46fce8fd",
-      "date": 1416937070925
-    },
-    {
-      "type": "edit",
-      "id": "5fe13f04ed0b9b76",
-      "item": {
-        "type": "paragraph",
-        "id": "5fe13f04ed0b9b76",
-        "text": "<b>Circles"
-      },
-      "date": 1416937079024
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "dce3a7b0e004b5b9",
-        "text": ""
-      },
-      "id": "dce3a7b0e004b5b9",
-      "type": "add",
-      "after": "5fe13f04ed0b9b76",
-      "date": 1416937079049
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "9cdee8843966cb0c",
-        "text": ""
-      },
-      "id": "9cdee8843966cb0c",
-      "type": "add",
-      "after": "dce3a7b0e004b5b9",
-      "date": 1416937085790
-    },
-    {
-      "type": "remove",
-      "id": "9cdee8843966cb0c",
-      "date": 1416937087307
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "1f671b924795751b",
-        "text": ""
-      },
-      "id": "1f671b924795751b",
-      "type": "add",
-      "after": "5fe13f04ed0b9b76",
-      "date": 1416937112606
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "29febcbeef068bfb",
-        "text": ""
-      },
-      "id": "29febcbeef068bfb",
-      "type": "add",
-      "after": "1f671b924795751b",
-      "date": 1416937117784
-    },
-    {
-      "type": "remove",
-      "id": "29febcbeef068bfb",
-      "date": 1416937119964
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "1770e74fbda6ac94",
-        "text": ""
-      },
-      "id": "1770e74fbda6ac94",
-      "type": "add",
-      "after": "1f671b924795751b",
-      "date": 1416937429392
-    },
-    {
-      "type": "remove",
-      "id": "bb7c43b5cf13b5b2",
-      "date": 1416937429574
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "53ddcba0b848825f",
-        "text": ""
-      },
-      "id": "53ddcba0b848825f",
-      "type": "add",
-      "after": "1770e74fbda6ac94",
-      "date": 1416937429600
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "bb7c43b5cf13b5b2",
-        "text": ""
-      },
-      "id": "bb7c43b5cf13b5b2",
-      "type": "add",
-      "after": "1770e74fbda6ac94",
-      "date": 1416937429576
-    },
-    {
-      "type": "edit",
-      "id": "53ddcba0b848825f",
-      "item": {
-        "type": "paragraph",
-        "id": "53ddcba0b848825f",
-        "text": "[[Recent Changes]]"
-      },
-      "date": 1416937430834
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "1fa2eef3dd5ee9c4",
-        "text": ""
-      },
-      "id": "1fa2eef3dd5ee9c4",
-      "type": "add",
-      "after": "53ddcba0b848825f",
-      "date": 1416937430860
-    },
-    {
-      "type": "remove",
-      "id": "1fa2eef3dd5ee9c4",
-      "date": 1416937431721
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "243bb5eb3cfe2303",
-        "text": ""
-      },
-      "id": "243bb5eb3cfe2303",
-      "type": "add",
-      "after": "1f671b924795751b",
-      "date": 1416937452546
-    },
-    {
-      "type": "edit",
-      "id": "243bb5eb3cfe2303",
-      "item": {
-        "type": "paragraph",
-        "id": "243bb5eb3cfe2303",
-        "text": "<b>Other"
-      },
-      "date": 1416937460281
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "c2b99fc27b1d20f4",
-        "text": ""
-      },
-      "id": "c2b99fc27b1d20f4",
-      "type": "add",
-      "after": "5fe13f04ed0b9b76",
-      "date": 1416937491135
-    },
-    {
-      "type": "edit",
-      "id": "c2b99fc27b1d20f4",
-      "item": {
-        "type": "paragraph",
-        "id": "c2b99fc27b1d20f4",
-        "text": "[[People I Follow]]"
-      },
-      "date": 1416937501302
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "b0c128f484a5491d",
-        "text": ""
-      },
-      "id": "b0c128f484a5491d",
-      "type": "add",
-      "after": "c2b99fc27b1d20f4",
-      "date": 1416937501326
-    },
-    {
-      "type": "remove",
-      "id": "b0c128f484a5491d",
-      "date": 1416937505604
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "dab01df5f7721605",
-        "text": ""
-      },
-      "id": "dab01df5f7721605",
-      "type": "add",
-      "after": "53ddcba0b848825f",
-      "date": 1416954977273
-    },
-    {
-      "type": "edit",
-      "id": "dab01df5f7721605",
-      "item": {
-        "type": "paragraph",
-        "id": "dab01df5f7721605",
-        "text": "[[Trash]]"
-      },
-      "date": 1416954981268
-    },
-    {
-      "type": "add",
-      "item": {
-        "type": "map",
-        "id": "8672d6f904ec884c",
-        "text": "Map Caption",
-        "latlng": {
-          "lat": 40.73851052435288,
-          "lng": -74.09454345703125
-        },
-        "zoom": 10
-      },
-      "after": "243bb5eb3cfe2303",
-      "id": "8672d6f904ec884c",
-      "date": 1416954985766
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "837a5720098e373d",
-        "9c54cacfce8cf254",
-        "5c8182dd46fce8fd",
-        "5fe13f04ed0b9b76",
-        "c2b99fc27b1d20f4",
-        "1f671b924795751b",
-        "243bb5eb3cfe2303",
-        "1770e74fbda6ac94",
-        "8672d6f904ec884c",
-        "bb7c43b5cf13b5b2",
-        "53ddcba0b848825f",
-        "dab01df5f7721605",
-        "dce3a7b0e004b5b9",
-        "c1290b804fd05bde",
-        "620bd45523ef7c32",
-        "e9355e6a0f742b9e",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "164ec0d3887350a8"
-      ],
-      "id": "8672d6f904ec884c",
-      "date": 1416954997987
-    },
-    {
-      "type": "remove",
-      "id": "8672d6f904ec884c",
-      "date": 1416955000335
-    },
-    {
-      "type": "remove",
-      "id": "dab01df5f7721605",
-      "date": 1416994902686
-    },
-    {
-      "type": "edit",
-      "id": "837a5720098e373d",
-      "item": {
-        "type": "paragraph",
-        "id": "837a5720098e373d",
-        "text": "<b>Topics</b>"
-      },
-      "date": 1426873124142
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "c1a9d1fef4da610b",
-        "text": ""
-      },
-      "id": "c1a9d1fef4da610b",
-      "type": "add",
-      "after": "837a5720098e373d",
-      "date": 1426873124164
-    },
-    {
-      "type": "remove",
-      "id": "c1a9d1fef4da610b",
-      "date": 1426873124614
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "491cdf9fef40d249",
-        "text": ""
-      },
-      "id": "491cdf9fef40d249",
-      "type": "add",
-      "after": "837a5720098e373d",
-      "date": 1426873125734
-    },
-    {
-      "type": "remove",
-      "id": "491cdf9fef40d249",
-      "date": 1426873126189
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "1d35b954d92a2edc"
-      },
-      "id": "1d35b954d92a2edc",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1426873140202
-    },
-    {
-      "type": "edit",
-      "id": "1d35b954d92a2edc",
-      "item": {
-        "type": "markdown",
-        "id": "1d35b954d92a2edc",
-        "text": "### Topics"
-      },
-      "date": 1426873155281
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "1d35b954d92a2edc",
-        "837a5720098e373d",
-        "9c54cacfce8cf254",
-        "5c8182dd46fce8fd",
-        "5fe13f04ed0b9b76",
-        "c2b99fc27b1d20f4",
-        "1f671b924795751b",
-        "243bb5eb3cfe2303",
-        "1770e74fbda6ac94",
-        "bb7c43b5cf13b5b2",
-        "53ddcba0b848825f",
-        "dce3a7b0e004b5b9",
-        "c1290b804fd05bde",
-        "620bd45523ef7c32",
-        "e9355e6a0f742b9e",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "164ec0d3887350a8"
-      ],
-      "id": "1d35b954d92a2edc",
-      "date": 1426873157589
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "db66e459c6ad9414",
-        "text": ""
-      },
-      "id": "db66e459c6ad9414",
-      "type": "add",
-      "after": "837a5720098e373d",
-      "date": 1426873163317
-    },
-    {
-      "type": "edit",
-      "id": "837a5720098e373d",
-      "item": {
-        "type": "paragraph",
-        "id": "837a5720098e373d",
-        "text": " "
-      },
-      "date": 1426873163294
-    },
-    {
-      "type": "remove",
-      "id": "e0b7469d139c44b3",
-      "date": 1426873163298
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "3870212ba02b99cd",
-        "text": ""
-      },
-      "id": "3870212ba02b99cd",
-      "type": "add",
-      "after": "db66e459c6ad9414",
-      "date": 1426873164373
-    },
-    {
-      "type": "remove",
-      "id": "b055406efd806ea7",
-      "date": 1426873164801
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "e3ae5e19d0e75720",
-        "text": ""
-      },
-      "id": "e3ae5e19d0e75720",
-      "type": "add",
-      "after": "50f0eff065d53270",
-      "date": 1426873165441
-    },
-    {
-      "type": "remove",
-      "id": "e3ae5e19d0e75720",
-      "date": 1426873165426
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "50f0eff065d53270",
-        "text": ""
-      },
-      "id": "50f0eff065d53270",
-      "type": "add",
-      "after": "3870212ba02b99cd",
-      "date": 1426873164819
-    },
-    {
-      "type": "edit",
-      "id": "50f0eff065d53270",
-      "item": {
-        "type": "paragraph",
-        "id": "50f0eff065d53270",
-        "text": " "
-      },
-      "date": 1426873165422
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "7dcbcdf75ab7aac6",
-        "text": ""
-      },
-      "id": "7dcbcdf75ab7aac6",
-      "type": "add",
-      "after": "50f0eff065d53270",
-      "date": 1426873165442
-    },
-    {
-      "type": "remove",
-      "id": "7dcbcdf75ab7aac6",
-      "date": 1426873169511
-    },
-    {
-      "type": "remove",
-      "id": "5fe13f04ed0b9b76",
-      "date": 1426873177121
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "510a2ca13dc33ed4"
-      },
-      "id": "510a2ca13dc33ed4",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1426873180283
-    },
-    {
-      "type": "edit",
-      "id": "510a2ca13dc33ed4",
-      "item": {
-        "type": "markdown",
-        "id": "510a2ca13dc33ed4",
-        "text": "### People"
-      },
-      "date": 1426873193615
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "1d35b954d92a2edc",
-        "837a5720098e373d",
-        "db66e459c6ad9414",
-        "3870212ba02b99cd",
-        "50f0eff065d53270",
-        "9c54cacfce8cf254",
-        "5c8182dd46fce8fd",
-        "510a2ca13dc33ed4",
-        "c2b99fc27b1d20f4",
-        "1f671b924795751b",
-        "243bb5eb3cfe2303",
-        "1770e74fbda6ac94",
-        "bb7c43b5cf13b5b2",
-        "53ddcba0b848825f",
-        "dce3a7b0e004b5b9",
-        "c1290b804fd05bde",
-        "620bd45523ef7c32",
-        "e9355e6a0f742b9e",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "164ec0d3887350a8"
-      ],
-      "id": "510a2ca13dc33ed4",
-      "date": 1426873195639
-    },
-    {
-      "type": "remove",
-      "id": "e9355e6a0f742b9e",
-      "date": 1426873200527
-    },
-    {
-      "type": "remove",
-      "id": "243bb5eb3cfe2303",
-      "date": 1426873215946
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "06c1279a77819271"
-      },
-      "id": "06c1279a77819271",
-      "type": "add",
-      "after": "164ec0d3887350a8",
-      "date": 1426873217738
-    },
-    {
-      "type": "edit",
-      "id": "06c1279a77819271",
-      "item": {
-        "type": "markdown",
-        "id": "06c1279a77819271",
-        "text": "### Other"
-      },
-      "date": 1426873224151
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "1d35b954d92a2edc",
-        "837a5720098e373d",
-        "db66e459c6ad9414",
-        "3870212ba02b99cd",
-        "50f0eff065d53270",
-        "9c54cacfce8cf254",
-        "5c8182dd46fce8fd",
-        "510a2ca13dc33ed4",
-        "c2b99fc27b1d20f4",
-        "06c1279a77819271",
-        "1f671b924795751b",
-        "1770e74fbda6ac94",
-        "bb7c43b5cf13b5b2",
-        "53ddcba0b848825f",
-        "dce3a7b0e004b5b9",
-        "c1290b804fd05bde",
-        "620bd45523ef7c32",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "164ec0d3887350a8"
-      ],
-      "id": "06c1279a77819271",
-      "date": 1426873225707
-    },
-    {
-      "type": "edit",
-      "id": "92a7d6e45298795b",
-      "item": {
-        "type": "paragraph",
-        "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki of Esben Sørig kept for the purpose of exploring the federated wiki concept. "
-      },
-      "date": 1426873431310
-    },
-    {
-      "type": "move",
-      "order": [
-        "92a7d6e45298795b",
-        "1d35b954d92a2edc",
-        "837a5720098e373d",
-        "db66e459c6ad9414",
-        "9c54cacfce8cf254",
-        "3870212ba02b99cd",
-        "50f0eff065d53270",
-        "5c8182dd46fce8fd",
-        "510a2ca13dc33ed4",
-        "c2b99fc27b1d20f4",
-        "06c1279a77819271",
-        "1f671b924795751b",
-        "1770e74fbda6ac94",
-        "bb7c43b5cf13b5b2",
-        "53ddcba0b848825f",
-        "dce3a7b0e004b5b9",
-        "c1290b804fd05bde",
-        "620bd45523ef7c32",
-        "5f48f96062bc067f",
-        "ee416d431ebf4fb4",
-        "164ec0d3887350a8"
-      ],
-      "id": "9c54cacfce8cf254",
-      "date": 1426875373859
+      "date": 1426939634095
     }
   ]
 }

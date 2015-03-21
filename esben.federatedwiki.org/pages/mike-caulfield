@@ -12,11 +12,6 @@
       "text": " "
     },
     {
-      "type": "markdown",
-      "id": "4592f43f43f789fa",
-      "text": "### Caulfield's own bio"
-    },
-    {
       "type": "paragraph",
       "id": "6a21151028681efd",
       "text": ""
@@ -27,9 +22,24 @@
       "text": " "
     },
     {
+      "type": "markdown",
+      "id": "f4e047b73a157efc",
+      "text": "### Caulfield's own bio"
+    },
+    {
       "type": "paragraph",
       "id": "426c5c54a344dcaf",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "6f05f6ee38323acc",
       "text": "I've worked in educational technology since the 1990s. I'm currently exploring applications of federated wiki to education. Most of my day is spent helping faculty integrate technology into teaching as Washington State University Vancouver as the Director of Blended and Networked Learning."
+    },
+    {
+      "type": "paragraph",
+      "id": "8433c97cb2f69383",
+      "text": "More info on Mike's personal website [http://hapgood.us html]"
     }
   ],
   "journal": [
@@ -408,6 +418,164 @@
       "type": "remove",
       "id": "8b8230b6ce383a56",
       "date": 1426941402389
+    },
+    {
+      "type": "remove",
+      "id": "4592f43f43f789fa",
+      "date": 1426946973804
+    },
+    {
+      "type": "edit",
+      "id": "426c5c54a344dcaf",
+      "item": {
+        "type": "paragraph",
+        "id": "426c5c54a344dcaf",
+        "text": " "
+      },
+      "date": 1426946976821
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f05f6ee38323acc",
+        "text": "I've worked in educational technology since the 1990s. I'm currently exploring applications of federated wiki to education. Most of my day is spent helping faculty integrate technology into teaching as Washington State University Vancouver as the Director of Blended and Networked Learning."
+      },
+      "id": "6f05f6ee38323acc",
+      "type": "add",
+      "after": "426c5c54a344dcaf",
+      "date": 1426946976856
+    },
+    {
+      "item": {
+        "type": "html",
+        "id": "57b673c9b549e823",
+        "text": "<h3>Caulfield's own bio</h3>"
+      },
+      "id": "57b673c9b549e823",
+      "type": "add",
+      "after": "426c5c54a344dcaf",
+      "date": 1426946976857
+    },
+    {
+      "type": "edit",
+      "id": "57b673c9b549e823",
+      "item": {
+        "type": "html",
+        "id": "57b673c9b549e823",
+        "text": "<h3>Caulfield's own bio</h3>"
+      },
+      "date": 1426946985879
+    },
+    {
+      "type": "edit",
+      "id": "57b673c9b549e823",
+      "item": {
+        "type": "html",
+        "id": "57b673c9b549e823",
+        "text": "<h3>Caulfield's own bio</h3>"
+      },
+      "date": 1426946987257
+    },
+    {
+      "type": "edit",
+      "id": "57b673c9b549e823",
+      "item": {
+        "type": "html",
+        "id": "57b673c9b549e823",
+        "text": ""
+      },
+      "date": 1426946987259
+    },
+    {
+      "type": "remove",
+      "id": "57b673c9b549e823",
+      "date": 1426946995391
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "f4e047b73a157efc",
+        "text": "### Caulfield's own bio"
+      },
+      "id": "f4e047b73a157efc",
+      "type": "add",
+      "after": "6f05f6ee38323acc",
+      "date": 1426946996349
+    },
+    {
+      "type": "edit",
+      "id": "f4e047b73a157efc",
+      "item": {
+        "type": "markdown",
+        "id": "f4e047b73a157efc",
+        "text": "### Caulfield's own bio"
+      },
+      "date": 1426947002273
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8433c97cb2f69383",
+        "text": "More info on Mike's personal website [http://hapgood.us html]"
+      },
+      "id": "8433c97cb2f69383",
+      "type": "add",
+      "after": "f4e047b73a157efc",
+      "date": 1426947003980
+    },
+    {
+      "type": "edit",
+      "id": "8433c97cb2f69383",
+      "item": {
+        "type": "paragraph",
+        "id": "8433c97cb2f69383",
+        "text": "More info on Mike's personal website [http://hapgood.us html]"
+      },
+      "date": 1426947011355
+    },
+    {
+      "type": "edit",
+      "id": "8433c97cb2f69383",
+      "item": {
+        "type": "paragraph",
+        "id": "8433c97cb2f69383",
+        "text": "More info on Mike's personal website [http://hapgood.us html]"
+      },
+      "date": 1426947021474
+    },
+    {
+      "type": "edit",
+      "id": "8433c97cb2f69383",
+      "item": {
+        "type": "paragraph",
+        "id": "8433c97cb2f69383",
+        "text": "More info on Mike's personal website [http://hapgood.us html]"
+      },
+      "date": 1426947041731
+    },
+    {
+      "type": "move",
+      "order": [
+        "bd915afe78521a12",
+        "511cb11352c9b8f5",
+        "6a21151028681efd",
+        "ddcd0fb5ea37c348",
+        "f4e047b73a157efc",
+        "426c5c54a344dcaf",
+        "6f05f6ee38323acc",
+        "8433c97cb2f69383"
+      ],
+      "id": "f4e047b73a157efc",
+      "date": 1426947044592,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1426947051412
     }
   ]
 }

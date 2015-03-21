@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "ef33c1c55bcf5f1f",
-      "text": "Mike Caulfield's introductory pages are very helpful [["
+      "text": "[[Mike Caulfield]]'s page on [[Things You Must Do]] are very helpful"
     },
     {
       "type": "paragraph",
@@ -105,6 +105,13 @@
       "type": "paragraph",
       "id": "79b5aa219550e6a1",
       "text": ""
+    },
+    {
+      "type": "reference",
+      "id": "1d255ff17a7af972",
+      "site": "orientation.hapgood.net",
+      "title": "Welcome Visitors",
+      "text": "Welcome to this [[Federated Wiki]] site. This site is part of the Fedwiki Happening on Teaching Machines. On this Welcome Visitors page we talk about who we are, what we do, and with whom we do it."
     }
   ],
   "journal": [
@@ -855,6 +862,48 @@
         "text": "Mike Caulfield's introductory pages are very helpful [["
       },
       "date": 1426940893871
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d255ff17a7af972"
+      },
+      "id": "1d255ff17a7af972",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "date": 1426941043715
+    },
+    {
+      "type": "edit",
+      "id": "1d255ff17a7af972",
+      "item": {
+        "type": "reference",
+        "id": "1d255ff17a7af972",
+        "site": "orientation.hapgood.net",
+        "title": "Welcome Visitors",
+        "text": "Welcome to this [[Federated Wiki]] site. This site is part of the Fedwiki Happening on Teaching Machines. On this Welcome Visitors page we talk about who we are, what we do, and with whom we do it."
+      },
+      "date": 1426941046714
+    },
+    {
+      "type": "edit",
+      "id": "ef33c1c55bcf5f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "ef33c1c55bcf5f1f",
+        "text": "[[Mike Caulfield]]'s page on [[Thing You Must Do]] are very helpful"
+      },
+      "date": 1426941102707
+    },
+    {
+      "type": "edit",
+      "id": "ef33c1c55bcf5f1f",
+      "item": {
+        "type": "paragraph",
+        "id": "ef33c1c55bcf5f1f",
+        "text": "[[Mike Caulfield]]'s page on [[Things You Must Do]] are very helpful"
+      },
+      "date": 1426941111962
     }
   ]
 }

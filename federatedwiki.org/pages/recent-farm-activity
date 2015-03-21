@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "107b77a7a224216a"
+      "id": "21b5a58a337d81a0"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "51842a5047a97eed"
+      "id": "3acd72f6796fac26"
     },
     {
-      "date": 1426947601000,
+      "date": 1426948472000,
+      "site": "esben.federatedwiki.org",
+      "slug": "shut-up-inner-critic",
+      "title": "Shut Up Inner Critic",
+      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 22 pages.",
+      "type": "reference",
+      "id": "23a53eb659ab72f2"
+    },
+    {
+      "date": 1426948202000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "b93186a1dcfa8853"
-    },
-    {
-      "date": 1426947114000,
-      "site": "esben.federatedwiki.org",
-      "slug": "mike-caulfield",
-      "title": "Mike Caulfield",
-      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 21 pages.",
-      "type": "reference",
-      "id": "e18f24a875255b9f"
+      "id": "f4f6baba65636b99"
     },
     {
       "date": 1426121892000,
@@ -36,69 +36,69 @@
       "title": "12 Mar 2015 - Fixing activity completion",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
       "type": "reference",
-      "id": "81032f7ea8c8facb"
+      "id": "1d6c0681cabcf7f1"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "33533f9e9aee464b",
+      "id": "5f0592c8cdff59cd",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1426948202000
+      "date": 1426948801000
     },
     {
       "type": "add",
-      "id": "107b77a7a224216a",
+      "id": "21b5a58a337d81a0",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "107b77a7a224216a"
+        "id": "21b5a58a337d81a0"
       },
-      "date": 1426948202000
+      "date": 1426948801000
     },
     {
       "type": "add",
-      "id": "51842a5047a97eed",
+      "id": "3acd72f6796fac26",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "51842a5047a97eed"
+        "id": "3acd72f6796fac26"
       },
-      "date": 1426948202000
+      "date": 1426948801000
     },
     {
       "type": "add",
-      "id": "b93186a1dcfa8853",
+      "id": "23a53eb659ab72f2",
       "item": {
-        "date": 1426947601000,
+        "date": 1426948472000,
+        "site": "esben.federatedwiki.org",
+        "slug": "shut-up-inner-critic",
+        "title": "Shut Up Inner Critic",
+        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 22 pages.",
+        "type": "reference",
+        "id": "23a53eb659ab72f2"
+      },
+      "date": 1426948801000
+    },
+    {
+      "type": "add",
+      "id": "f4f6baba65636b99",
+      "item": {
+        "date": 1426948202000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "b93186a1dcfa8853"
+        "id": "f4f6baba65636b99"
       },
-      "date": 1426948202000
+      "date": 1426948801000
     },
     {
       "type": "add",
-      "id": "e18f24a875255b9f",
-      "item": {
-        "date": 1426947114000,
-        "site": "esben.federatedwiki.org",
-        "slug": "mike-caulfield",
-        "title": "Mike Caulfield",
-        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 21 pages.",
-        "type": "reference",
-        "id": "e18f24a875255b9f"
-      },
-      "date": 1426948202000
-    },
-    {
-      "type": "add",
-      "id": "81032f7ea8c8facb",
+      "id": "1d6c0681cabcf7f1",
       "item": {
         "date": 1426121892000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "12 Mar 2015 - Fixing activity completion",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 91 pages.",
         "type": "reference",
-        "id": "81032f7ea8c8facb"
+        "id": "1d6c0681cabcf7f1"
       },
-      "date": 1426948202000
+      "date": 1426948801000
     }
   ]
 }

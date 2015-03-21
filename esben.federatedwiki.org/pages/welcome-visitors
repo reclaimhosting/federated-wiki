@@ -2,49 +2,44 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. ",
+      "text": "Welcome to [[Esben Sørig]]'s experimental federated wiki site.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "29ac1f5de7f480b1",
-      "text": " "
+      "type": "markdown",
+      "id": "2e967783a7be73c5",
+      "text": "### Topics"
     },
     {
       "type": "paragraph",
-      "id": "d1d3a1a8e52e5cc0",
-      "text": " "
+      "id": "f036a02c56cb6fd9",
+      "text": "[[Academic topics]]"
     },
     {
       "type": "paragraph",
-      "id": "43ed088565de4740",
-      "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topics]]"
+      "id": "2a62da4d0df8f930",
+      "text": "[[Exploring the federated wiki]]"
+    },
+    {
+      "type": "markdown",
+      "id": "6da64b3c2f159906",
+      "text": "### People"
     },
     {
       "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
+      "id": "1f3ef6b18246297c",
+      "text": "[[People I Follow]]"
     },
     {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-      "text": "[[my page]]"
+      "type": "markdown",
+      "id": "57be5f9f3a0b9d7c",
+      "text": "### Other"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "factory",
-      "id": "57c00a203c3c03ff"
+      "text": "[[Recent Changes]]"
     }
   ],
   "journal": [
@@ -371,190 +366,298 @@
       "date": 1426896276123
     },
     {
-      "type": "edit",
-      "id": "05e2fa92643677ca",
-      "item": {
-        "type": "paragraph",
-        "id": "05e2fa92643677ca",
-        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
-        "text": "[[my page]]"
-      },
-      "date": 1426896298360
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "9b06eeea6d2052f7",
-        "text": ""
-      },
-      "id": "9b06eeea6d2052f7",
-      "type": "add",
-      "after": "05e2fa92643677ca",
-      "date": 1426896298383
-    },
-    {
-      "type": "remove",
-      "id": "9b06eeea6d2052f7",
-      "date": 1426896308523
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "57c00a203c3c03ff"
-      },
-      "id": "57c00a203c3c03ff",
-      "type": "add",
-      "after": "ee416d431ebf4fb4",
-      "date": 1426896403292
+      "type": "fork",
+      "date": 1426940515535
     },
     {
       "type": "edit",
       "id": "7b56f22a4b9ee974",
       "item": {
-        "text": "Welcome to this [[Federated Wiki]] site. ",
+        "text": "This is [[Esben Sørig]]'s experimental federated wiki site",
         "id": "7b56f22a4b9ee974",
         "type": "paragraph"
       },
-      "date": 1426896612001
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "29ac1f5de7f480b1",
-        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
-      },
-      "id": "29ac1f5de7f480b1",
-      "type": "add",
-      "after": "7b56f22a4b9ee974",
-      "date": 1426896612018
+      "date": 1426940571488
     },
     {
       "type": "edit",
-      "id": "29ac1f5de7f480b1",
+      "id": "7b56f22a4b9ee974",
       "item": {
-        "type": "paragraph",
-        "id": "29ac1f5de7f480b1",
-        "text": " "
+        "text": "Welcome to [[Esben Sørig]]'s experimental federated wiki site",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
       },
-      "date": 1426896612772
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "43ed088565de4740",
-        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
-      },
-      "id": "43ed088565de4740",
-      "type": "add",
-      "after": "29ac1f5de7f480b1",
-      "date": 1426896612780
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "d1d3a1a8e52e5cc0",
-        "text": ""
-      },
-      "id": "d1d3a1a8e52e5cc0",
-      "type": "add",
-      "after": "29ac1f5de7f480b1",
-      "date": 1426896612792
-    },
-    {
-      "type": "edit",
-      "id": "d1d3a1a8e52e5cc0",
-      "item": {
-        "type": "paragraph",
-        "id": "d1d3a1a8e52e5cc0",
-        "text": " "
-      },
-      "date": 1426896613933
+      "date": 1426940578297
     },
     {
       "type": "remove",
-      "id": "7710b5771698e30e",
-      "date": 1426896613938
+      "id": "821827c99b90cfd1",
+      "date": 1426940583822
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f3ef6b18246297c"
+      },
+      "id": "1f3ef6b18246297c",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940588769
     },
     {
       "type": "edit",
-      "id": "767d570ba13226c8",
+      "id": "1f3ef6b18246297c",
       "item": {
         "type": "paragraph",
-        "id": "767d570ba13226c8",
-        "text": " "
+        "id": "1f3ef6b18246297c",
+        "text": "[[People I Follow]]"
       },
-      "date": 1426896614246
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "99a5a54163268f47",
-        "text": ""
-      },
-      "id": "99a5a54163268f47",
-      "type": "add",
-      "after": "767d570ba13226c8",
-      "date": 1426896614263
-    },
-    {
-      "type": "remove",
-      "id": "99a5a54163268f47",
-      "date": 1426896618031
-    },
-    {
-      "type": "fork",
-      "site": "nicolas.federatedwiki.org"
+      "date": 1426940598880
     },
     {
       "type": "remove",
       "id": "63ad2e58eecdd9e5",
-      "date": 1426939163044
-    },
-    {
-      "type": "edit",
-      "id": "92a7d6e45298795b",
-      "item": {
-        "type": "paragraph",
-        "id": "92a7d6e45298795b",
-        "text": "This is a personal wiki of [[Esben Sørig]] kept for the purpose of exploring the federated wiki concept. "
-      },
-      "date": 1426939184029
-    },
-    {
-      "type": "edit",
-      "id": "43ed088565de4740",
-      "item": {
-        "type": "paragraph",
-        "id": "43ed088565de4740",
-        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topic]]"
-      },
-      "date": 1426939628399
-    },
-    {
-      "item": {
-        "type": "paragraph",
-        "id": "c23ec1e2893a4844",
-        "text": ""
-      },
-      "id": "c23ec1e2893a4844",
-      "type": "add",
-      "after": "43ed088565de4740",
-      "date": 1426939628428
+      "date": 1426940692655
     },
     {
       "type": "remove",
-      "id": "c23ec1e2893a4844",
-      "date": 1426939632192
+      "id": "2bbd646ff3f44b51",
+      "date": 1426940697255
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1426940698478
     },
     {
       "type": "edit",
-      "id": "43ed088565de4740",
+      "id": "ee416d431ebf4fb4",
       "item": {
         "type": "paragraph",
-        "id": "43ed088565de4740",
-        "text": "From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate. [[Academic Topics]]"
+        "id": "ee416d431ebf4fb4",
+        "text": "[[Recent Changes]]"
       },
-      "date": 1426939634095
+      "date": 1426940737965
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "1f3ef6b18246297c",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "ee416d431ebf4fb4",
+      "date": 1426940740358
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2a62da4d0df8f930",
+        "text": ""
+      },
+      "id": "2a62da4d0df8f930",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426940769482
+    },
+    {
+      "type": "edit",
+      "id": "2a62da4d0df8f930",
+      "item": {
+        "type": "paragraph",
+        "id": "2a62da4d0df8f930",
+        "text": "[[Exploring the federated wiki]]"
+      },
+      "date": 1426940776782
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f036a02c56cb6fd9",
+        "text": ""
+      },
+      "id": "f036a02c56cb6fd9",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426940784347
+    },
+    {
+      "type": "edit",
+      "id": "f036a02c56cb6fd9",
+      "item": {
+        "type": "paragraph",
+        "id": "f036a02c56cb6fd9",
+        "text": "[[Academic topics]]"
+      },
+      "date": 1426940790717
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to [[Esben Sørig]]'s experimental federated wiki site.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1426940804667
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4bd79f8ae79835c5",
+        "text": ""
+      },
+      "id": "4bd79f8ae79835c5",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1426940804740
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e967783a7be73c5"
+      },
+      "id": "2e967783a7be73c5",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940811112
+    },
+    {
+      "type": "remove",
+      "id": "4bd79f8ae79835c5",
+      "date": 1426940812988
+    },
+    {
+      "type": "edit",
+      "id": "2e967783a7be73c5",
+      "item": {
+        "type": "markdown",
+        "id": "2e967783a7be73c5",
+        "text": "### Topics"
+      },
+      "date": 1426940822446
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "f036a02c56cb6fd9",
+        "2a62da4d0df8f930",
+        "1f3ef6b18246297c",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "2e967783a7be73c5",
+      "date": 1426940824676
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21ba7c67d5e0b0da"
+      },
+      "id": "21ba7c67d5e0b0da",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940827725
+    },
+    {
+      "type": "edit",
+      "id": "21ba7c67d5e0b0da",
+      "item": {
+        "type": "paragraph",
+        "id": "21ba7c67d5e0b0da",
+        "text": "## People"
+      },
+      "date": 1426940832590
+    },
+    {
+      "type": "remove",
+      "id": "21ba7c67d5e0b0da",
+      "date": 1426940837613
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6da64b3c2f159906"
+      },
+      "id": "6da64b3c2f159906",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940838750
+    },
+    {
+      "type": "edit",
+      "id": "6da64b3c2f159906",
+      "item": {
+        "type": "markdown",
+        "id": "6da64b3c2f159906",
+        "text": "### People"
+      },
+      "date": 1426940843439
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "f036a02c56cb6fd9",
+        "2a62da4d0df8f930",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "6da64b3c2f159906",
+      "date": 1426940845702
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "12e4bc73e195860d"
+      },
+      "id": "12e4bc73e195860d",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940850159
+    },
+    {
+      "type": "remove",
+      "id": "12e4bc73e195860d",
+      "date": 1426940854189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57be5f9f3a0b9d7c"
+      },
+      "id": "57be5f9f3a0b9d7c",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1426940855192
+    },
+    {
+      "type": "edit",
+      "id": "57be5f9f3a0b9d7c",
+      "item": {
+        "type": "markdown",
+        "id": "57be5f9f3a0b9d7c",
+        "text": "### Other"
+      },
+      "date": 1426940859159
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "f036a02c56cb6fd9",
+        "2a62da4d0df8f930",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "57be5f9f3a0b9d7c",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "57be5f9f3a0b9d7c",
+      "date": 1426940861391
     }
   ]
 }

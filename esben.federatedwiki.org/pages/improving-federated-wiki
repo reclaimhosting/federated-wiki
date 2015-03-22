@@ -2,8 +2,14 @@
   "title": "Improving federated wiki",
   "story": [
     {
-      "type": "factory",
-      "id": "a61095e866c3a157"
+      "type": "paragraph",
+      "id": "a61095e866c3a157",
+      "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
+    },
+    {
+      "type": "paragraph",
+      "id": "57d64641dcf608c6",
+      "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages."
     }
   ],
   "journal": [
@@ -23,6 +29,56 @@
       "id": "a61095e866c3a157",
       "type": "add",
       "date": 1427025527079
+    },
+    {
+      "type": "edit",
+      "id": "a61095e866c3a157",
+      "item": {
+        "type": "paragraph",
+        "id": "a61095e866c3a157",
+        "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware about the reasoning behind the design choices of federated wiki"
+      },
+      "date": 1427025666174
+    },
+    {
+      "type": "edit",
+      "id": "a61095e866c3a157",
+      "item": {
+        "type": "paragraph",
+        "id": "a61095e866c3a157",
+        "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware about the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
+      },
+      "date": 1427025751173
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57d64641dcf608c6"
+      },
+      "id": "57d64641dcf608c6",
+      "type": "add",
+      "after": "a61095e866c3a157",
+      "date": 1427025752670
+    },
+    {
+      "type": "edit",
+      "id": "57d64641dcf608c6",
+      "item": {
+        "type": "paragraph",
+        "id": "57d64641dcf608c6",
+        "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages."
+      },
+      "date": 1427026075009
+    },
+    {
+      "type": "edit",
+      "id": "a61095e866c3a157",
+      "item": {
+        "type": "paragraph",
+        "id": "a61095e866c3a157",
+        "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
+      },
+      "date": 1427026101012
     }
   ]
 }

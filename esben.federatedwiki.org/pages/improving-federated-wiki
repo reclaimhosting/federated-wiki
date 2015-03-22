@@ -7,9 +7,24 @@
       "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
     },
     {
+      "type": "pagefold",
+      "id": "50f0b759b037d091",
+      "text": "Navigation"
+    },
+    {
       "type": "paragraph",
       "id": "57d64641dcf608c6",
-      "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages."
+      "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages. However, I think much can be improved both in terms first time users confusion over the navigation, as well as more advanced users understanding of the neighbourhood, origin of information, and more advanced contextual combinations."
+    },
+    {
+      "type": "pagefold",
+      "id": "d464b2658afa2f1f",
+      "text": "Merging"
+    },
+    {
+      "type": "paragraph",
+      "id": "826ce79a5d409b8d",
+      "text": "On merging: [[Question: How can I merge changes from forks?]]"
     }
   ],
   "journal": [
@@ -79,6 +94,87 @@
         "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
       },
       "date": 1427026101012
+    },
+    {
+      "type": "edit",
+      "id": "57d64641dcf608c6",
+      "item": {
+        "type": "paragraph",
+        "id": "57d64641dcf608c6",
+        "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages. However, I think much can be improved both in terms first time users confusion over the navigation, as well as more advanced users understanding of the neighbourhood, origin of information, and more advanced contextual combinations across the navigation tree / neighbourhood. "
+      },
+      "date": 1427026342230
+    },
+    {
+      "type": "edit",
+      "id": "57d64641dcf608c6",
+      "item": {
+        "type": "paragraph",
+        "id": "57d64641dcf608c6",
+        "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages. However, I think much can be improved both in terms first time users confusion over the navigation, as well as more advanced users understanding of the neighbourhood, origin of information, and more advanced contextual combinations."
+      },
+      "date": 1427026380633
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50f0b759b037d091"
+      },
+      "id": "50f0b759b037d091",
+      "type": "add",
+      "after": "57d64641dcf608c6",
+      "date": 1427026392292
+    },
+    {
+      "type": "edit",
+      "id": "50f0b759b037d091",
+      "item": {
+        "type": "pagefold",
+        "id": "50f0b759b037d091",
+        "text": "Navigation"
+      },
+      "date": 1427026398893
+    },
+    {
+      "type": "move",
+      "order": [
+        "a61095e866c3a157",
+        "50f0b759b037d091",
+        "57d64641dcf608c6"
+      ],
+      "id": "50f0b759b037d091",
+      "date": 1427026401120
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d464b2658afa2f1f"
+      },
+      "id": "d464b2658afa2f1f",
+      "type": "add",
+      "after": "57d64641dcf608c6",
+      "date": 1427026708569
+    },
+    {
+      "type": "edit",
+      "id": "d464b2658afa2f1f",
+      "item": {
+        "type": "pagefold",
+        "id": "d464b2658afa2f1f",
+        "text": "Merging"
+      },
+      "date": 1427026716946
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "826ce79a5d409b8d",
+        "text": "On merging: [[Question: How can I merge changes from forks?]]"
+      },
+      "after": "d464b2658afa2f1f",
+      "id": "826ce79a5d409b8d",
+      "date": 1427026724999
     }
   ]
 }

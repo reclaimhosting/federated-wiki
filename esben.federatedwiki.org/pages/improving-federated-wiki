@@ -29,7 +29,12 @@
     {
       "type": "paragraph",
       "id": "6b3892a2cc5e6275",
-      "text": ""
+      "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (i.e. all descendants of the page I am replacing). "
+    },
+    {
+      "type": "paragraph",
+      "id": "bd310376286a46ff",
+      "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, instead of only the rightmost one). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
     },
     {
       "type": "pagefold",
@@ -295,6 +300,87 @@
       "type": "add",
       "after": "46b0d1cfb060a3d9",
       "date": 1427027314931
+    },
+    {
+      "type": "edit",
+      "id": "6b3892a2cc5e6275",
+      "item": {
+        "type": "paragraph",
+        "id": "6b3892a2cc5e6275",
+        "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (the "
+      },
+      "date": 1427027365283
+    },
+    {
+      "type": "edit",
+      "id": "6b3892a2cc5e6275",
+      "item": {
+        "type": "paragraph",
+        "id": "6b3892a2cc5e6275",
+        "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (i.e. all descendants of the page I am replacing). "
+      },
+      "date": 1427027536861
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": ""
+      },
+      "id": "bd310376286a46ff",
+      "type": "add",
+      "after": "6b3892a2cc5e6275",
+      "date": 1427027538593
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear). Dragging in pages from other sites should not be dependent on drag and drop between tabs on the browser (again, this could still exist, but a new way of doing it that is ub"
+      },
+      "date": 1427027712404
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear). Dragging in pages from other sites should not be dependent on drag and drop between tabs on the browser (again, this could still exist, but a new way of doing it that is "
+      },
+      "date": 1427027751412
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear). Dragging in pages from other sites should not be dependent on drag and drop between tabs on the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
+      },
+      "date": 1427027798325
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, instead of only the rightmost one). Dragging in pages from other sites should not be dependent on drag and drop between tabs on the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
+      },
+      "date": 1427027822731
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, instead of only the rightmost one). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
+      },
+      "date": 1427027839095
     }
   ]
 }

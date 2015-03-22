@@ -1,0 +1,113 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "reference",
+      "id": "7ef2bfc366c51c16",
+      "site": "h2.ward.asia.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I'm pleased to participate in federated wiki happenings. I sometimes write a bit defensively about the wiki technology. I also have broad interests and will try to contribute here on subjects of interest to this community."
+    },
+    {
+      "type": "reference",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+      "site": "rosano.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+    },
+    {
+      "type": "reference",
+      "id": "9ffa716f1213aab8",
+      "site": "ward.fed.wiki.org",
+      "title": "Welcome Visitors",
+      "text": "Welcome to the Federated Wiki."
+    },
+    {
+      "type": "reference",
+      "id": "22c0b5dbed7a2115",
+      "site": "code.fed.wiki.org",
+      "title": "Welcome Visitors",
+      "text": "This wiki is about my life's work writing software."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1427023354565
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
+        "site": "rosano.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
+      },
+      "id": "63ad2e58eecdd9e5",
+      "date": 1427023359262
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "7ef2bfc366c51c16",
+        "site": "h2.ward.asia.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I'm pleased to participate in federated wiki happenings. I sometimes write a bit defensively about the wiki technology. I also have broad interests and will try to contribute here on subjects of interest to this community."
+      },
+      "id": "7ef2bfc366c51c16",
+      "date": 1427023362501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9ffa716f1213aab8"
+      },
+      "id": "9ffa716f1213aab8",
+      "type": "add",
+      "after": "63ad2e58eecdd9e5",
+      "date": 1427023413602
+    },
+    {
+      "type": "edit",
+      "id": "9ffa716f1213aab8",
+      "item": {
+        "type": "reference",
+        "id": "9ffa716f1213aab8",
+        "site": "ward.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "Welcome to the Federated Wiki."
+      },
+      "date": 1427023415821
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22c0b5dbed7a2115"
+      },
+      "id": "22c0b5dbed7a2115",
+      "type": "add",
+      "after": "9ffa716f1213aab8",
+      "date": 1427023496465
+    },
+    {
+      "type": "edit",
+      "id": "22c0b5dbed7a2115",
+      "item": {
+        "type": "reference",
+        "id": "22c0b5dbed7a2115",
+        "site": "code.fed.wiki.org",
+        "title": "Welcome Visitors",
+        "text": "This wiki is about my life's work writing software."
+      },
+      "date": 1427023502557
+    }
+  ]
+}

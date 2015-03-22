@@ -31,19 +31,9 @@
       "text": "Nicolas Collignon"
     },
     {
-      "type": "reference",
-      "id": "63ad2e58eecdd9e5",
-      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.<br><br>Make all pages here yours alone with the login below.",
-      "site": "rosano.federatedwiki.org",
-      "title": "Ward Cunningham",
-      "text": "I wrote [[Federated Wiki]] while I served as Nike's open-data fellow. I currently work for [[NewRelic]] in Portland, Oregon."
-    },
-    {
-      "type": "reference",
-      "id": "7ef2bfc366c51c16",
-      "site": "h2.ward.asia.wiki.org",
-      "title": "Ward Cunningham",
-      "text": "I'm pleased to participate in federated wiki happenings. I sometimes write a bit defensively about the wiki technology. I also have broad interests and will try to contribute here on subjects of interest to this community."
+      "type": "paragraph",
+      "id": "62e5df80fb8f2b88",
+      "text": "[[Ward Cunningham]] has many wikis"
     },
     {
       "type": "reference",
@@ -771,6 +761,59 @@
         "text": "I've worked in educational technology since the 1990s. I'm currently exploring applications of federated wiki to education. Most of my day is spent helping faculty integrate technology into teaching as Washington State University Vancouver as the Director of Blended and Networked Learning."
       },
       "date": 1426951697207
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62e5df80fb8f2b88"
+      },
+      "id": "62e5df80fb8f2b88",
+      "type": "add",
+      "after": "f26847772710248a",
+      "date": 1427023309197
+    },
+    {
+      "type": "edit",
+      "id": "62e5df80fb8f2b88",
+      "item": {
+        "type": "paragraph",
+        "id": "62e5df80fb8f2b88",
+        "text": "[[Ward]] has many wikis"
+      },
+      "date": 1427023327489
+    },
+    {
+      "type": "edit",
+      "id": "62e5df80fb8f2b88",
+      "item": {
+        "type": "paragraph",
+        "id": "62e5df80fb8f2b88",
+        "text": "[[Ward Cunningham]] has many wikis"
+      },
+      "date": 1427023343299
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1427023359260
+    },
+    {
+      "type": "remove",
+      "id": "7ef2bfc366c51c16",
+      "date": 1427023362499
+    },
+    {
+      "type": "move",
+      "order": [
+        "573196d27a765df0",
+        "f036a2be92017364",
+        "fa111646b0d1bf6d",
+        "edd49f1bd38e296e",
+        "62e5df80fb8f2b88",
+        "f26847772710248a"
+      ],
+      "id": "62e5df80fb8f2b88",
+      "date": 1427023365562
     }
   ]
 }

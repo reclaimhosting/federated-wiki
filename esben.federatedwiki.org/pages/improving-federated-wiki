@@ -24,12 +24,12 @@
     {
       "type": "paragraph",
       "id": "46b0d1cfb060a3d9",
-      "text": "The tree has different kinds of nodes. Nodes that belong to the same server as the root (white pages), pages that belong to other servers / roots (blue pages), and pages that are a locally stored augmentation of the neighbourhood tree (yellow pages)."
+      "text": "The tree has different kinds of nodes. Nodes that belong to the same server as the root (white pages), pages that belong to other servers / roots (blue pages), and pages that are a locally stored augmentation of the neighbourhood tree (yellow pages). There are also green ones (plugin pages?) but I don't completely understand how they fit in."
     },
     {
       "type": "paragraph",
       "id": "6b3892a2cc5e6275",
-      "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (i.e. all descendants of the page I am replacing). "
+      "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (i.e. all descendants of the page I am replacing). I should also be able to make arbitrary pages disappear (in case I want to compare two pages, but these two pages are separated by three levels of navigation)"
     },
     {
       "type": "paragraph",
@@ -43,17 +43,12 @@
     },
     {
       "type": "paragraph",
-      "id": "826ce79a5d409b8d",
-      "text": "On merging: [[Question: How can I merge changes from forks?]]"
-    },
-    {
-      "type": "paragraph",
       "id": "08fba3f5fecae532",
       "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed. This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
     },
     {
       "type": "paragraph",
-      "id": "9f03bc2d1863a66a",
+      "id": "826ce79a5d409b8d",
       "text": "On merging: [[Question: How can I merge changes from forks?]]"
     }
   ],
@@ -381,6 +376,48 @@
         "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, instead of only the rightmost one). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
       },
       "date": 1427027839095
+    },
+    {
+      "type": "edit",
+      "id": "46b0d1cfb060a3d9",
+      "item": {
+        "type": "paragraph",
+        "id": "46b0d1cfb060a3d9",
+        "text": "The tree has different kinds of nodes. Nodes that belong to the same server as the root (white pages), pages that belong to other servers / roots (blue pages), and pages that are a locally stored augmentation of the neighbourhood tree (yellow pages). There are also green ones (plugin pages?) but I don't completely understand how they fit in."
+      },
+      "date": 1427028079982
+    },
+    {
+      "type": "edit",
+      "id": "6b3892a2cc5e6275",
+      "item": {
+        "type": "paragraph",
+        "id": "6b3892a2cc5e6275",
+        "text": "Displaying this kind of structure in the interface should make it obvious which pages will disappear when I click an internal link (i.e. all descendants of the page I am replacing). I should also be able to make arbitrary pages disappear (in case I want to compare two pages, but these two pages are separated by three levels of navigation)"
+      },
+      "date": 1427028202974
+    },
+    {
+      "type": "remove",
+      "id": "9f03bc2d1863a66a",
+      "date": 1427028366883
+    },
+    {
+      "type": "move",
+      "order": [
+        "a61095e866c3a157",
+        "50f0b759b037d091",
+        "57d64641dcf608c6",
+        "8476cdfd23723227",
+        "46b0d1cfb060a3d9",
+        "6b3892a2cc5e6275",
+        "bd310376286a46ff",
+        "d464b2658afa2f1f",
+        "08fba3f5fecae532",
+        "826ce79a5d409b8d"
+      ],
+      "id": "08fba3f5fecae532",
+      "date": 1427028372931
     }
   ]
 }

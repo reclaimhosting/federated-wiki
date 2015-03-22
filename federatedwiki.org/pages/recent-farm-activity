@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ae79102bd7fb7e2d"
+      "id": "4e5c5a2fd196aabf"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "d3a9a3e5eac04c88"
+      "id": "da320bf6f7a7cbde"
+    },
+    {
+      "date": 1427023801000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "64948f5924957f29"
     },
     {
       "date": 1427023564000,
@@ -18,50 +27,55 @@
       "title": "Ward Cunningham",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 25 pages.",
       "type": "reference",
-      "id": "49152b565e014285"
-    },
-    {
-      "date": 1427023202000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "a2d86aad76c10b1c"
+      "id": "ab8b489e9f975f56"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b8bc412ada65a7af",
+      "id": "c0047d9a7a2b0225",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427023801000
+      "date": 1427024401000
     },
     {
       "type": "add",
-      "id": "ae79102bd7fb7e2d",
+      "id": "4e5c5a2fd196aabf",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ae79102bd7fb7e2d"
+        "id": "4e5c5a2fd196aabf"
       },
-      "date": 1427023801000
+      "date": 1427024401000
     },
     {
       "type": "add",
-      "id": "d3a9a3e5eac04c88",
+      "id": "da320bf6f7a7cbde",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "d3a9a3e5eac04c88"
+        "id": "da320bf6f7a7cbde"
       },
-      "date": 1427023801000
+      "date": 1427024401000
     },
     {
       "type": "add",
-      "id": "49152b565e014285",
+      "id": "64948f5924957f29",
+      "item": {
+        "date": 1427023801000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "64948f5924957f29"
+      },
+      "date": 1427024401000
+    },
+    {
+      "type": "add",
+      "id": "ab8b489e9f975f56",
       "item": {
         "date": 1427023564000,
         "site": "esben.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "Ward Cunningham",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 25 pages.",
         "type": "reference",
-        "id": "49152b565e014285"
+        "id": "ab8b489e9f975f56"
       },
-      "date": 1427023801000
-    },
-    {
-      "type": "add",
-      "id": "a2d86aad76c10b1c",
-      "item": {
-        "date": 1427023202000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "a2d86aad76c10b1c"
-      },
-      "date": 1427023801000
+      "date": 1427024401000
     }
   ]
 }

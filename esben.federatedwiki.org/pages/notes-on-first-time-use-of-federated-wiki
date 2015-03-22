@@ -1,0 +1,225 @@
+{
+  "title": "Notes on first time use of federated wiki",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "a3204b261b82b43d",
+      "text": "### Notes on first time use of federated wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a7ea1d7f690507b",
+      "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae605738c6221bb3",
+      "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki, it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
+    },
+    {
+      "type": "paragraph",
+      "id": "c8bd41dcfb94e7c3",
+      "text": "Navigation is confusing. How do I close a page? "
+    },
+    {
+      "type": "paragraph",
+      "id": "831c89af6aa37ad9",
+      "text": "Interesting discussion: [http://fed.wiki.org/more-about-browsing-and-linking-sites.html More about browsing and linking]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3cc5cce2d4d6e343",
+      "text": "I can't exactly figure out how you \"follow\" someone like in Mike Caulfield's lifecycle video [https://www.youtube.com/watch?v=2Gi9SRsRrE4&list=UUQ0dKDgVskAtKU4lN3cAHxg&spfreload=10 youtube]"
+    },
+    {
+      "type": "html",
+      "id": "dd04eae9bb626d00",
+      "text": "<h3>Trying to understand federated wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2523b6034e3069a",
+      "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
+    },
+    {
+      "type": "paragraph",
+      "id": "6f486b5909d7ff5a",
+      "text": "Update 1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+    },
+    {
+      "type": "paragraph",
+      "id": "523d1143b010bda6",
+      "text": "Update 3: when the changes you make cannot be saved on your wiki server (because you are not logged in or for some other reason), the changes are stored in the browser's local storage and the page turns yellow. You can save the local changes to the server by clicking the \"⚑\" on the yellow page (provided you are logged in to your wiki)."
+    },
+    {
+      "type": "paragraph",
+      "id": "81335cc61e9eef6a",
+      "text": "Update 2: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+    },
+    {
+      "type": "paragraph",
+      "id": "9845927f52f05b77",
+      "text": "Update 4: I've figured out how the whole \"local storage\" thing works, but I am still experiencing randomly loosing changes I make."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Notes on first time use of federated wiki",
+        "story": []
+      },
+      "date": 1427025409463
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "a3204b261b82b43d",
+        "text": "### Notes on first time use of federated wiki"
+      },
+      "id": "a3204b261b82b43d",
+      "date": 1427025413398
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7a7ea1d7f690507b",
+        "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
+      },
+      "after": "a3204b261b82b43d",
+      "id": "7a7ea1d7f690507b",
+      "date": 1427025416344
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ae605738c6221bb3",
+        "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki, it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
+      },
+      "after": "7a7ea1d7f690507b",
+      "id": "ae605738c6221bb3",
+      "date": 1427025418350
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c8bd41dcfb94e7c3",
+        "text": "Navigation is confusing. How do I close a page? "
+      },
+      "after": "ae605738c6221bb3",
+      "id": "c8bd41dcfb94e7c3",
+      "date": 1427025421340
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "831c89af6aa37ad9",
+        "text": "Interesting discussion: [http://fed.wiki.org/more-about-browsing-and-linking-sites.html More about browsing and linking]"
+      },
+      "after": "c8bd41dcfb94e7c3",
+      "id": "831c89af6aa37ad9",
+      "date": 1427025424666
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3cc5cce2d4d6e343",
+        "text": "I can't exactly figure out how you \"follow\" someone like in Mike Caulfield's lifecycle video [https://www.youtube.com/watch?v=2Gi9SRsRrE4&list=UUQ0dKDgVskAtKU4lN3cAHxg&spfreload=10 youtube]"
+      },
+      "after": "831c89af6aa37ad9",
+      "id": "3cc5cce2d4d6e343",
+      "date": 1427025427668
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "dd04eae9bb626d00",
+        "text": "<h3>Trying to understand federated wiki"
+      },
+      "after": "3cc5cce2d4d6e343",
+      "id": "dd04eae9bb626d00",
+      "date": 1427025431514
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a2523b6034e3069a",
+        "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
+      },
+      "after": "dd04eae9bb626d00",
+      "id": "a2523b6034e3069a",
+      "date": 1427025433936
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6f486b5909d7ff5a",
+        "text": "Update 1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
+      },
+      "after": "a2523b6034e3069a",
+      "id": "6f486b5909d7ff5a",
+      "date": 1427025437806
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "81335cc61e9eef6a",
+        "text": "Update 2: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
+      },
+      "after": "6f486b5909d7ff5a",
+      "id": "81335cc61e9eef6a",
+      "date": 1427025443199
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "523d1143b010bda6",
+        "text": "Update 3: when the changes you make cannot be saved on your wiki server (because you are not logged in or for some other reason), the changes are stored in the browser's local storage and the page turns yellow. You can save the local changes to the server by clicking the \"⚑\" on the yellow page (provided you are logged in to your wiki)."
+      },
+      "after": "6f486b5909d7ff5a",
+      "id": "523d1143b010bda6",
+      "date": 1427025456041
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9845927f52f05b77",
+        "text": "Update 4: I've figured out how the whole \"local storage\" thing works, but I am still experiencing randomly loosing changes I make."
+      },
+      "after": "a2523b6034e3069a",
+      "id": "9845927f52f05b77",
+      "date": 1427025462951
+    },
+    {
+      "type": "move",
+      "order": [
+        "a3204b261b82b43d",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "523d1143b010bda6",
+        "81335cc61e9eef6a",
+        "9845927f52f05b77"
+      ],
+      "id": "9845927f52f05b77",
+      "date": 1427025466032
+    }
+  ]
+}

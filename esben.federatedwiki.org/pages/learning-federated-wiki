@@ -1,0 +1,142 @@
+{
+  "title": "Learning federated wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d4d2d16a6586e49c",
+      "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
+    },
+    {
+      "type": "pagefold",
+      "id": "9134a829d4b8bb45",
+      "text": "Other resources"
+    },
+    {
+      "type": "paragraph",
+      "id": "e170ea18fc390c4c",
+      "text": "Basic usage info [[How To Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7815219d5d739bf4",
+      "text": "Interesting/enlightening discussion: [[Alternate Vision]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8d265a178d6005f0",
+      "text": "Many answers to frustrating scenarios described below can be found here: [[Lost My Origin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "826ce79a5d409b8d",
+      "text": "On merging: [[Question: How can I merge changes from forks?]]"
+    },
+    {
+      "type": "reference",
+      "id": "69f73601dbf37133",
+      "site": "video.fed.wiki.org",
+      "title": "Federated Wiki Videos",
+      "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learning federated wiki",
+        "story": []
+      },
+      "date": 1427025333814
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "d4d2d16a6586e49c",
+        "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
+      },
+      "id": "d4d2d16a6586e49c",
+      "date": 1427025336250
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "9134a829d4b8bb45",
+        "text": "Other resources"
+      },
+      "after": "d4d2d16a6586e49c",
+      "id": "9134a829d4b8bb45",
+      "date": 1427025341908
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e170ea18fc390c4c",
+        "text": "Basic usage info [[How To Wiki]]"
+      },
+      "after": "9134a829d4b8bb45",
+      "id": "e170ea18fc390c4c",
+      "date": 1427025347437
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7815219d5d739bf4",
+        "text": "Interesting/enlightening discussion: [[Alternate Vision]]"
+      },
+      "after": "e170ea18fc390c4c",
+      "id": "7815219d5d739bf4",
+      "date": 1427025350544
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8d265a178d6005f0",
+        "text": "Many answers to frustrating scenarios described below can be found here: [[Lost My Origin]]"
+      },
+      "after": "d4d2d16a6586e49c",
+      "id": "8d265a178d6005f0",
+      "date": 1427025351824
+    },
+    {
+      "type": "move",
+      "order": [
+        "d4d2d16a6586e49c",
+        "9134a829d4b8bb45",
+        "e170ea18fc390c4c",
+        "7815219d5d739bf4",
+        "8d265a178d6005f0"
+      ],
+      "id": "8d265a178d6005f0",
+      "date": 1427025355261
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "826ce79a5d409b8d",
+        "text": "On merging: [[Question: How can I merge changes from forks?]]"
+      },
+      "after": "8d265a178d6005f0",
+      "id": "826ce79a5d409b8d",
+      "date": 1427025359404
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "69f73601dbf37133",
+        "site": "video.fed.wiki.org",
+        "title": "Federated Wiki Videos",
+        "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+      },
+      "after": "826ce79a5d409b8d",
+      "id": "69f73601dbf37133",
+      "date": 1427025362813
+    }
+  ]
+}

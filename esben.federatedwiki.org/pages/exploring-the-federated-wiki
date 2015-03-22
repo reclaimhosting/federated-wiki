@@ -14,49 +14,27 @@
     {
       "type": "paragraph",
       "id": "35d0d02c918cd7ad",
-      "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
-    },
-    {
-      "type": "pagefold",
-      "id": "9134a829d4b8bb45",
-      "text": "Other resources"
+      "text": " "
     },
     {
       "type": "paragraph",
-      "id": "e170ea18fc390c4c",
-      "text": "Basic usage info [[How To Wiki]]"
+      "id": "1e63deab6c559732",
+      "text": "[[Learning federated wiki]]"
     },
     {
       "type": "paragraph",
-      "id": "7815219d5d739bf4",
-      "text": "Interesting/enlightening discussion: [[Alternate Vision]]"
+      "id": "0e91dddcc75e4854",
+      "text": "[[Notes on first time use of federated wiki]]"
     },
     {
       "type": "paragraph",
-      "id": "8d265a178d6005f0",
-      "text": "Many answers to frustrating scenarios described below can be found here: [[Lost My Origin]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "826ce79a5d409b8d",
-      "text": "On merging: [[Question: How can I merge changes from forks?]]"
-    },
-    {
-      "type": "reference",
-      "id": "69f73601dbf37133",
-      "site": "video.fed.wiki.org",
-      "title": "Federated Wiki Videos",
-      "text": "These pages chronicle the Smallest Federated Wiki project and report its latest achievements with a series of short screencasts."
+      "id": "f6d4e1294dc9cd67",
+      "text": "[[Improving federated wiki]]"
     },
     {
       "type": "paragraph",
       "id": "7e7fa407b1e6174f",
       "text": ""
-    },
-    {
-      "type": "markdown",
-      "id": "a3204b261b82b43d",
-      "text": "### Notes on first time use of federated wiki"
     },
     {
       "type": "paragraph",
@@ -65,63 +43,8 @@
     },
     {
       "type": "paragraph",
-      "id": "7a7ea1d7f690507b",
-      "text": "The frontend of the federated wiki seems quite unstable. I have experienced making edits on pages that are not saved. This is probably an issue with the interface not properly giving feedback as to when it has actually saved edits."
-    },
-    {
-      "type": "paragraph",
-      "id": "ae605738c6221bb3",
-      "text": "Also, wikis like [http://federatedwiki.org/how-to-wiki.html this] seem extremely slow to load pages sometimes. When I click a link on the how-to wiki, it usually just gives me an empty page with the correct title. After a while the content appears. Not a good impression."
-    },
-    {
-      "type": "paragraph",
       "id": "cae2df416b0e5288",
       "text": " "
-    },
-    {
-      "type": "paragraph",
-      "id": "c8bd41dcfb94e7c3",
-      "text": "Navigation is confusing. How do I close a page? "
-    },
-    {
-      "type": "paragraph",
-      "id": "831c89af6aa37ad9",
-      "text": "Interesting discussion: [http://fed.wiki.org/more-about-browsing-and-linking-sites.html More about browsing and linking]"
-    },
-    {
-      "type": "paragraph",
-      "id": "3cc5cce2d4d6e343",
-      "text": "I can't exactly figure out how you \"follow\" someone like in Mike Caulfield's lifecycle video [https://www.youtube.com/watch?v=2Gi9SRsRrE4&list=UUQ0dKDgVskAtKU4lN3cAHxg&spfreload=10 youtube]"
-    },
-    {
-      "type": "html",
-      "id": "dd04eae9bb626d00",
-      "text": "<h3>Trying to understand federated wiki"
-    },
-    {
-      "type": "paragraph",
-      "id": "a2523b6034e3069a",
-      "text": "ARGH! I think I was accidentally signed out of my wiki without me noticing it. When I started editing pages every page turned yellow and now has the fork symbol in its history. I apparently can't edit the original(?)/yellow page anymore. I am however able to edit the page that appears when I click the fork symbol in the history journal of the yellow page. Total confusion."
-    },
-    {
-      "type": "paragraph",
-      "id": "6f486b5909d7ff5a",
-      "text": "Update 1: when I switch browser the pages that were yellow before are now white and the changes I tried to make (on the page that appeared when clicking the fork button of the yellow page) appear on the page the way I wanted it. It seems the \"fork\"/yellow page is stored in the browsers local storage or something. Not intuitive at all."
-    },
-    {
-      "type": "paragraph",
-      "id": "81335cc61e9eef6a",
-      "text": "Update 2: after clearing safaris local storage for federatedwiki.org things are back to normal. Still super weird though."
-    },
-    {
-      "type": "paragraph",
-      "id": "523d1143b010bda6",
-      "text": "Update 3: when the changes you make cannot be saved on your wiki server (because you are not logged in or for some other reason), the changes are stored in the browser's local storage and the page turns yellow. You can save the local changes to the server by clicking the \"⚑\" on the yellow page (provided you are logged in to your wiki)."
-    },
-    {
-      "type": "paragraph",
-      "id": "9845927f52f05b77",
-      "text": "Update 4: I've figured out how the whole \"local storage\" thing works, but I am still experiencing randomly loosing changes I make."
     },
     {
       "type": "paragraph",
@@ -1235,6 +1158,243 @@
     {
       "type": "fork",
       "date": 1426962955960
+    },
+    {
+      "type": "edit",
+      "id": "35d0d02c918cd7ad",
+      "item": {
+        "type": "paragraph",
+        "id": "35d0d02c918cd7ad",
+        "text": " "
+      },
+      "date": 1427025303263
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1e63deab6c559732",
+        "text": "[[Learning federated wiki]]"
+      },
+      "id": "1e63deab6c559732",
+      "type": "add",
+      "after": "35d0d02c918cd7ad",
+      "date": 1427025303294
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d4d2d16a6586e49c",
+        "text": "I've found that the best resource for learning the basics of federated wiki is [[Mike Caulfield]]'s page on [[Things You Must Do]]. Below I have also written some notes on my initial experience with the federated wiki. These notes may be helpful for future contributions to the federated wiki project."
+      },
+      "id": "d4d2d16a6586e49c",
+      "type": "add",
+      "after": "35d0d02c918cd7ad",
+      "date": 1427025303293
+    },
+    {
+      "type": "edit",
+      "id": "1e63deab6c559732",
+      "item": {
+        "type": "paragraph",
+        "id": "1e63deab6c559732",
+        "text": "[[Learning federated wiki]]"
+      },
+      "date": 1427025315220
+    },
+    {
+      "type": "move",
+      "order": [
+        "d4d2d16a6586e49c",
+        "6eb50cf6b6934bfb",
+        "773a37332adabb3c",
+        "35d0d02c918cd7ad",
+        "1e63deab6c559732",
+        "9134a829d4b8bb45",
+        "e170ea18fc390c4c",
+        "7815219d5d739bf4",
+        "8d265a178d6005f0",
+        "826ce79a5d409b8d",
+        "69f73601dbf37133",
+        "7e7fa407b1e6174f",
+        "a3204b261b82b43d",
+        "d2bc8eba97cf8e58",
+        "7a7ea1d7f690507b",
+        "ae605738c6221bb3",
+        "cae2df416b0e5288",
+        "c8bd41dcfb94e7c3",
+        "831c89af6aa37ad9",
+        "3cc5cce2d4d6e343",
+        "dd04eae9bb626d00",
+        "a2523b6034e3069a",
+        "6f486b5909d7ff5a",
+        "81335cc61e9eef6a",
+        "523d1143b010bda6",
+        "9845927f52f05b77",
+        "79b5aa219550e6a1"
+      ],
+      "id": "d4d2d16a6586e49c",
+      "date": 1427025324421,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1427025332238
+    },
+    {
+      "type": "remove",
+      "id": "d4d2d16a6586e49c",
+      "date": 1427025336249
+    },
+    {
+      "type": "remove",
+      "id": "9134a829d4b8bb45",
+      "date": 1427025341906
+    },
+    {
+      "type": "remove",
+      "id": "e170ea18fc390c4c",
+      "date": 1427025347435
+    },
+    {
+      "type": "remove",
+      "id": "7815219d5d739bf4",
+      "date": 1427025350542
+    },
+    {
+      "type": "remove",
+      "id": "8d265a178d6005f0",
+      "date": 1427025351822
+    },
+    {
+      "type": "remove",
+      "id": "826ce79a5d409b8d",
+      "date": 1427025359403
+    },
+    {
+      "type": "remove",
+      "id": "69f73601dbf37133",
+      "date": 1427025362811
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e91dddcc75e4854",
+        "text": ""
+      },
+      "id": "0e91dddcc75e4854",
+      "type": "add",
+      "after": "1e63deab6c559732",
+      "date": 1427025377127
+    },
+    {
+      "type": "edit",
+      "id": "0e91dddcc75e4854",
+      "item": {
+        "type": "paragraph",
+        "id": "0e91dddcc75e4854",
+        "text": "[[Notes on first time use of federated wiki]]"
+      },
+      "date": 1427025392555
+    },
+    {
+      "type": "remove",
+      "id": "a3204b261b82b43d",
+      "date": 1427025413396
+    },
+    {
+      "type": "remove",
+      "id": "7a7ea1d7f690507b",
+      "date": 1427025416343
+    },
+    {
+      "type": "remove",
+      "id": "ae605738c6221bb3",
+      "date": 1427025418348
+    },
+    {
+      "type": "remove",
+      "id": "c8bd41dcfb94e7c3",
+      "date": 1427025421338
+    },
+    {
+      "type": "remove",
+      "id": "831c89af6aa37ad9",
+      "date": 1427025424665
+    },
+    {
+      "type": "remove",
+      "id": "3cc5cce2d4d6e343",
+      "date": 1427025427666
+    },
+    {
+      "type": "remove",
+      "id": "dd04eae9bb626d00",
+      "date": 1427025431513
+    },
+    {
+      "type": "remove",
+      "id": "a2523b6034e3069a",
+      "date": 1427025433935
+    },
+    {
+      "type": "remove",
+      "id": "6f486b5909d7ff5a",
+      "date": 1427025437805
+    },
+    {
+      "type": "remove",
+      "id": "81335cc61e9eef6a",
+      "date": 1427025443197
+    },
+    {
+      "type": "remove",
+      "id": "523d1143b010bda6",
+      "date": 1427025456040
+    },
+    {
+      "type": "remove",
+      "id": "9845927f52f05b77",
+      "date": 1427025462950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "edcd4613cb328a0b"
+      },
+      "id": "edcd4613cb328a0b",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "date": 1427025491918
+    },
+    {
+      "type": "remove",
+      "id": "edcd4613cb328a0b",
+      "date": 1427025502111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f6d4e1294dc9cd67",
+        "text": ""
+      },
+      "id": "f6d4e1294dc9cd67",
+      "type": "add",
+      "after": "0e91dddcc75e4854",
+      "date": 1427025513845
+    },
+    {
+      "type": "edit",
+      "id": "f6d4e1294dc9cd67",
+      "item": {
+        "type": "paragraph",
+        "id": "f6d4e1294dc9cd67",
+        "text": "[[Improving federated wiki]]"
+      },
+      "date": 1427025520316
     }
   ]
 }

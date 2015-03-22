@@ -30,6 +30,11 @@
       "type": "paragraph",
       "id": "44b7d57252d1ae98",
       "text": "Alt-M: Show/Hide Mixer Window"
+    },
+    {
+      "type": "paragraph",
+      "id": "31dbbae687af1623",
+      "text": "rm -r .pulse"
     }
   ],
   "journal": [
@@ -260,6 +265,27 @@
         "text": "Ardour Keyboard Shortcuts"
       },
       "date": 1422236660206
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "31dbbae687af1623",
+        "text": ""
+      },
+      "id": "31dbbae687af1623",
+      "type": "add",
+      "after": "44b7d57252d1ae98",
+      "date": 1427050125674
+    },
+    {
+      "type": "edit",
+      "id": "31dbbae687af1623",
+      "item": {
+        "type": "paragraph",
+        "id": "31dbbae687af1623",
+        "text": "rm -r .pulse"
+      },
+      "date": 1427050129596
     }
   ]
 }

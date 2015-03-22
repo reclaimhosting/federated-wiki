@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "228beb93c7e33faf"
+      "id": "eb3db63e9fc6463f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ccd26616433c601d"
+      "id": "013cd05af724771c"
+    },
+    {
+      "date": 1427028601000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "049309cac9a6c823"
     },
     {
       "date": 1427028434000,
@@ -18,50 +27,55 @@
       "title": "Improving federated wiki",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 28 pages.",
       "type": "reference",
-      "id": "6b4a9cdcb472e743"
-    },
-    {
-      "date": 1427028001000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "9896eba05c2cd24d"
+      "id": "a6e9a2036630d855"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "9ae5a0365e7222de",
+      "id": "505d611263b2d350",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427028601000
+      "date": 1427029201000
     },
     {
       "type": "add",
-      "id": "228beb93c7e33faf",
+      "id": "eb3db63e9fc6463f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "228beb93c7e33faf"
+        "id": "eb3db63e9fc6463f"
       },
-      "date": 1427028601000
+      "date": 1427029201000
     },
     {
       "type": "add",
-      "id": "ccd26616433c601d",
+      "id": "013cd05af724771c",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ccd26616433c601d"
+        "id": "013cd05af724771c"
       },
-      "date": 1427028601000
+      "date": 1427029201000
     },
     {
       "type": "add",
-      "id": "6b4a9cdcb472e743",
+      "id": "049309cac9a6c823",
+      "item": {
+        "date": 1427028601000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "049309cac9a6c823"
+      },
+      "date": 1427029201000
+    },
+    {
+      "type": "add",
+      "id": "a6e9a2036630d855",
       "item": {
         "date": 1427028434000,
         "site": "esben.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "Improving federated wiki",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 28 pages.",
         "type": "reference",
-        "id": "6b4a9cdcb472e743"
+        "id": "a6e9a2036630d855"
       },
-      "date": 1427028601000
-    },
-    {
-      "type": "add",
-      "id": "9896eba05c2cd24d",
-      "item": {
-        "date": 1427028001000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "9896eba05c2cd24d"
-      },
-      "date": 1427028601000
+      "date": 1427029201000
     }
   ]
 }

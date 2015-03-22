@@ -17,6 +17,21 @@
       "text": "Navigation needs improvement. Currently very complex navigational structures are projected down to a linear sequence of pages. This makes it very easy to compare multiple pages, understand them within each others contexts, and simplifies editing across pages. However, I think much can be improved both in terms first time users confusion over the navigation, as well as more advanced users understanding of the neighbourhood, origin of information, and more advanced contextual combinations."
     },
     {
+      "type": "paragraph",
+      "id": "8476cdfd23723227",
+      "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start a new root node displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This paradigm needs to be ingrained in the user interface and in a way that makes navigation obvious."
+    },
+    {
+      "type": "paragraph",
+      "id": "46b0d1cfb060a3d9",
+      "text": "The tree has different kinds of nodes. Nodes that belong to the same server as the root (white pages), pages that belong to other servers / roots (blue pages), and pages that are a locally stored augmentation of the neighbourhood tree (yellow pages)."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b3892a2cc5e6275",
+      "text": ""
+    },
+    {
       "type": "pagefold",
       "id": "d464b2658afa2f1f",
       "text": "Merging"
@@ -24,6 +39,16 @@
     {
       "type": "paragraph",
       "id": "826ce79a5d409b8d",
+      "text": "On merging: [[Question: How can I merge changes from forks?]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "08fba3f5fecae532",
+      "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed. This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
+    },
+    {
+      "type": "paragraph",
+      "id": "9f03bc2d1863a66a",
       "text": "On merging: [[Question: How can I merge changes from forks?]]"
     }
   ],
@@ -175,6 +200,101 @@
       "after": "d464b2658afa2f1f",
       "id": "826ce79a5d409b8d",
       "date": 1427026724999
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f03bc2d1863a66a",
+        "text": "On merging: [[Question: How can I merge changes from forks?]]"
+      },
+      "id": "9f03bc2d1863a66a",
+      "type": "add",
+      "after": "826ce79a5d409b8d",
+      "date": 1427026744799
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "08fba3f5fecae532",
+        "text": ""
+      },
+      "id": "08fba3f5fecae532",
+      "type": "add",
+      "after": "826ce79a5d409b8d",
+      "date": 1427026744799
+    },
+    {
+      "type": "edit",
+      "id": "08fba3f5fecae532",
+      "item": {
+        "type": "paragraph",
+        "id": "08fba3f5fecae532",
+        "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed. This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
+      },
+      "date": 1427026931301
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8476cdfd23723227",
+        "text": ""
+      },
+      "id": "8476cdfd23723227",
+      "type": "add",
+      "after": "57d64641dcf608c6",
+      "date": 1427026956740
+    },
+    {
+      "type": "edit",
+      "id": "8476cdfd23723227",
+      "item": {
+        "type": "paragraph",
+        "id": "8476cdfd23723227",
+        "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start a new root node displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This navigational structure needs to be ingrained "
+      },
+      "date": 1427027166319
+    },
+    {
+      "type": "edit",
+      "id": "8476cdfd23723227",
+      "item": {
+        "type": "paragraph",
+        "id": "8476cdfd23723227",
+        "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start a new root node displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This paradigm needs to be ingrained in the user interface and in a way that makes navigation obvious."
+      },
+      "date": 1427027201802
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "46b0d1cfb060a3d9",
+        "text": ""
+      },
+      "id": "46b0d1cfb060a3d9",
+      "type": "add",
+      "after": "8476cdfd23723227",
+      "date": 1427027203598
+    },
+    {
+      "type": "edit",
+      "id": "46b0d1cfb060a3d9",
+      "item": {
+        "type": "paragraph",
+        "id": "46b0d1cfb060a3d9",
+        "text": "The tree has different kinds of nodes. Nodes that belong to the same server as the root (white pages), pages that belong to other servers / roots (blue pages), and pages that are a locally stored augmentation of the neighbourhood tree (yellow pages)."
+      },
+      "date": 1427027313535
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6b3892a2cc5e6275",
+        "text": ""
+      },
+      "id": "6b3892a2cc5e6275",
+      "type": "add",
+      "after": "46b0d1cfb060a3d9",
+      "date": 1427027314931
     }
   ]
 }

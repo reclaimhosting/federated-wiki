@@ -714,6 +714,59 @@
       "type": "remove",
       "id": "2cc79aeb79b838b0",
       "date": 1426945515030
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab18914bf1d88a07"
+      },
+      "id": "ab18914bf1d88a07",
+      "type": "add",
+      "after": "a17b53ae6768622f",
+      "date": 1427049977994,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "ab18914bf1d88a07",
+      "item": {
+        "type": "paragraph",
+        "id": "ab18914bf1d88a07",
+        "text": "[[People who like nutmeg]]"
+      },
+      "date": 1427050002400,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "ab18914bf1d88a07",
+      "date": 1427050026082,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1427050028272,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1427106563417
     }
   ]
 }

@@ -29,7 +29,7 @@
     {
       "type": "code",
       "id": "bb32494ba85e35b4",
-      "text": "$ npm install -g wiki"
+      "text": "$ sudo npm install -g wiki"
     },
     {
       "type": "paragraph",
@@ -354,6 +354,16 @@
         "text": "The wiki is now running on the default node port on localhost. [http://localhost:3000 localhost]"
       },
       "date": 1427115842496
+    },
+    {
+      "type": "edit",
+      "id": "bb32494ba85e35b4",
+      "item": {
+        "type": "code",
+        "id": "bb32494ba85e35b4",
+        "text": "$ sudo npm install -g wiki"
+      },
+      "date": 1427122787600
     }
   ]
 }

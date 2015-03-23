@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "339f942b6c8a9a4f"
+      "id": "78acf538cec6bec1"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f69846825e9d80af"
+      "id": "036566d1a3f17d38"
+    },
+    {
+      "date": 1427107802000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "4e3a460ae15fd51d"
     },
     {
       "date": 1427107294000,
@@ -18,16 +27,7 @@
       "title": "Ward Cunningham",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 29 pages.",
       "type": "reference",
-      "id": "1a66c3f0f414e9f7"
-    },
-    {
-      "date": 1427107201000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "1ec608b805a5158f"
+      "id": "237e932d9d53a88a"
     },
     {
       "date": 1427050190000,
@@ -36,41 +36,55 @@
       "title": "Recording",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "922290639b145c60"
+      "id": "363fcd2133df86e4"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "c0df1c229e95d6bf",
+      "id": "76daec41935727f2",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427107802000
+      "date": 1427108401000
     },
     {
       "type": "add",
-      "id": "339f942b6c8a9a4f",
+      "id": "78acf538cec6bec1",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "339f942b6c8a9a4f"
+        "id": "78acf538cec6bec1"
       },
-      "date": 1427107802000
+      "date": 1427108401000
     },
     {
       "type": "add",
-      "id": "f69846825e9d80af",
+      "id": "036566d1a3f17d38",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f69846825e9d80af"
+        "id": "036566d1a3f17d38"
       },
-      "date": 1427107802000
+      "date": 1427108401000
     },
     {
       "type": "add",
-      "id": "1a66c3f0f414e9f7",
+      "id": "4e3a460ae15fd51d",
+      "item": {
+        "date": 1427107802000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "4e3a460ae15fd51d"
+      },
+      "date": 1427108401000
+    },
+    {
+      "type": "add",
+      "id": "237e932d9d53a88a",
       "item": {
         "date": 1427107294000,
         "site": "esben.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Ward Cunningham",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 29 pages.",
         "type": "reference",
-        "id": "1a66c3f0f414e9f7"
+        "id": "237e932d9d53a88a"
       },
-      "date": 1427107802000
+      "date": 1427108401000
     },
     {
       "type": "add",
-      "id": "1ec608b805a5158f",
-      "item": {
-        "date": 1427107201000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "1ec608b805a5158f"
-      },
-      "date": 1427107802000
-    },
-    {
-      "type": "add",
-      "id": "922290639b145c60",
+      "id": "363fcd2133df86e4",
       "item": {
         "date": 1427050190000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Recording",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "922290639b145c60"
+        "id": "363fcd2133df86e4"
       },
-      "date": 1427107802000
+      "date": 1427108401000
     }
   ]
 }

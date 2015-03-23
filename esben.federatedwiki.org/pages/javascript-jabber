@@ -1,0 +1,118 @@
+{
+  "title": "Javascript Jabber",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e962ccad4099e24b",
+      "text": "Ward discusses federated wiki with the Jabber panel Charles Max Wood, Jamison Dance and Dave Smith."
+    },
+    {
+      "type": "paragraph",
+      "id": "6b07df87a7ae0561",
+      "text": "Audio only. 54 minutes. [http://devchat.tv/js-jabber/135-jsj-smallest-federated-wiki-with-ward-cunningham post]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Javascript Jabber",
+        "story": []
+      },
+      "date": 1417203159844
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65e832e22f867ab8"
+      },
+      "id": "65e832e22f867ab8",
+      "type": "add",
+      "date": 1417203174084
+    },
+    {
+      "type": "remove",
+      "id": "65e832e22f867ab8",
+      "date": 1417203219414
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68a6317ef17a30e0"
+      },
+      "id": "68a6317ef17a30e0",
+      "type": "add",
+      "date": 1417203221586
+    },
+    {
+      "type": "edit",
+      "id": "68a6317ef17a30e0",
+      "item": {
+        "type": "code",
+        "id": "68a6317ef17a30e0",
+        "text": "DISCUSSION:\n02:00 - Ward Cunningham Introduction\ntwitter\ngithub\nblog\nwiki\n03:03 - Smallest-Federated-Wiki\nfedwiki\n06:31 - The Object Model\nParagraph Plugin\nThe Method Calculator\n07:42 - “Federated” Defined\nHow it Works\nCreative Commons    \n13:55 - Getting Started\n15:53 - Single-Page Application Development\nBrowserify\nThe Dependency Hierarchy Upside Down\n18:36 - The Lineup\n23:32 - Consistency, Maintaining Order, and Diversity\n27:10 - Creating Conversations\n28:42 - Participating\n32:26 - Style Appeal\n33:49 - Objections to Use\n35:36 - Community Moderation\nWiki Spam\n42:29 - Blogging Replacement?"
+      },
+      "date": 1417203226064
+    },
+    {
+      "type": "remove",
+      "id": "68a6317ef17a30e0",
+      "date": 1417203245458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e962ccad4099e24b"
+      },
+      "id": "e962ccad4099e24b",
+      "type": "add",
+      "date": 1417203279145
+    },
+    {
+      "type": "edit",
+      "id": "e962ccad4099e24b",
+      "item": {
+        "type": "paragraph",
+        "id": "e962ccad4099e24b",
+        "text": "Ward discusses federated wiki with the Jabber panel Charles Max Wood, Jamison Dance and Dave Smith."
+      },
+      "date": 1417203326111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6b07df87a7ae0561",
+        "text": ""
+      },
+      "id": "6b07df87a7ae0561",
+      "type": "add",
+      "after": "e962ccad4099e24b",
+      "date": 1417203340577
+    },
+    {
+      "type": "edit",
+      "id": "6b07df87a7ae0561",
+      "item": {
+        "type": "paragraph",
+        "id": "6b07df87a7ae0561",
+        "text": "Audio only. 54 minutes. [[http://devchat.tv/js-jabber/135-jsj-smallest-federated-wiki-with-ward-cunningham post]"
+      },
+      "date": 1417203362713
+    },
+    {
+      "type": "edit",
+      "id": "6b07df87a7ae0561",
+      "item": {
+        "type": "paragraph",
+        "id": "6b07df87a7ae0561",
+        "text": "Audio only. 54 minutes. [http://devchat.tv/js-jabber/135-jsj-smallest-federated-wiki-with-ward-cunningham post]"
+      },
+      "date": 1417203368558
+    },
+    {
+      "type": "fork",
+      "site": "video.fed.wiki.org",
+      "date": 1427109496679
+    }
+  ]
+}

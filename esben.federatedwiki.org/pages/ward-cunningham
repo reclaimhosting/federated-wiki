@@ -2,6 +2,11 @@
   "title": "Ward Cunningham",
   "story": [
     {
+      "type": "paragraph",
+      "id": "2259f3ff94c54bb7",
+      "text": "Cunningham on [[Doing it For Free]]"
+    },
+    {
       "type": "reference",
       "id": "7ef2bfc366c51c16",
       "site": "h2.ward.asia.wiki.org",
@@ -108,6 +113,38 @@
         "text": "This wiki is about my life's work writing software."
       },
       "date": 1427023502557
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2259f3ff94c54bb7"
+      },
+      "id": "2259f3ff94c54bb7",
+      "type": "add",
+      "after": "22c0b5dbed7a2115",
+      "date": 1427107209417
+    },
+    {
+      "type": "edit",
+      "id": "2259f3ff94c54bb7",
+      "item": {
+        "type": "paragraph",
+        "id": "2259f3ff94c54bb7",
+        "text": "Cunningham on [[Doing it For Free]]"
+      },
+      "date": 1427107220949
+    },
+    {
+      "type": "move",
+      "order": [
+        "2259f3ff94c54bb7",
+        "7ef2bfc366c51c16",
+        "63ad2e58eecdd9e5",
+        "9ffa716f1213aab8",
+        "22c0b5dbed7a2115"
+      ],
+      "id": "2259f3ff94c54bb7",
+      "date": 1427107233792
     }
   ]
 }

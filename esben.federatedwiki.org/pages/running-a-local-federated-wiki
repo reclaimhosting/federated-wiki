@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "7f6dca90853f1721",
-      "text": "It's easy to run a wiki on your local machine. The local wiki will not be visible to others on the web, but it will be part of your own neighbourhood, meaning you can link/fork/etc to wikis on the web from the local wiki and all drag and drop features work between local and public wikis."
+      "text": "It's easy to run a wiki on your local machine. The local wiki will not be visible to others on the web, but it will be part of your own neighbourhood, meaning you can link/fork/etc to wikis on the web from the local wiki and all drag-drop features work between local and public wikis."
     },
     {
       "type": "paragraph",
@@ -40,6 +40,11 @@
       "type": "code",
       "id": "c13e6cb1c3614519",
       "text": "$ wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "95dfd29bc98e7c4b",
+      "text": "The wiki is now running on the default node port on localhost. [http://localhost:3000 localhost]"
     }
   ],
   "journal": [
@@ -239,6 +244,116 @@
         "text": "$ brew install node"
       },
       "date": 1427115529575
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95dfd29bc98e7c4b"
+      },
+      "id": "95dfd29bc98e7c4b",
+      "type": "add",
+      "after": "c13e6cb1c3614519",
+      "date": 1427115573895
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://localhost:3000/ wiki ]"
+      },
+      "date": 1427115604010
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://localhost:3000/  wiki ]"
+      },
+      "date": 1427115608509
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://localhost:3000  wiki ]"
+      },
+      "date": 1427115656300
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://localhost  wiki ]"
+      },
+      "date": 1427115662964
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://google.com  wiki ]"
+      },
+      "date": 1427115667428
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [ http://google.com/  wiki ]"
+      },
+      "date": 1427115669756
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [http://localhost:3000 wiki]"
+      },
+      "date": 1427115737513
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on local host. [http://localhost:3000 localhost]"
+      },
+      "date": 1427115753171
+    },
+    {
+      "type": "edit",
+      "id": "7f6dca90853f1721",
+      "item": {
+        "type": "paragraph",
+        "id": "7f6dca90853f1721",
+        "text": "It's easy to run a wiki on your local machine. The local wiki will not be visible to others on the web, but it will be part of your own neighbourhood, meaning you can link/fork/etc to wikis on the web from the local wiki and all drag-drop features work between local and public wikis."
+      },
+      "date": 1427115790613
+    },
+    {
+      "type": "edit",
+      "id": "95dfd29bc98e7c4b",
+      "item": {
+        "type": "paragraph",
+        "id": "95dfd29bc98e7c4b",
+        "text": "The wiki is now running on the default node port on localhost. [http://localhost:3000 localhost]"
+      },
+      "date": 1427115842496
     }
   ]
 }

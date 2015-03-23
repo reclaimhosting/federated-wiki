@@ -2,8 +2,44 @@
   "title": "Running a local federated wiki",
   "story": [
     {
-      "type": "factory",
-      "id": "7f6dca90853f1721"
+      "type": "paragraph",
+      "id": "7f6dca90853f1721",
+      "text": "It's easy to run a wiki on your local machine. The local wiki will not be visible to others on the web, but it will be part of your own neighbourhood, meaning you can link/fork/etc to wikis on the web from the local wiki and all drag and drop features work between local and public wikis."
+    },
+    {
+      "type": "paragraph",
+      "id": "48cc2de1ab7c5b81",
+      "text": "This may be useful for work in progress or for personal notes. However, in the wiki philosophy, remember to publish everything anyone else might find interesting in order to contribute to the federation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "a4d2b8a056dbe3ee",
+      "text": "Starting a local wiki requires node.js. On OS X:"
+    },
+    {
+      "type": "code",
+      "id": "af0715ce9adc1b71",
+      "text": "$ brew install node"
+    },
+    {
+      "type": "paragraph",
+      "id": "53a0bfe469181a34",
+      "text": "Then install wiki"
+    },
+    {
+      "type": "code",
+      "id": "bb32494ba85e35b4",
+      "text": "$ npm install -g wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "1a4080c0175e323f",
+      "text": "Now start the wiki"
+    },
+    {
+      "type": "code",
+      "id": "c13e6cb1c3614519",
+      "text": "$ wiki"
     }
   ],
   "journal": [
@@ -23,6 +59,186 @@
       "id": "7f6dca90853f1721",
       "type": "add",
       "date": 1427114827090
+    },
+    {
+      "type": "edit",
+      "id": "7f6dca90853f1721",
+      "item": {
+        "type": "paragraph",
+        "id": "7f6dca90853f1721",
+        "text": "It's easy to run a wiki on your local machine. The local wiki will not be visible to others on the web, but it will be part of your own neighbourhood, meaning you can link/fork/etc to wikis on the web from the local wiki and all drag and drop features work between local and public wikis."
+      },
+      "date": 1427115047210
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48cc2de1ab7c5b81"
+      },
+      "id": "48cc2de1ab7c5b81",
+      "type": "add",
+      "after": "7f6dca90853f1721",
+      "date": 1427115048477
+    },
+    {
+      "type": "edit",
+      "id": "48cc2de1ab7c5b81",
+      "item": {
+        "type": "paragraph",
+        "id": "48cc2de1ab7c5b81",
+        "text": "This may be useful for work in progress or for personal notes. However, in the wiki philosophy, remember to publish everything anyone else might find interesting in order to contribute to the federation. "
+      },
+      "date": 1427115298797
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4d2b8a056dbe3ee"
+      },
+      "id": "a4d2b8a056dbe3ee",
+      "type": "add",
+      "after": "48cc2de1ab7c5b81",
+      "date": 1427115302056
+    },
+    {
+      "type": "edit",
+      "id": "a4d2b8a056dbe3ee",
+      "item": {
+        "type": "paragraph",
+        "id": "a4d2b8a056dbe3ee",
+        "text": "Starting a local wiki requires node.js. On OS X:"
+      },
+      "date": 1427115340660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af0715ce9adc1b71"
+      },
+      "id": "af0715ce9adc1b71",
+      "type": "add",
+      "after": "a4d2b8a056dbe3ee",
+      "date": 1427115347502
+    },
+    {
+      "type": "edit",
+      "id": "af0715ce9adc1b71",
+      "item": {
+        "type": "code",
+        "id": "af0715ce9adc1b71",
+        "text": "brew install node"
+      },
+      "date": 1427115351795
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53a0bfe469181a34"
+      },
+      "id": "53a0bfe469181a34",
+      "type": "add",
+      "after": "af0715ce9adc1b71",
+      "date": 1427115360532
+    },
+    {
+      "type": "edit",
+      "id": "53a0bfe469181a34",
+      "item": {
+        "type": "paragraph",
+        "id": "53a0bfe469181a34",
+        "text": "Then install wiki"
+      },
+      "date": 1427115372501
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb32494ba85e35b4"
+      },
+      "id": "bb32494ba85e35b4",
+      "type": "add",
+      "after": "53a0bfe469181a34",
+      "date": 1427115373529
+    },
+    {
+      "type": "edit",
+      "id": "bb32494ba85e35b4",
+      "item": {
+        "type": "code",
+        "id": "bb32494ba85e35b4",
+        "text": "npm install wiki"
+      },
+      "date": 1427115377746
+    },
+    {
+      "type": "edit",
+      "id": "bb32494ba85e35b4",
+      "item": {
+        "type": "code",
+        "id": "bb32494ba85e35b4",
+        "text": "npm install -g wiki"
+      },
+      "date": 1427115506095
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a4080c0175e323f"
+      },
+      "id": "1a4080c0175e323f",
+      "type": "add",
+      "after": "bb32494ba85e35b4",
+      "date": 1427115507798
+    },
+    {
+      "type": "edit",
+      "id": "1a4080c0175e323f",
+      "item": {
+        "type": "paragraph",
+        "id": "1a4080c0175e323f",
+        "text": "Now start the wiki"
+      },
+      "date": 1427115513302
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c13e6cb1c3614519"
+      },
+      "id": "c13e6cb1c3614519",
+      "type": "add",
+      "after": "1a4080c0175e323f",
+      "date": 1427115517071
+    },
+    {
+      "type": "edit",
+      "id": "c13e6cb1c3614519",
+      "item": {
+        "type": "code",
+        "id": "c13e6cb1c3614519",
+        "text": "$ wiki"
+      },
+      "date": 1427115523887
+    },
+    {
+      "type": "edit",
+      "id": "bb32494ba85e35b4",
+      "item": {
+        "type": "code",
+        "id": "bb32494ba85e35b4",
+        "text": "$ npm install -g wiki"
+      },
+      "date": 1427115526807
+    },
+    {
+      "type": "edit",
+      "id": "af0715ce9adc1b71",
+      "item": {
+        "type": "code",
+        "id": "af0715ce9adc1b71",
+        "text": "$ brew install node"
+      },
+      "date": 1427115529575
     }
   ]
 }

@@ -28,6 +28,11 @@
     },
     {
       "type": "paragraph",
+      "id": "85e37f7c3543f314",
+      "text": "[[Forking as liking]]"
+    },
+    {
+      "type": "paragraph",
       "id": "f6d4e1294dc9cd67",
       "text": "In my notes on [[Improving federated wiki]] I am writing down the ideas that come to my mind as I am learning. These notes may be useful for myself or other developers for future contributions to federated wiki."
     },
@@ -1468,6 +1473,45 @@
         "text": "[[Running a local federated wiki]] might be helpful when trying to understand federated wiki or for private content / preparation for publishing."
       },
       "date": 1427114821895
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85e37f7c3543f314"
+      },
+      "id": "85e37f7c3543f314",
+      "type": "add",
+      "after": "79b5aa219550e6a1",
+      "date": 1427198793846
+    },
+    {
+      "type": "move",
+      "order": [
+        "6eb50cf6b6934bfb",
+        "773a37332adabb3c",
+        "35d0d02c918cd7ad",
+        "1e63deab6c559732",
+        "dd340ba7f2f0a68c",
+        "85e37f7c3543f314",
+        "f6d4e1294dc9cd67",
+        "0e91dddcc75e4854",
+        "7e7fa407b1e6174f",
+        "d2bc8eba97cf8e58",
+        "cae2df416b0e5288",
+        "79b5aa219550e6a1"
+      ],
+      "id": "85e37f7c3543f314",
+      "date": 1427198797799
+    },
+    {
+      "type": "edit",
+      "id": "85e37f7c3543f314",
+      "item": {
+        "type": "paragraph",
+        "id": "85e37f7c3543f314",
+        "text": "[[Forking as liking]]"
+      },
+      "date": 1427198815607
     }
   ]
 }

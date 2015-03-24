@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4de088bac475d65d"
+      "id": "cb032126cde49511"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "23792df112ec4413"
+      "id": "673745eabd0970bd"
+    },
+    {
+      "date": 1427219401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "9384697ade73c3be"
     },
     {
       "date": 1427219126000,
@@ -18,16 +27,7 @@
       "title": "Papers",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
       "type": "reference",
-      "id": "d416adb9046f94d1"
-    },
-    {
-      "date": 1427218801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "ae8f34679bc84d0a"
+      "id": "89aea898170431bb"
     },
     {
       "date": 1427050190000,
@@ -36,41 +36,55 @@
       "title": "Recording",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "04a89e2c471d5627"
+      "id": "e97a47721c5e2e7d"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b73664bac0f5d7d4",
+      "id": "5fbe706497fcc4cb",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427219401000
+      "date": 1427220001000
     },
     {
       "type": "add",
-      "id": "4de088bac475d65d",
+      "id": "cb032126cde49511",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4de088bac475d65d"
+        "id": "cb032126cde49511"
       },
-      "date": 1427219401000
+      "date": 1427220001000
     },
     {
       "type": "add",
-      "id": "23792df112ec4413",
+      "id": "673745eabd0970bd",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "23792df112ec4413"
+        "id": "673745eabd0970bd"
       },
-      "date": 1427219401000
+      "date": 1427220001000
     },
     {
       "type": "add",
-      "id": "d416adb9046f94d1",
+      "id": "9384697ade73c3be",
+      "item": {
+        "date": 1427219401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "9384697ade73c3be"
+      },
+      "date": 1427220001000
+    },
+    {
+      "type": "add",
+      "id": "89aea898170431bb",
       "item": {
         "date": 1427219126000,
         "site": "esben.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Papers",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
         "type": "reference",
-        "id": "d416adb9046f94d1"
+        "id": "89aea898170431bb"
       },
-      "date": 1427219401000
+      "date": 1427220001000
     },
     {
       "type": "add",
-      "id": "ae8f34679bc84d0a",
-      "item": {
-        "date": 1427218801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "ae8f34679bc84d0a"
-      },
-      "date": 1427219401000
-    },
-    {
-      "type": "add",
-      "id": "04a89e2c471d5627",
+      "id": "e97a47721c5e2e7d",
       "item": {
         "date": 1427050190000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Recording",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "04a89e2c471d5627"
+        "id": "e97a47721c5e2e7d"
       },
-      "date": 1427219401000
+      "date": 1427220001000
     }
   ]
 }

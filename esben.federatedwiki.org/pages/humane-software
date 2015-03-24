@@ -1,0 +1,140 @@
+{
+  "title": "Humane Software",
+  "story": [
+    {
+      "type": "factory",
+      "id": "d13703cc89f1912c"
+    },
+    {
+      "type": "pagefold",
+      "id": "38744cb644cb3ec4",
+      "text": "People"
+    },
+    {
+      "type": "paragraph",
+      "id": "0413f5575b9076c8",
+      "text": "Bret Victor. [http://worrydream.com html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d3ed73d615ba808",
+      "text": "Joe Edelman. [http://nxhx.org/RedefiningSoftware/ html]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Humane Software",
+        "story": []
+      },
+      "date": 1427194757098
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38744cb644cb3ec4"
+      },
+      "id": "38744cb644cb3ec4",
+      "type": "add",
+      "date": 1427194777541
+    },
+    {
+      "type": "edit",
+      "id": "38744cb644cb3ec4",
+      "item": {
+        "type": "pagefold",
+        "id": "38744cb644cb3ec4",
+        "text": "People"
+      },
+      "date": 1427194782581
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0413f5575b9076c8"
+      },
+      "id": "0413f5575b9076c8",
+      "type": "add",
+      "after": "38744cb644cb3ec4",
+      "date": 1427194784127
+    },
+    {
+      "type": "edit",
+      "id": "0413f5575b9076c8",
+      "item": {
+        "type": "paragraph",
+        "id": "0413f5575b9076c8",
+        "text": "Bret Victor. [http://worrydream.com html]"
+      },
+      "date": 1427194803159
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f82db115e00b1075",
+        "text": ""
+      },
+      "id": "f82db115e00b1075",
+      "type": "add",
+      "after": "0413f5575b9076c8",
+      "date": 1427194803194
+    },
+    {
+      "type": "remove",
+      "id": "f82db115e00b1075",
+      "date": 1427194806010
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d3ed73d615ba808"
+      },
+      "id": "6d3ed73d615ba808",
+      "type": "add",
+      "after": "0413f5575b9076c8",
+      "date": 1427194825032
+    },
+    {
+      "type": "edit",
+      "id": "6d3ed73d615ba808",
+      "item": {
+        "type": "paragraph",
+        "id": "6d3ed73d615ba808",
+        "text": "Joe Edelman. [http://nxhx.org/RedefiningSoftware/ html]"
+      },
+      "date": 1427194836028
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d13703cc89f1912c"
+      },
+      "id": "d13703cc89f1912c",
+      "type": "add",
+      "after": "6d3ed73d615ba808",
+      "date": 1427195190014
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a2d4a3f5e6451bc4"
+      },
+      "id": "a2d4a3f5e6451bc4",
+      "type": "add",
+      "after": "6d3ed73d615ba808",
+      "date": 1427195199444
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808"
+      ],
+      "id": "d13703cc89f1912c",
+      "date": 1427195198590
+    }
+  ]
+}

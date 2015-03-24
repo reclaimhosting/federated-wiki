@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "a3d6d594afb48f3b"
+      "id": "66736be5ef4b514c"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "77d3ab17c2b7317c"
+      "id": "cc8f649e3d64b53e"
     },
     {
-      "date": 1427194204000,
+      "date": 1427195338000,
+      "site": "esben.federatedwiki.org",
+      "slug": "humane-software",
+      "title": "Humane Software",
+      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 32 pages.",
+      "type": "reference",
+      "id": "d5b33e67fb46e3c9"
+    },
+    {
+      "date": 1427194801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "ce4f5f7b59777ecb"
-    },
-    {
-      "date": 1427123353000,
-      "site": "esben.federatedwiki.org",
-      "slug": "people-i-follow",
-      "title": "People I follow",
-      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 31 pages.",
-      "type": "reference",
-      "id": "5b59e70baa188455"
+      "id": "213c8d76ec0bb719"
     },
     {
       "date": 1427050190000,
@@ -36,69 +36,69 @@
       "title": "Recording",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "34ec46b547525c65"
+      "id": "08b25e700a326925"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "e989fdf00d066cce",
+      "id": "0d9b6bc73e77a437",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427194801000
+      "date": 1427195401000
     },
     {
       "type": "add",
-      "id": "a3d6d594afb48f3b",
+      "id": "66736be5ef4b514c",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "a3d6d594afb48f3b"
+        "id": "66736be5ef4b514c"
       },
-      "date": 1427194801000
+      "date": 1427195401000
     },
     {
       "type": "add",
-      "id": "77d3ab17c2b7317c",
+      "id": "cc8f649e3d64b53e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "77d3ab17c2b7317c"
+        "id": "cc8f649e3d64b53e"
       },
-      "date": 1427194801000
+      "date": 1427195401000
     },
     {
       "type": "add",
-      "id": "ce4f5f7b59777ecb",
+      "id": "d5b33e67fb46e3c9",
       "item": {
-        "date": 1427194204000,
+        "date": 1427195338000,
+        "site": "esben.federatedwiki.org",
+        "slug": "humane-software",
+        "title": "Humane Software",
+        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 32 pages.",
+        "type": "reference",
+        "id": "d5b33e67fb46e3c9"
+      },
+      "date": 1427195401000
+    },
+    {
+      "type": "add",
+      "id": "213c8d76ec0bb719",
+      "item": {
+        "date": 1427194801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "ce4f5f7b59777ecb"
+        "id": "213c8d76ec0bb719"
       },
-      "date": 1427194801000
+      "date": 1427195401000
     },
     {
       "type": "add",
-      "id": "5b59e70baa188455",
-      "item": {
-        "date": 1427123353000,
-        "site": "esben.federatedwiki.org",
-        "slug": "people-i-follow",
-        "title": "People I follow",
-        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 31 pages.",
-        "type": "reference",
-        "id": "5b59e70baa188455"
-      },
-      "date": 1427194801000
-    },
-    {
-      "type": "add",
-      "id": "34ec46b547525c65",
+      "id": "08b25e700a326925",
       "item": {
         "date": 1427050190000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Recording",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "34ec46b547525c65"
+        "id": "08b25e700a326925"
       },
-      "date": 1427194801000
+      "date": 1427195401000
     }
   ]
 }

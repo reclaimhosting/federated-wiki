@@ -17,8 +17,19 @@
       "text": "Forking pages you find interesting also has the benefit that people who are connected to your wiki are able to discover the content you find interesting."
     },
     {
-      "type": "factory",
-      "id": "0f09d2f8681a111f"
+      "type": "paragraph",
+      "id": "0f09d2f8681a111f",
+      "text": "This model fits in most peoples existing way of browsing the web. You browse the web. You discover some interesting content. You bookmark it or store the link/content some other way. At this point some people choose to tweet it, put it on their facebook feed, or blog about it. The last step benefits the community by letting other people know about the content. Good content is shared by many different people, expanding the reach of the content. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7d8f96d1e1742030",
+      "text": "The last sharing step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
+    },
+    {
+      "type": "paragraph",
+      "id": "590adccde6839ce5",
+      "text": "Federated wiki puts you in control of what content you want to discover. People who share interests with you will want to follow you. The network values all opinions equally. Consequently, different clusters of interest will appear in the network, existing on an equal basis. "
     }
   ],
   "journal": [
@@ -110,6 +121,58 @@
       "type": "add",
       "after": "60b984c061f4b2ec",
       "date": 1427199396993
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d8f96d1e1742030",
+        "text": "This last step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
+      },
+      "id": "7d8f96d1e1742030",
+      "type": "add",
+      "after": "0f09d2f8681a111f",
+      "date": 1427199858049
+    },
+    {
+      "type": "edit",
+      "id": "0f09d2f8681a111f",
+      "item": {
+        "type": "paragraph",
+        "id": "0f09d2f8681a111f",
+        "text": "This model fits in most peoples existing way of browsing the web. You browse the web. You discover some interesting content. You bookmark it or store the link/content some other way. At this point some people choose to tweet it, put it on their facebook feed, or blog about it. The last step benefits the community by letting other people know about the content. Good content is shared by many different people, expanding the reach of the content. "
+      },
+      "date": 1427199858016
+    },
+    {
+      "type": "edit",
+      "id": "7d8f96d1e1742030",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8f96d1e1742030",
+        "text": "The last sharing step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
+      },
+      "date": 1427199875431
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "590adccde6839ce5",
+        "text": ""
+      },
+      "id": "590adccde6839ce5",
+      "type": "add",
+      "after": "7d8f96d1e1742030",
+      "date": 1427199880158
+    },
+    {
+      "type": "edit",
+      "id": "590adccde6839ce5",
+      "item": {
+        "type": "paragraph",
+        "id": "590adccde6839ce5",
+        "text": "Federated wiki puts you in control of what content you want to discover. People who share interests with you will want to follow you. The network values all opinions equally. Consequently, different clusters of interest will appear in the network, existing on an equal basis. "
+      },
+      "date": 1427200121024
     }
   ]
 }

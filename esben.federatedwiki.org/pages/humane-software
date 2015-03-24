@@ -3,21 +3,6 @@
   "story": [
     {
       "type": "pagefold",
-      "id": "d13703cc89f1912c",
-      "text": "Videos"
-    },
-    {
-      "type": "video",
-      "id": "64c9f1492293455e",
-      "text": "VIMEO 115154289\n(double-click to edit caption)\n"
-    },
-    {
-      "type": "video",
-      "id": "a2d4a3f5e6451bc4",
-      "text": "VIMEO 117389218\n(double-click to edit caption)\n"
-    },
-    {
-      "type": "pagefold",
       "id": "7e98fac87f490f2c",
       "text": "Links"
     },
@@ -30,6 +15,11 @@
       "type": "paragraph",
       "id": "d7419320191f84a0",
       "text": "Explained Visually. A great resource for understanding complex mathematical concepts. [http://setosa.io/ev/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "617d23430a98dfe1",
+      "text": "Shadershop. Direct manipulation of mathematical functions. [http://tobyschachman.com/Shadershop/ html]"
     },
     {
       "type": "pagefold",
@@ -45,6 +35,21 @@
       "type": "paragraph",
       "id": "6d3ed73d615ba808",
       "text": "Joe Edelman. [http://nxhx.org/RedefiningSoftware/ html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "d13703cc89f1912c",
+      "text": "Videos"
+    },
+    {
+      "type": "video",
+      "id": "64c9f1492293455e",
+      "text": "VIMEO 115154289\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "video",
+      "id": "a2d4a3f5e6451bc4",
+      "text": "VIMEO 117389218\n(double-click to edit caption)\n"
     }
   ],
   "journal": [
@@ -325,6 +330,75 @@
         "text": "Explained Visually. A great resource for understanding complex mathematical concepts. [http://setosa.io/ev/ html]"
       },
       "date": 1427196488658
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "64c9f1492293455e",
+        "7e98fac87f490f2c",
+        "011906307d6fed9b",
+        "d7419320191f84a0",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808",
+        "a2d4a3f5e6451bc4"
+      ],
+      "id": "a2d4a3f5e6451bc4",
+      "date": 1427197889822
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "7e98fac87f490f2c",
+        "011906307d6fed9b",
+        "d7419320191f84a0",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808",
+        "64c9f1492293455e",
+        "a2d4a3f5e6451bc4"
+      ],
+      "id": "64c9f1492293455e",
+      "date": 1427197894497
+    },
+    {
+      "type": "move",
+      "order": [
+        "7e98fac87f490f2c",
+        "011906307d6fed9b",
+        "d7419320191f84a0",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808",
+        "d13703cc89f1912c",
+        "64c9f1492293455e",
+        "a2d4a3f5e6451bc4"
+      ],
+      "id": "d13703cc89f1912c",
+      "date": 1427197897551
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "617d23430a98dfe1",
+        "text": ""
+      },
+      "id": "617d23430a98dfe1",
+      "type": "add",
+      "after": "d7419320191f84a0",
+      "date": 1427197900754
+    },
+    {
+      "type": "edit",
+      "id": "617d23430a98dfe1",
+      "item": {
+        "type": "paragraph",
+        "id": "617d23430a98dfe1",
+        "text": "Shadershop. Direct manipulation of mathematical functions. [http://tobyschachman.com/Shadershop/ html]"
+      },
+      "date": 1427197920251
     }
   ]
 }

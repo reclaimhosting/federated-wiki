@@ -41,8 +41,11 @@
       "text": "This wiki is about my life's work writing software."
     },
     {
-      "type": "factory",
-      "id": "3b131c04d31b0520"
+      "type": "reference",
+      "id": "3b131c04d31b0520",
+      "site": "forage.ward.fed.wiki.org",
+      "title": "Ward Cunningham",
+      "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
     }
   ],
   "journal": [
@@ -185,6 +188,18 @@
       "type": "add",
       "after": "22c0b5dbed7a2115",
       "date": 1427218735087
+    },
+    {
+      "type": "edit",
+      "id": "3b131c04d31b0520",
+      "item": {
+        "type": "reference",
+        "id": "3b131c04d31b0520",
+        "site": "forage.ward.fed.wiki.org",
+        "title": "Ward Cunningham",
+        "text": "I'm enjoying reading more in the federation. Here is a place that I can fork content without concern for the information architecture that results."
+      },
+      "date": 1427218752050
     }
   ]
 }

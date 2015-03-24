@@ -24,12 +24,27 @@
     {
       "type": "paragraph",
       "id": "7d8f96d1e1742030",
-      "text": "The last sharing step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
+      "text": "The last, sharing step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
     },
     {
       "type": "paragraph",
       "id": "590adccde6839ce5",
       "text": "Federated wiki puts you in control of what content you want to discover. People who share interests with you will want to follow you. The network values all opinions equally. Consequently, different clusters of interest will appear in the network, existing on an equal basis. "
+    },
+    {
+      "type": "pagefold",
+      "id": "a1206cf1e406f1dc",
+      "text": "Adjusting the content to fit in your context"
+    },
+    {
+      "type": "paragraph",
+      "id": "4006c52d995b090f",
+      "text": "When you have forked pages to your own wiki, you are free to edit them as much as you want. Maybe you realised that some idea you read about could be applied in a different context. You start moulding the content to fit in this new context, adding comments, links, and explanations. People connected to your wiki (who are likely to share your interests) will now see these new ideas and help exploring them further."
+    },
+    {
+      "type": "paragraph",
+      "id": "852f70e05500b1fc",
+      "text": "This is one of the most powerful concepts of the federated wiki."
     }
   ],
   "journal": [
@@ -173,6 +188,128 @@
         "text": "Federated wiki puts you in control of what content you want to discover. People who share interests with you will want to follow you. The network values all opinions equally. Consequently, different clusters of interest will appear in the network, existing on an equal basis. "
       },
       "date": 1427200121024
+    },
+    {
+      "type": "edit",
+      "id": "7d8f96d1e1742030",
+      "item": {
+        "type": "paragraph",
+        "id": "7d8f96d1e1742030",
+        "text": "The last, sharing step is being polluted by facebook, twitter, tumblr, etc. by focusing on the likability of the content. The lowest common denominator gets the most likes, so we end up with videos of cats being the predominant content on these platforms."
+      },
+      "date": 1427200211967
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1206cf1e406f1dc"
+      },
+      "id": "a1206cf1e406f1dc",
+      "type": "add",
+      "after": "590adccde6839ce5",
+      "date": 1427200246039
+    },
+    {
+      "type": "edit",
+      "id": "a1206cf1e406f1dc",
+      "item": {
+        "type": "pagefold",
+        "id": "a1206cf1e406f1dc",
+        "text": "Making the content your own"
+      },
+      "date": 1427200258906
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "756368650c93c6ab"
+      },
+      "id": "756368650c93c6ab",
+      "type": "add",
+      "after": "a1206cf1e406f1dc",
+      "date": 1427200261687
+    },
+    {
+      "type": "remove",
+      "id": "756368650c93c6ab",
+      "date": 1427200267092
+    },
+    {
+      "type": "edit",
+      "id": "a1206cf1e406f1dc",
+      "item": {
+        "type": "pagefold",
+        "id": "a1206cf1e406f1dc",
+        "text": "Adjusting the content to fit in your context"
+      },
+      "date": 1427200294160
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4006c52d995b090f"
+      },
+      "id": "4006c52d995b090f",
+      "type": "add",
+      "after": "a1206cf1e406f1dc",
+      "date": 1427200296211
+    },
+    {
+      "type": "edit",
+      "id": "4006c52d995b090f",
+      "item": {
+        "type": "paragraph",
+        "id": "4006c52d995b090f",
+        "text": "When you have forked pages to your own wiki, you are free to edit them as much as you want. Maybe you realised that some idea you read about could be applied in a different context. You start moulding the content to fit in this new context, adding comments, links, and explanations. Now people connected to your wiki (who are likely to share your interests) will see these new ideas and help exploring them further."
+      },
+      "date": 1427200609993
+    },
+    {
+      "type": "edit",
+      "id": "4006c52d995b090f",
+      "item": {
+        "type": "paragraph",
+        "id": "4006c52d995b090f",
+        "text": "When you have forked pages to your own wiki, you are free to edit them as much as you want. Maybe you realised that some idea you read about could be applied in a different context. You start moulding the content to fit in this new context, adding comments, links, and explanations. People connected to your wiki (who are likely to share your interests) will now see these new ideas and help exploring them further."
+      },
+      "date": 1427200642144
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "052e91bff49eafb7",
+        "text": ""
+      },
+      "id": "052e91bff49eafb7",
+      "type": "add",
+      "after": "4006c52d995b090f",
+      "date": 1427200650707
+    },
+    {
+      "type": "remove",
+      "id": "052e91bff49eafb7",
+      "date": 1427200680587
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "852f70e05500b1fc",
+        "text": ""
+      },
+      "id": "852f70e05500b1fc",
+      "type": "add",
+      "after": "4006c52d995b090f",
+      "date": 1427200689932
+    },
+    {
+      "type": "edit",
+      "id": "852f70e05500b1fc",
+      "item": {
+        "type": "paragraph",
+        "id": "852f70e05500b1fc",
+        "text": "This is one of the most powerful concepts of the federated wiki."
+      },
+      "date": 1427200706779
     }
   ]
 }

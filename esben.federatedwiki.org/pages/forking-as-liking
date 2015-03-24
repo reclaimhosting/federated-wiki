@@ -2,8 +2,23 @@
   "title": "Forking as liking",
   "story": [
     {
+      "type": "paragraph",
+      "id": "a25e854057f0c0c1",
+      "text": "When you browse the federation, you connect to many different servers. If you discover a page that you want to be able to get back to,  it is good practice to fork the page to your own wiki. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3b16e7a5ec09fb9e",
+      "text": "There is no guarantee that the wiki you found the page on is going to exist (or be online) next time you want to find the page. The page could have come from someone hosting the wiki on their own laptop, or it could have come from a tiny data collecting computer (e.g. an Arduino). Both of these are likely to be switched off or taken off the internet at some point."
+    },
+    {
+      "type": "paragraph",
+      "id": "60b984c061f4b2ec",
+      "text": "Forking pages you find interesting also has the benefit that people who are connected to your wiki are able to discover the content you find interesting."
+    },
+    {
       "type": "factory",
-      "id": "a25e854057f0c0c1"
+      "id": "0f09d2f8681a111f"
     }
   ],
   "journal": [
@@ -23,6 +38,78 @@
       "id": "a25e854057f0c0c1",
       "type": "add",
       "date": 1427198822304
+    },
+    {
+      "type": "edit",
+      "id": "a25e854057f0c0c1",
+      "item": {
+        "type": "paragraph",
+        "id": "a25e854057f0c0c1",
+        "text": "When you browse the federation, you connect to many different servers. If you discover a page that you want to be able to get back to,  it is good practice to fork the page to your own wiki. "
+      },
+      "date": 1427199204882
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3b16e7a5ec09fb9e",
+        "text": "There is no guarantee that the wiki you found the page on is going to exist (or be online) next time you want to find the page. The page could have come from someone hosting their wiki on their own laptop, or it could have come from a tiny data collecting computer (e.g. an Arduino). Both of these are likely to be switched off or taken of the internet at some point."
+      },
+      "id": "3b16e7a5ec09fb9e",
+      "type": "add",
+      "after": "a25e854057f0c0c1",
+      "date": 1427199204919
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "60b984c061f4b2ec",
+        "text": ""
+      },
+      "id": "60b984c061f4b2ec",
+      "type": "add",
+      "after": "3b16e7a5ec09fb9e",
+      "date": 1427199227124
+    },
+    {
+      "type": "edit",
+      "id": "60b984c061f4b2ec",
+      "item": {
+        "type": "paragraph",
+        "id": "60b984c061f4b2ec",
+        "text": "Forking pages you find interesting also has the benefit that people who are connected to your wiki are able to discover the content you find interesting."
+      },
+      "date": 1427199307434
+    },
+    {
+      "type": "edit",
+      "id": "3b16e7a5ec09fb9e",
+      "item": {
+        "type": "paragraph",
+        "id": "3b16e7a5ec09fb9e",
+        "text": "There is no guarantee that the wiki you found the page on is going to exist (or be online) next time you want to find the page. The page could have come from someone hosting the wiki on their own laptop, or it could have come from a tiny data collecting computer (e.g. an Arduino). Both of these are likely to be switched off or taken of the internet at some point."
+      },
+      "date": 1427199380149
+    },
+    {
+      "type": "edit",
+      "id": "3b16e7a5ec09fb9e",
+      "item": {
+        "type": "paragraph",
+        "id": "3b16e7a5ec09fb9e",
+        "text": "There is no guarantee that the wiki you found the page on is going to exist (or be online) next time you want to find the page. The page could have come from someone hosting the wiki on their own laptop, or it could have come from a tiny data collecting computer (e.g. an Arduino). Both of these are likely to be switched off or taken off the internet at some point."
+      },
+      "date": 1427199387605
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f09d2f8681a111f"
+      },
+      "id": "0f09d2f8681a111f",
+      "type": "add",
+      "after": "60b984c061f4b2ec",
+      "date": 1427199396993
     }
   ]
 }

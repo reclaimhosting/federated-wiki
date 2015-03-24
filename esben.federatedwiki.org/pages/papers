@@ -1,0 +1,65 @@
+{
+  "title": "Papers",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5f726ab719dc2276",
+      "text": "[[Norvig on Data]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1144257c0cb5daad",
+      "text": "[[Norvig on Chomsky]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Papers",
+        "story": []
+      },
+      "date": 1427217925110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f726ab719dc2276"
+      },
+      "id": "5f726ab719dc2276",
+      "type": "add",
+      "date": 1427217928008
+    },
+    {
+      "type": "edit",
+      "id": "5f726ab719dc2276",
+      "item": {
+        "type": "paragraph",
+        "id": "5f726ab719dc2276",
+        "text": "[[Norvig on Data]]"
+      },
+      "date": 1427217934241
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1144257c0cb5daad",
+        "text": ""
+      },
+      "id": "1144257c0cb5daad",
+      "type": "add",
+      "after": "5f726ab719dc2276",
+      "date": 1427218085701
+    },
+    {
+      "type": "edit",
+      "id": "1144257c0cb5daad",
+      "item": {
+        "type": "paragraph",
+        "id": "1144257c0cb5daad",
+        "text": "[[Norvig on Chomsky]]"
+      },
+      "date": 1427218091814
+    }
+  ]
+}

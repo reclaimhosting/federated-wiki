@@ -28,6 +28,11 @@
     },
     {
       "type": "markdown",
+      "id": "aa37f2f128211aa4",
+      "text": "[[Papers]]"
+    },
+    {
+      "type": "markdown",
       "id": "6da64b3c2f159906",
       "text": "### People"
     },
@@ -43,13 +48,13 @@
     },
     {
       "type": "paragraph",
-      "id": "ee416d431ebf4fb4",
-      "text": " "
+      "id": "a17b53ae6768622f",
+      "text": "[[Recent Changes]]"
     },
     {
       "type": "paragraph",
-      "id": "a17b53ae6768622f",
-      "text": "[[Recent Changes]]"
+      "id": "ee416d431ebf4fb4",
+      "text": " "
     }
   ],
   "journal": [
@@ -835,6 +840,188 @@
     {
       "type": "fork",
       "date": 1427194754695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "982c96d6d3cb9d44"
+      },
+      "id": "982c96d6d3cb9d44",
+      "type": "add",
+      "after": "a17b53ae6768622f",
+      "date": 1427217836176
+    },
+    {
+      "type": "edit",
+      "id": "982c96d6d3cb9d44",
+      "item": {
+        "type": "paragraph",
+        "id": "982c96d6d3cb9d44",
+        "text": "Papers"
+      },
+      "date": 1427217839162
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "769a1af2bd810302",
+        "text": ""
+      },
+      "id": "769a1af2bd810302",
+      "type": "add",
+      "after": "982c96d6d3cb9d44",
+      "date": 1427217839188
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "2a62da4d0df8f930",
+        "d519abe431d8b0bb",
+        "f036a02c56cb6fd9",
+        "982c96d6d3cb9d44",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "57be5f9f3a0b9d7c",
+        "ee416d431ebf4fb4",
+        "a17b53ae6768622f",
+        "769a1af2bd810302"
+      ],
+      "id": "982c96d6d3cb9d44",
+      "date": 1427217843171
+    },
+    {
+      "type": "remove",
+      "id": "769a1af2bd810302",
+      "date": 1427217845759
+    },
+    {
+      "type": "remove",
+      "id": "982c96d6d3cb9d44",
+      "date": 1427217847775
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e1500d8859f3ce1"
+      },
+      "id": "4e1500d8859f3ce1",
+      "type": "add",
+      "after": "a17b53ae6768622f",
+      "date": 1427217849020
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "2a62da4d0df8f930",
+        "d519abe431d8b0bb",
+        "f036a02c56cb6fd9",
+        "4e1500d8859f3ce1",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "57be5f9f3a0b9d7c",
+        "ee416d431ebf4fb4",
+        "a17b53ae6768622f"
+      ],
+      "id": "4e1500d8859f3ce1",
+      "date": 1427217850811
+    },
+    {
+      "type": "remove",
+      "id": "4e1500d8859f3ce1",
+      "date": 1427217866353
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c76721662fb08611"
+      },
+      "id": "c76721662fb08611",
+      "type": "add",
+      "after": "a17b53ae6768622f",
+      "date": 1427217884491
+    },
+    {
+      "type": "remove",
+      "id": "c76721662fb08611",
+      "date": 1427217895258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa37f2f128211aa4"
+      },
+      "id": "aa37f2f128211aa4",
+      "type": "add",
+      "after": "a17b53ae6768622f",
+      "date": 1427217908379
+    },
+    {
+      "type": "edit",
+      "id": "aa37f2f128211aa4",
+      "item": {
+        "type": "markdown",
+        "id": "aa37f2f128211aa4",
+        "text": "[[Papers]]"
+      },
+      "date": 1427217920766
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "2a62da4d0df8f930",
+        "d519abe431d8b0bb",
+        "f036a02c56cb6fd9",
+        "aa37f2f128211aa4",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "57be5f9f3a0b9d7c",
+        "ee416d431ebf4fb4",
+        "a17b53ae6768622f"
+      ],
+      "id": "aa37f2f128211aa4",
+      "date": 1427217923061
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "2a62da4d0df8f930",
+        "d519abe431d8b0bb",
+        "f036a02c56cb6fd9",
+        "aa37f2f128211aa4",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "a17b53ae6768622f",
+        "57be5f9f3a0b9d7c",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "a17b53ae6768622f",
+      "date": 1427217943942
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "2e967783a7be73c5",
+        "2a62da4d0df8f930",
+        "d519abe431d8b0bb",
+        "f036a02c56cb6fd9",
+        "aa37f2f128211aa4",
+        "6da64b3c2f159906",
+        "1f3ef6b18246297c",
+        "57be5f9f3a0b9d7c",
+        "a17b53ae6768622f",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "a17b53ae6768622f",
+      "date": 1427217945964
     }
   ]
 }

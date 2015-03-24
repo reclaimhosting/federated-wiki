@@ -1,0 +1,483 @@
+{
+  "title": "Norvig on Chomsky",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3468d8ab5d74f65d",
+      "text": "On Chomsky and the Two Cultures of Statistical Learning wherein Norvig responds to Chomsky's remarks in response to Steven Pinker's question about the success of probabilistic models trained with statistical methods. [http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html chomsky] [http://norvig.com/chomsky.html norvig]"
+    },
+    {
+      "type": "pagefold",
+      "id": "f98ddc5c7c573bab",
+      "text": "quotes"
+    },
+    {
+      "type": "paragraph",
+      "id": "0ade11df719ec8bc",
+      "text": "Chomsky said words to the effect that statistical language models have had some limited success in some application areas. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e5f039d6708c2bb6",
+      "text": "Let's look at computer systems that deal with language, and at the notion of \"success\" defined by \"making accurate predictions about the world.\" First, the major application areas:\nSearch engines ...\nSpeech recognition ...\nMachine translation ...\nQuestion answering ...\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0080fc2514dd2d39",
+      "text": "Now let's look at some components that are of interest only to the computational linguist, not to the end user:\nWord sense disambiguation ...\nCoreference resolution ...\nPart of speech tagging ...\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "0e5129110f6921a2",
+      "text": "Clearly, it is inaccurate to say that statistical models (and probabilistic models) have achieved limited success; rather they have achieved a dominant (although not exclusive) position.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5601b5743169cd65",
+      "text": "When Chomsky said \"That's a notion of [scientific] success that's very novel. I don't know of anything like it in the history of science\" he apparently meant that the notion of success of \"accurately modeling the world\" is novel, and that the only true measure of success in the history of science is \"providing insight\" — of answering why things are the way they are, not just describing how they are."
+    },
+    {
+      "type": "paragraph",
+      "id": "d06f5626ac8524e6",
+      "text": "Another part of Chomsky's objection is \"we cannot seriously propose that a child learns the values of 10^9 parameters in a childhood lasting only 10^8 seconds.\" (Note that modern models are much larger than the 10^9 parameters that were contemplated in the 1960s.) But of course nobody is proposing that these parameters are learned one-by-one."
+    },
+    {
+      "type": "paragraph",
+      "id": "5c72610d8fe112a7",
+      "text": "And yes, it seems clear that an adult speaker of English does know billions of language facts (for example, that one says \"big game\" rather than \"large game\" when talking about an important football game). These facts must somehow be encoded in the brain."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9c14be8615854f7",
+      "text": "Thus it seems that grammaticality is not a categorical, deterministic judgment but rather an inherently probabilistic one. This becomes clear to anyone who spends time making observations of a corpus of actual sentences, but can remain unknown to those who think that the object of study is their own set of intuitions about grammaticality."
+    },
+    {
+      "type": "paragraph",
+      "id": "c9247c3510335c24",
+      "text": "It seems that the algorithmic modeling culture is what Chomsky is objecting to most vigorously. It is not just that the models are statistical (or probabilistic), it is that they produce a form that, while accurately modeling reality, is not easily interpretable by humans, and makes no claim to correspond to the generative process used by nature."
+    },
+    {
+      "type": "paragraph",
+      "id": "9202f15a5f69e929",
+      "text": "Chomsky dislikes statistical models is that they tend to make linguistics an empirical science (a science about how people actually use language) rather than a mathematical science (an investigation of the mathematical properties of models of formal language)."
+    },
+    {
+      "type": "pagefold",
+      "id": "fe959a72424ca660",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "e227addef530e075",
+      "text": "See [[Statistical Modeling Cultures]] whose definitions Norvig relies on heavily in the least defensive part of his reply."
+    },
+    {
+      "type": "paragraph",
+      "id": "d3ef6950f3ac0502",
+      "text": "See [[One Hour Wikipedia]] where I make model building an exploratory activity."
+    },
+    {
+      "type": "paragraph",
+      "id": "fba72c331facfb3c",
+      "text": "See [[Personatron]] for a hint of my unpublished work based on emergent model building."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Norvig on Chomsky",
+        "story": []
+      },
+      "date": 1427051401095
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3468d8ab5d74f65d"
+      },
+      "id": "3468d8ab5d74f65d",
+      "type": "add",
+      "date": 1427051454659
+    },
+    {
+      "type": "edit",
+      "id": "3468d8ab5d74f65d",
+      "item": {
+        "type": "paragraph",
+        "id": "3468d8ab5d74f65d",
+        "text": "On Chomsky and the Two Cultures of Statistical Learning."
+      },
+      "date": 1427051461299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f98ddc5c7c573bab"
+      },
+      "id": "f98ddc5c7c573bab",
+      "type": "add",
+      "after": "3468d8ab5d74f65d",
+      "date": 1427051497589
+    },
+    {
+      "type": "edit",
+      "id": "3468d8ab5d74f65d",
+      "item": {
+        "type": "paragraph",
+        "id": "3468d8ab5d74f65d",
+        "text": "On Chomsky and the Two Cultures of Statistical Learning wherein Norvig responds to Chomsky's remarks"
+      },
+      "date": 1427051534106
+    },
+    {
+      "type": "edit",
+      "id": "3468d8ab5d74f65d",
+      "item": {
+        "type": "paragraph",
+        "id": "3468d8ab5d74f65d",
+        "text": "On Chomsky and the Two Cultures of Statistical Learning wherein Norvig responds to Chomsky's remarks in response to Steven Pinker's question about the success of probabilistic models trained with statistical methods."
+      },
+      "date": 1427051558634
+    },
+    {
+      "type": "edit",
+      "id": "3468d8ab5d74f65d",
+      "item": {
+        "type": "paragraph",
+        "id": "3468d8ab5d74f65d",
+        "text": "On Chomsky and the Two Cultures of Statistical Learning wherein Norvig responds to Chomsky's remarks in response to Steven Pinker's question about the success of probabilistic models trained with statistical methods. [http://norvig.com/chomsky.html webpage]"
+      },
+      "date": 1427051591570
+    },
+    {
+      "type": "edit",
+      "id": "3468d8ab5d74f65d",
+      "item": {
+        "type": "paragraph",
+        "id": "3468d8ab5d74f65d",
+        "text": "On Chomsky and the Two Cultures of Statistical Learning wherein Norvig responds to Chomsky's remarks in response to Steven Pinker's question about the success of probabilistic models trained with statistical methods. [http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html chomsky] [http://norvig.com/chomsky.html norvig]"
+      },
+      "date": 1427051745781
+    },
+    {
+      "type": "edit",
+      "id": "f98ddc5c7c573bab",
+      "item": {
+        "type": "pagefold",
+        "id": "f98ddc5c7c573bab",
+        "text": "quotes"
+      },
+      "date": 1427051989229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e4c89b3b3158a74"
+      },
+      "id": "8e4c89b3b3158a74",
+      "type": "add",
+      "after": "f98ddc5c7c573bab",
+      "date": 1427051991262
+    },
+    {
+      "type": "edit",
+      "id": "8e4c89b3b3158a74",
+      "item": {
+        "type": "paragraph",
+        "id": "8e4c89b3b3158a74",
+        "text": "Another measure of success is the degree to which an idea captures a community of researchers. As Steve Abney wrote in 1996, \"In the space of the last ten years, statistical methods have gone from being virtually unknown in computational linguistics to being a fundamental given. ... anyone who cannot at least use the terminology persuasively risks being mistaken for kitchen help at the ACL [Association for Computational Linguistics] banquet.\""
+      },
+      "date": 1427052017133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ade11df719ec8bc"
+      },
+      "id": "0ade11df719ec8bc",
+      "type": "add",
+      "after": "8e4c89b3b3158a74",
+      "date": 1427052091701
+    },
+    {
+      "type": "move",
+      "order": [
+        "3468d8ab5d74f65d",
+        "f98ddc5c7c573bab",
+        "0ade11df719ec8bc",
+        "8e4c89b3b3158a74"
+      ],
+      "id": "0ade11df719ec8bc",
+      "date": 1427052095369
+    },
+    {
+      "type": "edit",
+      "id": "0ade11df719ec8bc",
+      "item": {
+        "type": "paragraph",
+        "id": "0ade11df719ec8bc",
+        "text": "Chomsky said words to the effect that statistical language models have had some limited success in some application areas. Let's look at computer systems that deal with language, and at the notion of \"success\" defined by \"making accurate predictions about the world.\" First, the major application areas:\nSearch engines ...\nSpeech recognition ...\nMachine translation ...\nQuestion answering ...\nNow let's look at some components that are of interest only to the computational linguist, not to the end user:\n\nWord sense disambiguation ...\nCoreference resolution ...\nPart of speech tagging ...\nClearly, it is inaccurate to say that statistical models (and probabilistic models) have achieved limited success; rather they have achieved a dominant (although not exclusive) position.\n"
+      },
+      "date": 1427052204865
+    },
+    {
+      "type": "edit",
+      "id": "0ade11df719ec8bc",
+      "item": {
+        "type": "paragraph",
+        "id": "0ade11df719ec8bc",
+        "text": "Chomsky said words to the effect that statistical language models have had some limited success in some application areas. "
+      },
+      "date": 1427052224035
+    },
+    {
+      "type": "add",
+      "id": "e5f039d6708c2bb6",
+      "item": {
+        "type": "paragraph",
+        "id": "e5f039d6708c2bb6",
+        "text": "Let's look at computer systems that deal with language, and at the notion of \"success\" defined by \"making accurate predictions about the world.\" First, the major application areas:\nSearch engines ...\nSpeech recognition ...\nMachine translation ...\nQuestion answering ...\n"
+      },
+      "after": "0ade11df719ec8bc",
+      "date": 1427052229781
+    },
+    {
+      "type": "add",
+      "id": "0080fc2514dd2d39",
+      "item": {
+        "type": "paragraph",
+        "id": "0080fc2514dd2d39",
+        "text": "Now let's look at some components that are of interest only to the computational linguist, not to the end user:\nWord sense disambiguation ...\nCoreference resolution ...\nPart of speech tagging ...\n"
+      },
+      "after": "e5f039d6708c2bb6",
+      "date": 1427052238139
+    },
+    {
+      "type": "add",
+      "id": "0e5129110f6921a2",
+      "item": {
+        "type": "paragraph",
+        "id": "0e5129110f6921a2",
+        "text": "Clearly, it is inaccurate to say that statistical models (and probabilistic models) have achieved limited success; rather they have achieved a dominant (although not exclusive) position.\n"
+      },
+      "after": "0080fc2514dd2d39",
+      "date": 1427052240066
+    },
+    {
+      "type": "add",
+      "id": "5601b5743169cd65",
+      "item": {
+        "type": "paragraph",
+        "id": "5601b5743169cd65",
+        "text": "When Chomsky said \"That's a notion of [scientific] success that's very novel. I don't know of anything like it in the history of science\" he apparently meant that the notion of success of \"accurately modeling the world\" is novel, and that the only true measure of success in the history of science is \"providing insight\" — of answering why things are the way they are, not just describing how they are."
+      },
+      "after": "8e4c89b3b3158a74",
+      "date": 1427052350139
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d06f5626ac8524e6"
+      },
+      "id": "d06f5626ac8524e6",
+      "type": "add",
+      "after": "5601b5743169cd65",
+      "date": 1427052472942
+    },
+    {
+      "type": "edit",
+      "id": "d06f5626ac8524e6",
+      "item": {
+        "type": "paragraph",
+        "id": "d06f5626ac8524e6",
+        "text": "Another part of Chomsky's objection is \"we cannot seriously propose that a child learns the values of 10^9 parameters in a childhood lasting only 10^8 seconds.\" (Note that modern models are much larger than the 10^9 parameters that were contemplated in the 1960s.) But of course nobody is proposing that these parameters are learned one-by-one."
+      },
+      "date": 1427052515293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c72610d8fe112a7"
+      },
+      "id": "5c72610d8fe112a7",
+      "type": "add",
+      "after": "d06f5626ac8524e6",
+      "date": 1427052548675
+    },
+    {
+      "type": "edit",
+      "id": "5c72610d8fe112a7",
+      "item": {
+        "type": "paragraph",
+        "id": "5c72610d8fe112a7",
+        "text": "And yes, it seems clear that an adult speaker of English does know billions of language facts (for example, that one says \"big game\" rather than \"large game\" when talking about an important football game). These facts must somehow be encoded in the brain."
+      },
+      "date": 1427052553410
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c9c14be8615854f7"
+      },
+      "id": "c9c14be8615854f7",
+      "type": "add",
+      "after": "5c72610d8fe112a7",
+      "date": 1427052613310
+    },
+    {
+      "type": "edit",
+      "id": "c9c14be8615854f7",
+      "item": {
+        "type": "paragraph",
+        "id": "c9c14be8615854f7",
+        "text": "Thus it seems that grammaticality is not a categorical, deterministic judgment but rather an inherently probabilistic one. This becomes clear to anyone who spends time making observations of a corpus of actual sentences, but can remain unknown to those who think that the object of study is their own set of intuitions about grammaticality."
+      },
+      "date": 1427052625820
+    },
+    {
+      "type": "remove",
+      "id": "8e4c89b3b3158a74",
+      "date": 1427053450528
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e227addef530e075"
+      },
+      "id": "e227addef530e075",
+      "type": "add",
+      "after": "c9c14be8615854f7",
+      "date": 1427053902176
+    },
+    {
+      "type": "edit",
+      "id": "e227addef530e075",
+      "item": {
+        "type": "paragraph",
+        "id": "e227addef530e075",
+        "text": "See [[Statistical Modeling: The Two Cultures]]"
+      },
+      "date": 1427053912944
+    },
+    {
+      "type": "edit",
+      "id": "e227addef530e075",
+      "item": {
+        "type": "paragraph",
+        "id": "e227addef530e075",
+        "text": "See [[Statistical Modeling Cultures]]"
+      },
+      "date": 1427053950953
+    },
+    {
+      "type": "add",
+      "id": "c9247c3510335c24",
+      "item": {
+        "type": "paragraph",
+        "id": "c9247c3510335c24",
+        "text": "It seems that the algorithmic modeling culture is what Chomsky is objecting to most vigorously. It is not just that the models are statistical (or probabilistic), it is that they produce a form that, while accurately modeling reality, is not easily interpretable by humans, and makes no claim to correspond to the generative process used by nature."
+      },
+      "after": "c9c14be8615854f7",
+      "date": 1427054247298
+    },
+    {
+      "type": "edit",
+      "id": "e227addef530e075",
+      "item": {
+        "type": "paragraph",
+        "id": "e227addef530e075",
+        "text": "See [[Statistical Modeling Cultures]] whose definitions Norvig relies on heavily in the least defensive part of the reply."
+      },
+      "date": 1427054316458
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe959a72424ca660"
+      },
+      "id": "fe959a72424ca660",
+      "type": "add",
+      "after": "e227addef530e075",
+      "date": 1427054327511
+    },
+    {
+      "type": "edit",
+      "id": "fe959a72424ca660",
+      "item": {
+        "type": "pagefold",
+        "id": "fe959a72424ca660",
+        "text": "."
+      },
+      "date": 1427054332508
+    },
+    {
+      "type": "move",
+      "order": [
+        "3468d8ab5d74f65d",
+        "f98ddc5c7c573bab",
+        "0ade11df719ec8bc",
+        "e5f039d6708c2bb6",
+        "0080fc2514dd2d39",
+        "0e5129110f6921a2",
+        "5601b5743169cd65",
+        "d06f5626ac8524e6",
+        "5c72610d8fe112a7",
+        "c9c14be8615854f7",
+        "c9247c3510335c24",
+        "fe959a72424ca660",
+        "e227addef530e075"
+      ],
+      "id": "fe959a72424ca660",
+      "date": 1427054336224
+    },
+    {
+      "type": "edit",
+      "id": "e227addef530e075",
+      "item": {
+        "type": "paragraph",
+        "id": "e227addef530e075",
+        "text": "See [[Statistical Modeling Cultures]] whose definitions Norvig relies on heavily in the least defensive part of his reply."
+      },
+      "date": 1427054346573
+    },
+    {
+      "type": "add",
+      "id": "9202f15a5f69e929",
+      "item": {
+        "type": "paragraph",
+        "id": "9202f15a5f69e929",
+        "text": "Chomsky dislikes statistical models is that they tend to make linguistics an empirical science (a science about how people actually use language) rather than a mathematical science (an investigation of the mathematical properties of models of formal language)."
+      },
+      "after": "c9247c3510335c24",
+      "date": 1427054536685
+    },
+    {
+      "type": "add",
+      "id": "d3ef6950f3ac0502",
+      "item": {
+        "type": "paragraph",
+        "id": "d3ef6950f3ac0502",
+        "text": "See [[One Hour Wikipedia]] where I make model building an exploratory activity."
+      },
+      "after": "e227addef530e075",
+      "date": 1427054715347
+    },
+    {
+      "type": "add",
+      "id": "fba72c331facfb3c",
+      "item": {
+        "type": "paragraph",
+        "id": "fba72c331facfb3c",
+        "text": "See [[Personatron]] for a hint of my unpublished work based on emergent model building."
+      },
+      "after": "d3ef6950f3ac0502",
+      "date": 1427055045903
+    },
+    {
+      "type": "fork",
+      "site": "h2.ward.asia.wiki.org",
+      "date": 1427218073765
+    }
+  ]
+}

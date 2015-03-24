@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "703dbbba8793dfd4"
+      "id": "02da9990cf64abfe"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "334295b1654c3109"
+      "id": "0e452f1d6949a58f"
+    },
+    {
+      "date": 1427209201000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "c34c711f142ca285"
     },
     {
       "date": 1427208955000,
@@ -18,16 +27,7 @@
       "title": "Humane Software",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 33 pages.",
       "type": "reference",
-      "id": "538f745826fb02dc"
-    },
-    {
-      "date": 1427208602000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "a843c0076e7dd7c2"
+      "id": "07fe03196f2612b5"
     },
     {
       "date": 1427050190000,
@@ -36,41 +36,55 @@
       "title": "Recording",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
       "type": "reference",
-      "id": "fa88c7ff5dfc3c65"
+      "id": "f6b70de99e2ca15a"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "39acea51c1960f3f",
+      "id": "9322e38af714f72d",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427209201000
+      "date": 1427209801000
     },
     {
       "type": "add",
-      "id": "703dbbba8793dfd4",
+      "id": "02da9990cf64abfe",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "703dbbba8793dfd4"
+        "id": "02da9990cf64abfe"
       },
-      "date": 1427209201000
+      "date": 1427209801000
     },
     {
       "type": "add",
-      "id": "334295b1654c3109",
+      "id": "0e452f1d6949a58f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "334295b1654c3109"
+        "id": "0e452f1d6949a58f"
       },
-      "date": 1427209201000
+      "date": 1427209801000
     },
     {
       "type": "add",
-      "id": "538f745826fb02dc",
+      "id": "c34c711f142ca285",
+      "item": {
+        "date": 1427209201000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "c34c711f142ca285"
+      },
+      "date": 1427209801000
+    },
+    {
+      "type": "add",
+      "id": "07fe03196f2612b5",
       "item": {
         "date": 1427208955000,
         "site": "esben.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Humane Software",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 33 pages.",
         "type": "reference",
-        "id": "538f745826fb02dc"
+        "id": "07fe03196f2612b5"
       },
-      "date": 1427209201000
+      "date": 1427209801000
     },
     {
       "type": "add",
-      "id": "a843c0076e7dd7c2",
-      "item": {
-        "date": 1427208602000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "a843c0076e7dd7c2"
-      },
-      "date": 1427209201000
-    },
-    {
-      "type": "add",
-      "id": "fa88c7ff5dfc3c65",
+      "id": "f6b70de99e2ca15a",
       "item": {
         "date": 1427050190000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Recording",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 58 pages.",
         "type": "reference",
-        "id": "fa88c7ff5dfc3c65"
+        "id": "f6b70de99e2ca15a"
       },
-      "date": 1427209201000
+      "date": 1427209801000
     }
   ]
 }

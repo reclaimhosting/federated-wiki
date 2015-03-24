@@ -39,6 +39,10 @@
       "site": "code.fed.wiki.org",
       "title": "Welcome Visitors",
       "text": "This wiki is about my life's work writing software."
+    },
+    {
+      "type": "factory",
+      "id": "3b131c04d31b0520"
     }
   ],
   "journal": [
@@ -171,6 +175,16 @@
         "text": "Cunningham on wiki philosophy and implementation [[JavaScript Jabber]]"
       },
       "date": 1427109567626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b131c04d31b0520"
+      },
+      "id": "3b131c04d31b0520",
+      "type": "add",
+      "after": "22c0b5dbed7a2115",
+      "date": 1427218735087
     }
   ]
 }

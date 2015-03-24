@@ -1,0 +1,610 @@
+{
+  "title": "One Hour Wikipedia",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2bb609054f05e0ab",
+      "text": "Channeling both Chomsky and Norvig I routinely consult Wikipedia by reading it in its entirety to answer questions no one had thought to pose."
+    },
+    {
+      "type": "paragraph",
+      "id": "7f3cc788ffd4186c",
+      "text": "Wikipedia's markup rules exert structure on natural language. Each speech act by an author is followed by a check that the parser has properly interpreted the extra symbols one must know to write for the encyclopedia. It thus becomes a gigantic corpus of semi-structured text."
+    },
+    {
+      "type": "paragraph",
+      "id": "a555cc8325a2ddb8",
+      "text": "Wikipedia's markup rules allow one human to speak to another without regard for the computer's ability to understand. Each speech act is followed by relentless revision where other humans in turn attempt to improve the utility of what has been said. It thus becomes a gigantic corpus of semi-unstructured text of some utility."
+    },
+    {
+      "type": "paragraph",
+      "id": "963ef985d180edb8",
+      "text": "In order to avail myself of the utility within Wikipedia and similar texts where rules have been partially enforced I have developed a parsing technology and related methodology I call [[Exploratory Parsing]]."
+    },
+    {
+      "type": "markdown",
+      "id": "c4240560a4392b28",
+      "text": "# Process"
+    },
+    {
+      "type": "paragraph",
+      "id": "239de95d802d79b5",
+      "text": "I explore by posing somewhat vague questions, finding unexpected answers, and then refining and repeating my questions accordingly. I am excited by the regularities I find and by the rare exceptions."
+    },
+    {
+      "type": "paragraph",
+      "id": "085eac5a85770d8f",
+      "text": "I pose my questions using a rigorous syntax based on decades of technology developed by computer scientists for parsing computer programs but still rooted in Chomsky. Recent innovations by Bryan Ford (2004) allow me to apply the efficiencies within to texts as large as Wikipedia. [http://bford.info/pub/lang/peg pdf]"
+    },
+    {
+      "type": "paragraph",
+      "id": "108531e71592ef94",
+      "text": "I once studied how company names relate to their domain names by parsing wikipedia's infoboxes."
+    },
+    {
+      "type": "paragraph",
+      "id": "f48ea7c6ed3636a8",
+      "text": "I once studied how wikipedians used videos by parsing all variations of video file and player embeds."
+    },
+    {
+      "type": "paragraph",
+      "id": "6667e15f31b37843",
+      "text": "I once studied how street addresses had been written in order to transform them to use a new format."
+    },
+    {
+      "type": "paragraph",
+      "id": "38a47cf8261c0f90",
+      "text": "I once studied copyright declarations and found by accident how many claimants couldn't spell copyright."
+    },
+    {
+      "type": "paragraph",
+      "id": "4d2e35133dd12ee0",
+      "text": "Although my results are counts, like Norvig's n-grams, I look at each and every character in the light of the query of the moment. My results are not statistical."
+    },
+    {
+      "type": "markdown",
+      "id": "9000f7e8b62782a9",
+      "text": "# Speed"
+    },
+    {
+      "type": "paragraph",
+      "id": "1e7fddeb489014f8",
+      "text": "It takes me an hour to parse all of Wikipedia on a laptop which is comparable to just copying it."
+    },
+    {
+      "type": "paragraph",
+      "id": "42f40ed09e876176",
+      "text": "I have devised mechanisms that let me reduce this cycle time for exploring to minutes or seconds."
+    },
+    {
+      "type": "paragraph",
+      "id": "c12728270e7ce1f6",
+      "text": "I stream results from the parser as it parses. Simple mistakes in my queries surface in seconds, trends in the data surface in minutes."
+    },
+    {
+      "type": "paragraph",
+      "id": "f71fd4c0f54813c1",
+      "text": "I save usage samples for every grammatical term so that I can understand what I find in context."
+    },
+    {
+      "type": "paragraph",
+      "id": "c324770084a8d945",
+      "text": "I exploit the nested contexts provided by parsing to construct representative subsets of the corpus appropriately diverse while 100 to 1000 times shorter."
+    },
+    {
+      "type": "paragraph",
+      "id": "b9f8068e1e03b1bb",
+      "text": "I tune my queries using these shortcuts then unleash them on the whole corpus to get a fresh subset or final result."
+    },
+    {
+      "type": "markdown",
+      "id": "80b07efbbc0163d4",
+      "text": "# Impact"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2aeb42ade8e61cd",
+      "text": "Although I have promoted Ford's work within my communities with some success I have yet to see anyone else use exploratory parsing at all despite offering to help write queries to get people started."
+    },
+    {
+      "type": "paragraph",
+      "id": "0e83d8212520cfdb",
+      "text": "I attribute this to the bad experience most programmers have had with grammars in their university compiler construction classes. Once held as a shining example of theory, parser construction became a small and neglected part of a students one experience writing a large program. Now even faculty shrug off this technology observing that very few graduates ever write a compiler. What a shame parsing and compiling have been thus conjoined."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "One Hour Wikipedia",
+        "story": []
+      },
+      "date": 1427038583184
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2bb609054f05e0ab"
+      },
+      "id": "2bb609054f05e0ab",
+      "type": "add",
+      "date": 1427038602273
+    },
+    {
+      "type": "edit",
+      "id": "2bb609054f05e0ab",
+      "item": {
+        "type": "paragraph",
+        "id": "2bb609054f05e0ab",
+        "text": "Channeling both Chomsky and Norvig I routinely consult Wikipedia by reading it in its entirety to answer questions no one had thought to pose."
+      },
+      "date": 1427038841459
+    },
+    {
+      "type": "add",
+      "id": "7f3cc788ffd4186c",
+      "item": {
+        "type": "paragraph",
+        "id": "7f3cc788ffd4186c",
+        "text": "Wikipedia's markup rules exert structure on natural language. Each speech act by an author is followed by a check that the parser has properly interpreted the extra symbols one must know to write for the encyclopedia. It thus becomes a gigantic corpus of semi-structured text."
+      },
+      "after": "2bb609054f05e0ab",
+      "date": 1427039347604
+    },
+    {
+      "type": "add",
+      "id": "a555cc8325a2ddb8",
+      "item": {
+        "type": "paragraph",
+        "id": "a555cc8325a2ddb8",
+        "text": "Wikipedia's markup rules allow one human to speak to another without regard for the computer's ability to understand. Each speech act is followed by relentless revision where other humans in turn attempt to improve the utility of what has been said. It thus becomes a gigantic corpus of semi-unstructured text of some utility."
+      },
+      "after": "7f3cc788ffd4186c",
+      "date": 1427039821392
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "963ef985d180edb8"
+      },
+      "id": "963ef985d180edb8",
+      "type": "add",
+      "after": "a555cc8325a2ddb8",
+      "date": 1427040051368
+    },
+    {
+      "type": "edit",
+      "id": "963ef985d180edb8",
+      "item": {
+        "type": "paragraph",
+        "id": "963ef985d180edb8",
+        "text": "In order to avail myself of the utility within Wikipedia and similar texts where rules have been partially enforced by computers I have developed a parsing technology and related methodology I call [[Exploratory Parsing]]."
+      },
+      "date": 1427040200602
+    },
+    {
+      "type": "edit",
+      "id": "963ef985d180edb8",
+      "item": {
+        "type": "paragraph",
+        "id": "963ef985d180edb8",
+        "text": "In order to avail myself of the utility within Wikipedia and similar texts where rules have been partially enforced I have developed a parsing technology and related methodology I call [[Exploratory Parsing]]."
+      },
+      "date": 1427040221162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "239de95d802d79b5"
+      },
+      "id": "239de95d802d79b5",
+      "type": "add",
+      "after": "963ef985d180edb8",
+      "date": 1427040260492
+    },
+    {
+      "type": "edit",
+      "id": "239de95d802d79b5",
+      "item": {
+        "type": "paragraph",
+        "id": "239de95d802d79b5",
+        "text": "I explore by posing somewhat vague questions, finding unexpected answers, and then refining and repeating my questions accordingly. I am excited by the regularities I find and by the rare exceptions."
+      },
+      "date": 1427040677579
+    },
+    {
+      "type": "add",
+      "id": "085eac5a85770d8f",
+      "item": {
+        "type": "paragraph",
+        "id": "085eac5a85770d8f",
+        "text": "I pose my questions using a rigorous syntax based on decades of technology developed by computer scientists for parsing computer programs but still rooted in Chomsky. Recent innovations by Ford (2004) allow me to apply the efficiencies within to texts as large as Wikipedia."
+      },
+      "after": "239de95d802d79b5",
+      "date": 1427041374639
+    },
+    {
+      "type": "edit",
+      "id": "085eac5a85770d8f",
+      "item": {
+        "type": "paragraph",
+        "id": "085eac5a85770d8f",
+        "text": "I pose my questions using a rigorous syntax based on decades of technology developed by computer scientists for parsing computer programs but still rooted in Chomsky. Recent innovations by Bryan Ford (2004) allow me to apply the efficiencies within to texts as large as Wikipedia. [http://bford.info/pub/lang/peg website]"
+      },
+      "date": 1427041534014
+    },
+    {
+      "type": "edit",
+      "id": "085eac5a85770d8f",
+      "item": {
+        "type": "paragraph",
+        "id": "085eac5a85770d8f",
+        "text": "I pose my questions using a rigorous syntax based on decades of technology developed by computer scientists for parsing computer programs but still rooted in Chomsky. Recent innovations by Bryan Ford (2004) allow me to apply the efficiencies within to texts as large as Wikipedia. [http://bford.info/pub/lang/peg pdf]"
+      },
+      "date": 1427041553928
+    },
+    {
+      "type": "add",
+      "id": "108531e71592ef94",
+      "item": {
+        "type": "paragraph",
+        "id": "108531e71592ef94",
+        "text": "I once studied how company names relate to their domain names by parsing wikipedia's infoboxes."
+      },
+      "after": "085eac5a85770d8f",
+      "date": 1427042346355
+    },
+    {
+      "type": "add",
+      "id": "f48ea7c6ed3636a8",
+      "item": {
+        "type": "paragraph",
+        "id": "f48ea7c6ed3636a8",
+        "text": "I once studied how wikipedians used videos by parsing all variations of video file and player embeds."
+      },
+      "after": "108531e71592ef94",
+      "date": 1427042389313
+    },
+    {
+      "type": "add",
+      "id": "6667e15f31b37843",
+      "item": {
+        "type": "paragraph",
+        "id": "6667e15f31b37843",
+        "text": "I once studied how street addresses had been written in order to transform them to use a new format."
+      },
+      "after": "f48ea7c6ed3636a8",
+      "date": 1427042508107
+    },
+    {
+      "type": "add",
+      "id": "38a47cf8261c0f90",
+      "item": {
+        "type": "paragraph",
+        "id": "38a47cf8261c0f90",
+        "text": "I once studied copyright declarations and found by accident how many claimants could spell copyright."
+      },
+      "after": "6667e15f31b37843",
+      "date": 1427042557900
+    },
+    {
+      "type": "edit",
+      "id": "38a47cf8261c0f90",
+      "item": {
+        "type": "paragraph",
+        "id": "38a47cf8261c0f90",
+        "text": "I once studied copyright declarations and found by accident how many claimants couldn't spell copyright."
+      },
+      "date": 1427042760919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d2e35133dd12ee0"
+      },
+      "id": "4d2e35133dd12ee0",
+      "type": "add",
+      "after": "38a47cf8261c0f90",
+      "date": 1427042791197
+    },
+    {
+      "type": "edit",
+      "id": "4d2e35133dd12ee0",
+      "item": {
+        "type": "paragraph",
+        "id": "4d2e35133dd12ee0",
+        "text": "Although my results are counts, like Norvig's n-grams, I look at each and every character in the light of the query of the moment. My results are not statistical."
+      },
+      "date": 1427042942935
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4240560a4392b28"
+      },
+      "id": "c4240560a4392b28",
+      "type": "add",
+      "after": "4d2e35133dd12ee0",
+      "date": 1427042990176
+    },
+    {
+      "type": "edit",
+      "id": "c4240560a4392b28",
+      "item": {
+        "type": "markdown",
+        "id": "c4240560a4392b28",
+        "text": "# Process"
+      },
+      "date": 1427043004729
+    },
+    {
+      "type": "move",
+      "order": [
+        "2bb609054f05e0ab",
+        "7f3cc788ffd4186c",
+        "a555cc8325a2ddb8",
+        "963ef985d180edb8",
+        "c4240560a4392b28",
+        "239de95d802d79b5",
+        "085eac5a85770d8f",
+        "108531e71592ef94",
+        "f48ea7c6ed3636a8",
+        "6667e15f31b37843",
+        "38a47cf8261c0f90",
+        "4d2e35133dd12ee0"
+      ],
+      "id": "c4240560a4392b28",
+      "date": 1427043010833
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9000f7e8b62782a9"
+      },
+      "id": "9000f7e8b62782a9",
+      "type": "add",
+      "after": "4d2e35133dd12ee0",
+      "date": 1427043023816
+    },
+    {
+      "type": "edit",
+      "id": "9000f7e8b62782a9",
+      "item": {
+        "type": "markdown",
+        "id": "9000f7e8b62782a9",
+        "text": "# Speed"
+      },
+      "date": 1427043041707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e7fddeb489014f8"
+      },
+      "id": "1e7fddeb489014f8",
+      "type": "add",
+      "after": "9000f7e8b62782a9",
+      "date": 1427043059113
+    },
+    {
+      "type": "edit",
+      "id": "1e7fddeb489014f8",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7fddeb489014f8",
+        "text": "It takes me an hour to parse all of Wikipedia which is comparable  "
+      },
+      "date": 1427043126075
+    },
+    {
+      "type": "edit",
+      "id": "1e7fddeb489014f8",
+      "item": {
+        "type": "paragraph",
+        "id": "1e7fddeb489014f8",
+        "text": "It takes me an hour to parse all of Wikipedia on a laptop which is comparable to just copying it."
+      },
+      "date": 1427043181119
+    },
+    {
+      "type": "add",
+      "id": "42f40ed09e876176",
+      "item": {
+        "type": "paragraph",
+        "id": "42f40ed09e876176",
+        "text": "I have devised two mechanisms that let me reduce this cycle time for exploring to minutes or seconds."
+      },
+      "after": "1e7fddeb489014f8",
+      "date": 1427043235292
+    },
+    {
+      "type": "add",
+      "id": "c12728270e7ce1f6",
+      "item": {
+        "type": "paragraph",
+        "id": "c12728270e7ce1f6",
+        "text": "I stream results from the parser as it parses. Simple mistakes in my queries surface in seconds, trends in the data surface in minutes."
+      },
+      "after": "42f40ed09e876176",
+      "date": 1427043363059
+    },
+    {
+      "type": "add",
+      "id": "c324770084a8d945",
+      "item": {
+        "type": "paragraph",
+        "id": "c324770084a8d945",
+        "text": "I exploit the nested contexts provided by parsing to construct representative subsets of the corpus appropriately diverse while 100 to 1000 times shorter. I tune my queries on these then unleash them on the whole corpus for a fresh subset or final result."
+      },
+      "after": "c12728270e7ce1f6",
+      "date": 1427043587900
+    },
+    {
+      "type": "edit",
+      "id": "c324770084a8d945",
+      "item": {
+        "type": "paragraph",
+        "id": "c324770084a8d945",
+        "text": "I exploit the nested contexts provided by parsing to construct representative subsets of the corpus appropriately diverse while 100 to 1000 times shorter."
+      },
+      "date": 1427043598519
+    },
+    {
+      "type": "add",
+      "id": "b9f8068e1e03b1bb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9f8068e1e03b1bb",
+        "text": "I tune my queries using these shortcuts then unleash them on the whole corpus for a fresh subset or final result."
+      },
+      "after": "c324770084a8d945",
+      "date": 1427043635763
+    },
+    {
+      "type": "edit",
+      "id": "42f40ed09e876176",
+      "item": {
+        "type": "paragraph",
+        "id": "42f40ed09e876176",
+        "text": "I have devised mechanisms that let me reduce this cycle time for exploring to minutes or seconds."
+      },
+      "date": 1427044099458
+    },
+    {
+      "type": "add",
+      "id": "f71fd4c0f54813c1",
+      "item": {
+        "type": "paragraph",
+        "id": "f71fd4c0f54813c1",
+        "text": "I save usage samples for every gramatical  "
+      },
+      "after": "c12728270e7ce1f6",
+      "date": 1427044238697
+    },
+    {
+      "type": "edit",
+      "id": "f71fd4c0f54813c1",
+      "item": {
+        "type": "paragraph",
+        "id": "f71fd4c0f54813c1",
+        "text": "I save usage samples for every grammatical term so that I can understand what I find in context."
+      },
+      "date": 1427044300326
+    },
+    {
+      "type": "edit",
+      "id": "b9f8068e1e03b1bb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9f8068e1e03b1bb",
+        "text": "I tune my queries using these shortcuts then unleash them on the whole corpus to produce a fresh subset or final result."
+      },
+      "date": 1427044338567
+    },
+    {
+      "type": "edit",
+      "id": "b9f8068e1e03b1bb",
+      "item": {
+        "type": "paragraph",
+        "id": "b9f8068e1e03b1bb",
+        "text": "I tune my queries using these shortcuts then unleash them on the whole corpus to get a fresh subset or final result."
+      },
+      "date": 1427044350733
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80b07efbbc0163d4"
+      },
+      "id": "80b07efbbc0163d4",
+      "type": "add",
+      "after": "b9f8068e1e03b1bb",
+      "date": 1427044378511
+    },
+    {
+      "type": "edit",
+      "id": "80b07efbbc0163d4",
+      "item": {
+        "type": "markdown",
+        "id": "80b07efbbc0163d4",
+        "text": "# Impact"
+      },
+      "date": 1427044387882
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2aeb42ade8e61cd"
+      },
+      "id": "c2aeb42ade8e61cd",
+      "type": "add",
+      "after": "80b07efbbc0163d4",
+      "date": 1427044396418
+    },
+    {
+      "type": "edit",
+      "id": "c2aeb42ade8e61cd",
+      "item": {
+        "type": "paragraph",
+        "id": "c2aeb42ade8e61cd",
+        "text": "Although I have promoted Fords work within my communities I have yet to see anyone else use exploratory parsing as I do."
+      },
+      "date": 1427044463817
+    },
+    {
+      "type": "edit",
+      "id": "c2aeb42ade8e61cd",
+      "item": {
+        "type": "paragraph",
+        "id": "c2aeb42ade8e61cd",
+        "text": "Although I have promoted Fords work within my communities with some success I have yet to see anyone else use exploratory parsing at all despite offering to help write queries to get people started."
+      },
+      "date": 1427044547858
+    },
+    {
+      "type": "edit",
+      "id": "c2aeb42ade8e61cd",
+      "item": {
+        "type": "paragraph",
+        "id": "c2aeb42ade8e61cd",
+        "text": "Although I have promoted Ford's work within my communities with some success I have yet to see anyone else use exploratory parsing at all despite offering to help write queries to get people started."
+      },
+      "date": 1427044564951
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e83d8212520cfdb"
+      },
+      "id": "0e83d8212520cfdb",
+      "type": "add",
+      "after": "c2aeb42ade8e61cd",
+      "date": 1427044567941
+    },
+    {
+      "type": "edit",
+      "id": "0e83d8212520cfdb",
+      "item": {
+        "type": "paragraph",
+        "id": "0e83d8212520cfdb",
+        "text": "I attribute this to the bad experience most programmers have had with grammars in their university compiler construction classes."
+      },
+      "date": 1427044739765
+    },
+    {
+      "type": "edit",
+      "id": "0e83d8212520cfdb",
+      "item": {
+        "type": "paragraph",
+        "id": "0e83d8212520cfdb",
+        "text": "I attribute this to the bad experience most programmers have had with grammars in their university compiler construction classes. Once held as a shining example of theory, parser construction became a small and neglected part of a students one experience writing a large program. Now even faculty shrug off this technology observing that very few graduates ever write a compiler. What a shame parsing and compiling have been thus conjoined."
+      },
+      "date": 1427045047801
+    },
+    {
+      "type": "fork",
+      "site": "h2.ward.asia.wiki.org",
+      "date": 1427218274840
+    }
+  ]
+}

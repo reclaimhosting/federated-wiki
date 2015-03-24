@@ -2,8 +2,34 @@
   "title": "Humane Software",
   "story": [
     {
-      "type": "factory",
-      "id": "d13703cc89f1912c"
+      "type": "pagefold",
+      "id": "d13703cc89f1912c",
+      "text": "Videos"
+    },
+    {
+      "type": "video",
+      "id": "64c9f1492293455e",
+      "text": "VIMEO 115154289\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "video",
+      "id": "a2d4a3f5e6451bc4",
+      "text": "VIMEO 117389218\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "7e98fac87f490f2c",
+      "text": "Links"
+    },
+    {
+      "type": "paragraph",
+      "id": "011906307d6fed9b",
+      "text": "The rise of explorable explanations. [http://www.maartenlambrechts.be/the-rise-of-explorable-explanations/ html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7419320191f84a0",
+      "text": "Explained Visually. A great resource for understanding complex mathematical concepts. [http://setosa.io/ev/ html]"
     },
     {
       "type": "pagefold",
@@ -32,8 +58,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "38744cb644cb3ec4"
+        "type": "pagefold",
+        "id": "38744cb644cb3ec4",
+        "text": "People"
       },
       "id": "38744cb644cb3ec4",
       "type": "add",
@@ -51,8 +78,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "0413f5575b9076c8"
+        "type": "paragraph",
+        "id": "0413f5575b9076c8",
+        "text": "Bret Victor. [http://worrydream.com html]"
       },
       "id": "0413f5575b9076c8",
       "type": "add",
@@ -87,8 +115,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "6d3ed73d615ba808"
+        "type": "paragraph",
+        "id": "6d3ed73d615ba808",
+        "text": "Joe Edelman. [http://nxhx.org/RedefiningSoftware/ html]"
       },
       "id": "6d3ed73d615ba808",
       "type": "add",
@@ -107,8 +136,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "d13703cc89f1912c"
+        "type": "pagefold",
+        "id": "d13703cc89f1912c",
+        "text": "Videos"
       },
       "id": "d13703cc89f1912c",
       "type": "add",
@@ -116,14 +146,38 @@
       "date": 1427195190014
     },
     {
+      "type": "edit",
+      "id": "d13703cc89f1912c",
       "item": {
-        "type": "factory",
-        "id": "a2d4a3f5e6451bc4"
+        "type": "pagefold",
+        "id": "d13703cc89f1912c",
+        "text": "Videos"
       },
+      "date": 1427195197040,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "edit",
       "id": "a2d4a3f5e6451bc4",
-      "type": "add",
-      "after": "6d3ed73d615ba808",
-      "date": 1427195199444
+      "item": {
+        "type": "video",
+        "id": "a2d4a3f5e6451bc4",
+        "text": "VIMEO 117389218\n(double-click to edit caption)\n"
+      },
+      "date": 1427195209616,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1427196332608
     },
     {
       "type": "move",
@@ -131,10 +185,146 @@
         "d13703cc89f1912c",
         "38744cb644cb3ec4",
         "0413f5575b9076c8",
-        "6d3ed73d615ba808"
+        "6d3ed73d615ba808",
+        "a2d4a3f5e6451bc4"
       ],
       "id": "d13703cc89f1912c",
-      "date": 1427195198590
+      "date": 1427196342209
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "a2d4a3f5e6451bc4",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808"
+      ],
+      "id": "a2d4a3f5e6451bc4",
+      "date": 1427196351804
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64c9f1492293455e"
+      },
+      "id": "64c9f1492293455e",
+      "type": "add",
+      "after": "6d3ed73d615ba808",
+      "date": 1427196373004
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "64c9f1492293455e",
+        "a2d4a3f5e6451bc4",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808"
+      ],
+      "id": "64c9f1492293455e",
+      "date": 1427196374730
+    },
+    {
+      "type": "edit",
+      "id": "64c9f1492293455e",
+      "item": {
+        "type": "video",
+        "id": "64c9f1492293455e",
+        "text": "VIMEO 115154289\n(double-click to edit caption)\n"
+      },
+      "date": 1427196392915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e98fac87f490f2c"
+      },
+      "id": "7e98fac87f490f2c",
+      "type": "add",
+      "after": "6d3ed73d615ba808",
+      "date": 1427196420645
+    },
+    {
+      "type": "edit",
+      "id": "7e98fac87f490f2c",
+      "item": {
+        "type": "pagefold",
+        "id": "7e98fac87f490f2c",
+        "text": "Links"
+      },
+      "date": 1427196428100
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "64c9f1492293455e",
+        "a2d4a3f5e6451bc4",
+        "7e98fac87f490f2c",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808"
+      ],
+      "id": "7e98fac87f490f2c",
+      "date": 1427196429934
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "011906307d6fed9b"
+      },
+      "id": "011906307d6fed9b",
+      "type": "add",
+      "after": "6d3ed73d615ba808",
+      "date": 1427196430955
+    },
+    {
+      "type": "move",
+      "order": [
+        "d13703cc89f1912c",
+        "64c9f1492293455e",
+        "a2d4a3f5e6451bc4",
+        "7e98fac87f490f2c",
+        "011906307d6fed9b",
+        "38744cb644cb3ec4",
+        "0413f5575b9076c8",
+        "6d3ed73d615ba808"
+      ],
+      "id": "011906307d6fed9b",
+      "date": 1427196432565
+    },
+    {
+      "type": "edit",
+      "id": "011906307d6fed9b",
+      "item": {
+        "type": "paragraph",
+        "id": "011906307d6fed9b",
+        "text": "The rise of explorable explanations. [http://www.maartenlambrechts.be/the-rise-of-explorable-explanations/ html]"
+      },
+      "date": 1427196443916
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d7419320191f84a0",
+        "text": ""
+      },
+      "id": "d7419320191f84a0",
+      "type": "add",
+      "after": "011906307d6fed9b",
+      "date": 1427196458412
+    },
+    {
+      "type": "edit",
+      "id": "d7419320191f84a0",
+      "item": {
+        "type": "paragraph",
+        "id": "d7419320191f84a0",
+        "text": "Explained Visually. A great resource for understanding complex mathematical concepts. [http://setosa.io/ev/ html]"
+      },
+      "date": 1427196488658
     }
   ]
 }

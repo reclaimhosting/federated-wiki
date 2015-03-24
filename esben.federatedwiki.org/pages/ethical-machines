@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "42c5f2dc508e8093",
       "text": "[http://aitopics.org/sites/default/files/classic/Machine_Intelligence_10/MI10-Ch29-Good.pdf pdf]"
+    },
+    {
+      "type": "pagefold",
+      "id": "8dcfcd88a83db964",
+      "text": "Extracts"
+    },
+    {
+      "type": "paragraph",
+      "id": "95f0f12f9ef89665",
+      "text": "One interpretation of ethical behaviour by a person is behaviour that tends to maximize the expected utility of a group to which he belongs,even if he suffers by so doing."
+    },
+    {
+      "type": "paragraph",
+      "id": "819dbd8111e51c1c",
+      "text": "\nWhen a person acts rationally he uses his own utilities. If society is perfectly well organized the person will perform the same acts whether he uses his own utilities or those of the society. If a person seems to sacrifice his more obvious advantages for the sake of other people,then those other people would call him ethical. This would sometimes be because the interests of others are built into his personal utilities, and sometimes indirectly out of long-term self-interest."
     }
   ],
   "journal": [
@@ -34,6 +49,66 @@
         "text": "[http://aitopics.org/sites/default/files/classic/Machine_Intelligence_10/MI10-Ch29-Good.pdf pdf]"
       },
       "date": 1427218891203
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dcfcd88a83db964"
+      },
+      "id": "8dcfcd88a83db964",
+      "type": "add",
+      "after": "42c5f2dc508e8093",
+      "date": 1427238236148
+    },
+    {
+      "type": "edit",
+      "id": "8dcfcd88a83db964",
+      "item": {
+        "type": "pagefold",
+        "id": "8dcfcd88a83db964",
+        "text": "Extracts"
+      },
+      "date": 1427238242889
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "95f0f12f9ef89665"
+      },
+      "id": "95f0f12f9ef89665",
+      "type": "add",
+      "after": "8dcfcd88a83db964",
+      "date": 1427238250541
+    },
+    {
+      "type": "edit",
+      "id": "95f0f12f9ef89665",
+      "item": {
+        "type": "paragraph",
+        "id": "95f0f12f9ef89665",
+        "text": "One interpretation of ethical behaviour by a person is behaviour that tends to maximize the expected utility of a group to which he belongs,even if he suffers by so doing."
+      },
+      "date": 1427238280455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "819dbd8111e51c1c"
+      },
+      "id": "819dbd8111e51c1c",
+      "type": "add",
+      "after": "95f0f12f9ef89665",
+      "date": 1427238314679
+    },
+    {
+      "type": "edit",
+      "id": "819dbd8111e51c1c",
+      "item": {
+        "type": "paragraph",
+        "id": "819dbd8111e51c1c",
+        "text": "\nWhen a person acts rationally he uses his own utilities. If society is perfectly well organized the person will perform the same acts whether he uses his own utilities or those of the society. If a person seems to sacrifice his more obvious advantages for the sake of other people,then those other people would call him ethical. This would sometimes be because the interests of others are built into his personal utilities, and sometimes indirectly out of long-term self-interest."
+      },
+      "date": 1427238386069
     }
   ]
 }

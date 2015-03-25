@@ -20,6 +20,31 @@
       "type": "paragraph",
       "id": "0973ba699927b9a5",
       "text": "Breiman - [[Statistical Modeling Cultures]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "c72be278aba9967c",
+      "text": "Federated wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb58e5cab6074c77",
+      "text": "Federated Semantic Wikis. [http://www.edstim.fr/media/8linamolli__003010100_1139_15042014.pdf pdf]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8727a3835cc8aa1a",
+      "text": "Prospects for scenario-modelling urban design methodologies to achieve significant greenhouse gas emissions reductions. Michael W. Mehaffy\n [http://www.palgrave-journals.com/udi/journal/v18/n4/pdf/udi20139a.pdf pdf]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3600d2f697d57316",
+      "text": "Wikipedia customization through web augmentation techniques. [http://dl.acm.org/citation.cfm?id=2462947 paywall]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0bacf4142315b565",
+      "text": "Distributed wikis: a survey. [http://onlinelibrary.wiley.com/doi/10.1002/cpe.3439/abstract paywall]"
     }
   ],
   "journal": [
@@ -192,6 +217,181 @@
       ],
       "id": "27038aa5175e7224",
       "date": 1427236090334
+    },
+    {
+      "type": "fork",
+      "site": "esben.federatedwiki.org",
+      "date": 1427285489514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c72be278aba9967c"
+      },
+      "id": "c72be278aba9967c",
+      "type": "add",
+      "after": "0973ba699927b9a5",
+      "site": "esben.federatedwiki.org",
+      "date": 1427285489512
+    },
+    {
+      "type": "edit",
+      "id": "c72be278aba9967c",
+      "item": {
+        "type": "pagefold",
+        "id": "c72be278aba9967c",
+        "text": "Federated wiki"
+      },
+      "date": 1427285496436
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8727a3835cc8aa1a"
+      },
+      "id": "8727a3835cc8aa1a",
+      "type": "add",
+      "after": "c72be278aba9967c",
+      "date": 1427285501473
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3600d2f697d57316"
+      },
+      "id": "3600d2f697d57316",
+      "type": "add",
+      "after": "8727a3835cc8aa1a",
+      "date": 1427285529265
+    },
+    {
+      "type": "edit",
+      "id": "8727a3835cc8aa1a",
+      "item": {
+        "type": "paragraph",
+        "id": "8727a3835cc8aa1a",
+        "text": "[http://www.palgrave-journals.com/udi/journal/v18/n4/pdf/udi20139a.pdf pdf]"
+      },
+      "date": 1427285536316
+    },
+    {
+      "type": "edit",
+      "id": "8727a3835cc8aa1a",
+      "item": {
+        "type": "paragraph",
+        "id": "8727a3835cc8aa1a",
+        "text": "Prospects for scenario-modelling urban design methodologies to achieve significant greenhouse gas emissions reductions\nMichael W. Mehaffy\n [http://www.palgrave-journals.com/udi/journal/v18/n4/pdf/udi20139a.pdf pdf]"
+      },
+      "date": 1427285544056
+    },
+    {
+      "type": "edit",
+      "id": "8727a3835cc8aa1a",
+      "item": {
+        "type": "paragraph",
+        "id": "8727a3835cc8aa1a",
+        "text": "Prospects for scenario-modelling urban design methodologies to achieve significant greenhouse gas emissions reductions. Michael W. Mehaffy\n [http://www.palgrave-journals.com/udi/journal/v18/n4/pdf/udi20139a.pdf pdf]"
+      },
+      "date": 1427285550760
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb58e5cab6074c77"
+      },
+      "id": "eb58e5cab6074c77",
+      "type": "add",
+      "after": "3600d2f697d57316",
+      "date": 1427285562466
+    },
+    {
+      "type": "edit",
+      "id": "3600d2f697d57316",
+      "item": {
+        "type": "paragraph",
+        "id": "3600d2f697d57316",
+        "text": "[http://delivery.acm.org/10.1145/2470000/2462947/a11-diaz.pdf?ip=86.164.43.20&id=2462947&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2ED93309013A15C57B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=492496109&CFTOKEN=50474096&__acm__=1427285546_4ed5c65c0cdd41df0b11f0d896ffd194"
+      },
+      "date": 1427285569352
+    },
+    {
+      "type": "edit",
+      "id": "3600d2f697d57316",
+      "item": {
+        "type": "paragraph",
+        "id": "3600d2f697d57316",
+        "text": "[http://dl.acm.org/citation.cfm?id=2462947 ACM]"
+      },
+      "date": 1427285589943
+    },
+    {
+      "type": "edit",
+      "id": "3600d2f697d57316",
+      "item": {
+        "type": "paragraph",
+        "id": "3600d2f697d57316",
+        "text": "Wikipedia customization through web augmentation techniques. [http://dl.acm.org/citation.cfm?id=2462947 ACM]"
+      },
+      "date": 1427285603823
+    },
+    {
+      "type": "edit",
+      "id": "eb58e5cab6074c77",
+      "item": {
+        "type": "paragraph",
+        "id": "eb58e5cab6074c77",
+        "text": "Federated Semantic Wikis. [http://www.edstim.fr/media/8linamolli__003010100_1139_15042014.pdf pdf]"
+      },
+      "date": 1427285621638
+    },
+    {
+      "type": "fork",
+      "date": 1427285662255
+    },
+    {
+      "type": "move",
+      "order": [
+        "27038aa5175e7224",
+        "5f726ab719dc2276",
+        "1144257c0cb5daad",
+        "0973ba699927b9a5",
+        "c72be278aba9967c",
+        "eb58e5cab6074c77",
+        "8727a3835cc8aa1a",
+        "3600d2f697d57316"
+      ],
+      "id": "eb58e5cab6074c77",
+      "date": 1427285699028
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0bacf4142315b565"
+      },
+      "id": "0bacf4142315b565",
+      "type": "add",
+      "after": "3600d2f697d57316",
+      "date": 1427285804882
+    },
+    {
+      "type": "edit",
+      "id": "0bacf4142315b565",
+      "item": {
+        "type": "paragraph",
+        "id": "0bacf4142315b565",
+        "text": "Distributed wikis: a survey. [http://onlinelibrary.wiley.com/doi/10.1002/cpe.3439/abstract paywall]"
+      },
+      "date": 1427285825970
+    },
+    {
+      "type": "edit",
+      "id": "3600d2f697d57316",
+      "item": {
+        "type": "paragraph",
+        "id": "3600d2f697d57316",
+        "text": "Wikipedia customization through web augmentation techniques. [http://dl.acm.org/citation.cfm?id=2462947 paywall]"
+      },
+      "date": 1427285835663
     }
   ]
 }

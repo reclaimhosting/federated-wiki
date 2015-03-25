@@ -19,7 +19,7 @@
     {
       "type": "paragraph",
       "id": "8476cdfd23723227",
-      "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start new root nodes displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This paradigm needs to be ingrained in the user interface in a way that makes navigation obvious."
+      "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start new root nodes (or sibling nodes depending on how you choose to think of navigation) displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This paradigm needs to be ingrained in the user interface in a way that makes navigation obvious."
     },
     {
       "type": "paragraph",
@@ -34,7 +34,7 @@
     {
       "type": "paragraph",
       "id": "bd310376286a46ff",
-      "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, instead of only the rightmost one). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
+      "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, without using the back button). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it, that is ubiquitous across browsers and platforms is needed)"
     },
     {
       "type": "pagefold",
@@ -44,7 +44,7 @@
     {
       "type": "paragraph",
       "id": "08fba3f5fecae532",
-      "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed. This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
+      "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed (as well as some form of undo). This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
     },
     {
       "type": "paragraph",
@@ -490,6 +490,46 @@
         "text": "Accidental forking [https://francesbell.wordpress.com/2015/01/05/reflection-on-fedwiki-two-tales-of-two-forks/ html]"
       },
       "date": 1427286447783
+    },
+    {
+      "type": "edit",
+      "id": "8476cdfd23723227",
+      "item": {
+        "type": "paragraph",
+        "id": "8476cdfd23723227",
+        "text": "Navigation is like exploring the branches of a tree. Clicking ordinary internal links expands the branches. Shift-clicking an internal link and searching start new root nodes (or sibling nodes depending on how you choose to think of navigation) displayed to the right of your currently open pages. Understanding navigation in this paradigm makes everything much more clear. This paradigm needs to be ingrained in the user interface in a way that makes navigation obvious."
+      },
+      "date": 1427289867574
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, without using the back button). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it that is ubiquitous across browsers and platforms is needed)"
+      },
+      "date": 1427289968455
+    },
+    {
+      "type": "edit",
+      "id": "bd310376286a46ff",
+      "item": {
+        "type": "paragraph",
+        "id": "bd310376286a46ff",
+        "text": "The navigation interface also needs to not have any dependencies on specific browser features. I should not have to close pages by clicking the back button (maybe this feature could still exist, but I need to be able to explicitly say which pages I want to disappear, without using the back button). Dragging in pages from other sites should not be dependent on drag and drop between tabs in the browser (again, this could still exist, but an improved way of doing it, that is ubiquitous across browsers and platforms is needed)"
+      },
+      "date": 1427289992538
+    },
+    {
+      "type": "edit",
+      "id": "08fba3f5fecae532",
+      "item": {
+        "type": "paragraph",
+        "id": "08fba3f5fecae532",
+        "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed (as well as some form of undo). This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
+      },
+      "date": 1427290025426
     }
   ]
 }

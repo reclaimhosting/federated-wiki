@@ -1,0 +1,133 @@
+{
+  "title": "phone switch",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1d7077508182a6c1",
+      "text": "Contacts"
+    },
+    {
+      "type": "paragraph",
+      "id": "239988ecd6fa2f2e",
+      "text": "Photos to SDF Gallery"
+    },
+    {
+      "type": "paragraph",
+      "id": "cbe4798c119a6580",
+      "text": "Music cleaned up on compys"
+    },
+    {
+      "type": "paragraph",
+      "id": "2978d93ff6bb8e5a",
+      "text": "RecordNow clips onto Dell"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "phone switch",
+        "story": []
+      },
+      "date": 1427369066376
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d7077508182a6c1"
+      },
+      "id": "1d7077508182a6c1",
+      "type": "add",
+      "date": 1427369068294
+    },
+    {
+      "type": "edit",
+      "id": "1d7077508182a6c1",
+      "item": {
+        "type": "paragraph",
+        "id": "1d7077508182a6c1",
+        "text": "Contacts"
+      },
+      "date": 1427369073011
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "239988ecd6fa2f2e",
+        "text": ""
+      },
+      "id": "239988ecd6fa2f2e",
+      "type": "add",
+      "after": "1d7077508182a6c1",
+      "date": 1427369073041
+    },
+    {
+      "type": "edit",
+      "id": "239988ecd6fa2f2e",
+      "item": {
+        "type": "paragraph",
+        "id": "239988ecd6fa2f2e",
+        "text": "Photos to SDF Gallery"
+      },
+      "date": 1427369078113
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cbe4798c119a6580",
+        "text": ""
+      },
+      "id": "cbe4798c119a6580",
+      "type": "add",
+      "after": "239988ecd6fa2f2e",
+      "date": 1427369078125
+    },
+    {
+      "type": "edit",
+      "id": "cbe4798c119a6580",
+      "item": {
+        "type": "paragraph",
+        "id": "cbe4798c119a6580",
+        "text": "Music cleaned up on compys"
+      },
+      "date": 1427369085939
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2978d93ff6bb8e5a",
+        "text": ""
+      },
+      "id": "2978d93ff6bb8e5a",
+      "type": "add",
+      "after": "cbe4798c119a6580",
+      "date": 1427369085962
+    },
+    {
+      "type": "edit",
+      "id": "2978d93ff6bb8e5a",
+      "item": {
+        "type": "paragraph",
+        "id": "2978d93ff6bb8e5a",
+        "text": "RecordNow clips onto Dell"
+      },
+      "date": 1427369096212
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c7f382b2513c437c",
+        "text": ""
+      },
+      "id": "c7f382b2513c437c",
+      "type": "add",
+      "after": "2978d93ff6bb8e5a",
+      "date": 1427369096225
+    },
+    {
+      "type": "remove",
+      "id": "c7f382b2513c437c",
+      "date": 1427369153301
+    }
+  ]
+}

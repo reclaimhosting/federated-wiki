@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "1c6e434e76ca30cd"
+      "id": "f253e91ca24eba26"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ffc42b479af0912d"
+      "id": "b549c046d4389ced"
+    },
+    {
+      "date": 1427369401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "902b010c32830722"
     },
     {
       "date": 1427369210000,
@@ -18,16 +27,7 @@
       "title": "phone switch",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
       "type": "reference",
-      "id": "7d2d00f046cb44e7"
-    },
-    {
-      "date": 1427368801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "3aeb0a96e3cb0d82"
+      "id": "6242463ef9c18e36"
     },
     {
       "date": 1427290083000,
@@ -36,41 +36,55 @@
       "title": "Improving federated wiki",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
       "type": "reference",
-      "id": "e618de7c25c5c7f6"
+      "id": "622597400508d757"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b85071d2533d310b",
+      "id": "734e16df9e4b5506",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427369401000
+      "date": 1427370003000
     },
     {
       "type": "add",
-      "id": "1c6e434e76ca30cd",
+      "id": "f253e91ca24eba26",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "1c6e434e76ca30cd"
+        "id": "f253e91ca24eba26"
       },
-      "date": 1427369401000
+      "date": 1427370003000
     },
     {
       "type": "add",
-      "id": "ffc42b479af0912d",
+      "id": "b549c046d4389ced",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ffc42b479af0912d"
+        "id": "b549c046d4389ced"
       },
-      "date": 1427369401000
+      "date": 1427370003000
     },
     {
       "type": "add",
-      "id": "7d2d00f046cb44e7",
+      "id": "902b010c32830722",
+      "item": {
+        "date": 1427369401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "902b010c32830722"
+      },
+      "date": 1427370003000
+    },
+    {
+      "type": "add",
+      "id": "6242463ef9c18e36",
       "item": {
         "date": 1427369210000,
         "site": "jmahoney.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "phone switch",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
         "type": "reference",
-        "id": "7d2d00f046cb44e7"
+        "id": "6242463ef9c18e36"
       },
-      "date": 1427369401000
+      "date": 1427370003000
     },
     {
       "type": "add",
-      "id": "3aeb0a96e3cb0d82",
-      "item": {
-        "date": 1427368801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "3aeb0a96e3cb0d82"
-      },
-      "date": 1427369401000
-    },
-    {
-      "type": "add",
-      "id": "e618de7c25c5c7f6",
+      "id": "622597400508d757",
       "item": {
         "date": 1427290083000,
         "site": "esben.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Improving federated wiki",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
         "type": "reference",
-        "id": "e618de7c25c5c7f6"
+        "id": "622597400508d757"
       },
-      "date": 1427369401000
+      "date": 1427370003000
     }
   ]
 }

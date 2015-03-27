@@ -20,6 +20,36 @@
       "type": "paragraph",
       "id": "2978d93ff6bb8e5a",
       "text": "RecordNow clips onto Dell"
+    },
+    {
+      "type": "paragraph",
+      "id": "a396388975017d54",
+      "text": "random note apps"
+    },
+    {
+      "type": "pagefold",
+      "id": "8dc1202c460d2f3a",
+      "text": "apps"
+    },
+    {
+      "type": "paragraph",
+      "id": "5222639cbca1f2dc",
+      "text": "metronome"
+    },
+    {
+      "type": "paragraph",
+      "id": "97efbeebf06e1fdc",
+      "text": "mint.com"
+    },
+    {
+      "type": "paragraph",
+      "id": "4bf1977179018310",
+      "text": "recording in hi-fi"
+    },
+    {
+      "type": "paragraph",
+      "id": "2779ea59168f1213",
+      "text": "pray-as-you-go"
     }
   ],
   "journal": [
@@ -128,6 +158,146 @@
       "type": "remove",
       "id": "c7f382b2513c437c",
       "date": 1427369153301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dc1202c460d2f3a"
+      },
+      "id": "8dc1202c460d2f3a",
+      "type": "add",
+      "after": "2978d93ff6bb8e5a",
+      "date": 1427422392149
+    },
+    {
+      "type": "edit",
+      "id": "8dc1202c460d2f3a",
+      "item": {
+        "type": "pagefold",
+        "id": "8dc1202c460d2f3a",
+        "text": "apps"
+      },
+      "date": 1427422399500
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5222639cbca1f2dc"
+      },
+      "id": "5222639cbca1f2dc",
+      "type": "add",
+      "after": "8dc1202c460d2f3a",
+      "date": 1427422402551
+    },
+    {
+      "type": "edit",
+      "id": "5222639cbca1f2dc",
+      "item": {
+        "type": "paragraph",
+        "id": "5222639cbca1f2dc",
+        "text": "metronome"
+      },
+      "date": 1427422420270
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97efbeebf06e1fdc",
+        "text": ""
+      },
+      "id": "97efbeebf06e1fdc",
+      "type": "add",
+      "after": "5222639cbca1f2dc",
+      "date": 1427422420279
+    },
+    {
+      "type": "edit",
+      "id": "97efbeebf06e1fdc",
+      "item": {
+        "type": "paragraph",
+        "id": "97efbeebf06e1fdc",
+        "text": "mint.com"
+      },
+      "date": 1427422423751
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4bf1977179018310",
+        "text": ""
+      },
+      "id": "4bf1977179018310",
+      "type": "add",
+      "after": "97efbeebf06e1fdc",
+      "date": 1427422423760
+    },
+    {
+      "type": "edit",
+      "id": "4bf1977179018310",
+      "item": {
+        "type": "paragraph",
+        "id": "4bf1977179018310",
+        "text": "recording in hi-fi"
+      },
+      "date": 1427422467577
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2779ea59168f1213",
+        "text": ""
+      },
+      "id": "2779ea59168f1213",
+      "type": "add",
+      "after": "4bf1977179018310",
+      "date": 1427422467588
+    },
+    {
+      "type": "edit",
+      "id": "2779ea59168f1213",
+      "item": {
+        "type": "paragraph",
+        "id": "2779ea59168f1213",
+        "text": "pray-as-you-go"
+      },
+      "date": 1427422518336
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cb2cba9e6fc8da76",
+        "text": ""
+      },
+      "id": "cb2cba9e6fc8da76",
+      "type": "add",
+      "after": "2779ea59168f1213",
+      "date": 1427422518347
+    },
+    {
+      "type": "remove",
+      "id": "cb2cba9e6fc8da76",
+      "date": 1427422555646
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a396388975017d54",
+        "text": ""
+      },
+      "id": "a396388975017d54",
+      "type": "add",
+      "after": "2978d93ff6bb8e5a",
+      "date": 1427422561141
+    },
+    {
+      "type": "edit",
+      "id": "a396388975017d54",
+      "item": {
+        "type": "paragraph",
+        "id": "a396388975017d54",
+        "text": "random note apps"
+      },
+      "date": 1427422563661
     }
   ]
 }

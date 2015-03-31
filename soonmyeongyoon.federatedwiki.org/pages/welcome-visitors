@@ -2,29 +2,19 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. I am still trying to work on it, but I guess it will take some time.",
+      "text": "Welcome to Soonmyeong's [[Federated Wiki]]. This space is used to note down my academic activities and interests in a general sense.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
       "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "text": "[[Mental Notes: What is happening?"
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "html",
-      "id": "a9a52e2384be725b",
-      "text": "Hello!"
+      "text": "[[How to Wiki]]"
     }
   ],
   "journal": [
@@ -447,6 +437,124 @@
       "type": "remove",
       "id": "434ba1cd40480f10",
       "date": 1426896726843
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "acb6344fcf04557b",
+        "text": "]]"
+      },
+      "id": "acb6344fcf04557b",
+      "type": "add",
+      "after": "821827c99b90cfd1",
+      "date": 1427802260495
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[Mental Notes: What is happening?"
+      },
+      "date": 1427802260484
+    },
+    {
+      "type": "remove",
+      "id": "acb6344fcf04557b",
+      "date": 1427802262027
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1427802273158
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "17fcf4981e742002",
+        "text": ""
+      },
+      "id": "17fcf4981e742002",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1427802302077
+    },
+    {
+      "type": "remove",
+      "id": "17fcf4981e742002",
+      "date": 1427802304475
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to Soonmyeong's [[Federated Wiki]]. This space is used to note down my academic activities and interests in a general sense.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1427802342985
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f56aca8b845c0ba",
+        "text": ""
+      },
+      "id": "1f56aca8b845c0ba",
+      "type": "add",
+      "after": "7b56f22a4b9ee974",
+      "date": 1427802342994
+    },
+    {
+      "type": "remove",
+      "id": "1f56aca8b845c0ba",
+      "date": 1427802344429
+    },
+    {
+      "type": "remove",
+      "id": "a9a52e2384be725b",
+      "date": 1427802358634
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9b5aadb4f2afd103"
+      },
+      "id": "9b5aadb4f2afd103",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1427802364728
+    },
+    {
+      "type": "remove",
+      "id": "9b5aadb4f2afd103",
+      "date": 1427802370873
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "[[How to Wiki]]"
+      },
+      "date": 1427802386225
+    },
+    {
+      "type": "edit",
+      "id": "f948557ea42d2115",
+      "item": {
+        "type": "paragraph",
+        "id": "f948557ea42d2115",
+        "text": "[[Recent Changes]]"
+      },
+      "date": 1427802391473
+    },
+    {
+      "type": "remove",
+      "id": "0e86460984aea6ca",
+      "date": 1427802392070
     }
   ]
 }

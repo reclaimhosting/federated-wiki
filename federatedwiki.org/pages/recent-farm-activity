@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4e9a9d56e76b0667"
+      "id": "eae7c1097894cc36"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "7a6cc885c9d1cd54"
+      "id": "40f48c85cd2ef0c1"
     },
     {
-      "date": 1427801401000,
+      "date": 1427802584000,
+      "site": "soonmyeongyoon.federatedwiki.org",
+      "slug": "anarchism-marxism-and-beyond",
+      "title": "Anarchism, Marxism and Beyond",
+      "text": "In [http://soonmyeongyoon.federatedwiki.org soonmyeongyoon.federatedwiki.org] with 3 pages.",
+      "type": "reference",
+      "id": "68f3eb5b3704b120"
+    },
+    {
+      "date": 1427802001000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "fcd458c8a01298fa"
+      "id": "5e249137d0cf1981"
     },
     {
       "date": 1427423934000,
@@ -27,7 +36,7 @@
       "title": "phone switch",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
       "type": "reference",
-      "id": "340dad0bc934be22"
+      "id": "4f162ed04e05b884"
     },
     {
       "date": 1427290083000,
@@ -36,55 +45,69 @@
       "title": "Improving federated wiki",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
       "type": "reference",
-      "id": "3b5add1b7a6c1d81"
+      "id": "58f8583ae6ec489e"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "905439d51e60fce4",
+      "id": "deee328cab05fd91",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     },
     {
       "type": "add",
-      "id": "4e9a9d56e76b0667",
+      "id": "eae7c1097894cc36",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4e9a9d56e76b0667"
+        "id": "eae7c1097894cc36"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     },
     {
       "type": "add",
-      "id": "7a6cc885c9d1cd54",
+      "id": "40f48c85cd2ef0c1",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "7a6cc885c9d1cd54"
+        "id": "40f48c85cd2ef0c1"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     },
     {
       "type": "add",
-      "id": "fcd458c8a01298fa",
+      "id": "68f3eb5b3704b120",
       "item": {
-        "date": 1427801401000,
+        "date": 1427802584000,
+        "site": "soonmyeongyoon.federatedwiki.org",
+        "slug": "anarchism-marxism-and-beyond",
+        "title": "Anarchism, Marxism and Beyond",
+        "text": "In [http://soonmyeongyoon.federatedwiki.org soonmyeongyoon.federatedwiki.org] with 3 pages.",
+        "type": "reference",
+        "id": "68f3eb5b3704b120"
+      },
+      "date": 1427802601000
+    },
+    {
+      "type": "add",
+      "id": "5e249137d0cf1981",
+      "item": {
+        "date": 1427802001000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "fcd458c8a01298fa"
+        "id": "5e249137d0cf1981"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     },
     {
       "type": "add",
-      "id": "340dad0bc934be22",
+      "id": "4f162ed04e05b884",
       "item": {
         "date": 1427423934000,
         "site": "jmahoney.federatedwiki.org",
@@ -92,13 +115,13 @@
         "title": "phone switch",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
         "type": "reference",
-        "id": "340dad0bc934be22"
+        "id": "4f162ed04e05b884"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     },
     {
       "type": "add",
-      "id": "3b5add1b7a6c1d81",
+      "id": "58f8583ae6ec489e",
       "item": {
         "date": 1427290083000,
         "site": "esben.federatedwiki.org",
@@ -106,9 +129,9 @@
         "title": "Improving federated wiki",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 39 pages.",
         "type": "reference",
-        "id": "3b5add1b7a6c1d81"
+        "id": "58f8583ae6ec489e"
       },
-      "date": 1427802001000
+      "date": 1427802601000
     }
   ]
 }

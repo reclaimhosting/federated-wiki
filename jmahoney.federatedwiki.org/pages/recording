@@ -35,6 +35,21 @@
       "type": "paragraph",
       "id": "31dbbae687af1623",
       "text": "rm -r .pulse"
+    },
+    {
+      "type": "pagefold",
+      "id": "cba5b6001162992a",
+      "text": "CD Manufacturing"
+    },
+    {
+      "type": "paragraph",
+      "id": "3df03df3bf2eb2c0",
+      "text": "Duplication - CD-Rs"
+    },
+    {
+      "type": "paragraph",
+      "id": "221b4d01cf157aff",
+      "text": "Replication - Pressed from Glass Master"
     }
   ],
   "journal": [
@@ -286,6 +301,57 @@
         "text": "rm -r .pulse"
       },
       "date": 1427050129596
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cba5b6001162992a"
+      },
+      "id": "cba5b6001162992a",
+      "type": "add",
+      "after": "31dbbae687af1623",
+      "date": 1428763333451
+    },
+    {
+      "type": "edit",
+      "id": "cba5b6001162992a",
+      "item": {
+        "type": "pagefold",
+        "id": "cba5b6001162992a",
+        "text": "CD Manufacturing"
+      },
+      "date": 1428763357346
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3df03df3bf2eb2c0"
+      },
+      "id": "3df03df3bf2eb2c0",
+      "type": "add",
+      "after": "cba5b6001162992a",
+      "date": 1428763359428
+    },
+    {
+      "type": "edit",
+      "id": "3df03df3bf2eb2c0",
+      "item": {
+        "type": "paragraph",
+        "id": "3df03df3bf2eb2c0",
+        "text": "Duplication - CD-Rs"
+      },
+      "date": 1428763369461
+    },
+    {
+      "type": "add",
+      "id": "221b4d01cf157aff",
+      "item": {
+        "type": "paragraph",
+        "id": "221b4d01cf157aff",
+        "text": "Replication - Pressed from Glass Master"
+      },
+      "after": "3df03df3bf2eb2c0",
+      "date": 1428763381122
     }
   ]
 }

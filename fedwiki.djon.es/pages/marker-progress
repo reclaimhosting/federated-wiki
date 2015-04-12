@@ -2,8 +2,29 @@
   "title": "marker-progress",
   "story": [
     {
-      "type": "factory",
-      "id": "64658db722ce5c67"
+      "type": "html",
+      "id": "64658db722ce5c67",
+      "text": "<h3>Problem</h3>\n\n<p>The Moodle assignment management activity doesn't appear to offer a decent mechanism to give summary of marking progress, in particular:</p>\n<ul>\n  <li> Allowing course examiner to check marker progress and marking; and, \n       <p>e.g. how many are marked, in what state, average results etc. </p> </li>\n  <li> Generating final summary of results.\n       <p>Breakdown of results into marks etc.</p> </li>\n</ul>\n\n<p>Aim here is to produce a CASA that solves these problems.</p>"
+    },
+    {
+      "type": "html",
+      "id": "b3ab2eb1eadef787",
+      "text": "<h3>Background</h3>\n\n<P>Action is taking place on the \"view all/grade\" page which shows list of all students in a table with all information.  Various operations to change which list of students being viewed.</p>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f1a147be856c794e",
+      "text": "Table is in a <div class=\"no-overflow\"> and the table has class=\"flexible generaltable generalbox\""
+    },
+    {
+      "type": "paragraph",
+      "id": "dc0fedc7e6f2388f",
+      "text": "Each of the rows in the table have id=\"mod_assignment_grading_r0\" where the 0 changes to indicate the location in the table.  Also has a class=\"r0 user1005 unselectedrow\" where the user number would appear to the be the student's id in the Moodle database"
+    },
+    {
+      "type": "html",
+      "id": "581cb3882c06829d",
+      "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname </li>\n  <li> ID number </li>\n  <li> Email address </li>\n</ol>"
     }
   ],
   "journal": [
@@ -47,6 +68,117 @@
       "id": "64658db722ce5c67",
       "type": "add",
       "date": 1428818388509
+    },
+    {
+      "type": "edit",
+      "id": "64658db722ce5c67",
+      "item": {
+        "type": "html",
+        "id": "64658db722ce5c67",
+        "text": "<h3>Problem</h3>\n\n<p>The Moodle assignment management activity doesn't appear to offer a decent mechanism to give summary of marking progress, in particular:</p>\n<ul>\n  <li> Allowing course examiner to check marker progress and marking; and, \n       <p>e.g. how many are marked, in what state, average results etc. </p> </li>\n  <li> Generating final summary of results.\n       <p>Breakdown of results into marks etc.</p> </li>\n</ul>\n\n<p>Aim here is to produce a CASA that solves these problems.</p>"
+      },
+      "date": 1428818494206
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "871889694f8cf23a"
+      },
+      "id": "871889694f8cf23a",
+      "type": "add",
+      "after": "64658db722ce5c67",
+      "date": 1428818523919
+    },
+    {
+      "type": "remove",
+      "id": "871889694f8cf23a",
+      "date": 1428818535858
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee82c61cc48a2dfb"
+      },
+      "id": "ee82c61cc48a2dfb",
+      "type": "add",
+      "after": "64658db722ce5c67",
+      "date": 1428818538038
+    },
+    {
+      "type": "remove",
+      "id": "ee82c61cc48a2dfb",
+      "date": 1428818541755
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3ab2eb1eadef787"
+      },
+      "id": "b3ab2eb1eadef787",
+      "type": "add",
+      "after": "64658db722ce5c67",
+      "date": 1428818559959
+    },
+    {
+      "type": "edit",
+      "id": "b3ab2eb1eadef787",
+      "item": {
+        "type": "html",
+        "id": "b3ab2eb1eadef787",
+        "text": "<h3>Background</h3>\n\n<P>Action is taking place on the \"view all/grade\" page which shows list of all students in a table with all information.  Various operations to change which list of students being viewed.</p>\n"
+      },
+      "date": 1428818632109
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1a147be856c794e"
+      },
+      "id": "f1a147be856c794e",
+      "type": "add",
+      "after": "b3ab2eb1eadef787",
+      "date": 1428818643966
+    },
+    {
+      "type": "edit",
+      "id": "f1a147be856c794e",
+      "item": {
+        "type": "paragraph",
+        "id": "f1a147be856c794e",
+        "text": "Table is in a <div class=\"no-overflow\"> and the table has class=\"flexible generaltable generalbox\""
+      },
+      "date": 1428818669683
+    },
+    {
+      "type": "add",
+      "id": "dc0fedc7e6f2388f",
+      "item": {
+        "type": "paragraph",
+        "id": "dc0fedc7e6f2388f",
+        "text": "Each of the rows in the table have id=\"mod_assignment_grading_r0\" where the 0 changes to indicate the location in the table.  Also has a class=\"r0 user1005 unselectedrow\" where the user number would appear to the be the student's id in the Moodle database"
+      },
+      "after": "f1a147be856c794e",
+      "date": 1428818745297
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "581cb3882c06829d"
+      },
+      "id": "581cb3882c06829d",
+      "type": "add",
+      "after": "dc0fedc7e6f2388f",
+      "date": 1428818753107
+    },
+    {
+      "type": "edit",
+      "id": "581cb3882c06829d",
+      "item": {
+        "type": "html",
+        "id": "581cb3882c06829d",
+        "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname </li>\n  <li> ID number </li>\n  <li> Email address </li>\n</ol>"
+      },
+      "date": 1428818821687
     }
   ]
 }

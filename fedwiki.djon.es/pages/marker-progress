@@ -1,0 +1,52 @@
+{
+  "title": "marker-progress",
+  "story": [
+    {
+      "type": "factory",
+      "id": "64658db722ce5c67"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "marker-progress",
+        "story": []
+      },
+      "date": 1428818343170
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f7dce00f1bb177e"
+      },
+      "id": "2f7dce00f1bb177e",
+      "type": "add",
+      "date": 1428818359398
+    },
+    {
+      "type": "edit",
+      "id": "2f7dce00f1bb177e",
+      "item": {
+        "type": "paragraph",
+        "id": "2f7dce00f1bb177e",
+        "text": "== Problem =="
+      },
+      "date": 1428818380641
+    },
+    {
+      "type": "remove",
+      "id": "2f7dce00f1bb177e",
+      "date": 1428818386445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "64658db722ce5c67"
+      },
+      "id": "64658db722ce5c67",
+      "type": "add",
+      "date": 1428818388509
+    }
+  ]
+}

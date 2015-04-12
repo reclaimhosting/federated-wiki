@@ -24,7 +24,11 @@
     {
       "type": "html",
       "id": "581cb3882c06829d",
-      "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname </li>\n  <li> ID number </li>\n  <li> Email address </li>\n</ol>"
+      "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname <p> There is a link to the user profile and within that is the full name of the student (firstname surname)</p>\n</li>\n  <li> ID number </li>\n  <li> Email address </li>\n  <Li> Status \n      <p>Contains a range of divs with different information including:</p>\n       <ul>\n         <li> submissionstatus.* where .* can be [ submitted | ??] </li>\n         <li> latesubmission - contains how long after the due date the assignment was submitted. </li>\n         <li> readyforreview - indicates marking completed </li>\n        </ul>\n        <p>Appears some of the ids for these divs will be directly related to the workflow system.</p>\n  </li>\n  <li> Marker </li>\n  <li> grade </li>\n  <li> Edit - options for examiner to make changes to the assignment </li>\n  <li> Last modified (submission) </li>\n  <lI> File submissions </li>\n  <li> Submission comments </li>\n  <li> Administrative comments </li>\n  <li> Last modified (grade) </li>\n  <li> Annotate PDF </li>\n  <li> Feedback files </li>\n  <li> Final grade </li>\n</ol>\n</ol>"
+    },
+    {
+      "type": "factory",
+      "id": "62472cbf4d7b37fa"
     }
   ],
   "journal": [
@@ -179,6 +183,46 @@
         "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname </li>\n  <li> ID number </li>\n  <li> Email address </li>\n</ol>"
       },
       "date": 1428818821687
+    },
+    {
+      "type": "edit",
+      "id": "581cb3882c06829d",
+      "item": {
+        "type": "html",
+        "id": "581cb3882c06829d",
+        "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname </li>\n  <li> ID number </li>\n  <li> Email address </li>\n  <Li> Status </li>\n  <li> Marker </li>\n  <li> grade </li>\n  <li> Edit - options for examiner to make changes to the assignment </li>\n  <li> Last modified (submission) </li>\n  <lI> File submissions </li>\n  <li> Submission comments </li>\n  <li> Administrative comments </li>\n  <li> Last modified (grade) </li>\n  <li> Annotate PDF </li>\n  <li> Feedback files </li>\n  <li> Final grade </li>\n</ol>\n</ol>"
+      },
+      "date": 1428819239595
+    },
+    {
+      "type": "edit",
+      "id": "581cb3882c06829d",
+      "item": {
+        "type": "html",
+        "id": "581cb3882c06829d",
+        "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname <p> There is a link to the user profile and within that is the full name of the student (firstname surname)</p>\n</li>\n  <li> ID number </li>\n  <li> Email address </li>\n  <Li> Status </li>\n  <li> Marker </li>\n  <li> grade </li>\n  <li> Edit - options for examiner to make changes to the assignment </li>\n  <li> Last modified (submission) </li>\n  <lI> File submissions </li>\n  <li> Submission comments </li>\n  <li> Administrative comments </li>\n  <li> Last modified (grade) </li>\n  <li> Annotate PDF </li>\n  <li> Feedback files </li>\n  <li> Final grade </li>\n</ol>\n</ol>"
+      },
+      "date": 1428819309051
+    },
+    {
+      "type": "edit",
+      "id": "581cb3882c06829d",
+      "item": {
+        "type": "html",
+        "id": "581cb3882c06829d",
+        "text": "<p>Cells in each row are:</p>\n<ol>\n  <li> Select - checkbox to select </li>\n  <li> User Picture </li>\n  <li> First name / Surname <p> There is a link to the user profile and within that is the full name of the student (firstname surname)</p>\n</li>\n  <li> ID number </li>\n  <li> Email address </li>\n  <Li> Status \n      <p>Contains a range of divs with different information including:</p>\n       <ul>\n         <li> submissionstatus.* where .* can be [ submitted | ??] </li>\n         <li> latesubmission - contains how long after the due date the assignment was submitted. </li>\n         <li> readyforreview - indicates marking completed </li>\n        </ul>\n        <p>Appears some of the ids for these divs will be directly related to the workflow system.</p>\n  </li>\n  <li> Marker </li>\n  <li> grade </li>\n  <li> Edit - options for examiner to make changes to the assignment </li>\n  <li> Last modified (submission) </li>\n  <lI> File submissions </li>\n  <li> Submission comments </li>\n  <li> Administrative comments </li>\n  <li> Last modified (grade) </li>\n  <li> Annotate PDF </li>\n  <li> Feedback files </li>\n  <li> Final grade </li>\n</ol>\n</ol>"
+      },
+      "date": 1428819440254
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62472cbf4d7b37fa"
+      },
+      "id": "62472cbf4d7b37fa",
+      "type": "add",
+      "after": "581cb3882c06829d",
+      "date": 1428819467288
     }
   ]
 }

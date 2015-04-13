@@ -1,0 +1,71 @@
+{
+  "title": "Book progress check",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c876de5b320e44a4",
+      "text": "Make it easier for students and teachers to be aware of progress through the books"
+    },
+    {
+      "type": "paragraph",
+      "id": "27913e7c1a4fd906",
+      "text": "Students know where they've gotten up to/what they've done.  Perhaps even aware of what others have done."
+    },
+    {
+      "type": "paragraph",
+      "id": "147a1608531ad95e",
+      "text": "Teachers also able to identify this."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Book progress check",
+        "story": []
+      },
+      "date": 1428962868838
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c876de5b320e44a4"
+      },
+      "id": "c876de5b320e44a4",
+      "type": "add",
+      "date": 1428962870213
+    },
+    {
+      "type": "edit",
+      "id": "c876de5b320e44a4",
+      "item": {
+        "type": "paragraph",
+        "id": "c876de5b320e44a4",
+        "text": "Make it easier for students and teachers to be aware of progress through the books"
+      },
+      "date": 1428962882253
+    },
+    {
+      "type": "add",
+      "id": "27913e7c1a4fd906",
+      "item": {
+        "type": "paragraph",
+        "id": "27913e7c1a4fd906",
+        "text": "Students know where they've gotten up to/what they've done.  Perhaps even aware of what others have done."
+      },
+      "after": "c876de5b320e44a4",
+      "date": 1428962901591
+    },
+    {
+      "type": "add",
+      "id": "147a1608531ad95e",
+      "item": {
+        "type": "paragraph",
+        "id": "147a1608531ad95e",
+        "text": "Teachers also able to identify this."
+      },
+      "after": "27913e7c1a4fd906",
+      "date": 1428962908192
+    }
+  ]
+}

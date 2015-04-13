@@ -1,0 +1,130 @@
+{
+  "title": "A surrounding eco-system for OERs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c28bcf6ef8c0ad19",
+      "text": "Idea/comment from @gsiemens"
+    },
+    {
+      "type": "html",
+      "id": "748b6d190f352272",
+      "text": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p>just to clarify, <a href=\"https://twitter.com/jjulius\">@jjulius</a>, my point was that OER without a value ecosystem (analytics, adaptive learning) will no longer be a big pull</p>&mdash; George Siemens (@gsiemens) <a href=\"https://twitter.com/gsiemens/status/587702262643892224\">April 13, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+      "type": "paragraph",
+      "id": "131920e13ddffe99",
+      "text": "Perhaps suggesting a move away from the Moodle book module into something like the Lesson module."
+    },
+    {
+      "type": "paragraph",
+      "id": "32bc12d6f92dde73",
+      "text": "But also linked to the [[Book progress check]] idea"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "A surrounding eco-system for OERs",
+        "story": []
+      },
+      "date": 1428962766928
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c28bcf6ef8c0ad19"
+      },
+      "id": "c28bcf6ef8c0ad19",
+      "type": "add",
+      "date": 1428962769247
+    },
+    {
+      "type": "edit",
+      "id": "c28bcf6ef8c0ad19",
+      "item": {
+        "type": "paragraph",
+        "id": "c28bcf6ef8c0ad19",
+        "text": "Idea from @gsiemens"
+      },
+      "date": 1428962775813
+    },
+    {
+      "type": "edit",
+      "id": "c28bcf6ef8c0ad19",
+      "item": {
+        "type": "paragraph",
+        "id": "c28bcf6ef8c0ad19",
+        "text": "Idea/comment from @gsiemens"
+      },
+      "date": 1428962783828
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0bb4f94d72b38247"
+      },
+      "id": "0bb4f94d72b38247",
+      "type": "add",
+      "after": "c28bcf6ef8c0ad19",
+      "date": 1428962785072
+    },
+    {
+      "type": "remove",
+      "id": "0bb4f94d72b38247",
+      "date": 1428962790861
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "748b6d190f352272"
+      },
+      "id": "748b6d190f352272",
+      "type": "add",
+      "after": "c28bcf6ef8c0ad19",
+      "date": 1428962793090
+    },
+    {
+      "type": "edit",
+      "id": "748b6d190f352272",
+      "item": {
+        "type": "html",
+        "id": "748b6d190f352272",
+        "text": "<blockquote class=\"twitter-tweet\" lang=\"en\"><p>just to clarify, <a href=\"https://twitter.com/jjulius\">@jjulius</a>, my point was that OER without a value ecosystem (analytics, adaptive learning) will no longer be a big pull</p>&mdash; George Siemens (@gsiemens) <a href=\"https://twitter.com/gsiemens/status/587702262643892224\">April 13, 2015</a></blockquote> <script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      },
+      "date": 1428962796707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "131920e13ddffe99"
+      },
+      "id": "131920e13ddffe99",
+      "type": "add",
+      "after": "748b6d190f352272",
+      "date": 1428962805469
+    },
+    {
+      "type": "edit",
+      "id": "131920e13ddffe99",
+      "item": {
+        "type": "paragraph",
+        "id": "131920e13ddffe99",
+        "text": "Perhaps suggesting a move away from the Moodle book module into something like the Lesson module."
+      },
+      "date": 1428962834478
+    },
+    {
+      "type": "add",
+      "id": "32bc12d6f92dde73",
+      "item": {
+        "type": "paragraph",
+        "id": "32bc12d6f92dde73",
+        "text": "But also linked to the [[Book progress check]] idea"
+      },
+      "after": "131920e13ddffe99",
+      "date": 1428962855710
+    }
+  ]
+}

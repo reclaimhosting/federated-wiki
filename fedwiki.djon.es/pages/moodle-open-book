@@ -1,0 +1,105 @@
+{
+  "title": "Moodle open book",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd30aee973196e5e",
+      "text": "Random ideas and development journal for the [https://davidtjones.wordpress.com/research/the-moodle-open-book-module-project/ Moodle \"open\" Book module project]"
+    },
+    {
+      "type": "html",
+      "id": "3aac912df0098e18",
+      "text": "<h3>Feature ideas</h3>\n\n<p>A random collection of ideas for features that might be added to the book module.</p>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "15cc9699531168a2",
+      "text": "[[A surrounding eco-system for OERs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "45245ba6556242b6",
+      "text": "[[Book progress check]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Moodle open book",
+        "story": []
+      },
+      "date": 1428962628723
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd30aee973196e5e"
+      },
+      "id": "dd30aee973196e5e",
+      "type": "add",
+      "date": 1428962630763
+    },
+    {
+      "type": "edit",
+      "id": "dd30aee973196e5e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd30aee973196e5e",
+        "text": "Random ideas and development journal for the [https://davidtjones.wordpress.com/research/the-moodle-open-book-module-project/ Moodle \"open\" Book module project]"
+      },
+      "date": 1428962657599
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3aac912df0098e18"
+      },
+      "id": "3aac912df0098e18",
+      "type": "add",
+      "after": "dd30aee973196e5e",
+      "date": 1428962674040
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15cc9699531168a2"
+      },
+      "id": "15cc9699531168a2",
+      "type": "add",
+      "after": "3aac912df0098e18",
+      "date": 1428962703927
+    },
+    {
+      "type": "edit",
+      "id": "3aac912df0098e18",
+      "item": {
+        "type": "html",
+        "id": "3aac912df0098e18",
+        "text": "<h3>Feature ideas</h3>\n\n<p>A random collection of ideas for features that might be added to the book module.</p>\n"
+      },
+      "date": 1428962707865
+    },
+    {
+      "type": "edit",
+      "id": "15cc9699531168a2",
+      "item": {
+        "type": "paragraph",
+        "id": "15cc9699531168a2",
+        "text": "[[A surrounding eco-system for OERs]]"
+      },
+      "date": 1428962745147
+    },
+    {
+      "type": "add",
+      "id": "45245ba6556242b6",
+      "item": {
+        "type": "paragraph",
+        "id": "45245ba6556242b6",
+        "text": "[[Book progress check]]"
+      },
+      "after": "15cc9699531168a2",
+      "date": 1428962865477
+    }
+  ]
+}

@@ -18,6 +18,11 @@
     },
     {
       "type": "paragraph",
+      "id": "e0471b502acd8593",
+      "text": "[[Moodle open book]]"
+    },
+    {
+      "type": "paragraph",
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
       "text": " "
@@ -56,6 +61,10 @@
       "type": "paragraph",
       "id": "7de862242cdb2b1f",
       "text": "Conversation Clubs [http://fed.wiki.org/rosters/happening-2.html html]"
+    },
+    {
+      "type": "factory",
+      "id": "c917e893ef645086"
     }
   ],
   "journal": [
@@ -1410,6 +1419,37 @@
         "text": "After playing a bit as part of #fedwikihappening with the [[Happening Folks]] I'm now moving (slowly) onto the next big SFW thing - [[Teaching Machines Sites]]. If I ever do anything related, it will be [[Teaching Machines (@djplaner)]]"
       },
       "date": 1425124889661
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.djon.es",
+      "date": 1428962552915
+    },
+    {
+      "type": "add",
+      "id": "e0471b502acd8593",
+      "item": {
+        "type": "paragraph",
+        "id": "e0471b502acd8593",
+        "text": "[[Moodle open book]]"
+      },
+      "after": "0e4e7af9af4172c7",
+      "site": "fedwiki.djon.es",
+      "date": 1428962552910
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c917e893ef645086"
+      },
+      "id": "c917e893ef645086",
+      "type": "add",
+      "after": "7de862242cdb2b1f",
+      "date": 1428962582239
+    },
+    {
+      "type": "fork",
+      "date": 1428962585520
     }
   ]
 }

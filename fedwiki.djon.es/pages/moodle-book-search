@@ -2,8 +2,14 @@
   "title": "Moodle book search",
   "story": [
     {
-      "type": "factory",
-      "id": "e6f6fa7fdda787c1"
+      "type": "paragraph",
+      "id": "e6f6fa7fdda787c1",
+      "text": "Implement the ability to search for content across a all (and a subset of) books across a course"
+    },
+    {
+      "type": "paragraph",
+      "id": "043431663002857e",
+      "text": "[[Moodle forum search]] provides the simplest model for this enabled by the current simple [[Moodle book module database]]"
     }
   ],
   "journal": [
@@ -23,6 +29,27 @@
       "id": "e6f6fa7fdda787c1",
       "type": "add",
       "date": 1429513784427
+    },
+    {
+      "type": "edit",
+      "id": "e6f6fa7fdda787c1",
+      "item": {
+        "type": "paragraph",
+        "id": "e6f6fa7fdda787c1",
+        "text": "Implement the ability to search for content across a all (and a subset of) books across a course"
+      },
+      "date": 1429513808936
+    },
+    {
+      "type": "add",
+      "id": "043431663002857e",
+      "item": {
+        "type": "paragraph",
+        "id": "043431663002857e",
+        "text": "[[Moodle forum search]] provides the simplest model for this enabled by the current simple [[Moodle book module database]]"
+      },
+      "after": "e6f6fa7fdda787c1",
+      "date": 1429513833839
     }
   ]
 }

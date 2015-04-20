@@ -5,6 +5,31 @@
       "type": "paragraph",
       "id": "59853f0a8e02abfc",
       "text": "One of the few places in Moodle that implements a search engine.  Can it's approach be duplicated for the book module?"
+    },
+    {
+      "type": "paragraph",
+      "id": "6fa275a43ea4d84c",
+      "text": "mod/forum/search.php implements interface"
+    },
+    {
+      "type": "paragraph",
+      "id": "9e670b319d9a76d3",
+      "text": "mod/forum/lib.php :: forum_search_posts returns a list of posts matching the search terms"
+    },
+    {
+      "type": "html",
+      "id": "0d2428af039c490d",
+      "text": "Does various checks to build the SQL statement to do the search, including<ol> <li> What forums can be viewed</li> <li> Hidden posts</li> <li> Q&A forums </li> <li> groups </li> </ol>\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ad33d730ad5ce03",
+      "text": "And that's it, similar approach could work for the book - if it uses the database."
+    },
+    {
+      "type": "paragraph",
+      "id": "36b1f07357bda412",
+      "text": "Which it does [[Moodle book module database]]"
     }
   ],
   "journal": [
@@ -34,6 +59,136 @@
         "text": "One of the few places in Moodle that implements a search engine.  Can it's approach be duplicated for the book module?"
       },
       "date": 1429513199549
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fa275a43ea4d84c"
+      },
+      "id": "6fa275a43ea4d84c",
+      "type": "add",
+      "after": "59853f0a8e02abfc",
+      "date": 1429513282725
+    },
+    {
+      "type": "edit",
+      "id": "6fa275a43ea4d84c",
+      "item": {
+        "type": "paragraph",
+        "id": "6fa275a43ea4d84c",
+        "text": "mod/forum/search.php implements interface"
+      },
+      "date": 1429513290979
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9e670b319d9a76d3"
+      },
+      "id": "9e670b319d9a76d3",
+      "type": "add",
+      "after": "6fa275a43ea4d84c",
+      "date": 1429513379106
+    },
+    {
+      "type": "edit",
+      "id": "9e670b319d9a76d3",
+      "item": {
+        "type": "paragraph",
+        "id": "9e670b319d9a76d3",
+        "text": "mod/forum/lib.php :: forum_search_posts returns a list of posts matching the search terms"
+      },
+      "date": 1429513406486
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d2428af039c490d"
+      },
+      "id": "0d2428af039c490d",
+      "type": "add",
+      "after": "9e670b319d9a76d3",
+      "date": 1429513437830
+    },
+    {
+      "type": "edit",
+      "id": "0d2428af039c490d",
+      "item": {
+        "type": "paragraph",
+        "id": "0d2428af039c490d",
+        "text": "Does various checks to build the SQL statement to do the search, including"
+      },
+      "date": 1429513453676
+    },
+    {
+      "type": "edit",
+      "id": "0d2428af039c490d",
+      "item": {
+        "type": "paragraph",
+        "id": "0d2428af039c490d",
+        "text": "Does various checks to build the SQL statement to do the search, including<ol> <li> What forums can be viewed</li> <li> Hidden posts</li> <li> Q&A forums </li> <li> groups </li> <li>"
+      },
+      "date": 1429513484636
+    },
+    {
+      "type": "edit",
+      "id": "0d2428af039c490d",
+      "item": {
+        "type": "html",
+        "id": "0d2428af039c490d",
+        "text": "Does various checks to build the SQL statement to do the search, including<ol> <li> What forums can be viewed</li> <li> Hidden posts</li> <li> Q&A forums </li> <li> groups </li> <li>"
+      },
+      "date": 1429513488983
+    },
+    {
+      "type": "edit",
+      "id": "0d2428af039c490d",
+      "item": {
+        "type": "html",
+        "id": "0d2428af039c490d",
+        "text": "Does various checks to build the SQL statement to do the search, including<ol> <li> What forums can be viewed</li> <li> Hidden posts</li> <li> Q&A forums </li> <li> groups </li> </ol>\n"
+      },
+      "date": 1429513529551
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4ad33d730ad5ce03"
+      },
+      "id": "4ad33d730ad5ce03",
+      "type": "add",
+      "after": "0d2428af039c490d",
+      "date": 1429513530872
+    },
+    {
+      "type": "edit",
+      "id": "4ad33d730ad5ce03",
+      "item": {
+        "type": "paragraph",
+        "id": "4ad33d730ad5ce03",
+        "text": "And that's it, similar approach could work for the book - if it uses the database."
+      },
+      "date": 1429513548240
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36b1f07357bda412"
+      },
+      "id": "36b1f07357bda412",
+      "type": "add",
+      "after": "4ad33d730ad5ce03",
+      "date": 1429513734813
+    },
+    {
+      "type": "edit",
+      "id": "36b1f07357bda412",
+      "item": {
+        "type": "paragraph",
+        "id": "36b1f07357bda412",
+        "text": "Which it does [[Moodle book module database]]"
+      },
+      "date": 1429513743115
     }
   ]
 }

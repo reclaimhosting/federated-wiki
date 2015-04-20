@@ -1,0 +1,69 @@
+{
+  "title": "Moodle book module database",
+  "story": [
+    {
+      "type": "html",
+      "id": "db0fd5867c8746c0",
+      "text": "Two tables<ol> \n<li> mdl_book: id, course, name, intro, introformat, numbering, navstyle, customtitles, revision, timecreated, time modified<p>Basically the \"edit settings\".</p> </li> \n<li> mdl_book_chapters : id, bookid, pagenum, subchapter, title, content, contentformat, hidden, timecreated, timemodified, importsrc\n  <p>basically the content</p>\n</li> </ol>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Moodle book module database",
+        "story": []
+      },
+      "date": 1429513605060
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db0fd5867c8746c0"
+      },
+      "id": "db0fd5867c8746c0",
+      "type": "add",
+      "date": 1429513607950
+    },
+    {
+      "type": "edit",
+      "id": "db0fd5867c8746c0",
+      "item": {
+        "type": "paragraph",
+        "id": "db0fd5867c8746c0",
+        "text": "Two tables<ol> <li> mdl_book </li> <li> mdl_book_chapters </li> </ol>"
+      },
+      "date": 1429513631081
+    },
+    {
+      "type": "edit",
+      "id": "db0fd5867c8746c0",
+      "item": {
+        "type": "html",
+        "id": "db0fd5867c8746c0",
+        "text": "Two tables<ol> <li> mdl_book </li> <li> mdl_book_chapters </li> </ol>"
+      },
+      "date": 1429513633002
+    },
+    {
+      "type": "edit",
+      "id": "db0fd5867c8746c0",
+      "item": {
+        "type": "html",
+        "id": "db0fd5867c8746c0",
+        "text": "Two tables<ol> \n<li> mdl_book: id, course, name, intro, introformat, numbering, navstyle, customtitles, revision, timecreated, time modified<p>Basically the \"edit settings\".</p> </li> \n<li> mdl_book_chapters </li> </ol>"
+      },
+      "date": 1429513681548
+    },
+    {
+      "type": "edit",
+      "id": "db0fd5867c8746c0",
+      "item": {
+        "type": "html",
+        "id": "db0fd5867c8746c0",
+        "text": "Two tables<ol> \n<li> mdl_book: id, course, name, intro, introformat, numbering, navstyle, customtitles, revision, timecreated, time modified<p>Basically the \"edit settings\".</p> </li> \n<li> mdl_book_chapters : id, bookid, pagenum, subchapter, title, content, contentformat, hidden, timecreated, timemodified, importsrc\n  <p>basically the content</p>\n</li> </ol>"
+      },
+      "date": 1429513728020
+    }
+  ]
+}

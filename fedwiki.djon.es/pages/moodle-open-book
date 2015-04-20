@@ -22,6 +22,11 @@
       "text": "[[Book progress check]]"
     },
     {
+      "type": "paragraph",
+      "id": "fa982e9db05010a8",
+      "text": "[[Moodle book search]]"
+    },
+    {
       "type": "html",
       "id": "d76c2c0dfb58569c",
       "text": "<h3>Exploration</h3>"
@@ -35,6 +40,16 @@
       "type": "paragraph",
       "id": "8042835f21652ec5",
       "text": "[[Moodle forum search]]"
+    },
+    {
+      "type": "html",
+      "id": "d915a002c865bd7e",
+      "text": "<h3>Moodle book module</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "49938a4322a0650a",
+      "text": "[[Moodle book module database]]"
     }
   ],
   "journal": [
@@ -186,6 +201,58 @@
       },
       "after": "220fc48ffaac35ff",
       "date": 1429513168455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d915a002c865bd7e"
+      },
+      "id": "d915a002c865bd7e",
+      "type": "add",
+      "after": "8042835f21652ec5",
+      "date": 1429513580327
+    },
+    {
+      "type": "edit",
+      "id": "d915a002c865bd7e",
+      "item": {
+        "type": "paragraph",
+        "id": "d915a002c865bd7e",
+        "text": "<h3>Moodle book module</h3>"
+      },
+      "date": 1429513590281
+    },
+    {
+      "type": "edit",
+      "id": "d915a002c865bd7e",
+      "item": {
+        "type": "html",
+        "id": "d915a002c865bd7e",
+        "text": "<h3>Moodle book module</h3>"
+      },
+      "date": 1429513592516
+    },
+    {
+      "type": "add",
+      "id": "49938a4322a0650a",
+      "item": {
+        "type": "paragraph",
+        "id": "49938a4322a0650a",
+        "text": "[[Moodle book module database]]"
+      },
+      "after": "d915a002c865bd7e",
+      "date": 1429513600519
+    },
+    {
+      "type": "add",
+      "id": "fa982e9db05010a8",
+      "item": {
+        "type": "paragraph",
+        "id": "fa982e9db05010a8",
+        "text": "[[Moodle book search]]"
+      },
+      "after": "45245ba6556242b6",
+      "date": 1429513776249
     }
   ]
 }

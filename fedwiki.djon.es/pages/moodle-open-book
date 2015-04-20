@@ -20,6 +20,21 @@
       "type": "paragraph",
       "id": "45245ba6556242b6",
       "text": "[[Book progress check]]"
+    },
+    {
+      "type": "html",
+      "id": "d76c2c0dfb58569c",
+      "text": "<h3>Exploration</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "220fc48ffaac35ff",
+      "text": "Summary of various bits of exploration around the project"
+    },
+    {
+      "type": "paragraph",
+      "id": "8042835f21652ec5",
+      "text": "[[Moodle forum search]]"
     }
   ],
   "journal": [
@@ -100,6 +115,77 @@
       },
       "after": "15cc9699531168a2",
       "date": 1428962865477
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.djon.es",
+      "date": 1429513072960
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d76c2c0dfb58569c"
+      },
+      "id": "d76c2c0dfb58569c",
+      "type": "add",
+      "after": "45245ba6556242b6",
+      "site": "fedwiki.djon.es",
+      "date": 1429513072958
+    },
+    {
+      "type": "edit",
+      "id": "d76c2c0dfb58569c",
+      "item": {
+        "type": "paragraph",
+        "id": "d76c2c0dfb58569c",
+        "text": "<h3>Exploration</h3>"
+      },
+      "date": 1429513091130
+    },
+    {
+      "type": "fork",
+      "date": 1429513124465
+    },
+    {
+      "type": "edit",
+      "id": "d76c2c0dfb58569c",
+      "item": {
+        "type": "html",
+        "id": "d76c2c0dfb58569c",
+        "text": "<h3>Exploration</h3>"
+      },
+      "date": 1429513127636
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "220fc48ffaac35ff"
+      },
+      "id": "220fc48ffaac35ff",
+      "type": "add",
+      "after": "d76c2c0dfb58569c",
+      "date": 1429513133352
+    },
+    {
+      "type": "edit",
+      "id": "220fc48ffaac35ff",
+      "item": {
+        "type": "paragraph",
+        "id": "220fc48ffaac35ff",
+        "text": "Summary of various bits of exploration around the project"
+      },
+      "date": 1429513150440
+    },
+    {
+      "type": "add",
+      "id": "8042835f21652ec5",
+      "item": {
+        "type": "paragraph",
+        "id": "8042835f21652ec5",
+        "text": "[[Moodle forum search]]"
+      },
+      "after": "220fc48ffaac35ff",
+      "date": 1429513168455
     }
   ]
 }

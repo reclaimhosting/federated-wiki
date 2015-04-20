@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "4de6e3d1893bbd27"
+      "id": "f1bdd597f906a7ac"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "1fc99f572b5bfa42"
+      "id": "0e2cbe73c5e2954a"
     },
     {
-      "date": 1429512001000,
+      "date": 1429513199000,
+      "site": "fedwiki.djon.es",
+      "slug": "moodle-forum-search",
+      "title": "Moodle forum search",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 97 pages.",
+      "type": "reference",
+      "id": "3d81856fdfaa1109"
+    },
+    {
+      "date": 1429512601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "ee22f5f73412dad0"
-    },
-    {
-      "date": 1428962908000,
-      "site": "fedwiki.djon.es",
-      "slug": "book-progress-check",
-      "title": "Book progress check",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 96 pages.",
-      "type": "reference",
-      "id": "f192c0371bf161ba"
+      "id": "f39938d8d2a18ed6"
     },
     {
       "date": 1428763381000,
@@ -36,69 +36,69 @@
       "title": "Recording",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
       "type": "reference",
-      "id": "8066040133f38514"
+      "id": "c9ff4b54c9e39a8d"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "22b5deeed87e1c25",
+      "id": "bef139d924eda58a",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1429512601000
+      "date": 1429513201000
     },
     {
       "type": "add",
-      "id": "4de6e3d1893bbd27",
+      "id": "f1bdd597f906a7ac",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "4de6e3d1893bbd27"
+        "id": "f1bdd597f906a7ac"
       },
-      "date": 1429512601000
+      "date": 1429513201000
     },
     {
       "type": "add",
-      "id": "1fc99f572b5bfa42",
+      "id": "0e2cbe73c5e2954a",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "1fc99f572b5bfa42"
+        "id": "0e2cbe73c5e2954a"
       },
-      "date": 1429512601000
+      "date": 1429513201000
     },
     {
       "type": "add",
-      "id": "ee22f5f73412dad0",
+      "id": "3d81856fdfaa1109",
       "item": {
-        "date": 1429512001000,
+        "date": 1429513199000,
+        "site": "fedwiki.djon.es",
+        "slug": "moodle-forum-search",
+        "title": "Moodle forum search",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 97 pages.",
+        "type": "reference",
+        "id": "3d81856fdfaa1109"
+      },
+      "date": 1429513201000
+    },
+    {
+      "type": "add",
+      "id": "f39938d8d2a18ed6",
+      "item": {
+        "date": 1429512601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "ee22f5f73412dad0"
+        "id": "f39938d8d2a18ed6"
       },
-      "date": 1429512601000
+      "date": 1429513201000
     },
     {
       "type": "add",
-      "id": "f192c0371bf161ba",
-      "item": {
-        "date": 1428962908000,
-        "site": "fedwiki.djon.es",
-        "slug": "book-progress-check",
-        "title": "Book progress check",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 96 pages.",
-        "type": "reference",
-        "id": "f192c0371bf161ba"
-      },
-      "date": 1429512601000
-    },
-    {
-      "type": "add",
-      "id": "8066040133f38514",
+      "id": "c9ff4b54c9e39a8d",
       "item": {
         "date": 1428763381000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Recording",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 59 pages.",
         "type": "reference",
-        "id": "8066040133f38514"
+        "id": "c9ff4b54c9e39a8d"
       },
-      "date": 1429512601000
+      "date": 1429513201000
     }
   ]
 }

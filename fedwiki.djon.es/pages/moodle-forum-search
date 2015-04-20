@@ -1,0 +1,39 @@
+{
+  "title": "Moodle forum search",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "59853f0a8e02abfc",
+      "text": "One of the few places in Moodle that implements a search engine.  Can it's approach be duplicated for the book module?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Moodle forum search",
+        "story": []
+      },
+      "date": 1429513172607
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59853f0a8e02abfc"
+      },
+      "id": "59853f0a8e02abfc",
+      "type": "add",
+      "date": 1429513174610
+    },
+    {
+      "type": "edit",
+      "id": "59853f0a8e02abfc",
+      "item": {
+        "type": "paragraph",
+        "id": "59853f0a8e02abfc",
+        "text": "One of the few places in Moodle that implements a search engine.  Can it's approach be duplicated for the book module?"
+      },
+      "date": 1429513199549
+    }
+  ]
+}

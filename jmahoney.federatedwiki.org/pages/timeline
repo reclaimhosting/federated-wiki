@@ -1,0 +1,177 @@
+{
+  "title": "timeline",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c8f36ccb5bce42b9",
+      "text": "2008-2009 start teaching, Fall 2008 - staying up till 2 and 3 am regularly"
+    },
+    {
+      "type": "paragraph",
+      "id": "a83143981723c2e1",
+      "text": "Summer and Fall 2009 - Very Tired"
+    },
+    {
+      "type": "paragraph",
+      "id": "677c4cf3be73bc1c",
+      "text": "Early 2010 (Feb?) - Finaly go see doctor"
+    },
+    {
+      "type": "paragraph",
+      "id": "bbf4a2667196b5b4",
+      "text": "Late Feb 2010 - Graves Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4e19975e9594c78",
+      "text": "Early March 2010 - Radioiodine Ablation of Thyroid"
+    },
+    {
+      "type": "paragraph",
+      "id": "44d8e134cc65cb0b",
+      "text": "May/June 2010 - Should have started Synthroid"
+    },
+    {
+      "type": "paragraph",
+      "id": "4de2be0d68d26703",
+      "text": "August (or Sept?) 2010 - Actually started Synthroid"
+    },
+    {
+      "type": "paragraph",
+      "id": "87f25c85956c25f6",
+      "text": "What is the dosage timeline?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b8689f6f903a74b8",
+      "text": "Fall 2011 - was still using thyroid as excuse for spacing out, low energy levels"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "timeline",
+        "story": []
+      },
+      "date": 1429634782759
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c8f36ccb5bce42b9"
+      },
+      "id": "c8f36ccb5bce42b9",
+      "type": "add",
+      "date": 1429634802639
+    },
+    {
+      "type": "edit",
+      "id": "c8f36ccb5bce42b9",
+      "item": {
+        "type": "paragraph",
+        "id": "c8f36ccb5bce42b9",
+        "text": "2008-2009 start teaching"
+      },
+      "date": 1429634811085
+    },
+    {
+      "type": "add",
+      "id": "a83143981723c2e1",
+      "item": {
+        "type": "paragraph",
+        "id": "a83143981723c2e1",
+        "text": "Summer and Fall 2009 - Very Tired"
+      },
+      "after": "c8f36ccb5bce42b9",
+      "date": 1429634821995
+    },
+    {
+      "type": "add",
+      "id": "677c4cf3be73bc1c",
+      "item": {
+        "type": "paragraph",
+        "id": "677c4cf3be73bc1c",
+        "text": "Early 2010 (Feb?) - Finaly go see doctor"
+      },
+      "after": "a83143981723c2e1",
+      "date": 1429634838513
+    },
+    {
+      "type": "add",
+      "id": "bbf4a2667196b5b4",
+      "item": {
+        "type": "paragraph",
+        "id": "bbf4a2667196b5b4",
+        "text": "Late Feb 2010 - Graves Diagnosis"
+      },
+      "after": "677c4cf3be73bc1c",
+      "date": 1429634850148
+    },
+    {
+      "type": "add",
+      "id": "a4e19975e9594c78",
+      "item": {
+        "type": "paragraph",
+        "id": "a4e19975e9594c78",
+        "text": "Early March 2010 - Radioiodine Ablation of Thyroid"
+      },
+      "after": "bbf4a2667196b5b4",
+      "date": 1429634870521
+    },
+    {
+      "type": "add",
+      "id": "44d8e134cc65cb0b",
+      "item": {
+        "type": "paragraph",
+        "id": "44d8e134cc65cb0b",
+        "text": "May/June 2010 - Should have started Synthroid"
+      },
+      "after": "a4e19975e9594c78",
+      "date": 1429634890895
+    },
+    {
+      "type": "add",
+      "id": "4de2be0d68d26703",
+      "item": {
+        "type": "paragraph",
+        "id": "4de2be0d68d26703",
+        "text": "August (or Sept?) 2010 - Actually started Synthroid"
+      },
+      "after": "44d8e134cc65cb0b",
+      "date": 1429634912829
+    },
+    {
+      "type": "add",
+      "id": "b8689f6f903a74b8",
+      "item": {
+        "type": "paragraph",
+        "id": "b8689f6f903a74b8",
+        "text": "Fall 2011 - was still using thyroid as excuse for spacing out, low energy levels"
+      },
+      "after": "4de2be0d68d26703",
+      "date": 1429634940273
+    },
+    {
+      "type": "add",
+      "id": "87f25c85956c25f6",
+      "item": {
+        "type": "paragraph",
+        "id": "87f25c85956c25f6",
+        "text": "What is the dosage timeline?"
+      },
+      "after": "4de2be0d68d26703",
+      "date": 1429634950092
+    },
+    {
+      "type": "edit",
+      "id": "c8f36ccb5bce42b9",
+      "item": {
+        "type": "paragraph",
+        "id": "c8f36ccb5bce42b9",
+        "text": "2008-2009 start teaching, Fall 2008 - staying up till 2 and 3 am regularly"
+      },
+      "date": 1429634986973
+    }
+  ]
+}

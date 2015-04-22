@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c031682c63c53fbd"
+      "id": "a00e952bc8c73c6f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "ccbb2e39b1d0584d"
+      "id": "d2a995b89d7b62ae"
+    },
+    {
+      "date": 1429676401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "3c791e429d976b06"
     },
     {
       "date": 1429675976000,
@@ -18,16 +27,7 @@
       "title": "participate",
       "text": "In [http://nousion.federatedwiki.org nousion.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "0a39c5bcb05b1680"
-    },
-    {
-      "date": 1429675801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "a55a6114e2b68360"
+      "id": "d7dc32124ce61881"
     },
     {
       "date": 1429673422000,
@@ -36,7 +36,7 @@
       "title": "participate",
       "text": "In [http://sfw.nousion.net sfw.nousion.net] with 2 pages.",
       "type": "reference",
-      "id": "4751847fa9417c93"
+      "id": "53f3d5704471bc5a"
     },
     {
       "date": 1429635024000,
@@ -45,7 +45,7 @@
       "title": "timeline",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 60 pages.",
       "type": "reference",
-      "id": "ea24e018ec1d13a4"
+      "id": "79e3485a49e3b2c3"
     },
     {
       "date": 1429513833000,
@@ -54,41 +54,55 @@
       "title": "Moodle book search",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 99 pages.",
       "type": "reference",
-      "id": "b6ae7a79067004c8"
+      "id": "4a3f6f39be51c564"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "19168ceabb0e5b6d",
+      "id": "e6778d2b9b4fdf89",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "c031682c63c53fbd",
+      "id": "a00e952bc8c73c6f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c031682c63c53fbd"
+        "id": "a00e952bc8c73c6f"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "ccbb2e39b1d0584d",
+      "id": "d2a995b89d7b62ae",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "ccbb2e39b1d0584d"
+        "id": "d2a995b89d7b62ae"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "0a39c5bcb05b1680",
+      "id": "3c791e429d976b06",
+      "item": {
+        "date": 1429676401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "3c791e429d976b06"
+      },
+      "date": 1429677001000
+    },
+    {
+      "type": "add",
+      "id": "d7dc32124ce61881",
       "item": {
         "date": 1429675976000,
         "site": "nousion.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "participate",
         "text": "In [http://nousion.federatedwiki.org nousion.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "0a39c5bcb05b1680"
+        "id": "d7dc32124ce61881"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "a55a6114e2b68360",
-      "item": {
-        "date": 1429675801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "a55a6114e2b68360"
-      },
-      "date": 1429676401000
-    },
-    {
-      "type": "add",
-      "id": "4751847fa9417c93",
+      "id": "53f3d5704471bc5a",
       "item": {
         "date": 1429673422000,
         "site": "sfw.nousion.net",
@@ -124,13 +124,13 @@
         "title": "participate",
         "text": "In [http://sfw.nousion.net sfw.nousion.net] with 2 pages.",
         "type": "reference",
-        "id": "4751847fa9417c93"
+        "id": "53f3d5704471bc5a"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "ea24e018ec1d13a4",
+      "id": "79e3485a49e3b2c3",
       "item": {
         "date": 1429635024000,
         "site": "jmahoney.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "timeline",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 60 pages.",
         "type": "reference",
-        "id": "ea24e018ec1d13a4"
+        "id": "79e3485a49e3b2c3"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     },
     {
       "type": "add",
-      "id": "b6ae7a79067004c8",
+      "id": "4a3f6f39be51c564",
       "item": {
         "date": 1429513833000,
         "site": "fedwiki.djon.es",
@@ -152,9 +152,9 @@
         "title": "Moodle book search",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 99 pages.",
         "type": "reference",
-        "id": "b6ae7a79067004c8"
+        "id": "4a3f6f39be51c564"
       },
-      "date": 1429676401000
+      "date": 1429677001000
     }
   ]
 }

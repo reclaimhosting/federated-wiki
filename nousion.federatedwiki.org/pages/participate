@@ -4,7 +4,22 @@
     {
       "type": "markdown",
       "id": "fc15f05c74ef9908",
-      "text": "How to **participate**."
+      "text": "How to **participate** in this *wiki*."
+    },
+    {
+      "type": "pagefold",
+      "id": "fcb237081172be84",
+      "text": "new section\n"
+    },
+    {
+      "type": "map",
+      "id": "01717607d9d2236c",
+      "text": "2175 University Ave. S, Fairbanks, AK, 99709\n",
+      "latlng": {
+        "lat": 40.735383,
+        "lng": -73.984655
+      },
+      "zoom": 13
     }
   ],
   "journal": [
@@ -34,6 +49,81 @@
         "text": "How to **participate**."
       },
       "date": 1429672593881
+    },
+    {
+      "type": "edit",
+      "id": "fc15f05c74ef9908",
+      "item": {
+        "type": "markdown",
+        "id": "fc15f05c74ef9908",
+        "text": "How to **participate** in this *wiki*."
+      },
+      "date": 1429674417673
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fcb237081172be84"
+      },
+      "id": "fcb237081172be84",
+      "type": "add",
+      "after": "fc15f05c74ef9908",
+      "date": 1429674437373
+    },
+    {
+      "type": "edit",
+      "id": "fcb237081172be84",
+      "item": {
+        "type": "pagefold",
+        "id": "fcb237081172be84",
+        "text": "pagefold\n"
+      },
+      "date": 1429674446218
+    },
+    {
+      "type": "edit",
+      "id": "fcb237081172be84",
+      "item": {
+        "type": "pagefold",
+        "id": "fcb237081172be84",
+        "text": "new section\n"
+      },
+      "date": 1429674456158
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "01717607d9d2236c"
+      },
+      "id": "01717607d9d2236c",
+      "type": "add",
+      "after": "fcb237081172be84",
+      "date": 1429674458567
+    },
+    {
+      "type": "edit",
+      "id": "01717607d9d2236c",
+      "item": {
+        "type": "map",
+        "id": "01717607d9d2236c",
+        "text": "2175 University Ave., Fairbanks, AK, 99709"
+      },
+      "date": 1429674494648
+    },
+    {
+      "type": "edit",
+      "id": "01717607d9d2236c",
+      "item": {
+        "type": "map",
+        "id": "01717607d9d2236c",
+        "text": "2175 University Ave. S, Fairbanks, AK, 99709\n",
+        "latlng": {
+          "lat": 40.735383,
+          "lng": -73.984655
+        },
+        "zoom": 13
+      },
+      "date": 1429674521153
     }
   ]
 }

@@ -7,12 +7,17 @@
       "text": "Trying to link to this page I forked: [[Dec 21 2014 CogDog Notes]]"
     },
     {
+      "type": "paragraph",
+      "id": "11f445b221d6d646",
+      "text": "Below are actual pages I forked. I think."
+    },
+    {
       "type": "reference",
-      "id": "aa1560aa056aa6fa",
+      "id": "f7584f3220a41a6d",
       "site": "journal.hapgood.net",
-      "slug": "mike-caulfield",
-      "title": "Mike Caulfield",
-      "text": "Mike Caulfield is director of blended and networked learning at Washington State University Vancouver."
+      "slug": "aristotelian-notes",
+      "title": "Aristotelian Notes",
+      "text": "In the 13th century a number of texts, primarily those based around Aristotle's work, adopted a \"pillared\" approach to textual annotation. We will call these Aristotelian Notes. Here we discuss how the system worked and its import."
     }
   ],
   "journal": [
@@ -65,6 +70,45 @@
         "text": "Mike Caulfield is director of blended and networked learning at Washington State University Vancouver."
       },
       "date": 1429838014442
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7584f3220a41a6d"
+      },
+      "id": "f7584f3220a41a6d",
+      "type": "add",
+      "after": "aa1560aa056aa6fa",
+      "date": 1429838413114
+    },
+    {
+      "type": "edit",
+      "id": "f7584f3220a41a6d",
+      "item": {
+        "type": "reference",
+        "id": "f7584f3220a41a6d",
+        "site": "journal.hapgood.net",
+        "slug": "aristotelian-notes",
+        "title": "Aristotelian Notes",
+        "text": "In the 13th century a number of texts, primarily those based around Aristotle's work, adopted a \"pillared\" approach to textual annotation. We will call these Aristotelian Notes. Here we discuss how the system worked and its import."
+      },
+      "date": 1429838420249
+    },
+    {
+      "type": "add",
+      "id": "11f445b221d6d646",
+      "item": {
+        "type": "paragraph",
+        "id": "11f445b221d6d646",
+        "text": "Below are actual pages I forked. I think."
+      },
+      "after": "099053de69f221bb",
+      "date": 1429838463422
+    },
+    {
+      "type": "remove",
+      "id": "aa1560aa056aa6fa",
+      "date": 1429838506004
     }
   ]
 }

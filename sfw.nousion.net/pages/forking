@@ -5,6 +5,14 @@
       "type": "paragraph",
       "id": "099053de69f221bb",
       "text": "Trying to link to this page I forked: [[Dec 21 2014 CogDog Notes]]"
+    },
+    {
+      "type": "reference",
+      "id": "aa1560aa056aa6fa",
+      "site": "journal.hapgood.net",
+      "slug": "mike-caulfield",
+      "title": "Mike Caulfield",
+      "text": "Mike Caulfield is director of blended and networked learning at Washington State University Vancouver."
     }
   ],
   "journal": [
@@ -34,6 +42,29 @@
         "text": "Trying to link to this page I forked: [[Dec 21 2014 CogDog Notes]]"
       },
       "date": 1429837765029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aa1560aa056aa6fa"
+      },
+      "id": "aa1560aa056aa6fa",
+      "type": "add",
+      "after": "099053de69f221bb",
+      "date": 1429837929432
+    },
+    {
+      "type": "edit",
+      "id": "aa1560aa056aa6fa",
+      "item": {
+        "type": "reference",
+        "id": "aa1560aa056aa6fa",
+        "site": "journal.hapgood.net",
+        "slug": "mike-caulfield",
+        "title": "Mike Caulfield",
+        "text": "Mike Caulfield is director of blended and networked learning at Washington State University Vancouver."
+      },
+      "date": 1429838014442
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "title": "personal cyberinfrastructure",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0dd6bd516f256289",
+      "text": "Obviously, links to Gardner's stuff here. "
+    },
+    {
+      "type": "markdown",
+      "id": "214c1cd486ab8f03",
+      "text": "Also, resources for [[A Domain of One's Own]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "personal cyberinfrastructure",
+        "story": []
+      },
+      "date": 1430000345506
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0dd6bd516f256289"
+      },
+      "id": "0dd6bd516f256289",
+      "type": "add",
+      "date": 1430000351341
+    },
+    {
+      "type": "edit",
+      "id": "0dd6bd516f256289",
+      "item": {
+        "type": "markdown",
+        "id": "0dd6bd516f256289",
+        "text": "Obviously, links to Gardner's stuff here. "
+      },
+      "date": 1430000370333
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "214c1cd486ab8f03"
+      },
+      "id": "214c1cd486ab8f03",
+      "type": "add",
+      "after": "0dd6bd516f256289",
+      "date": 1430000373028
+    },
+    {
+      "type": "edit",
+      "id": "214c1cd486ab8f03",
+      "item": {
+        "type": "markdown",
+        "id": "214c1cd486ab8f03",
+        "text": "Also, resources for [[A Domain of One's Own]]"
+      },
+      "date": 1430000389995
+    }
+  ]
+}

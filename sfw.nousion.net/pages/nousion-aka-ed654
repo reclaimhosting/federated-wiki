@@ -2,14 +2,24 @@
   "title": "Nousion aka ED654",
   "story": [
     {
-      "type": "paragraph",
-      "id": "00e76db9ce1af6a7",
+      "type": "markdown",
+      "id": "dd5ad394fff582be",
       "text": "ED654 is a class in \"Digital Citizenship, Intellectual Property, and 'Internet Legal Issues'\" -- nested quotes necessary because I don't know for sure what that phrase means...and I created the \"planned course offering.\""
     },
     {
       "type": "markdown",
       "id": "b7544c27c65e2410",
-      "text": "**Why \"Nousion\"**\n"
+      "text": "__Why \"Nousion\"__? Students can tell me."
+    },
+    {
+      "type": "markdown",
+      "id": "98d9c5c7b4ca4208",
+      "text": "The gist of the class: digital citizenship, if it is to mean anything, is about agency---about how we live, the *practice* of living, and being online. Rather than write/talk/etc about what that means, students will create a [[personal cyberinfrastructure]] for themselves and experiment with applications and services that support creative expression and collaboration."
+    },
+    {
+      "type": "markdown",
+      "id": "7a161d460d3e61f5",
+      "text": "Along the way, I'm confident plenty of opportunities will come up to observe, derive and discuss what it means to be a digital citizen and what (the fiction of) intellectual property means in that context."
     }
   ],
   "journal": [
@@ -85,6 +95,140 @@
         "text": "**Why \"Nousion\"**\n"
       },
       "date": 1429999195469
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "*Why \"Nousion\"*\n"
+      },
+      "date": 1429999205560
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd5ad394fff582be"
+      },
+      "id": "dd5ad394fff582be",
+      "type": "add",
+      "after": "b7544c27c65e2410",
+      "date": 1429999219279
+    },
+    {
+      "type": "remove",
+      "id": "00e76db9ce1af6a7",
+      "date": 1429999221617
+    },
+    {
+      "type": "edit",
+      "id": "dd5ad394fff582be",
+      "item": {
+        "type": "markdown",
+        "id": "dd5ad394fff582be",
+        "text": "ED654 is a class in \"Digital Citizenship, Intellectual Property, and 'Internet Legal Issues'\" -- nested quotes necessary because I don't know for sure what that phrase means...and I created the \"planned course offering.\""
+      },
+      "date": 1429999223501
+    },
+    {
+      "type": "move",
+      "order": [
+        "dd5ad394fff582be",
+        "b7544c27c65e2410"
+      ],
+      "id": "dd5ad394fff582be",
+      "date": 1429999225176
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "__Why \"Nousion\"__\n"
+      },
+      "date": 1429999269040
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "__Why \"Nousion\"__? Students can tell me.\n"
+      },
+      "date": 1429999295099
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "__Why \"Nousion\"__? Students can tell me.\n\nThe gist of the class: digital citizenship, if it is to mean anything, is about agency"
+      },
+      "date": 1429999339082
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "__Why \"Nousion\"__? Students can tell me.\n\nThe gist of the class: digital citizenship, if it is to mean anything, is about agency---about how we live, the *practice* of living, and being online. Rather than write/talk/etc about what that means, students will create a [[personal cyberinfrastructure]] for themselves and experiment with applications and services that support creative expression and collaboration.\n\nAlong the way, I'm confident plenty of opportunities will come up to observe, derive and discuss what it means to be a digital citizen and what (the fiction of) intellectual property means in that context."
+      },
+      "date": 1429999523009
+    },
+    {
+      "type": "edit",
+      "id": "b7544c27c65e2410",
+      "item": {
+        "type": "markdown",
+        "id": "b7544c27c65e2410",
+        "text": "__Why \"Nousion\"__? Students can tell me."
+      },
+      "date": 1429999534982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98d9c5c7b4ca4208"
+      },
+      "id": "98d9c5c7b4ca4208",
+      "type": "add",
+      "after": "b7544c27c65e2410",
+      "date": 1429999536494
+    },
+    {
+      "type": "edit",
+      "id": "98d9c5c7b4ca4208",
+      "item": {
+        "type": "markdown",
+        "id": "98d9c5c7b4ca4208",
+        "text": "The gist of the class: digital citizenship, if it is to mean anything, is about agency---about how we live, the *practice* of living, and being online. Rather than write/talk/etc about what that means, students will create a [[personal cyberinfrastructure]] for themselves and experiment with applications and services that support creative expression and collaboration."
+      },
+      "date": 1429999545629
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a161d460d3e61f5"
+      },
+      "id": "7a161d460d3e61f5",
+      "type": "add",
+      "after": "98d9c5c7b4ca4208",
+      "date": 1429999548209
+    },
+    {
+      "type": "edit",
+      "id": "7a161d460d3e61f5",
+      "item": {
+        "type": "markdown",
+        "id": "7a161d460d3e61f5",
+        "text": "Along the way, I'm confident plenty of opportunities will come up to observe, derive and discuss what it means to be a digital citizen and what (the fiction of) intellectual property means in that context."
+      },
+      "date": 1429999552368
     }
   ]
 }

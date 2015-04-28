@@ -47,8 +47,14 @@
       "text": "Concrete lounges, digital renovation and deju vu all over again: 20 years of distance education"
     },
     {
-      "type": "factory",
-      "id": "65d696a2b5d531c2"
+      "type": "html",
+      "id": "65d696a2b5d531c2",
+      "text": "<h3>Research Method</h3>"
+    },
+    {
+      "type": "html",
+      "id": "20f5fff9ea98c839",
+      "text": "<p>A good job of the \"case study\" approach is given by <blockquote>Costello, E. (2014). Participatory Practices in Open Source Educational Software : The Case of the Moodle Bug Tracker Community. University of Dublin. Retrieved from http://www.tara.tcd.ie/handle/2262/71751</blockquote>"
     }
   ],
   "journal": [
@@ -501,6 +507,72 @@
       "type": "add",
       "after": "2e1de5a89ae75512",
       "date": 1430221194799
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a02a37631964241"
+      },
+      "id": "7a02a37631964241",
+      "type": "add",
+      "after": "65d696a2b5d531c2",
+      "date": 1430221207623
+    },
+    {
+      "type": "edit",
+      "id": "65d696a2b5d531c2",
+      "item": {
+        "type": "paragraph",
+        "id": "65d696a2b5d531c2",
+        "text": "=== Research Method ==="
+      },
+      "date": 1430221216908
+    },
+    {
+      "type": "add",
+      "id": "20f5fff9ea98c839",
+      "item": {
+        "type": "paragraph",
+        "id": "20f5fff9ea98c839",
+        "text": "<p>A good job of the \"case study\" approach is given by <blockquote>Costello, E. (2014). Participatory Practices in Open Source Educational Software : The Case of the Moodle Bug Tracker Community. University of Dublin. Retrieved from http://www.tara.tcd.ie/handle/2262/71751</blockquote>"
+      },
+      "after": "65d696a2b5d531c2",
+      "date": 1430221242883
+    },
+    {
+      "type": "edit",
+      "id": "20f5fff9ea98c839",
+      "item": {
+        "type": "html",
+        "id": "20f5fff9ea98c839",
+        "text": "<p>A good job of the \"case study\" approach is given by <blockquote>Costello, E. (2014). Participatory Practices in Open Source Educational Software : The Case of the Moodle Bug Tracker Community. University of Dublin. Retrieved from http://www.tara.tcd.ie/handle/2262/71751</blockquote>"
+      },
+      "date": 1430221243981
+    },
+    {
+      "type": "edit",
+      "id": "65d696a2b5d531c2",
+      "item": {
+        "type": "html",
+        "id": "65d696a2b5d531c2",
+        "text": "=== Research Method ==="
+      },
+      "date": 1430221245417
+    },
+    {
+      "type": "edit",
+      "id": "65d696a2b5d531c2",
+      "item": {
+        "type": "html",
+        "id": "65d696a2b5d531c2",
+        "text": "<h3>Research Method</h3>"
+      },
+      "date": 1430221262994
+    },
+    {
+      "type": "remove",
+      "id": "7a02a37631964241",
+      "date": 1430221267776
     }
   ]
 }

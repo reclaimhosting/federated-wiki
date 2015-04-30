@@ -19,7 +19,12 @@
     {
       "type": "paragraph",
       "id": "49cb33d409995882",
-      "text": "Chris Schlarb - "
+      "text": "Chris Schlarb - Psychic Temple"
+    },
+    {
+      "type": "paragraph",
+      "id": "deb3f389c6dfd3e0",
+      "text": "Half-Handed Cloud - Flying Scroll Flight Control w/ Slipmat?"
     }
   ],
   "journal": [
@@ -82,6 +87,43 @@
       },
       "after": "df841a0ef0c1eaf0",
       "date": 1430407801669
+    },
+    {
+      "type": "edit",
+      "id": "49cb33d409995882",
+      "item": {
+        "type": "paragraph",
+        "id": "49cb33d409995882",
+        "text": "Chris Schlarb - Psychic Temple"
+      },
+      "date": 1430407826713
+    },
+    {
+      "type": "add",
+      "id": "deb3f389c6dfd3e0",
+      "item": {
+        "type": "paragraph",
+        "id": "deb3f389c6dfd3e0",
+        "text": "Half-Handed Cloud - Flying Scroll Flight Control w/ Slipmat?"
+      },
+      "after": "49cb33d409995882",
+      "date": 1430407884387
+    },
+    {
+      "type": "add",
+      "id": "803e0b493aeb27e7",
+      "item": {
+        "type": "paragraph",
+        "id": "803e0b493aeb27e7",
+        "text": "II"
+      },
+      "after": "deb3f389c6dfd3e0",
+      "date": 1430407892019
+    },
+    {
+      "type": "remove",
+      "id": "803e0b493aeb27e7",
+      "date": 1430407917751
     }
   ]
 }

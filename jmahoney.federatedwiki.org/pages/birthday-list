@@ -1,0 +1,87 @@
+{
+  "title": "Birthday List",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e0f4d166c078c79a",
+      "text": "New record needle"
+    },
+    {
+      "type": "paragraph",
+      "id": "4f5d407bcd35d180",
+      "text": "Little Scream - The Golden Record"
+    },
+    {
+      "type": "paragraph",
+      "id": "df841a0ef0c1eaf0",
+      "text": "Dawn Landes"
+    },
+    {
+      "type": "paragraph",
+      "id": "49cb33d409995882",
+      "text": "Chris Schlarb - "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Birthday List",
+        "story": []
+      },
+      "date": 1430407755677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0f4d166c078c79a"
+      },
+      "id": "e0f4d166c078c79a",
+      "type": "add",
+      "date": 1430407757405
+    },
+    {
+      "type": "edit",
+      "id": "e0f4d166c078c79a",
+      "item": {
+        "type": "paragraph",
+        "id": "e0f4d166c078c79a",
+        "text": "New record needle"
+      },
+      "date": 1430407762473
+    },
+    {
+      "type": "add",
+      "id": "4f5d407bcd35d180",
+      "item": {
+        "type": "paragraph",
+        "id": "4f5d407bcd35d180",
+        "text": "Little Scream - The Golden Record"
+      },
+      "after": "e0f4d166c078c79a",
+      "date": 1430407782661
+    },
+    {
+      "type": "add",
+      "id": "df841a0ef0c1eaf0",
+      "item": {
+        "type": "paragraph",
+        "id": "df841a0ef0c1eaf0",
+        "text": "Dawn Landes"
+      },
+      "after": "4f5d407bcd35d180",
+      "date": 1430407787599
+    },
+    {
+      "type": "add",
+      "id": "49cb33d409995882",
+      "item": {
+        "type": "paragraph",
+        "id": "49cb33d409995882",
+        "text": "Chris Schlarb - "
+      },
+      "after": "df841a0ef0c1eaf0",
+      "date": 1430407801669
+    }
+  ]
+}

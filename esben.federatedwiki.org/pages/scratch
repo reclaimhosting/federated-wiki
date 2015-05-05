@@ -1,0 +1,93 @@
+{
+  "title": "scratch",
+  "story": [
+    {
+      "type": "factory",
+      "id": "a0c67c0ac8d0504a"
+    },
+    {
+      "type": "paragraph",
+      "id": "85a512de7acf2612",
+      "text": "[[About method plugin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b01031440f1be876",
+      "text": "[[About grep plugin]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "scratch",
+        "story": []
+      },
+      "date": 1430842945521
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46c9675be88c2a8d"
+      },
+      "id": "46c9675be88c2a8d",
+      "type": "add",
+      "date": 1430842947010
+    },
+    {
+      "type": "remove",
+      "id": "46c9675be88c2a8d",
+      "date": 1430842955219
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85a512de7acf2612"
+      },
+      "id": "85a512de7acf2612",
+      "type": "add",
+      "date": 1430842956311
+    },
+    {
+      "type": "edit",
+      "id": "85a512de7acf2612",
+      "item": {
+        "type": "paragraph",
+        "id": "85a512de7acf2612",
+        "text": "[[About method plugin]]"
+      },
+      "date": 1430842972826
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a0c67c0ac8d0504a"
+      },
+      "id": "a0c67c0ac8d0504a",
+      "type": "add",
+      "after": "b01031440f1be876",
+      "date": 1430842983063
+    },
+    {
+      "type": "add",
+      "id": "b01031440f1be876",
+      "item": {
+        "type": "paragraph",
+        "id": "b01031440f1be876",
+        "text": "About grep plugin"
+      },
+      "after": "85a512de7acf2612",
+      "date": 1430842989379
+    },
+    {
+      "type": "edit",
+      "id": "b01031440f1be876",
+      "item": {
+        "type": "paragraph",
+        "id": "b01031440f1be876",
+        "text": "[[About grep plugin]]"
+      },
+      "date": 1430842995010
+    }
+  ]
+}

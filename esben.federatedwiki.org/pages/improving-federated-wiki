@@ -60,6 +60,10 @@
       "type": "paragraph",
       "id": "877a6f67e0e59754",
       "text": "Accidental forking [https://francesbell.wordpress.com/2015/01/05/reflection-on-fedwiki-two-tales-of-two-forks/ html]"
+    },
+    {
+      "type": "factory",
+      "id": "0efee88571600cb2"
     }
   ],
   "journal": [
@@ -530,6 +534,16 @@
         "text": "Currently forking is a dangerous action! If you fork a page with the same name as one of the pages in your wiki, your own page is deleted forever. A merging action is needed (as well as some form of undo). This is clearly one of the biggest issues with federated wiki currently, and I the think a proper solution to this problem is crucial for federated wiki's future."
       },
       "date": 1427290025426
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0efee88571600cb2"
+      },
+      "id": "0efee88571600cb2",
+      "type": "add",
+      "after": "877a6f67e0e59754",
+      "date": 1430914801957
     }
   ]
 }

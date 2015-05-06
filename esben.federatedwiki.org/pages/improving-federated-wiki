@@ -89,7 +89,12 @@
     {
       "type": "paragraph",
       "id": "e741f336654c8ab0",
-      "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur C. Clarke,"
+      "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5c96d3ed6bd303aa",
+      "text": "There are two ways in which Mike's scenario can be fixed. "
     }
   ],
   "journal": [
@@ -768,6 +773,56 @@
         "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur C. Clarke,"
       },
       "date": 1430916567422
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! Arthur was only able to comment on "
+      },
+      "date": 1430916746442
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. "
+      },
+      "date": 1430916928696
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. "
+      },
+      "date": 1430916967433
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5c96d3ed6bd303aa"
+      },
+      "id": "5c96d3ed6bd303aa",
+      "type": "add",
+      "after": "e741f336654c8ab0",
+      "date": 1430917014532
+    },
+    {
+      "type": "edit",
+      "id": "5c96d3ed6bd303aa",
+      "item": {
+        "type": "paragraph",
+        "id": "5c96d3ed6bd303aa",
+        "text": "There are two ways in which Mike's scenario can be fixed. "
+      },
+      "date": 1430917072020
     }
   ]
 }

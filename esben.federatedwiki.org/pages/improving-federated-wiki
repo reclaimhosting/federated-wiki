@@ -99,7 +99,7 @@
     {
       "type": "paragraph",
       "id": "6255df64a7094409",
-      "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover via Maria and edit it, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
     },
     {
       "type": "paragraph",
@@ -974,6 +974,16 @@
         "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
       },
       "date": 1430918461719
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover via Maria and edit it, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430926173925
     }
   ]
 }

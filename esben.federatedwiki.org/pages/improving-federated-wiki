@@ -74,7 +74,7 @@
     {
       "type": "paragraph",
       "id": "7e8ef084a2a79fc7",
-      "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as it is a nice way to keep personal notes or make drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+      "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
     },
     {
       "type": "paragraph",
@@ -89,7 +89,7 @@
     {
       "type": "paragraph",
       "id": "e741f336654c8ab0",
-      "text": "It seems l"
+      "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur C. Clarke,"
     }
   ],
   "journal": [
@@ -563,8 +563,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "0efee88571600cb2"
+        "type": "pagefold",
+        "id": "0efee88571600cb2",
+        "text": "Local storage, drafts and fedwiki client"
       },
       "id": "0efee88571600cb2",
       "type": "add",
@@ -583,8 +584,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "81b04659b2e3076a"
+        "type": "paragraph",
+        "id": "81b04659b2e3076a",
+        "text": "Currently the federated wiki client runs in a browser - a browser in a browser. The HTML5 local storage feature is used to save changes locally on the client side. The wiki pages turn yellow and everything gets a bit confusing (especially because its difficult to figure out what is in the browser and what is on the web). If we consider federated wiki outside the context of the WWW, HTML, and browsers for a second, we might be able to come up with a better solution to the problem the local storage feature is trying to solve. "
       },
       "id": "81b04659b2e3076a",
       "type": "add",
@@ -603,8 +605,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "7e8ef084a2a79fc7"
+        "type": "paragraph",
+        "id": "7e8ef084a2a79fc7",
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
       },
       "id": "7e8ef084a2a79fc7",
       "type": "add",
@@ -617,7 +620,7 @@
       "item": {
         "type": "paragraph",
         "id": "7e8ef084a2a79fc7",
-        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally since it is a nice way to keep personal notes or make drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer (which is unmanageable) on top of existing wikis, I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
       },
       "date": 1430915602553
     },
@@ -627,7 +630,7 @@
       "item": {
         "type": "paragraph",
         "id": "7e8ef084a2a79fc7",
-        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as it is a nice way to keep personal notes or make drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer (which is unmanageable) on top of existing wikis, I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
       },
       "date": 1430915659907
     },
@@ -637,14 +640,15 @@
       "item": {
         "type": "paragraph",
         "id": "7e8ef084a2a79fc7",
-        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as it is a nice way to keep personal notes or make drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
       },
       "date": 1430915694933
     },
     {
       "item": {
-        "type": "factory",
-        "id": "9158be93f1e76283"
+        "type": "paragraph",
+        "id": "9158be93f1e76283",
+        "text": "Such an approach needs to be thought out carefully though - we might end up in a scenario where people do not publish what should be published."
       },
       "id": "9158be93f1e76283",
       "type": "add",
@@ -663,8 +667,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "0ac2433590dea1fe"
+        "type": "pagefold",
+        "id": "0ac2433590dea1fe",
+        "text": "Optionally let people now that you forked their content"
       },
       "id": "0ac2433590dea1fe",
       "type": "add",
@@ -683,8 +688,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "e741f336654c8ab0"
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "It seems l"
       },
       "id": "e741f336654c8ab0",
       "type": "add",
@@ -700,6 +706,68 @@
         "text": "It seems l"
       },
       "date": 1430915944767
+    },
+    {
+      "type": "edit",
+      "id": "7e8ef084a2a79fc7",
+      "item": {
+        "type": "paragraph",
+        "id": "7e8ef084a2a79fc7",
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+      },
+      "date": 1430916119772,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "edit",
+      "id": "7e8ef084a2a79fc7",
+      "item": {
+        "type": "paragraph",
+        "id": "7e8ef084a2a79fc7",
+        "text": "It seems like people run many wikis at once for different purposes. People also seem to run wikis locally as local wikis provide a nice way of keeping personal notes or making drafts of something to publish later. Federated wiki makes it very convenient to fork pages from these local wikis or drag content across to public ones. This approach to local content seems to be much more understandable and meaningful. Instead of providing a thin local storage layer on top of existing wikis (which is unmanageable for the user), I think an ideal federated wiki client should run a fully fledged, independent wiki locally while also allow users to edit their public ones. In this way we get a nice separation of local vs public content and we provide a feature that people seems to find useful (having your own local wiki)."
+      },
+      "date": 1430916144048,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1430916200160,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1430916226866,
+      "error": {
+        "type": "error",
+        "msg": "",
+        "response": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1430916336683
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html] Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur C. Clarke,"
+      },
+      "date": 1430916567422
     }
   ]
 }

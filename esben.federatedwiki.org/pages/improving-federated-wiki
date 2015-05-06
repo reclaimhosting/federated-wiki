@@ -84,12 +84,12 @@
     {
       "type": "pagefold",
       "id": "0ac2433590dea1fe",
-      "text": "Optionally let people now that you forked their content"
+      "text": "Discovering content and tracing forks"
     },
     {
       "type": "paragraph",
       "id": "e741f336654c8ab0",
-      "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. "
+      "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individuals to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. Verify this at time 2:07 of the final video in the blog post [https://www.youtube.com/watch?t=127&v=_oDR0tH1JZM youtube]"
     },
     {
       "type": "paragraph",
@@ -99,12 +99,12 @@
     {
       "type": "paragraph",
       "id": "6255df64a7094409",
-      "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people!"
+      "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
     },
     {
       "type": "paragraph",
       "id": "f025f58bf46bac11",
-      "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
+      "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network, it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
     }
   ],
   "journal": [
@@ -884,6 +884,86 @@
         "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
       },
       "date": 1430917767544
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his scenario, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430917907227
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. Verify this at time 2:07"
+      },
+      "date": 1430918030659
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. Verify this at time 2:07 of [https://www.youtube.com/watch?t=127&v=_oDR0tH1JZM youtube]"
+      },
+      "date": 1430918050548
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individual to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. Verify this at time 2:07 of the final video in the blog post [https://www.youtube.com/watch?t=127&v=_oDR0tH1JZM youtube]"
+      },
+      "date": 1430918069369
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430918102750
+    },
+    {
+      "type": "edit",
+      "id": "0ac2433590dea1fe",
+      "item": {
+        "type": "pagefold",
+        "id": "0ac2433590dea1fe",
+        "text": "Discovering content and tracing forks"
+      },
+      "date": 1430918202384
+    },
+    {
+      "type": "edit",
+      "id": "e741f336654c8ab0",
+      "item": {
+        "type": "paragraph",
+        "id": "e741f336654c8ab0",
+        "text": "In his blog post [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ html], Mike Caulfield describes how federated wiki provides a new approach for online collaboration in which relevant information flows naturally to the people who need it. As I've pointed out in a comment on the blog post, Mike's example scenario has a major weakness - it requires the individuals to be directly or indirectly following each other in order to discover the relevant content. In the example Maria is connected to both Arthur and George, Arthur is connected to both George and Maria, and George is only connected to Arthur. Only one connection is missing for this group of individuals to be fully connected! George was able to find Arthur's content through Maria, which he then edited. The whole point of the scenario is that Arthur then would be able to discover George's changes and everyone would be happy. HOWEVER, Arthur was only able to discover George's changes because he was connected to George in the first place. Verify this at time 2:07 of the final video in the blog post [https://www.youtube.com/watch?t=127&v=_oDR0tH1JZM youtube]"
+      },
+      "date": 1430918265647
+    },
+    {
+      "type": "edit",
+      "id": "f025f58bf46bac11",
+      "item": {
+        "type": "paragraph",
+        "id": "f025f58bf46bac11",
+        "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network, it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
+      },
+      "date": 1430918380921
     }
   ]
 }

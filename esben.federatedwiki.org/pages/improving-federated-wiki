@@ -95,6 +95,16 @@
       "type": "paragraph",
       "id": "5c96d3ed6bd303aa",
       "text": "There are two ways in which Mike's scenario can be fixed. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6255df64a7094409",
+      "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people!"
+    },
+    {
+      "type": "paragraph",
+      "id": "f025f58bf46bac11",
+      "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
     }
   ],
   "journal": [
@@ -823,6 +833,57 @@
         "text": "There are two ways in which Mike's scenario can be fixed. "
       },
       "date": 1430917072020
+    },
+    {
+      "type": "add",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"for to like\" policy Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people!"
+      },
+      "after": "5c96d3ed6bd303aa",
+      "date": 1430917393494
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people!"
+      },
+      "date": 1430917406236
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup - Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover and edit it via Maria, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people!"
+      },
+      "date": 1430917413364
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f025f58bf46bac11"
+      },
+      "id": "f025f58bf46bac11",
+      "type": "add",
+      "after": "6255df64a7094409",
+      "date": 1430917457317
+    },
+    {
+      "type": "edit",
+      "id": "f025f58bf46bac11",
+      "item": {
+        "type": "paragraph",
+        "id": "f025f58bf46bac11",
+        "text": "2. I propose a model in which you can optionally (although enabled by default) choose to let the author's wiki know that you have forked content. In this way, an author's content is traceable to the all of its modified versions. Doing a bit of analysis of the network it is probably possible to find the modifications that are most interesting to people (to your neighbourhood more specifically. We don't necessarily want the majority vote, we want the vote of people you \"trust\")."
+      },
+      "date": 1430917767544
     }
   ]
 }

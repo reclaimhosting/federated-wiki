@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "a61095e866c3a157",
-      "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details about federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
+      "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details of federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
     },
     {
       "type": "pagefold",
@@ -94,12 +94,12 @@
     {
       "type": "paragraph",
       "id": "5c96d3ed6bd303aa",
-      "text": "There are two ways in which Mike's scenario can be fixed. "
+      "text": "I see two ways to fix Mike's scenario: "
     },
     {
       "type": "paragraph",
       "id": "6255df64a7094409",
-      "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover via Maria and edit it, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover it via Maria and make edits, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the right people! (I assume this is the model Mike had intended to showcase through his example, although his scenario skipped a step and had Arthur directly connected to George)"
     },
     {
       "type": "paragraph",
@@ -984,6 +984,66 @@
         "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover via Maria and edit it, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
       },
       "date": 1430926173925
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover it via Maria and make edits, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430926209135
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover it via Maria and make edits, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the right people! (I assume this is the model Mike had intended to showcase with his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430926255703
+    },
+    {
+      "type": "edit",
+      "id": "6255df64a7094409",
+      "item": {
+        "type": "paragraph",
+        "id": "6255df64a7094409",
+        "text": "1. Suppose we have the following setup: Maria follows Arthur and George, George follows Maria, and Arthur follows Maria. By adopting a \"fork to like\" policy, Maria would first fork Arthur's page, then George would discover it via Maria and make edits, Maria would fork George's changes, and finally Arthur would discover George's changes via Maria. Notice how this model requires Maria to \"like\" everything. George and Arthur is only able to discover each other under these conditions: there must be a path from Arthur to George and vice versa, and each node along these paths must like what Arthur and George write. Under these conditions it seems quite difficult for the right information to reach the right people! (I assume this is the model Mike had intended to showcase through his example, although his scenario skipped a step and had Arthur directly connected to George)"
+      },
+      "date": 1430926273992
+    },
+    {
+      "type": "edit",
+      "id": "5c96d3ed6bd303aa",
+      "item": {
+        "type": "paragraph",
+        "id": "5c96d3ed6bd303aa",
+        "text": "I see two ways in which Mike's scenario can be fixed. "
+      },
+      "date": 1430926331671
+    },
+    {
+      "type": "edit",
+      "id": "5c96d3ed6bd303aa",
+      "item": {
+        "type": "paragraph",
+        "id": "5c96d3ed6bd303aa",
+        "text": "I see two ways to fix Mike's scenario: "
+      },
+      "date": 1430926346720
+    },
+    {
+      "type": "edit",
+      "id": "a61095e866c3a157",
+      "item": {
+        "type": "paragraph",
+        "id": "a61095e866c3a157",
+        "text": "Here I discuss things that I think would improve federated wiki. I do not yet understand all technical details of federated wiki's implementation, nor am I aware of all the reasoning behind the design choices of federated wiki, so some of these discussions may not carry much value in case they have emerged from a lack of understanding."
+      },
+      "date": 1430926553836
     }
   ]
 }

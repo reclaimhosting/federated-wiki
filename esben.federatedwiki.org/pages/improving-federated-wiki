@@ -62,8 +62,18 @@
       "text": "Accidental forking [https://francesbell.wordpress.com/2015/01/05/reflection-on-fedwiki-two-tales-of-two-forks/ html]"
     },
     {
+      "type": "pagefold",
+      "id": "0efee88571600cb2",
+      "text": "Local storage, drafts and fedwiki client"
+    },
+    {
+      "type": "paragraph",
+      "id": "81b04659b2e3076a",
+      "text": "Currently the federated wiki client runs in a browser - a browser in a browser. The HTML5 local storage feature is used to save changes locally on the client side. The wiki pages turn yellow and everything gets a bit confusing (especially because its difficult to figure out what is in the browser and what is on the web). If we consider federated wiki outside the context of the WWW, HTML, and browsers for a second, we might be able to come up with a better solution to the problem the local storage feature is trying to solve. "
+    },
+    {
       "type": "factory",
-      "id": "0efee88571600cb2"
+      "id": "7e8ef084a2a79fc7"
     }
   ],
   "journal": [
@@ -544,6 +554,46 @@
       "type": "add",
       "after": "877a6f67e0e59754",
       "date": 1430914801957
+    },
+    {
+      "type": "edit",
+      "id": "0efee88571600cb2",
+      "item": {
+        "type": "pagefold",
+        "id": "0efee88571600cb2",
+        "text": "Local storage, drafts and fedwiki client"
+      },
+      "date": 1430914835318
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81b04659b2e3076a"
+      },
+      "id": "81b04659b2e3076a",
+      "type": "add",
+      "after": "0efee88571600cb2",
+      "date": 1430914838109
+    },
+    {
+      "type": "edit",
+      "id": "81b04659b2e3076a",
+      "item": {
+        "type": "paragraph",
+        "id": "81b04659b2e3076a",
+        "text": "Currently the federated wiki client runs in a browser - a browser in a browser. The HTML5 local storage feature is used to save changes locally on the client side. The wiki pages turn yellow and everything gets a bit confusing (especially because its difficult to figure out what is in the browser and what is on the web). If we consider federated wiki outside the context of the WWW, HTML, and browsers for a second, we might be able to come up with a better solution to the problem the local storage feature is trying to solve. "
+      },
+      "date": 1430915160249
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e8ef084a2a79fc7"
+      },
+      "id": "7e8ef084a2a79fc7",
+      "type": "add",
+      "after": "81b04659b2e3076a",
+      "date": 1430915161888
     }
   ]
 }

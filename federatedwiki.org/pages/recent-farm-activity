@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "b443d52819c0b6e9"
+      "id": "46f652e71389a3ef"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "b52067d4fdc6a421"
+      "id": "84112e213f376389"
     },
     {
-      "date": 1430914201000,
+      "date": 1430915162000,
+      "site": "esben.federatedwiki.org",
+      "slug": "improving-federated-wiki",
+      "title": "Improving federated wiki",
+      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
+      "type": "reference",
+      "id": "3abc48d6c7d2a566"
+    },
+    {
+      "date": 1430914801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "1cd8b0a7e4564a67"
-    },
-    {
-      "date": 1430842992000,
-      "site": "esben.federatedwiki.org",
-      "slug": "scratch",
-      "title": "scratch",
-      "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
-      "type": "reference",
-      "id": "e197779f429c36fc"
+      "id": "b198df5d50e63bc7"
     },
     {
       "date": 1430407917000,
@@ -36,7 +36,7 @@
       "title": "Birthday List",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 61 pages.",
       "type": "reference",
-      "id": "4b47b219040103e5"
+      "id": "f139b51dc4838ef0"
     },
     {
       "date": 1430221267000,
@@ -45,69 +45,69 @@
       "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 99 pages.",
       "type": "reference",
-      "id": "19913477c110bb91"
+      "id": "3382f403de0a2b90"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "740495868f05291d",
+      "id": "bcc1e2bf8b34de1d",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     },
     {
       "type": "add",
-      "id": "b443d52819c0b6e9",
+      "id": "46f652e71389a3ef",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "b443d52819c0b6e9"
+        "id": "46f652e71389a3ef"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     },
     {
       "type": "add",
-      "id": "b52067d4fdc6a421",
+      "id": "84112e213f376389",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "b52067d4fdc6a421"
+        "id": "84112e213f376389"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     },
     {
       "type": "add",
-      "id": "1cd8b0a7e4564a67",
+      "id": "3abc48d6c7d2a566",
       "item": {
-        "date": 1430914201000,
+        "date": 1430915162000,
+        "site": "esben.federatedwiki.org",
+        "slug": "improving-federated-wiki",
+        "title": "Improving federated wiki",
+        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
+        "type": "reference",
+        "id": "3abc48d6c7d2a566"
+      },
+      "date": 1430915401000
+    },
+    {
+      "type": "add",
+      "id": "b198df5d50e63bc7",
+      "item": {
+        "date": 1430914801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "1cd8b0a7e4564a67"
+        "id": "b198df5d50e63bc7"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     },
     {
       "type": "add",
-      "id": "e197779f429c36fc",
-      "item": {
-        "date": 1430842992000,
-        "site": "esben.federatedwiki.org",
-        "slug": "scratch",
-        "title": "scratch",
-        "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
-        "type": "reference",
-        "id": "e197779f429c36fc"
-      },
-      "date": 1430914801000
-    },
-    {
-      "type": "add",
-      "id": "4b47b219040103e5",
+      "id": "f139b51dc4838ef0",
       "item": {
         "date": 1430407917000,
         "site": "jmahoney.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "Birthday List",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 61 pages.",
         "type": "reference",
-        "id": "4b47b219040103e5"
+        "id": "f139b51dc4838ef0"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     },
     {
       "type": "add",
-      "id": "19913477c110bb91",
+      "id": "3382f403de0a2b90",
       "item": {
         "date": 1430221267000,
         "site": "fedwiki.djon.es",
@@ -129,9 +129,9 @@
         "title": "Distance education, digital renovation, digital fluency, and breaking BAD: Deja vu all over again",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 99 pages.",
         "type": "reference",
-        "id": "19913477c110bb91"
+        "id": "3382f403de0a2b90"
       },
-      "date": 1430914801000
+      "date": 1430915401000
     }
   ]
 }

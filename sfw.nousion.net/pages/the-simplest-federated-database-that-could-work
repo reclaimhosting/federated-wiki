@@ -1,0 +1,187 @@
+{
+  "title": "The Simplest Federated Database That Could Work",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "de1fbbdd2ff8af11",
+      "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over the next couple of years, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the social streams you see everyday now) was constructed off of file write dates. Profile signatures were page links, and were even used to construct a rudimentary messaging system."
+    },
+    {
+      "type": "paragraph",
+      "id": "7e7a693bc0b1917b",
+      "text": "In other words, it was a simple database that was able to build a rough fascimile of what would later become Web 2.0. "
+    },
+    {
+      "type": "paragraph",
+      "id": "46ac805bc74f160a",
+      "text": "While we've talked about federated wiki as a browser, it can also be used as a backend database that natively inherits the flexibility of JSON instead of the rigidity of relational databases. Here were show how a few simple concepts -- JSON Templates, pages as data, and stable ids allow a designer to create a custom content application free of the mess of traditional databases that still preserves data as data. "
+    },
+    {
+      "type": "video",
+      "id": "a8bb054c142646c5",
+      "text": "YOUTUBE JCX2_RqnOH8\n(double-click to edit caption)\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "11a49d1fe6d31dd8",
+      "text": "Best of all, anything you build on top of federated wiki inhrerits its page-internal journaling and federation capabilities. So you're not only putting up a site in record time, you're putting up a federated, forkable site as well. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Simplest Federated Database That Could Work",
+        "story": []
+      },
+      "date": 1429908640008
+    },
+    {
+      "item": {
+        "type": "video",
+        "id": "a8bb054c142646c5",
+        "text": "YOUTUBE JCX2_RqnOH8\n(double-click to edit caption)\n"
+      },
+      "id": "a8bb054c142646c5",
+      "type": "add",
+      "date": 1429908687024
+    },
+    {
+      "type": "edit",
+      "id": "a8bb054c142646c5",
+      "item": {
+        "type": "video",
+        "id": "a8bb054c142646c5",
+        "text": "YOUTUBE JCX2_RqnOH8\n(double-click to edit caption)\n"
+      },
+      "date": 1429908701689
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de1fbbdd2ff8af11",
+        "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over time, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the streams you see everyday now) was constructed off of file write dates. "
+      },
+      "id": "de1fbbdd2ff8af11",
+      "type": "add",
+      "after": "a8bb054c142646c5",
+      "date": 1429908726509
+    },
+    {
+      "type": "edit",
+      "id": "de1fbbdd2ff8af11",
+      "item": {
+        "type": "paragraph",
+        "id": "de1fbbdd2ff8af11",
+        "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over time, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the streams you see everyday now) was constructed off of file write dates. "
+      },
+      "date": 1429909098330
+    },
+    {
+      "type": "move",
+      "order": [
+        "de1fbbdd2ff8af11",
+        "a8bb054c142646c5",
+        "6bbdef53b00a3081"
+      ],
+      "id": "de1fbbdd2ff8af11",
+      "date": 1429909102001,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1429909106229
+    },
+    {
+      "type": "edit",
+      "id": "de1fbbdd2ff8af11",
+      "item": {
+        "type": "paragraph",
+        "id": "de1fbbdd2ff8af11",
+        "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over the next couple of years, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the streams you see everyday now) was constructed off of file write dates. "
+      },
+      "date": 1429909129745
+    },
+    {
+      "type": "edit",
+      "id": "de1fbbdd2ff8af11",
+      "item": {
+        "type": "paragraph",
+        "id": "de1fbbdd2ff8af11",
+        "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over the next couple of years, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the social streams you see everyday now) was constructed off of file write dates. Profile signatures were pages, and were used to construct a rudimentary messaging system."
+      },
+      "date": 1429909268847
+    },
+    {
+      "type": "add",
+      "id": "7e7a693bc0b1917b",
+      "item": {
+        "type": "paragraph",
+        "id": "7e7a693bc0b1917b",
+        "text": "In other words, it was a simple database that was able to build a rough fascimile of what would later become Web 2.0. "
+      },
+      "after": "de1fbbdd2ff8af11",
+      "date": 1429909384025
+    },
+    {
+      "type": "edit",
+      "id": "de1fbbdd2ff8af11",
+      "item": {
+        "type": "paragraph",
+        "id": "de1fbbdd2ff8af11",
+        "text": "The first wiki was described by Ward Cunningham as the \"simplest possible database that could work.\" Over the next couple of years, many different functions were built on top of that simple database. Categories (and to some extent, the first web notions of tagging) were built using the \"What links here?\" functionality. The recent changes stream (again, a predecessor to the social streams you see everyday now) was constructed off of file write dates. Profile signatures were page links, and were even used to construct a rudimentary messaging system."
+      },
+      "date": 1429909475647
+    },
+    {
+      "type": "add",
+      "id": "46ac805bc74f160a",
+      "item": {
+        "type": "paragraph",
+        "id": "46ac805bc74f160a",
+        "text": "While we've talked about federated wiki as a browser, it can also be used as a backend database that natively inherits the flexibility of JSON instead of the rigidity of relational databases. Here were show how a few simple concepts -- JSON Templates, pages as data, and stable ids allow a designer to create a custom content application free of the mess of traditional databases that still preserve data as data. "
+      },
+      "after": "7e7a693bc0b1917b",
+      "date": 1429909798101
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11a49d1fe6d31dd8"
+      },
+      "id": "11a49d1fe6d31dd8",
+      "type": "add",
+      "after": "a8bb054c142646c5",
+      "date": 1429909805879
+    },
+    {
+      "type": "edit",
+      "id": "11a49d1fe6d31dd8",
+      "item": {
+        "type": "paragraph",
+        "id": "11a49d1fe6d31dd8",
+        "text": "Best of all, anything you build on top of federated wiki inhrerits its page-internal journaling and federation capabilities. So you're not only putting up a site in record time, you're putting up a federated, forkable site as well. "
+      },
+      "date": 1429909907348
+    },
+    {
+      "type": "edit",
+      "id": "46ac805bc74f160a",
+      "item": {
+        "type": "paragraph",
+        "id": "46ac805bc74f160a",
+        "text": "While we've talked about federated wiki as a browser, it can also be used as a backend database that natively inherits the flexibility of JSON instead of the rigidity of relational databases. Here were show how a few simple concepts -- JSON Templates, pages as data, and stable ids allow a designer to create a custom content application free of the mess of traditional databases that still preserves data as data. "
+      },
+      "date": 1430147532713
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1431124064847
+    }
+  ]
+}

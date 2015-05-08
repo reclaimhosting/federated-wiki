@@ -16,6 +16,11 @@
       "type": "paragraph",
       "id": "f1dcccf9b8378f1f",
       "text": "[[Recent Changes]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0884c8ea6a7394bf",
+      "text": "[[The Simplest Federated Database That Could Work]]"
     }
   ],
   "journal": [
@@ -173,6 +178,26 @@
       },
       "after": "ee416d431ebf4fb4",
       "date": 1430000005977
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0884c8ea6a7394bf"
+      },
+      "id": "0884c8ea6a7394bf",
+      "type": "add",
+      "after": "f1dcccf9b8378f1f",
+      "date": 1431124071842
+    },
+    {
+      "type": "edit",
+      "id": "0884c8ea6a7394bf",
+      "item": {
+        "type": "paragraph",
+        "id": "0884c8ea6a7394bf",
+        "text": "[[The Simplest Federated Database That Could Work]]"
+      },
+      "date": 1431124087035
     }
   ]
 }

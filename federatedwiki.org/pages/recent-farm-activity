@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "145a3433c45e0fdf"
+      "id": "897bcfc431a0eb2a"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "c0934c7891f24551"
+      "id": "669aaea3ede47e80"
     },
     {
-      "date": 1431123001000,
+      "date": 1431124087000,
+      "site": "sfw.nousion.net",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://sfw.nousion.net sfw.nousion.net] with 9 pages.",
+      "type": "reference",
+      "id": "df8653b0b5e5b577"
+    },
+    {
+      "date": 1431123601000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "6cb01dfb2c7cb3cd"
+      "id": "547b797f5e683dd3"
     },
     {
       "date": 1430926554000,
@@ -27,7 +36,7 @@
       "title": "Improving federated wiki",
       "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
       "type": "reference",
-      "id": "85a7b13f890de7e2"
+      "id": "b1865a82ad54e46c"
     },
     {
       "date": 1430407917000,
@@ -36,55 +45,69 @@
       "title": "Birthday List",
       "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 61 pages.",
       "type": "reference",
-      "id": "9ff761612ef487b7"
+      "id": "b375e03e5c8d340a"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "070db701156d7991",
+      "id": "2f23278bc86eb975",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     },
     {
       "type": "add",
-      "id": "145a3433c45e0fdf",
+      "id": "897bcfc431a0eb2a",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "145a3433c45e0fdf"
+        "id": "897bcfc431a0eb2a"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     },
     {
       "type": "add",
-      "id": "c0934c7891f24551",
+      "id": "669aaea3ede47e80",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "c0934c7891f24551"
+        "id": "669aaea3ede47e80"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     },
     {
       "type": "add",
-      "id": "6cb01dfb2c7cb3cd",
+      "id": "df8653b0b5e5b577",
       "item": {
-        "date": 1431123001000,
+        "date": 1431124087000,
+        "site": "sfw.nousion.net",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://sfw.nousion.net sfw.nousion.net] with 9 pages.",
+        "type": "reference",
+        "id": "df8653b0b5e5b577"
+      },
+      "date": 1431124201000
+    },
+    {
+      "type": "add",
+      "id": "547b797f5e683dd3",
+      "item": {
+        "date": 1431123601000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "6cb01dfb2c7cb3cd"
+        "id": "547b797f5e683dd3"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     },
     {
       "type": "add",
-      "id": "85a7b13f890de7e2",
+      "id": "b1865a82ad54e46c",
       "item": {
         "date": 1430926554000,
         "site": "esben.federatedwiki.org",
@@ -92,13 +115,13 @@
         "title": "Improving federated wiki",
         "text": "In [http://esben.federatedwiki.org esben.federatedwiki.org] with 40 pages.",
         "type": "reference",
-        "id": "85a7b13f890de7e2"
+        "id": "b1865a82ad54e46c"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     },
     {
       "type": "add",
-      "id": "9ff761612ef487b7",
+      "id": "b375e03e5c8d340a",
       "item": {
         "date": 1430407917000,
         "site": "jmahoney.federatedwiki.org",
@@ -106,9 +129,9 @@
         "title": "Birthday List",
         "text": "In [http://jmahoney.federatedwiki.org jmahoney.federatedwiki.org] with 61 pages.",
         "type": "reference",
-        "id": "9ff761612ef487b7"
+        "id": "b375e03e5c8d340a"
       },
-      "date": 1431123601000
+      "date": 1431124201000
     }
   ]
 }

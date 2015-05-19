@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "8dec9a5521e3868a"
+      "id": "487cc0b55cd2d1fb"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "0322ccd5c1364c73"
+      "id": "b1cfeeb18e69d7cb"
+    },
+    {
+      "date": 1431999001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "8af9fcd8476e6df6"
     },
     {
       "date": 1431998750000,
@@ -18,50 +27,55 @@
       "title": "blog-copy-detection",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 101 pages.",
       "type": "reference",
-      "id": "c05871e0c583639b"
-    },
-    {
-      "date": 1431998401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "66b461b6efc6c291"
+      "id": "a89b4923d739523e"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "96fe8a02bd4e5fed",
+      "id": "b6d9648b96a48010",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1431999001000
+      "date": 1431999601000
     },
     {
       "type": "add",
-      "id": "8dec9a5521e3868a",
+      "id": "487cc0b55cd2d1fb",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "8dec9a5521e3868a"
+        "id": "487cc0b55cd2d1fb"
       },
-      "date": 1431999001000
+      "date": 1431999601000
     },
     {
       "type": "add",
-      "id": "0322ccd5c1364c73",
+      "id": "b1cfeeb18e69d7cb",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "0322ccd5c1364c73"
+        "id": "b1cfeeb18e69d7cb"
       },
-      "date": 1431999001000
+      "date": 1431999601000
     },
     {
       "type": "add",
-      "id": "c05871e0c583639b",
+      "id": "8af9fcd8476e6df6",
+      "item": {
+        "date": 1431999001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "8af9fcd8476e6df6"
+      },
+      "date": 1431999601000
+    },
+    {
+      "type": "add",
+      "id": "a89b4923d739523e",
       "item": {
         "date": 1431998750000,
         "site": "fedwiki.djon.es",
@@ -69,23 +83,9 @@
         "title": "blog-copy-detection",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 101 pages.",
         "type": "reference",
-        "id": "c05871e0c583639b"
+        "id": "a89b4923d739523e"
       },
-      "date": 1431999001000
-    },
-    {
-      "type": "add",
-      "id": "66b461b6efc6c291",
-      "item": {
-        "date": 1431998401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "66b461b6efc6c291"
-      },
-      "date": 1431999001000
+      "date": 1431999601000
     }
   ]
 }

@@ -27,9 +27,19 @@
       "text": "Creates a hash {COPIES} that is keyed on {userid} which in turn points to a hash keyed on {link to post} that points to an array of post data for posts that match"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "24e9e1ecacdb03e6",
-      "text": "Does this via nested loops"
+      "text": "Does this via nested loops <ul> <li> for each student </li> <ul> <li> for each of their posts </li> <ul> <li> for every other student <ul> <li> check each of their posts <ul> <li> run \"similarity\" </li> <li> if copy level above X then save </li> </ul> </li> </ul> </li> </ul> </li> </ul> </li> </ul>"
+    },
+    {
+      "type": "html",
+      "id": "a8c554be7984e1fd",
+      "text": "<h3>Speed test</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9bef31c928e03b6c",
+      "text": "Run a test and time it with just two students and then scale it up to larger numbers to test both the speed but also the performance."
     }
   ],
   "journal": [
@@ -199,6 +209,77 @@
         "text": "Does this via nested loops"
       },
       "date": 1431995961539
+    },
+    {
+      "type": "edit",
+      "id": "24e9e1ecacdb03e6",
+      "item": {
+        "type": "paragraph",
+        "id": "24e9e1ecacdb03e6",
+        "text": "Does this via nested loops <ul> <li> for each student </li> <ul> <li> for each of their posts </li> <ul> <li> for every other student <ul> <li> check each of their posts <ul> <li> run  "
+      },
+      "date": 1431996023151
+    },
+    {
+      "type": "edit",
+      "id": "24e9e1ecacdb03e6",
+      "item": {
+        "type": "paragraph",
+        "id": "24e9e1ecacdb03e6",
+        "text": "Does this via nested loops <ul> <li> for each student </li> <ul> <li> for each of their posts </li> <ul> <li> for every other student <ul> <li> check each of their posts <ul> <li> run \"similarity\" </li> <li> if copy level above X then save </li> </ul> </li> </ul> </li> </ul> </li> </ul> </li> </ul>"
+      },
+      "date": 1431996061995
+    },
+    {
+      "type": "edit",
+      "id": "24e9e1ecacdb03e6",
+      "item": {
+        "type": "html",
+        "id": "24e9e1ecacdb03e6",
+        "text": "Does this via nested loops <ul> <li> for each student </li> <ul> <li> for each of their posts </li> <ul> <li> for every other student <ul> <li> check each of their posts <ul> <li> run \"similarity\" </li> <li> if copy level above X then save </li> </ul> </li> </ul> </li> </ul> </li> </ul> </li> </ul>"
+      },
+      "date": 1431996063076
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8c554be7984e1fd"
+      },
+      "id": "a8c554be7984e1fd",
+      "type": "add",
+      "after": "24e9e1ecacdb03e6",
+      "date": 1431996069149
+    },
+    {
+      "type": "edit",
+      "id": "a8c554be7984e1fd",
+      "item": {
+        "type": "paragraph",
+        "id": "a8c554be7984e1fd",
+        "text": "<h3>Speed test</h3>"
+      },
+      "date": 1431996077403
+    },
+    {
+      "type": "add",
+      "id": "9bef31c928e03b6c",
+      "item": {
+        "type": "paragraph",
+        "id": "9bef31c928e03b6c",
+        "text": "Run a test and time it with just two students and then scale it up to larger numbers to test both the speed but also the performance."
+      },
+      "after": "a8c554be7984e1fd",
+      "date": 1431996106464
+    },
+    {
+      "type": "edit",
+      "id": "a8c554be7984e1fd",
+      "item": {
+        "type": "html",
+        "id": "a8c554be7984e1fd",
+        "text": "<h3>Speed test</h3>"
+      },
+      "date": 1431996107914
     }
   ]
 }

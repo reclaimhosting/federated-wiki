@@ -45,6 +45,11 @@
       "type": "html",
       "id": "3006b83b19d2125a",
       "text": "<ul>\n  <li> 2 students - 22.5 seconds </li>\n  <li> 10 students - 1m7.0 seconds </li>\n</ul>"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4aeddde8ff7d848",
+      "text": "5 students - did 28984 comparisons"
     }
   ],
   "journal": [
@@ -315,6 +320,26 @@
         "text": "<ul>\n  <li> 2 students - 22.5 seconds </li>\n  <li> 10 students - 1m7.0 seconds </li>\n</ul>"
       },
       "date": 1431998750257
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4aeddde8ff7d848"
+      },
+      "id": "c4aeddde8ff7d848",
+      "type": "add",
+      "after": "3006b83b19d2125a",
+      "date": 1432002661714
+    },
+    {
+      "type": "edit",
+      "id": "c4aeddde8ff7d848",
+      "item": {
+        "type": "paragraph",
+        "id": "c4aeddde8ff7d848",
+        "text": "5 students - did 28984 comparisons"
+      },
+      "date": 1432002678145
     }
   ]
 }

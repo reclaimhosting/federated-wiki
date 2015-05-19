@@ -1,0 +1,204 @@
+{
+  "title": "blog-copy-detection",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "05818cea862a12c0",
+      "text": "Have some Perl classes that implement a simple copy detection process on blogs mirrored with BIM."
+    },
+    {
+      "type": "html",
+      "id": "8ba25de1c160d64f",
+      "text": "Two current problems\n<ol>\n  <li> Takes way too much time. </li>\n  <li> Doesn't exclude some common stuff. </li>\n</ol>\n"
+    },
+    {
+      "type": "html",
+      "id": "bdd40985602fed94",
+      "text": "<h3>Current operation</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "bfd00c513e0a2ae1",
+      "text": "BAM::3100::BlogStatistics->new( COURSE => ??, TERM => ?? )->copyDetect();"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1c537c76a222210",
+      "text": "Creates a hash {COPIES} that is keyed on {userid} which in turn points to a hash keyed on {link to post} that points to an array of post data for posts that match"
+    },
+    {
+      "type": "paragraph",
+      "id": "24e9e1ecacdb03e6",
+      "text": "Does this via nested loops"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "blog-copy-detection",
+        "story": []
+      },
+      "date": 1431995437408
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05818cea862a12c0"
+      },
+      "id": "05818cea862a12c0",
+      "type": "add",
+      "date": 1431995440990
+    },
+    {
+      "type": "edit",
+      "id": "05818cea862a12c0",
+      "item": {
+        "type": "paragraph",
+        "id": "05818cea862a12c0",
+        "text": "Have some Perl classes that implement a simple copy detection process on blogs mirrored with BIM."
+      },
+      "date": 1431995470546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ba25de1c160d64f"
+      },
+      "id": "8ba25de1c160d64f",
+      "type": "add",
+      "after": "05818cea862a12c0",
+      "date": 1431995478438
+    },
+    {
+      "type": "edit",
+      "id": "8ba25de1c160d64f",
+      "item": {
+        "type": "html",
+        "id": "8ba25de1c160d64f",
+        "text": "Two current problems\n<ol>\n  <li> Takes way too much time. </li>\n  <li> Doesn't exclude some common stuff. </li>\n</ol>\n"
+      },
+      "date": 1431995533843
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bdd40985602fed94"
+      },
+      "id": "bdd40985602fed94",
+      "type": "add",
+      "after": "8ba25de1c160d64f",
+      "date": 1431995536182
+    },
+    {
+      "type": "edit",
+      "id": "bdd40985602fed94",
+      "item": {
+        "type": "paragraph",
+        "id": "bdd40985602fed94",
+        "text": "<h3>Current operation</h3>"
+      },
+      "date": 1431995545356
+    },
+    {
+      "type": "edit",
+      "id": "bdd40985602fed94",
+      "item": {
+        "type": "html",
+        "id": "bdd40985602fed94",
+        "text": "<h3>Current operation</h3>"
+      },
+      "date": 1431995547269
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bfd00c513e0a2ae1"
+      },
+      "id": "bfd00c513e0a2ae1",
+      "type": "add",
+      "after": "bdd40985602fed94",
+      "date": 1431995591251
+    },
+    {
+      "type": "edit",
+      "id": "bfd00c513e0a2ae1",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd00c513e0a2ae1",
+        "text": "BAM::3100::BlogStatistics->new"
+      },
+      "date": 1431995604239
+    },
+    {
+      "type": "edit",
+      "id": "bfd00c513e0a2ae1",
+      "item": {
+        "type": "paragraph",
+        "id": "bfd00c513e0a2ae1",
+        "text": "BAM::3100::BlogStatistics->new( COURSE => ??, TERM => ?? )->copyDetect();"
+      },
+      "date": 1431995623747
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a1c537c76a222210"
+      },
+      "id": "a1c537c76a222210",
+      "type": "add",
+      "after": "bfd00c513e0a2ae1",
+      "date": 1431995675064
+    },
+    {
+      "type": "edit",
+      "id": "a1c537c76a222210",
+      "item": {
+        "type": "paragraph",
+        "id": "a1c537c76a222210",
+        "text": "Creates a hash {COPIES}"
+      },
+      "date": 1431995685175
+    },
+    {
+      "type": "edit",
+      "id": "a1c537c76a222210",
+      "item": {
+        "type": "paragraph",
+        "id": "a1c537c76a222210",
+        "text": "Creates a hash {COPIES} that is keyed on {userid} which in turn points to a hash keyed on {link to post} that points to an array of "
+      },
+      "date": 1431995808557
+    },
+    {
+      "type": "edit",
+      "id": "a1c537c76a222210",
+      "item": {
+        "type": "paragraph",
+        "id": "a1c537c76a222210",
+        "text": "Creates a hash {COPIES} that is keyed on {userid} which in turn points to a hash keyed on {link to post} that points to an array of post data for posts that match"
+      },
+      "date": 1431995825919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24e9e1ecacdb03e6"
+      },
+      "id": "24e9e1ecacdb03e6",
+      "type": "add",
+      "after": "a1c537c76a222210",
+      "date": 1431995950777
+    },
+    {
+      "type": "edit",
+      "id": "24e9e1ecacdb03e6",
+      "item": {
+        "type": "paragraph",
+        "id": "24e9e1ecacdb03e6",
+        "text": "Does this via nested loops"
+      },
+      "date": 1431995961539
+    }
+  ]
+}

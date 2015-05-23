@@ -32,8 +32,13 @@
       "text": "[[BAM, BIM, Blogs and Breaking BAD: Making good learning]]"
     },
     {
+      "type": "paragraph",
+      "id": "f8933a8746c43d45",
+      "text": "[[Four paths for learning analytics]]"
+    },
+    {
       "type": "factory",
-      "id": "f8933a8746c43d45"
+      "id": "a47e241e0aeb88a3"
     }
   ],
   "journal": [
@@ -194,6 +199,36 @@
       "type": "remove",
       "id": "26f8bbd785585624",
       "date": 1419212467366
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a47e241e0aeb88a3"
+      },
+      "id": "a47e241e0aeb88a3",
+      "type": "add",
+      "after": "f8933a8746c43d45",
+      "date": 1432355695558
+    },
+    {
+      "type": "edit",
+      "id": "f8933a8746c43d45",
+      "item": {
+        "type": "paragraph",
+        "id": "f8933a8746c43d45",
+        "text": "[[[Four paths for learning analytics]]]"
+      },
+      "date": 1432355709006
+    },
+    {
+      "type": "edit",
+      "id": "f8933a8746c43d45",
+      "item": {
+        "type": "paragraph",
+        "id": "f8933a8746c43d45",
+        "text": "[[Four paths for learning analytics]]"
+      },
+      "date": 1432355714934
     }
   ]
 }

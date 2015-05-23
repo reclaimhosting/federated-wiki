@@ -4,88 +4,88 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "8fbba1ea3b47ad99"
+      "id": "72df85ca8be43783"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "aed61985d2e76c5b"
+      "id": "18090c32f7265b8d"
     },
     {
-      "date": 1432354801000,
+      "date": 1432355880000,
+      "site": "fedwiki.djon.es",
+      "slug": "four-paths-for-learning-analytics",
+      "title": "four-paths-for-learning-analytics",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 102 pages.",
+      "type": "reference",
+      "id": "634ffe95eac3b2c8"
+    },
+    {
+      "date": 1432355401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "2b905c8d7b8a648e"
-    },
-    {
-      "date": 1432002678000,
-      "site": "fedwiki.djon.es",
-      "slug": "blog-copy-detection",
-      "title": "blog-copy-detection",
-      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 101 pages.",
-      "type": "reference",
-      "id": "c42852898f11d199"
+      "id": "95b036d2357d6979"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "ee797719ae0de18c",
+      "id": "b9a6f47af86b94b7",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1432355401000
+      "date": 1432356001000
     },
     {
       "type": "add",
-      "id": "8fbba1ea3b47ad99",
+      "id": "72df85ca8be43783",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "8fbba1ea3b47ad99"
+        "id": "72df85ca8be43783"
       },
-      "date": 1432355401000
+      "date": 1432356001000
     },
     {
       "type": "add",
-      "id": "aed61985d2e76c5b",
+      "id": "18090c32f7265b8d",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "aed61985d2e76c5b"
+        "id": "18090c32f7265b8d"
       },
-      "date": 1432355401000
+      "date": 1432356001000
     },
     {
       "type": "add",
-      "id": "2b905c8d7b8a648e",
+      "id": "634ffe95eac3b2c8",
       "item": {
-        "date": 1432354801000,
+        "date": 1432355880000,
+        "site": "fedwiki.djon.es",
+        "slug": "four-paths-for-learning-analytics",
+        "title": "four-paths-for-learning-analytics",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 102 pages.",
+        "type": "reference",
+        "id": "634ffe95eac3b2c8"
+      },
+      "date": 1432356001000
+    },
+    {
+      "type": "add",
+      "id": "95b036d2357d6979",
+      "item": {
+        "date": 1432355401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "2b905c8d7b8a648e"
+        "id": "95b036d2357d6979"
       },
-      "date": 1432355401000
-    },
-    {
-      "type": "add",
-      "id": "c42852898f11d199",
-      "item": {
-        "date": 1432002678000,
-        "site": "fedwiki.djon.es",
-        "slug": "blog-copy-detection",
-        "title": "blog-copy-detection",
-        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 101 pages.",
-        "type": "reference",
-        "id": "c42852898f11d199"
-      },
-      "date": 1432355401000
+      "date": 1432356001000
     }
   ]
 }

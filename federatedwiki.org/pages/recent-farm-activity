@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "72df85ca8be43783"
+      "id": "6eb886451d195014"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "18090c32f7265b8d"
+      "id": "76003738998fe671"
+    },
+    {
+      "date": 1432356001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "80c9c95fad8315e2"
     },
     {
       "date": 1432355880000,
@@ -18,50 +27,55 @@
       "title": "four-paths-for-learning-analytics",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 102 pages.",
       "type": "reference",
-      "id": "634ffe95eac3b2c8"
-    },
-    {
-      "date": 1432355401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "95b036d2357d6979"
+      "id": "edc5b83182fe0ce2"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b9a6f47af86b94b7",
+      "id": "4db2792e28093c38",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1432356001000
+      "date": 1432356601000
     },
     {
       "type": "add",
-      "id": "72df85ca8be43783",
+      "id": "6eb886451d195014",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "72df85ca8be43783"
+        "id": "6eb886451d195014"
       },
-      "date": 1432356001000
+      "date": 1432356601000
     },
     {
       "type": "add",
-      "id": "18090c32f7265b8d",
+      "id": "76003738998fe671",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "18090c32f7265b8d"
+        "id": "76003738998fe671"
       },
-      "date": 1432356001000
+      "date": 1432356601000
     },
     {
       "type": "add",
-      "id": "634ffe95eac3b2c8",
+      "id": "80c9c95fad8315e2",
+      "item": {
+        "date": 1432356001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "80c9c95fad8315e2"
+      },
+      "date": 1432356601000
+    },
+    {
+      "type": "add",
+      "id": "edc5b83182fe0ce2",
       "item": {
         "date": 1432355880000,
         "site": "fedwiki.djon.es",
@@ -69,23 +83,9 @@
         "title": "four-paths-for-learning-analytics",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 102 pages.",
         "type": "reference",
-        "id": "634ffe95eac3b2c8"
+        "id": "edc5b83182fe0ce2"
       },
-      "date": 1432356001000
-    },
-    {
-      "type": "add",
-      "id": "95b036d2357d6979",
-      "item": {
-        "date": 1432355401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "95b036d2357d6979"
-      },
-      "date": 1432356001000
+      "date": 1432356601000
     }
   ]
 }

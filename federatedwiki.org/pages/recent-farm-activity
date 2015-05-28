@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "7b916c4c4a532d7d"
+      "id": "121317284c4e0c93"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "250caa1ae8c9b313"
+      "id": "a5f5cc0c27d4f215"
+    },
+    {
+      "date": 1432823401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "1c1d093ace65b224"
     },
     {
       "date": 1432823075000,
@@ -18,16 +27,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "8eb9835d92b494f4"
-    },
-    {
-      "date": 1432822801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "ab9b47d08d643ca3"
+      "id": "6f9daa161483448e"
     },
     {
       "date": 1432359500000,
@@ -36,41 +36,55 @@
       "title": "Four paths tasks",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 103 pages.",
       "type": "reference",
-      "id": "3e27eebf5431c6c9"
+      "id": "4bd868accf4fb7fc"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b59df791b621659d",
+      "id": "dd15ebf14a0ce046",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1432823401000
+      "date": 1432824001000
     },
     {
       "type": "add",
-      "id": "7b916c4c4a532d7d",
+      "id": "121317284c4e0c93",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "7b916c4c4a532d7d"
+        "id": "121317284c4e0c93"
       },
-      "date": 1432823401000
+      "date": 1432824001000
     },
     {
       "type": "add",
-      "id": "250caa1ae8c9b313",
+      "id": "a5f5cc0c27d4f215",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "250caa1ae8c9b313"
+        "id": "a5f5cc0c27d4f215"
       },
-      "date": 1432823401000
+      "date": 1432824001000
     },
     {
       "type": "add",
-      "id": "8eb9835d92b494f4",
+      "id": "1c1d093ace65b224",
+      "item": {
+        "date": 1432823401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "1c1d093ace65b224"
+      },
+      "date": 1432824002000
+    },
+    {
+      "type": "add",
+      "id": "6f9daa161483448e",
       "item": {
         "date": 1432823075000,
         "site": "hist289.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "8eb9835d92b494f4"
+        "id": "6f9daa161483448e"
       },
-      "date": 1432823401000
+      "date": 1432824002000
     },
     {
       "type": "add",
-      "id": "ab9b47d08d643ca3",
-      "item": {
-        "date": 1432822801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "ab9b47d08d643ca3"
-      },
-      "date": 1432823401000
-    },
-    {
-      "type": "add",
-      "id": "3e27eebf5431c6c9",
+      "id": "4bd868accf4fb7fc",
       "item": {
         "date": 1432359500000,
         "site": "fedwiki.djon.es",
@@ -106,9 +106,9 @@
         "title": "Four paths tasks",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 103 pages.",
         "type": "reference",
-        "id": "3e27eebf5431c6c9"
+        "id": "4bd868accf4fb7fc"
       },
-      "date": 1432823401000
+      "date": 1432824002000
     }
   ]
 }

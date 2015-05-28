@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "c0ae7d502d9f87ac"
+      "id": "7b916c4c4a532d7d"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "c25454818d296944"
+      "id": "250caa1ae8c9b313"
     },
     {
-      "date": 1432822202000,
+      "date": 1432823075000,
+      "site": "hist289.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
+      "type": "reference",
+      "id": "8eb9835d92b494f4"
+    },
+    {
+      "date": 1432822801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "1c1a602a06ea9eee"
+      "id": "ab9b47d08d643ca3"
     },
     {
       "date": 1432359500000,
@@ -27,55 +36,69 @@
       "title": "Four paths tasks",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 103 pages.",
       "type": "reference",
-      "id": "296d567d9dd600e6"
+      "id": "3e27eebf5431c6c9"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "11ffe4d445c20294",
+      "id": "b59df791b621659d",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1432822801000
+      "date": 1432823401000
     },
     {
       "type": "add",
-      "id": "c0ae7d502d9f87ac",
+      "id": "7b916c4c4a532d7d",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "c0ae7d502d9f87ac"
+        "id": "7b916c4c4a532d7d"
       },
-      "date": 1432822801000
+      "date": 1432823401000
     },
     {
       "type": "add",
-      "id": "c25454818d296944",
+      "id": "250caa1ae8c9b313",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "c25454818d296944"
+        "id": "250caa1ae8c9b313"
       },
-      "date": 1432822801000
+      "date": 1432823401000
     },
     {
       "type": "add",
-      "id": "1c1a602a06ea9eee",
+      "id": "8eb9835d92b494f4",
       "item": {
-        "date": 1432822202000,
+        "date": 1432823075000,
+        "site": "hist289.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
+        "type": "reference",
+        "id": "8eb9835d92b494f4"
+      },
+      "date": 1432823401000
+    },
+    {
+      "type": "add",
+      "id": "ab9b47d08d643ca3",
+      "item": {
+        "date": 1432822801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "1c1a602a06ea9eee"
+        "id": "ab9b47d08d643ca3"
       },
-      "date": 1432822801000
+      "date": 1432823401000
     },
     {
       "type": "add",
-      "id": "296d567d9dd600e6",
+      "id": "3e27eebf5431c6c9",
       "item": {
         "date": 1432359500000,
         "site": "fedwiki.djon.es",
@@ -83,9 +106,9 @@
         "title": "Four paths tasks",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 103 pages.",
         "type": "reference",
-        "id": "296d567d9dd600e6"
+        "id": "3e27eebf5431c6c9"
       },
-      "date": 1432822801000
+      "date": 1432823401000
     }
   ]
 }

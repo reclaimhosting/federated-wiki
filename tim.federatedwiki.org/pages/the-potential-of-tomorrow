@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "25b9a8e6ae47dbb7",
       "text": "[[Ordering a Pizza in 2015]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b5c035f55bcf5e51",
+      "text": "[[Privacy versus User Experience]]"
     }
   ],
   "journal": [
@@ -95,6 +100,26 @@
         "text": "[[Ordering a Pizza in 2015]]"
       },
       "date": 1433870049006
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5c035f55bcf5e51"
+      },
+      "id": "b5c035f55bcf5e51",
+      "type": "add",
+      "after": "25b9a8e6ae47dbb7",
+      "date": 1433870679309
+    },
+    {
+      "type": "edit",
+      "id": "b5c035f55bcf5e51",
+      "item": {
+        "type": "paragraph",
+        "id": "b5c035f55bcf5e51",
+        "text": "[[Privacy versus User Experience]]"
+      },
+      "date": 1433870693622
     }
   ]
 }

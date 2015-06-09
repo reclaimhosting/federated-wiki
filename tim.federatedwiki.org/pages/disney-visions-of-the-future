@@ -12,6 +12,11 @@
       "type": "paragraph",
       "id": "0fc55fa42af240f7",
       "text": "\"A vista into a world of wondrous ideas, signifying Man's achievements... A step into the future, with predictions of constructed things to come. Tomorrow offers new frontiers in science, adventure and ideals. The Atomic Age, the challenge of Outer Space and the hope for a peaceful, unified world.\" - Walt Disney, July 17 1955"
+    },
+    {
+      "type": "paragraph",
+      "id": "1e901ddf9197104b",
+      "text": "Initially very corporate, see [[Monsanto House of the Future]]"
     }
   ],
   "journal": [
@@ -63,6 +68,26 @@
         "text": "\"A vista into a world of wondrous ideas, signifying Man's achievements... A step into the future, with predictions of constructed things to come. Tomorrow offers new frontiers in science, adventure and ideals. The Atomic Age, the challenge of Outer Space and the hope for a peaceful, unified world.\" - Walt Disney, July 17 1955"
       },
       "date": 1433872185571
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1e901ddf9197104b"
+      },
+      "id": "1e901ddf9197104b",
+      "type": "add",
+      "after": "0fc55fa42af240f7",
+      "date": 1433872424134
+    },
+    {
+      "type": "edit",
+      "id": "1e901ddf9197104b",
+      "item": {
+        "type": "paragraph",
+        "id": "1e901ddf9197104b",
+        "text": "Initially very corporate, see [[Monsanto House of the Future]]"
+      },
+      "date": 1433872447357
     }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "title": "Monsanto House of the Future",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "62692d10457bc6c9",
+      "text": "Opened in 1957 and sponsored by Monsanto, this attraction featured rooms from the home of the future (the future being 1986 at this time)."
+    },
+    {
+      "type": "paragraph",
+      "id": "896cd66a4b2a2c98",
+      "text": "On display were appliances such as the microwave oven which would later become a commonplace in homes across America."
+    },
+    {
+      "type": "paragraph",
+      "id": "bb7fd37d92e729e7",
+      "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "de7ddfacdbeace73",
+      "text": "https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Monsanto House of the Future",
+        "story": []
+      },
+      "date": 1433872469803
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "62692d10457bc6c9"
+      },
+      "id": "62692d10457bc6c9",
+      "type": "add",
+      "date": 1433872471703
+    },
+    {
+      "type": "edit",
+      "id": "62692d10457bc6c9",
+      "item": {
+        "type": "paragraph",
+        "id": "62692d10457bc6c9",
+        "text": "Opened in 1957 and sponsored by Monsanto, this attraction featured rooms from the home of the future (the future being 1986 at this time)."
+      },
+      "date": 1433872514070
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "896cd66a4b2a2c98"
+      },
+      "id": "896cd66a4b2a2c98",
+      "type": "add",
+      "after": "62692d10457bc6c9",
+      "date": 1433872586377
+    },
+    {
+      "type": "edit",
+      "id": "896cd66a4b2a2c98",
+      "item": {
+        "type": "paragraph",
+        "id": "896cd66a4b2a2c98",
+        "text": "On display were appliances such as the microwave oven which would later become a commonplace in homes across America."
+      },
+      "date": 1433872625394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb7fd37d92e729e7"
+      },
+      "id": "bb7fd37d92e729e7",
+      "type": "add",
+      "after": "896cd66a4b2a2c98",
+      "date": 1433872659035
+    },
+    {
+      "type": "edit",
+      "id": "bb7fd37d92e729e7",
+      "item": {
+        "type": "paragraph",
+        "id": "bb7fd37d92e729e7",
+        "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]]."
+      },
+      "date": 1433872693350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de7ddfacdbeace73"
+      },
+      "id": "de7ddfacdbeace73",
+      "type": "add",
+      "after": "bb7fd37d92e729e7",
+      "date": 1433872703218
+    },
+    {
+      "type": "edit",
+      "id": "de7ddfacdbeace73",
+      "item": {
+        "type": "paragraph",
+        "id": "de7ddfacdbeace73",
+        "text": "https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future"
+      },
+      "date": 1433872708439
+    }
+  ]
+}

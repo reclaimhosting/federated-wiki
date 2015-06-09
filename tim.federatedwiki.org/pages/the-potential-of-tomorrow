@@ -20,6 +20,10 @@
       "type": "paragraph",
       "id": "dcf28993a7a7a176",
       "text": "[[Disney Visions of the Future]]"
+    },
+    {
+      "type": "factory",
+      "id": "69f421662c7e6d10"
     }
   ],
   "journal": [
@@ -160,6 +164,16 @@
       "type": "remove",
       "id": "1a77adde69b31944",
       "date": 1433893055128
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69f421662c7e6d10"
+      },
+      "id": "69f421662c7e6d10",
+      "type": "add",
+      "after": "dcf28993a7a7a176",
+      "date": 1433893487850
     }
   ]
 }

@@ -1,0 +1,71 @@
+{
+  "title": "Ordering a Pizza in 2015",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "840e2322f5e8299a",
+      "text": "Jim Groom points to a video created by the [[ACLU]] 10 years ago predicting a potential future where our data is mined in disturbing ways."
+    },
+    {
+      "type": "factory",
+      "id": "1c14157afefac340"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ordering a Pizza in 2015",
+        "story": []
+      },
+      "date": 1433870057859
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ec832078a5c7691e"
+      },
+      "id": "ec832078a5c7691e",
+      "type": "add",
+      "date": 1433870059614
+    },
+    {
+      "type": "fork",
+      "date": 1433870199902
+    },
+    {
+      "type": "remove",
+      "id": "ec832078a5c7691e",
+      "date": 1433870212506
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "840e2322f5e8299a"
+      },
+      "id": "840e2322f5e8299a",
+      "type": "add",
+      "date": 1433870270221
+    },
+    {
+      "type": "edit",
+      "id": "840e2322f5e8299a",
+      "item": {
+        "type": "paragraph",
+        "id": "840e2322f5e8299a",
+        "text": "Jim Groom points to a video created by the [[ACLU]] 10 years ago predicting a potential future where our data is mined in disturbing ways."
+      },
+      "date": 1433870331249
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c14157afefac340"
+      },
+      "id": "1c14157afefac340",
+      "type": "add",
+      "after": "840e2322f5e8299a",
+      "date": 1433870341604
+    }
+  ]
+}

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "0c5752062c46fb8d"
+      "id": "527505c025b22d4e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f074118df7150edc"
+      "id": "8246ca2f84669b16"
+    },
+    {
+      "date": 1433873401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "030b6e80a7aefd25"
     },
     {
       "date": 1433873161000,
@@ -18,50 +27,55 @@
       "title": "Carousel of Progress",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 25 pages.",
       "type": "reference",
-      "id": "b545686f6c1c170b"
-    },
-    {
-      "date": 1433872801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "1a7adb69b56e4b4d"
+      "id": "7847f3658c1c5bcd"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "607b4a050a1cd81c",
+      "id": "c918bce2a0c433db",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1433873401000
+      "date": 1433874001000
     },
     {
       "type": "add",
-      "id": "0c5752062c46fb8d",
+      "id": "527505c025b22d4e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "0c5752062c46fb8d"
+        "id": "527505c025b22d4e"
       },
-      "date": 1433873401000
+      "date": 1433874001000
     },
     {
       "type": "add",
-      "id": "f074118df7150edc",
+      "id": "8246ca2f84669b16",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f074118df7150edc"
+        "id": "8246ca2f84669b16"
       },
-      "date": 1433873401000
+      "date": 1433874001000
     },
     {
       "type": "add",
-      "id": "b545686f6c1c170b",
+      "id": "030b6e80a7aefd25",
+      "item": {
+        "date": 1433873401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "030b6e80a7aefd25"
+      },
+      "date": 1433874001000
+    },
+    {
+      "type": "add",
+      "id": "7847f3658c1c5bcd",
       "item": {
         "date": 1433873161000,
         "site": "tim.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "Carousel of Progress",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 25 pages.",
         "type": "reference",
-        "id": "b545686f6c1c170b"
+        "id": "7847f3658c1c5bcd"
       },
-      "date": 1433873401000
-    },
-    {
-      "type": "add",
-      "id": "1a7adb69b56e4b4d",
-      "item": {
-        "date": 1433872801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "1a7adb69b56e4b4d"
-      },
-      "date": 1433873401000
+      "date": 1433874001000
     }
   ]
 }

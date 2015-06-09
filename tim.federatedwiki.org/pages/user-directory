@@ -26,6 +26,39 @@
       "site": "tim.federatedwiki.org",
       "title": "Tim Owens",
       "text": "@timmmmyboy"
+    },
+    {
+      "type": "reference",
+      "id": "dea11b5f742c5089",
+      "site": "max.federatedwiki.org",
+      "title": "Max",
+      "text": "this is where I will be keeping my notes and ideas for school."
+    },
+    {
+      "type": "reference",
+      "id": "a09896322fd64849",
+      "site": "ward.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+    },
+    {
+      "type": "paragraph",
+      "id": "278f56692d71b8e5",
+      "text": "Other SFW instances I follow"
+    },
+    {
+      "type": "reference",
+      "id": "285bbb207ae9f46a",
+      "site": "journal14.hapgood.net:3000",
+      "title": "Journal for 2014",
+      "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+    },
+    {
+      "type": "reference",
+      "id": "3ea3797594658b04",
+      "site": "innovation.federatedwiki.org",
+      "title": "Innovation Wiki",
+      "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
     }
   ],
   "journal": [
@@ -315,6 +348,191 @@
       "type": "fork",
       "site": "federatedwiki.org",
       "date": 1415587888624
+    },
+    {
+      "type": "fork",
+      "site": "tim.federatedwiki.org",
+      "date": 1415665598461
+    },
+    {
+      "type": "edit",
+      "id": "bf38ae1eb4a75f6d",
+      "item": {
+        "type": "reference",
+        "id": "bf38ae1eb4a75f6d",
+        "site": "max.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": " "
+      },
+      "date": 1415665601636
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dea11b5f742c5089"
+      },
+      "id": "dea11b5f742c5089",
+      "type": "add",
+      "after": "0c6298446b678ba6",
+      "date": 1415665815548
+    },
+    {
+      "type": "edit",
+      "id": "dea11b5f742c5089",
+      "item": {
+        "type": "reference",
+        "id": "dea11b5f742c5089",
+        "site": "max.federatedwiki.org",
+        "title": "Max",
+        "text": "this is where I will be keeping my notes and ideas for school."
+      },
+      "date": 1415665821914
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016723
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a09896322fd64849"
+      },
+      "id": "a09896322fd64849",
+      "type": "add",
+      "after": "dea11b5f742c5089",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016719
+    },
+    {
+      "type": "edit",
+      "id": "a09896322fd64849",
+      "item": {
+        "type": "reference",
+        "id": "a09896322fd64849",
+        "site": "ward.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+      },
+      "date": 1415675029126
+    },
+    {
+      "type": "fork",
+      "date": 1415675106200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "278f56692d71b8e5"
+      },
+      "id": "278f56692d71b8e5",
+      "type": "add",
+      "after": "a09896322fd64849",
+      "date": 1416172115264
+    },
+    {
+      "type": "edit",
+      "id": "278f56692d71b8e5",
+      "item": {
+        "type": "paragraph",
+        "id": "278f56692d71b8e5",
+        "text": "Other SFW instances I follow"
+      },
+      "date": 1416172129275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "21ba8b362fdad859",
+        "text": ""
+      },
+      "id": "21ba8b362fdad859",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172129290
+    },
+    {
+      "type": "remove",
+      "id": "21ba8b362fdad859",
+      "date": 1416172134964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "285bbb207ae9f46a"
+      },
+      "id": "285bbb207ae9f46a",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172151875
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites."
+      },
+      "date": 1416172159151
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+      },
+      "date": 1416172184449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ea3797594658b04"
+      },
+      "id": "3ea3797594658b04",
+      "type": "add",
+      "after": "285bbb207ae9f46a",
+      "date": 1416198530009
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]]."
+      },
+      "date": 1416198544220
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+      },
+      "date": 1416198567313
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1428177498720
+    },
+    {
+      "type": "fork",
+      "site": "federatedwiki.org",
+      "date": 1433871409580
     }
   ]
 }

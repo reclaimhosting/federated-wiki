@@ -7,8 +7,14 @@
       "text": "Privacy and User Experience (UX) are often seen as being at odds. To build software that can predict intention a program requires data, your data."
     },
     {
-      "type": "factory",
-      "id": "8e25b785e91ee13e"
+      "type": "markdown",
+      "id": "8e25b785e91ee13e",
+      "text": "In Dustin Curtis' post he outlines this dichotomy as the two opposing ethos of Apple and Google, with the prediction that Apple's stance on privacy will be a losing battle because of the necessity for data to build great products."
+    },
+    {
+      "type": "paragraph",
+      "id": "63dab292002bc99d",
+      "text": "http://dcurt.is/privacy-vs-user-experience"
     }
   ],
   "journal": [
@@ -88,6 +94,46 @@
         "text": "Privacy and User Experience (UX) are often seen as being at odds. To build software that can predict intention a program requires data, your data."
       },
       "date": 1433870923808
+    },
+    {
+      "type": "edit",
+      "id": "8e25b785e91ee13e",
+      "item": {
+        "type": "markdown",
+        "id": "8e25b785e91ee13e",
+        "text": "[In Dustin Curtis' post](http://dcurt.is/privacy-vs-user-experience) he outlines this dichotomy as the two opposing ethos of Apple and Google, with the prediction that Apple's stance on privacy will be a losing battle because of the necessity for data to build great products."
+      },
+      "date": 1433871027316
+    },
+    {
+      "type": "edit",
+      "id": "8e25b785e91ee13e",
+      "item": {
+        "type": "markdown",
+        "id": "8e25b785e91ee13e",
+        "text": "In Dustin Curtis' post he outlines this dichotomy as the two opposing ethos of Apple and Google, with the prediction that Apple's stance on privacy will be a losing battle because of the necessity for data to build great products."
+      },
+      "date": 1433871049886
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63dab292002bc99d"
+      },
+      "id": "63dab292002bc99d",
+      "type": "add",
+      "after": "8e25b785e91ee13e",
+      "date": 1433871053354
+    },
+    {
+      "type": "edit",
+      "id": "63dab292002bc99d",
+      "item": {
+        "type": "paragraph",
+        "id": "63dab292002bc99d",
+        "text": "http://dcurt.is/privacy-vs-user-experience"
+      },
+      "date": 1433871055299
     }
   ]
 }

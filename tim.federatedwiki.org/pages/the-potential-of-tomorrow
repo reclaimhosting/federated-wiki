@@ -15,6 +15,11 @@
       "type": "paragraph",
       "id": "b5c035f55bcf5e51",
       "text": "[[Privacy versus User Experience]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "dcf28993a7a7a176",
+      "text": "[[Disney Visions of the Future]]"
     }
   ],
   "journal": [
@@ -120,6 +125,26 @@
         "text": "[[Privacy versus User Experience]]"
       },
       "date": 1433870693622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dcf28993a7a7a176"
+      },
+      "id": "dcf28993a7a7a176",
+      "type": "add",
+      "after": "b5c035f55bcf5e51",
+      "date": 1433871117988
+    },
+    {
+      "type": "edit",
+      "id": "dcf28993a7a7a176",
+      "item": {
+        "type": "paragraph",
+        "id": "dcf28993a7a7a176",
+        "text": "[[Disney Visions of the Future]]"
+      },
+      "date": 1433871127975
     }
   ]
 }

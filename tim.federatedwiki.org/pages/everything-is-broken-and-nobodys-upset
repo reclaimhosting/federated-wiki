@@ -1,0 +1,284 @@
+{
+  "title": "Everything is Broken and Nobody's Upset",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "783808e14753d644",
+      "text": "Phrase from hanselman.com playing off famous Louis CK line. Notes that most software is very buggy in ways hard to explain. Some examples from there:"
+    },
+    {
+      "type": "pagefold",
+      "id": "6426c6d4a86cd055",
+      "text": "Quote"
+    },
+    {
+      "type": "paragraph",
+      "id": "f6f1af4e851fe9f1",
+      "text": "<li>iPhoto is utterly unusable with more than a few thousand photos.\n<li>Don't even get me started about iTunes.\n<li>And Skype. Everything about the Skype UI. Especially resizing columns in Skype on a Mac.\n<li>Google Chrome after version 19 or so changed the way it registers itself on Windows as the default browser and broke a half dozen apps (like Visual Studio) who look for specific registry keys that every other browser writes.\n<li>I should get an Xbox achievement for every time I press \"Clear\" in the iPhone notification window.\n<li>I've got two Microsoft Word documents that I wrote in Word that I can no longer open in Word as Word says \"Those aren't Word documents.\"\n<li>Three of my favorite websites lock up IE9 regularly. Two lock up Chrome. I never remember which is which.\n<li>AdBlock stopped my Gmail for working for three days with JavaScript errors until I figured it out and added an exclusion."
+    },
+    {
+      "type": "paragraph",
+      "id": "372836e0464b318c",
+      "text": "-- hanselman.com [http://www.hanselman.com/blog/EverythingsBrokenAndNobodysUpset.aspx html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "be6d60c016d26517",
+      "text": ".."
+    },
+    {
+      "type": "paragraph",
+      "id": "996fac4cfdca7c4d",
+      "text": "The question is why this is the case. Is it inevitable? "
+    },
+    {
+      "type": "paragraph",
+      "id": "103a318597b68320",
+      "text": "I notice a lot of these are based on interoperability issues. Chrome wanting to be default browser, browser war HTML issues, everything wanting to post to iPhone notifications."
+    },
+    {
+      "type": "paragraph",
+      "id": "cfea3329164daeb9",
+      "text": "If you think of an operating system as a sort of Commons, there's a [[Tragedy of the Commons]] at work here."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Everything is Broken and Nobody's Upset",
+        "story": [
+          {
+            "type": "paragraph",
+            "id": "783808e14753d644",
+            "text": "Phrase from hanselman.com playing off famous Louis CK line. Notes that most software is very buggy in ways hard to explain. Some examples from there:"
+          },
+          {
+            "type": "paragraph",
+            "id": "f6f1af4e851fe9f1",
+            "text": "<li>iPhoto is utterly unusable with more than a few thousand photos.\n<li>Don't even get me started about iTunes.\n<li>And Skype. Everything about the Skype UI. Especially resizing columns in Skype on a Mac.\n<li>Google Chrome after version 19 or so changed the way it registers itself on Windows as the default browser and broke a half dozen apps (like Visual Studio) who look for specific registry keys that every other browser writes.\n<li>I should get an Xbox achievement for every time I press \"Clear\" in the iPhone notification window.\n<li>I've got two Microsoft Word documents that I wrote in Word that I can no longer open in Word as Word says \"Those aren't Word documents.\"\n<li>Three of my favorite websites lock up IE9 regularly. Two lock up Chrome. I never remember which is which.\n<li>AdBlock stopped my Gmail for working for three days with JavaScript errors until I figured it out and added an exclusion."
+          }
+        ]
+      },
+      "date": 1413918835304
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "783808e14753d644",
+        "text": "Phrase from hanselman.com playing off famous Louis CK line. Notes that most software is very buggy in ways hard to explain. Some examples from there:"
+      },
+      "id": "783808e14753d644",
+      "type": "add",
+      "date": 1413918837036
+    },
+    {
+      "type": "edit",
+      "id": "783808e14753d644",
+      "item": {
+        "type": "paragraph",
+        "id": "783808e14753d644",
+        "text": "Phrase from hanselman.com playing off famous Louis CK line. Notes that most software is very buggy in ways hard to explain. Some examples from there:"
+      },
+      "date": 1413918853045
+    },
+    {
+      "type": "edit",
+      "id": "783808e14753d644",
+      "item": {
+        "type": "paragraph",
+        "id": "783808e14753d644",
+        "text": "Phrase from hanselman.com playing off famous Louis CK line. Notes that most software is very buggy in ways hard to explain. Some examples from there:"
+      },
+      "date": 1413918942942,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f6f1af4e851fe9f1",
+        "text": "<li>iPhoto is utterly unusable with more than a few thousand photos.\n<li>Don't even get me started about iTunes.\n<li>And Skype. Everything about the Skype UI. Especially resizing columns in Skype on a Mac.\n<li>Google Chrome after version 19 or so changed the way it registers itself on Windows as the default browser and broke a half dozen apps (like Visual Studio) who look for specific registry keys that every other browser writes.\n<li>I should get an Xbox achievement for every time I press \"Clear\" in the iPhone notification window.\n<li>I've got two Microsoft Word documents that I wrote in Word that I can no longer open in Word as Word says \"Those aren't Word documents.\"\n<li>Three of my favorite websites lock up IE9 regularly. Two lock up Chrome. I never remember which is which.\n<li>AdBlock stopped my Gmail for working for three days with JavaScript errors until I figured it out and added an exclusion."
+      },
+      "id": "f6f1af4e851fe9f1",
+      "type": "add",
+      "after": "783808e14753d644",
+      "date": 1413919017229
+    },
+    {
+      "type": "edit",
+      "id": "f6f1af4e851fe9f1",
+      "item": {
+        "type": "paragraph",
+        "id": "f6f1af4e851fe9f1",
+        "text": "<li>iPhoto is utterly unusable with more than a few thousand photos.\n<li>Don't even get me started about iTunes.\n<li>And Skype. Everything about the Skype UI. Especially resizing columns in Skype on a Mac.\n<li>Google Chrome after version 19 or so changed the way it registers itself on Windows as the default browser and broke a half dozen apps (like Visual Studio) who look for specific registry keys that every other browser writes.\n<li>I should get an Xbox achievement for every time I press \"Clear\" in the iPhone notification window.\n<li>I've got two Microsoft Word documents that I wrote in Word that I can no longer open in Word as Word says \"Those aren't Word documents.\"\n<li>Three of my favorite websites lock up IE9 regularly. Two lock up Chrome. I never remember which is which.\n<li>AdBlock stopped my Gmail for working for three days with JavaScript errors until I figured it out and added an exclusion."
+      },
+      "date": 1413919071828
+    },
+    {
+      "type": "fork",
+      "date": 1413919094129
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6426c6d4a86cd055"
+      },
+      "id": "6426c6d4a86cd055",
+      "type": "add",
+      "after": "f6f1af4e851fe9f1",
+      "date": 1413919102733
+    },
+    {
+      "type": "edit",
+      "id": "6426c6d4a86cd055",
+      "item": {
+        "type": "pagefold",
+        "id": "6426c6d4a86cd055",
+        "text": "Quote"
+      },
+      "date": 1413919116079
+    },
+    {
+      "type": "move",
+      "order": [
+        "783808e14753d644",
+        "6426c6d4a86cd055",
+        "f6f1af4e851fe9f1"
+      ],
+      "id": "6426c6d4a86cd055",
+      "date": 1413919120958
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "372836e0464b318c",
+        "text": ""
+      },
+      "id": "372836e0464b318c",
+      "type": "add",
+      "after": "f6f1af4e851fe9f1",
+      "date": 1413919150727
+    },
+    {
+      "type": "edit",
+      "id": "372836e0464b318c",
+      "item": {
+        "type": "paragraph",
+        "id": "372836e0464b318c",
+        "text": "-- hanselman.com [http://www.hanselman.com/blog/EverythingsBrokenAndNobodysUpset.aspx html]"
+      },
+      "date": 1413919167514
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be6d60c016d26517"
+      },
+      "id": "be6d60c016d26517",
+      "type": "add",
+      "after": "372836e0464b318c",
+      "date": 1413919216847
+    },
+    {
+      "type": "edit",
+      "id": "be6d60c016d26517",
+      "item": {
+        "type": "pagefold",
+        "id": "be6d60c016d26517",
+        "text": ".."
+      },
+      "date": 1413919223143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "996fac4cfdca7c4d"
+      },
+      "id": "996fac4cfdca7c4d",
+      "type": "add",
+      "after": "be6d60c016d26517",
+      "date": 1413919225103
+    },
+    {
+      "type": "edit",
+      "id": "996fac4cfdca7c4d",
+      "item": {
+        "type": "paragraph",
+        "id": "996fac4cfdca7c4d",
+        "text": "The question is why this is the case. Is it inevitable? "
+      },
+      "date": 1413919271506
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "103a318597b68320",
+        "text": ""
+      },
+      "id": "103a318597b68320",
+      "type": "add",
+      "after": "996fac4cfdca7c4d",
+      "date": 1413919325305
+    },
+    {
+      "type": "edit",
+      "id": "103a318597b68320",
+      "item": {
+        "type": "paragraph",
+        "id": "103a318597b68320",
+        "text": "I notice a lot of these are based on interoperability issues. Chrome wanting to be default browser, browser war HTML issues, everything wanting to post to iPhone notifications."
+      },
+      "date": 1413919389599
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cfea3329164daeb9",
+        "text": ""
+      },
+      "id": "cfea3329164daeb9",
+      "type": "add",
+      "after": "103a318597b68320",
+      "date": 1413919389616
+    },
+    {
+      "type": "edit",
+      "id": "cfea3329164daeb9",
+      "item": {
+        "type": "paragraph",
+        "id": "cfea3329164daeb9",
+        "text": "If you think of an operating system as a sort of Commons, there's a [[Tragedy of the Commons]] at work here."
+      },
+      "date": 1413919505526
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f324b71534e2b0c",
+        "text": ""
+      },
+      "id": "1f324b71534e2b0c",
+      "type": "add",
+      "after": "cfea3329164daeb9",
+      "date": 1413919505536
+    },
+    {
+      "type": "remove",
+      "id": "1f324b71534e2b0c",
+      "date": 1413919714151
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1415730698709
+    },
+    {
+      "type": "fork",
+      "site": "innovation.federatedwiki.org",
+      "date": 1433871487972
+    }
+  ]
+}

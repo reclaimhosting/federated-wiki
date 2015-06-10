@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "a782cc7b76309952"
+      "id": "896e5832a211bf95"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f566204b61e0f234"
+      "id": "4ba875234b146296"
+    },
+    {
+      "date": 1433903401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "8fc0147350445a60"
     },
     {
       "date": 1433902952000,
@@ -18,50 +27,55 @@
       "title": "People I Follow",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
       "type": "reference",
-      "id": "af52c753022482c6"
-    },
-    {
-      "date": 1433902801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "33882797cb2b8ac1"
+      "id": "bbfcc170dffe1d0c"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "31f5083708b82a5f",
+      "id": "875a9e86d6bf2888",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1433903401000
+      "date": 1433904002000
     },
     {
       "type": "add",
-      "id": "a782cc7b76309952",
+      "id": "896e5832a211bf95",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "a782cc7b76309952"
+        "id": "896e5832a211bf95"
       },
-      "date": 1433903401000
+      "date": 1433904002000
     },
     {
       "type": "add",
-      "id": "f566204b61e0f234",
+      "id": "4ba875234b146296",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f566204b61e0f234"
+        "id": "4ba875234b146296"
       },
-      "date": 1433903401000
+      "date": 1433904002000
     },
     {
       "type": "add",
-      "id": "af52c753022482c6",
+      "id": "8fc0147350445a60",
+      "item": {
+        "date": 1433903401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "8fc0147350445a60"
+      },
+      "date": 1433904002000
+    },
+    {
+      "type": "add",
+      "id": "bbfcc170dffe1d0c",
       "item": {
         "date": 1433902952000,
         "site": "tim.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "People I Follow",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
         "type": "reference",
-        "id": "af52c753022482c6"
+        "id": "bbfcc170dffe1d0c"
       },
-      "date": 1433903401000
-    },
-    {
-      "type": "add",
-      "id": "33882797cb2b8ac1",
-      "item": {
-        "date": 1433902801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "33882797cb2b8ac1"
-      },
-      "date": 1433903401000
+      "date": 1433904002000
     }
   ]
 }

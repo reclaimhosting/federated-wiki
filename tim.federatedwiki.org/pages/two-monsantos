@@ -1,0 +1,236 @@
+{
+  "title": "Two Monsantos",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4d07fe7e3bb96aea",
+      "text": "Responder on Quora claims that their are two historically distinct Monsantos -- one a chemical company, and one a seed company. Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history, but in a world of spinoffs, mergers, and hopscotch CEOs the definition of \"what companies did in the past\" is complex and far from predictive. [http://www.quora.com/Is-Monsanto-evil html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f4a47479c94e11f5",
+      "text": "This is not to say that Monsanto is a good company. It's just to say that Monsanto, and many other companies, do not have a history the way the U.S. has a history, or a good or evilness the way a local real estate developer has a good or evilness."
+    },
+    {
+      "type": "pagefold",
+      "id": "d0b3185d3beb15e7",
+      "text": "quote"
+    },
+    {
+      "type": "paragraph",
+      "id": "89a40520a96dd17c",
+      "text": "The first Monsanto was Monsanto Chemical, a company that manufactured food additives, industrial chemicals, and plastics. This Monsanto no longer exists. In the late 1990s, it developed the drug Celebrex. Pfizer bought this Monsanto in 2002.\n\nThe other Monsanto is Monsanto the seed company. In 1996, Monsanto (the chemical company) bought an agricultural company. In 2002, when Pfizer bought Monsanto (the chemical company), they weren't interested in the agribusiness, so they spun off the agricultural company as Monsanto (the seed company). Monsanto (the seed company) was distinct from Monsanto (the chemical company), with its own bylaws, a different board of directors, and different management from Monsanto (the chemical company). Monsanto (the seed company) kept the name \"Monsanto\" because they felt it would be expensive to change. [http://www.quora.com/Is-Monsanto-evil html]"
+    },
+    {
+      "type": "pagefold",
+      "id": "e61a549fbca2465d",
+      "text": "."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Two Monsantos",
+        "story": []
+      },
+      "date": 1424053678909
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d07fe7e3bb96aea"
+      },
+      "id": "4d07fe7e3bb96aea",
+      "type": "add",
+      "date": 1424053682968
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are \"two Monsantos\"."
+      },
+      "date": 1424053740595
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "89a40520a96dd17c"
+      },
+      "id": "89a40520a96dd17c",
+      "type": "add",
+      "after": "4d07fe7e3bb96aea",
+      "date": 1424053810855
+    },
+    {
+      "type": "edit",
+      "id": "89a40520a96dd17c",
+      "item": {
+        "type": "paragraph",
+        "id": "89a40520a96dd17c",
+        "text": "The first Monsanto was Monsanto Chemical, a company that manufactured food additives, industrial chemicals, and plastics. This Monsanto no longer exists. In the late 1990s, it developed the drug Celebrex. Pfizer bought this Monsanto in 2002.\n\nThe other Monsanto is Monsanto the seed company. In 1996, Monsanto (the chemical company) bought an agricultural company. In 2002, when Pfizer bought Monsanto (the chemical company), they weren't interested in the agribusiness, so they spun off the agricultural company as Monsanto (the seed company). Monsanto (the seed company) was distinct from Monsanto (the chemical company), with its own bylaws, a different board of directors, and different management from Monsanto (the chemical company). Monsanto (the seed company) kept the name \"Monsanto\" because they felt it would be expensive to change. "
+      },
+      "date": 1424053821784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e61a549fbca2465d"
+      },
+      "id": "e61a549fbca2465d",
+      "type": "add",
+      "after": "89a40520a96dd17c",
+      "date": 1424053825940
+    },
+    {
+      "type": "edit",
+      "id": "e61a549fbca2465d",
+      "item": {
+        "type": "pagefold",
+        "id": "e61a549fbca2465d",
+        "text": "."
+      },
+      "date": 1424053832100
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0b3185d3beb15e7"
+      },
+      "id": "d0b3185d3beb15e7",
+      "type": "add",
+      "after": "e61a549fbca2465d",
+      "date": 1424053837277
+    },
+    {
+      "type": "edit",
+      "id": "d0b3185d3beb15e7",
+      "item": {
+        "type": "pagefold",
+        "id": "d0b3185d3beb15e7",
+        "text": "quote"
+      },
+      "date": 1424053845028
+    },
+    {
+      "type": "move",
+      "order": [
+        "4d07fe7e3bb96aea",
+        "d0b3185d3beb15e7",
+        "89a40520a96dd17c",
+        "e61a549fbca2465d"
+      ],
+      "id": "d0b3185d3beb15e7",
+      "date": 1424053848445
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are \"two Monsantos\". [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424053871686
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c91675398937eea1"
+      },
+      "id": "c91675398937eea1",
+      "type": "add",
+      "after": "e61a549fbca2465d",
+      "date": 1424054124402
+    },
+    {
+      "type": "remove",
+      "id": "c91675398937eea1",
+      "date": 1424054196902
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are \"two Monsantos\". Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history. But in a world of spinoffs, mergers, and hopskotch CEOs the definition of \"what companies did\" is complex. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424054440014
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are \"two Monsantos\". Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history. But in a world of spinoffs, mergers, and hopscotch CEOs the definition of \"what companies did\" is complex. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424054475534
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are \"two Monsantos\". Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history. But in a world of spinoffs, mergers, and hopscotch CEOs the definition of \"what companies did in the past\" is complex and far from predictive. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424054496259
+    },
+    {
+      "type": "add",
+      "id": "f4a47479c94e11f5",
+      "item": {
+        "type": "paragraph",
+        "id": "f4a47479c94e11f5",
+        "text": "This is not to say that Monsanto is a good company. It's just to say that Monsanto, and many other companies, do not have a history the way the U.S. has a history, or a good or evilness the way a local real estate developer has a good or evilness."
+      },
+      "after": "4d07fe7e3bb96aea",
+      "date": 1424054874427
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are two historically distinct Monsantos -- one a chemical company, and one a seed company. Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history. But in a world of spinoffs, mergers, and hopscotch CEOs the definition of \"what companies did in the past\" is complex and far from predictive. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424099981578
+    },
+    {
+      "type": "edit",
+      "id": "4d07fe7e3bb96aea",
+      "item": {
+        "type": "paragraph",
+        "id": "4d07fe7e3bb96aea",
+        "text": "Responder on Quora claims that their are two historically distinct Monsantos -- one a chemical company, and one a seed company. Going through the Wikipedia article, it's really impossible to say whether it is true or false. The greater lesson is perhaps that we talk about companies as if they were individuals with a history, but in a world of spinoffs, mergers, and hopscotch CEOs the definition of \"what companies did in the past\" is complex and far from predictive. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424100010839
+    },
+    {
+      "type": "edit",
+      "id": "89a40520a96dd17c",
+      "item": {
+        "type": "paragraph",
+        "id": "89a40520a96dd17c",
+        "text": "The first Monsanto was Monsanto Chemical, a company that manufactured food additives, industrial chemicals, and plastics. This Monsanto no longer exists. In the late 1990s, it developed the drug Celebrex. Pfizer bought this Monsanto in 2002.\n\nThe other Monsanto is Monsanto the seed company. In 1996, Monsanto (the chemical company) bought an agricultural company. In 2002, when Pfizer bought Monsanto (the chemical company), they weren't interested in the agribusiness, so they spun off the agricultural company as Monsanto (the seed company). Monsanto (the seed company) was distinct from Monsanto (the chemical company), with its own bylaws, a different board of directors, and different management from Monsanto (the chemical company). Monsanto (the seed company) kept the name \"Monsanto\" because they felt it would be expensive to change. [http://www.quora.com/Is-Monsanto-evil html]"
+      },
+      "date": 1424100070639
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1433969424438
+    },
+    {
+      "type": "fork",
+      "site": "tomorrow.hapgood.net",
+      "date": 1434152634332
+    }
+  ]
+}

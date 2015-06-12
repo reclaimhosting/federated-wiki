@@ -14,12 +14,22 @@
     {
       "type": "paragraph",
       "id": "bb7fd37d92e729e7",
-      "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]] and the [[Carousel of Progress]]."
+      "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]] and the [[Carousel of Progress]]. [https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future wikipedia]"
+    },
+    {
+      "type": "pagefold",
+      "id": "7630fe1afef11040",
+      "text": "."
     },
     {
       "type": "paragraph",
-      "id": "de7ddfacdbeace73",
-      "text": "https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future"
+      "id": "6b340a29cf5d0269",
+      "text": "Note that this Monsanto was different from the seed company we know. See [[Two Monsantos]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "66c543a0dc617138",
+      "text": "The year 1957 was the year of [[Sputnik]]."
     }
   ],
   "journal": [
@@ -119,6 +129,106 @@
         "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]] and the [[Carousel of Progress]]."
       },
       "date": 1433872977562
+    },
+    {
+      "type": "fork",
+      "site": "tim.federatedwiki.org"
+    },
+    {
+      "type": "remove",
+      "id": "de7ddfacdbeace73",
+      "date": 1433969309403
+    },
+    {
+      "type": "edit",
+      "id": "bb7fd37d92e729e7",
+      "item": {
+        "type": "paragraph",
+        "id": "bb7fd37d92e729e7",
+        "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]] and the [[Carousel of Progress]].[https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future wikipedia]"
+      },
+      "date": 1433969312070
+    },
+    {
+      "type": "edit",
+      "id": "bb7fd37d92e729e7",
+      "item": {
+        "type": "paragraph",
+        "id": "bb7fd37d92e729e7",
+        "text": "It was closed in 1967 after the introduction of a new Tomorrowland and a shift in focus but the idea was reborn into [[Innoventions]] and the [[Carousel of Progress]]. [https://en.wikipedia.org/wiki/Monsanto_House_of_the_Future wikipedia]"
+      },
+      "date": 1433969318449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f8be73807c662e8"
+      },
+      "id": "8f8be73807c662e8",
+      "type": "add",
+      "after": "bb7fd37d92e729e7",
+      "date": 1433969360699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7630fe1afef11040"
+      },
+      "id": "7630fe1afef11040",
+      "type": "add",
+      "after": "8f8be73807c662e8",
+      "date": 1433969374700
+    },
+    {
+      "type": "remove",
+      "id": "8f8be73807c662e8",
+      "date": 1433969376415
+    },
+    {
+      "type": "edit",
+      "id": "7630fe1afef11040",
+      "item": {
+        "type": "pagefold",
+        "id": "7630fe1afef11040",
+        "text": "."
+      },
+      "date": 1433969378375
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6b340a29cf5d0269"
+      },
+      "id": "6b340a29cf5d0269",
+      "type": "add",
+      "after": "7630fe1afef11040",
+      "date": 1433969380172
+    },
+    {
+      "type": "edit",
+      "id": "6b340a29cf5d0269",
+      "item": {
+        "type": "paragraph",
+        "id": "6b340a29cf5d0269",
+        "text": "Note that this Monsanto was different from the seed company we know. See [[Two Monsantos]]."
+      },
+      "date": 1433969415223
+    },
+    {
+      "type": "add",
+      "id": "66c543a0dc617138",
+      "item": {
+        "type": "paragraph",
+        "id": "66c543a0dc617138",
+        "text": "The year 1957 was the year of [[Sputnik]]."
+      },
+      "after": "6b340a29cf5d0269",
+      "date": 1433969449805
+    },
+    {
+      "type": "fork",
+      "site": "tomorrow.hapgood.net",
+      "date": 1434152467019
     }
   ]
 }

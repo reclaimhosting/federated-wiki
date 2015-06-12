@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "7dacb2db92288e7a",
       "text": "Song: \"There's a Great Big Beautiful Tomorrow\""
+    },
+    {
+      "type": "video",
+      "id": "d63e78c5694a2564",
+      "text": "YOUTUBE WqBkBxJy470\n(double-click to edit caption)\n"
     }
   ],
   "journal": [
@@ -34,6 +39,35 @@
         "text": "Song: \"There's a Great Big Beautiful Tomorrow\""
       },
       "date": 1433873161374
+    },
+    {
+      "type": "fork",
+      "site": "tim.federatedwiki.org"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d63e78c5694a2564"
+      },
+      "id": "d63e78c5694a2564",
+      "type": "add",
+      "after": "7dacb2db92288e7a",
+      "date": 1433969324372
+    },
+    {
+      "type": "edit",
+      "id": "d63e78c5694a2564",
+      "item": {
+        "type": "video",
+        "id": "d63e78c5694a2564",
+        "text": "YOUTUBE WqBkBxJy470\n(double-click to edit caption)\n"
+      },
+      "date": 1433969349760
+    },
+    {
+      "type": "fork",
+      "site": "tomorrow.hapgood.net",
+      "date": 1434152625959
     }
   ]
 }

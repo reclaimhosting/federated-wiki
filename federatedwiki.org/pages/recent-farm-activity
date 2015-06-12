@@ -4,88 +4,88 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "039460bd3602f794"
+      "id": "f3158994e149ff6b"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "2944845745f29b9e"
+      "id": "a88b947d3a27cd1e"
     },
     {
-      "date": 1434151201000,
+      "date": 1434152297000,
+      "site": "tim.federatedwiki.org",
+      "slug": "ordering-a-pizza-in-2015",
+      "title": "Ordering a Pizza in 2015",
+      "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
+      "type": "reference",
+      "id": "02aa3478aa681a29"
+    },
+    {
+      "date": 1434151801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "d4e487b9eaa82d21"
-    },
-    {
-      "date": 1433902952000,
-      "site": "tim.federatedwiki.org",
-      "slug": "people-i-follow",
-      "title": "People I Follow",
-      "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
-      "type": "reference",
-      "id": "2b31a8223654bd3e"
+      "id": "955ff9e5af8746f9"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "c97109ab8caa1b18",
+      "id": "19ea173976607e19",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1434151801000
+      "date": 1434152401000
     },
     {
       "type": "add",
-      "id": "039460bd3602f794",
+      "id": "f3158994e149ff6b",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "039460bd3602f794"
+        "id": "f3158994e149ff6b"
       },
-      "date": 1434151801000
+      "date": 1434152401000
     },
     {
       "type": "add",
-      "id": "2944845745f29b9e",
+      "id": "a88b947d3a27cd1e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "2944845745f29b9e"
+        "id": "a88b947d3a27cd1e"
       },
-      "date": 1434151801000
+      "date": 1434152401000
     },
     {
       "type": "add",
-      "id": "d4e487b9eaa82d21",
+      "id": "02aa3478aa681a29",
       "item": {
-        "date": 1434151201000,
+        "date": 1434152297000,
+        "site": "tim.federatedwiki.org",
+        "slug": "ordering-a-pizza-in-2015",
+        "title": "Ordering a Pizza in 2015",
+        "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
+        "type": "reference",
+        "id": "02aa3478aa681a29"
+      },
+      "date": 1434152401000
+    },
+    {
+      "type": "add",
+      "id": "955ff9e5af8746f9",
+      "item": {
+        "date": 1434151801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "d4e487b9eaa82d21"
+        "id": "955ff9e5af8746f9"
       },
-      "date": 1434151801000
-    },
-    {
-      "type": "add",
-      "id": "2b31a8223654bd3e",
-      "item": {
-        "date": 1433902952000,
-        "site": "tim.federatedwiki.org",
-        "slug": "people-i-follow",
-        "title": "People I Follow",
-        "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 26 pages.",
-        "type": "reference",
-        "id": "2b31a8223654bd3e"
-      },
-      "date": 1434151801000
+      "date": 1434152401000
     }
   ]
 }

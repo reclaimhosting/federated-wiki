@@ -12,6 +12,16 @@
       "type": "paragraph",
       "id": "6b55e6415a7cb2d8",
       "text": "I help run [[Reclaim Hosting]] and hope to make it as easy as possible for people to get started with [[Smallest Federated Wiki]]. That being said I have no idea what I'm doing. Let's learn together!"
+    },
+    {
+      "type": "paragraph",
+      "id": "4c02d387479b452f",
+      "text": "Twitter: [https://twitter.com/timmmmyboy @timmmmyboy]"
+    },
+    {
+      "type": "paragraph",
+      "id": "269f94be83f8bab0",
+      "text": "Email: genial@gmail.com"
     }
   ],
   "journal": [
@@ -139,6 +149,47 @@
         "text": "I help run [[Reclaim Hosting]] and hope to make it as easy as possible for people to get started with [[Smallest Federated Wiki]]. That being said I have no idea what I'm doing. Let's learn together!"
       },
       "date": 1415564877259
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c02d387479b452f"
+      },
+      "id": "4c02d387479b452f",
+      "type": "add",
+      "after": "6b55e6415a7cb2d8",
+      "date": 1434151989842
+    },
+    {
+      "type": "edit",
+      "id": "4c02d387479b452f",
+      "item": {
+        "type": "paragraph",
+        "id": "4c02d387479b452f",
+        "text": "Twitter: [https://twitter.com/timmmmyboy @timmmmyboy]"
+      },
+      "date": 1434152036134
+    },
+    {
+      "type": "add",
+      "id": "269f94be83f8bab0",
+      "item": {
+        "type": "paragraph",
+        "id": "269f94be83f8bab0",
+        "text": "Email: [mailto:genial@gmail.com genial@gmail.com]"
+      },
+      "after": "4c02d387479b452f",
+      "date": 1434152063955
+    },
+    {
+      "type": "edit",
+      "id": "269f94be83f8bab0",
+      "item": {
+        "type": "paragraph",
+        "id": "269f94be83f8bab0",
+        "text": "Email: genial@gmail.com"
+      },
+      "date": 1434152081073
     }
   ]
 }

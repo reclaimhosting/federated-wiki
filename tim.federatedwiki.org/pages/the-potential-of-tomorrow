@@ -20,10 +20,6 @@
       "type": "paragraph",
       "id": "dcf28993a7a7a176",
       "text": "[[Disney Visions of the Future]]"
-    },
-    {
-      "type": "factory",
-      "id": "69f421662c7e6d10"
     }
   ],
   "journal": [
@@ -174,6 +170,21 @@
       "type": "add",
       "after": "dcf28993a7a7a176",
       "date": 1433893487850
+    },
+    {
+      "type": "fork",
+      "site": "tim.federatedwiki.org",
+      "date": 1433968755630
+    },
+    {
+      "type": "remove",
+      "id": "69f421662c7e6d10",
+      "date": 1433968872170
+    },
+    {
+      "type": "fork",
+      "site": "tomorrow.hapgood.net",
+      "date": 1434152289890
     }
   ]
 }

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "38f9988fc69c39ae"
+      "id": "bace79be2605c320"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "d89a44822c781a36"
+      "id": "7dc7c8e16ee6bd4e"
+    },
+    {
+      "date": 1434153001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "430eb48a08cdab20"
     },
     {
       "date": 1434152634000,
@@ -18,50 +27,55 @@
       "title": "Two Monsantos",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 27 pages.",
       "type": "reference",
-      "id": "1bf990144581c23d"
-    },
-    {
-      "date": 1434152401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "fbe0b69f24714513"
+      "id": "d90d3c72aac44d57"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "5027716bfc6e5fda",
+      "id": "ef08286b5f7f9ce0",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1434153001000
+      "date": 1434153601000
     },
     {
       "type": "add",
-      "id": "38f9988fc69c39ae",
+      "id": "bace79be2605c320",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "38f9988fc69c39ae"
+        "id": "bace79be2605c320"
       },
-      "date": 1434153001000
+      "date": 1434153601000
     },
     {
       "type": "add",
-      "id": "d89a44822c781a36",
+      "id": "7dc7c8e16ee6bd4e",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "d89a44822c781a36"
+        "id": "7dc7c8e16ee6bd4e"
       },
-      "date": 1434153001000
+      "date": 1434153601000
     },
     {
       "type": "add",
-      "id": "1bf990144581c23d",
+      "id": "430eb48a08cdab20",
+      "item": {
+        "date": 1434153001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "430eb48a08cdab20"
+      },
+      "date": 1434153601000
+    },
+    {
+      "type": "add",
+      "id": "d90d3c72aac44d57",
       "item": {
         "date": 1434152634000,
         "site": "tim.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "Two Monsantos",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 27 pages.",
         "type": "reference",
-        "id": "1bf990144581c23d"
+        "id": "d90d3c72aac44d57"
       },
-      "date": 1434153001000
-    },
-    {
-      "type": "add",
-      "id": "fbe0b69f24714513",
-      "item": {
-        "date": 1434152401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "fbe0b69f24714513"
-      },
-      "date": 1434153001000
+      "date": 1434153601000
     }
   ]
 }

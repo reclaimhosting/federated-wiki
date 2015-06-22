@@ -29,7 +29,7 @@
     {
       "type": "method",
       "id": "15df224c2bb3324f",
-      "text": "\n"
+      "text": "teste"
     }
   ],
   "journal": [
@@ -546,6 +546,36 @@
         "text": "\n"
       },
       "date": 1432823075481
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "735310e59d28dfae",
+        "text": ""
+      },
+      "id": "735310e59d28dfae",
+      "type": "add",
+      "after": "15df224c2bb3324f",
+      "date": 1434986895720
+    },
+    {
+      "type": "remove",
+      "id": "735310e59d28dfae",
+      "date": 1434986900447
+    },
+    {
+      "type": "fork",
+      "date": 1434986902520
+    },
+    {
+      "type": "edit",
+      "id": "15df224c2bb3324f",
+      "item": {
+        "type": "method",
+        "id": "15df224c2bb3324f",
+        "text": "teste"
+      },
+      "date": 1434986910879
     }
   ]
 }

@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "acdf7324b6bd439f"
+      "id": "6bed55bbc3fdc2d0"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "9b3cc56f087a5df9"
+      "id": "4ebbebc336856829"
+    },
+    {
+      "date": 1434987001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "6521decb3812a2d8"
     },
     {
       "date": 1434986910000,
@@ -18,16 +27,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "a5a3a5fdfbec2c2f"
-    },
-    {
-      "date": 1434986401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "6dc7c3038e403743"
+      "id": "d806fe9bc63073c6"
     },
     {
       "date": 1434152634000,
@@ -36,41 +36,55 @@
       "title": "Two Monsantos",
       "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 27 pages.",
       "type": "reference",
-      "id": "0910806c5d711243"
+      "id": "a04fda929a92fe40"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "2f6c0f90a99d319d",
+      "id": "3e6021f98c685916",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1434987001000
+      "date": 1434987601000
     },
     {
       "type": "add",
-      "id": "acdf7324b6bd439f",
+      "id": "6bed55bbc3fdc2d0",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "acdf7324b6bd439f"
+        "id": "6bed55bbc3fdc2d0"
       },
-      "date": 1434987001000
+      "date": 1434987601000
     },
     {
       "type": "add",
-      "id": "9b3cc56f087a5df9",
+      "id": "4ebbebc336856829",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "9b3cc56f087a5df9"
+        "id": "4ebbebc336856829"
       },
-      "date": 1434987001000
+      "date": 1434987601000
     },
     {
       "type": "add",
-      "id": "a5a3a5fdfbec2c2f",
+      "id": "6521decb3812a2d8",
+      "item": {
+        "date": 1434987001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "6521decb3812a2d8"
+      },
+      "date": 1434987601000
+    },
+    {
+      "type": "add",
+      "id": "d806fe9bc63073c6",
       "item": {
         "date": 1434986910000,
         "site": "hist289.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "a5a3a5fdfbec2c2f"
+        "id": "d806fe9bc63073c6"
       },
-      "date": 1434987001000
+      "date": 1434987601000
     },
     {
       "type": "add",
-      "id": "6dc7c3038e403743",
-      "item": {
-        "date": 1434986401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "6dc7c3038e403743"
-      },
-      "date": 1434987001000
-    },
-    {
-      "type": "add",
-      "id": "0910806c5d711243",
+      "id": "a04fda929a92fe40",
       "item": {
         "date": 1434152634000,
         "site": "tim.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Two Monsantos",
         "text": "In [http://tim.federatedwiki.org tim.federatedwiki.org] with 27 pages.",
         "type": "reference",
-        "id": "0910806c5d711243"
+        "id": "a04fda929a92fe40"
       },
-      "date": 1434987001000
+      "date": 1434987601000
     }
   ]
 }

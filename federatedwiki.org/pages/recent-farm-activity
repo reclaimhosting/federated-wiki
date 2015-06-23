@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "ee02c49d9d6aaa68"
+      "id": "18f51135379cbf9f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "c29ddafcd3cbe73c"
+      "id": "8a433705edb640d1"
     },
     {
-      "date": 1435039801000,
+      "date": 1435040834000,
+      "site": "fedwiki.djon.es",
+      "slug": "time-since-completion",
+      "title": "Time since completion",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 105 pages.",
+      "type": "reference",
+      "id": "4ef3a47b6e442f53"
+    },
+    {
+      "date": 1435040401000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "2e4d41555d166218"
+      "id": "e887ad45805c1c47"
     },
     {
       "date": 1434986910000,
@@ -27,55 +36,69 @@
       "title": "Welcome Visitors",
       "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "9a0a683a5977dcee"
+      "id": "95c99a0bc2c200bc"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "c5615cb0e31a8b6c",
+      "id": "f6e7165c64977aea",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1435040401000
+      "date": 1435041001000
     },
     {
       "type": "add",
-      "id": "ee02c49d9d6aaa68",
+      "id": "18f51135379cbf9f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "ee02c49d9d6aaa68"
+        "id": "18f51135379cbf9f"
       },
-      "date": 1435040401000
+      "date": 1435041001000
     },
     {
       "type": "add",
-      "id": "c29ddafcd3cbe73c",
+      "id": "8a433705edb640d1",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "c29ddafcd3cbe73c"
+        "id": "8a433705edb640d1"
       },
-      "date": 1435040401000
+      "date": 1435041001000
     },
     {
       "type": "add",
-      "id": "2e4d41555d166218",
+      "id": "4ef3a47b6e442f53",
       "item": {
-        "date": 1435039801000,
+        "date": 1435040834000,
+        "site": "fedwiki.djon.es",
+        "slug": "time-since-completion",
+        "title": "Time since completion",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 105 pages.",
+        "type": "reference",
+        "id": "4ef3a47b6e442f53"
+      },
+      "date": 1435041001000
+    },
+    {
+      "type": "add",
+      "id": "e887ad45805c1c47",
+      "item": {
+        "date": 1435040401000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "2e4d41555d166218"
+        "id": "e887ad45805c1c47"
       },
-      "date": 1435040401000
+      "date": 1435041001000
     },
     {
       "type": "add",
-      "id": "9a0a683a5977dcee",
+      "id": "95c99a0bc2c200bc",
       "item": {
         "date": 1434986910000,
         "site": "hist289.federatedwiki.org",
@@ -83,9 +106,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://hist289.federatedwiki.org hist289.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "9a0a683a5977dcee"
+        "id": "95c99a0bc2c200bc"
       },
-      "date": 1435040401000
+      "date": 1435041001000
     }
   ]
 }

@@ -4,65 +4,88 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "75fff28e16ecd838"
+      "id": "0f0b43c7d8004eab"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "e2f4ca686f7f0a58"
+      "id": "b54965f9d8209deb"
     },
     {
-      "date": 1436200201000,
+      "date": 1436201289000,
+      "site": "wikitytest.federatedwiki.org",
+      "slug": "trash-crash",
+      "title": "Trash Crash",
+      "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 2 pages.",
+      "type": "reference",
+      "id": "7b4b52422cc03b99"
+    },
+    {
+      "date": 1436200801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "993bfc963fc0e319"
+      "id": "a228aa2239a32184"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "35306f8eb9282b16",
+      "id": "4a357a7bf6834574",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1436200801000
+      "date": 1436201401000
     },
     {
       "type": "add",
-      "id": "75fff28e16ecd838",
+      "id": "0f0b43c7d8004eab",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "75fff28e16ecd838"
+        "id": "0f0b43c7d8004eab"
       },
-      "date": 1436200801000
+      "date": 1436201401000
     },
     {
       "type": "add",
-      "id": "e2f4ca686f7f0a58",
+      "id": "b54965f9d8209deb",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "e2f4ca686f7f0a58"
+        "id": "b54965f9d8209deb"
       },
-      "date": 1436200801000
+      "date": 1436201401000
     },
     {
       "type": "add",
-      "id": "993bfc963fc0e319",
+      "id": "7b4b52422cc03b99",
       "item": {
-        "date": 1436200201000,
+        "date": 1436201289000,
+        "site": "wikitytest.federatedwiki.org",
+        "slug": "trash-crash",
+        "title": "Trash Crash",
+        "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 2 pages.",
+        "type": "reference",
+        "id": "7b4b52422cc03b99"
+      },
+      "date": 1436201401000
+    },
+    {
+      "type": "add",
+      "id": "a228aa2239a32184",
+      "item": {
+        "date": 1436200801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "993bfc963fc0e319"
+        "id": "a228aa2239a32184"
       },
-      "date": 1436200801000
+      "date": 1436201401000
     }
   ]
 }

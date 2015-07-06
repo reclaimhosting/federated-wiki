@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f814398a31076eda"
+      "id": "049a9df981a6a512"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "8ceb4746ca6bfd61"
+      "id": "4e58bc6bde82e01f"
+    },
+    {
+      "date": 1436202001000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "e40bbae6f1427e68"
     },
     {
       "date": 1436201464000,
@@ -18,50 +27,55 @@
       "title": "Internet of Broken Things",
       "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "3a0a3b40e8a92dd9"
-    },
-    {
-      "date": 1436201401000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "fc2eb2f33cb9f0e9"
+      "id": "8aaef2e6f3e22e64"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "35073614f0df7b2d",
+      "id": "f94b4db3360ebd80",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1436202001000
+      "date": 1436202601000
     },
     {
       "type": "add",
-      "id": "f814398a31076eda",
+      "id": "049a9df981a6a512",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f814398a31076eda"
+        "id": "049a9df981a6a512"
       },
-      "date": 1436202001000
+      "date": 1436202601000
     },
     {
       "type": "add",
-      "id": "8ceb4746ca6bfd61",
+      "id": "4e58bc6bde82e01f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "8ceb4746ca6bfd61"
+        "id": "4e58bc6bde82e01f"
       },
-      "date": 1436202001000
+      "date": 1436202601000
     },
     {
       "type": "add",
-      "id": "3a0a3b40e8a92dd9",
+      "id": "e40bbae6f1427e68",
+      "item": {
+        "date": 1436202001000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "e40bbae6f1427e68"
+      },
+      "date": 1436202601000
+    },
+    {
+      "type": "add",
+      "id": "8aaef2e6f3e22e64",
       "item": {
         "date": 1436201464000,
         "site": "wikitytest.federatedwiki.org",
@@ -69,23 +83,9 @@
         "title": "Internet of Broken Things",
         "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "3a0a3b40e8a92dd9"
+        "id": "8aaef2e6f3e22e64"
       },
-      "date": 1436202001000
-    },
-    {
-      "type": "add",
-      "id": "fc2eb2f33cb9f0e9",
-      "item": {
-        "date": 1436201401000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "fc2eb2f33cb9f0e9"
-      },
-      "date": 1436202001000
+      "date": 1436202601000
     }
   ]
 }

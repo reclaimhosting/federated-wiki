@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "id": "f7b6e544a868d240",
-      "text": "How the Other Half Lives: Studies among the Tenements of New York  was an 1890 work by pioneering photojournalist [[Jacob Riis]]. It documented the poverty of New York City's Lower East Side at the time. "
+      "text": "How the Other Half Lives: Studies among the Tenements of New York  was an 1890 work by pioneering photojournalist [[Jacob Riis]]. It documented the poverty of New York City's Lower East Side at the time. [http://www.bartleby.com/208/ bartleby]"
     },
     {
       "type": "paragraph",
@@ -38,7 +38,17 @@
     {
       "type": "paragraph",
       "id": "1eb8a48133525e9d",
-      "text": "For all its strengths, the book does reflect prejudices of its time. But read as an early example of making an argument with numbers, pictures, and stories it may hold some lessons for journalists even today."
+      "text": "For all its strengths, the book does reflect prejudices of its time. But read as an early example of making an argument with numbers, pictures, and stories it may hold some lessons for journalists and activists even today."
+    },
+    {
+      "type": "paragraph",
+      "id": "b96d97c78514c5a5",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "18fe91849de2675e",
+      "text": "We're trying to collect a number of pages on data journalism into a list. See [[Re: Data Journalism]] "
     }
   ],
   "journal": [
@@ -299,6 +309,112 @@
       "type": "remove",
       "id": "cff32fafaf7d74c2",
       "date": 1436326127877
+    },
+    {
+      "type": "edit",
+      "id": "f7b6e544a868d240",
+      "item": {
+        "type": "paragraph",
+        "id": "f7b6e544a868d240",
+        "text": "How the Other Half Lives: Studies among the Tenements of New York  was an 1890 work by pioneering photojournalist [[Jacob Riis]]. It documented the poverty of New York City's Lower East Side at the time. [http://www.bartleby.com/208/ bartleby]"
+      },
+      "date": 1436326261610
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b96d97c78514c5a5"
+      },
+      "id": "b96d97c78514c5a5",
+      "type": "add",
+      "after": "1eb8a48133525e9d",
+      "date": 1436326275293
+    },
+    {
+      "type": "edit",
+      "id": "b96d97c78514c5a5",
+      "item": {
+        "type": "paragraph",
+        "id": "b96d97c78514c5a5",
+        "text": "----"
+      },
+      "date": 1436326280144
+    },
+    {
+      "type": "add",
+      "id": "18fe91849de2675e",
+      "item": {
+        "type": "paragraph",
+        "id": "18fe91849de2675e",
+        "text": "[[#Data Journalism]]"
+      },
+      "after": "b96d97c78514c5a5",
+      "date": 1436326314843
+    },
+    {
+      "type": "edit",
+      "id": "18fe91849de2675e",
+      "item": {
+        "type": "paragraph",
+        "id": "18fe91849de2675e",
+        "text": "[[#DataJournalism]]"
+      },
+      "date": 1436326337358
+    },
+    {
+      "type": "edit",
+      "id": "18fe91849de2675e",
+      "item": {
+        "type": "paragraph",
+        "id": "18fe91849de2675e",
+        "text": "[[Data Journalism Pages]] "
+      },
+      "date": 1436326386562
+    },
+    {
+      "type": "edit",
+      "id": "1eb8a48133525e9d",
+      "item": {
+        "type": "paragraph",
+        "id": "1eb8a48133525e9d",
+        "text": "For all its strengths, the book does reflect prejudices of its time. But read as an early example of making an argument with numbers, pictures, and stories it may hold some lessons for journalists and activists even today."
+      },
+      "date": 1436326512626
+    },
+    {
+      "type": "edit",
+      "id": "18fe91849de2675e",
+      "item": {
+        "type": "paragraph",
+        "id": "18fe91849de2675e",
+        "text": "We're trying to collect a number of pages on data journalism into a list. See [[Data Journalism Pages]] "
+      },
+      "date": 1436326545428
+    },
+    {
+      "type": "edit",
+      "id": "18fe91849de2675e",
+      "item": {
+        "type": "paragraph",
+        "id": "18fe91849de2675e",
+        "text": "We're trying to collect a number of pages on data journalism into a list. See [[Re: Data Journalism]] "
+      },
+      "date": 1436326584401
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "435b313c460a60a7"
+      },
+      "id": "435b313c460a60a7",
+      "type": "add",
+      "after": "18fe91849de2675e",
+      "date": 1436326605952
+    },
+    {
+      "type": "remove",
+      "id": "435b313c460a60a7",
+      "date": 1436326609828
     }
   ]
 }

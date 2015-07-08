@@ -1,0 +1,64 @@
+{
+  "title": "Data Journalism Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7145af454369f7bd",
+      "text": "A list of pages on data journalism."
+    },
+    {
+      "type": "paragraph",
+      "id": "57a87d314406c051",
+      "text": "[[How the Other Half Lives]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Data Journalism Pages",
+        "story": []
+      },
+      "date": 1436326455849
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7145af454369f7bd"
+      },
+      "id": "7145af454369f7bd",
+      "type": "add",
+      "date": 1436326456934
+    },
+    {
+      "type": "edit",
+      "id": "7145af454369f7bd",
+      "item": {
+        "type": "paragraph",
+        "id": "7145af454369f7bd",
+        "text": "A list of pages on data journalism."
+      },
+      "date": 1436326470954
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57a87d314406c051"
+      },
+      "id": "57a87d314406c051",
+      "type": "add",
+      "after": "7145af454369f7bd",
+      "date": 1436326475852
+    },
+    {
+      "type": "edit",
+      "id": "57a87d314406c051",
+      "item": {
+        "type": "paragraph",
+        "id": "57a87d314406c051",
+        "text": "[[How the Other Half Lives]]"
+      },
+      "date": 1436326491373
+    }
+  ]
+}

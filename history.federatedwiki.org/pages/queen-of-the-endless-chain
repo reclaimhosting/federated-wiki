@@ -4,11 +4,22 @@
     {
       "type": "paragraph",
       "id": "9f45d33d0fb4b4ae",
-      "text": "\"Queen of the Endless Chain\" is a 1908(??) article on Natalie Schenck, the teenager who, in 1898, broke the U.S. post office by starting a chain letter to fund an ice plant for the Red Cross for soldiers in the Spanish-American War. [https://books.google.com/books?id=mHs4AQAAMAAJ&pg=PA525&dq=Natalie+Schenck+spanish+american&hl=en&sa=X&ei=YnidVcSoJ8_moATg27SoBg&ved=0CB0Q6AEwAA#v=onepage&q&f=false books]"
+      "text": "\"Queen of the Endless Chain\" is a 1908(??) article on Natalie Schenck, the teenager who, in 1898, broke a local U.S. post office by starting a chain letter to fund an ice plant for the Red Cross for soldiers in the Spanish-American War. [https://books.google.com/books?id=mHs4AQAAMAAJ&pg=PA525&dq=Natalie+Schenck+spanish+american&hl=en&sa=X&ei=YnidVcSoJ8_moATg27SoBg&ved=0CB0Q6AEwAA#v=onepage&q&f=false books]"
     },
     {
-      "type": "factory",
-      "id": "d71e35da0ee073da"
+      "type": "paragraph",
+      "id": "d71e35da0ee073da",
+      "text": "Each person in the chain was to contribute a dime and write a letter to four others asking them to contribute a dime. "
+    },
+    {
+      "type": "paragraph",
+      "id": "31b1182aff093eb7",
+      "text": "The idea was too successful, as letters began to pour in at exponential rates of increase. The interesting bit was that Schenck tried to break the chain -- she contacted newspapers and made announcements in a world where newspaper readership was near universal. Yet very little could stop the chain. "
+    },
+    {
+      "type": "paragraph",
+      "id": "5beb295491c643a1",
+      "text": "[[scratch]]"
     }
   ],
   "journal": [
@@ -98,6 +109,57 @@
         "text": "\"Queen of the Endless Chain\" is a 1908(??) article on Natalie Schenck, the teenager who, in 1898, broke the U.S. post office by starting a chain letter to fund an ice plant for the Red Cross for soldiers in the Spanish-American War. [https://books.google.com/books?id=mHs4AQAAMAAJ&pg=PA525&dq=Natalie+Schenck+spanish+american&hl=en&sa=X&ei=YnidVcSoJ8_moATg27SoBg&ved=0CB0Q6AEwAA#v=onepage&q&f=false books]"
       },
       "date": 1436383741329
+    },
+    {
+      "type": "edit",
+      "id": "d71e35da0ee073da",
+      "item": {
+        "type": "paragraph",
+        "id": "d71e35da0ee073da",
+        "text": "Each person in the chain was to contribute a dime and write a letter to four others asking them to contribute a dime. "
+      },
+      "date": 1436383834275
+    },
+    {
+      "type": "edit",
+      "id": "9f45d33d0fb4b4ae",
+      "item": {
+        "type": "paragraph",
+        "id": "9f45d33d0fb4b4ae",
+        "text": "\"Queen of the Endless Chain\" is a 1908(??) article on Natalie Schenck, the teenager who, in 1898, broke a local U.S. post office by starting a chain letter to fund an ice plant for the Red Cross for soldiers in the Spanish-American War. [https://books.google.com/books?id=mHs4AQAAMAAJ&pg=PA525&dq=Natalie+Schenck+spanish+american&hl=en&sa=X&ei=YnidVcSoJ8_moATg27SoBg&ved=0CB0Q6AEwAA#v=onepage&q&f=false books]"
+      },
+      "date": 1436383967087
+    },
+    {
+      "type": "add",
+      "id": "31b1182aff093eb7",
+      "item": {
+        "type": "paragraph",
+        "id": "31b1182aff093eb7",
+        "text": "The idea was too successful, as letters began to pour in at exponential rates of increase. The interesting bit was that Schenck tried to break the chain -- she contacted newspapers and made announcements in a world where newspaper readership was near universal. Yet very little could stop the chain. "
+      },
+      "after": "d71e35da0ee073da",
+      "date": 1436384107497
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5beb295491c643a1"
+      },
+      "id": "5beb295491c643a1",
+      "type": "add",
+      "after": "31b1182aff093eb7",
+      "date": 1436384379608
+    },
+    {
+      "type": "edit",
+      "id": "5beb295491c643a1",
+      "item": {
+        "type": "paragraph",
+        "id": "5beb295491c643a1",
+        "text": "[[scratch]]"
+      },
+      "date": 1436384385856
     }
   ]
 }

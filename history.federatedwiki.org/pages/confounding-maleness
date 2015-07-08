@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "05b6e97a45cd9b56",
       "text": "One of the questions to ask of any analysis is how gender composition of the sample may have affected the data. A good example of this comes from 19th century misconceptions about Chinese immigrants."
+    },
+    {
+      "type": "paragraph",
+      "id": "379fb0528f19acdf",
+      "text": "The murder rate among Chinese immigrants in the 19th century was absurdly high, and this was often falsely attributed to the character of the Chinese. "
+    },
+    {
+      "type": "paragraph",
+      "id": "057dbfd634ba351e",
+      "text": "Yet there is another simple explanation, made clear in these diagrams from the 1870 census. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0fce903f805b6849",
+      "text": "[[scratch]]"
     }
   ],
   "journal": [
@@ -34,6 +49,48 @@
         "text": "One of the questions to ask of any analysis is how gender composition of the sample may have affected the data. A good example of this comes from 19th century misconceptions about Chinese immigrants."
       },
       "date": 1436375348543
+    },
+    {
+      "type": "add",
+      "id": "379fb0528f19acdf",
+      "item": {
+        "type": "paragraph",
+        "id": "379fb0528f19acdf",
+        "text": "The murder rate among Chinese immigrants in the 19th century was absurdly high, and this was often falsely attributed to the character of the Chinese. "
+      },
+      "after": "05b6e97a45cd9b56",
+      "date": 1436375567736
+    },
+    {
+      "type": "add",
+      "id": "057dbfd634ba351e",
+      "item": {
+        "type": "paragraph",
+        "id": "057dbfd634ba351e",
+        "text": "Yet there is another simple explanation, made clear in these diagrams from the 1870 census. "
+      },
+      "after": "379fb0528f19acdf",
+      "date": 1436375616962
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0fce903f805b6849"
+      },
+      "id": "0fce903f805b6849",
+      "type": "add",
+      "after": "057dbfd634ba351e",
+      "date": 1436375908773
+    },
+    {
+      "type": "edit",
+      "id": "0fce903f805b6849",
+      "item": {
+        "type": "paragraph",
+        "id": "0fce903f805b6849",
+        "text": "[[scratch]]"
+      },
+      "date": 1436375937747
     }
   ]
 }

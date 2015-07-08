@@ -15,6 +15,16 @@
       "type": "paragraph",
       "id": "ea0c65e0e3031570",
       "text": "While the rest of the passage displays some of the prejudices of the time, the pole is an interesting observation. The method of posting notices on telephone/telegraph poles is well-known today, but seems foreign to Riis in 1890. Is this the origin of the practice in New York? "
+    },
+    {
+      "type": "paragraph",
+      "id": "869278ac0f00b6b7",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "d54e3a4fb69eafdc",
+      "text": "Riis also notes the problem of the disproportionate number of males in Chinatown, a pattern that shows up more generally in the 1870 census. See [[Confounding Maleness]]"
     }
   ],
   "journal": [
@@ -134,6 +144,37 @@
         "text": "In [[How the Other Half Lives]] author Riis notes how a particular telegraph pole in New York's Chinatown was the heart of the community information system."
       },
       "date": 1436374666000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "869278ac0f00b6b7"
+      },
+      "id": "869278ac0f00b6b7",
+      "type": "add",
+      "after": "ea0c65e0e3031570",
+      "date": 1436375111027
+    },
+    {
+      "type": "edit",
+      "id": "869278ac0f00b6b7",
+      "item": {
+        "type": "paragraph",
+        "id": "869278ac0f00b6b7",
+        "text": "----"
+      },
+      "date": 1436375122433
+    },
+    {
+      "type": "add",
+      "id": "d54e3a4fb69eafdc",
+      "item": {
+        "type": "paragraph",
+        "id": "d54e3a4fb69eafdc",
+        "text": "Riis also notes the problem of the disproportionate number of males in Chinatown, a pattern that shows up more generally in the 1870 census. See [[Confounding Maleness]]"
+      },
+      "after": "869278ac0f00b6b7",
+      "date": 1436375233279
     }
   ]
 }

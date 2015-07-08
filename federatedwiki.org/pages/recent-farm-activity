@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "27ebcd3f6717989d"
+      "id": "41b1e4870d671829"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "f147ebf03d24d13d"
+      "id": "7a308dbeaaa9dce0"
     },
     {
-      "date": 1436317201000,
+      "date": 1436318358000,
+      "site": "history.federatedwiki.org",
+      "slug": "how-the-other-half-lives",
+      "title": "How the Other Half Lives",
+      "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 3 pages.",
+      "type": "reference",
+      "id": "2801225937717254"
+    },
+    {
+      "date": 1436317801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "97631cec84123a4a"
+      "id": "027b575a6cc1486e"
     },
     {
       "date": 1436309561000,
@@ -27,7 +36,7 @@
       "title": "Ultramod Compound",
       "text": "In [http://athens.federatedwiki.org athens.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "b81f03857effd1b6"
+      "id": "baa176973ec4810b"
     },
     {
       "date": 1436201464000,
@@ -36,55 +45,69 @@
       "title": "Internet of Broken Things",
       "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "21015e8d8315be7f"
+      "id": "633259d313c4b050"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b48fdd89887d30cf",
+      "id": "c8958e08759591ba",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     },
     {
       "type": "add",
-      "id": "27ebcd3f6717989d",
+      "id": "41b1e4870d671829",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "27ebcd3f6717989d"
+        "id": "41b1e4870d671829"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     },
     {
       "type": "add",
-      "id": "f147ebf03d24d13d",
+      "id": "7a308dbeaaa9dce0",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "f147ebf03d24d13d"
+        "id": "7a308dbeaaa9dce0"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     },
     {
       "type": "add",
-      "id": "97631cec84123a4a",
+      "id": "2801225937717254",
       "item": {
-        "date": 1436317201000,
+        "date": 1436318358000,
+        "site": "history.federatedwiki.org",
+        "slug": "how-the-other-half-lives",
+        "title": "How the Other Half Lives",
+        "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 3 pages.",
+        "type": "reference",
+        "id": "2801225937717254"
+      },
+      "date": 1436318401000
+    },
+    {
+      "type": "add",
+      "id": "027b575a6cc1486e",
+      "item": {
+        "date": 1436317801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "97631cec84123a4a"
+        "id": "027b575a6cc1486e"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     },
     {
       "type": "add",
-      "id": "b81f03857effd1b6",
+      "id": "baa176973ec4810b",
       "item": {
         "date": 1436309561000,
         "site": "athens.federatedwiki.org",
@@ -92,13 +115,13 @@
         "title": "Ultramod Compound",
         "text": "In [http://athens.federatedwiki.org athens.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "b81f03857effd1b6"
+        "id": "baa176973ec4810b"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     },
     {
       "type": "add",
-      "id": "21015e8d8315be7f",
+      "id": "633259d313c4b050",
       "item": {
         "date": 1436201464000,
         "site": "wikitytest.federatedwiki.org",
@@ -106,9 +129,9 @@
         "title": "Internet of Broken Things",
         "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "21015e8d8315be7f"
+        "id": "633259d313c4b050"
       },
-      "date": 1436317801000
+      "date": 1436318401000
     }
   ]
 }

@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "d9ba6006b5929885",
       "text": "[[How the Other Half Lives]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "09fcc94a062f0348",
+      "text": "[[Queen of the Endless Chain]]"
     }
   ],
   "journal": [
@@ -34,6 +39,26 @@
         "text": "[[How the Other Half Lives]]"
       },
       "date": 1436318167868
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "09fcc94a062f0348"
+      },
+      "id": "09fcc94a062f0348",
+      "type": "add",
+      "after": "d9ba6006b5929885",
+      "date": 1436383398753
+    },
+    {
+      "type": "edit",
+      "id": "09fcc94a062f0348",
+      "item": {
+        "type": "paragraph",
+        "id": "09fcc94a062f0348",
+        "text": "[[Queen of the Endless Chain]]"
+      },
+      "date": 1436383408867
     }
   ]
 }

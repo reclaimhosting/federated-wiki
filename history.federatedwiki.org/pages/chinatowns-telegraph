@@ -1,6 +1,12 @@
 {
   "title": "Chinatown's Telegraph",
-  "story": [],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "e028f1bf056a6b7e",
+      "text": "In [[How the Other Half Lives]] authot Riis notes how a particular telegraph pole in New York's Chinatown was the heart of the community information system."
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -9,6 +15,25 @@
         "story": []
       },
       "date": 1436325252506
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e028f1bf056a6b7e"
+      },
+      "id": "e028f1bf056a6b7e",
+      "type": "add",
+      "date": 1436374059716
+    },
+    {
+      "type": "edit",
+      "id": "e028f1bf056a6b7e",
+      "item": {
+        "type": "paragraph",
+        "id": "e028f1bf056a6b7e",
+        "text": "In [[How the Other Half Lives]] authot Riis notes how a particular telegraph pole in New York's Chinatown was the heart of the community information system."
+      },
+      "date": 1436374147283
     }
   ]
 }

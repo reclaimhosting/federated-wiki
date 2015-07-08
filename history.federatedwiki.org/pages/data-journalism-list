@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "08b34f839314e495",
       "text": "[[How the Other Half Lives]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e61879f20ad464c6",
+      "text": "[[Population Pyramid History]]"
     }
   ],
   "journal": [
@@ -34,6 +39,17 @@
         "text": "[[How the Other Half Lives]]"
       },
       "date": 1436326989129
+    },
+    {
+      "type": "add",
+      "id": "e61879f20ad464c6",
+      "item": {
+        "type": "paragraph",
+        "id": "e61879f20ad464c6",
+        "text": "[[Population Pyramid History]]"
+      },
+      "after": "08b34f839314e495",
+      "date": 1436328149211
     }
   ]
 }

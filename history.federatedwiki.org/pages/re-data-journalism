@@ -1,11 +1,6 @@
 {
   "title": "Re: Data Journalism",
-  "story": [
-    {
-      "type": "factory",
-      "id": "c4c67d99ef779cb5"
-    }
-  ],
+  "story": [],
   "journal": [
     {
       "type": "create",
@@ -23,6 +18,11 @@
       "id": "c4c67d99ef779cb5",
       "type": "add",
       "date": 1436326787082
+    },
+    {
+      "type": "remove",
+      "id": "c4c67d99ef779cb5",
+      "date": 1436326836750
     }
   ]
 }

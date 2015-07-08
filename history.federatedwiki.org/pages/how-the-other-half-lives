@@ -16,7 +16,17 @@
     {
       "type": "paragraph",
       "id": "0b941f77afed24e6",
-      "text": "The title is a reference to a line from Rabelais: \"one half of the world does not know how the other half lives\" (\"la moytié du monde ne sait comment l'autre vit\")."
+      "text": "The title is a reference to a line from Rabelais: \"one half of the world does not know how the other half lives\" (\"la moytié du monde ne sait comment l'autre vit\"). Riis thought much of the inaction around poverty was due to a lack of awareness. Photojournalism seemed a way to bring it into the living rooms of the middle and upper classes."
+    },
+    {
+      "type": "paragraph",
+      "id": "416df2b6b039824c",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "0eb3d68f5256fbb4",
+      "text": "He thanks Dr. Roger S. Tracy, the Registrar of Vital Statistics in "
     }
   ],
   "journal": [
@@ -144,6 +154,47 @@
         "text": "The title is a reference to a line from Rabelais: \"one half of the world does not know how the other half lives\" (\"la moytié du monde ne sait comment l'autre vit\")."
       },
       "date": 1436318955939
+    },
+    {
+      "type": "edit",
+      "id": "0b941f77afed24e6",
+      "item": {
+        "type": "paragraph",
+        "id": "0b941f77afed24e6",
+        "text": "The title is a reference to a line from Rabelais: \"one half of the world does not know how the other half lives\" (\"la moytié du monde ne sait comment l'autre vit\"). Riis thought much of the inaction around poverty was due to a lack of awareness. Photojournalism seemed a way to bring it into the living rooms of the middle and upper classes."
+      },
+      "date": 1436319013311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "416df2b6b039824c"
+      },
+      "id": "416df2b6b039824c",
+      "type": "add",
+      "after": "0b941f77afed24e6",
+      "date": 1436319195358
+    },
+    {
+      "type": "edit",
+      "id": "416df2b6b039824c",
+      "item": {
+        "type": "paragraph",
+        "id": "416df2b6b039824c",
+        "text": "----"
+      },
+      "date": 1436319199156
+    },
+    {
+      "type": "add",
+      "id": "0eb3d68f5256fbb4",
+      "item": {
+        "type": "paragraph",
+        "id": "0eb3d68f5256fbb4",
+        "text": "He thanks Dr. Roger S. Tracy, the Registrar of Vital Statistics in "
+      },
+      "after": "416df2b6b039824c",
+      "date": 1436319233005
     }
   ]
 }

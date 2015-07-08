@@ -13,8 +13,9 @@
       "text": "Uploaded image"
     },
     {
-      "type": "factory",
-      "id": "1e405c074b6df5b8"
+      "type": "paragraph",
+      "id": "1e405c074b6df5b8",
+      "text": "Classic twitter. Well-known ironic left-leaning journalist ad commenaator who made his name analyzing some of the oddness of extreme right culture posts this image, gets hudreds of angry responses and calls to his boss for discipline."
     }
   ],
   "journal": [
@@ -73,6 +74,16 @@
       "type": "add",
       "after": "90c50142787fbffb",
       "date": 1436363342247
+    },
+    {
+      "type": "edit",
+      "id": "1e405c074b6df5b8",
+      "item": {
+        "type": "paragraph",
+        "id": "1e405c074b6df5b8",
+        "text": "Classic twitter. Well-known ironic left-leaning journalist ad commenaator who made his name analyzing some of the oddness of extreme right culture posts this image, gets hudreds of angry responses and calls to his boss for discipline."
+      },
+      "date": 1436363530083
     }
   ]
 }

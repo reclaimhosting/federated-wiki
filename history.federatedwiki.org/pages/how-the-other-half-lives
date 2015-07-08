@@ -28,17 +28,17 @@
     {
       "type": "paragraph",
       "id": "416df2b6b039824c",
-      "text": "While it is celebrated for its advances in photojournalism, less remarked is its position as an early work of data journalism. In the preface, he thanks Dr. Roger S. Tracy, New York's Registrar of Vital Statistics, who he worked with extensively in the production of the book, and the text alternates stories and pictures with statistics showing the size of the problem. The "
+      "text": "While it is celebrated for its advances in photojournalism, less remarked is its position as an early work of data journalism. In the preface, he thanks Dr. Roger S. Tracy, New York's Registrar of Vital Statistics, who he worked with extensively in the production of the book, and the text alternates stories and pictures with statistics showing the size of the problem. "
     },
     {
       "type": "paragraph",
-      "id": "cff32fafaf7d74c2",
-      "text": "----"
+      "id": "e3fea207ea132d69",
+      "text": "The end of the book contains not pictures, but an appendix of the data related to the problem. [http://www.bartleby.com/208/26.html html]"
     },
     {
       "type": "paragraph",
-      "id": "e015636d6277960f",
-      "text": "An interesting passage concerns [[Chinatown's Telegraph]]."
+      "id": "1eb8a48133525e9d",
+      "text": "For all its strengths, the book does reflect prejudices of its time. But read as an early example of making an argument with numbers, pictures, and stories it may hold some lessons for journalists even today."
     }
   ],
   "journal": [
@@ -257,6 +257,48 @@
       },
       "after": "cff32fafaf7d74c2",
       "date": 1436322627870
+    },
+    {
+      "type": "edit",
+      "id": "416df2b6b039824c",
+      "item": {
+        "type": "paragraph",
+        "id": "416df2b6b039824c",
+        "text": "While it is celebrated for its advances in photojournalism, less remarked is its position as an early work of data journalism. In the preface, he thanks Dr. Roger S. Tracy, New York's Registrar of Vital Statistics, who he worked with extensively in the production of the book, and the text alternates stories and pictures with statistics showing the size of the problem. "
+      },
+      "date": 1436325982218
+    },
+    {
+      "type": "add",
+      "id": "e3fea207ea132d69",
+      "item": {
+        "type": "paragraph",
+        "id": "e3fea207ea132d69",
+        "text": "The end of the book contains not pictures, but an appendix of the data related to the problem. [http://www.bartleby.com/208/26.html html]"
+      },
+      "after": "416df2b6b039824c",
+      "date": 1436326027468
+    },
+    {
+      "type": "add",
+      "id": "1eb8a48133525e9d",
+      "item": {
+        "type": "paragraph",
+        "id": "1eb8a48133525e9d",
+        "text": "For all its strengths, the book does reflect prejudices of its time. But read as an early example of making an argument with numbers, pictures, and stories it may hold some lessons for journalists even today."
+      },
+      "after": "e3fea207ea132d69",
+      "date": 1436326117111
+    },
+    {
+      "type": "remove",
+      "id": "e015636d6277960f",
+      "date": 1436326125080
+    },
+    {
+      "type": "remove",
+      "id": "cff32fafaf7d74c2",
+      "date": 1436326127877
     }
   ]
 }

@@ -10,6 +10,11 @@
       "type": "paragraph",
       "id": "09fcc94a062f0348",
       "text": "[[Queen of the Endless Chain]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "19e88797201d7522",
+      "text": "[[Cast of Characters]]"
     }
   ],
   "journal": [
@@ -59,6 +64,26 @@
         "text": "[[Queen of the Endless Chain]]"
       },
       "date": 1436383408867
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19e88797201d7522"
+      },
+      "id": "19e88797201d7522",
+      "type": "add",
+      "after": "09fcc94a062f0348",
+      "date": 1436582468932
+    },
+    {
+      "type": "edit",
+      "id": "19e88797201d7522",
+      "item": {
+        "type": "paragraph",
+        "id": "19e88797201d7522",
+        "text": "[[Cast of Characters]]"
+      },
+      "date": 1436582481344
     }
   ]
 }

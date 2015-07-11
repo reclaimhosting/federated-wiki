@@ -1,0 +1,79 @@
+{
+  "title": "Cast of Characters",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "46be7ff1a40dec6c",
+      "text": "[[Natalie Schenck]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "1ae7180b1ac64494",
+      "text": "[[Charles Glenn Collins]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Cast of Characters",
+        "story": []
+      },
+      "date": 1436582485060
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46be7ff1a40dec6c"
+      },
+      "id": "46be7ff1a40dec6c",
+      "type": "add",
+      "date": 1436582486333
+    },
+    {
+      "type": "edit",
+      "id": "46be7ff1a40dec6c",
+      "item": {
+        "type": "paragraph",
+        "id": "46be7ff1a40dec6c",
+        "text": "[[Natalie Schenck]]"
+      },
+      "date": 1436582509047
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ae7180b1ac64494"
+      },
+      "id": "1ae7180b1ac64494",
+      "type": "add",
+      "after": "46be7ff1a40dec6c",
+      "date": 1436582517495
+    },
+    {
+      "type": "edit",
+      "id": "1ae7180b1ac64494",
+      "item": {
+        "type": "paragraph",
+        "id": "1ae7180b1ac64494",
+        "text": "[[Charles Glenn Collins]]"
+      },
+      "date": 1436582539240
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "761250a71aa10d44"
+      },
+      "id": "761250a71aa10d44",
+      "type": "add",
+      "after": "1ae7180b1ac64494",
+      "date": 1436582557399
+    },
+    {
+      "type": "remove",
+      "id": "761250a71aa10d44",
+      "date": 1436582633216
+    }
+  ]
+}

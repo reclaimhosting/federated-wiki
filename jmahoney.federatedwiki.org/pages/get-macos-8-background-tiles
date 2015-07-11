@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "646b4c12f42e1314",
       "text": "[http://themes.effx.us/usage E16 themes]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2436ec429634c33e",
+      "text": "$ svn co http://themes.effx.us/svn/current/ApplePlatinum"
+    },
+    {
+      "type": "paragraph",
+      "id": "d9e17c859f4bfe38",
+      "text": "$ cd ApplePlatinum/e16/artwork/backgrounds"
     }
   ],
   "journal": [
@@ -34,6 +44,73 @@
         "text": "[http://themes.effx.us/usage E16 themes]"
       },
       "date": 1436585995850
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c1ea6bb219360718"
+      },
+      "id": "c1ea6bb219360718",
+      "type": "add",
+      "after": "646b4c12f42e1314",
+      "date": 1436586031564
+    },
+    {
+      "type": "edit",
+      "id": "c1ea6bb219360718",
+      "item": {
+        "type": "code",
+        "id": "c1ea6bb219360718",
+        "text": "svn co http://themes.effx.us/svn/current"
+      },
+      "date": 1436586036138
+    },
+    {
+      "type": "add",
+      "id": "2436ec429634c33e",
+      "item": {
+        "type": "paragraph",
+        "id": "2436ec429634c33e",
+        "text": "$ svn co http://themes.effx.us/svn/current"
+      },
+      "after": "646b4c12f42e1314",
+      "date": 1436586062616
+    },
+    {
+      "type": "remove",
+      "id": "c1ea6bb219360718",
+      "date": 1436586068195
+    },
+    {
+      "type": "edit",
+      "id": "2436ec429634c33e",
+      "item": {
+        "type": "paragraph",
+        "id": "2436ec429634c33e",
+        "text": "$ svn co http://themes.effx.us/svn/current/ApplePlatinum"
+      },
+      "date": 1436586240245
+    },
+    {
+      "type": "add",
+      "id": "d9e17c859f4bfe38",
+      "item": {
+        "type": "paragraph",
+        "id": "d9e17c859f4bfe38",
+        "text": "$cd ApplePlatinum/e16/artwork/backgrounds"
+      },
+      "after": "2436ec429634c33e",
+      "date": 1436586320201
+    },
+    {
+      "type": "edit",
+      "id": "d9e17c859f4bfe38",
+      "item": {
+        "type": "paragraph",
+        "id": "d9e17c859f4bfe38",
+        "text": "$ cd ApplePlatinum/e16/artwork/backgrounds"
+      },
+      "date": 1436586330874
     }
   ]
 }

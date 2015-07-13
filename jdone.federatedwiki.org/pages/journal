@@ -1,0 +1,39 @@
+{
+  "title": "Journal",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d4f28368ff6533c8",
+      "text": "[[AirBnB Rejections]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journal",
+        "story": []
+      },
+      "date": 1436819305116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4f28368ff6533c8"
+      },
+      "id": "d4f28368ff6533c8",
+      "type": "add",
+      "date": 1436819307747
+    },
+    {
+      "type": "edit",
+      "id": "d4f28368ff6533c8",
+      "item": {
+        "type": "paragraph",
+        "id": "d4f28368ff6533c8",
+        "text": "[[AirBnB Rejections]]"
+      },
+      "date": 1436819365669
+    }
+  ]
+}

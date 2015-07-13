@@ -1,0 +1,63 @@
+{
+  "title": "start your own wiki.",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0ca55b131f15bade",
+      "text": "To create a site, just visit federatedwiki.org with your subdomain in front and get started. Eg if you want eggs.federatedwiki.org just visit that URL to claim it."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "start your own wiki.",
+        "story": []
+      },
+      "date": 1436808040781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a43a94fe02280f99"
+      },
+      "id": "a43a94fe02280f99",
+      "type": "add",
+      "date": 1436808046785
+    },
+    {
+      "type": "remove",
+      "id": "a43a94fe02280f99",
+      "date": 1436808056075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0ca55b131f15bade"
+      },
+      "id": "0ca55b131f15bade",
+      "type": "add",
+      "date": 1436808074331
+    },
+    {
+      "type": "edit",
+      "id": "0ca55b131f15bade",
+      "item": {
+        "type": "paragraph",
+        "id": "0ca55b131f15bade",
+        "text": "To create a site, just visit federatedwiki.org with your subdomain in front and get started. Eg if you want eggs."
+      },
+      "date": 1436808086774
+    },
+    {
+      "type": "edit",
+      "id": "0ca55b131f15bade",
+      "item": {
+        "type": "paragraph",
+        "id": "0ca55b131f15bade",
+        "text": "To create a site, just visit federatedwiki.org with your subdomain in front and get started. Eg if you want eggs.federatedwiki.org just visit that URL to claim it."
+      },
+      "date": 1436808101489
+    }
+  ]
+}

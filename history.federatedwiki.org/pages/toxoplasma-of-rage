@@ -1,0 +1,150 @@
+{
+  "title": "Toxoplasma of Rage",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "92fd71b414643a09",
+      "text": "This lengthy post suggests that polarized argument is a successful strategy for the selfish-meme. [http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/ post]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cfe2a2a5723c7a8c",
+      "text": "The title comes from the disease that alternates hosts between cats and mice. The analogy suggests that the more outrageous the position the more attention it gets and this alone will create a niche for the opposing view and thus complete the circle. "
+    },
+    {
+      "type": "paragraph",
+      "id": "14e7344fbb1eccdc",
+      "text": "Bloggers were considered insensitive if they blogged about anything other than Ferguson. The author suggests that the absence of video evidence present in other police killings engaged the rage and prolonged the conversation to no one's advantage. "
+    },
+    {
+      "type": "paragraph",
+      "id": "15c549f390cd729d",
+      "text": "As an interesting twist the author observes that the more outrageous the positions the more honorable their defense appears. I'm reminded of Daniel Dennett's notion of [[Belief in Belief]], a subject that our blogger has addressed on his other site, Less Wrong. [http://lesswrong.com/lw/i4/belief_in_belief/ post]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Toxoplasma of Rage",
+        "story": []
+      },
+      "date": 1428887338250
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92fd71b414643a09"
+      },
+      "id": "92fd71b414643a09",
+      "type": "add",
+      "date": 1428887392193
+    },
+    {
+      "type": "edit",
+      "id": "92fd71b414643a09",
+      "item": {
+        "type": "paragraph",
+        "id": "92fd71b414643a09",
+        "text": "This lengthy post suggests that polarized argument is a successful strategy for the selfish-meme."
+      },
+      "date": 1428887490013
+    },
+    {
+      "type": "add",
+      "id": "cfe2a2a5723c7a8c",
+      "item": {
+        "type": "paragraph",
+        "id": "cfe2a2a5723c7a8c",
+        "text": "The title comes from the disease that alternates hosts between cats and mice. The analogy suggests that the more outrageous the position the more attention it gets and this alone will create a niche for the opposing view and thus complete the circle. "
+      },
+      "after": "92fd71b414643a09",
+      "date": 1428887644996
+    },
+    {
+      "type": "edit",
+      "id": "92fd71b414643a09",
+      "item": {
+        "type": "paragraph",
+        "id": "92fd71b414643a09",
+        "text": "This lengthy post suggests that polarized argument is a successful strategy for the selfish-meme. [http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/ post]"
+      },
+      "date": 1428887680700
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14e7344fbb1eccdc"
+      },
+      "id": "14e7344fbb1eccdc",
+      "type": "add",
+      "after": "cfe2a2a5723c7a8c",
+      "date": 1428887732951
+    },
+    {
+      "type": "edit",
+      "id": "14e7344fbb1eccdc",
+      "item": {
+        "type": "paragraph",
+        "id": "14e7344fbb1eccdc",
+        "text": "Bloggers were considered insensitive if they blogged about anything other than Ferguson. The author suggests that the absence of video evidence present in other police killings engaged the rage and prolonged the conversation to no one's advantage. "
+      },
+      "date": 1428887934421
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "15c549f390cd729d"
+      },
+      "id": "15c549f390cd729d",
+      "type": "add",
+      "after": "14e7344fbb1eccdc",
+      "date": 1428888750526
+    },
+    {
+      "type": "edit",
+      "id": "15c549f390cd729d",
+      "item": {
+        "type": "paragraph",
+        "id": "15c549f390cd729d",
+        "text": "As an interesting twist the author observes that the more outrageous the positions the more honorable their defense appears to be. I'm reminded of Daniel Dennett's notion of [[Belief in Belief]] a subject that our blogger has addressed on his other site. [http://lesswrong.com/lw/i4/belief_in_belief/ post]"
+      },
+      "date": 1428888894203
+    },
+    {
+      "type": "edit",
+      "id": "15c549f390cd729d",
+      "item": {
+        "type": "paragraph",
+        "id": "15c549f390cd729d",
+        "text": "As an interesting twist the author observes that the more outrageous the positions the more honorable their defense appears to be. I'm reminded of Daniel Dennett's notion of [[Belief in Belief]], a subject that our blogger has addressed on his other site. [http://lesswrong.com/lw/i4/belief_in_belief/ post]"
+      },
+      "date": 1428888938548
+    },
+    {
+      "type": "edit",
+      "id": "15c549f390cd729d",
+      "item": {
+        "type": "paragraph",
+        "id": "15c549f390cd729d",
+        "text": "As an interesting twist the author observes that the more outrageous the positions the more honorable their defense appears. I'm reminded of Daniel Dennett's notion of [[Belief in Belief]], a subject that our blogger has addressed on his other site. [http://lesswrong.com/lw/i4/belief_in_belief/ post]"
+      },
+      "date": 1428888990306
+    },
+    {
+      "type": "edit",
+      "id": "15c549f390cd729d",
+      "item": {
+        "type": "paragraph",
+        "id": "15c549f390cd729d",
+        "text": "As an interesting twist the author observes that the more outrageous the positions the more honorable their defense appears. I'm reminded of Daniel Dennett's notion of [[Belief in Belief]], a subject that our blogger has addressed on his other site, Less Wrong. [http://lesswrong.com/lw/i4/belief_in_belief/ post]"
+      },
+      "date": 1428889597593
+    },
+    {
+      "type": "fork",
+      "site": "forage.ward.fed.wiki.org",
+      "date": 1436815417047
+    }
+  ]
+}

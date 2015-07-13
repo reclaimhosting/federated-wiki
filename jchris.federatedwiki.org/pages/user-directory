@@ -1,0 +1,583 @@
+{
+  "title": "User Directory",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f4d212d87d145bf3",
+      "text": "Add yourself here if you have a federated wiki. Then fork this page to easily access the full neighborhood."
+    },
+    {
+      "type": "reference",
+      "id": "e95f02e3ea01b70a",
+      "site": "jason.federatedwiki.org",
+      "title": "Jason Green",
+      "text": "Jason Green (jason)"
+    },
+    {
+      "type": "reference",
+      "id": "9302476145b71d88",
+      "site": "rosano.federatedwiki.org",
+      "title": "Rosano Coutinho",
+      "text": "Hello!"
+    },
+    {
+      "type": "reference",
+      "id": "0c6298446b678ba6",
+      "site": "tim.federatedwiki.org",
+      "title": "Tim Owens",
+      "text": "@timmmmyboy"
+    },
+    {
+      "type": "reference",
+      "id": "dea11b5f742c5089",
+      "site": "max.federatedwiki.org",
+      "title": "Max",
+      "text": "this is where I will be keeping my notes and ideas for school."
+    },
+    {
+      "type": "reference",
+      "id": "a09896322fd64849",
+      "site": "ward.federatedwiki.org",
+      "title": "Ward Cunningham",
+      "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+    },
+    {
+      "type": "paragraph",
+      "id": "278f56692d71b8e5",
+      "text": "Other SFW instances I follow"
+    },
+    {
+      "type": "reference",
+      "id": "285bbb207ae9f46a",
+      "site": "journal14.hapgood.net:3000",
+      "title": "Journal for 2014",
+      "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+    },
+    {
+      "type": "reference",
+      "id": "3ea3797594658b04",
+      "site": "innovation.federatedwiki.org",
+      "title": "Innovation Wiki",
+      "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c1f3e4b567bc6de",
+      "text": "Documenting how to interact with Portland public space policy, to lower the barriers to access."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "User Directory",
+        "story": []
+      },
+      "date": 1415514029128
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4d212d87d145bf3"
+      },
+      "id": "f4d212d87d145bf3",
+      "type": "add",
+      "date": 1415514030659
+    },
+    {
+      "type": "edit",
+      "id": "f4d212d87d145bf3",
+      "item": {
+        "type": "paragraph",
+        "id": "f4d212d87d145bf3",
+        "text": "Add yourself here if you have a federated wiki"
+      },
+      "date": 1415514069380
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a90edaf6d43383f4"
+      },
+      "id": "a90edaf6d43383f4",
+      "type": "add",
+      "after": "f4d212d87d145bf3",
+      "date": 1415514072245
+    },
+    {
+      "type": "edit",
+      "id": "a90edaf6d43383f4",
+      "item": {
+        "type": "paragraph",
+        "id": "a90edaf6d43383f4",
+        "text": "[[Jason Green]]"
+      },
+      "date": 1415514083500
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1571d39161951630",
+        "text": ""
+      },
+      "id": "1571d39161951630",
+      "type": "add",
+      "after": "a90edaf6d43383f4",
+      "date": 1415514083511
+    },
+    {
+      "type": "remove",
+      "id": "1571d39161951630",
+      "date": 1415514092577
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0b15d50f88eb73f"
+      },
+      "id": "e0b15d50f88eb73f",
+      "type": "add",
+      "after": "a90edaf6d43383f4",
+      "date": 1415514169649
+    },
+    {
+      "type": "edit",
+      "id": "e0b15d50f88eb73f",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b15d50f88eb73f",
+        "text": "[[Rosano Coutinho]]"
+      },
+      "date": 1415514174807
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34beb15b645a9d18"
+      },
+      "id": "34beb15b645a9d18",
+      "type": "add",
+      "after": "e0b15d50f88eb73f",
+      "date": 1415514358372
+    },
+    {
+      "type": "edit",
+      "id": "34beb15b645a9d18",
+      "item": {
+        "type": "paragraph",
+        "id": "34beb15b645a9d18",
+        "text": "[[Tim Owens]]"
+      },
+      "date": 1415514365221
+    },
+    {
+      "type": "remove",
+      "id": "a90edaf6d43383f4",
+      "date": 1415587517046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "72e56d8e30a03d3c"
+      },
+      "id": "72e56d8e30a03d3c",
+      "type": "add",
+      "after": "34beb15b645a9d18",
+      "date": 1415587518954
+    },
+    {
+      "type": "edit",
+      "id": "72e56d8e30a03d3c",
+      "item": {
+        "type": "reference",
+        "id": "72e56d8e30a03d3c",
+        "site": "federatedwiki.org",
+        "title": "Jason Green",
+        "text": "Jason Green (jason)"
+      },
+      "date": 1415587521187
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "72e56d8e30a03d3c",
+        "e0b15d50f88eb73f",
+        "34beb15b645a9d18"
+      ],
+      "id": "72e56d8e30a03d3c",
+      "date": 1415587524624
+    },
+    {
+      "type": "remove",
+      "id": "e0b15d50f88eb73f",
+      "date": 1415587531834
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b83cdd3cfd809f2c"
+      },
+      "id": "b83cdd3cfd809f2c",
+      "type": "add",
+      "after": "34beb15b645a9d18",
+      "date": 1415587536768
+    },
+    {
+      "type": "edit",
+      "id": "b83cdd3cfd809f2c",
+      "item": {
+        "type": "reference",
+        "id": "b83cdd3cfd809f2c",
+        "site": "federatedwiki.org",
+        "title": "Rosano Coutinho",
+        "text": "Hello!"
+      },
+      "date": 1415587538495
+    },
+    {
+      "type": "move",
+      "order": [
+        "f4d212d87d145bf3",
+        "72e56d8e30a03d3c",
+        "b83cdd3cfd809f2c",
+        "34beb15b645a9d18"
+      ],
+      "id": "b83cdd3cfd809f2c",
+      "date": 1415587542420
+    },
+    {
+      "type": "remove",
+      "id": "34beb15b645a9d18",
+      "date": 1415587580328
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e95f02e3ea01b70a"
+      },
+      "id": "e95f02e3ea01b70a",
+      "type": "add",
+      "after": "b83cdd3cfd809f2c",
+      "date": 1415587716233
+    },
+    {
+      "type": "edit",
+      "id": "e95f02e3ea01b70a",
+      "item": {
+        "type": "reference",
+        "id": "e95f02e3ea01b70a",
+        "site": "jason.federatedwiki.org",
+        "title": "Jason Green",
+        "text": "Jason Green (jason)"
+      },
+      "date": 1415587718782
+    },
+    {
+      "type": "remove",
+      "id": "72e56d8e30a03d3c",
+      "date": 1415587722961
+    },
+    {
+      "type": "remove",
+      "id": "b83cdd3cfd809f2c",
+      "date": 1415587732915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9302476145b71d88"
+      },
+      "id": "9302476145b71d88",
+      "type": "add",
+      "after": "e95f02e3ea01b70a",
+      "date": 1415587748777
+    },
+    {
+      "type": "edit",
+      "id": "9302476145b71d88",
+      "item": {
+        "type": "reference",
+        "id": "9302476145b71d88",
+        "site": "rosano.federatedwiki.org",
+        "title": "Rosano Coutinho",
+        "text": "Hello!"
+      },
+      "date": 1415587753831
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c6298446b678ba6"
+      },
+      "id": "0c6298446b678ba6",
+      "type": "add",
+      "after": "9302476145b71d88",
+      "date": 1415587766268
+    },
+    {
+      "type": "edit",
+      "id": "0c6298446b678ba6",
+      "item": {
+        "type": "reference",
+        "id": "0c6298446b678ba6",
+        "site": "tim.federatedwiki.org",
+        "title": "Tim Owens",
+        "text": "I help run [[Reclaim Hosting]] and hope to make it as easy as possible for people to get started with [[Smallest Federated Wiki]]. That being said I have no idea what I'm doing. Let's learn together!"
+      },
+      "date": 1415587770495
+    },
+    {
+      "type": "edit",
+      "id": "0c6298446b678ba6",
+      "item": {
+        "type": "reference",
+        "id": "0c6298446b678ba6",
+        "site": "tim.federatedwiki.org",
+        "title": "Tim Owens",
+        "text": "@timmmmyboy"
+      },
+      "date": 1415587806726
+    },
+    {
+      "type": "edit",
+      "id": "f4d212d87d145bf3",
+      "item": {
+        "type": "paragraph",
+        "id": "f4d212d87d145bf3",
+        "text": "Add yourself here if you have a federated wiki. Then fork this page to easily access the full neighborhood."
+      },
+      "date": 1415587866023
+    },
+    {
+      "type": "fork",
+      "site": "federatedwiki.org",
+      "date": 1415587888624
+    },
+    {
+      "type": "fork",
+      "site": "tim.federatedwiki.org",
+      "date": 1415665598461
+    },
+    {
+      "type": "edit",
+      "id": "bf38ae1eb4a75f6d",
+      "item": {
+        "type": "reference",
+        "id": "bf38ae1eb4a75f6d",
+        "site": "max.federatedwiki.org",
+        "title": "Welcome Visitors",
+        "text": " "
+      },
+      "date": 1415665601636
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dea11b5f742c5089"
+      },
+      "id": "dea11b5f742c5089",
+      "type": "add",
+      "after": "0c6298446b678ba6",
+      "date": 1415665815548
+    },
+    {
+      "type": "edit",
+      "id": "dea11b5f742c5089",
+      "item": {
+        "type": "reference",
+        "id": "dea11b5f742c5089",
+        "site": "max.federatedwiki.org",
+        "title": "Max",
+        "text": "this is where I will be keeping my notes and ideas for school."
+      },
+      "date": 1415665821914
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016723
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a09896322fd64849"
+      },
+      "id": "a09896322fd64849",
+      "type": "add",
+      "after": "dea11b5f742c5089",
+      "site": "jason.federatedwiki.org",
+      "date": 1415675016719
+    },
+    {
+      "type": "edit",
+      "id": "a09896322fd64849",
+      "item": {
+        "type": "reference",
+        "id": "a09896322fd64849",
+        "site": "ward.federatedwiki.org",
+        "title": "Ward Cunningham",
+        "text": "I've recast wiki as something small, easy and personal. I hope every individual can [[Own a Space]] there which serves their needs and no others."
+      },
+      "date": 1415675029126
+    },
+    {
+      "type": "fork",
+      "date": 1415675106200
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "278f56692d71b8e5"
+      },
+      "id": "278f56692d71b8e5",
+      "type": "add",
+      "after": "a09896322fd64849",
+      "date": 1416172115264
+    },
+    {
+      "type": "edit",
+      "id": "278f56692d71b8e5",
+      "item": {
+        "type": "paragraph",
+        "id": "278f56692d71b8e5",
+        "text": "Other SFW instances I follow"
+      },
+      "date": 1416172129275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "21ba8b362fdad859",
+        "text": ""
+      },
+      "id": "21ba8b362fdad859",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172129290
+    },
+    {
+      "type": "remove",
+      "id": "21ba8b362fdad859",
+      "date": 1416172134964
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "285bbb207ae9f46a"
+      },
+      "id": "285bbb207ae9f46a",
+      "type": "add",
+      "after": "278f56692d71b8e5",
+      "date": 1416172151875
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites."
+      },
+      "date": 1416172159151
+    },
+    {
+      "type": "edit",
+      "id": "285bbb207ae9f46a",
+      "item": {
+        "type": "reference",
+        "id": "285bbb207ae9f46a",
+        "site": "journal14.hapgood.net:3000",
+        "title": "Journal for 2014",
+        "text": "This is an example of what [[Fedwiki as Memex-Journal]] might look like. The idea is one stream for many notes which can be occassionally refactored into separate new or exisitng sites. - by Mike Caulfield\n"
+      },
+      "date": 1416172184449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3ea3797594658b04"
+      },
+      "id": "3ea3797594658b04",
+      "type": "add",
+      "after": "285bbb207ae9f46a",
+      "date": 1416198530009
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]]."
+      },
+      "date": 1416198544220
+    },
+    {
+      "type": "edit",
+      "id": "3ea3797594658b04",
+      "item": {
+        "type": "reference",
+        "id": "3ea3797594658b04",
+        "site": "innovation.federatedwiki.org",
+        "title": "Innovation Wiki",
+        "text": "Place to collect and link articles related to [[How Innovation Happens]] and the things that thwart it. Also interested in [[Organizational Change]].  - by Mike Caulfield"
+      },
+      "date": 1416198567313
+    },
+    {
+      "type": "fork",
+      "site": "jason.federatedwiki.org",
+      "date": 1428177498720
+    },
+    {
+      "type": "fork",
+      "site": "federatedwiki.org",
+      "date": 1436809313857
+    },
+    {
+      "type": "fork",
+      "date": 1436809326290
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c1f3e4b567bc6de"
+      },
+      "id": "6c1f3e4b567bc6de",
+      "type": "add",
+      "after": "3ea3797594658b04",
+      "date": 1436809350098
+    },
+    {
+      "type": "edit",
+      "id": "6c1f3e4b567bc6de",
+      "item": {
+        "type": "paragraph",
+        "id": "6c1f3e4b567bc6de",
+        "text": "Documenting how to interact with Portland public space policy, to lower the barriers to access."
+      },
+      "date": 1436809377431
+    },
+    {
+      "type": "add",
+      "id": "4b0d2d9357d7ab52",
+      "item": {
+        "type": "paragraph",
+        "id": "4b0d2d9357d7ab52",
+        "text": "Chris Anderson (jchris)"
+      },
+      "after": "3ea3797594658b04",
+      "date": 1436809475700
+    },
+    {
+      "type": "remove",
+      "id": "4b0d2d9357d7ab52",
+      "date": 1436809493207
+    }
+  ]
+}

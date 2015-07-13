@@ -1,0 +1,122 @@
+{
+  "title": "Airbnb Rejections",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5560f3d5abece05c",
+      "text": "The founder of Airbnb, a startup valued at $25 billion dollars, shares some of his rejection letters for early funding. [http://qz.com/452185/the-rejection-letters-of-early-round-investors-who-passed-on-airbnb/ post]"
+    },
+    {
+      "type": "paragraph",
+      "id": "549850a2a7c34e9a",
+      "text": "The big concern seems to be that the market is not a focus or doesn't seem big enough. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d180a8c64d0b352c",
+      "text": "This was only seven years ago. The $150,000 investment the founder was asking for would now be worth $2.5 billion in equity in 2015. "
+    },
+    {
+      "type": "paragraph",
+      "id": "947bd2fb11923d97",
+      "text": "----"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Airbnb Rejections",
+        "story": []
+      },
+      "date": 1436819432038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5560f3d5abece05c"
+      },
+      "id": "5560f3d5abece05c",
+      "type": "add",
+      "date": 1436819433590
+    },
+    {
+      "type": "edit",
+      "id": "5560f3d5abece05c",
+      "item": {
+        "type": "paragraph",
+        "id": "5560f3d5abece05c",
+        "text": "The founder of Airbnb, a startup valued at $25 billion dollars, shares some of his rejection letters for early funding."
+      },
+      "date": 1436819487007
+    },
+    {
+      "type": "edit",
+      "id": "5560f3d5abece05c",
+      "item": {
+        "type": "paragraph",
+        "id": "5560f3d5abece05c",
+        "text": "The founder of Airbnb, a startup valued at $25 billion dollars, shares some of his rejection letters for early funding. [http://qz.com/452185/the-rejection-letters-of-early-round-investors-who-passed-on-airbnb/ post]"
+      },
+      "date": 1436819803779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee23c95cadc715ad"
+      },
+      "id": "ee23c95cadc715ad",
+      "type": "add",
+      "after": "5560f3d5abece05c",
+      "date": 1436819805929
+    },
+    {
+      "type": "remove",
+      "id": "ee23c95cadc715ad",
+      "date": 1436819814382
+    },
+    {
+      "type": "add",
+      "id": "549850a2a7c34e9a",
+      "item": {
+        "type": "paragraph",
+        "id": "549850a2a7c34e9a",
+        "text": "The big concern seems to be that the market is not a focus or doesn't seem big enough. "
+      },
+      "after": "5560f3d5abece05c",
+      "date": 1436819920009
+    },
+    {
+      "type": "add",
+      "id": "d180a8c64d0b352c",
+      "item": {
+        "type": "paragraph",
+        "id": "d180a8c64d0b352c",
+        "text": "This was only seven years ago. The $150,000 investment the founder was asking for would now be worth $2.5 billion in equity. "
+      },
+      "after": "549850a2a7c34e9a",
+      "date": 1436819987450
+    },
+    {
+      "type": "edit",
+      "id": "d180a8c64d0b352c",
+      "item": {
+        "type": "paragraph",
+        "id": "d180a8c64d0b352c",
+        "text": "This was only seven years ago. The $150,000 investment the founder was asking for would now be worth $2.5 billion in equity in 2015. "
+      },
+      "date": 1436819998395
+    },
+    {
+      "type": "add",
+      "id": "947bd2fb11923d97",
+      "item": {
+        "type": "paragraph",
+        "id": "947bd2fb11923d97",
+        "text": "----"
+      },
+      "after": "d180a8c64d0b352c",
+      "date": 1436820001009
+    }
+  ]
+}

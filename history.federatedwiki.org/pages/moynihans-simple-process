@@ -1,0 +1,103 @@
+{
+  "title": "Moynihan's Simple Process",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "376f74ba57d07030",
+      "text": "From Talking Points Memo:"
+    },
+    {
+      "type": "markdown",
+      "id": "74735fb007a94170",
+      "text": "> Before the culture wars transformed the environment into a political hot button, it remained possible to have rational discussions about impending threats to the planet. On September 17, 1969, President Nixon's advisor and future Democratic senator Daniel Patrick Moynihan wrote to John Ehrlichman, Nixon’s Chief Domestic Policy Advisor, about “the carbon dioxide problem.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "5b22e73ea764d2e9",
+      "text": "In the letter "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Moynihan's Simple Process",
+        "story": []
+      },
+      "date": 1436814526086
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "733e0a72fbbec681"
+      },
+      "id": "733e0a72fbbec681",
+      "type": "add",
+      "date": 1436814541501
+    },
+    {
+      "type": "remove",
+      "id": "733e0a72fbbec681",
+      "date": 1436814543549
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "376f74ba57d07030"
+      },
+      "id": "376f74ba57d07030",
+      "type": "add",
+      "date": 1436814544919
+    },
+    {
+      "type": "edit",
+      "id": "376f74ba57d07030",
+      "item": {
+        "type": "paragraph",
+        "id": "376f74ba57d07030",
+        "text": "From Talking Points Memo:"
+      },
+      "date": 1436814557744
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74735fb007a94170"
+      },
+      "id": "74735fb007a94170",
+      "type": "add",
+      "after": "376f74ba57d07030",
+      "date": 1436814559500
+    },
+    {
+      "type": "edit",
+      "id": "74735fb007a94170",
+      "item": {
+        "type": "markdown",
+        "id": "74735fb007a94170",
+        "text": "> Before the culture wars transformed the environment into a political hot button, it remained possible to have rational discussions about impending threats to the planet. On September 17, 1969, President Nixon's advisor and future Democratic senator Daniel Patrick Moynihan wrote to John Ehrlichman, Nixon’s Chief Domestic Policy Advisor, about “the carbon dioxide problem.\""
+      },
+      "date": 1436814566097
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b22e73ea764d2e9"
+      },
+      "id": "5b22e73ea764d2e9",
+      "type": "add",
+      "after": "74735fb007a94170",
+      "date": 1436814575248
+    },
+    {
+      "type": "edit",
+      "id": "5b22e73ea764d2e9",
+      "item": {
+        "type": "paragraph",
+        "id": "5b22e73ea764d2e9",
+        "text": "In the letter "
+      },
+      "date": 1436814588896
+    }
+  ]
+}

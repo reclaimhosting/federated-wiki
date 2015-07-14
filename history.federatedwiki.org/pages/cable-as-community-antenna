@@ -9,7 +9,17 @@
     {
       "type": "paragraph",
       "id": "fd11e36363cc6321",
-      "text": "The original system, then known as CATV (for \"Community Antenna TV\") could serve communities about 100 miles from a traditional broadcast area. The introduction of microwave relay systems in the 1950s changed that, allowing the broadcast of stations to a much larger region. Casper, Wyoming, for example, was provided a Denver station in 1953, despite Denver being "
+      "text": "The original system, then known as CATV (for \"Community Antenna TV\") could serve communities about 100 miles from a traditional broadcast area. The introduction of microwave relay systems in the 1950s changed that, allowing the broadcast of stations to a much larger region. Casper, Wyoming, for example, was provided a Denver station in 1953, despite Denver being nearly 300 miles away."
+    },
+    {
+      "type": "paragraph",
+      "id": "fea57263c35afa03",
+      "text": "As range expanded, providers and consumers started to choose the \"best\" stations instead of the closest. New York and Chicago stations, for example, had larger budgets, better movies, and more sports; by the late 1950s it was common for remote viewers to choose these stations over their \"local\" options."
+    },
+    {
+      "type": "paragraph",
+      "id": "b325478a7b4c808b",
+      "text": "This continued until 1963 when the [[Carter Mountain Decision]] came through."
     }
   ],
   "journal": [
@@ -120,6 +130,48 @@
         "text": "The original system, then known as CATV (for \"Community Antenna TV\") could serve communities about 100 miles from a traditional broadcast area. The introduction of microwave relay systems in the 1950s changed that, allowing the broadcast of stations to a much larger region. Casper, Wyoming, for example, was provided a Denver station in 1953, despite Denver being "
       },
       "date": 1436884163741
+    },
+    {
+      "type": "edit",
+      "id": "fd11e36363cc6321",
+      "item": {
+        "type": "paragraph",
+        "id": "fd11e36363cc6321",
+        "text": "The original system, then known as CATV (for \"Community Antenna TV\") could serve communities about 100 miles from a traditional broadcast area. The introduction of microwave relay systems in the 1950s changed that, allowing the broadcast of stations to a much larger region. Casper, Wyoming, for example, was provided a Denver station in 1953, despite Denver being nearly 300 miles away."
+      },
+      "date": 1436884201070
+    },
+    {
+      "type": "add",
+      "id": "fea57263c35afa03",
+      "item": {
+        "type": "paragraph",
+        "id": "fea57263c35afa03",
+        "text": "As range expanded, providers and consumers started to choose the \"best\" stations instead of the closest. New York and Chicago stations, for example, had larger budgets, better movies, and more sports; many remote viewers would choose these stations over their \"local\" options."
+      },
+      "after": "fd11e36363cc6321",
+      "date": 1436884341840
+    },
+    {
+      "type": "edit",
+      "id": "fea57263c35afa03",
+      "item": {
+        "type": "paragraph",
+        "id": "fea57263c35afa03",
+        "text": "As range expanded, providers and consumers started to choose the \"best\" stations instead of the closest. New York and Chicago stations, for example, had larger budgets, better movies, and more sports; by the late 1950s it was common for remote viewers to choose these stations over their \"local\" options."
+      },
+      "date": 1436884434855
+    },
+    {
+      "type": "add",
+      "id": "b325478a7b4c808b",
+      "item": {
+        "type": "paragraph",
+        "id": "b325478a7b4c808b",
+        "text": "This continued until 1963 when the [[Carter Mountain Decision]] came through."
+      },
+      "after": "fea57263c35afa03",
+      "date": 1436884519408
     }
   ]
 }

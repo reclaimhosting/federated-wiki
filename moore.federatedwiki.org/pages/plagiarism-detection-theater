@@ -1,0 +1,103 @@
+{
+  "title": "Plagiarism Detection Theater",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ee218af1edbba273",
+      "text": "Recent studies of plagiarism detection software shows that it is stunningly ineffective at detecting plagiarism. One commentator compares the situation to airport security. [http://www.slate.com/articles/life/inside_higher_ed/2015/07/turnitin_and_safeassign_plagiarism_detection_programs_why_are_they_all_ineffective.2.html html]"
+    },
+    {
+      "type": "markdown",
+      "id": "7f82ab7c49f26293",
+      "text": "> “The real ethical question is how you can sell a product that doesn’t work to a business—the sector of higher education—that is really strapped for cash right now,” Schorn said. “We’re paying instructors less, we’re having larger class sizes, but we’re able to find money for this policing tool that doesn’t actually work. It’s just another measure of false security, like having people take off their shoes at the airport.”"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Plagiarism Detection Theater",
+        "story": []
+      },
+      "date": 1437086453129
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee218af1edbba273"
+      },
+      "id": "ee218af1edbba273",
+      "type": "add",
+      "date": 1437086454316
+    },
+    {
+      "type": "edit",
+      "id": "ee218af1edbba273",
+      "item": {
+        "type": "paragraph",
+        "id": "ee218af1edbba273",
+        "text": "Recent studies of pla"
+      },
+      "date": 1437086471512
+    },
+    {
+      "type": "edit",
+      "id": "ee218af1edbba273",
+      "item": {
+        "type": "paragraph",
+        "id": "ee218af1edbba273",
+        "text": "Recent studies of plagiarism detection software shows that it is stunningly ineffective at detecting plagiarism. One commentator compares the situation to airport security."
+      },
+      "date": 1437086553426
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f82ab7c49f26293"
+      },
+      "id": "7f82ab7c49f26293",
+      "type": "add",
+      "after": "d77f7f4bb0a2339a",
+      "date": 1437086555162
+    },
+    {
+      "type": "edit",
+      "id": "7f82ab7c49f26293",
+      "item": {
+        "type": "markdown",
+        "id": "7f82ab7c49f26293",
+        "text": "> “The real ethical question is how you can sell a product that doesn’t work to a business—the sector of higher education—that is really strapped for cash right now,” Schorn said. “We’re paying instructors less, we’re having larger class sizes, but we’re able to find money for this policing tool that doesn’t actually work. It’s just another measure of false security, like having people take off their shoes at the airport.”"
+      },
+      "date": 1437086559969
+    },
+    {
+      "type": "edit",
+      "id": "ee218af1edbba273",
+      "item": {
+        "type": "paragraph",
+        "id": "ee218af1edbba273",
+        "text": "Recent studies of plagiarism detection software shows that it is stunningly ineffective at detecting plagiarism. One commentator compares the situation to airport security. [http://www.slate.com/articles/life/inside_higher_ed/2015/07/turnitin_and_safeassign_plagiarism_detection_programs_why_are_they_all_ineffective.2.html link]"
+      },
+      "date": 1437086589464
+    },
+    {
+      "type": "edit",
+      "id": "ee218af1edbba273",
+      "item": {
+        "type": "paragraph",
+        "id": "ee218af1edbba273",
+        "text": "Recent studies of plagiarism detection software shows that it is stunningly ineffective at detecting plagiarism. One commentator compares the situation to airport security. [http://www.slate.com/articles/life/inside_higher_ed/2015/07/turnitin_and_safeassign_plagiarism_detection_programs_why_are_they_all_ineffective.2.html html]"
+      },
+      "date": 1437086599095
+    },
+    {
+      "type": "move",
+      "order": [
+        "ee218af1edbba273",
+        "7f82ab7c49f26293"
+      ],
+      "id": "ee218af1edbba273",
+      "date": 1437086681961
+    }
+  ]
+}

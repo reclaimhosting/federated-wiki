@@ -1,0 +1,281 @@
+{
+  "title": "Others Federated Wiki Thoughts",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ae3e3c13f4830cf9",
+      "text": "Other people writing about federated wiki."
+    },
+    {
+      "type": "reference",
+      "id": "3a3ce270b8bdbdd5",
+      "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":2,\"types\":{\"0\":\"text/x-moz-url\",\"1\":\"text/x-moz-url-data\",\"2\":\"text/x-moz-url-desc\",\"3\":\"text/uri-list\",\"4\":\"text/_moz_htmlcontext\",\"5\":\"text/_moz_htmlinfo\",\"6\":\"text/html\",\"7\":\"text/plain\",\"8\":\"application/x-moz-nativeimage\",\"9\":\"application/x-moz-file-promise\",\"10\":\"application/x-moz-file-promise-url\",\"11\":\"application/x-moz-file-promise-dest-filename\",\"12\":\"Files\"}}<br>Try something else or see [[About Factory Plugin]].",
+      "punt": {
+        "number": 2,
+        "types": {
+          "0": "text/x-moz-url",
+          "1": "text/x-moz-url-data",
+          "2": "text/x-moz-url-desc",
+          "3": "text/uri-list",
+          "4": "text/_moz_htmlcontext",
+          "5": "text/_moz_htmlinfo",
+          "6": "text/html",
+          "7": "text/plain",
+          "8": "application/x-moz-nativeimage",
+          "9": "application/x-moz-file-promise",
+          "10": "application/x-moz-file-promise-url",
+          "11": "application/x-moz-file-promise-dest-filename",
+          "12": "Files"
+        },
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0"
+      },
+      "site": "ward.fed.wiki.org",
+      "slug": "federated-wiki",
+      "title": "Federated Wiki",
+      "text": "Ward writes here about his own participation in the open source federated wiki project. Pages range from his personal vision to daily todo lists with some honest assessments in between."
+    },
+    {
+      "type": "paragraph",
+      "id": "69d13be38ca31a16",
+      "text": "Ryan Bennett's site [http://rosewiki.org/ rosewiki.org] is worth reading, with content around his NDN work, when it is available."
+    },
+    {
+      "type": "pagefold",
+      "id": "ef6cbcc66c92545e",
+      "text": "Twitter"
+    },
+    {
+      "type": "paragraph",
+      "id": "7bd1eeabeed06d65",
+      "text": "[https://twitter.com/search?f=realtime&q=%23fedwiki&src=typd #fedwiki]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6832c06f3aa483bd",
+      "text": "[https://twitter.com/search?f=realtime&q=%23fedwikihappening&src=typd #fedwikihappening]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Others Federated Wiki Thoughts",
+        "story": []
+      },
+      "date": 1421174863478
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae3e3c13f4830cf9"
+      },
+      "id": "ae3e3c13f4830cf9",
+      "type": "add",
+      "date": 1421174869279
+    },
+    {
+      "type": "edit",
+      "id": "ae3e3c13f4830cf9",
+      "item": {
+        "type": "paragraph",
+        "id": "ae3e3c13f4830cf9",
+        "text": "Other people writing about federated wiki."
+      },
+      "date": 1421174888143
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "3a3ce270b8bdbdd5",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":2,\"types\":{\"0\":\"text/x-moz-url\",\"1\":\"text/x-moz-url-data\",\"2\":\"text/x-moz-url-desc\",\"3\":\"text/uri-list\",\"4\":\"text/_moz_htmlcontext\",\"5\":\"text/_moz_htmlinfo\",\"6\":\"text/html\",\"7\":\"text/plain\",\"8\":\"application/x-moz-nativeimage\",\"9\":\"application/x-moz-file-promise\",\"10\":\"application/x-moz-file-promise-url\",\"11\":\"application/x-moz-file-promise-dest-filename\",\"12\":\"Files\"}}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 2,
+          "types": {
+            "0": "text/x-moz-url",
+            "1": "text/x-moz-url-data",
+            "2": "text/x-moz-url-desc",
+            "3": "text/uri-list",
+            "4": "text/_moz_htmlcontext",
+            "5": "text/_moz_htmlinfo",
+            "6": "text/html",
+            "7": "text/plain",
+            "8": "application/x-moz-nativeimage",
+            "9": "application/x-moz-file-promise",
+            "10": "application/x-moz-file-promise-url",
+            "11": "application/x-moz-file-promise-dest-filename",
+            "12": "Files"
+          },
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0"
+        },
+        "site": "ward.fed.wiki.org",
+        "slug": "federated-wiki",
+        "title": "Federated Wiki",
+        "text": "Ward writes here about his own participation in the open source federated wiki project. Pages range from his personal vision to daily todo lists with some honest assessments in between."
+      },
+      "after": "ae3e3c13f4830cf9",
+      "id": "3a3ce270b8bdbdd5",
+      "date": 1421253213757
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "69d13be38ca31a16",
+        "text": "Ryan Bennett's site [http://rosewiki.org/ rosewiki.org] is worth reading, with content around his NDN work, when it is available."
+      },
+      "after": "3a3ce270b8bdbdd5",
+      "id": "69d13be38ca31a16",
+      "date": 1421253239414
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "d27d4631c3d6b611",
+        "text": "Elsewhere"
+      },
+      "after": "69d13be38ca31a16",
+      "id": "d27d4631c3d6b611",
+      "date": 1421253274842
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1678219d85d4ec84",
+        "text": "[https://github.com/issues?q=user%3Afedwiki+is%3Aopen+is%3Aissue+repo%3AWardCunningham%2FSmallest-Federated-Wiki GitHub Issues] - with the recent changes it is now possible to get a combined view of the issues across the original [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues Smallest Federated Wiki] repository, and [https://github.com/issues?user=fedwiki FedWiki] organization."
+      },
+      "after": "d27d4631c3d6b611",
+      "id": "1678219d85d4ec84",
+      "date": 1421253280173
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ef6cbcc66c92545e"
+      },
+      "id": "ef6cbcc66c92545e",
+      "type": "add",
+      "after": "1678219d85d4ec84",
+      "date": 1421253289582
+    },
+    {
+      "type": "move",
+      "order": [
+        "ae3e3c13f4830cf9",
+        "3a3ce270b8bdbdd5",
+        "69d13be38ca31a16",
+        "ef6cbcc66c92545e",
+        "d27d4631c3d6b611",
+        "1678219d85d4ec84"
+      ],
+      "id": "ef6cbcc66c92545e",
+      "date": 1421253291996
+    },
+    {
+      "type": "edit",
+      "id": "ef6cbcc66c92545e",
+      "item": {
+        "type": "pagefold",
+        "id": "ef6cbcc66c92545e",
+        "text": "Twitter"
+      },
+      "date": 1421253301276
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bd1eeabeed06d65"
+      },
+      "id": "7bd1eeabeed06d65",
+      "type": "add",
+      "after": "1678219d85d4ec84",
+      "date": 1421253303054
+    },
+    {
+      "type": "move",
+      "order": [
+        "ae3e3c13f4830cf9",
+        "3a3ce270b8bdbdd5",
+        "69d13be38ca31a16",
+        "ef6cbcc66c92545e",
+        "7bd1eeabeed06d65",
+        "d27d4631c3d6b611",
+        "1678219d85d4ec84"
+      ],
+      "id": "7bd1eeabeed06d65",
+      "date": 1421253305404
+    },
+    {
+      "type": "edit",
+      "id": "7bd1eeabeed06d65",
+      "item": {
+        "type": "paragraph",
+        "id": "7bd1eeabeed06d65",
+        "text": "[https://twitter.com/search?f=realtime&q=%23fedwiki&src=typd #fedwiki - twitter]"
+      },
+      "date": 1421253373695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6832c06f3aa483bd"
+      },
+      "id": "6832c06f3aa483bd",
+      "type": "add",
+      "after": "1678219d85d4ec84",
+      "date": 1421253382627
+    },
+    {
+      "type": "move",
+      "order": [
+        "ae3e3c13f4830cf9",
+        "3a3ce270b8bdbdd5",
+        "69d13be38ca31a16",
+        "ef6cbcc66c92545e",
+        "7bd1eeabeed06d65",
+        "6832c06f3aa483bd",
+        "d27d4631c3d6b611",
+        "1678219d85d4ec84"
+      ],
+      "id": "6832c06f3aa483bd",
+      "date": 1421253385157
+    },
+    {
+      "type": "edit",
+      "id": "7bd1eeabeed06d65",
+      "item": {
+        "type": "paragraph",
+        "id": "7bd1eeabeed06d65",
+        "text": "[https://twitter.com/search?f=realtime&q=%23fedwiki&src=typd #fedwiki]"
+      },
+      "date": 1421253395957
+    },
+    {
+      "type": "edit",
+      "id": "6832c06f3aa483bd",
+      "item": {
+        "type": "paragraph",
+        "id": "6832c06f3aa483bd",
+        "text": "[https://twitter.com/search?f=realtime&q=%23fedwikihappening&src=typd #fedwikihappening]"
+      },
+      "date": 1421253500483
+    },
+    {
+      "type": "remove",
+      "id": "1678219d85d4ec84",
+      "date": 1434108777273
+    },
+    {
+      "type": "remove",
+      "id": "d27d4631c3d6b611",
+      "date": 1434108783652
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.rodwell.me",
+      "date": 1437102763825
+    }
+  ]
+}

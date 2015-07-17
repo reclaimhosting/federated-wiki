@@ -1,0 +1,266 @@
+{
+  "title": "Repository History",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "84d3ec4f3a5bee5a",
+      "text": "With splitting code out of the Smallest Federated Wiki repository some history is not carried forwards to the new repositories."
+    },
+    {
+      "type": "paragraph",
+      "id": "b47b2dcff39146bf",
+      "text": "Splitting the new repositories, without carrying the file history forwards from the Smallest Federated Wiki, acts as an event horizon. Though all the history remains in the Smallest Federated Wiki."
+    },
+    {
+      "type": "video",
+      "id": "cebb3ae5bdcaad4e",
+      "text": "YOUTUBE VHYjWD55FoE\nA view of the history from the git repositories."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Repository History",
+        "story": []
+      },
+      "date": 1388767896446
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "08dd26814516f651"
+      },
+      "id": "08dd26814516f651",
+      "type": "add",
+      "date": 1388767900607
+    },
+    {
+      "type": "remove",
+      "id": "08dd26814516f651",
+      "date": 1388767907441
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84d3ec4f3a5bee5a"
+      },
+      "id": "84d3ec4f3a5bee5a",
+      "type": "add",
+      "date": 1388767986223
+    },
+    {
+      "type": "edit",
+      "id": "84d3ec4f3a5bee5a",
+      "item": {
+        "type": "paragraph",
+        "id": "84d3ec4f3a5bee5a",
+        "text": "With splitting code out of the Smallest Federated Wiki repository some history is not carried forwards to the new repositories."
+      },
+      "date": 1388768191584
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b47b2dcff39146bf",
+        "text": ""
+      },
+      "id": "b47b2dcff39146bf",
+      "type": "add",
+      "after": "84d3ec4f3a5bee5a",
+      "date": 1388768192111
+    },
+    {
+      "type": "edit",
+      "id": "b47b2dcff39146bf",
+      "item": {
+        "type": "paragraph",
+        "id": "b47b2dcff39146bf",
+        "text": "Splitting the new repositories, without carrying the file history forwards from the Smallest Federated Wiki, acts as an event horizon. <i>While carrying the history forwards is possible it is more</i> "
+      },
+      "date": 1388768520308
+    },
+    {
+      "type": "edit",
+      "id": "b47b2dcff39146bf",
+      "item": {
+        "type": "paragraph",
+        "id": "b47b2dcff39146bf",
+        "text": "Splitting the new repositories, without carrying the file history forwards from the Smallest Federated Wiki, acts as an event horizon. <i>While carrying the history forwards is possible it is </i> "
+      },
+      "date": 1388768661170
+    },
+    {
+      "type": "edit",
+      "id": "b47b2dcff39146bf",
+      "item": {
+        "type": "paragraph",
+        "id": "b47b2dcff39146bf",
+        "text": "Splitting the new repositories, without carrying the file history forwards from the Smallest Federated Wiki, acts as an event horizon. Though all the history remains in the Smallest Federated Wiki."
+      },
+      "date": 1388768754172
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2acbfb7797d416ea",
+        "text": " "
+      },
+      "id": "2acbfb7797d416ea",
+      "type": "add",
+      "after": "b47b2dcff39146bf",
+      "date": 1388768754695
+    },
+    {
+      "type": "remove",
+      "id": "2acbfb7797d416ea",
+      "date": 1388768768042
+    },
+    {
+      "type": "edit",
+      "id": "b47b2dcff39146bf",
+      "item": {
+        "type": "paragraph",
+        "id": "b47b2dcff39146bf",
+        "text": "Splitting the new repositories, without carrying the file history forwards from the Smallest Federated Wiki, acts as an event horizon. Though all the history remains in the Smallest Federated Wiki."
+      },
+      "date": 1388768874804
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d3eb17f9c9aa0631",
+        "text": ""
+      },
+      "id": "d3eb17f9c9aa0631",
+      "type": "add",
+      "after": "b47b2dcff39146bf",
+      "date": 1388768875327
+    },
+    {
+      "type": "edit",
+      "id": "d3eb17f9c9aa0631",
+      "item": {
+        "type": "paragraph",
+        "id": "d3eb17f9c9aa0631",
+        "text": "<iframe width=\"400\" height=\"225\" src=\"//www.youtube.com/embed/hh4VpfnKAkg\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      "date": 1388768877175
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7733ababf5bc168c",
+        "text": ""
+      },
+      "id": "7733ababf5bc168c",
+      "type": "add",
+      "after": "d3eb17f9c9aa0631",
+      "date": 1388768877919
+    },
+    {
+      "type": "edit",
+      "id": "7733ababf5bc168c",
+      "item": {
+        "type": "paragraph",
+        "id": "7733ababf5bc168c",
+        "text": "A view of the history from the git repositories - it includes a view of the recent client and plug-in refactor."
+      },
+      "date": 1388768969419
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04a0f97b18703c3b"
+      },
+      "id": "04a0f97b18703c3b",
+      "type": "add",
+      "after": "7733ababf5bc168c",
+      "date": 1388769223842
+    },
+    {
+      "type": "move",
+      "order": [
+        "84d3ec4f3a5bee5a",
+        "b47b2dcff39146bf",
+        "d3eb17f9c9aa0631",
+        "04a0f97b18703c3b",
+        "7733ababf5bc168c"
+      ],
+      "id": "04a0f97b18703c3b",
+      "date": 1388769229478
+    },
+    {
+      "type": "move",
+      "order": [
+        "84d3ec4f3a5bee5a",
+        "b47b2dcff39146bf",
+        "d3eb17f9c9aa0631",
+        "7733ababf5bc168c",
+        "04a0f97b18703c3b"
+      ],
+      "id": "04a0f97b18703c3b",
+      "date": 1388769237007
+    },
+    {
+      "type": "remove",
+      "id": "04a0f97b18703c3b",
+      "date": 1388769259566
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cebb3ae5bdcaad4e"
+      },
+      "id": "cebb3ae5bdcaad4e",
+      "type": "add",
+      "after": "7733ababf5bc168c",
+      "date": 1421775005935
+    },
+    {
+      "type": "edit",
+      "id": "cebb3ae5bdcaad4e",
+      "item": {
+        "type": "video",
+        "id": "cebb3ae5bdcaad4e",
+        "text": "YOUTUBE hh4VpfnKAkg\n"
+      },
+      "date": 1421775023123
+    },
+    {
+      "type": "remove",
+      "id": "d3eb17f9c9aa0631",
+      "date": 1421775030075
+    },
+    {
+      "type": "remove",
+      "id": "7733ababf5bc168c",
+      "date": 1421775036263
+    },
+    {
+      "type": "edit",
+      "id": "cebb3ae5bdcaad4e",
+      "item": {
+        "type": "video",
+        "id": "cebb3ae5bdcaad4e",
+        "text": "YOUTUBE hh4VpfnKAkg\nA view of the history from the git repositories - it includes a view of the recent client and plug-in refactor."
+      },
+      "date": 1421775043520
+    },
+    {
+      "type": "edit",
+      "id": "cebb3ae5bdcaad4e",
+      "item": {
+        "type": "video",
+        "id": "cebb3ae5bdcaad4e",
+        "text": "YOUTUBE VHYjWD55FoE\nA view of the history from the git repositories."
+      },
+      "date": 1434107108598
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.rodwell.me",
+      "date": 1437102770060
+    }
+  ]
+}

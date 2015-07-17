@@ -1,0 +1,124 @@
+{
+  "title": "Dat + Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "41c1f39300584204",
+      "text": "Max Ogden and Ward Cunningham join their respective projects, Dat and Wiki, by creating a server-side plugin to run DatScripts agains server local datasets."
+    },
+    {
+      "type": "video",
+      "id": "63c4d86cabefbc19",
+      "text": "YOUTUBE AKpJgNoT1b8\nPublished June 5, 2015."
+    },
+    {
+      "type": "paragraph",
+      "id": "43fa46711a89d21d",
+      "text": "This work was conducted within the context of and aligned with the goals of the Mozilla Science Lab Global Sprint 2015. [https://www.mozillascience.org/global-sprint-2015 page]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dat + Wiki",
+        "story": []
+      },
+      "date": 1433555481786
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "41c1f39300584204"
+      },
+      "id": "41c1f39300584204",
+      "type": "add",
+      "date": 1433555486801
+    },
+    {
+      "type": "edit",
+      "id": "41c1f39300584204",
+      "item": {
+        "type": "paragraph",
+        "id": "41c1f39300584204",
+        "text": "Max Ogden and Ward Cunningham join their respective projects, Dat and Wiki, by creating a server-side plugin to run DatScripts agains server local datasets."
+      },
+      "date": 1433555637301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63c4d86cabefbc19"
+      },
+      "id": "63c4d86cabefbc19",
+      "type": "add",
+      "after": "41c1f39300584204",
+      "date": 1433555641512
+    },
+    {
+      "type": "edit",
+      "id": "63c4d86cabefbc19",
+      "item": {
+        "type": "video",
+        "id": "63c4d86cabefbc19",
+        "text": "YOUTUBE AKpJgNoT1b8\n(double-click to edit caption)\n"
+      },
+      "date": 1433555652746
+    },
+    {
+      "type": "edit",
+      "id": "63c4d86cabefbc19",
+      "item": {
+        "type": "video",
+        "id": "63c4d86cabefbc19",
+        "text": "YOUTUBE AKpJgNoT1b8\nPublished June 5, 2015."
+      },
+      "date": 1433555682933
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "43fa46711a89d21d"
+      },
+      "id": "43fa46711a89d21d",
+      "type": "add",
+      "after": "63c4d86cabefbc19",
+      "date": 1433693602968
+    },
+    {
+      "type": "edit",
+      "id": "43fa46711a89d21d",
+      "item": {
+        "type": "paragraph",
+        "id": "43fa46711a89d21d",
+        "text": "This work was conducted within the context and aligned with the goals of the Mozilla Science Lab "
+      },
+      "date": 1433693647913
+    },
+    {
+      "type": "edit",
+      "id": "43fa46711a89d21d",
+      "item": {
+        "type": "paragraph",
+        "id": "43fa46711a89d21d",
+        "text": "This work was conducted within the context and aligned with the goals of the Mozilla Science Lab Global Sprint 2015. [https://www.mozillascience.org/global-sprint-2015 page]"
+      },
+      "date": 1433693695870
+    },
+    {
+      "type": "edit",
+      "id": "43fa46711a89d21d",
+      "item": {
+        "type": "paragraph",
+        "id": "43fa46711a89d21d",
+        "text": "This work was conducted within the context of and aligned with the goals of the Mozilla Science Lab Global Sprint 2015. [https://www.mozillascience.org/global-sprint-2015 page]"
+      },
+      "date": 1433693724554
+    },
+    {
+      "type": "fork",
+      "site": "video.fed.wiki.org",
+      "date": 1437103057683
+    }
+  ]
+}

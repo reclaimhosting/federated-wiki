@@ -1,0 +1,1122 @@
+{
+  "title": "Thoughts on Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "69d88900b0e9116b",
+      "text": "Thoughts, mainly, about the development of Federated Wiki."
+    },
+    {
+      "type": "pagefold",
+      "id": "f38935d8d237fea1",
+      "text": "Current Thoughts"
+    },
+    {
+      "type": "paragraph",
+      "id": "036ec9dd32069543",
+      "text": "[[Wiki in the New Year]] - some observation following the end of 2014 Happening."
+    },
+    {
+      "type": "paragraph",
+      "id": "cd04588bd906e9ff",
+      "text": "[[Publish from Local]] - rather than fork"
+    },
+    {
+      "type": "paragraph",
+      "id": "24e40cc47d256b71",
+      "text": "[[Security]] - returning to revisit some old thoughts."
+    },
+    {
+      "type": "pagefold",
+      "id": "659acc0d3a76ca3f",
+      "text": "Possible Needs"
+    },
+    {
+      "type": "paragraph",
+      "id": "49f2269d64ea0183",
+      "text": "[[Audio Plugin]]"
+    },
+    {
+      "type": "pagefold",
+      "id": "e8a98e291b968197",
+      "text": "Previously"
+    },
+    {
+      "type": "paragraph",
+      "id": "029ed6fb3d6fe742",
+      "text": "[[Site Index]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "079c11fae05ae986",
+      "text": "[[Anatomy of a Server]] – what does it mean to be a Federated Wiki server?"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d02d1f6e641d476",
+      "text": "[[Code Refactor (Nov 2013)]] - moving all the client components into wiki-client, and splitting out the plugins."
+    },
+    {
+      "type": "paragraph",
+      "id": "8457c97079fba22c",
+      "text": "[[Neighbourhoods]] - thinking about how they grow, and how navigation has an effect."
+    },
+    {
+      "type": "pagefold",
+      "id": "a0917262f7545a32",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "078da4834bc5bde4",
+      "text": "See elsewhere:"
+    },
+    {
+      "type": "reference",
+      "id": "60d8ac102b8bbe18",
+      "site": "ward.fed.wiki.org",
+      "slug": "wants-and-needs",
+      "title": "Wants and Needs",
+      "text": "These are ideas that we've thought about over and over but not done yet. Soon. See also [[Finished Work]]. Colleagues are welcome to [[Submit Changes]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Thoughts on Federated Wiki",
+        "story": []
+      },
+      "date": 1383851191905
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a3ce270b8bdbdd5"
+      },
+      "id": "3a3ce270b8bdbdd5",
+      "type": "add",
+      "date": 1383851311033
+    },
+    {
+      "type": "edit",
+      "id": "3a3ce270b8bdbdd5",
+      "item": {
+        "type": "factory",
+        "id": "3a3ce270b8bdbdd5",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":2,\"types\":{\"0\":\"text/x-moz-url\",\"1\":\"text/x-moz-url-data\",\"2\":\"text/x-moz-url-desc\",\"3\":\"text/uri-list\",\"4\":\"text/_moz_htmlcontext\",\"5\":\"text/_moz_htmlinfo\",\"6\":\"text/html\",\"7\":\"text/plain\",\"8\":\"application/x-moz-nativeimage\",\"9\":\"application/x-moz-file-promise\",\"10\":\"application/x-moz-file-promise-url\",\"11\":\"application/x-moz-file-promise-dest-filename\",\"12\":\"Files\"}}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 2,
+          "types": {
+            "0": "text/x-moz-url",
+            "1": "text/x-moz-url-data",
+            "2": "text/x-moz-url-desc",
+            "3": "text/uri-list",
+            "4": "text/_moz_htmlcontext",
+            "5": "text/_moz_htmlinfo",
+            "6": "text/html",
+            "7": "text/plain",
+            "8": "application/x-moz-nativeimage",
+            "9": "application/x-moz-file-promise",
+            "10": "application/x-moz-file-promise-url",
+            "11": "application/x-moz-file-promise-dest-filename",
+            "12": "Files"
+          },
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0"
+        }
+      },
+      "date": 1383851316358
+    },
+    {
+      "type": "edit",
+      "id": "3a3ce270b8bdbdd5",
+      "item": {
+        "type": "reference",
+        "id": "3a3ce270b8bdbdd5",
+        "prompt": "<b>Unexpected Item</b><br>We can't make sense of the drop.<br>{\"number\":2,\"types\":{\"0\":\"text/x-moz-url\",\"1\":\"text/x-moz-url-data\",\"2\":\"text/x-moz-url-desc\",\"3\":\"text/uri-list\",\"4\":\"text/_moz_htmlcontext\",\"5\":\"text/_moz_htmlinfo\",\"6\":\"text/html\",\"7\":\"text/plain\",\"8\":\"application/x-moz-nativeimage\",\"9\":\"application/x-moz-file-promise\",\"10\":\"application/x-moz-file-promise-url\",\"11\":\"application/x-moz-file-promise-dest-filename\",\"12\":\"Files\"}}<br>Try something else or see [[About Factory Plugin]].",
+        "punt": {
+          "number": 2,
+          "types": {
+            "0": "text/x-moz-url",
+            "1": "text/x-moz-url-data",
+            "2": "text/x-moz-url-desc",
+            "3": "text/uri-list",
+            "4": "text/_moz_htmlcontext",
+            "5": "text/_moz_htmlinfo",
+            "6": "text/html",
+            "7": "text/plain",
+            "8": "application/x-moz-nativeimage",
+            "9": "application/x-moz-file-promise",
+            "10": "application/x-moz-file-promise-url",
+            "11": "application/x-moz-file-promise-dest-filename",
+            "12": "Files"
+          },
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0"
+        },
+        "site": "ward.fed.wiki.org",
+        "slug": "federated-wiki",
+        "title": "Federated Wiki",
+        "text": "Ward writes here about his own participation in the open source federated wiki project. Pages range from his personal vision to daily todo lists with some honest assessments in between."
+      },
+      "date": 1383851369495
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69d88900b0e9116b"
+      },
+      "id": "69d88900b0e9116b",
+      "type": "add",
+      "after": "3a3ce270b8bdbdd5",
+      "date": 1383851376322
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5"
+      ],
+      "id": "69d88900b0e9116b",
+      "date": 1383851380511
+    },
+    {
+      "type": "edit",
+      "id": "69d88900b0e9116b",
+      "item": {
+        "type": "paragraph",
+        "id": "69d88900b0e9116b",
+        "text": "My thoughts should not be read in isolation, they should be read along with Ward's thoughts."
+      },
+      "date": 1383851513955
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8385fc03209dacd"
+      },
+      "id": "b8385fc03209dacd",
+      "type": "add",
+      "after": "3a3ce270b8bdbdd5",
+      "date": 1383851518672
+    },
+    {
+      "type": "edit",
+      "id": "b8385fc03209dacd",
+      "item": {
+        "type": "pagefold",
+        "id": "b8385fc03209dacd",
+        "text": "User Experience"
+      },
+      "date": 1383852246595
+    },
+    {
+      "type": "remove",
+      "id": "b8385fc03209dacd",
+      "date": 1383852254357
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "126108aea63055cd"
+      },
+      "id": "126108aea63055cd",
+      "type": "add",
+      "after": "3a3ce270b8bdbdd5",
+      "date": 1383852274997
+    },
+    {
+      "type": "edit",
+      "id": "126108aea63055cd",
+      "item": {
+        "type": "paragraph",
+        "id": "126108aea63055cd",
+        "text": "<h3>User Experience"
+      },
+      "date": 1383852319199
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b987d481c03cc484",
+        "text": ""
+      },
+      "id": "b987d481c03cc484",
+      "type": "add",
+      "after": "126108aea63055cd",
+      "date": 1383852319723
+    },
+    {
+      "type": "remove",
+      "id": "b987d481c03cc484",
+      "date": 1383852323712
+    },
+    {
+      "type": "remove",
+      "id": "126108aea63055cd",
+      "date": 1383852372272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "247f0a13acee6229"
+      },
+      "id": "247f0a13acee6229",
+      "type": "add",
+      "after": "3a3ce270b8bdbdd5",
+      "date": 1384770571964
+    },
+    {
+      "type": "remove",
+      "id": "247f0a13acee6229",
+      "date": 1384770585044
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f38935d8d237fea1"
+      },
+      "id": "f38935d8d237fea1",
+      "type": "add",
+      "after": "3a3ce270b8bdbdd5",
+      "date": 1384770587440
+    },
+    {
+      "type": "edit",
+      "id": "f38935d8d237fea1",
+      "item": {
+        "type": "pagefold",
+        "id": "f38935d8d237fea1",
+        "text": "My Thoughts"
+      },
+      "date": 1384770601190
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05e4a815b8948320"
+      },
+      "id": "05e4a815b8948320",
+      "type": "add",
+      "after": "f38935d8d237fea1",
+      "date": 1384770603517
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3d02d1f6e641d476",
+        "text": "[[Code Refactor (Nov 2013)]] - moving all the client components into wiki-client, and splitting out the plugins."
+      },
+      "after": "f38935d8d237fea1",
+      "id": "3d02d1f6e641d476",
+      "date": 1384770624651
+    },
+    {
+      "type": "remove",
+      "id": "05e4a815b8948320",
+      "date": 1384770640070
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8457c97079fba22c",
+        "text": ""
+      },
+      "id": "8457c97079fba22c",
+      "type": "add",
+      "after": "3d02d1f6e641d476",
+      "date": 1385046255042
+    },
+    {
+      "type": "edit",
+      "id": "8457c97079fba22c",
+      "item": {
+        "type": "paragraph",
+        "id": "8457c97079fba22c",
+        "text": "[[Neighbourhoods]] - thinking about how they grow, and how navigation plays an effect. "
+      },
+      "date": 1385046447290
+    },
+    {
+      "type": "edit",
+      "id": "8457c97079fba22c",
+      "item": {
+        "type": "paragraph",
+        "id": "8457c97079fba22c",
+        "text": "[[Neighbourhoods]] - thinking about how they grow, and how navigation plays an effect."
+      },
+      "date": 1385482398892
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6199b9126962559c",
+        "text": ""
+      },
+      "id": "6199b9126962559c",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1385482399413
+    },
+    {
+      "type": "edit",
+      "id": "6199b9126962559c",
+      "item": {
+        "type": "paragraph",
+        "id": "6199b9126962559c",
+        "text": "[[Release Process - Re-factored]] - this is a work in progress."
+      },
+      "date": 1385482459241
+    },
+    {
+      "type": "edit",
+      "id": "8457c97079fba22c",
+      "item": {
+        "type": "paragraph",
+        "id": "8457c97079fba22c",
+        "text": "[[Neighbourhoods]] - thinking about how they grow, and how navigation has an effect."
+      },
+      "date": 1386503614400
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "df170c925b2184fb"
+      },
+      "id": "df170c925b2184fb",
+      "type": "add",
+      "after": "6199b9126962559c",
+      "date": 1388767712549
+    },
+    {
+      "type": "edit",
+      "id": "df170c925b2184fb",
+      "item": {
+        "type": "paragraph",
+        "id": "df170c925b2184fb",
+        "text": "[[Repository History]] - conscious that with the various code reorganization that it is too easy to loose our history."
+      },
+      "date": 1388767878603
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e8a98e291b968197"
+      },
+      "id": "e8a98e291b968197",
+      "type": "add",
+      "after": "df170c925b2184fb",
+      "date": 1391679243974
+    },
+    {
+      "type": "edit",
+      "id": "e8a98e291b968197",
+      "item": {
+        "type": "pagefold",
+        "id": "e8a98e291b968197",
+        "text": "Previously"
+      },
+      "date": 1391679258835
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "f38935d8d237fea1",
+        "8457c97079fba22c",
+        "6199b9126962559c",
+        "df170c925b2184fb",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476"
+      ],
+      "id": "3d02d1f6e641d476",
+      "date": 1391679262726
+    },
+    {
+      "type": "edit",
+      "id": "f38935d8d237fea1",
+      "item": {
+        "type": "pagefold",
+        "id": "f38935d8d237fea1",
+        "text": "Current Thoughts"
+      },
+      "date": 1393326070835
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "f38935d8d237fea1",
+        "6199b9126962559c",
+        "df170c925b2184fb",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "8457c97079fba22c",
+      "date": 1393326082922
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "6199b9126962559c",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "df170c925b2184fb",
+      "date": 1393326093273
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24e40cc47d256b71"
+      },
+      "id": "24e40cc47d256b71",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1393326218922
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "6199b9126962559c",
+        "24e40cc47d256b71",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "24e40cc47d256b71",
+      "date": 1393326223058
+    },
+    {
+      "type": "edit",
+      "id": "24e40cc47d256b71",
+      "item": {
+        "type": "paragraph",
+        "id": "24e40cc47d256b71",
+        "text": "[[Security]] - returning to revisit some old thoughts."
+      },
+      "date": 1393326282339
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "6199b9126962559c",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "24e40cc47d256b71",
+      "date": 1393326286666
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63f7a64a3b6e8f9f"
+      },
+      "id": "63f7a64a3b6e8f9f",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1394349175825
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "63f7a64a3b6e8f9f",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "6199b9126962559c",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "63f7a64a3b6e8f9f",
+      "date": 1394349180947
+    },
+    {
+      "type": "edit",
+      "id": "63f7a64a3b6e8f9f",
+      "item": {
+        "type": "reference",
+        "id": "63f7a64a3b6e8f9f",
+        "site": "rosewiki.org",
+        "slug": "wiki",
+        "title": "wiki",
+        "text": "This page collects topics directly related to the [[Federated Wiki]]."
+      },
+      "date": 1394349289135
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f7db78e755b5113"
+      },
+      "id": "9f7db78e755b5113",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1394349321872
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "9f7db78e755b5113",
+        "63f7a64a3b6e8f9f",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "6199b9126962559c",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "9f7db78e755b5113",
+      "date": 1394349324817
+    },
+    {
+      "type": "edit",
+      "id": "9f7db78e755b5113",
+      "item": {
+        "type": "paragraph",
+        "id": "9f7db78e755b5113",
+        "text": "Ryan's thoughts also provide some interesting ideas."
+      },
+      "date": 1394349416113
+    },
+    {
+      "type": "remove",
+      "id": "6199b9126962559c",
+      "date": 1395680599981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd84ff02b11ee412"
+      },
+      "id": "cd84ff02b11ee412",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1405070394849
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "3a3ce270b8bdbdd5",
+        "9f7db78e755b5113",
+        "63f7a64a3b6e8f9f",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "cd84ff02b11ee412",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "cd84ff02b11ee412",
+      "date": 1405070398448
+    },
+    {
+      "type": "edit",
+      "id": "cd84ff02b11ee412",
+      "item": {
+        "type": "paragraph",
+        "id": "cd84ff02b11ee412",
+        "text": "Node Server - "
+      },
+      "date": 1405070417446
+    },
+    {
+      "type": "edit",
+      "id": "cd84ff02b11ee412",
+      "item": {
+        "type": "paragraph",
+        "id": "cd84ff02b11ee412",
+        "text": "[[Node Server]] - thoughts and observations on moving forward from Express v3."
+      },
+      "date": 1405070474416
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "d27d4631c3d6b611",
+        "text": "Thoughts from Others"
+      },
+      "after": "8457c97079fba22c",
+      "id": "d27d4631c3d6b611",
+      "date": 1407322296722
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "9f7db78e755b5113",
+        "63f7a64a3b6e8f9f",
+        "df170c925b2184fb",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "cd84ff02b11ee412",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c",
+        "d27d4631c3d6b611",
+        "3a3ce270b8bdbdd5"
+      ],
+      "id": "3a3ce270b8bdbdd5",
+      "date": 1407322314058
+    },
+    {
+      "type": "remove",
+      "id": "63f7a64a3b6e8f9f",
+      "date": 1407322325471
+    },
+    {
+      "type": "remove",
+      "id": "9f7db78e755b5113",
+      "date": 1407322349268
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "079c11fae05ae986",
+        "text": "[[Anatomy of a Server]] – what does it mean to be a Federated Wiki server?"
+      },
+      "after": "cd84ff02b11ee412",
+      "id": "079c11fae05ae986",
+      "date": 1407322362454
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "69d13be38ca31a16",
+        "text": "Ryan Bennett's site [http://rosewiki.org/ rosewiki.org] is worth reading, with content around his NDN work, when it is available."
+      },
+      "after": "3a3ce270b8bdbdd5",
+      "id": "69d13be38ca31a16",
+      "date": 1407322368643
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3cad5671726e11c2",
+        "text": "The Smallest Federated Wiki GitHub [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues?sort=updated&state=open issue list]."
+      },
+      "after": "69d13be38ca31a16",
+      "id": "3cad5671726e11c2",
+      "date": 1407322376772
+    },
+    {
+      "type": "remove",
+      "id": "df170c925b2184fb",
+      "date": 1407322439941
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1678219d85d4ec84",
+        "text": "[https://github.com/issues?q=user%3Afedwiki+is%3Aopen+is%3Aissue+repo%3AWardCunningham%2FSmallest-Federated-Wiki GitHub Issues] - with the recent changes it is now possible to get a combined view of the issues across the original [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues Smallest Federated Wiki] repository, and [https://github.com/issues?user=fedwiki FedWiki] organization."
+      },
+      "after": "69d88900b0e9116b",
+      "id": "1678219d85d4ec84",
+      "date": 1413020201472
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "cd84ff02b11ee412",
+        "079c11fae05ae986",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c",
+        "d27d4631c3d6b611",
+        "3a3ce270b8bdbdd5",
+        "69d13be38ca31a16",
+        "3cad5671726e11c2",
+        "1678219d85d4ec84"
+      ],
+      "id": "1678219d85d4ec84",
+      "date": 1413020215660
+    },
+    {
+      "type": "remove",
+      "id": "3cad5671726e11c2",
+      "date": 1413020236251
+    },
+    {
+      "type": "remove",
+      "id": "cd84ff02b11ee412",
+      "date": 1414161725132
+    },
+    {
+      "type": "remove",
+      "id": "3a3ce270b8bdbdd5",
+      "date": 1421253213753
+    },
+    {
+      "type": "remove",
+      "id": "69d13be38ca31a16",
+      "date": 1421253239412
+    },
+    {
+      "type": "edit",
+      "id": "d27d4631c3d6b611",
+      "item": {
+        "type": "pagefold",
+        "id": "d27d4631c3d6b611",
+        "text": "Elsewhere"
+      },
+      "date": 1421253270892
+    },
+    {
+      "type": "remove",
+      "id": "d27d4631c3d6b611",
+      "date": 1421253274839
+    },
+    {
+      "type": "remove",
+      "id": "1678219d85d4ec84",
+      "date": 1421253280171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85ad2f43b2913108"
+      },
+      "id": "85ad2f43b2913108",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1422349949252
+    },
+    {
+      "type": "remove",
+      "id": "85ad2f43b2913108",
+      "date": 1422349979533
+    },
+    {
+      "type": "edit",
+      "id": "69d88900b0e9116b",
+      "item": {
+        "type": "paragraph",
+        "id": "69d88900b0e9116b",
+        "text": "Thoughts mainly about the development of Federated Wiki."
+      },
+      "date": 1422351360126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "659acc0d3a76ca3f"
+      },
+      "id": "659acc0d3a76ca3f",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1422351365189
+    },
+    {
+      "type": "edit",
+      "id": "659acc0d3a76ca3f",
+      "item": {
+        "type": "pagefold",
+        "id": "659acc0d3a76ca3f",
+        "text": "Needs"
+      },
+      "date": 1422351370878
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "079c11fae05ae986",
+        "659acc0d3a76ca3f",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "659acc0d3a76ca3f",
+      "date": 1422351375326
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "38dd26c25756f2e6"
+      },
+      "id": "38dd26c25756f2e6",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1422351378407
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "079c11fae05ae986",
+        "659acc0d3a76ca3f",
+        "38dd26c25756f2e6",
+        "e8a98e291b968197",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "38dd26c25756f2e6",
+      "date": 1422351380981
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "659acc0d3a76ca3f",
+        "38dd26c25756f2e6",
+        "e8a98e291b968197",
+        "079c11fae05ae986",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "079c11fae05ae986",
+      "date": 1422351405158
+    },
+    {
+      "type": "edit",
+      "id": "69d88900b0e9116b",
+      "item": {
+        "type": "paragraph",
+        "id": "69d88900b0e9116b",
+        "text": "Thoughts, mainly, about the development of Federated Wiki."
+      },
+      "date": 1422351468921
+    },
+    {
+      "type": "remove",
+      "id": "38dd26c25756f2e6",
+      "date": 1422352045311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "029ed6fb3d6fe742"
+      },
+      "id": "029ed6fb3d6fe742",
+      "type": "add",
+      "after": "8457c97079fba22c",
+      "date": 1422352062887
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "24e40cc47d256b71",
+        "659acc0d3a76ca3f",
+        "029ed6fb3d6fe742",
+        "e8a98e291b968197",
+        "079c11fae05ae986",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c"
+      ],
+      "id": "029ed6fb3d6fe742",
+      "date": 1422352067991
+    },
+    {
+      "type": "edit",
+      "id": "029ed6fb3d6fe742",
+      "item": {
+        "type": "paragraph",
+        "id": "029ed6fb3d6fe742",
+        "text": "[[Site Index]]"
+      },
+      "date": 1422352081637
+    },
+    {
+      "type": "add",
+      "id": "cd04588bd906e9ff",
+      "item": {
+        "type": "paragraph",
+        "id": "cd04588bd906e9ff",
+        "text": "[[Publish from Local]]"
+      },
+      "after": "24e40cc47d256b71",
+      "date": 1422352195621
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "a0917262f7545a32",
+        "text": "."
+      },
+      "after": "8457c97079fba22c",
+      "id": "a0917262f7545a32",
+      "date": 1422353621091
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "078da4834bc5bde4",
+        "text": "See elsewhere:"
+      },
+      "after": "a0917262f7545a32",
+      "id": "078da4834bc5bde4",
+      "date": 1422353627995
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "60d8ac102b8bbe18",
+        "site": "ward.fed.wiki.org",
+        "slug": "wants-and-needs",
+        "title": "Wants and Needs",
+        "text": "These are ideas that we've thought about over and over but not done yet. Soon. See also [[Finished Work]]. Colleagues are welcome to [[Submit Changes]]."
+      },
+      "after": "078da4834bc5bde4",
+      "id": "60d8ac102b8bbe18",
+      "date": 1422353632217
+    },
+    {
+      "type": "add",
+      "id": "49f2269d64ea0183",
+      "item": {
+        "type": "paragraph",
+        "id": "49f2269d64ea0183",
+        "text": "[[Audio Plugin]]"
+      },
+      "after": "029ed6fb3d6fe742",
+      "date": 1422353722435
+    },
+    {
+      "type": "edit",
+      "id": "659acc0d3a76ca3f",
+      "item": {
+        "type": "pagefold",
+        "id": "659acc0d3a76ca3f",
+        "text": "Possible Needs"
+      },
+      "date": 1422353741593
+    },
+    {
+      "type": "add",
+      "id": "036ec9dd32069543",
+      "item": {
+        "type": "paragraph",
+        "id": "036ec9dd32069543",
+        "text": "[[Wiki in the New Year]] - some observation following the end of 2014 Happening."
+      },
+      "after": "cd04588bd906e9ff",
+      "date": 1422353811960
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "036ec9dd32069543",
+        "24e40cc47d256b71",
+        "cd04588bd906e9ff",
+        "659acc0d3a76ca3f",
+        "029ed6fb3d6fe742",
+        "49f2269d64ea0183",
+        "e8a98e291b968197",
+        "079c11fae05ae986",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c",
+        "a0917262f7545a32",
+        "078da4834bc5bde4",
+        "60d8ac102b8bbe18"
+      ],
+      "id": "036ec9dd32069543",
+      "date": 1422354831618
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "036ec9dd32069543",
+        "cd04588bd906e9ff",
+        "24e40cc47d256b71",
+        "659acc0d3a76ca3f",
+        "029ed6fb3d6fe742",
+        "49f2269d64ea0183",
+        "e8a98e291b968197",
+        "079c11fae05ae986",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c",
+        "a0917262f7545a32",
+        "078da4834bc5bde4",
+        "60d8ac102b8bbe18"
+      ],
+      "id": "cd04588bd906e9ff",
+      "date": 1422354833090
+    },
+    {
+      "type": "edit",
+      "id": "cd04588bd906e9ff",
+      "item": {
+        "type": "paragraph",
+        "id": "cd04588bd906e9ff",
+        "text": "[[Publish from Local]] - rather than fork"
+      },
+      "date": 1422354851753
+    },
+    {
+      "type": "move",
+      "order": [
+        "69d88900b0e9116b",
+        "f38935d8d237fea1",
+        "036ec9dd32069543",
+        "cd04588bd906e9ff",
+        "24e40cc47d256b71",
+        "659acc0d3a76ca3f",
+        "49f2269d64ea0183",
+        "e8a98e291b968197",
+        "029ed6fb3d6fe742",
+        "079c11fae05ae986",
+        "3d02d1f6e641d476",
+        "8457c97079fba22c",
+        "a0917262f7545a32",
+        "078da4834bc5bde4",
+        "60d8ac102b8bbe18"
+      ],
+      "id": "029ed6fb3d6fe742",
+      "date": 1434200800347
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.rodwell.me",
+      "date": 1437102757257
+    }
+  ]
+}

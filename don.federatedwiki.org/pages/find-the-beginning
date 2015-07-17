@@ -1,0 +1,220 @@
+{
+  "title": "Find The Beginning",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "de9ee38c3bc46bf6",
+      "text": "The first page of any site is called Welcome Visitors. It is the page you see if you specify no other page in a site's URL. One click takes you to this page for any site."
+    },
+    {
+      "type": "html",
+      "id": "e3cedfe578ac2244",
+      "text": "The <b>flag</b> is the colorful square by the title of every page. All pages from a given site carry the same flag."
+    },
+    {
+      "type": "paragraph",
+      "id": "85e4ec3ae27c5c0b",
+      "text": "Click the flag to start browsing at the site's Welcome Visitor's page."
+    },
+    {
+      "type": "paragraph",
+      "id": "c5c20871c65ebf5a",
+      "text": "When you [[Follow Links]] to pages on many sites you will see many different flags."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa871ae2c653b57d",
+      "text": "When you click a flag you start your browsing over from that site. That site becomes the [[Origin Server]] for your continued browsing."
+    },
+    {
+      "type": "paragraph",
+      "id": "e46d02bba11ffda4",
+      "text": "When sending links to a page by email consider following links from the beginning to the page of interest and sending the whole sequence to provide context."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "93b73ce94bb16bc5",
+      "item": {
+        "title": "Find The Beginning"
+      },
+      "date": 1344613124654
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de9ee38c3bc46bf6"
+      },
+      "id": "de9ee38c3bc46bf6",
+      "type": "add",
+      "date": 1344613151419
+    },
+    {
+      "type": "edit",
+      "id": "de9ee38c3bc46bf6",
+      "item": {
+        "type": "paragraph",
+        "id": "de9ee38c3bc46bf6",
+        "text": "The first page of any site is called Welcome Visitors. It is the page you see if you specify no other page in a site's URL. One click takes you to this page for any site."
+      },
+      "date": 1344613285069
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e3cedfe578ac2244",
+        "text": ""
+      },
+      "id": "e3cedfe578ac2244",
+      "type": "add",
+      "after": "de9ee38c3bc46bf6",
+      "date": 1344613285576
+    },
+    {
+      "type": "edit",
+      "id": "e3cedfe578ac2244",
+      "item": {
+        "type": "paragraph",
+        "id": "e3cedfe578ac2244",
+        "text": "The <b>flag</b> is the colorful square by the title of every page. All pages from a given site carry the same flag."
+      },
+      "date": 1344613409874
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "85e4ec3ae27c5c0b",
+        "text": ""
+      },
+      "id": "85e4ec3ae27c5c0b",
+      "type": "add",
+      "after": "e3cedfe578ac2244",
+      "date": 1344613410380
+    },
+    {
+      "type": "edit",
+      "id": "85e4ec3ae27c5c0b",
+      "item": {
+        "type": "paragraph",
+        "id": "85e4ec3ae27c5c0b",
+        "text": "Click the flag to start browsing at the site's Welcome Visitor's page."
+      },
+      "date": 1344613455856
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c5c20871c65ebf5a",
+        "text": ""
+      },
+      "id": "c5c20871c65ebf5a",
+      "type": "add",
+      "after": "85e4ec3ae27c5c0b",
+      "date": 1344613456361
+    },
+    {
+      "type": "edit",
+      "id": "c5c20871c65ebf5a",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c20871c65ebf5a",
+        "text": "When you [[Follow Links]] to pages on many sites you will see many different flags. When you click a flag you start your browsing over from that site. That site becomes the [[Origin Server]] for the one tab of your browser."
+      },
+      "date": 1344613614946
+    },
+    {
+      "type": "edit",
+      "id": "c5c20871c65ebf5a",
+      "item": {
+        "type": "paragraph",
+        "id": "c5c20871c65ebf5a",
+        "text": "When you [[Follow Links]] to pages on many sites you will see many different flags."
+      },
+      "date": 1344613711737
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fa871ae2c653b57d",
+        "text": "When you click a flag you start your browsing over from that site. That site becomes the [[Origin Server]] for the one tab of your browser."
+      },
+      "id": "fa871ae2c653b57d",
+      "type": "add",
+      "after": "c5c20871c65ebf5a",
+      "date": 1344613712242
+    },
+    {
+      "type": "edit",
+      "id": "fa871ae2c653b57d",
+      "item": {
+        "type": "paragraph",
+        "id": "fa871ae2c653b57d",
+        "text": "When you click a flag you start your browsing over from that site. That site becomes the [[Server of Origin]] for your continued browsing."
+      },
+      "date": 1344613790333
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e46d02bba11ffda4",
+        "text": ""
+      },
+      "id": "e46d02bba11ffda4",
+      "type": "add",
+      "after": "fa871ae2c653b57d",
+      "date": 1344613837546
+    },
+    {
+      "type": "edit",
+      "id": "e46d02bba11ffda4",
+      "item": {
+        "type": "paragraph",
+        "id": "e46d02bba11ffda4",
+        "text": "When sending links to a page by email consider following links from the beginning to the page of interest and sending the whole sequence to provide context."
+      },
+      "date": 1344614089258
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e94c5b4cf2fea61",
+        "text": ""
+      },
+      "id": "0e94c5b4cf2fea61",
+      "type": "add",
+      "after": "e46d02bba11ffda4",
+      "date": 1344614089762
+    },
+    {
+      "type": "remove",
+      "id": "0e94c5b4cf2fea61",
+      "date": 1344614094833
+    },
+    {
+      "type": "edit",
+      "id": "fa871ae2c653b57d",
+      "item": {
+        "type": "paragraph",
+        "id": "fa871ae2c653b57d",
+        "text": "When you click a flag you start your browsing over from that site. That site becomes the [[Origin Server]] for your continued browsing."
+      },
+      "date": 1344614254085
+    },
+    {
+      "type": "edit",
+      "id": "e3cedfe578ac2244",
+      "item": {
+        "type": "html",
+        "id": "e3cedfe578ac2244",
+        "text": "The <b>flag</b> is the colorful square by the title of every page. All pages from a given site carry the same flag."
+      },
+      "date": 1418315122382
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437100641009
+    }
+  ]
+}

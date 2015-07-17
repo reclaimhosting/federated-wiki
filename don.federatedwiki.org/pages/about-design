@@ -1,0 +1,404 @@
+{
+  "title": "About Design",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ff3b185ec65cd373",
+      "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delight everyone in the process."
+    },
+    {
+      "type": "paragraph",
+      "id": "0aa960f51a33170a",
+      "text": "We're interested in the way people work together in design. We acknowledge people differ in their strengths and motives. Weak solutions to the resulting conflicts become the de facto practice even when computers enlarge the space of choices. We look to the computer for great solutions that could not exist until now."
+    },
+    {
+      "type": "paragraph",
+      "id": "cbd4369c870888f4",
+      "text": "Aside: Designers naturally reach into their past experience for solutions that might apply. But this resource can retard progress at the vary instant it is most valuable to people working together. Read [[Have a Test for That?]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee4b5d28abd5b7db",
+      "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the vocabulary to explain the unexpected. From accumulation comes the opportunity to orderly synthesize the patterns and practices of delight. Read [[Bozo Brings Out My Best]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "1455595752123194",
+      "text": "Aside: Design choices answer wishes. We're like genies granting wishes where the third wish is to negate the first two. How is it that with unlimited wishes we can converge on practical success. Read [[Red Green Refactor]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "84447f5a53fb18f1",
+      "text": "We're interested in measurement. Through numbers we remember and compare outcomes. We want to know what works, why it works and how much it works. When we shy away from measurement we drift into the world of ought."
+    },
+    {
+      "type": "paragraph",
+      "id": "603c01f0f645c210",
+      "text": "Aside: Toyota will sell me a car that gets 50 miles/gallon but a thief gave me one that gets 100.  And it's more fun too. Read [[Full-Time Equivalent MPG]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "8a57cd5b5869d666",
+      "text": "We're interested in communities of purpose who wish to work transparently and share methods and results as they emerge. We've reinvented wiki for these overlapping communities who need to get things done even if they don't much like each oter. Read [[Chorus of Voices]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "60938233265a68ba",
+      "item": {
+        "title": "About Design"
+      },
+      "date": 1345586667443
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff3b185ec65cd373"
+      },
+      "id": "ff3b185ec65cd373",
+      "type": "add",
+      "date": 1345586678838
+    },
+    {
+      "type": "edit",
+      "id": "ff3b185ec65cd373",
+      "item": {
+        "type": "paragraph",
+        "id": "ff3b185ec65cd373",
+        "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delight all involved in the process."
+      },
+      "date": 1345586978165
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eedf1081165b517d",
+        "text": ""
+      },
+      "id": "eedf1081165b517d",
+      "type": "add",
+      "after": "ff3b185ec65cd373",
+      "date": 1345586978671
+    },
+    {
+      "type": "remove",
+      "id": "eedf1081165b517d",
+      "date": 1345587005037
+    },
+    {
+      "type": "edit",
+      "id": "ff3b185ec65cd373",
+      "item": {
+        "type": "paragraph",
+        "id": "ff3b185ec65cd373",
+        "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delighting everyone in the process."
+      },
+      "date": 1345587858198
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0aa960f51a33170a"
+      },
+      "id": "0aa960f51a33170a",
+      "type": "add",
+      "after": "ff3b185ec65cd373",
+      "date": 1345587871620
+    },
+    {
+      "type": "edit",
+      "id": "0aa960f51a33170a",
+      "item": {
+        "type": "paragraph",
+        "id": "0aa960f51a33170a",
+        "text": "We're interested in the way people work together in design. We acknowledge people differ in their strengths and motives. Weak solutions to the conflicts that surface in design may have become the de facto practice even when the space of choices is now much larger. We look for the solution passed over for the means of universal delight."
+      },
+      "date": 1345588262683
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c04672ac2e2fecc5",
+        "text": ""
+      },
+      "id": "c04672ac2e2fecc5",
+      "type": "add",
+      "after": "0aa960f51a33170a",
+      "date": 1345588263189
+    },
+    {
+      "type": "remove",
+      "id": "c04672ac2e2fecc5",
+      "date": 1345588324536
+    },
+    {
+      "type": "edit",
+      "id": "0aa960f51a33170a",
+      "item": {
+        "type": "paragraph",
+        "id": "0aa960f51a33170a",
+        "text": "We're interested in the way people work together in design. We acknowledge people differ in their strengths and motives. Weak solutions to the resulting conflicts become the de facto practice even when computers enlarge the space of choices. We look to the computer for great solutions that could not exist until now."
+      },
+      "date": 1345588508218
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee4b5d28abd5b7db"
+      },
+      "id": "ee4b5d28abd5b7db",
+      "type": "add",
+      "after": "0aa960f51a33170a",
+      "date": 1345588523268
+    },
+    {
+      "type": "edit",
+      "id": "ee4b5d28abd5b7db",
+      "item": {
+        "type": "paragraph",
+        "id": "ee4b5d28abd5b7db",
+        "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the "
+      },
+      "date": 1345588772302
+    },
+    {
+      "type": "edit",
+      "id": "ee4b5d28abd5b7db",
+      "item": {
+        "type": "paragraph",
+        "id": "ee4b5d28abd5b7db",
+        "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the vocabulary to explain the unexpected. From accumulation comes the opportunity to synthesize the principles and practices of delight."
+      },
+      "date": 1345588949879
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84447f5a53fb18f1"
+      },
+      "id": "84447f5a53fb18f1",
+      "type": "add",
+      "after": "ee4b5d28abd5b7db",
+      "date": 1345588959816
+    },
+    {
+      "type": "edit",
+      "id": "84447f5a53fb18f1",
+      "item": {
+        "type": "paragraph",
+        "id": "84447f5a53fb18f1",
+        "text": "We're interested in measurement. Through numbers we remember and compare outcomes. We want to know what works, why it works and how much it works. When we shy away from measurement we drift into the world of ought."
+      },
+      "date": 1345589245414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "603c01f0f645c210",
+        "text": ""
+      },
+      "id": "603c01f0f645c210",
+      "type": "add",
+      "after": "84447f5a53fb18f1",
+      "date": 1345589245919
+    },
+    {
+      "type": "edit",
+      "id": "603c01f0f645c210",
+      "item": {
+        "type": "paragraph",
+        "id": "603c01f0f645c210",
+        "text": "Aside: Toyota will sell me a car that gets 50 miles/gallon but a thief gave me one that gets 100. Read [[Full-Time Equivalent MPG]]."
+      },
+      "date": 1345589350445
+    },
+    {
+      "type": "edit",
+      "id": "603c01f0f645c210",
+      "item": {
+        "type": "paragraph",
+        "id": "603c01f0f645c210",
+        "text": "Aside: Toyota will sell me a car that gets 50 miles/gallon but a thief gave me one that gets 100. Read [[Full-Time Equivalent MPG]]. And it's more fun too."
+      },
+      "date": 1345589383012
+    },
+    {
+      "type": "edit",
+      "id": "603c01f0f645c210",
+      "item": {
+        "type": "paragraph",
+        "id": "603c01f0f645c210",
+        "text": "Aside: Toyota will sell me a car that gets 50 miles/gallon but a thief gave me one that gets 100.  And it's more fun too. Read [[Full-Time Equivalent MPG]]."
+      },
+      "date": 1345589409563
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cbd4369c870888f4",
+        "text": ""
+      },
+      "id": "cbd4369c870888f4",
+      "type": "add",
+      "after": "603c01f0f645c210",
+      "date": 1345589469018
+    },
+    {
+      "type": "edit",
+      "id": "cbd4369c870888f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd4369c870888f4",
+        "text": "Aside: Designers naturally reach into their past experience for solutions that might apply. But this resource can retard progress at the instant it is most valuable. Read [[Have You Got a Test for That]]."
+      },
+      "date": 1345589775147
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a7c1aa1120c6eb08",
+        "text": ""
+      },
+      "id": "a7c1aa1120c6eb08",
+      "type": "add",
+      "after": "cbd4369c870888f4",
+      "date": 1345589775651
+    },
+    {
+      "type": "remove",
+      "id": "a7c1aa1120c6eb08",
+      "date": 1345589798860
+    },
+    {
+      "type": "edit",
+      "id": "cbd4369c870888f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd4369c870888f4",
+        "text": "Aside: Designers naturally reach into their past experience for solutions that might apply. But this resource can retard progress at the instant it is most valuable. Read [[Have a Test for That?]]."
+      },
+      "date": 1345589832712
+    },
+    {
+      "type": "edit",
+      "id": "cbd4369c870888f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd4369c870888f4",
+        "text": "Aside: Designers naturally reach into their past experience for solutions that might apply. But this resource can retard progress at the vary instant it is most valuable. Read [[Have a Test for That?]]."
+      },
+      "date": 1345589857921
+    },
+    {
+      "type": "edit",
+      "id": "cbd4369c870888f4",
+      "item": {
+        "type": "paragraph",
+        "id": "cbd4369c870888f4",
+        "text": "Aside: Designers naturally reach into their past experience for solutions that might apply. But this resource can retard progress at the vary instant it is most valuable to people working together. Read [[Have a Test for That?]]."
+      },
+      "date": 1345589873207
+    },
+    {
+      "type": "move",
+      "order": [
+        "ff3b185ec65cd373",
+        "0aa960f51a33170a",
+        "cbd4369c870888f4",
+        "ee4b5d28abd5b7db",
+        "84447f5a53fb18f1",
+        "603c01f0f645c210"
+      ],
+      "id": "cbd4369c870888f4",
+      "date": 1345589948221
+    },
+    {
+      "type": "edit",
+      "id": "ee4b5d28abd5b7db",
+      "item": {
+        "type": "paragraph",
+        "id": "ee4b5d28abd5b7db",
+        "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the vocabulary to explain the unexpected. From accumulation comes the opportunity to synthesize the patterns and practices of delight."
+      },
+      "date": 1345590111408
+    },
+    {
+      "type": "edit",
+      "id": "ee4b5d28abd5b7db",
+      "item": {
+        "type": "paragraph",
+        "id": "ee4b5d28abd5b7db",
+        "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the vocabulary to explain the unexpected. From accumulation comes the opportunity to synthesize the patterns and practices of delight. Read [[Bozo Brings Out My Best]]."
+      },
+      "date": 1345590648699
+    },
+    {
+      "type": "edit",
+      "id": "ee4b5d28abd5b7db",
+      "item": {
+        "type": "paragraph",
+        "id": "ee4b5d28abd5b7db",
+        "text": "We're interested in the accumulation of knowledge in a simple, reusable form. We ask, now that you're finished, what did you learn that you did not expect to learn? From experience comes the vocabulary to explain the unexpected. From accumulation comes the opportunity to orderly synthesize the patterns and practices of delight. Read [[Bozo Brings Out My Best]]."
+      },
+      "date": 1345590691865
+    },
+    {
+      "type": "edit",
+      "id": "ff3b185ec65cd373",
+      "item": {
+        "type": "paragraph",
+        "id": "ff3b185ec65cd373",
+        "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delight everyone in the process."
+      },
+      "date": 1345606765934
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1455595752123194",
+        "text": ""
+      },
+      "id": "1455595752123194",
+      "type": "add",
+      "after": "ee4b5d28abd5b7db",
+      "date": 1375625965565
+    },
+    {
+      "type": "edit",
+      "id": "1455595752123194",
+      "item": {
+        "type": "paragraph",
+        "id": "1455595752123194",
+        "text": "Aside: Design choices answer wishes. We're like genies granting wishes where the third wish is to negate the first two. How is it that with unlimited wishes we can converge on practical success. Read [[Red Green Refactor]]."
+      },
+      "date": 1375626361925
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8a57cd5b5869d666",
+        "text": ""
+      },
+      "id": "8a57cd5b5869d666",
+      "type": "add",
+      "after": "603c01f0f645c210",
+      "date": 1384133162451
+    },
+    {
+      "type": "edit",
+      "id": "8a57cd5b5869d666",
+      "item": {
+        "type": "paragraph",
+        "id": "8a57cd5b5869d666",
+        "text": "We're interested in communities of purpose who wish to work transparently and share methods and results as they emerge. We've reinvented wiki for these overlapping communities who need to get things done even if they don't much like each oter. Read [[Chorus of Voices]]."
+      },
+      "date": 1384133415691
+    },
+    {
+      "type": "fork",
+      "site": "design.fed.wiki.org",
+      "date": 1437102064897
+    }
+  ]
+}

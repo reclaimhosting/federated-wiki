@@ -1,0 +1,853 @@
+{
+  "title": "Contribute Code",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f096e90c7800615b",
+      "text": "The federated wiki application is a community open-source project founded in 2011 and hosted on GitHub. It has been organized as a series of repositories under an informal organization called fedwiki. [https://github.com/fedwiki github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "10ab11a99bd18bd8",
+      "text": "Ward Cunningham leads the project that is in a small way a realization of a vision dating back to the late '90s called [[Folk Memory]] and was started in ernest with a one-year fellowship in 2011."
+    },
+    {
+      "type": "paragraph",
+      "id": "0495fac879726408",
+      "text": "GitHub tracks contributors that number around forty. All are valued as even small contributions have pointed out possibilities that escaped our notice until mentioned. A few have been long-standing colleagues. Thank you."
+    },
+    {
+      "type": "html",
+      "id": "e6f4b1be673a50b2",
+      "text": "<h3> Repositories"
+    },
+    {
+      "type": "paragraph",
+      "id": "029107075226d726",
+      "text": "Wiki has been open since its founding as a small ruby server intended to be completed in a weekend and thus called Smallest Federated Wiki. [https://github.com/WardCunningham/Smallest-Federated-Wiki github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "60c3a2277824ee05",
+      "text": "In the summer of 2012 the repositories were reorganized to separate client, server, and plugins, into separate repos so that each server implementation could assume a structure expected for that kind of project. [https://github.com/fedwiki github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2e18dd522ef52e43",
+      "text": "The node.js implementation is the recommended version mostly because it installs easily. One can create a wiki with two commands. One to get the software and the second to launch it."
+    },
+    {
+      "type": "code",
+      "id": "da9c9257d0873deb",
+      "text": "npm install -g wiki\nwiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "9555c9e483b88721",
+      "text": " "
+    },
+    {
+      "type": "html",
+      "id": "2f6205359048a7fe",
+      "text": "<h3> References"
+    },
+    {
+      "type": "paragraph",
+      "id": "db60f0ac66e987cf",
+      "text": "Of course we use federated wiki to discuss federated wiki and related topics. Here is a sampling of sites discussing history and futures of wiki and related topics. "
+    },
+    {
+      "type": "reference",
+      "id": "47b9edeb1157d6f0",
+      "site": "fed.wiki.org",
+      "slug": "how-to-wiki",
+      "title": "How To Wiki",
+      "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our our [[Frequently Asked Questions]]."
+    },
+    {
+      "type": "reference",
+      "id": "bb1a8e320e3d85da",
+      "site": "video.fed.wiki.org",
+      "slug": "sfw-history-animated",
+      "title": "SFW History Animated",
+      "text": "Paul Rodwell assembled this animation from the various github repositories we've used throughout the Smallest Federated Wiki project."
+    },
+    {
+      "type": "reference",
+      "id": "37dd7d32259e4529",
+      "site": "ward.fed.wiki.org",
+      "slug": "federated-wiki",
+      "title": "Federated Wiki",
+      "text": "Ward writes here about his own participation in the open source federated wiki project. Pages range from his personal vision to daily todo lists with some honest assessments in between."
+    },
+    {
+      "type": "reference",
+      "id": "3bedbf836be1fd7f",
+      "site": "plugins.fed.wiki.org",
+      "slug": "about-plugins",
+      "title": "About Plugins",
+      "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+    },
+    {
+      "type": "reference",
+      "id": "85ae70fdd901667b",
+      "site": "issues.fed.wiki.org",
+      "slug": "aggregated-github-issues",
+      "title": "Aggregated GitHub Issues",
+      "text": "We list sites with pages mechanically generated from the github API. These provide a broad view of multiple federated wiki related repositories and a reference for ongoing conversation within the federation."
+    },
+    {
+      "type": "reference",
+      "id": "9c853bf07d4d4e6c",
+      "site": "design.fed.wiki.org",
+      "slug": "about-design",
+      "title": "About Design",
+      "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delight everyone in the process."
+    },
+    {
+      "type": "reference",
+      "id": "32d3b5d390441060",
+      "site": "hsi.fed.wiki.org",
+      "slug": "hacking-social-impact",
+      "title": "Hacking Social Impact",
+      "text": "To bring together in a dynamic and collaborative environment the leaders in social impact, business, and venture capital investment innovation. [http://socialventuresociety.org/unconference/ website] [http://us6.campaign-archive2.com/?u=adeb969bbfd2716b2416778ac&id=93902578be details]"
+    },
+    {
+      "type": "reference",
+      "id": "3a73a42273ccaa70",
+      "site": "sites.fed.wiki.org",
+      "slug": "sitesfedwikiorg",
+      "title": "sites.fed.wiki.org",
+      "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Contribute Code",
+        "story": []
+      },
+      "date": 1402629737580
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f096e90c7800615b"
+      },
+      "id": "f096e90c7800615b",
+      "type": "add",
+      "date": 1402629741860
+    },
+    {
+      "type": "edit",
+      "id": "f096e90c7800615b",
+      "item": {
+        "type": "paragraph",
+        "id": "f096e90c7800615b",
+        "text": "The federated wiki application is a community open-source project founded in 2011 and hosted on GitHub. It has been organized as a series of repositories under an informal organization called fedwiki. [https://github.com/fedwiki github]"
+      },
+      "date": 1402629887176
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10ab11a99bd18bd8"
+      },
+      "id": "10ab11a99bd18bd8",
+      "type": "add",
+      "after": "f096e90c7800615b",
+      "date": 1402629928285
+    },
+    {
+      "type": "edit",
+      "id": "10ab11a99bd18bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "10ab11a99bd18bd8",
+        "text": "Ward Cunningham leads the project that is in a small way a realization of a vision dating back to the late '90s called [[Folk Memory]]."
+      },
+      "date": 1402630065030
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "31618c13bca83baf",
+        "text": ""
+      },
+      "id": "31618c13bca83baf",
+      "type": "add",
+      "after": "10ab11a99bd18bd8",
+      "date": 1402630065536
+    },
+    {
+      "type": "remove",
+      "id": "31618c13bca83baf",
+      "date": 1402630067247
+    },
+    {
+      "type": "edit",
+      "id": "10ab11a99bd18bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "10ab11a99bd18bd8",
+        "text": "Ward Cunningham leads the project that is in a small way a realization of a vision dating back to the late '90s called [[Folk Memory]]. GitHub tracks contributors that number around forty. All are valued as even small contributions have pointed out possibilities that escaped our notice until mentioned. A few have been long-standing colleagues. Thank you."
+      },
+      "date": 1402630322574
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "576f8ba908a56339",
+        "text": ""
+      },
+      "id": "576f8ba908a56339",
+      "type": "add",
+      "after": "10ab11a99bd18bd8",
+      "date": 1402630323081
+    },
+    {
+      "type": "remove",
+      "id": "576f8ba908a56339",
+      "date": 1402630329568
+    },
+    {
+      "type": "edit",
+      "id": "10ab11a99bd18bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "10ab11a99bd18bd8",
+        "text": "Ward Cunningham leads the project that is in a small way a realization of a vision dating back to the late '90s called [[Folk Memory]]. "
+      },
+      "date": 1402630332338
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0495fac879726408",
+        "text": "GitHub tracks contributors that number around forty. All are valued as even small contributions have pointed out possibilities that escaped our notice until mentioned. A few have been long-standing colleagues. Thank you."
+      },
+      "id": "0495fac879726408",
+      "type": "add",
+      "after": "10ab11a99bd18bd8",
+      "date": 1402630332845
+    },
+    {
+      "type": "edit",
+      "id": "10ab11a99bd18bd8",
+      "item": {
+        "type": "paragraph",
+        "id": "10ab11a99bd18bd8",
+        "text": "Ward Cunningham leads the project that is in a small way a realization of a vision dating back to the late '90s called [[Folk Memory]] and was started in ernest with a one-year fellowship in 2011."
+      },
+      "date": 1402630418455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e6f4b1be673a50b2"
+      },
+      "id": "e6f4b1be673a50b2",
+      "type": "add",
+      "after": "0495fac879726408",
+      "date": 1402630428634
+    },
+    {
+      "type": "edit",
+      "id": "e6f4b1be673a50b2",
+      "item": {
+        "type": "paragraph",
+        "id": "e6f4b1be673a50b2",
+        "text": "<h3> Repositories"
+      },
+      "date": 1402630444856
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "029107075226d726",
+        "text": ""
+      },
+      "id": "029107075226d726",
+      "type": "add",
+      "after": "e6f4b1be673a50b2",
+      "date": 1402630445361
+    },
+    {
+      "type": "edit",
+      "id": "029107075226d726",
+      "item": {
+        "type": "paragraph",
+        "id": "029107075226d726",
+        "text": "Wiki has been open since its founding as a small ruby server intended to be completed in a weekend and thus called Smallest Federated Wiki."
+      },
+      "date": 1402630547757
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8dfe71df2d280ce2",
+        "text": ""
+      },
+      "id": "8dfe71df2d280ce2",
+      "type": "add",
+      "after": "029107075226d726",
+      "date": 1402630548263
+    },
+    {
+      "type": "remove",
+      "id": "8dfe71df2d280ce2",
+      "date": 1402630551035
+    },
+    {
+      "type": "edit",
+      "id": "029107075226d726",
+      "item": {
+        "type": "paragraph",
+        "id": "029107075226d726",
+        "text": "Wiki has been open since its founding as a small ruby server intended to be completed in a weekend and thus called Smallest Federated Wiki. [https://github.com/wardcunningham/SmallestFederatedWiki github]"
+      },
+      "date": 1402630587025
+    },
+    {
+      "type": "edit",
+      "id": "029107075226d726",
+      "item": {
+        "type": "paragraph",
+        "id": "029107075226d726",
+        "text": "Wiki has been open since its founding as a small ruby server intended to be completed in a weekend and thus called Smallest Federated Wiki. [https://github.com/WardCunningham/Smallest-Federated-Wiki github]"
+      },
+      "date": 1402630634171
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60c3a2277824ee05"
+      },
+      "id": "60c3a2277824ee05",
+      "type": "add",
+      "after": "029107075226d726",
+      "date": 1402630644334
+    },
+    {
+      "type": "edit",
+      "id": "60c3a2277824ee05",
+      "item": {
+        "type": "paragraph",
+        "id": "60c3a2277824ee05",
+        "text": "In the summer of 2012 the repositories were reorganized to separate client, server, and plugins, into separate repos so that each server implementation could assume a structure expected for that kind of project. "
+      },
+      "date": 1402630775532
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9555c9e483b88721",
+        "text": " "
+      },
+      "id": "9555c9e483b88721",
+      "type": "add",
+      "after": "60c3a2277824ee05",
+      "date": 1402630776039
+    },
+    {
+      "type": "edit",
+      "id": "60c3a2277824ee05",
+      "item": {
+        "type": "paragraph",
+        "id": "60c3a2277824ee05",
+        "text": "In the summer of 2012 the repositories were reorganized to separate client, server, and plugins, into separate repos so that each server implementation could assume a structure expected for that kind of project. [https://github.com/fedwiki github]"
+      },
+      "date": 1402630827907
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2f6205359048a7fe"
+      },
+      "id": "2f6205359048a7fe",
+      "type": "add",
+      "after": "9555c9e483b88721",
+      "date": 1402630961843
+    },
+    {
+      "type": "edit",
+      "id": "2f6205359048a7fe",
+      "item": {
+        "type": "paragraph",
+        "id": "2f6205359048a7fe",
+        "text": "<h3> References"
+      },
+      "date": 1402630973187
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9525e417a98950ed",
+        "text": ""
+      },
+      "id": "9525e417a98950ed",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402630973694
+    },
+    {
+      "type": "remove",
+      "id": "9525e417a98950ed",
+      "date": 1402630975438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ee3c302c713c1ef"
+      },
+      "id": "8ee3c302c713c1ef",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402630980216
+    },
+    {
+      "type": "edit",
+      "id": "8ee3c302c713c1ef",
+      "item": {
+        "type": "reference",
+        "id": "8ee3c302c713c1ef",
+        "site": "design.fed.wiki.org",
+        "slug": "folk-memory",
+        "title": "Folk Memory",
+        "text": "<h3>A Minimalist Architecture for Adaptive \nFederation of Object Servers"
+      },
+      "date": 1402630987288
+    },
+    {
+      "type": "edit",
+      "id": "8ee3c302c713c1ef",
+      "item": {
+        "type": "reference",
+        "id": "8ee3c302c713c1ef",
+        "site": "design.fed.wiki.org",
+        "slug": "folk-memory",
+        "title": "Folk Memory",
+        "text": "This memo describes an adaptive architecture for federating peer object servers. Both the architecture and its implementations are called Folk Memory. This term alludes to the social process by which folk tales or folk songs are remembered and propagated within a culture."
+      },
+      "date": 1402631004081
+    },
+    {
+      "type": "remove",
+      "id": "8ee3c302c713c1ef",
+      "date": 1402631070606
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2e18dd522ef52e43",
+        "text": ""
+      },
+      "id": "2e18dd522ef52e43",
+      "type": "add",
+      "after": "60c3a2277824ee05",
+      "date": 1402631101753
+    },
+    {
+      "type": "edit",
+      "id": "2e18dd522ef52e43",
+      "item": {
+        "type": "paragraph",
+        "id": "2e18dd522ef52e43",
+        "text": "The node.js implementation is the recommended version mostly because it installs easily. One can create a wiki with two commands. One to get the software and the second to launch it."
+      },
+      "date": 1402631262147
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ef4ac4f38b3c5082",
+        "text": ""
+      },
+      "id": "ef4ac4f38b3c5082",
+      "type": "add",
+      "after": "2e18dd522ef52e43",
+      "date": 1402631262661
+    },
+    {
+      "type": "remove",
+      "id": "ef4ac4f38b3c5082",
+      "date": 1402631263844
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "da9c9257d0873deb"
+      },
+      "id": "da9c9257d0873deb",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402631270777
+    },
+    {
+      "type": "edit",
+      "id": "da9c9257d0873deb",
+      "item": {
+        "type": "code",
+        "id": "da9c9257d0873deb",
+        "text": "npm install -g wiki\nwiki"
+      },
+      "date": 1402631290444
+    },
+    {
+      "type": "move",
+      "order": [
+        "f096e90c7800615b",
+        "10ab11a99bd18bd8",
+        "0495fac879726408",
+        "e6f4b1be673a50b2",
+        "029107075226d726",
+        "60c3a2277824ee05",
+        "2e18dd522ef52e43",
+        "da9c9257d0873deb",
+        "9555c9e483b88721",
+        "2f6205359048a7fe"
+      ],
+      "id": "da9c9257d0873deb",
+      "date": 1402631300983
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5157af884ce5516d"
+      },
+      "id": "5157af884ce5516d",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402631441254
+    },
+    {
+      "type": "remove",
+      "id": "5157af884ce5516d",
+      "date": 1402631482816
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47b9edeb1157d6f0"
+      },
+      "id": "47b9edeb1157d6f0",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402631494262
+    },
+    {
+      "type": "edit",
+      "id": "47b9edeb1157d6f0",
+      "item": {
+        "type": "reference",
+        "id": "47b9edeb1157d6f0",
+        "site": "fed.wiki.org",
+        "slug": "how-to-wiki",
+        "title": "How To Wiki",
+        "text": "This is our help documentation. Read a little bit. Then move on to our [http://sandbox.fed.wiki.org Sandbox] and give your new knowledge a workout. Still confused? Look through our our [[Frequently Asked Questions]]."
+      },
+      "date": 1402631528490
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bb1a8e320e3d85da"
+      },
+      "id": "bb1a8e320e3d85da",
+      "type": "add",
+      "after": "47b9edeb1157d6f0",
+      "date": 1402631535985
+    },
+    {
+      "type": "edit",
+      "id": "bb1a8e320e3d85da",
+      "item": {
+        "type": "reference",
+        "id": "bb1a8e320e3d85da",
+        "site": "video.fed.wiki.org",
+        "slug": "sfw-history-animated",
+        "title": "SFW History Animated",
+        "text": "Paul Rodwell assembled this animation from the various github repositories we've used throughout the Smallest Federated Wiki project."
+      },
+      "date": 1402631625584
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3a73a42273ccaa70"
+      },
+      "id": "3a73a42273ccaa70",
+      "type": "add",
+      "after": "bb1a8e320e3d85da",
+      "date": 1402631663426
+    },
+    {
+      "type": "edit",
+      "id": "3a73a42273ccaa70",
+      "item": {
+        "type": "reference",
+        "id": "3a73a42273ccaa70",
+        "site": "sites.fed.wiki.org",
+        "slug": "sitesfedwikiorg",
+        "title": "sites.fed.wiki.org",
+        "text": "Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
+      },
+      "date": 1402631672223
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37dd7d32259e4529"
+      },
+      "id": "37dd7d32259e4529",
+      "type": "add",
+      "after": "3a73a42273ccaa70",
+      "date": 1402631706119
+    },
+    {
+      "type": "edit",
+      "id": "37dd7d32259e4529",
+      "item": {
+        "type": "reference",
+        "id": "37dd7d32259e4529",
+        "site": "ward.fed.wiki.org",
+        "slug": "federated-wiki",
+        "title": "Federated Wiki",
+        "text": "Ward writes here about his own participation in the open source federated wiki project. Pages range from his personal vision to daily todo lists with some honest assessments in between."
+      },
+      "date": 1402631713293
+    },
+    {
+      "type": "move",
+      "order": [
+        "f096e90c7800615b",
+        "10ab11a99bd18bd8",
+        "0495fac879726408",
+        "e6f4b1be673a50b2",
+        "029107075226d726",
+        "60c3a2277824ee05",
+        "2e18dd522ef52e43",
+        "da9c9257d0873deb",
+        "9555c9e483b88721",
+        "2f6205359048a7fe",
+        "47b9edeb1157d6f0",
+        "bb1a8e320e3d85da",
+        "37dd7d32259e4529",
+        "3a73a42273ccaa70"
+      ],
+      "id": "37dd7d32259e4529",
+      "date": 1402631731063
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bedbf836be1fd7f"
+      },
+      "id": "3bedbf836be1fd7f",
+      "type": "add",
+      "after": "3a73a42273ccaa70",
+      "date": 1402631782464
+    },
+    {
+      "type": "edit",
+      "id": "3bedbf836be1fd7f",
+      "item": {
+        "type": "reference",
+        "id": "3bedbf836be1fd7f",
+        "site": "plugins.fed.wiki.org",
+        "slug": "about-plugins",
+        "title": "About Plugins",
+        "text": "We explain federated wiki plugins. We define their role interpreting content, recount our experience writing many, describe principles and strategies for future plugins, and offer a step-by-step guide for new plugin authors. We'll also collect pointers here to good plugins when they emerge."
+      },
+      "date": 1402631789372
+    },
+    {
+      "type": "move",
+      "order": [
+        "f096e90c7800615b",
+        "10ab11a99bd18bd8",
+        "0495fac879726408",
+        "e6f4b1be673a50b2",
+        "029107075226d726",
+        "60c3a2277824ee05",
+        "2e18dd522ef52e43",
+        "da9c9257d0873deb",
+        "9555c9e483b88721",
+        "2f6205359048a7fe",
+        "47b9edeb1157d6f0",
+        "bb1a8e320e3d85da",
+        "37dd7d32259e4529",
+        "3bedbf836be1fd7f",
+        "3a73a42273ccaa70"
+      ],
+      "id": "3bedbf836be1fd7f",
+      "date": 1402631797138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c853bf07d4d4e6c"
+      },
+      "id": "9c853bf07d4d4e6c",
+      "type": "add",
+      "after": "3a73a42273ccaa70",
+      "date": 1402631841958
+    },
+    {
+      "type": "edit",
+      "id": "9c853bf07d4d4e6c",
+      "item": {
+        "type": "reference",
+        "id": "9c853bf07d4d4e6c",
+        "site": "design.fed.wiki.org",
+        "slug": "about-design",
+        "title": "About Design",
+        "text": "We're interested in making more great things. Making the same thing faster or cheaper is pretty great, but we're more interested in making fabulous things that solve many complex problems simultaneously and delight everyone in the process."
+      },
+      "date": 1402631849440
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "32d3b5d390441060"
+      },
+      "id": "32d3b5d390441060",
+      "type": "add",
+      "after": "9c853bf07d4d4e6c",
+      "date": 1402631910349
+    },
+    {
+      "type": "edit",
+      "id": "32d3b5d390441060",
+      "item": {
+        "type": "reference",
+        "id": "32d3b5d390441060",
+        "site": "hsi.fed.wiki.org",
+        "slug": "hacking-social-impact",
+        "title": "Hacking Social Impact",
+        "text": "To bring together in a dynamic and collaborative environment the leaders in social impact, business, and venture capital investment innovation. [http://socialventuresociety.org/unconference/ website] [http://us6.campaign-archive2.com/?u=adeb969bbfd2716b2416778ac&id=93902578be details]"
+      },
+      "date": 1402631918312
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "85ae70fdd901667b"
+      },
+      "id": "85ae70fdd901667b",
+      "type": "add",
+      "after": "32d3b5d390441060",
+      "date": 1402632182367
+    },
+    {
+      "type": "edit",
+      "id": "85ae70fdd901667b",
+      "item": {
+        "type": "reference",
+        "id": "85ae70fdd901667b",
+        "site": "issues.fed.wiki.org",
+        "slug": "aggregated-github-issues",
+        "title": "Aggregated GitHub Issues",
+        "text": "We list sites with pages mechanically generated from the github API. These provide a broad view of multiple federated wiki related repositories and a reference for ongoing conversation within the federation."
+      },
+      "date": 1402632189751
+    },
+    {
+      "type": "move",
+      "order": [
+        "f096e90c7800615b",
+        "10ab11a99bd18bd8",
+        "0495fac879726408",
+        "e6f4b1be673a50b2",
+        "029107075226d726",
+        "60c3a2277824ee05",
+        "2e18dd522ef52e43",
+        "da9c9257d0873deb",
+        "9555c9e483b88721",
+        "2f6205359048a7fe",
+        "47b9edeb1157d6f0",
+        "bb1a8e320e3d85da",
+        "37dd7d32259e4529",
+        "3bedbf836be1fd7f",
+        "85ae70fdd901667b",
+        "3a73a42273ccaa70",
+        "9c853bf07d4d4e6c",
+        "32d3b5d390441060"
+      ],
+      "id": "85ae70fdd901667b",
+      "date": 1402632199754
+    },
+    {
+      "type": "move",
+      "order": [
+        "f096e90c7800615b",
+        "10ab11a99bd18bd8",
+        "0495fac879726408",
+        "e6f4b1be673a50b2",
+        "029107075226d726",
+        "60c3a2277824ee05",
+        "2e18dd522ef52e43",
+        "da9c9257d0873deb",
+        "9555c9e483b88721",
+        "2f6205359048a7fe",
+        "47b9edeb1157d6f0",
+        "bb1a8e320e3d85da",
+        "37dd7d32259e4529",
+        "3bedbf836be1fd7f",
+        "85ae70fdd901667b",
+        "9c853bf07d4d4e6c",
+        "32d3b5d390441060",
+        "3a73a42273ccaa70"
+      ],
+      "id": "3a73a42273ccaa70",
+      "date": 1402632207479
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db60f0ac66e987cf",
+        "text": ""
+      },
+      "id": "db60f0ac66e987cf",
+      "type": "add",
+      "after": "2f6205359048a7fe",
+      "date": 1402632223578
+    },
+    {
+      "type": "edit",
+      "id": "db60f0ac66e987cf",
+      "item": {
+        "type": "paragraph",
+        "id": "db60f0ac66e987cf",
+        "text": "Of course we use federated wiki to discuss federated wiki and related topics. Here is a sampling of sites discussing history and futures of wiki and related topics. "
+      },
+      "date": 1402632298791
+    },
+    {
+      "type": "edit",
+      "id": "e6f4b1be673a50b2",
+      "item": {
+        "type": "html",
+        "id": "e6f4b1be673a50b2",
+        "text": "<h3> Repositories"
+      },
+      "date": 1418272493224
+    },
+    {
+      "type": "edit",
+      "id": "2f6205359048a7fe",
+      "item": {
+        "type": "html",
+        "id": "2f6205359048a7fe",
+        "text": "<h3> References"
+      },
+      "date": 1418272497593
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437102025734
+    }
+  ]
+}

@@ -30,11 +30,6 @@
     },
     {
       "type": "paragraph",
-      "id": "4ecd68dd0f72bfaa",
-      "text": "Other [[Federated Wiki]] -- [[FW Sites]]"
-    },
-    {
-      "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     }
@@ -156,6 +151,27 @@
       },
       "after": "05e2fa92643677ca",
       "date": 1437100590821
+    },
+    {
+      "type": "remove",
+      "id": "4ecd68dd0f72bfaa",
+      "date": 1437102204854
+    },
+    {
+      "type": "add",
+      "id": "f7f28c5a33965b94",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f28c5a33965b94",
+        "text": "[[Federated Wiki]]"
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1437102269056
+    },
+    {
+      "type": "remove",
+      "id": "f7f28c5a33965b94",
+      "date": 1437102280837
     }
   ]
 }

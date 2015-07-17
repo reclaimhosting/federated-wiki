@@ -1,0 +1,62 @@
+{
+  "title": "Starting Points",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f7f28c5a33965b94",
+      "text": "[[Federated Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c2886bf20164a3b7",
+      "text": "[[How to Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b726e902730847c0",
+      "text": "[[Recent Changes]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Starting Points",
+        "story": []
+      },
+      "date": 1437102276067
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f7f28c5a33965b94",
+        "text": "[[Federated Wiki]]"
+      },
+      "id": "f7f28c5a33965b94",
+      "date": 1437102280837
+    },
+    {
+      "type": "add",
+      "id": "c2886bf20164a3b7",
+      "item": {
+        "type": "paragraph",
+        "id": "c2886bf20164a3b7",
+        "text": "[[How to Wiki]]"
+      },
+      "after": "f7f28c5a33965b94",
+      "date": 1437102303821
+    },
+    {
+      "type": "add",
+      "id": "b726e902730847c0",
+      "item": {
+        "type": "paragraph",
+        "id": "b726e902730847c0",
+        "text": "[[Recent Changes]]"
+      },
+      "after": "c2886bf20164a3b7",
+      "date": 1437102347857
+    }
+  ]
+}

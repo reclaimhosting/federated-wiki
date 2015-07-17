@@ -5,6 +5,10 @@
       "type": "paragraph",
       "id": "43263f2e751232ff",
       "text": "[[scratch]]"
+    },
+    {
+      "type": "factory",
+      "id": "096a0e10164998f7"
     }
   ],
   "journal": [
@@ -34,6 +38,16 @@
         "text": "[[scratch]]"
       },
       "date": 1437147594987
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "096a0e10164998f7"
+      },
+      "id": "096a0e10164998f7",
+      "type": "add",
+      "after": "43263f2e751232ff",
+      "date": 1437148105449
     }
   ]
 }

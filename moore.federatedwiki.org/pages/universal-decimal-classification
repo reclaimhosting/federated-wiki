@@ -7,8 +7,19 @@
       "text": "[[scratch]]"
     },
     {
-      "type": "factory",
-      "id": "096a0e10164998f7"
+      "type": "paragraph",
+      "id": "096a0e10164998f7",
+      "text": "The Universal Decimal Classification (UDC) is a faceted classification system originally created by Paul Otlet and Henri La Fontaine. Unlike non-faceted schemes. "
+    },
+    {
+      "type": "paragraph",
+      "id": "3943741a13a8039f",
+      "text": "Faceted classification schemes differ from hierachical schemes in that they have combinatorial power and can be accessed from multiple dimensions. "
+    },
+    {
+      "type": "paragraph",
+      "id": "24a0fafa75ebde8d",
+      "text": "As an example, consider a more traditional hierarchal scheme for representing animals. We might choose to represent a zebra as a subset of mammals. In a traditional model to find zebra you would need to make choices at each step of the way. "
     }
   ],
   "journal": [
@@ -48,6 +59,68 @@
       "type": "add",
       "after": "43263f2e751232ff",
       "date": 1437148105449
+    },
+    {
+      "type": "edit",
+      "id": "096a0e10164998f7",
+      "item": {
+        "type": "paragraph",
+        "id": "096a0e10164998f7",
+        "text": "The Universal Decimal Classification (UDC) is a faceted classification system originally created by Paul Otlet and Henri La Fontaine. Unlike non-faceted schemes. the UDC allows "
+      },
+      "date": 1437148226054
+    },
+    {
+      "type": "edit",
+      "id": "096a0e10164998f7",
+      "item": {
+        "type": "paragraph",
+        "id": "096a0e10164998f7",
+        "text": "The Universal Decimal Classification (UDC) is a faceted classification system originally created by Paul Otlet and Henri La Fontaine. Unlike non-faceted schemes. "
+      },
+      "date": 1437148267112
+    },
+    {
+      "type": "add",
+      "id": "3943741a13a8039f",
+      "item": {
+        "type": "paragraph",
+        "id": "3943741a13a8039f",
+        "text": "Faceted classification schemes differ from hierachical schemes in that they have combinatorial power."
+      },
+      "after": "096a0e10164998f7",
+      "date": 1437148337513
+    },
+    {
+      "type": "edit",
+      "id": "3943741a13a8039f",
+      "item": {
+        "type": "paragraph",
+        "id": "3943741a13a8039f",
+        "text": "Faceted classification schemes differ from hierachical schemes in that they have combinatorial power and can be accessed from multiple dimensions. "
+      },
+      "date": 1437148401765
+    },
+    {
+      "type": "add",
+      "id": "24a0fafa75ebde8d",
+      "item": {
+        "type": "paragraph",
+        "id": "24a0fafa75ebde8d",
+        "text": "As an example, consider a more traditional hierarchal scheme for representing animals. We might choose to represent a zebra as a subset of "
+      },
+      "after": "3943741a13a8039f",
+      "date": 1437148492258
+    },
+    {
+      "type": "edit",
+      "id": "24a0fafa75ebde8d",
+      "item": {
+        "type": "paragraph",
+        "id": "24a0fafa75ebde8d",
+        "text": "As an example, consider a more traditional hierarchal scheme for representing animals. We might choose to represent a zebra as a subset of mammals. In a traditional model to find zebra you would need to make choices at each step of the way. "
+      },
+      "date": 1437148699167
     }
   ]
 }

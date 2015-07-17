@@ -1,0 +1,113 @@
+{
+  "title": "Add Videos",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5af5e6689792a57b",
+      "text": "Add videos to wiki pages using the Video plugin which supports popular video services. See [[About Video Plugin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "842999585f6ab402",
+      "text": "We are no longer lenient about arbitrary html in wiki pages. You may encounter older paragraphs that include service supplied <iframe> style embed codes which now show as a jumble of tags. These contain within them the service provider's identification key. You can add that to a video plugin to show the video."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Add Videos",
+        "story": []
+      },
+      "date": 1388893464981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5af5e6689792a57b"
+      },
+      "id": "5af5e6689792a57b",
+      "type": "add",
+      "date": 1388893466997
+    },
+    {
+      "type": "fork",
+      "date": 1424534227221
+    },
+    {
+      "type": "edit",
+      "id": "5af5e6689792a57b",
+      "item": {
+        "type": "paragraph",
+        "id": "5af5e6689792a57b",
+        "text": "Add videos to wiki pages using the Video plugin. See [[About Video Plugin]]"
+      },
+      "date": 1424534378024
+    },
+    {
+      "type": "edit",
+      "id": "5af5e6689792a57b",
+      "item": {
+        "type": "paragraph",
+        "id": "5af5e6689792a57b",
+        "text": "Add videos to wiki pages using the Video plugin which supports popular video services. See [[About Video Plugin]]"
+      },
+      "date": 1424534468160
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "842999585f6ab402"
+      },
+      "id": "842999585f6ab402",
+      "type": "add",
+      "after": "5af5e6689792a57b",
+      "date": 1424534483425
+    },
+    {
+      "type": "edit",
+      "id": "842999585f6ab402",
+      "item": {
+        "type": "paragraph",
+        "id": "842999585f6ab402",
+        "text": "We are no longer as lenient about arbitrary html in wiki pages. You may encounter older paragraphs that include service supplied <iframe> style embed codes. These contain within them the service provider's identification key. You can add that to a video plugin to retrieve the video."
+      },
+      "date": 1424534715437
+    },
+    {
+      "type": "edit",
+      "id": "842999585f6ab402",
+      "item": {
+        "type": "paragraph",
+        "id": "842999585f6ab402",
+        "text": "We are no longer as lenient about arbitrary html in wiki pages. You may encounter older paragraphs that include service supplied <iframe> style embed codes. These contain within them the service provider's identification key. You can add that to a video plugin to show the video."
+      },
+      "date": 1424534810851
+    },
+    {
+      "type": "edit",
+      "id": "842999585f6ab402",
+      "item": {
+        "type": "paragraph",
+        "id": "842999585f6ab402",
+        "text": "We are no longer lenient about arbitrary html in wiki pages. You may encounter older paragraphs that include service supplied <iframe> style embed codes. These contain within them the service provider's identification key. You can add that to a video plugin to show the video."
+      },
+      "date": 1424535198454
+    },
+    {
+      "type": "edit",
+      "id": "842999585f6ab402",
+      "item": {
+        "type": "paragraph",
+        "id": "842999585f6ab402",
+        "text": "We are no longer lenient about arbitrary html in wiki pages. You may encounter older paragraphs that include service supplied <iframe> style embed codes which now show as a jumble of tags. These contain within them the service provider's identification key. You can add that to a video plugin to show the video."
+      },
+      "date": 1424535259321
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101432303
+    }
+  ]
+}

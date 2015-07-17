@@ -1,0 +1,690 @@
+{
+  "title": "Copy Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c591cc221d0f6ff5",
+      "text": "You can copy pages from remote sites into your own with a click of one button. The page becomes yours with attribution as expected."
+    },
+    {
+      "type": "html",
+      "id": "f05cfc8635c3c2cc",
+      "text": "<h3> Click to Copy"
+    },
+    {
+      "type": "image",
+      "id": "495b4b34b440060d",
+      "url": "data:image/png;base64,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",
+      "caption": "Uploaded image",
+      "text": "Find the fork button [⚑] at the bottom of every page to the right of the journal."
+    },
+    {
+      "type": "paragraph",
+      "id": "c088ffd5f2c40ecf",
+      "text": "Check that you are ready to write. Then click the fork button [ ⚑ ] to copy a remote page. Nothing will happen if it is already your page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8e54df3dfe39c78f",
+      "text": "When the copy is complete, a fork action is recorded in the new page's journal. The fork action appears as a black flag icon over the remote site's gradient flag background."
+    },
+    {
+      "type": "paragraph",
+      "id": "4d29cfd686001c46",
+      "text": "You can click the fork action in your journal to recall the remote page at any time."
+    },
+    {
+      "type": "html",
+      "id": "b9a9063b106d38df",
+      "text": "<h3> Ready to Write?"
+    },
+    {
+      "type": "paragraph",
+      "id": "8942008ce20935fe",
+      "text": "Before you can fork a remote page you must begin with your own site AND without leaving it, recall the remote page. Then you can fork as described above."
+    },
+    {
+      "type": "paragraph",
+      "id": "dd86ff9a1f14c5ea",
+      "text": "See how to [[Find the Beginning]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "d48026ec6b47dcbd",
+      "text": "Log into your [[Origin Server]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "2dc069461469fdec",
+      "text": "Recall the remote page by any of a variety of means."
+    },
+    {
+      "type": "html",
+      "id": "bfa7fa3bead96bad",
+      "text": "Recall by <b>Reference</b>. Click the flag of a Reference plugin to start browsing a remote site without leaving your site."
+    },
+    {
+      "type": "html",
+      "id": "b14ed90746e3a877",
+      "text": "Recall by <b>Search</b>. If the remote site is in your neighborhood, you can search for the page and then navigate through the search results."
+    },
+    {
+      "type": "html",
+      "id": "9a108148ab2cbd0e",
+      "text": "<h3> Need to Connect?"
+    },
+    {
+      "type": "paragraph",
+      "id": "c7cbc0f5db7edd2e",
+      "text": "If you don't already have a Reference to the remote site you can recall by typing the location or by creating a location by drag-and-drop."
+    },
+    {
+      "type": "html",
+      "id": "dccaace3ffc7c106",
+      "text": "Recall by <b>Location</b>. You can type the location of the remote page at the end of the existing location in your browser's location bar.<pre>        ... /{domain}/{page-slug}</pre>"
+    },
+    {
+      "type": "paragraph",
+      "id": "f785ac895953b306",
+      "text": "Add a Reference to the remote site by first opening the site in a new tab. Then drag from this location bar to a Factory in your own site. See how to [[Add Paragraphs]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Copy Pages"
+      },
+      "date": 1358732462262
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c591cc221d0f6ff5"
+      },
+      "id": "c591cc221d0f6ff5",
+      "type": "add",
+      "date": 1358732474291
+    },
+    {
+      "type": "edit",
+      "id": "c591cc221d0f6ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "c591cc221d0f6ff5",
+        "text": "You can copy pages from remote sites into your own wiki with a click of one button. The page becomes yours and with attribution of the source."
+      },
+      "date": 1358732664961
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "image",
+        "id": "495b4b34b440060d",
+        "url": "data:image/png;base64,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",
+        "caption": "Uploaded image",
+        "text": "Find the fork button [⚑] at the bottom of every page to the right of the journal."
+      },
+      "after": "c591cc221d0f6ff5",
+      "id": "495b4b34b440060d",
+      "date": 1358733002142
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c088ffd5f2c40ecf"
+      },
+      "id": "c088ffd5f2c40ecf",
+      "type": "add",
+      "after": "495b4b34b440060d",
+      "date": 1358733027246
+    },
+    {
+      "type": "edit",
+      "id": "c088ffd5f2c40ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "c088ffd5f2c40ecf",
+        "text": "Click the fork button [ ⚑ ] to copy a remote page. Nothing will happen if it is already your page. When the copy is complete, a fork action is recorded in the new page's journal. The fork action appears as a black flag icon over the remote site's gradient flag background. Click this action to recall the remote page."
+      },
+      "date": 1358733412708
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b9a9063b106d38df",
+        "text": ""
+      },
+      "id": "b9a9063b106d38df",
+      "type": "add",
+      "after": "c088ffd5f2c40ecf",
+      "date": 1358733413219
+    },
+    {
+      "type": "edit",
+      "id": "b9a9063b106d38df",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a9063b106d38df",
+        "text": "<h3> Getting Started"
+      },
+      "date": 1358733543289
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8942008ce20935fe",
+        "text": ""
+      },
+      "id": "8942008ce20935fe",
+      "type": "add",
+      "after": "b9a9063b106d38df",
+      "date": 1358733543796
+    },
+    {
+      "type": "edit",
+      "id": "8942008ce20935fe",
+      "item": {
+        "type": "paragraph",
+        "id": "8942008ce20935fe",
+        "text": "Before you can fork a remote page you must begin with your own site AND without leaving it, recall the remote page. Then you can fork as described above."
+      },
+      "date": 1358733683293
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6c2c5d86a771019c",
+        "text": ""
+      },
+      "id": "6c2c5d86a771019c",
+      "type": "add",
+      "after": "8942008ce20935fe",
+      "date": 1358733683800
+    },
+    {
+      "type": "remove",
+      "id": "6c2c5d86a771019c",
+      "date": 1358733691722
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd86ff9a1f14c5ea",
+        "text": ""
+      },
+      "id": "dd86ff9a1f14c5ea",
+      "type": "add",
+      "after": "8942008ce20935fe",
+      "date": 1358733738538
+    },
+    {
+      "type": "edit",
+      "id": "dd86ff9a1f14c5ea",
+      "item": {
+        "type": "paragraph",
+        "id": "dd86ff9a1f14c5ea",
+        "text": "See how to [[Find the Beginning]]."
+      },
+      "date": 1358733814955
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d48026ec6b47dcbd",
+        "text": ""
+      },
+      "id": "d48026ec6b47dcbd",
+      "type": "add",
+      "after": "dd86ff9a1f14c5ea",
+      "date": 1358733858513
+    },
+    {
+      "type": "edit",
+      "id": "d48026ec6b47dcbd",
+      "item": {
+        "type": "paragraph",
+        "id": "d48026ec6b47dcbd",
+        "text": "Be sure you are logged in to your site as the [[Origin Server]]."
+      },
+      "date": 1358733890943
+    },
+    {
+      "type": "edit",
+      "id": "d48026ec6b47dcbd",
+      "item": {
+        "type": "paragraph",
+        "id": "d48026ec6b47dcbd",
+        "text": "Log into your [[Origin Server]]."
+      },
+      "date": 1358733914799
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2dc069461469fdec",
+        "text": ""
+      },
+      "id": "2dc069461469fdec",
+      "type": "add",
+      "after": "d48026ec6b47dcbd",
+      "date": 1358733940861
+    },
+    {
+      "type": "edit",
+      "id": "2dc069461469fdec",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc069461469fdec",
+        "text": "Navigate to "
+      },
+      "date": 1358734051163
+    },
+    {
+      "type": "edit",
+      "id": "2dc069461469fdec",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc069461469fdec",
+        "text": "Navigate by [["
+      },
+      "date": 1358734090824
+    },
+    {
+      "type": "edit",
+      "id": "2dc069461469fdec",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc069461469fdec",
+        "text": "Recall the remote page by any of a variety of means."
+      },
+      "date": 1358734174832
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3efb56cbe78c8967",
+        "text": ""
+      },
+      "id": "3efb56cbe78c8967",
+      "type": "add",
+      "after": "2dc069461469fdec",
+      "date": 1358734175340
+    },
+    {
+      "type": "edit",
+      "id": "3efb56cbe78c8967",
+      "item": {
+        "type": "paragraph",
+        "id": "3efb56cbe78c8967",
+        "text": "<b>Recall by Reference.</b> Click the flag of a Reference plugin to start browsing a remote site without leaving your site."
+      },
+      "date": 1358734279013
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b14ed90746e3a877",
+        "text": ""
+      },
+      "id": "b14ed90746e3a877",
+      "type": "add",
+      "after": "3efb56cbe78c8967",
+      "date": 1358734279519
+    },
+    {
+      "type": "edit",
+      "id": "b14ed90746e3a877",
+      "item": {
+        "type": "paragraph",
+        "id": "b14ed90746e3a877",
+        "text": "Recall by <b>Search</b>. If the remote site is in your neighborhood, you can search for the page and then navigate through the search results."
+      },
+      "date": 1358734339067
+    },
+    {
+      "type": "remove",
+      "id": "3efb56cbe78c8967",
+      "date": 1358734367860
+    },
+    {
+      "type": "edit",
+      "id": "2dc069461469fdec",
+      "item": {
+        "type": "paragraph",
+        "id": "2dc069461469fdec",
+        "text": "Recall the remote page by any of a variety of means."
+      },
+      "date": 1358734369907
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bfa7fa3bead96bad",
+        "text": "Recall by <b>Reference</b>. Click the flag of a Reference plugin to start browsing a remote site without leaving your site."
+      },
+      "id": "bfa7fa3bead96bad",
+      "type": "add",
+      "after": "2dc069461469fdec",
+      "date": 1358734370412
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dccaace3ffc7c106",
+        "text": ""
+      },
+      "id": "dccaace3ffc7c106",
+      "type": "add",
+      "after": "b14ed90746e3a877",
+      "date": 1358734420623
+    },
+    {
+      "type": "edit",
+      "id": "dccaace3ffc7c106",
+      "item": {
+        "type": "paragraph",
+        "id": "dccaace3ffc7c106",
+        "text": "Recall by <b>Location</b>. You can type the location of the remote page at the end of the existing location in your browser's location bar.<pre>... /{domain}/{page-slug}</pre>"
+      },
+      "date": 1358734734552
+    },
+    {
+      "type": "edit",
+      "id": "dccaace3ffc7c106",
+      "item": {
+        "type": "paragraph",
+        "id": "dccaace3ffc7c106",
+        "text": "Recall by <b>Location</b>. You can type the location of the remote page at the end of the existing location in your browser's location bar.<pre>        ... /{domain}/{page-slug}</pre>"
+      },
+      "date": 1358734744824
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9382eec641f59569",
+        "text": ""
+      },
+      "id": "9382eec641f59569",
+      "type": "add",
+      "after": "2dc069461469fdec",
+      "date": 1358734864475
+    },
+    {
+      "type": "remove",
+      "id": "9382eec641f59569",
+      "date": 1358734890018
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9a108148ab2cbd0e",
+        "text": ""
+      },
+      "id": "9a108148ab2cbd0e",
+      "type": "add",
+      "after": "b14ed90746e3a877",
+      "date": 1358734903476
+    },
+    {
+      "type": "edit",
+      "id": "9a108148ab2cbd0e",
+      "item": {
+        "type": "paragraph",
+        "id": "9a108148ab2cbd0e",
+        "text": "If you don't already have a Reference to the remote site you can recall by typing the location or by creating a location by drag-and-drop."
+      },
+      "date": 1358734982945
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f785ac895953b306",
+        "text": ""
+      },
+      "id": "f785ac895953b306",
+      "type": "add",
+      "after": "dccaace3ffc7c106",
+      "date": 1358734992265
+    },
+    {
+      "type": "edit",
+      "id": "f785ac895953b306",
+      "item": {
+        "type": "paragraph",
+        "id": "f785ac895953b306",
+        "text": "Add a Reference to the remote site by first opening the site in a new tab. Then drag from this location bar to a Factory in your own site. See how to [[Add Paragraphs]]."
+      },
+      "date": 1358735325255
+    },
+    {
+      "type": "edit",
+      "id": "9a108148ab2cbd0e",
+      "item": {
+        "type": "paragraph",
+        "id": "9a108148ab2cbd0e",
+        "text": "<h3> Getting Connected"
+      },
+      "date": 1358735429062
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c7cbc0f5db7edd2e",
+        "text": "If you don't already have a Reference to the remote site you can recall by typing the location or by creating a location by drag-and-drop."
+      },
+      "id": "c7cbc0f5db7edd2e",
+      "type": "add",
+      "after": "9a108148ab2cbd0e",
+      "date": 1358735429567
+    },
+    {
+      "type": "edit",
+      "id": "b9a9063b106d38df",
+      "item": {
+        "type": "paragraph",
+        "id": "b9a9063b106d38df",
+        "text": "<h3> Ready to Write?"
+      },
+      "date": 1358735544978
+    },
+    {
+      "type": "edit",
+      "id": "9a108148ab2cbd0e",
+      "item": {
+        "type": "paragraph",
+        "id": "9a108148ab2cbd0e",
+        "text": "<h3> Need to Connect?"
+      },
+      "date": 1358735563353
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f05cfc8635c3c2cc",
+        "text": ""
+      },
+      "id": "f05cfc8635c3c2cc",
+      "type": "add",
+      "after": "c591cc221d0f6ff5",
+      "date": 1358735588808
+    },
+    {
+      "type": "edit",
+      "id": "f05cfc8635c3c2cc",
+      "item": {
+        "type": "paragraph",
+        "id": "f05cfc8635c3c2cc",
+        "text": "<h3> Click to Copy"
+      },
+      "date": 1358735619224
+    },
+    {
+      "type": "edit",
+      "id": "c088ffd5f2c40ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "c088ffd5f2c40ecf",
+        "text": "Click the fork button [ ⚑ ] to copy a remote page. Nothing will happen if it is already your page. "
+      },
+      "date": 1358735636440
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8e54df3dfe39c78f",
+        "text": "When the copy is complete, a fork action is recorded in the new page's journal. The fork action appears as a black flag icon over the remote site's gradient flag background. Click this action to recall the remote page."
+      },
+      "id": "8e54df3dfe39c78f",
+      "type": "add",
+      "after": "c088ffd5f2c40ecf",
+      "date": 1358735636946
+    },
+    {
+      "type": "edit",
+      "id": "8e54df3dfe39c78f",
+      "item": {
+        "type": "paragraph",
+        "id": "8e54df3dfe39c78f",
+        "text": "When the copy is complete, a fork action is recorded in the new page's journal. The fork action appears as a black flag icon over the remote site's gradient flag background."
+      },
+      "date": 1358735667466
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4d29cfd686001c46",
+        "text": "Click this action to recall the remote page."
+      },
+      "id": "4d29cfd686001c46",
+      "type": "add",
+      "after": "8e54df3dfe39c78f",
+      "date": 1358735667972
+    },
+    {
+      "type": "edit",
+      "id": "4d29cfd686001c46",
+      "item": {
+        "type": "paragraph",
+        "id": "4d29cfd686001c46",
+        "text": "You can click the fork action in your journal to recall the remote page at any time."
+      },
+      "date": 1358735698375
+    },
+    {
+      "type": "edit",
+      "id": "c088ffd5f2c40ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "c088ffd5f2c40ecf",
+        "text": "Check that you are ready to write then click the fork button [ ⚑ ] to copy a remote page. Nothing will happen if it is already your page. "
+      },
+      "date": 1358735763484
+    },
+    {
+      "type": "edit",
+      "id": "c088ffd5f2c40ecf",
+      "item": {
+        "type": "paragraph",
+        "id": "c088ffd5f2c40ecf",
+        "text": "Check that you are ready to write. Then click the fork button [ ⚑ ] to copy a remote page. Nothing will happen if it is already your page. "
+      },
+      "date": 1358735783451
+    },
+    {
+      "type": "edit",
+      "id": "c591cc221d0f6ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "c591cc221d0f6ff5",
+        "text": "You can copy pages from remote sites into your own wiki with a click of one button. The page becomes yours and will include attribution of the source."
+      },
+      "date": 1358736327069
+    },
+    {
+      "type": "edit",
+      "id": "c591cc221d0f6ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "c591cc221d0f6ff5",
+        "text": "You can copy pages from remote sites into your own wiki with a click of one button. The page becomes yours with attribution as expected."
+      },
+      "date": 1358736418651
+    },
+    {
+      "type": "edit",
+      "id": "c591cc221d0f6ff5",
+      "item": {
+        "type": "paragraph",
+        "id": "c591cc221d0f6ff5",
+        "text": "You can copy pages from remote sites into your own with a click of one button. The page becomes yours with attribution as expected."
+      },
+      "date": 1358736433442
+    },
+    {
+      "type": "edit",
+      "id": "f05cfc8635c3c2cc",
+      "item": {
+        "type": "html",
+        "id": "f05cfc8635c3c2cc",
+        "text": "<h3> Click to Copy"
+      },
+      "date": 1418272511382
+    },
+    {
+      "type": "edit",
+      "id": "b9a9063b106d38df",
+      "item": {
+        "type": "html",
+        "id": "b9a9063b106d38df",
+        "text": "<h3> Ready to Write?"
+      },
+      "date": 1418272516221
+    },
+    {
+      "type": "edit",
+      "id": "bfa7fa3bead96bad",
+      "item": {
+        "type": "html",
+        "id": "bfa7fa3bead96bad",
+        "text": "Recall by <b>Reference</b>. Click the flag of a Reference plugin to start browsing a remote site without leaving your site."
+      },
+      "date": 1418272522089
+    },
+    {
+      "type": "edit",
+      "id": "b14ed90746e3a877",
+      "item": {
+        "type": "html",
+        "id": "b14ed90746e3a877",
+        "text": "Recall by <b>Search</b>. If the remote site is in your neighborhood, you can search for the page and then navigate through the search results."
+      },
+      "date": 1418272523673
+    },
+    {
+      "type": "edit",
+      "id": "9a108148ab2cbd0e",
+      "item": {
+        "type": "html",
+        "id": "9a108148ab2cbd0e",
+        "text": "<h3> Need to Connect?"
+      },
+      "date": 1418272525168
+    },
+    {
+      "type": "edit",
+      "id": "dccaace3ffc7c106",
+      "item": {
+        "type": "html",
+        "id": "dccaace3ffc7c106",
+        "text": "Recall by <b>Location</b>. You can type the location of the remote page at the end of the existing location in your browser's location bar.<pre>        ... /{domain}/{page-slug}</pre>"
+      },
+      "date": 1418272528830
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101401113
+    }
+  ]
+}

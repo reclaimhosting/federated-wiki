@@ -1,0 +1,205 @@
+{
+  "title": "Track Changes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bc6062c979411a6c",
+      "text": "You can always edit. Your edits will be stored in the browser or on the origin server if you've logged in."
+    },
+    {
+      "type": "html",
+      "id": "c462c1fd205d5e18",
+      "text": "<h3> Local Changes"
+    },
+    {
+      "type": "paragraph",
+      "id": "e54e7eebeb208f2c",
+      "text": "Here we list changes you have made and have stored in your browser. See [[Local Editing]]."
+    },
+    {
+      "id": "ca824b55462eff23",
+      "type": "changes"
+    },
+    {
+      "type": "html",
+      "id": "6d484e5a6305ab89",
+      "text": "<h3> Federation Changes"
+    },
+    {
+      "type": "paragraph",
+      "id": "6d95268b23bb84b2",
+      "text": "Here we list changes you and/or others have made within your neighborhood. See [[More About Activity Plugin]]."
+    },
+    {
+      "type": "activity",
+      "id": "c43a88598cb67997"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Track Changes"
+      },
+      "date": 1354085196511
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bc6062c979411a6c"
+      },
+      "id": "bc6062c979411a6c",
+      "type": "add",
+      "date": 1354085252423
+    },
+    {
+      "type": "edit",
+      "id": "bc6062c979411a6c",
+      "item": {
+        "type": "paragraph",
+        "id": "bc6062c979411a6c",
+        "text": "You can always edit. Your edits will be stored in the browser or on the origin server if you've logged in."
+      },
+      "date": 1354085368993
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c462c1fd205d5e18",
+        "text": ""
+      },
+      "id": "c462c1fd205d5e18",
+      "type": "add",
+      "after": "bc6062c979411a6c",
+      "date": 1354085369500
+    },
+    {
+      "type": "edit",
+      "id": "c462c1fd205d5e18",
+      "item": {
+        "type": "paragraph",
+        "id": "c462c1fd205d5e18",
+        "text": "<h3> Local Changes"
+      },
+      "date": 1354085396704
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d484e5a6305ab89",
+        "text": ""
+      },
+      "id": "6d484e5a6305ab89",
+      "type": "add",
+      "after": "c462c1fd205d5e18",
+      "date": 1354085397208
+    },
+    {
+      "type": "edit",
+      "id": "6d484e5a6305ab89",
+      "item": {
+        "type": "paragraph",
+        "id": "6d484e5a6305ab89",
+        "text": "<h3> Federation Changes"
+      },
+      "date": 1354085411079
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "ca824b55462eff23",
+        "type": "changes"
+      },
+      "after": "c462c1fd205d5e18",
+      "id": "ca824b55462eff23",
+      "date": 1354085482792
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "c43a88598cb67997"
+      },
+      "after": "6d484e5a6305ab89",
+      "id": "c43a88598cb67997",
+      "date": 1354085538595
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e54e7eebeb208f2c",
+        "text": ""
+      },
+      "id": "e54e7eebeb208f2c",
+      "type": "add",
+      "after": "c462c1fd205d5e18",
+      "date": 1354085629442
+    },
+    {
+      "type": "edit",
+      "id": "e54e7eebeb208f2c",
+      "item": {
+        "type": "paragraph",
+        "id": "e54e7eebeb208f2c",
+        "text": "Here we list changes you have made and have stored in your browser. See [[Local Editing]]."
+      },
+      "date": 1354085665727
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6d95268b23bb84b2",
+        "text": ""
+      },
+      "id": "6d95268b23bb84b2",
+      "type": "add",
+      "after": "6d484e5a6305ab89",
+      "date": 1354085672399
+    },
+    {
+      "type": "edit",
+      "id": "6d95268b23bb84b2",
+      "item": {
+        "type": "paragraph",
+        "id": "6d95268b23bb84b2",
+        "text": "Here we list changes you and/or others have made within your neighborhood. See [[About Activity Plugin]]."
+      },
+      "date": 1354085779820
+    },
+    {
+      "type": "edit",
+      "id": "6d95268b23bb84b2",
+      "item": {
+        "type": "paragraph",
+        "id": "6d95268b23bb84b2",
+        "text": "Here we list changes you and/or others have made within your neighborhood. See [[More About Activity Plugin]]."
+      },
+      "date": 1354085857987
+    },
+    {
+      "type": "edit",
+      "id": "c462c1fd205d5e18",
+      "item": {
+        "type": "html",
+        "id": "c462c1fd205d5e18",
+        "text": "<h3> Local Changes"
+      },
+      "date": 1418315336859
+    },
+    {
+      "type": "edit",
+      "id": "6d484e5a6305ab89",
+      "item": {
+        "type": "html",
+        "id": "6d484e5a6305ab89",
+        "text": "<h3> Federation Changes"
+      },
+      "date": 1418315338671
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101515349
+    }
+  ]
+}

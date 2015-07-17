@@ -1,0 +1,1030 @@
+{
+  "title": "Track Updates",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c813bcb0e53b4048",
+      "text": "Each Federated Wiki server can be configured differently. This site, fed.wiki.org, provides experimental software supporting the ongoing wiki development. Depending on circumstances it may be ahead or behind the code on github or released by other means."
+    },
+    {
+      "type": "html",
+      "id": "1d19694907d03cef",
+      "text": "<h3> April"
+    },
+    {
+      "type": "paragraph",
+      "id": "4c855d3a8239360e",
+      "text": "We notice that Google promises to stop providing OpenId for their accounts. If you've claimed a site through Google and have invested substantial effort into that site you can contact me to have the site unclaimed so that you can reclaim it with another provider such as Yahoo."
+    },
+    {
+      "type": "html",
+      "id": "ceb70b9463c87fe7",
+      "text": "<h3> 2014"
+    },
+    {
+      "type": "html",
+      "id": "9f4d3ba1d5914da8",
+      "text": "<h3> December"
+    },
+    {
+      "type": "paragraph",
+      "id": "5af8c8895603d476",
+      "text": "We no longer use html in ordinary paragraphs. Where html has been used, an author can convert a paragraph to type html by shift-double-clicking it."
+    },
+    {
+      "type": "paragraph",
+      "id": "dbc29282e5ca0e1e",
+      "text": "We've revised the editor to record only actions of substance in the journal. This improves behavior over slow internet connections and makes revision histories easer to follow."
+    },
+    {
+      "type": "html",
+      "id": "89136ab11a3431d2",
+      "text": "<h3> August"
+    },
+    {
+      "type": "paragraph",
+      "id": "048d816c6a2820c2",
+      "text": "We now detect server errors while editing and save the changed page to browser local storage instead. A yellow border will appear. A login timeout or network interruption are likely causes. The browser stored page can be 'forked' back to the server when the problem is corrected."
+    },
+    {
+      "type": "html",
+      "id": "ee804dd2f3b63229",
+      "text": "<h3> July"
+    },
+    {
+      "type": "paragraph",
+      "id": "8edc6fdee3279390",
+      "text": "One can now embed videos from YouTube or Vimeo by dragging to a factory. Drag the location item (not the tab) for either player. Or drag youtube/vimeo video thumbnails from the google search result pages. [https://github.com/fedwiki/wiki-client/pull/48 github]"
+    },
+    {
+      "type": "html",
+      "id": "4fc90c9b0e20ad66",
+      "text": "<h3> May"
+    },
+    {
+      "type": "paragraph",
+      "id": "881ec6a62d67c42f",
+      "text": "It is no longer possible to claim new sites with the google shortcut (G). Old claims will work for a while. Yahoo (Y) continues to work. If someone wants to transition their claim from Google, email me for assistance. [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/415 github]"
+    },
+    {
+      "type": "html",
+      "id": "6140a8fdb0ecf50f",
+      "text": "<h3> April"
+    },
+    {
+      "type": "paragraph",
+      "id": "6312157cbedf1aeb",
+      "text": "We now interpret the background as a drop zone for pages from other federated sites. Rather than create a reference, this drop just adds the remote page to those pages already in the tab. Browse, drag or fork from here."
+    },
+    {
+      "type": "html",
+      "id": "8d74eada3b4d1915",
+      "text": "<h3> February"
+    },
+    {
+      "type": "paragraph",
+      "id": "f113e21f6e9bd4ce",
+      "text": "We've revised the way story items drag and drop. A dotted outline shows where a drop will place the item. Narrow items will move to fill available space after dropped."
+    },
+    {
+      "type": "paragraph",
+      "id": "b2ea892598fb0a9d",
+      "text": "We've revised how drag moves Method plugins that have SHOW in effect. This corrects a bug unique to methods. We still find that drag and drop can be confused. Sometimes refreshing the page clears this confusion."
+    },
+    {
+      "type": "html",
+      "id": "f1b761dc759fb114",
+      "text": "<h3> January"
+    },
+    {
+      "type": "paragraph",
+      "id": "3b8b042fc16bd4cc",
+      "text": "We've updated [[About Method Plugin]] documentation and moved the source to a new repository. [http://github.com/FedWiki/wiki-plugin-method github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "441624fabc40a3c3",
+      "text": "We've added units calculation and formula evaluation to the Method plugin. Parenthesized strings in labels are check for unit consistency. Terms in formulas refer to labeled values in the same Method."
+    },
+    {
+      "type": "method",
+      "id": "fe39b34074aeda5d",
+      "text": "16.45 Pay Rate (dollar / hour)\n40 Regular Work (hour)\n12 Overtime Work (hour)\nCALC Rate * ( Regular + 1.5 * Overtime )"
+    },
+    {
+      "type": "html",
+      "id": "cffc501faaf5aaf4",
+      "text": "<h3> 2013"
+    },
+    {
+      "type": "html",
+      "id": "b0b33b364002a674",
+      "text": "<h3> December"
+    },
+    {
+      "type": "paragraph",
+      "id": "6016245e5ff71218",
+      "text": "We show the total number of pages found in sitemaps so far (the size of the search neighborhood) in a readout next to the search box. "
+    },
+    {
+      "type": "paragraph",
+      "id": "759379a6d205bc7a",
+      "text": "We now report how many pages were found when we update the sitemaps in the neighborhood. Hover when a flag stops spinning to see this number."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Track Updates",
+        "story": []
+      },
+      "date": 1385946768975
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c813bcb0e53b4048"
+      },
+      "id": "c813bcb0e53b4048",
+      "type": "add",
+      "date": 1385946770842
+    },
+    {
+      "type": "edit",
+      "id": "c813bcb0e53b4048",
+      "item": {
+        "type": "paragraph",
+        "id": "c813bcb0e53b4048",
+        "text": "Each Federated Wiki server can be configured differently. This site, fed.wiki.org, provides experimental software supporting the ongoing development. Depending on circumstances it may be ahead or behind the code on github or released by other means."
+      },
+      "date": 1385946924322
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0b33b364002a674"
+      },
+      "id": "b0b33b364002a674",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1385946948730
+    },
+    {
+      "type": "edit",
+      "id": "b0b33b364002a674",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b33b364002a674",
+        "text": "We now report how many pages were found when we update the sitemaps in the neighborhood. Hover when a flag stops spinning to see this number."
+      },
+      "date": 1385947097693
+    },
+    {
+      "type": "edit",
+      "id": "b0b33b364002a674",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b33b364002a674",
+        "text": "<h3> Recent Updates"
+      },
+      "date": 1385947129925
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "759379a6d205bc7a",
+        "text": "We now report how many pages were found when we update the sitemaps in the neighborhood. Hover when a flag stops spinning to see this number."
+      },
+      "id": "759379a6d205bc7a",
+      "type": "add",
+      "after": "b0b33b364002a674",
+      "date": 1385947130431
+    },
+    {
+      "type": "edit",
+      "id": "c813bcb0e53b4048",
+      "item": {
+        "type": "paragraph",
+        "id": "c813bcb0e53b4048",
+        "text": "Each Federated Wiki server can be configured differently. This site, fed.wiki.org, provides experimental software supporting the ongoing wiki development. Depending on circumstances it may be ahead or behind the code on github or released by other means."
+      },
+      "date": 1385947827896
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fc28a31868cea4b8",
+        "text": ""
+      },
+      "id": "fc28a31868cea4b8",
+      "type": "add",
+      "after": "b0b33b364002a674",
+      "date": 1385948371927
+    },
+    {
+      "type": "edit",
+      "id": "fc28a31868cea4b8",
+      "item": {
+        "type": "paragraph",
+        "id": "fc28a31868cea4b8",
+        "text": "December"
+      },
+      "date": 1385948375610
+    },
+    {
+      "type": "remove",
+      "id": "fc28a31868cea4b8",
+      "date": 1385948442849
+    },
+    {
+      "type": "edit",
+      "id": "b0b33b364002a674",
+      "item": {
+        "type": "paragraph",
+        "id": "b0b33b364002a674",
+        "text": "<h3> December"
+      },
+      "date": 1385948446703
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6016245e5ff71218",
+        "text": ""
+      },
+      "id": "6016245e5ff71218",
+      "type": "add",
+      "after": "b0b33b364002a674",
+      "date": 1387163824127
+    },
+    {
+      "type": "edit",
+      "id": "6016245e5ff71218",
+      "item": {
+        "type": "paragraph",
+        "id": "6016245e5ff71218",
+        "text": "We show the total number of pages found in sitemaps (the size of the search neighborhood) in a readout next to the search box. "
+      },
+      "date": 1387163912195
+    },
+    {
+      "type": "edit",
+      "id": "6016245e5ff71218",
+      "item": {
+        "type": "paragraph",
+        "id": "6016245e5ff71218",
+        "text": "We show the total number of pages found in sitemaps so far (the size of the search neighborhood) in a readout next to the search box. "
+      },
+      "date": 1387163936787
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f1b761dc759fb114",
+        "text": ""
+      },
+      "id": "f1b761dc759fb114",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1388875980640
+    },
+    {
+      "type": "edit",
+      "id": "f1b761dc759fb114",
+      "item": {
+        "type": "paragraph",
+        "id": "f1b761dc759fb114",
+        "text": "<h3> January"
+      },
+      "date": 1388876005353
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "441624fabc40a3c3",
+        "text": ""
+      },
+      "id": "441624fabc40a3c3",
+      "type": "add",
+      "after": "f1b761dc759fb114",
+      "date": 1388876005861
+    },
+    {
+      "type": "edit",
+      "id": "441624fabc40a3c3",
+      "item": {
+        "type": "paragraph",
+        "id": "441624fabc40a3c3",
+        "text": "We've added units calculation and formula evaluation to the Method plugin. Parenthesized strings in labels are check for unit consistency. "
+      },
+      "date": 1388876166793
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe39b34074aeda5d"
+      },
+      "id": "fe39b34074aeda5d",
+      "type": "add",
+      "after": "759379a6d205bc7a",
+      "date": 1388876174411
+    },
+    {
+      "type": "edit",
+      "id": "fe39b34074aeda5d",
+      "item": {
+        "type": "method",
+        "id": "fe39b34074aeda5d",
+        "text": "16.45 Rate (dollar / hour)\n40 Regular (hour)\n12 Overtime (hour)\nCALC Rate * ( Regular + 1.5 * Overtime )"
+      },
+      "date": 1388876179625
+    },
+    {
+      "type": "move",
+      "order": [
+        "c813bcb0e53b4048",
+        "f1b761dc759fb114",
+        "441624fabc40a3c3",
+        "fe39b34074aeda5d",
+        "b0b33b364002a674",
+        "6016245e5ff71218",
+        "759379a6d205bc7a"
+      ],
+      "id": "fe39b34074aeda5d",
+      "date": 1388876184152
+    },
+    {
+      "type": "edit",
+      "id": "441624fabc40a3c3",
+      "item": {
+        "type": "paragraph",
+        "id": "441624fabc40a3c3",
+        "text": "We've added units calculation and formula evaluation to the Method plugin. Parenthesized strings in labels are check for unit consistency. Terms in formulas refer to labeled values in the same Method."
+      },
+      "date": 1388876276038
+    },
+    {
+      "type": "edit",
+      "id": "fe39b34074aeda5d",
+      "item": {
+        "type": "method",
+        "id": "fe39b34074aeda5d",
+        "text": "16.45 Pay Rate (dollar / hour)\n40 Regular Work (hour)\n12 Overtime Work (hour)\nCALC Rate * ( Regular + 1.5 * Overtime )"
+      },
+      "date": 1388876314864
+    },
+    {
+      "type": "edit",
+      "id": "fe39b34074aeda5d",
+      "item": {
+        "type": "method",
+        "id": "fe39b34074aeda5d",
+        "text": "16.45 Pay Rate (dollar / hour)\n40 Regular Work (hour)\n12 Overtime Work (hour)\nCALC Pay * ( Regular + 1.5 * Overtime )"
+      },
+      "date": 1388876339471
+    },
+    {
+      "type": "edit",
+      "id": "fe39b34074aeda5d",
+      "item": {
+        "type": "method",
+        "id": "fe39b34074aeda5d",
+        "text": "16.45 Pay Rate (dollar / hour)\n40 Regular Work (hour)\n12 Overtime Work (hour)\nCALC Rate * ( Regular + 1.5 * Overtime )"
+      },
+      "date": 1388876348639
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3b8b042fc16bd4cc",
+        "text": ""
+      },
+      "id": "3b8b042fc16bd4cc",
+      "type": "add",
+      "after": "f1b761dc759fb114",
+      "date": 1389494764486
+    },
+    {
+      "type": "edit",
+      "id": "3b8b042fc16bd4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "3b8b042fc16bd4cc",
+        "text": "We've updated the documentation for Method plugin and moved the definitive copy to a new repository. [http://github.com/FedWiki/wiki-plugin-method github]"
+      },
+      "date": 1389494841749
+    },
+    {
+      "type": "edit",
+      "id": "3b8b042fc16bd4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "3b8b042fc16bd4cc",
+        "text": "We've updated the documentation for Method plugin and moved the source to a new repository. [http://github.com/FedWiki/wiki-plugin-method github]"
+      },
+      "date": 1389494872755
+    },
+    {
+      "type": "edit",
+      "id": "3b8b042fc16bd4cc",
+      "item": {
+        "type": "paragraph",
+        "id": "3b8b042fc16bd4cc",
+        "text": "We've updated [[About Method Plugin]] documentation and moved the source to a new repository. [http://github.com/FedWiki/wiki-plugin-method github]"
+      },
+      "date": 1389495021668
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8d74eada3b4d1915",
+        "text": ""
+      },
+      "id": "8d74eada3b4d1915",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1391934008811
+    },
+    {
+      "type": "edit",
+      "id": "8d74eada3b4d1915",
+      "item": {
+        "type": "paragraph",
+        "id": "8d74eada3b4d1915",
+        "text": "<h3> February"
+      },
+      "date": 1391934020831
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f113e21f6e9bd4ce",
+        "text": ""
+      },
+      "id": "f113e21f6e9bd4ce",
+      "type": "add",
+      "after": "8d74eada3b4d1915",
+      "date": 1391934021337
+    },
+    {
+      "type": "edit",
+      "id": "f113e21f6e9bd4ce",
+      "item": {
+        "type": "paragraph",
+        "id": "f113e21f6e9bd4ce",
+        "text": "We've revised the way story items drag and drop. A dotted outline shows where a drop will place the item. Narrow items will move to fill available space after dropped."
+      },
+      "date": 1391934201060
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b2ea892598fb0a9d",
+        "text": ""
+      },
+      "id": "b2ea892598fb0a9d",
+      "type": "add",
+      "after": "f113e21f6e9bd4ce",
+      "date": 1391934201567
+    },
+    {
+      "type": "edit",
+      "id": "b2ea892598fb0a9d",
+      "item": {
+        "type": "paragraph",
+        "id": "b2ea892598fb0a9d",
+        "text": "We've revised how drag moves Method plugins that have SHOW in effect. This corrects a bug unique to methods. We still find that drag and drop can be confused. Sometimes refreshing the page clears this confusion."
+      },
+      "date": 1391934337150
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6140a8fdb0ecf50f",
+        "text": ""
+      },
+      "id": "6140a8fdb0ecf50f",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1397455432956
+    },
+    {
+      "type": "edit",
+      "id": "6140a8fdb0ecf50f",
+      "item": {
+        "type": "paragraph",
+        "id": "6140a8fdb0ecf50f",
+        "text": "<h3> April"
+      },
+      "date": 1397455442288
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6312157cbedf1aeb",
+        "text": ""
+      },
+      "id": "6312157cbedf1aeb",
+      "type": "add",
+      "after": "6140a8fdb0ecf50f",
+      "date": 1397455442795
+    },
+    {
+      "type": "edit",
+      "id": "6312157cbedf1aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "6312157cbedf1aeb",
+        "text": "We now interpret the background as a drop zone for pages from other federated sites. Rather than a reference, this drop just adds the remote page to those pages already in the tab."
+      },
+      "date": 1397455608122
+    },
+    {
+      "type": "edit",
+      "id": "6312157cbedf1aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "6312157cbedf1aeb",
+        "text": "We now interpret the background as a drop zone for pages from other federated sites. Rather than create a reference, this drop just adds the remote page to those pages already in the tab."
+      },
+      "date": 1397455645280
+    },
+    {
+      "type": "edit",
+      "id": "6312157cbedf1aeb",
+      "item": {
+        "type": "paragraph",
+        "id": "6312157cbedf1aeb",
+        "text": "We now interpret the background as a drop zone for pages from other federated sites. Rather than create a reference, this drop just adds the remote page to those pages already in the tab. Browse, drag or fork from here."
+      },
+      "date": 1397455670471
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4fc90c9b0e20ad66",
+        "text": ""
+      },
+      "id": "4fc90c9b0e20ad66",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1404679370316
+    },
+    {
+      "type": "edit",
+      "id": "4fc90c9b0e20ad66",
+      "item": {
+        "type": "paragraph",
+        "id": "4fc90c9b0e20ad66",
+        "text": "<h3> May"
+      },
+      "date": 1404679377057
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "881ec6a62d67c42f",
+        "text": ""
+      },
+      "id": "881ec6a62d67c42f",
+      "type": "add",
+      "after": "4fc90c9b0e20ad66",
+      "date": 1404679377067
+    },
+    {
+      "type": "edit",
+      "id": "881ec6a62d67c42f",
+      "item": {
+        "type": "paragraph",
+        "id": "881ec6a62d67c42f",
+        "text": "It is no longer possible to claim new sites with the google shortcut (G). Old claims will work for a while. Yahoo (Y) continues to work. If someone wants to transition their claim from Google, email me for assistance. ward@c2.com."
+      },
+      "date": 1404679492221
+    },
+    {
+      "type": "edit",
+      "id": "881ec6a62d67c42f",
+      "item": {
+        "type": "paragraph",
+        "id": "881ec6a62d67c42f",
+        "text": "It is no longer possible to claim new sites with the google shortcut (G). Old claims will work for a while. Yahoo (Y) continues to work. If someone wants to transition their claim from Google, email me for assistance."
+      },
+      "date": 1404679500669
+    },
+    {
+      "type": "edit",
+      "id": "881ec6a62d67c42f",
+      "item": {
+        "type": "paragraph",
+        "id": "881ec6a62d67c42f",
+        "text": "It is no longer possible to claim new sites with the google shortcut (G). Old claims will work for a while. Yahoo (Y) continues to work. If someone wants to transition their claim from Google, email me for assistance. [https://github.com/WardCunningham/Smallest-Federated-Wiki/issues/415 github]"
+      },
+      "date": 1404679515780
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "334df7bf144006d9",
+        "text": ""
+      },
+      "id": "334df7bf144006d9",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1404679551157
+    },
+    {
+      "type": "remove",
+      "id": "334df7bf144006d9",
+      "date": 1404679556712
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ee804dd2f3b63229"
+      },
+      "id": "ee804dd2f3b63229",
+      "type": "add",
+      "after": "759379a6d205bc7a",
+      "date": 1404679561345
+    },
+    {
+      "type": "move",
+      "order": [
+        "c813bcb0e53b4048",
+        "ee804dd2f3b63229",
+        "4fc90c9b0e20ad66",
+        "881ec6a62d67c42f",
+        "6140a8fdb0ecf50f",
+        "6312157cbedf1aeb",
+        "8d74eada3b4d1915",
+        "f113e21f6e9bd4ce",
+        "b2ea892598fb0a9d",
+        "f1b761dc759fb114",
+        "3b8b042fc16bd4cc",
+        "441624fabc40a3c3",
+        "fe39b34074aeda5d",
+        "b0b33b364002a674",
+        "6016245e5ff71218",
+        "759379a6d205bc7a"
+      ],
+      "id": "ee804dd2f3b63229",
+      "date": 1404679578684
+    },
+    {
+      "type": "edit",
+      "id": "ee804dd2f3b63229",
+      "item": {
+        "type": "paragraph",
+        "id": "ee804dd2f3b63229",
+        "text": "<h3> July"
+      },
+      "date": 1404679594979
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8edc6fdee3279390",
+        "text": ""
+      },
+      "id": "8edc6fdee3279390",
+      "type": "add",
+      "after": "ee804dd2f3b63229",
+      "date": 1404679594990
+    },
+    {
+      "type": "edit",
+      "id": "8edc6fdee3279390",
+      "item": {
+        "type": "paragraph",
+        "id": "8edc6fdee3279390",
+        "text": "One can now embed videos from YouTube or Vimeo by dragging "
+      },
+      "date": 1404679648307
+    },
+    {
+      "type": "edit",
+      "id": "8edc6fdee3279390",
+      "item": {
+        "type": "paragraph",
+        "id": "8edc6fdee3279390",
+        "text": "One can now embed videos from YouTube or Vimeo by dragging to a factory. Drag the location item (not the tab) for either player. Or drag youtube/vimeo video thumbnails from the google search result pages."
+      },
+      "date": 1404679728183
+    },
+    {
+      "type": "edit",
+      "id": "8edc6fdee3279390",
+      "item": {
+        "type": "paragraph",
+        "id": "8edc6fdee3279390",
+        "text": "One can now embed videos from YouTube or Vimeo by dragging to a factory. Drag the location item (not the tab) for either player. Or drag youtube/vimeo video thumbnails from the google search result pages. [https://github.com/fedwiki/wiki-client/pull/48 github]"
+      },
+      "date": 1404679784044
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "89136ab11a3431d2",
+        "text": ""
+      },
+      "id": "89136ab11a3431d2",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1407001170007
+    },
+    {
+      "type": "edit",
+      "id": "89136ab11a3431d2",
+      "item": {
+        "type": "paragraph",
+        "id": "89136ab11a3431d2",
+        "text": "<h3> August"
+      },
+      "date": 1407001179330
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "048d816c6a2820c2",
+        "text": ""
+      },
+      "id": "048d816c6a2820c2",
+      "type": "add",
+      "after": "89136ab11a3431d2",
+      "date": 1407001179342
+    },
+    {
+      "type": "edit",
+      "id": "048d816c6a2820c2",
+      "item": {
+        "type": "paragraph",
+        "id": "048d816c6a2820c2",
+        "text": "We now detect server errors while editing and save the changed page to browser local storage instead. A yellow border will appear. A login timeout or network interruption are likely causes. The browser stored page can be 'forked' back to the server when the problem is corrected."
+      },
+      "date": 1407001643144
+    },
+    {
+      "type": "edit",
+      "id": "89136ab11a3431d2",
+      "item": {
+        "type": "html",
+        "id": "89136ab11a3431d2",
+        "text": "<h3> August"
+      },
+      "date": 1418314715250
+    },
+    {
+      "type": "edit",
+      "id": "ee804dd2f3b63229",
+      "item": {
+        "type": "html",
+        "id": "ee804dd2f3b63229",
+        "text": "<h3> July"
+      },
+      "date": 1418314717037
+    },
+    {
+      "type": "edit",
+      "id": "4fc90c9b0e20ad66",
+      "item": {
+        "type": "html",
+        "id": "4fc90c9b0e20ad66",
+        "text": "<h3> May"
+      },
+      "date": 1418314718715
+    },
+    {
+      "type": "edit",
+      "id": "6140a8fdb0ecf50f",
+      "item": {
+        "type": "html",
+        "id": "6140a8fdb0ecf50f",
+        "text": "<h3> April"
+      },
+      "date": 1418314721657
+    },
+    {
+      "type": "edit",
+      "id": "8d74eada3b4d1915",
+      "item": {
+        "type": "html",
+        "id": "8d74eada3b4d1915",
+        "text": "<h3> February"
+      },
+      "date": 1418314723577
+    },
+    {
+      "type": "edit",
+      "id": "f1b761dc759fb114",
+      "item": {
+        "type": "html",
+        "id": "f1b761dc759fb114",
+        "text": "<h3> January"
+      },
+      "date": 1418314726382
+    },
+    {
+      "type": "edit",
+      "id": "b0b33b364002a674",
+      "item": {
+        "type": "html",
+        "id": "b0b33b364002a674",
+        "text": "<h3> December"
+      },
+      "date": 1418314729586
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9f4d3ba1d5914da8",
+        "text": ""
+      },
+      "id": "9f4d3ba1d5914da8",
+      "type": "add",
+      "after": "c813bcb0e53b4048",
+      "date": 1418314744363
+    },
+    {
+      "type": "edit",
+      "id": "9f4d3ba1d5914da8",
+      "item": {
+        "type": "paragraph",
+        "id": "9f4d3ba1d5914da8",
+        "text": "<h3> December"
+      },
+      "date": 1418314752889
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5af8c8895603d476",
+        "text": ""
+      },
+      "id": "5af8c8895603d476",
+      "type": "add",
+      "after": "9f4d3ba1d5914da8",
+      "date": 1418314752897
+    },
+    {
+      "type": "edit",
+      "id": "5af8c8895603d476",
+      "item": {
+        "type": "paragraph",
+        "id": "5af8c8895603d476",
+        "text": "We no longer use html in ordinary paragraphs. Where html has been used, an author can convert a paragraph to type html by shift-double-clicking it. "
+      },
+      "date": 1418314972582
+    },
+    {
+      "type": "edit",
+      "id": "9f4d3ba1d5914da8",
+      "item": {
+        "type": "html",
+        "id": "9f4d3ba1d5914da8",
+        "text": "<h3> December"
+      },
+      "date": 1418314977664
+    },
+    {
+      "type": "edit",
+      "id": "5af8c8895603d476",
+      "item": {
+        "type": "paragraph",
+        "id": "5af8c8895603d476",
+        "text": "We no longer use html in ordinary paragraphs. Where html has been used, an author can convert a paragraph to type html by shift-double-clicking it."
+      },
+      "date": 1420380296664
+    },
+    {
+      "type": "add",
+      "id": "dbc29282e5ca0e1e",
+      "item": {
+        "type": "paragraph",
+        "id": "dbc29282e5ca0e1e",
+        "text": "We've revised the editor to record only actions of substance in the journal. This improves behavior over slow internet connections and makes revision histories easer to follow."
+      },
+      "after": "5af8c8895603d476",
+      "date": 1420380673803
+    },
+    {
+      "type": "add",
+      "id": "ceb70b9463c87fe7",
+      "item": {
+        "type": "paragraph",
+        "id": "ceb70b9463c87fe7",
+        "text": "<h3> 2014"
+      },
+      "after": "c813bcb0e53b4048",
+      "date": 1429459093608
+    },
+    {
+      "type": "edit",
+      "id": "ceb70b9463c87fe7",
+      "item": {
+        "type": "html",
+        "id": "ceb70b9463c87fe7",
+        "text": "<h3> 2014"
+      },
+      "date": 1429459097208
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cffc501faaf5aaf4"
+      },
+      "id": "cffc501faaf5aaf4",
+      "type": "add",
+      "after": "759379a6d205bc7a",
+      "date": 1429459104508
+    },
+    {
+      "type": "edit",
+      "id": "cffc501faaf5aaf4",
+      "item": {
+        "type": "paragraph",
+        "id": "cffc501faaf5aaf4",
+        "text": "<h3> 2013"
+      },
+      "date": 1429459116328
+    },
+    {
+      "type": "edit",
+      "id": "cffc501faaf5aaf4",
+      "item": {
+        "type": "html",
+        "id": "cffc501faaf5aaf4",
+        "text": "<h3> 2013"
+      },
+      "date": 1429459119090
+    },
+    {
+      "type": "move",
+      "order": [
+        "c813bcb0e53b4048",
+        "ceb70b9463c87fe7",
+        "9f4d3ba1d5914da8",
+        "5af8c8895603d476",
+        "dbc29282e5ca0e1e",
+        "89136ab11a3431d2",
+        "048d816c6a2820c2",
+        "ee804dd2f3b63229",
+        "8edc6fdee3279390",
+        "4fc90c9b0e20ad66",
+        "881ec6a62d67c42f",
+        "6140a8fdb0ecf50f",
+        "6312157cbedf1aeb",
+        "8d74eada3b4d1915",
+        "f113e21f6e9bd4ce",
+        "b2ea892598fb0a9d",
+        "f1b761dc759fb114",
+        "3b8b042fc16bd4cc",
+        "441624fabc40a3c3",
+        "fe39b34074aeda5d",
+        "cffc501faaf5aaf4",
+        "b0b33b364002a674",
+        "6016245e5ff71218",
+        "759379a6d205bc7a"
+      ],
+      "id": "cffc501faaf5aaf4",
+      "date": 1429459122262
+    },
+    {
+      "type": "add",
+      "id": "1d19694907d03cef",
+      "item": {
+        "type": "paragraph",
+        "id": "1d19694907d03cef",
+        "text": "<h3> April"
+      },
+      "after": "c813bcb0e53b4048",
+      "date": 1429459144689
+    },
+    {
+      "type": "add",
+      "id": "4c855d3a8239360e",
+      "item": {
+        "type": "paragraph",
+        "id": "4c855d3a8239360e",
+        "text": "We notice that Google promises to stop providing OpenId for their accounts. If you've claimed a site through Google and have invested substantial effort into that site you can contact me to have the site unclaimed so that you can reclaim it with another provider such as Yahoo."
+      },
+      "after": "1d19694907d03cef",
+      "date": 1429459321809
+    },
+    {
+      "type": "edit",
+      "id": "1d19694907d03cef",
+      "item": {
+        "type": "html",
+        "id": "1d19694907d03cef",
+        "text": "<h3> April"
+      },
+      "date": 1429459326945
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101971630
+    }
+  ]
+}

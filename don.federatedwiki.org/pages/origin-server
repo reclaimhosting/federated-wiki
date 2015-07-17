@@ -4,12 +4,7 @@
     {
       "type": "paragraph",
       "id": "014a48b53d8e7e09",
-      "text": "The server that delivers the client-side javascript that starts you browsing the federated wiki is called the Origin Server. It's special. "
-    },
-    {
-      "type": "paragraph",
-      "id": "560451b26f631758",
-      "text": "A browser can expect javascript to communicate with the Origin Server. However, browser vendors are skeptical of javascript that tries to communicate with other (remote) servers. There are many security and privacy implications. Federated Wiki employs several mechanisms to appear respectable to modern browsers."
+      "text": "The server that delivers the client-side javascript that starts you browsing the federated wiki is called the Origin Server. It's special. -- A browser can expect javascript to communicate with the Origin Server. However, browser vendors are skeptical of javascript that tries to communicate with other (remote) servers. There are many security and privacy implications. Federated Wiki employs several mechanisms to appear respectable to modern browsers."
     },
     {
       "type": "html",
@@ -191,6 +186,31 @@
         "text": "<b>JSONP</b><br>is a convention used with ajax requests where the requested content is bundled as a script. Strangely running remote javascript is considered safe while reading inert JSON from a non-origin server is not. We don't use JSONP because the origin server cannot know what remote servers a user might visit."
       },
       "date": 1437100770440
+    },
+    {
+      "type": "edit",
+      "id": "014a48b53d8e7e09",
+      "item": {
+        "type": "paragraph",
+        "id": "014a48b53d8e7e09",
+        "text": "The server that delivers the client-side javascript that starts you browsing the federated wiki is called the Origin Server. It's special. -- "
+      },
+      "date": 1437100811607
+    },
+    {
+      "type": "remove",
+      "id": "560451b26f631758",
+      "date": 1437100814531
+    },
+    {
+      "type": "edit",
+      "id": "014a48b53d8e7e09",
+      "item": {
+        "type": "paragraph",
+        "id": "014a48b53d8e7e09",
+        "text": "The server that delivers the client-side javascript that starts you browsing the federated wiki is called the Origin Server. It's special. -- A browser can expect javascript to communicate with the Origin Server. However, browser vendors are skeptical of javascript that tries to communicate with other (remote) servers. There are many security and privacy implications. Federated Wiki employs several mechanisms to appear respectable to modern browsers."
+      },
+      "date": 1437100818177
     }
   ]
 }

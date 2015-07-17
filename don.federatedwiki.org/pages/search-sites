@@ -1,0 +1,1004 @@
+{
+  "title": "Search Sites",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "4b67d7bb23cd9195",
+      "text": "Search looks at the title and first paragraph of all pages in your [[Neighborhood]]. As you browse the federation more sites are added to your neighborhood so search can find more pages."
+    },
+    {
+      "type": "html",
+      "id": "7d7208b081c3cda8",
+      "text": "<h3> How it Works"
+    },
+    {
+      "type": "paragraph",
+      "id": "ed3c9af262e7e37a",
+      "text": "Search looks for the exact sequence of characters you type without regard for word boundaries."
+    },
+    {
+      "type": "paragraph",
+      "id": "15c46d5f7e63ac20",
+      "text": "Search ignores the case of titles and text. You can type your search in either case."
+    },
+    {
+      "type": "paragraph",
+      "id": "13ed63c7d3cc56fe",
+      "text": "Search reports the number of pages examined and the number of sites upon which they were found."
+    },
+    {
+      "type": "html",
+      "id": "39ccee20bd6a095c",
+      "text": "<h3> How to Use it"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd1c471f7797f58c",
+      "text": "Search reports pages it finds as references."
+    },
+    {
+      "type": "paragraph",
+      "id": "3f1dc19b9231b4e7",
+      "text": "Enter search terms exactly as you expect them to appear on a page."
+    },
+    {
+      "type": "paragraph",
+      "id": "691bb5eeb75dd017",
+      "text": "Enter an empty search to find every page in your neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "26b0631d49e213c1",
+      "text": "Click the link of a reference to see the nearest page by the reference title."
+    },
+    {
+      "type": "paragraph",
+      "id": "0bbec5b9f5dcbe9d",
+      "text": "Click the flag of a reference to see the page on the specific site identified by the reference."
+    },
+    {
+      "type": "paragraph",
+      "id": "6c01f428ceb87c7f",
+      "text": "Drag a reference from a search result to pages of your own to save it."
+    },
+    {
+      "type": "paragraph",
+      "id": "3d570763a72a92ce",
+      "text": "Use the browser's back button to discard a search result."
+    },
+    {
+      "type": "paragraph",
+      "id": "74374702eb9894ec",
+      "text": "Search for 'sites' to find nearby lists of sites to add to your search neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "e0928056156011cf",
+      "text": "Read the [[List of Lists of Sites]] to find sites by topic areas. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d05d6a2b753899c0",
+      "text": "Visit the [[Site About Sites]] for a larger list of sites."
+    },
+    {
+      "type": "html",
+      "id": "c071139be0f0cb5d",
+      "text": "<h3> How to Write for it."
+    },
+    {
+      "type": "paragraph",
+      "id": "97923561fe14ded9",
+      "text": "Write pages about specific things. Name pages with specific terms that make the things clear even out of context. "
+    },
+    {
+      "type": "paragraph",
+      "id": "274547b0716b37f4",
+      "text": "Write a synopsis as the first paragraph of a page."
+    },
+    {
+      "type": "paragraph",
+      "id": "14f3169768bc2757",
+      "text": "Write a synopsis that is ten to twenty words. Choose words that are likely to be search terms."
+    },
+    {
+      "type": "paragraph",
+      "id": "b5ce0a14a62b6aab",
+      "text": "Write a synopsis that explains the value of a page. This paragraph should defend the title without duplicating it."
+    },
+    {
+      "type": "paragraph",
+      "id": "dd0a13b2b286c86e",
+      "text": "Collect references to pages you find by dragging references from the search result pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "1fefe0c1864483a2",
+      "text": "Collect references organized by categories that are often searched together."
+    },
+    {
+      "type": "paragraph",
+      "id": "a96eaf5c9e689be4",
+      "text": "Collect references on pages carefully named by titles that include the search term 'sites'."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Search Sites"
+      },
+      "date": 1347261783569
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4b67d7bb23cd9195"
+      },
+      "id": "4b67d7bb23cd9195",
+      "type": "add",
+      "date": 1347261785748
+    },
+    {
+      "type": "edit",
+      "id": "4b67d7bb23cd9195",
+      "item": {
+        "type": "paragraph",
+        "id": "4b67d7bb23cd9195",
+        "text": "Search looks at the title and first paragraph of all pages in your [[Neighborhood]]. As you browse the federation more sites are added to your neighborhood so search can find more pages."
+      },
+      "date": 1347262144757
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed3c9af262e7e37a"
+      },
+      "id": "ed3c9af262e7e37a",
+      "type": "add",
+      "after": "4b67d7bb23cd9195",
+      "date": 1347262168157
+    },
+    {
+      "type": "edit",
+      "id": "ed3c9af262e7e37a",
+      "item": {
+        "type": "paragraph",
+        "id": "ed3c9af262e7e37a",
+        "text": "Search looks for the exact sequence of characters you type without regard for word boundaries."
+      },
+      "date": 1347262278172
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "15c46d5f7e63ac20",
+        "text": ""
+      },
+      "id": "15c46d5f7e63ac20",
+      "type": "add",
+      "after": "ed3c9af262e7e37a",
+      "date": 1347262278681
+    },
+    {
+      "type": "edit",
+      "id": "15c46d5f7e63ac20",
+      "item": {
+        "type": "paragraph",
+        "id": "15c46d5f7e63ac20",
+        "text": "Search ignores the case of titles and text. You can type your search in either case."
+      },
+      "date": 1347262376832
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "13ed63c7d3cc56fe",
+        "text": ""
+      },
+      "id": "13ed63c7d3cc56fe",
+      "type": "add",
+      "after": "15c46d5f7e63ac20",
+      "date": 1347262377338
+    },
+    {
+      "type": "edit",
+      "id": "13ed63c7d3cc56fe",
+      "item": {
+        "type": "paragraph",
+        "id": "13ed63c7d3cc56fe",
+        "text": "Search reports the number of pages examined and the number of sites upon which they were found."
+      },
+      "date": 1347262434734
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd1c471f7797f58c",
+        "text": ""
+      },
+      "id": "dd1c471f7797f58c",
+      "type": "add",
+      "after": "13ed63c7d3cc56fe",
+      "date": 1347262435240
+    },
+    {
+      "type": "edit",
+      "id": "dd1c471f7797f58c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1c471f7797f58c",
+        "text": "Search reports pages as references. See [[About Reference Plugin]]."
+      },
+      "date": 1347262468157
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "9cd5384f7d4adf1d",
+        "text": ""
+      },
+      "id": "9cd5384f7d4adf1d",
+      "type": "add",
+      "after": "dd1c471f7797f58c",
+      "date": 1347262468663
+    },
+    {
+      "type": "remove",
+      "id": "9cd5384f7d4adf1d",
+      "date": 1347262471266
+    },
+    {
+      "type": "edit",
+      "id": "dd1c471f7797f58c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1c471f7797f58c",
+        "text": "Search reports pages as references. See [[About Reference Plugin]] for details."
+      },
+      "date": 1347262478749
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6c01f428ceb87c7f",
+        "text": ""
+      },
+      "id": "6c01f428ceb87c7f",
+      "type": "add",
+      "after": "dd1c471f7797f58c",
+      "date": 1347262479254
+    },
+    {
+      "type": "edit",
+      "id": "6c01f428ceb87c7f",
+      "item": {
+        "type": "paragraph",
+        "id": "6c01f428ceb87c7f",
+        "text": "You can drag references from a search result to pages of your own."
+      },
+      "date": 1347262580138
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a27a3e44aaf00c5f",
+        "text": ""
+      },
+      "id": "a27a3e44aaf00c5f",
+      "type": "add",
+      "after": "6c01f428ceb87c7f",
+      "date": 1347262580645
+    },
+    {
+      "type": "remove",
+      "id": "a27a3e44aaf00c5f",
+      "date": 1347262591255
+    },
+    {
+      "type": "edit",
+      "id": "dd1c471f7797f58c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1c471f7797f58c",
+        "text": "Search reports pages as references."
+      },
+      "date": 1347262806285
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "26b0631d49e213c1",
+        "text": "See [[About Reference Plugin]] for details."
+      },
+      "id": "26b0631d49e213c1",
+      "type": "add",
+      "after": "dd1c471f7797f58c",
+      "date": 1347262806792
+    },
+    {
+      "type": "edit",
+      "id": "26b0631d49e213c1",
+      "item": {
+        "type": "paragraph",
+        "id": "26b0631d49e213c1",
+        "text": "Click the link of a reference to see the nearest page by the reference title."
+      },
+      "date": 1347262939880
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0bbec5b9f5dcbe9d",
+        "text": ""
+      },
+      "id": "0bbec5b9f5dcbe9d",
+      "type": "add",
+      "after": "26b0631d49e213c1",
+      "date": 1347262940389
+    },
+    {
+      "type": "edit",
+      "id": "0bbec5b9f5dcbe9d",
+      "item": {
+        "type": "paragraph",
+        "id": "0bbec5b9f5dcbe9d",
+        "text": "Click the flag of a reference to see the page on the specific site identified by the reference."
+      },
+      "date": 1347263033125
+    },
+    {
+      "type": "edit",
+      "id": "6c01f428ceb87c7f",
+      "item": {
+        "type": "paragraph",
+        "id": "6c01f428ceb87c7f",
+        "text": "Drag a reference from a search result to pages of your own to save it."
+      },
+      "date": 1347263070155
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3d570763a72a92ce",
+        "text": ""
+      },
+      "id": "3d570763a72a92ce",
+      "type": "add",
+      "after": "6c01f428ceb87c7f",
+      "date": 1347263070661
+    },
+    {
+      "type": "edit",
+      "id": "3d570763a72a92ce",
+      "item": {
+        "type": "paragraph",
+        "id": "3d570763a72a92ce",
+        "text": "Use the browser's back button to discard a search result."
+      },
+      "date": 1347263087595
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7d7208b081c3cda8",
+        "text": ""
+      },
+      "id": "7d7208b081c3cda8",
+      "type": "add",
+      "after": "3d570763a72a92ce",
+      "date": 1347263088100
+    },
+    {
+      "type": "edit",
+      "id": "7d7208b081c3cda8",
+      "item": {
+        "type": "paragraph",
+        "id": "7d7208b081c3cda8",
+        "text": "<h3> How it Works"
+      },
+      "date": 1347263108242
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "39ccee20bd6a095c",
+        "text": ""
+      },
+      "id": "39ccee20bd6a095c",
+      "type": "add",
+      "after": "7d7208b081c3cda8",
+      "date": 1347263108747
+    },
+    {
+      "type": "edit",
+      "id": "39ccee20bd6a095c",
+      "item": {
+        "type": "paragraph",
+        "id": "39ccee20bd6a095c",
+        "text": "<h3> How to Use It"
+      },
+      "date": 1347263125530
+    },
+    {
+      "type": "edit",
+      "id": "7d7208b081c3cda8",
+      "item": {
+        "type": "paragraph",
+        "id": "7d7208b081c3cda8",
+        "text": "<h3> How It Works"
+      },
+      "date": 1347263131546
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b67d7bb23cd9195",
+        "7d7208b081c3cda8",
+        "ed3c9af262e7e37a",
+        "15c46d5f7e63ac20",
+        "13ed63c7d3cc56fe",
+        "dd1c471f7797f58c",
+        "26b0631d49e213c1",
+        "0bbec5b9f5dcbe9d",
+        "6c01f428ceb87c7f",
+        "3d570763a72a92ce",
+        "39ccee20bd6a095c"
+      ],
+      "id": "7d7208b081c3cda8",
+      "date": 1347263137242
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b67d7bb23cd9195",
+        "7d7208b081c3cda8",
+        "ed3c9af262e7e37a",
+        "15c46d5f7e63ac20",
+        "13ed63c7d3cc56fe",
+        "dd1c471f7797f58c",
+        "39ccee20bd6a095c",
+        "26b0631d49e213c1",
+        "0bbec5b9f5dcbe9d",
+        "6c01f428ceb87c7f",
+        "3d570763a72a92ce"
+      ],
+      "id": "39ccee20bd6a095c",
+      "date": 1347263143169
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b67d7bb23cd9195",
+        "7d7208b081c3cda8",
+        "ed3c9af262e7e37a",
+        "15c46d5f7e63ac20",
+        "13ed63c7d3cc56fe",
+        "39ccee20bd6a095c",
+        "dd1c471f7797f58c",
+        "26b0631d49e213c1",
+        "0bbec5b9f5dcbe9d",
+        "6c01f428ceb87c7f",
+        "3d570763a72a92ce"
+      ],
+      "id": "dd1c471f7797f58c",
+      "date": 1347263174910
+    },
+    {
+      "type": "edit",
+      "id": "dd1c471f7797f58c",
+      "item": {
+        "type": "paragraph",
+        "id": "dd1c471f7797f58c",
+        "text": "Search reports pages it finds as references."
+      },
+      "date": 1347263193569
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c071139be0f0cb5d"
+      },
+      "id": "c071139be0f0cb5d",
+      "type": "add",
+      "after": "3d570763a72a92ce",
+      "date": 1347263227150
+    },
+    {
+      "type": "edit",
+      "id": "c071139be0f0cb5d",
+      "item": {
+        "type": "paragraph",
+        "id": "c071139be0f0cb5d",
+        "text": "<h3> How to Write for it."
+      },
+      "date": 1347263240127
+    },
+    {
+      "type": "edit",
+      "id": "39ccee20bd6a095c",
+      "item": {
+        "type": "paragraph",
+        "id": "39ccee20bd6a095c",
+        "text": "<h3> How to Use it"
+      },
+      "date": 1347263245982
+    },
+    {
+      "type": "edit",
+      "id": "7d7208b081c3cda8",
+      "item": {
+        "type": "paragraph",
+        "id": "7d7208b081c3cda8",
+        "text": "<h3> How it Works"
+      },
+      "date": 1347263251493
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "97923561fe14ded9",
+        "text": ""
+      },
+      "id": "97923561fe14ded9",
+      "type": "add",
+      "after": "c071139be0f0cb5d",
+      "date": 1347263269806
+    },
+    {
+      "type": "edit",
+      "id": "97923561fe14ded9",
+      "item": {
+        "type": "paragraph",
+        "id": "97923561fe14ded9",
+        "text": "Write pages about specific things. Name pages with specific terms that make the things clear even out of context. "
+      },
+      "date": 1347263357555
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "274547b0716b37f4",
+        "text": ""
+      },
+      "id": "274547b0716b37f4",
+      "type": "add",
+      "after": "97923561fe14ded9",
+      "date": 1347263358061
+    },
+    {
+      "type": "edit",
+      "id": "274547b0716b37f4",
+      "item": {
+        "type": "paragraph",
+        "id": "274547b0716b37f4",
+        "text": "Write a paragraph that explains the value of a page. This paragraph should defend the title, without duplicating it."
+      },
+      "date": 1347263446210
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "14f3169768bc2757",
+        "text": ""
+      },
+      "id": "14f3169768bc2757",
+      "type": "add",
+      "after": "274547b0716b37f4",
+      "date": 1347263446716
+    },
+    {
+      "type": "edit",
+      "id": "14f3169768bc2757",
+      "item": {
+        "type": "paragraph",
+        "id": "14f3169768bc2757",
+        "text": "Write a synopsis that is ten to twenty words. Choose words that are likely to be search terms."
+      },
+      "date": 1347263561693
+    },
+    {
+      "type": "edit",
+      "id": "274547b0716b37f4",
+      "item": {
+        "type": "paragraph",
+        "id": "274547b0716b37f4",
+        "text": "Write a synopsis as the first paragraph of a page."
+      },
+      "date": 1347263597222
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5ce0a14a62b6aab",
+        "text": "that explains the value of a page. This paragraph should defend the title, without duplicating it."
+      },
+      "id": "b5ce0a14a62b6aab",
+      "type": "add",
+      "after": "274547b0716b37f4",
+      "date": 1347263597728
+    },
+    {
+      "type": "edit",
+      "id": "b5ce0a14a62b6aab",
+      "item": {
+        "type": "paragraph",
+        "id": "b5ce0a14a62b6aab",
+        "text": "Write a synopsis that explains the value of a page. This paragraph should defend the title, without duplicating it."
+      },
+      "date": 1347263609755
+    },
+    {
+      "type": "remove",
+      "id": "14f3169768bc2757",
+      "date": 1347263684936
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5bf8d3617c63b867",
+        "text": ""
+      },
+      "id": "5bf8d3617c63b867",
+      "type": "add",
+      "after": "b5ce0a14a62b6aab",
+      "date": 1347263689946
+    },
+    {
+      "type": "remove",
+      "id": "5bf8d3617c63b867",
+      "date": 1347263750982
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "14f3169768bc2757",
+        "text": "Write a synopsis that is ten to twenty words. Choose words that are likely to be search terms."
+      },
+      "after": "b5ce0a14a62b6aab",
+      "id": "14f3169768bc2757",
+      "date": 1347263771207
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b67d7bb23cd9195",
+        "7d7208b081c3cda8",
+        "ed3c9af262e7e37a",
+        "15c46d5f7e63ac20",
+        "13ed63c7d3cc56fe",
+        "39ccee20bd6a095c",
+        "dd1c471f7797f58c",
+        "26b0631d49e213c1",
+        "0bbec5b9f5dcbe9d",
+        "6c01f428ceb87c7f",
+        "3d570763a72a92ce",
+        "c071139be0f0cb5d",
+        "97923561fe14ded9",
+        "274547b0716b37f4",
+        "14f3169768bc2757",
+        "b5ce0a14a62b6aab"
+      ],
+      "id": "14f3169768bc2757",
+      "date": 1347263779622
+    },
+    {
+      "type": "edit",
+      "id": "b5ce0a14a62b6aab",
+      "item": {
+        "type": "paragraph",
+        "id": "b5ce0a14a62b6aab",
+        "text": "Write a synopsis that explains the value of a page. This paragraph should defend the title without duplicating it."
+      },
+      "date": 1347263798470
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd0a13b2b286c86e",
+        "text": ""
+      },
+      "id": "dd0a13b2b286c86e",
+      "type": "add",
+      "after": "b5ce0a14a62b6aab",
+      "date": 1347264006433
+    },
+    {
+      "type": "edit",
+      "id": "dd0a13b2b286c86e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd0a13b2b286c86e",
+        "text": "Collect references to pages you find by dragging references from the search results page."
+      },
+      "date": 1347264091039
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2088b181310efd02",
+        "text": ""
+      },
+      "id": "2088b181310efd02",
+      "type": "add",
+      "after": "dd0a13b2b286c86e",
+      "date": 1347264091545
+    },
+    {
+      "type": "remove",
+      "id": "2088b181310efd02",
+      "date": 1347264114349
+    },
+    {
+      "type": "edit",
+      "id": "dd0a13b2b286c86e",
+      "item": {
+        "type": "paragraph",
+        "id": "dd0a13b2b286c86e",
+        "text": "Collect references to pages you find by dragging references from the search result pages."
+      },
+      "date": 1347264121029
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1fefe0c1864483a2",
+        "text": ""
+      },
+      "id": "1fefe0c1864483a2",
+      "type": "add",
+      "after": "dd0a13b2b286c86e",
+      "date": 1347264124485
+    },
+    {
+      "type": "edit",
+      "id": "1fefe0c1864483a2",
+      "item": {
+        "type": "paragraph",
+        "id": "1fefe0c1864483a2",
+        "text": "Collect references organized by categories that are often searched together."
+      },
+      "date": 1347264267603
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a96eaf5c9e689be4",
+        "text": ""
+      },
+      "id": "a96eaf5c9e689be4",
+      "type": "add",
+      "after": "1fefe0c1864483a2",
+      "date": 1347264268109
+    },
+    {
+      "type": "edit",
+      "id": "a96eaf5c9e689be4",
+      "item": {
+        "type": "paragraph",
+        "id": "a96eaf5c9e689be4",
+        "text": "Collect references on pages carefully named by titles that include the search term 'sites'."
+      },
+      "date": 1347264379798
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74374702eb9894ec",
+        "text": ""
+      },
+      "id": "74374702eb9894ec",
+      "type": "add",
+      "after": "3d570763a72a92ce",
+      "date": 1347264406699
+    },
+    {
+      "type": "edit",
+      "id": "74374702eb9894ec",
+      "item": {
+        "type": "paragraph",
+        "id": "74374702eb9894ec",
+        "text": "Search for 'sites' to find lists of sites to add to your search neighborhood."
+      },
+      "date": 1347264448771
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "691bb5eeb75dd017",
+        "text": ""
+      },
+      "id": "691bb5eeb75dd017",
+      "type": "add",
+      "after": "13ed63c7d3cc56fe",
+      "date": 1347264476803
+    },
+    {
+      "type": "edit",
+      "id": "691bb5eeb75dd017",
+      "item": {
+        "type": "paragraph",
+        "id": "691bb5eeb75dd017",
+        "text": "Search will report every page it examines when one enters an empty search."
+      },
+      "date": 1347264568240
+    },
+    {
+      "type": "move",
+      "order": [
+        "4b67d7bb23cd9195",
+        "7d7208b081c3cda8",
+        "ed3c9af262e7e37a",
+        "15c46d5f7e63ac20",
+        "13ed63c7d3cc56fe",
+        "39ccee20bd6a095c",
+        "dd1c471f7797f58c",
+        "691bb5eeb75dd017",
+        "26b0631d49e213c1",
+        "0bbec5b9f5dcbe9d",
+        "6c01f428ceb87c7f",
+        "3d570763a72a92ce",
+        "74374702eb9894ec",
+        "c071139be0f0cb5d",
+        "97923561fe14ded9",
+        "274547b0716b37f4",
+        "14f3169768bc2757",
+        "b5ce0a14a62b6aab",
+        "dd0a13b2b286c86e",
+        "1fefe0c1864483a2",
+        "a96eaf5c9e689be4"
+      ],
+      "id": "691bb5eeb75dd017",
+      "date": 1347264593449
+    },
+    {
+      "type": "edit",
+      "id": "691bb5eeb75dd017",
+      "item": {
+        "type": "paragraph",
+        "id": "691bb5eeb75dd017",
+        "text": "Search reports every page examined when one enters an empty search."
+      },
+      "date": 1347264629918
+    },
+    {
+      "type": "edit",
+      "id": "691bb5eeb75dd017",
+      "item": {
+        "type": "paragraph",
+        "id": "691bb5eeb75dd017",
+        "text": "Enter an empty search to find every page in your neighborhood."
+      },
+      "date": 1347264730706
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3f1dc19b9231b4e7",
+        "text": ""
+      },
+      "id": "3f1dc19b9231b4e7",
+      "type": "add",
+      "after": "dd1c471f7797f58c",
+      "date": 1347264749641
+    },
+    {
+      "type": "edit",
+      "id": "3f1dc19b9231b4e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1dc19b9231b4e7",
+        "text": "Enter search terms exactly as you expect to find them."
+      },
+      "date": 1347264789656
+    },
+    {
+      "type": "edit",
+      "id": "3f1dc19b9231b4e7",
+      "item": {
+        "type": "paragraph",
+        "id": "3f1dc19b9231b4e7",
+        "text": "Enter search terms exactly as you expect them to appear on a page."
+      },
+      "date": 1347264824153
+    },
+    {
+      "type": "edit",
+      "id": "74374702eb9894ec",
+      "item": {
+        "type": "paragraph",
+        "id": "74374702eb9894ec",
+        "text": "Search for 'sites' to find nearby lists of sites to add to your search neighborhood."
+      },
+      "date": 1347266032094
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e0928056156011cf",
+        "text": ""
+      },
+      "id": "e0928056156011cf",
+      "type": "add",
+      "after": "74374702eb9894ec",
+      "date": 1347266032599
+    },
+    {
+      "type": "edit",
+      "id": "e0928056156011cf",
+      "item": {
+        "type": "paragraph",
+        "id": "e0928056156011cf",
+        "text": "Read the [[List of Lists of Sites]] to find sites by topic areas. "
+      },
+      "date": 1347266098147
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d05d6a2b753899c0",
+        "text": ""
+      },
+      "id": "d05d6a2b753899c0",
+      "type": "add",
+      "after": "e0928056156011cf",
+      "date": 1391529607746
+    },
+    {
+      "type": "edit",
+      "id": "d05d6a2b753899c0",
+      "item": {
+        "type": "paragraph",
+        "id": "d05d6a2b753899c0",
+        "text": "Visit the [[Site About Sites]] where we add pages for sites we find."
+      },
+      "date": 1391529678175
+    },
+    {
+      "type": "edit",
+      "id": "d05d6a2b753899c0",
+      "item": {
+        "type": "paragraph",
+        "id": "d05d6a2b753899c0",
+        "text": "Visit the [[Site About Sites]] for a larger list of sites."
+      },
+      "date": 1391529735890
+    },
+    {
+      "type": "edit",
+      "id": "7d7208b081c3cda8",
+      "item": {
+        "type": "html",
+        "id": "7d7208b081c3cda8",
+        "text": "<h3> How it Works"
+      },
+      "date": 1418315167542
+    },
+    {
+      "type": "edit",
+      "id": "39ccee20bd6a095c",
+      "item": {
+        "type": "html",
+        "id": "39ccee20bd6a095c",
+        "text": "<h3> How to Use it"
+      },
+      "date": 1418315170333
+    },
+    {
+      "type": "edit",
+      "id": "c071139be0f0cb5d",
+      "item": {
+        "type": "html",
+        "id": "c071139be0f0cb5d",
+        "text": "<h3> How to Write for it."
+      },
+      "date": 1418315176247
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437100879482
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Read History",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5cd3e12f6ccd4e1e",
+      "text": "The gray squares at the bottom of a page is in an area called the [[Journal]]. Click a square to see other versions of the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "89881e0e0061a56b",
+      "text": "Some servers offer a summary of changed pages called [[Recent Changes]]. Use this to find updated pages and then read their journals to see what is new."
+    },
+    {
+      "type": "paragraph",
+      "id": "ae0503d5e9a47148",
+      "text": "Some servers publish a log of pages being served to any user. Read [[About Logwatch Plugin]] to learn about this service."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "0f6ee3ed91912d34",
+      "item": {
+        "title": "Read History"
+      },
+      "date": 1344615213117
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5cd3e12f6ccd4e1e"
+      },
+      "id": "5cd3e12f6ccd4e1e",
+      "type": "add",
+      "date": 1344615215866
+    },
+    {
+      "type": "edit",
+      "id": "5cd3e12f6ccd4e1e",
+      "item": {
+        "type": "paragraph",
+        "id": "5cd3e12f6ccd4e1e",
+        "text": "The gray squares at the bottom of a page is called the Journal. Click a square to see other versions of the page."
+      },
+      "date": 1344615303354
+    },
+    {
+      "type": "edit",
+      "id": "5cd3e12f6ccd4e1e",
+      "item": {
+        "type": "paragraph",
+        "id": "5cd3e12f6ccd4e1e",
+        "text": "The gray squares at the bottom of a page is in an area called the Journal. Click a square to see other versions of the page."
+      },
+      "date": 1344617639697
+    },
+    {
+      "type": "edit",
+      "id": "5cd3e12f6ccd4e1e",
+      "item": {
+        "type": "paragraph",
+        "id": "5cd3e12f6ccd4e1e",
+        "text": "The gray squares at the bottom of a page is in an area called the [[Journal]]. Click a square to see other versions of the page."
+      },
+      "date": 1344617679792
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "89881e0e0061a56b",
+        "text": ""
+      },
+      "id": "89881e0e0061a56b",
+      "type": "add",
+      "after": "5cd3e12f6ccd4e1e",
+      "date": 1348455536718
+    },
+    {
+      "type": "edit",
+      "id": "89881e0e0061a56b",
+      "item": {
+        "type": "paragraph",
+        "id": "89881e0e0061a56b",
+        "text": "Some servers offer a summary of changed pages called [[Recent Changes]]. Use this to find updated pages and then read their journals to see what is new."
+      },
+      "date": 1348455667817
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae0503d5e9a47148"
+      },
+      "id": "ae0503d5e9a47148",
+      "type": "add",
+      "after": "89881e0e0061a56b",
+      "date": 1348456367212
+    },
+    {
+      "type": "edit",
+      "id": "ae0503d5e9a47148",
+      "item": {
+        "type": "paragraph",
+        "id": "ae0503d5e9a47148",
+        "text": "Some servers publish a log of pages being served to any user. "
+      },
+      "date": 1348456437469
+    },
+    {
+      "type": "edit",
+      "id": "ae0503d5e9a47148",
+      "item": {
+        "type": "paragraph",
+        "id": "ae0503d5e9a47148",
+        "text": "Some servers publish a log of pages being served to any user. Read [[About Logwatch Plugin]] to learn about this service."
+      },
+      "date": 1348456497947
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101289111
+    }
+  ]
+}

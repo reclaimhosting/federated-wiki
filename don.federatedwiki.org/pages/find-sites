@@ -1,0 +1,323 @@
+{
+  "title": "Find Sites",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "718061a47c686880",
+      "text": "When you find a federated wiki site you can browse from there to even more sites. A page from a site becomes yours when you copy it (a fork) leaving a trail back to the source and its neighbors."
+    },
+    {
+      "type": "paragraph",
+      "id": "e58d6c1229eb204f",
+      "text": "When you [[Search Sites]] in your neighborhood you will find pages that can be viewed and then copied (forked) into your own site."
+    },
+    {
+      "type": "paragraph",
+      "id": "10b8a0b78b4a20ef",
+      "text": "You can expand your neighborhood with pages about sites that you may want to visit and add to your neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "8247a8e61f8689c9",
+      "text": "[[sites.fed.wiki.org]] is a site about sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "a6f7bb160707bb94",
+      "text": "Visiting one of these sites about sites only expands your neighborhood with pages about sites, not the sites themselves."
+    },
+    {
+      "type": "paragraph",
+      "id": "dbbf14d118bb8012",
+      "text": "You can expand your neighborhood by viewing pages with lists of References to other sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "3e7775007dc1742e",
+      "text": "[[List of Lists of Sites]] is a page about sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "b1ff156fa5a14b05",
+      "text": "These sorts of pages are easy to make and a fast way to bring colleagues into your neighborhood."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Find Sites",
+        "story": []
+      },
+      "date": 1386651386466
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "718061a47c686880"
+      },
+      "id": "718061a47c686880",
+      "type": "add",
+      "date": 1386651388429
+    },
+    {
+      "type": "edit",
+      "id": "718061a47c686880",
+      "item": {
+        "type": "paragraph",
+        "id": "718061a47c686880",
+        "text": "When you find a federated wiki site you can browse from there to even more sites. A page from a site becomes yours when you copy it (a fork) leaving a trail back to the source and its neighbors."
+      },
+      "date": 1386651684349
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e58d6c1229eb204f",
+        "text": ""
+      },
+      "id": "e58d6c1229eb204f",
+      "type": "add",
+      "after": "718061a47c686880",
+      "date": 1386651684858
+    },
+    {
+      "type": "edit",
+      "id": "e58d6c1229eb204f",
+      "item": {
+        "type": "paragraph",
+        "id": "e58d6c1229eb204f",
+        "text": "When you [[Search Sites]] in your neighborhood you will find pages that can be viewed and then copied (forked) into your own site."
+      },
+      "date": 1386652038665
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dbbf14d118bb8012",
+        "text": ""
+      },
+      "id": "dbbf14d118bb8012",
+      "type": "add",
+      "after": "e58d6c1229eb204f",
+      "date": 1386652039171
+    },
+    {
+      "type": "edit",
+      "id": "dbbf14d118bb8012",
+      "item": {
+        "type": "paragraph",
+        "id": "dbbf14d118bb8012",
+        "text": "You can expand your neighborhood by visiting more sites with more pages."
+      },
+      "date": 1386652077984
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10b8a0b78b4a20ef",
+        "text": ""
+      },
+      "id": "10b8a0b78b4a20ef",
+      "type": "add",
+      "after": "dbbf14d118bb8012",
+      "date": 1386652078490
+    },
+    {
+      "type": "edit",
+      "id": "10b8a0b78b4a20ef",
+      "item": {
+        "type": "paragraph",
+        "id": "10b8a0b78b4a20ef",
+        "text": "You can expand your neighborhood with pages about sites that you may want to add to your neighborhood. "
+      },
+      "date": 1386652139855
+    },
+    {
+      "type": "edit",
+      "id": "dbbf14d118bb8012",
+      "item": {
+        "type": "paragraph",
+        "id": "dbbf14d118bb8012",
+        "text": "You can expand your neighborhood by visiting sites with more pages you might want to find."
+      },
+      "date": 1386652208097
+    },
+    {
+      "type": "edit",
+      "id": "10b8a0b78b4a20ef",
+      "item": {
+        "type": "paragraph",
+        "id": "10b8a0b78b4a20ef",
+        "text": "You can expand your neighborhood with pages about sites that you may want to visit and add to your neighborhood. Visiting one of these sites about sites only expands your neighborhood with pages about sites, not the sites themselves."
+      },
+      "date": 1386652313450
+    },
+    {
+      "type": "edit",
+      "id": "10b8a0b78b4a20ef",
+      "item": {
+        "type": "paragraph",
+        "id": "10b8a0b78b4a20ef",
+        "text": "You can expand your neighborhood with pages about sites that you may want to visit and add to your neighborhood."
+      },
+      "date": 1386652323948
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a6f7bb160707bb94",
+        "text": "Visiting one of these sites about sites only expands your neighborhood with pages about sites, not the sites themselves."
+      },
+      "id": "a6f7bb160707bb94",
+      "type": "add",
+      "after": "10b8a0b78b4a20ef",
+      "date": 1386652324457
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3e7775007dc1742e",
+        "text": ""
+      },
+      "id": "3e7775007dc1742e",
+      "type": "add",
+      "after": "dbbf14d118bb8012",
+      "date": 1386652381519
+    },
+    {
+      "type": "edit",
+      "id": "3e7775007dc1742e",
+      "item": {
+        "type": "paragraph",
+        "id": "3e7775007dc1742e",
+        "text": "[[List of Lists of Sites]] collects pages about sites."
+      },
+      "date": 1386652470403
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8247a8e61f8689c9",
+        "text": ""
+      },
+      "id": "8247a8e61f8689c9",
+      "type": "add",
+      "after": "10b8a0b78b4a20ef",
+      "date": 1386652485124
+    },
+    {
+      "type": "edit",
+      "id": "8247a8e61f8689c9",
+      "item": {
+        "type": "paragraph",
+        "id": "8247a8e61f8689c9",
+        "text": "[[sites.fed.wiki.org]] is a site about sites."
+      },
+      "date": 1386652546802
+    },
+    {
+      "type": "edit",
+      "id": "3e7775007dc1742e",
+      "item": {
+        "type": "paragraph",
+        "id": "3e7775007dc1742e",
+        "text": "[[List of Lists of Sites]] is a page about sites."
+      },
+      "date": 1386652557577
+    },
+    {
+      "type": "move",
+      "order": [
+        "718061a47c686880",
+        "e58d6c1229eb204f",
+        "8247a8e61f8689c9",
+        "dbbf14d118bb8012",
+        "3e7775007dc1742e",
+        "10b8a0b78b4a20ef",
+        "a6f7bb160707bb94"
+      ],
+      "id": "8247a8e61f8689c9",
+      "date": 1417029208841
+    },
+    {
+      "type": "move",
+      "order": [
+        "718061a47c686880",
+        "e58d6c1229eb204f",
+        "10b8a0b78b4a20ef",
+        "8247a8e61f8689c9",
+        "dbbf14d118bb8012",
+        "3e7775007dc1742e",
+        "a6f7bb160707bb94"
+      ],
+      "id": "10b8a0b78b4a20ef",
+      "date": 1417029232343
+    },
+    {
+      "type": "move",
+      "order": [
+        "718061a47c686880",
+        "e58d6c1229eb204f",
+        "10b8a0b78b4a20ef",
+        "8247a8e61f8689c9",
+        "a6f7bb160707bb94",
+        "dbbf14d118bb8012",
+        "3e7775007dc1742e"
+      ],
+      "id": "a6f7bb160707bb94",
+      "date": 1417029320070
+    },
+    {
+      "type": "edit",
+      "id": "dbbf14d118bb8012",
+      "item": {
+        "type": "paragraph",
+        "id": "dbbf14d118bb8012",
+        "text": "You can expand your neighborhood by viewing pages with lists of References to other sites. These sorts of pages are easy to make and a fast way to bring colleagues into your neighborhood."
+      },
+      "date": 1417029479854
+    },
+    {
+      "type": "edit",
+      "id": "dbbf14d118bb8012",
+      "item": {
+        "type": "paragraph",
+        "id": "dbbf14d118bb8012",
+        "text": "You can expand your neighborhood by viewing pages with lists of References to other sites."
+      },
+      "date": 1417029492519
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b1ff156fa5a14b05",
+        "text": "These sorts of pages are easy to make and a fast way to bring colleagues into your neighborhood."
+      },
+      "id": "b1ff156fa5a14b05",
+      "type": "add",
+      "after": "dbbf14d118bb8012",
+      "date": 1417029492529
+    },
+    {
+      "type": "move",
+      "order": [
+        "718061a47c686880",
+        "e58d6c1229eb204f",
+        "10b8a0b78b4a20ef",
+        "8247a8e61f8689c9",
+        "a6f7bb160707bb94",
+        "dbbf14d118bb8012",
+        "3e7775007dc1742e",
+        "b1ff156fa5a14b05"
+      ],
+      "id": "3e7775007dc1742e",
+      "date": 1417029495276
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101294942
+    }
+  ]
+}

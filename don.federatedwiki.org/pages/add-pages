@@ -1,0 +1,330 @@
+{
+  "title": "Add Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8905e6034092f823",
+      "text": "This wiki will create new pages on demand. Create a link to a new page, click that link, presto: new page."
+    },
+    {
+      "type": "paragraph",
+      "id": "ecaf75662021efae",
+      "text": "Think about where one would expect to find a link to the new page. Go to that page and [[Add Text]]. In that page add an internal link to the new page. An internal link is the page name enclosed in double-square brackets."
+    },
+    {
+      "type": "html",
+      "id": "36a43109331a326c",
+      "text": "When you click the new link you will see the new page. You are almost done. Click the <i>create</i> button to make the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "469769b7197b1e6b",
+      "text": "You can drag content to your new blank page. Or you can create new content by clicking the [+] button."
+    },
+    {
+      "type": "html",
+      "id": "07f9a4537be19851",
+      "text": "<h3> Templates"
+    },
+    {
+      "type": "html",
+      "id": "53dabbd121103a6e",
+      "text": "You may see several <i>create</i> buttons, some offering to create a page from a template. Follow their links to preview the templates. Then click the <i>create</i> that suites your needs."
+    },
+    {
+      "type": "paragraph",
+      "id": "b5a15602899f1f7a",
+      "text": "You can create new templates by choosing page names that end with the word \"template\". The new template will be available when you reload the browser page."
+    },
+    {
+      "type": "html",
+      "id": "0e60f27d21b56f78",
+      "text": "<h3> Neighbors"
+    },
+    {
+      "type": "paragraph",
+      "id": "42c8987c2952fd8f",
+      "text": "As you browse wiki becomes familiar with additional sites that might have the page you are creating. These will show as search results. You may choose to fork these pages to your site rather than creating a blank page of your own."
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "8905e6034092f823",
+      "item": {
+        "type": "paragraph",
+        "id": "8905e6034092f823",
+        "text": "This wiki will create new pages on demand. Create a link to a new page, click that link, presto: new page."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ecaf75662021efae"
+      },
+      "id": "ecaf75662021efae",
+      "type": "add",
+      "after": "8905e6034092f823"
+    },
+    {
+      "type": "edit",
+      "id": "ecaf75662021efae",
+      "item": {
+        "type": "paragraph",
+        "id": "ecaf75662021efae",
+        "text": "Think about where one would expect to find a link to the new page. Go to that page and [[Add Text]]. In that page add an internal link to the new page. An internal link is the page name enclosed in double-square brackets."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36a43109331a326c"
+      },
+      "id": "36a43109331a326c",
+      "type": "add",
+      "after": "ecaf75662021efae"
+    },
+    {
+      "type": "edit",
+      "id": "36a43109331a326c",
+      "item": {
+        "type": "paragraph",
+        "id": "36a43109331a326c",
+        "text": "When you click the new link you will see the new page with a single large gray square <b>factory</b> item in the story. Double-click this and start typing."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "36a43109331a326c",
+      "item": {
+        "type": "paragraph",
+        "id": "36a43109331a326c",
+        "text": "When you click the new link you will see the new page. You are almost done. Click the <i>create</i> button to make an empty page."
+      },
+      "date": 1350255726721
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "469769b7197b1e6b",
+        "text": " with a single large gray square <b>factory</b> item in the story. Double-click this and start typing."
+      },
+      "id": "469769b7197b1e6b",
+      "type": "add",
+      "after": "36a43109331a326c",
+      "date": 1350255727228
+    },
+    {
+      "type": "edit",
+      "id": "36a43109331a326c",
+      "item": {
+        "type": "paragraph",
+        "id": "36a43109331a326c",
+        "text": "When you click the new link you will see the new page. You are almost done. Click the <i>create</i> button to make the page."
+      },
+      "date": 1350255744510
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "53dabbd121103a6e",
+        "text": ""
+      },
+      "id": "53dabbd121103a6e",
+      "type": "add",
+      "after": "36a43109331a326c",
+      "date": 1350255797404
+    },
+    {
+      "type": "edit",
+      "id": "53dabbd121103a6e",
+      "item": {
+        "type": "paragraph",
+        "id": "53dabbd121103a6e",
+        "text": "You may see several <i>create</i> buttons, some offering to create a page from a template. Follow their links to preview the templates. Then click the <i>create</i> that suites your needs."
+      },
+      "date": 1350255940752
+    },
+    {
+      "type": "edit",
+      "id": "469769b7197b1e6b",
+      "item": {
+        "type": "paragraph",
+        "id": "469769b7197b1e6b",
+        "text": "You can drag content to a blank page. Or you can create new content by clicking the [+] button. "
+      },
+      "date": 1350256113307
+    },
+    {
+      "type": "move",
+      "order": [
+        "8905e6034092f823",
+        "ecaf75662021efae",
+        "36a43109331a326c",
+        "469769b7197b1e6b",
+        "53dabbd121103a6e"
+      ],
+      "id": "469769b7197b1e6b",
+      "date": 1350256118241
+    },
+    {
+      "type": "edit",
+      "id": "469769b7197b1e6b",
+      "item": {
+        "type": "paragraph",
+        "id": "469769b7197b1e6b",
+        "text": "You can drag content to your new blank page. Or you can create new content by clicking the [+] button at the bottom of the page. "
+      },
+      "date": 1350256167953
+    },
+    {
+      "type": "edit",
+      "id": "469769b7197b1e6b",
+      "item": {
+        "type": "paragraph",
+        "id": "469769b7197b1e6b",
+        "text": "You can drag content to your new blank page. Or you can create new content by clicking the [+] button. "
+      },
+      "date": 1350256184649
+    },
+    {
+      "type": "edit",
+      "id": "469769b7197b1e6b",
+      "item": {
+        "type": "paragraph",
+        "id": "469769b7197b1e6b",
+        "text": "You can drag content to your new blank page. Or you can create new content by clicking the [+] button."
+      },
+      "date": 1350256190489
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07f9a4537be19851",
+        "text": ""
+      },
+      "id": "07f9a4537be19851",
+      "type": "add",
+      "after": "469769b7197b1e6b",
+      "date": 1350256190996
+    },
+    {
+      "type": "edit",
+      "id": "07f9a4537be19851",
+      "item": {
+        "type": "paragraph",
+        "id": "07f9a4537be19851",
+        "text": "<h3> Templates"
+      },
+      "date": 1350256199601
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b5a15602899f1f7a",
+        "text": ""
+      },
+      "id": "b5a15602899f1f7a",
+      "type": "add",
+      "after": "53dabbd121103a6e",
+      "date": 1350256210073
+    },
+    {
+      "type": "edit",
+      "id": "b5a15602899f1f7a",
+      "item": {
+        "type": "paragraph",
+        "id": "b5a15602899f1f7a",
+        "text": "You can create new templates by choosing page names that end with the word \"template\". The new template will be available when you reload the browser page."
+      },
+      "date": 1350256473279
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0e60f27d21b56f78",
+        "text": ""
+      },
+      "id": "0e60f27d21b56f78",
+      "type": "add",
+      "after": "b5a15602899f1f7a",
+      "date": 1350256490792
+    },
+    {
+      "type": "edit",
+      "id": "0e60f27d21b56f78",
+      "item": {
+        "type": "paragraph",
+        "id": "0e60f27d21b56f78",
+        "text": "<h3> Neighbors"
+      },
+      "date": 1350256503919
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "42c8987c2952fd8f",
+        "text": ""
+      },
+      "id": "42c8987c2952fd8f",
+      "type": "add",
+      "after": "0e60f27d21b56f78",
+      "date": 1350256504423
+    },
+    {
+      "type": "edit",
+      "id": "42c8987c2952fd8f",
+      "item": {
+        "type": "paragraph",
+        "id": "42c8987c2952fd8f",
+        "text": "As you browse wiki becomes familiar with additional sites that might have the page you are creating. These will show as search results. You may choose to fork these pages to your site rather than creating a blank page of your own."
+      },
+      "date": 1350257038966
+    },
+    {
+      "type": "edit",
+      "id": "07f9a4537be19851",
+      "item": {
+        "type": "html",
+        "id": "07f9a4537be19851",
+        "text": "<h3> Templates"
+      },
+      "date": 1418271918845
+    },
+    {
+      "type": "edit",
+      "id": "0e60f27d21b56f78",
+      "item": {
+        "type": "html",
+        "id": "0e60f27d21b56f78",
+        "text": "<h3> Neighbors"
+      },
+      "date": 1418271921324
+    },
+    {
+      "type": "edit",
+      "id": "36a43109331a326c",
+      "item": {
+        "type": "html",
+        "id": "36a43109331a326c",
+        "text": "When you click the new link you will see the new page. You are almost done. Click the <i>create</i> button to make the page."
+      },
+      "date": 1420517499923
+    },
+    {
+      "type": "edit",
+      "id": "53dabbd121103a6e",
+      "item": {
+        "type": "html",
+        "id": "53dabbd121103a6e",
+        "text": "You may see several <i>create</i> buttons, some offering to create a page from a template. Follow their links to preview the templates. Then click the <i>create</i> that suites your needs."
+      },
+      "date": 1420517502876
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101387311
+    }
+  ]
+}

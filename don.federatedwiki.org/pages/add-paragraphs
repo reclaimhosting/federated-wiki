@@ -1,0 +1,362 @@
+{
+  "title": "Add Paragraphs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cb96bfc1151e5cef",
+      "text": "Click the [+] symbol at the bottom of the wiki page. This creates a gray \"factory\" at the end of the story."
+    },
+    {
+      "type": "html",
+      "id": "454f81615e4eb6fd",
+      "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as you would to [[Add Text]] to existing paragraphs."
+    },
+    {
+      "type": "paragraph",
+      "id": "339c294062d85055",
+      "text": "You can create new paragraphs by typing RETURN at the end of an existing paragraph. Type DELETE to remove this new paragraph. (Caution: type this slowly because lots is going on when new paragraphs are created.)"
+    },
+    {
+      "type": "html",
+      "id": "852db259ef44f561",
+      "text": "<b>Plugins:</b> Click from the factory menu to [[Choose Plugins]] for rendering the text you subsequently type."
+    },
+    {
+      "type": "html",
+      "id": "c781c97ac31315b0",
+      "text": "<b>Image:</b> Drag an image from your desktop to the factory. Caution: There is not yet any special attention given to large, high-resolution images. Consider using your desktop software to make the image smaller before including it in wiki."
+    },
+    {
+      "type": "html",
+      "id": "28a96402934ce84a",
+      "text": "<b>Reference:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic reference of that page. The page's <i>synopsis</i> becomes the text of the reference. When absent, the first or second paragraph serves in its stead. See an [[Example Reference]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "cb96bfc1151e5cef",
+      "item": {
+        "type": "paragraph",
+        "id": "cb96bfc1151e5cef",
+        "text": "Click the [+] symbol at the bottom of the wiki page. This creates a gray \"factory\" at the end of the story."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "454f81615e4eb6fd"
+      },
+      "id": "454f81615e4eb6fd",
+      "type": "add",
+      "after": "cb96bfc1151e5cef"
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the factory to open the text editor. Proceed as with [[Add Text]] to existing paragraphs.\n\n<b>Image:</b> Drag an image from your desktop to the factory. Caution: There is not yet any special attention given to large, high-resolution images. Consider using your desktop software to make the image smaller before including it in wiki.\n\n<b>Citation:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic citation of that page. The page's <i>synopsis</i> becomes the text of the citation. When absent, the first or second paragraph serves in its stead."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the factory to open the text editor. Proceed as with [[Add Text]] to existing paragraphs."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c781c97ac31315b0"
+      },
+      "id": "c781c97ac31315b0",
+      "type": "add",
+      "after": "454f81615e4eb6fd"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "28a96402934ce84a"
+      },
+      "id": "28a96402934ce84a",
+      "type": "add",
+      "after": "c781c97ac31315b0"
+    },
+    {
+      "type": "edit",
+      "id": "c781c97ac31315b0",
+      "item": {
+        "type": "paragraph",
+        "id": "c781c97ac31315b0",
+        "text": "<b>Image:</b> Drag an image from your desktop to the factory. Caution: There is not yet any special attention given to large, high-resolution images. Consider using your desktop software to make the image smaller before including it in wiki."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "28a96402934ce84a",
+      "item": {
+        "type": "paragraph",
+        "id": "28a96402934ce84a",
+        "text": "<b>Citation:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic citation of that page. The page's <i>synopsis</i> becomes the text of the citation. When absent, the first or second paragraph serves in its stead."
+      }
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1f463487d1a96800"
+      },
+      "id": "1f463487d1a96800",
+      "type": "add",
+      "after": "28a96402934ce84a"
+    },
+    {
+      "type": "edit",
+      "id": "1f463487d1a96800",
+      "item": {
+        "type": "paragraph",
+        "id": "1f463487d1a96800",
+        "text": "Many exotic paragraph types can be added by creating factories and then editing the database json representation with a text editor. Each story item has a <i>type</i> field which specifies the plugin used to render it. The"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1f463487d1a96800",
+      "item": {
+        "type": "paragraph",
+        "id": "1f463487d1a96800",
+        "text": "Many exotic paragraph types can be added by creating factories and then editing the database json representation with a text editor. Each story item has a <i>type</i> field which specifies the plugin used to render it. Look to [[Add Plugins]] for tips for creating new renderings."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "1f463487d1a96800",
+      "item": {
+        "type": "paragraph",
+        "id": "1f463487d1a96800",
+        "text": "Many exotic paragraph types can be added by creating factories and then editing the database json representation with a text editor. Each story item has a <b>type</b> field which specifies the plugin used to render it. Look to [[Add Plugins]] for tips for creating new renderings."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "28a96402934ce84a",
+      "item": {
+        "type": "paragraph",
+        "id": "28a96402934ce84a",
+        "text": "<b>Citation:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic citation of that page. The page's <i>synopsis</i> becomes the text of the citation. When absent, the first or second paragraph serves in its stead. See an [[Example Citation]]."
+      }
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "852db259ef44f561",
+        "text": ""
+      },
+      "id": "852db259ef44f561",
+      "type": "add",
+      "after": "454f81615e4eb6fd",
+      "date": 1342306247821
+    },
+    {
+      "type": "edit",
+      "id": "852db259ef44f561",
+      "item": {
+        "type": "paragraph",
+        "id": "852db259ef44f561",
+        "text": "<b>Plugins:</b> Click a choice from the factory menu to create a specialized kind of paragraph. Read How to [[Choose Plugins]]."
+      },
+      "date": 1342306460599
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray part of the factory to open the text editor. Proceed as with [[Add Text]] to existing paragraphs."
+      },
+      "date": 1342306488014
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray part to open the text editor. Proceed as with [[Add Text]] to existing paragraphs."
+      },
+      "date": 1342306511934
+    },
+    {
+      "type": "remove",
+      "id": "1f463487d1a96800",
+      "date": 1342308294076
+    },
+    {
+      "type": "edit",
+      "id": "852db259ef44f561",
+      "item": {
+        "type": "paragraph",
+        "id": "852db259ef44f561",
+        "text": "<b>Plugins:</b> Click choices from the factory menu to [[Choose Plugins]] to render the text you subsequently type."
+      },
+      "date": 1342310111589
+    },
+    {
+      "type": "edit",
+      "id": "852db259ef44f561",
+      "item": {
+        "type": "paragraph",
+        "id": "852db259ef44f561",
+        "text": "<b>Plugins:</b> Click from the factory menu to [[Choose Plugins]] to render the text you subsequently type."
+      },
+      "date": 1342310143385
+    },
+    {
+      "type": "edit",
+      "id": "852db259ef44f561",
+      "item": {
+        "type": "paragraph",
+        "id": "852db259ef44f561",
+        "text": "<b>Plugins:</b> Click from the factory menu to [[Choose Plugins]] for rendering the text you subsequently type."
+      },
+      "date": 1342310160699
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as with [[Add Text]] to existing paragraphs."
+      },
+      "date": 1342310189546
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as you would to [[Add Text]] to existing paragraphs."
+      },
+      "date": 1342310214088
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "28a96402934ce84a",
+        "text": "<b>Reference:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic reference to that page. The page's <i>synopsis</i> is composed for you from the page in question. See an [[Example Reference]]."
+      },
+      "after": "c781c97ac31315b0",
+      "id": "28a96402934ce84a",
+      "date": 1347824655960
+    },
+    {
+      "type": "remove",
+      "id": "28a96402934ce84a",
+      "date": 1347825654153
+    },
+    {
+      "type": "edit",
+      "id": "28a96402934ce84a",
+      "item": {
+        "type": "paragraph",
+        "id": "28a96402934ce84a",
+        "text": "<b>Reference:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic reference of that page. The page's <i>synopsis</i> becomes the text of the reference. When absent, the first or second paragraph serves in its stead. See an [[Example Reference]]."
+      },
+      "date": 1348455439282
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as you would to [[Add Text]] to existing paragraphs. You can create new paragraphs by typing RETURN at the end of an existing paragraph. Type DELETE to remove this new paragraph."
+      },
+      "date": 1388894000186
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "paragraph",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as you would to [[Add Text]] to existing paragraphs."
+      },
+      "date": 1388894010313
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "339c294062d85055",
+        "text": "You can create new paragraphs by typing RETURN at the end of an existing paragraph. Type DELETE to remove this new paragraph."
+      },
+      "id": "339c294062d85055",
+      "type": "add",
+      "after": "454f81615e4eb6fd",
+      "date": 1388894010819
+    },
+    {
+      "type": "edit",
+      "id": "339c294062d85055",
+      "item": {
+        "type": "paragraph",
+        "id": "339c294062d85055",
+        "text": "You can create new paragraphs by typing RETURN at the end of an existing paragraph. Type DELETE to remove this new paragraph. (Caution: type this slowly because lots is going on when new paragraphs are created.)"
+      },
+      "date": 1388894056826
+    },
+    {
+      "type": "edit",
+      "id": "454f81615e4eb6fd",
+      "item": {
+        "type": "html",
+        "id": "454f81615e4eb6fd",
+        "text": "<b>Text:</b> Double-click the gray to open the text editor. Proceed as you would to [[Add Text]] to existing paragraphs."
+      },
+      "date": 1418271929240
+    },
+    {
+      "type": "edit",
+      "id": "852db259ef44f561",
+      "item": {
+        "type": "html",
+        "id": "852db259ef44f561",
+        "text": "<b>Plugins:</b> Click from the factory menu to [[Choose Plugins]] for rendering the text you subsequently type."
+      },
+      "date": 1418271931487
+    },
+    {
+      "type": "edit",
+      "id": "c781c97ac31315b0",
+      "item": {
+        "type": "html",
+        "id": "c781c97ac31315b0",
+        "text": "<b>Image:</b> Drag an image from your desktop to the factory. Caution: There is not yet any special attention given to large, high-resolution images. Consider using your desktop software to make the image smaller before including it in wiki."
+      },
+      "date": 1418271932848
+    },
+    {
+      "type": "edit",
+      "id": "28a96402934ce84a",
+      "item": {
+        "type": "html",
+        "id": "28a96402934ce84a",
+        "text": "<b>Reference:</b> Drag the url of another Federated Wiki site to the factory to create a bibliographic reference of that page. The page's <i>synopsis</i> becomes the text of the reference. When absent, the first or second paragraph serves in its stead. See an [[Example Reference]]."
+      },
+      "date": 1418271934558
+    },
+    {
+      "type": "fork",
+      "site": "fed.wiki.org",
+      "date": 1437101321993
+    }
+  ]
+}

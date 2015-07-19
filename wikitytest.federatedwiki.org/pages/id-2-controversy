@@ -1,0 +1,342 @@
+{
+  "title": "ID-2 Controversy",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1934dc72d2cfd207",
+      "text": "The [[Polaroid ID-2 System]] was implicated in the debates around Polaroid's dealings with the apartheid regime in South Africa. Here we examine the claims made of it."
+    },
+    {
+      "type": "paragraph",
+      "id": "a775d21d8f805593",
+      "text": "Polaroid did admit that about 20% of the film they sold in South Africa ended up used for the passbooks, a tool of oppression in South Africa. See [[Pass Laws]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "48a19e579c29f05f",
+      "text": "But according to Polaroid in 1971, only sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "8cc13ee6aa19812c",
+      "text": "However the [[Polaroid Revolutionary Workers Movement]] countered that sales were still going on through indirect channels."
+    },
+    {
+      "type": "paragraph",
+      "id": "2f7691f0dd98def5",
+      "text": "Additionally, Polaroid lied from 1971 to 1978, claiming that they had ceased supplying materials to the regime, when in fact there was an elaborate shell game which allowed them to sell through a third party."
+    },
+    {
+      "type": "paragraph",
+      "id": "4883fa01b5c8da61",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "938a9c69d3945f28",
+      "text": "\"sixty-five systems\", \"20% of film\": see Widmer, 1970 for UPI. [http://www.newspapers.com/newspage/4631789/ paid]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "ID-2 Controversy",
+        "story": []
+      },
+      "date": 1437267924919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1934dc72d2cfd207"
+      },
+      "id": "1934dc72d2cfd207",
+      "type": "add",
+      "date": 1437267978856
+    },
+    {
+      "type": "edit",
+      "id": "1934dc72d2cfd207",
+      "item": {
+        "type": "paragraph",
+        "id": "1934dc72d2cfd207",
+        "text": "The [[Polaroid ID-2 System]] was implicated in the debates around Polaroid's dealings with the apartheid regime in South Africa."
+      },
+      "date": 1437268070213
+    },
+    {
+      "type": "edit",
+      "id": "1934dc72d2cfd207",
+      "item": {
+        "type": "paragraph",
+        "id": "1934dc72d2cfd207",
+        "text": "The [[Polaroid ID-2 System]] was implicated in the debates around Polaroid's dealings with the apartheid regime in South Africa. Here we examine the claims made of it."
+      },
+      "date": 1437268147337
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "According to Polaroid, sixty-five systems were sold to South Africa before sales were stopped. "
+      },
+      "after": "1934dc72d2cfd207",
+      "id": "48a19e579c29f05f",
+      "date": 1437276952492
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a775d21d8f805593",
+        "text": "Polaroid did admit that about 20% of the film they sold in South Africa ended up in South Africa."
+      },
+      "after": "48a19e579c29f05f",
+      "id": "a775d21d8f805593",
+      "date": 1437276957335
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "938a9c69d3945f28",
+        "text": "\"sixty-five systems\", \"20% of film\": see Widmer, 1970 for UPI. [http://www.newspapers.com/newspage/4631789/ paid]"
+      },
+      "after": "a775d21d8f805593",
+      "id": "938a9c69d3945f28",
+      "date": 1437276968546
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4883fa01b5c8da61",
+        "text": "----"
+      },
+      "id": "4883fa01b5c8da61",
+      "type": "add",
+      "after": "938a9c69d3945f28",
+      "date": 1437276970671
+    },
+    {
+      "type": "edit",
+      "id": "4883fa01b5c8da61",
+      "item": {
+        "type": "paragraph",
+        "id": "4883fa01b5c8da61",
+        "text": "----"
+      },
+      "date": 1437276975747
+    },
+    {
+      "type": "move",
+      "order": [
+        "1934dc72d2cfd207",
+        "48a19e579c29f05f",
+        "4883fa01b5c8da61",
+        "a775d21d8f805593",
+        "938a9c69d3945f28",
+        "10f22286f30d6334"
+      ],
+      "id": "4883fa01b5c8da61",
+      "date": 1437276978467,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1437276981266
+    },
+    {
+      "type": "move",
+      "order": [
+        "1934dc72d2cfd207",
+        "48a19e579c29f05f",
+        "a775d21d8f805593",
+        "4883fa01b5c8da61",
+        "938a9c69d3945f28"
+      ],
+      "id": "a775d21d8f805593",
+      "date": 1437277407415
+    },
+    {
+      "type": "edit",
+      "id": "48a19e579c29f05f",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "According to Polaroid in 1971, sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies. "
+      },
+      "date": 1437277416130
+    },
+    {
+      "type": "edit",
+      "id": "48a19e579c29f05f",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "According to Polaroid in 1971, sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies. If this was true, then the ID-2 itself may not have been used for the passbooks. "
+      },
+      "date": 1437277489496
+    },
+    {
+      "type": "add",
+      "id": "8cc13ee6aa19812c",
+      "item": {
+        "type": "paragraph",
+        "id": "8cc13ee6aa19812c",
+        "text": "This might be "
+      },
+      "after": "48a19e579c29f05f",
+      "date": 1437277496326
+    },
+    {
+      "type": "edit",
+      "id": "48a19e579c29f05f",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "According to Polaroid in 1971, sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies. If this was true, then the ID-2 itself may not have been used for the passbooks at the center of the debate. "
+      },
+      "date": 1437277523420
+    },
+    {
+      "type": "edit",
+      "id": "8cc13ee6aa19812c",
+      "item": {
+        "type": "paragraph",
+        "id": "8cc13ee6aa19812c",
+        "text": "This might be true. "
+      },
+      "date": 1437277539184
+    },
+    {
+      "type": "edit",
+      "id": "a775d21d8f805593",
+      "item": {
+        "type": "paragraph",
+        "id": "a775d21d8f805593",
+        "text": "However, Polaroid did admit that about 20% of the film they sold in South Africa ended up used for the passbooks. "
+      },
+      "date": 1437277592414
+    },
+    {
+      "type": "add",
+      "id": "2f7691f0dd98def5",
+      "item": {
+        "type": "paragraph",
+        "id": "2f7691f0dd98def5",
+        "text": "Additionally, Polaroid lied from 1971 to 1978, claiming that they had ceased supplying materials to the regime, when in fact there was an elaborate shell game which allowed them to sell through a third party."
+      },
+      "after": "a775d21d8f805593",
+      "date": 1437277671530
+    },
+    {
+      "type": "edit",
+      "id": "8cc13ee6aa19812c",
+      "item": {
+        "type": "paragraph",
+        "id": "8cc13ee6aa19812c",
+        "text": "However the "
+      },
+      "date": 1437279967726
+    },
+    {
+      "type": "edit",
+      "id": "8cc13ee6aa19812c",
+      "item": {
+        "type": "paragraph",
+        "id": "8cc13ee6aa19812c",
+        "text": "However the [[Polaroid Revolutionary Workers Movement]] countered that sales were still going on through indirect channels."
+      },
+      "date": 1437279996044
+    },
+    {
+      "type": "edit",
+      "id": "a775d21d8f805593",
+      "item": {
+        "type": "paragraph",
+        "id": "a775d21d8f805593",
+        "text": "Polaroid did admit that about 20% of the film they sold in South Africa ended up used for the passbooks. "
+      },
+      "date": 1437280026199
+    },
+    {
+      "type": "move",
+      "order": [
+        "1934dc72d2cfd207",
+        "48a19e579c29f05f",
+        "a775d21d8f805593",
+        "8cc13ee6aa19812c",
+        "2f7691f0dd98def5",
+        "4883fa01b5c8da61",
+        "938a9c69d3945f28"
+      ],
+      "id": "a775d21d8f805593",
+      "date": 1437280032929
+    },
+    {
+      "type": "move",
+      "order": [
+        "1934dc72d2cfd207",
+        "a775d21d8f805593",
+        "48a19e579c29f05f",
+        "8cc13ee6aa19812c",
+        "2f7691f0dd98def5",
+        "4883fa01b5c8da61",
+        "938a9c69d3945f28"
+      ],
+      "id": "a775d21d8f805593",
+      "date": 1437280041988
+    },
+    {
+      "type": "edit",
+      "id": "a775d21d8f805593",
+      "item": {
+        "type": "paragraph",
+        "id": "a775d21d8f805593",
+        "text": "Polaroid did admit that about 20% of the film they sold in South Africa ended up used for the passbooks, a tool of oppression in South Africa. "
+      },
+      "date": 1437280079953
+    },
+    {
+      "type": "edit",
+      "id": "48a19e579c29f05f",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "But according to Polaroid in 1971, only sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies. If this was true, then the ID-2 itself may not have been used for the passbooks at the center of the debate. "
+      },
+      "date": 1437280103621
+    },
+    {
+      "type": "edit",
+      "id": "48a19e579c29f05f",
+      "item": {
+        "type": "paragraph",
+        "id": "48a19e579c29f05f",
+        "text": "But according to Polaroid in 1971, only sixty-five systems were sold to South Africa before sales were stopped, and none of those systems were sold to government agencies.  "
+      },
+      "date": 1437280117676
+    },
+    {
+      "type": "edit",
+      "id": "a775d21d8f805593",
+      "item": {
+        "type": "paragraph",
+        "id": "a775d21d8f805593",
+        "text": "Polaroid did admit that about 20% of the film they sold in South Africa ended up used for the passbooks, a tool of oppression in South Africa. See [[Pass Laws]]"
+      },
+      "date": 1437282294868
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1437330439229
+    }
+  ]
+}

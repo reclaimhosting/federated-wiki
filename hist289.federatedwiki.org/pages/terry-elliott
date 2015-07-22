@@ -5,10 +5,6 @@
       "type": "paragraph",
       "id": "f87a3f34abfc8735",
       "text": "I am Terry.  I teach. I write. I farm. I husband.  I am a lucky man.  "
-    },
-    {
-      "type": "factory",
-      "id": "4ac1ad85a4811b99"
     }
   ],
   "journal": [
@@ -77,6 +73,11 @@
       "type": "add",
       "after": "f87a3f34abfc8735",
       "date": 1420329450765
+    },
+    {
+      "type": "remove",
+      "id": "4ac1ad85a4811b99",
+      "date": 1437592209534
     }
   ]
 }

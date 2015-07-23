@@ -1,0 +1,345 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us."
+    },
+    {
+      "type": "paragraph",
+      "id": "67a961e5343d7d32",
+      "text": "<b>FEDERATED WIKI ADVENTURE NOTES</b>"
+    },
+    {
+      "type": "markdown",
+      "id": "e0637890a1cc2b7f",
+      "text": "- oh here we go\n\n- we need special markdown blocks\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "11d54ccb0a4486db",
+      "text": "- Got a wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "bc3a2744d89cbc7f",
+      "text": "- Not sure how to Markdown"
+    },
+    {
+      "type": "paragraph",
+      "id": "cd5f736a5299251a",
+      "text": "- Not sure how to fork"
+    },
+    {
+      "type": "paragraph",
+      "id": "1378635950490885",
+      "text": "- Still figuring out the squares"
+    },
+    {
+      "type": "paragraph",
+      "id": "92bf71854ebe9328",
+      "text": "- Having fun"
+    },
+    {
+      "type": "paragraph",
+      "id": "b2b063a192b713a9",
+      "text": "- So far, five star-adventure"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
+    },
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "<b>test</b>"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1437623607462
+    },
+    {
+      "type": "add",
+      "id": "d260144b9f46ca1f",
+      "item": {
+        "type": "paragraph",
+        "id": "d260144b9f46ca1f",
+        "text": "* List"
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1437623685476
+    },
+    {
+      "type": "edit",
+      "id": "d260144b9f46ca1f",
+      "item": {
+        "type": "paragraph",
+        "id": "d260144b9f46ca1f",
+        "text": "- List"
+      },
+      "date": 1437623688995
+    },
+    {
+      "type": "edit",
+      "id": "d260144b9f46ca1f",
+      "item": {
+        "type": "paragraph",
+        "id": "d260144b9f46ca1f",
+        "text": "<li> list"
+      },
+      "date": 1437623711458
+    },
+    {
+      "type": "edit",
+      "id": "d260144b9f46ca1f",
+      "item": {
+        "type": "paragraph",
+        "id": "d260144b9f46ca1f",
+        "text": "* List"
+      },
+      "date": 1437623728730
+    },
+    {
+      "type": "add",
+      "id": "67a961e5343d7d32",
+      "item": {
+        "type": "paragraph",
+        "id": "67a961e5343d7d32",
+        "text": "* LinkTest"
+      },
+      "after": "d260144b9f46ca1f",
+      "date": 1437623731026
+    },
+    {
+      "type": "remove",
+      "id": "d260144b9f46ca1f",
+      "date": 1437623737580
+    },
+    {
+      "type": "edit",
+      "id": "67a961e5343d7d32",
+      "item": {
+        "type": "paragraph",
+        "id": "67a961e5343d7d32",
+        "text": "FEDERATED WIKI ADVENTURE NOTES"
+      },
+      "date": 1437623743634
+    },
+    {
+      "type": "add",
+      "id": "11d54ccb0a4486db",
+      "item": {
+        "type": "paragraph",
+        "id": "11d54ccb0a4486db",
+        "text": "- Got a wiki"
+      },
+      "after": "67a961e5343d7d32",
+      "date": 1437623759282
+    },
+    {
+      "type": "add",
+      "id": "bc3a2744d89cbc7f",
+      "item": {
+        "type": "paragraph",
+        "id": "bc3a2744d89cbc7f",
+        "text": "- Not sure how to Markdown"
+      },
+      "after": "11d54ccb0a4486db",
+      "date": 1437623763059
+    },
+    {
+      "type": "add",
+      "id": "cd5f736a5299251a",
+      "item": {
+        "type": "paragraph",
+        "id": "cd5f736a5299251a",
+        "text": "- Not sure how to fork"
+      },
+      "after": "bc3a2744d89cbc7f",
+      "date": 1437623765922
+    },
+    {
+      "type": "add",
+      "id": "1378635950490885",
+      "item": {
+        "type": "paragraph",
+        "id": "1378635950490885",
+        "text": "- Still figuring out the squares"
+      },
+      "after": "cd5f736a5299251a",
+      "date": 1437623769443
+    },
+    {
+      "type": "add",
+      "id": "92bf71854ebe9328",
+      "item": {
+        "type": "paragraph",
+        "id": "92bf71854ebe9328",
+        "text": "- Having fun"
+      },
+      "after": "1378635950490885",
+      "date": 1437623772626
+    },
+    {
+      "type": "add",
+      "id": "b2b063a192b713a9",
+      "item": {
+        "type": "paragraph",
+        "id": "b2b063a192b713a9",
+        "text": "- So far, five star-adventure"
+      },
+      "after": "92bf71854ebe9328",
+      "date": 1437623776154
+    },
+    {
+      "type": "edit",
+      "id": "67a961e5343d7d32",
+      "item": {
+        "type": "paragraph",
+        "id": "67a961e5343d7d32",
+        "text": "<b>FEDERATED WIKI ADVENTURE NOTES</b>"
+      },
+      "date": 1437623817692
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "<b>test</b>"
+      },
+      "date": 1437623829891
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e0637890a1cc2b7f"
+      },
+      "id": "e0637890a1cc2b7f",
+      "type": "add",
+      "after": "ee416d431ebf4fb4",
+      "date": 1437623846312
+    },
+    {
+      "type": "edit",
+      "id": "e0637890a1cc2b7f",
+      "item": {
+        "type": "markdown",
+        "id": "e0637890a1cc2b7f",
+        "text": "- oh here we go\n\n- we need special markdown blocks\n"
+      },
+      "date": 1437623857221
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "67a961e5343d7d32",
+        "e0637890a1cc2b7f",
+        "11d54ccb0a4486db",
+        "bc3a2744d89cbc7f",
+        "cd5f736a5299251a",
+        "1378635950490885",
+        "92bf71854ebe9328",
+        "b2b063a192b713a9",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "e0637890a1cc2b7f",
+      "date": 1437623863005
+    }
+  ]
+}

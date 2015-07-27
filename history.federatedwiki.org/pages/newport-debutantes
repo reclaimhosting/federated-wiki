@@ -1,0 +1,75 @@
+{
+  "title": "Newport Debutantes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fe4ad866a5a584c4",
+      "text": "A 1925 paper reads: \"A popular debutante as Natalie Schenck...Mrs. Laimbeer had many suitors...\". What exactly did being a debutante in this period mean? "
+    },
+    {
+      "type": "paragraph",
+      "id": "a59159402c074894",
+      "text": "A debutante was a woman whose family was presenting her as available for marriage. Debutantes (at least in the early 1900s) were only debutantes for a limited time, with the women who did not make a marriage in that season disadvantaged in future seasons. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Newport Debutantes",
+        "story": []
+      },
+      "date": 1438023227008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe4ad866a5a584c4"
+      },
+      "id": "fe4ad866a5a584c4",
+      "type": "add",
+      "date": 1438023228156
+    },
+    {
+      "type": "edit",
+      "id": "fe4ad866a5a584c4",
+      "item": {
+        "type": "paragraph",
+        "id": "fe4ad866a5a584c4",
+        "text": "\"A popular debutante as Natalie Schenck, "
+      },
+      "date": 1438023250995
+    },
+    {
+      "type": "edit",
+      "id": "fe4ad866a5a584c4",
+      "item": {
+        "type": "paragraph",
+        "id": "fe4ad866a5a584c4",
+        "text": "\"A popular debutante as Natalie Schenck...Mrs. Laimbeer had many suitors...\". "
+      },
+      "date": 1438023392230
+    },
+    {
+      "type": "edit",
+      "id": "fe4ad866a5a584c4",
+      "item": {
+        "type": "paragraph",
+        "id": "fe4ad866a5a584c4",
+        "text": "A 1925 paper reads: \"A popular debutante as Natalie Schenck...Mrs. Laimbeer had many suitors...\". What exactly did being a debutante in this period mean? "
+      },
+      "date": 1438023426420
+    },
+    {
+      "type": "add",
+      "id": "a59159402c074894",
+      "item": {
+        "type": "paragraph",
+        "id": "a59159402c074894",
+        "text": "A debutante was a woman whose family was presenting her as available for marriage. Debutantes (at least in the early 1900s) were only debutantes for a limited time, with the women who did not make a marriage in that season disadvantaged in future seasons. "
+      },
+      "after": "fe4ad866a5a584c4",
+      "date": 1438023559617
+    }
+  ]
+}

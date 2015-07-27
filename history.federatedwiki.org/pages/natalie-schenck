@@ -99,6 +99,16 @@
       "type": "paragraph",
       "id": "f6f8d99bf8e6dd7f",
       "text": "She died in October 1929 of heart issues. She was just 46 years old. [http://www.newspapers.com/image/16376343/?terms=natalie%2Blaimbeer paid]"
+    },
+    {
+      "type": "paragraph",
+      "id": "f717898bb0735f0f",
+      "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "b304b5ae9b88aa4f",
+      "text": "Schenck was a debutante when she met Collins. I got curious what that meant. See [[Newport Debutantes]]"
     }
   ],
   "journal": [
@@ -1334,6 +1344,37 @@
       "type": "remove",
       "id": "94bc30a73448d7c1",
       "date": 1436725282852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f717898bb0735f0f"
+      },
+      "id": "f717898bb0735f0f",
+      "type": "add",
+      "after": "f6f8d99bf8e6dd7f",
+      "date": 1438023068965
+    },
+    {
+      "type": "edit",
+      "id": "f717898bb0735f0f",
+      "item": {
+        "type": "paragraph",
+        "id": "f717898bb0735f0f",
+        "text": "----"
+      },
+      "date": 1438023072786
+    },
+    {
+      "type": "add",
+      "id": "b304b5ae9b88aa4f",
+      "item": {
+        "type": "paragraph",
+        "id": "b304b5ae9b88aa4f",
+        "text": "Schenck was a debutante when she met Collins. I got curious what that meant. See [[Newport Debutantes]]"
+      },
+      "after": "f717898bb0735f0f",
+      "date": 1438023132803
     }
   ]
 }

@@ -1,0 +1,256 @@
+{
+  "title": "Hijacked Haikus",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc8632aa4e43ee91",
+      "text": "Very often published content is shorn of attribution and recirculated around the internet as anononymous folk humor or wisdom. As this 1998 post by Scott Rosenberg notes, the practice goes back quite a ways. [https://web.archive.org/web/20000109000547/http://salon.com/21st/rose/1998/02/24straight.html html]"
+    },
+    {
+      "type": "paragraph",
+      "id": "5c9cbd60c8939513",
+      "text": "In this case a contest at Salon requested user submissions for \"Computer Error Haikus\". They got some humorous ones, which they published with names. For example:"
+    },
+    {
+      "type": "code",
+      "id": "6dc1806a89e0c6db",
+      "text": "Three things are certain:\nDeath, taxes, and lost data.\nGuess which has occurred.\n-- David Dixon"
+    },
+    {
+      "type": "paragraph",
+      "id": "7bec7d7506116b12",
+      "text": "Within a week, these haikus had made their way into a viral email. But interestingly the names of the authors had been removed. Rosenberg wonders:"
+    },
+    {
+      "type": "markdown",
+      "id": "7e64d544662718d1",
+      "text": "> What still puzzles me is the motivation of the original poster, the ur-copyist who carefully excised the names of the haiku writers. Why take the extra time to, uh, anonymize these ditties? Was he concerned that leaving the names in would somehow make him more culpable for his little act of information liberation? Would the names interfere with readers' enjoyment of the humor? Or did he just want the haiku to look like instant Net folklore?"
+    },
+    {
+      "type": "paragraph",
+      "id": "be08adc24404b0d7",
+      "text": "I vote for the net folklore explanation. Things seem to travel further and faster when supplied with an anonymous or friend of a friend source. There's a feeling that the delivered wisdom has only reached you by virtue of you position in the network, and that without you padding it on, no one else will ever see it. "
+    },
+    {
+      "type": "paragraph",
+      "id": "468c0f336ede0967",
+      "text": "Things with names have sources. They can be encountered independently. Others may have already seen them. Things without names rely on you to not BREAK THE CHAIN."
+    },
+    {
+      "type": "paragraph",
+      "id": "2c18fe61d25cb432",
+      "text": "-----"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2e84fe60a207023",
+      "text": "For the history of one of the earliest chain mail schemes in American history, see [[Queen of the Endless Chain]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hijacked Haikus",
+        "story": []
+      },
+      "date": 1438126234384
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc8632aa4e43ee91"
+      },
+      "id": "cc8632aa4e43ee91",
+      "type": "add",
+      "date": 1438126236466
+    },
+    {
+      "type": "edit",
+      "id": "cc8632aa4e43ee91",
+      "item": {
+        "type": "paragraph",
+        "id": "cc8632aa4e43ee91",
+        "text": "Very often published content is shorn of attribution and recirculated around the internet as anononymous folk humor or wisdom. As this 1998 post by Scott Rosenberg notes, the practice goes back quite a ways."
+      },
+      "date": 1438126569963
+    },
+    {
+      "type": "add",
+      "id": "5c9cbd60c8939513",
+      "item": {
+        "type": "paragraph",
+        "id": "5c9cbd60c8939513",
+        "text": "In this case a contest at Salon "
+      },
+      "after": "cc8632aa4e43ee91",
+      "date": 1438126584332
+    },
+    {
+      "type": "edit",
+      "id": "cc8632aa4e43ee91",
+      "item": {
+        "type": "paragraph",
+        "id": "cc8632aa4e43ee91",
+        "text": "Very often published content is shorn of attribution and recirculated around the internet as anononymous folk humor or wisdom. As this 1998 post by Scott Rosenberg notes, the practice goes back quite a ways. [https://web.archive.org/web/20000109000547/http://salon.com/21st/rose/1998/02/24straight.html html]"
+      },
+      "date": 1438126604947
+    },
+    {
+      "type": "edit",
+      "id": "5c9cbd60c8939513",
+      "item": {
+        "type": "paragraph",
+        "id": "5c9cbd60c8939513",
+        "text": "In this case a contest at Salon requested user submissions for \"Computer Error Haikus\". They got some humorous ones, which they published with names. For example:"
+      },
+      "date": 1438126664445
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6dc1806a89e0c6db"
+      },
+      "id": "6dc1806a89e0c6db",
+      "type": "add",
+      "after": "5c9cbd60c8939513",
+      "date": 1438126797472
+    },
+    {
+      "type": "edit",
+      "id": "6dc1806a89e0c6db",
+      "item": {
+        "type": "code",
+        "id": "6dc1806a89e0c6db",
+        "text": "Three things are certain:\nDeath, taxes, and lost data.\nGuess which has occurred.\n-- David Dixon"
+      },
+      "date": 1438126803241
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7bec7d7506116b12"
+      },
+      "id": "7bec7d7506116b12",
+      "type": "add",
+      "after": "6dc1806a89e0c6db",
+      "date": 1438126809942
+    },
+    {
+      "type": "edit",
+      "id": "7bec7d7506116b12",
+      "item": {
+        "type": "paragraph",
+        "id": "7bec7d7506116b12",
+        "text": "Within a week, these haikus had made their way into a viral email. But interestingly (and really unsurprisingly) the names of the authors had been removed. "
+      },
+      "date": 1438126882266
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7e64d544662718d1"
+      },
+      "id": "7e64d544662718d1",
+      "type": "add",
+      "after": "7bec7d7506116b12",
+      "date": 1438127037055
+    },
+    {
+      "type": "edit",
+      "id": "7e64d544662718d1",
+      "item": {
+        "type": "markdown",
+        "id": "7e64d544662718d1",
+        "text": "> What still puzzles me is the motivation of the original poster, the ur-copyist who carefully excised the names of the haiku writers. Why take the extra time to, uh, anonymize these ditties? Was he concerned that leaving the names in would somehow make him more culpable for his little act of information liberation? Would the names interfere with readers' enjoyment of the humor? Or did he just want the haiku to look like instant Net folklore?"
+      },
+      "date": 1438127044483
+    },
+    {
+      "type": "edit",
+      "id": "7bec7d7506116b12",
+      "item": {
+        "type": "paragraph",
+        "id": "7bec7d7506116b12",
+        "text": "Within a week, these haikus had made their way into a viral email. But interestingly (and really unsurprisingly) the names of the authors had been removed. Rosenberg wonders:"
+      },
+      "date": 1438127054655
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "be08adc24404b0d7"
+      },
+      "id": "be08adc24404b0d7",
+      "type": "add",
+      "after": "7e64d544662718d1",
+      "date": 1438127078785
+    },
+    {
+      "type": "edit",
+      "id": "be08adc24404b0d7",
+      "item": {
+        "type": "paragraph",
+        "id": "be08adc24404b0d7",
+        "text": "I vote for the net folklore explanation. Things seem to travel further and faster when supplied with an anonymous or friend of a friend source. There's a feeling that the delivered wisdom has only reached you by virtue of you position in the network, and that without you padding it on, no one else will ever see it. "
+      },
+      "date": 1438127256685
+    },
+    {
+      "type": "add",
+      "id": "468c0f336ede0967",
+      "item": {
+        "type": "paragraph",
+        "id": "468c0f336ede0967",
+        "text": "Things with names have sources. They can be encountered independently. Others may have already seen them. Things without names rely on you to not BREAK THE CHAIN."
+      },
+      "after": "be08adc24404b0d7",
+      "date": 1438127399570
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c18fe61d25cb432"
+      },
+      "id": "2c18fe61d25cb432",
+      "type": "add",
+      "after": "468c0f336ede0967",
+      "date": 1438127406045
+    },
+    {
+      "type": "edit",
+      "id": "2c18fe61d25cb432",
+      "item": {
+        "type": "paragraph",
+        "id": "2c18fe61d25cb432",
+        "text": "-----"
+      },
+      "date": 1438127408945
+    },
+    {
+      "type": "add",
+      "id": "a2e84fe60a207023",
+      "item": {
+        "type": "paragraph",
+        "id": "a2e84fe60a207023",
+        "text": "For the history of one of the earliest chain mail schemes in American history, see [[Queen of the Endless Chain]]"
+      },
+      "after": "2c18fe61d25cb432",
+      "date": 1438127455378
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net"
+    },
+    {
+      "type": "edit",
+      "id": "7bec7d7506116b12",
+      "item": {
+        "type": "paragraph",
+        "id": "7bec7d7506116b12",
+        "text": "Within a week, these haikus had made their way into a viral email. But interestingly the names of the authors had been removed. Rosenberg wonders:"
+      },
+      "date": 1438200253814
+    }
+  ]
+}

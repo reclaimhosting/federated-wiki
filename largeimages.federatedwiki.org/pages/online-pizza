@@ -16,11 +16,17 @@
     {
       "type": "paragraph",
       "id": "b3d778ca2b910982",
-      "text": "Worth noting, however, is that the web was able to scale quickly because it could tap into older more established infrastructures and cultures. The Pizza Hut pizza form worked because it could generate an email. Confirmation of the order was provided not by credit card, but by calling you back."
+      "text": "Worth noting, however, is that the web was able to scale quickly because it could tap into older more established infrastructures and cultures. The Pizza Hut pizza form probably worked because it could generate an email. Confirmation of the order was provided not by credit card, but by calling you back."
     },
     {
-      "type": "factory",
-      "id": "e9013c49a6c58d90"
+      "type": "paragraph",
+      "id": "68e994c13e8556c8",
+      "text": "It's also worth noting how forms support (introduced in 1994 though not part of the HTML spec until 1996) fueled so much of the early experimentation on the web. I think this aspect is underapreciated by many."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a6569155496313d",
+      "text": "----"
     }
   ],
   "journal": [
@@ -155,6 +161,73 @@
       ],
       "id": "8f632d51533d24be",
       "date": 1438369392621
+    },
+    {
+      "type": "edit",
+      "id": "b3d778ca2b910982",
+      "item": {
+        "type": "paragraph",
+        "id": "b3d778ca2b910982",
+        "text": "Worth noting, however, is that the web was able to scale quickly because it could tap into older more established infrastructures and cultures. The Pizza Hut pizza form probably worked because it could generate an email. Confirmation of the order was provided not by credit card, but by calling you back."
+      },
+      "date": 1438369944447
+    },
+    {
+      "type": "move",
+      "order": [
+        "7ab5cddaf0f63a3d",
+        "8f632d51533d24be",
+        "e9013c49a6c58d90",
+        "b3d778ca2b910982"
+      ],
+      "id": "e9013c49a6c58d90",
+      "date": 1438369985257
+    },
+    {
+      "type": "remove",
+      "id": "e9013c49a6c58d90",
+      "date": 1438369990317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a6569155496313d"
+      },
+      "id": "0a6569155496313d",
+      "type": "add",
+      "after": "b3d778ca2b910982",
+      "date": 1438369992014
+    },
+    {
+      "type": "edit",
+      "id": "0a6569155496313d",
+      "item": {
+        "type": "paragraph",
+        "id": "0a6569155496313d",
+        "text": "----"
+      },
+      "date": 1438369997109
+    },
+    {
+      "type": "add",
+      "id": "68e994c13e8556c8",
+      "item": {
+        "type": "paragraph",
+        "id": "68e994c13e8556c8",
+        "text": "It's also worth noting how forms support (introduced in 1994 though not part of the HTML spec until 1996) fueled so much of the early experimentation on the web. I think this aspect is underappreciated by many."
+      },
+      "after": "b3d778ca2b910982",
+      "date": 1438370158566
+    },
+    {
+      "type": "edit",
+      "id": "68e994c13e8556c8",
+      "item": {
+        "type": "paragraph",
+        "id": "68e994c13e8556c8",
+        "text": "It's also worth noting how forms support (introduced in 1994 though not part of the HTML spec until 1996) fueled so much of the early experimentation on the web. I think this aspect is underapreciated by many."
+      },
+      "date": 1438370171327
     }
   ]
 }

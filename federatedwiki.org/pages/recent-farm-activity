@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "78d186bfe85b7e4f"
+      "id": "ef86c3a7a275545e"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "a057b6c362bc0c76"
+      "id": "903196ad4a5b1dc4"
+    },
+    {
+      "date": 1438568402000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "2837fb2fbc29246b"
     },
     {
       "date": 1438567881000,
@@ -18,16 +27,7 @@
       "title": "Example",
       "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "2b361b83353a56e8"
-    },
-    {
-      "date": 1438567801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "fb38d8f1ac03578e"
+      "id": "472b47ebbfbeff96"
     },
     {
       "date": 1438370825000,
@@ -36,7 +36,7 @@
       "title": "Online Pizza",
       "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "eed31fced595aa9b"
+      "id": "fc0649399b5dd150"
     },
     {
       "date": 1438200255000,
@@ -45,7 +45,7 @@
       "title": "Hijacked Haikus",
       "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 10 pages.",
       "type": "reference",
-      "id": "8c7b69af9563fbab"
+      "id": "411e73da097fe4f8"
     },
     {
       "date": 1438027635000,
@@ -54,41 +54,55 @@
       "title": "Newport Debutantes",
       "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 23 pages.",
       "type": "reference",
-      "id": "1484d31ed3938989"
+      "id": "e84c6c71ed2a06d0"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "1771e7f2cc92663c",
+      "id": "7fa4cf810ada3cb9",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "78d186bfe85b7e4f",
+      "id": "ef86c3a7a275545e",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "78d186bfe85b7e4f"
+        "id": "ef86c3a7a275545e"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "a057b6c362bc0c76",
+      "id": "903196ad4a5b1dc4",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "a057b6c362bc0c76"
+        "id": "903196ad4a5b1dc4"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "2b361b83353a56e8",
+      "id": "2837fb2fbc29246b",
+      "item": {
+        "date": 1438568402000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "2837fb2fbc29246b"
+      },
+      "date": 1438569001000
+    },
+    {
+      "type": "add",
+      "id": "472b47ebbfbeff96",
       "item": {
         "date": 1438567881000,
         "site": "images.federatedwiki.org",
@@ -96,27 +110,13 @@
         "title": "Example",
         "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "2b361b83353a56e8"
+        "id": "472b47ebbfbeff96"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "fb38d8f1ac03578e",
-      "item": {
-        "date": 1438567801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "fb38d8f1ac03578e"
-      },
-      "date": 1438568402000
-    },
-    {
-      "type": "add",
-      "id": "eed31fced595aa9b",
+      "id": "fc0649399b5dd150",
       "item": {
         "date": 1438370825000,
         "site": "largeimages.federatedwiki.org",
@@ -124,13 +124,13 @@
         "title": "Online Pizza",
         "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "eed31fced595aa9b"
+        "id": "fc0649399b5dd150"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "8c7b69af9563fbab",
+      "id": "411e73da097fe4f8",
       "item": {
         "date": 1438200255000,
         "site": "wikitytest.federatedwiki.org",
@@ -138,13 +138,13 @@
         "title": "Hijacked Haikus",
         "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 10 pages.",
         "type": "reference",
-        "id": "8c7b69af9563fbab"
+        "id": "411e73da097fe4f8"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     },
     {
       "type": "add",
-      "id": "1484d31ed3938989",
+      "id": "e84c6c71ed2a06d0",
       "item": {
         "date": 1438027635000,
         "site": "history.federatedwiki.org",
@@ -152,9 +152,9 @@
         "title": "Newport Debutantes",
         "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 23 pages.",
         "type": "reference",
-        "id": "1484d31ed3938989"
+        "id": "e84c6c71ed2a06d0"
       },
-      "date": 1438568402000
+      "date": 1438569001000
     }
   ]
 }

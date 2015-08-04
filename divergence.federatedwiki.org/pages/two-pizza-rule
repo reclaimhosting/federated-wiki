@@ -25,6 +25,11 @@
       "type": "paragraph",
       "id": "4f375e223502df2b",
       "text": "----"
+    },
+    {
+      "type": "paragraph",
+      "id": "c654e5cf32d7a914",
+      "text": "Clay Shirky proposed that \"soft-forking\" into smaller groups was a way to \"protect the group from scale\" and noted the average size of a LiveJournal group was 11. See [[Soft-forking Groups]]"
     }
   ],
   "journal": [
@@ -164,6 +169,17 @@
         "text": "----"
       },
       "date": 1438721917951
+    },
+    {
+      "type": "add",
+      "id": "c654e5cf32d7a914",
+      "item": {
+        "type": "paragraph",
+        "id": "c654e5cf32d7a914",
+        "text": "Clay Shirky proposed that \"soft-forking\" into smaller groups was a way to \"protect the group from scale\" and noted the average size of a LiveJournal group was 11. See [[Soft-forking Groups]]"
+      },
+      "after": "4f375e223502df2b",
+      "date": 1438722016591
     }
   ]
 }

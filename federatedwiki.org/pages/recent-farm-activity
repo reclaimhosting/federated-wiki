@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "d33fdf21eb045f41"
+      "id": "2773e8573ca928ca"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "9a32c549a7ae8a30"
+      "id": "ab7ed567447df4a9"
+    },
+    {
+      "date": 1438722601000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "f025ed541be1ea0a"
     },
     {
       "date": 1438722016000,
@@ -18,16 +27,7 @@
       "title": "Two Pizza Rule",
       "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "4c8892ea9de2fa55"
-    },
-    {
-      "date": 1438722001000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "86177d9a70a6aab0"
+      "id": "3b8a9bb2d1c447bf"
     },
     {
       "date": 1438567881000,
@@ -36,7 +36,7 @@
       "title": "Example",
       "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "fa1bf324e71e01c6"
+      "id": "d8175f9328354f44"
     },
     {
       "date": 1438370825000,
@@ -45,7 +45,7 @@
       "title": "Online Pizza",
       "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "f786a4c1d558245f"
+      "id": "9ff8c9290093e38d"
     },
     {
       "date": 1438200255000,
@@ -54,7 +54,7 @@
       "title": "Hijacked Haikus",
       "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 10 pages.",
       "type": "reference",
-      "id": "4b9509fd50d465cd"
+      "id": "3552a98e2417ed8b"
     },
     {
       "date": 1438027635000,
@@ -63,41 +63,55 @@
       "title": "Newport Debutantes",
       "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 23 pages.",
       "type": "reference",
-      "id": "1ee671504ce7aa74"
+      "id": "f931aea8a4d715ef"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "68e0b7850923eea2",
+      "id": "589429c7f53eccdc",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "d33fdf21eb045f41",
+      "id": "2773e8573ca928ca",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "d33fdf21eb045f41"
+        "id": "2773e8573ca928ca"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "9a32c549a7ae8a30",
+      "id": "ab7ed567447df4a9",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "9a32c549a7ae8a30"
+        "id": "ab7ed567447df4a9"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "4c8892ea9de2fa55",
+      "id": "f025ed541be1ea0a",
+      "item": {
+        "date": 1438722601000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "f025ed541be1ea0a"
+      },
+      "date": 1438723201000
+    },
+    {
+      "type": "add",
+      "id": "3b8a9bb2d1c447bf",
       "item": {
         "date": 1438722016000,
         "site": "divergence.federatedwiki.org",
@@ -105,27 +119,13 @@
         "title": "Two Pizza Rule",
         "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "4c8892ea9de2fa55"
+        "id": "3b8a9bb2d1c447bf"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "86177d9a70a6aab0",
-      "item": {
-        "date": 1438722001000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "86177d9a70a6aab0"
-      },
-      "date": 1438722601000
-    },
-    {
-      "type": "add",
-      "id": "fa1bf324e71e01c6",
+      "id": "d8175f9328354f44",
       "item": {
         "date": 1438567881000,
         "site": "images.federatedwiki.org",
@@ -133,13 +133,13 @@
         "title": "Example",
         "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "fa1bf324e71e01c6"
+        "id": "d8175f9328354f44"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "f786a4c1d558245f",
+      "id": "9ff8c9290093e38d",
       "item": {
         "date": 1438370825000,
         "site": "largeimages.federatedwiki.org",
@@ -147,13 +147,13 @@
         "title": "Online Pizza",
         "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "f786a4c1d558245f"
+        "id": "9ff8c9290093e38d"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "4b9509fd50d465cd",
+      "id": "3552a98e2417ed8b",
       "item": {
         "date": 1438200255000,
         "site": "wikitytest.federatedwiki.org",
@@ -161,13 +161,13 @@
         "title": "Hijacked Haikus",
         "text": "In [http://wikitytest.federatedwiki.org wikitytest.federatedwiki.org] with 10 pages.",
         "type": "reference",
-        "id": "4b9509fd50d465cd"
+        "id": "3552a98e2417ed8b"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     },
     {
       "type": "add",
-      "id": "1ee671504ce7aa74",
+      "id": "f931aea8a4d715ef",
       "item": {
         "date": 1438027635000,
         "site": "history.federatedwiki.org",
@@ -175,9 +175,9 @@
         "title": "Newport Debutantes",
         "text": "In [http://history.federatedwiki.org history.federatedwiki.org] with 23 pages.",
         "type": "reference",
-        "id": "1ee671504ce7aa74"
+        "id": "f931aea8a4d715ef"
       },
-      "date": 1438722601000
+      "date": 1438723201000
     }
   ]
 }

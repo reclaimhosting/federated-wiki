@@ -2,8 +2,24 @@
   "title": "Two Pizza Rule",
   "story": [
     {
-      "type": "factory",
-      "id": "cf18eb0a9a93fb99"
+      "type": "markdown",
+      "id": "e393338cac541601",
+      "text": "> One former executive recalled that, at an offsite retreat where some managers suggested that employees should start communicating more with each other, Mr. Bezos stood up and declared, \"No, communication is terrible!\"\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "2e38cf084ead792b",
+      "text": "> He wanted a decentralized, even disorganized company where independent ideas would prevail over groupthink. He instituted, as a company-wide rule, the concept of the \"two-pizza team\"—that is, any team should be small enough that it could be fed with two pizzas."
+    },
+    {
+      "type": "paragraph",
+      "id": "0eaa5c1a3db79ec3",
+      "text": "Given your average pizza size and pizza consumption patterns, and two pizza team is between 8 to 16 people. "
+    },
+    {
+      "type": "paragraph",
+      "id": "cf18eb0a9a93fb99",
+      "text": "A priniciple, attributed to Jeff Bezos, that all teams should be small enough that they could be fed by two pizzas. "
     }
   ],
   "journal": [
@@ -23,6 +39,106 @@
       "id": "cf18eb0a9a93fb99",
       "type": "add",
       "date": 1438720793915
+    },
+    {
+      "type": "edit",
+      "id": "cf18eb0a9a93fb99",
+      "item": {
+        "type": "paragraph",
+        "id": "cf18eb0a9a93fb99",
+        "text": "A rule by Jeff Bezos that all teams should be small enough that they could be fed by two pizzas. "
+      },
+      "date": 1438720842988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e393338cac541601"
+      },
+      "id": "e393338cac541601",
+      "type": "add",
+      "after": "297f4484ca236222",
+      "date": 1438720844966
+    },
+    {
+      "type": "edit",
+      "id": "e393338cac541601",
+      "item": {
+        "type": "markdown",
+        "id": "e393338cac541601",
+        "text": "> One former executive recalled that, at an offsite retreat where some managers suggested that employees should start communicating more with each other, Mr. Bezos stood up and declared, \"No, communication is terrible!\"\n\n> He wanted a decentralized, even disorganized company where independent ideas would prevail over groupthink. He instituted, as a company-wide rule, the concept of the \"two-pizza team\"—that is, any team should be small enough that it could be fed with two pizzas."
+      },
+      "date": 1438720855447
+    },
+    {
+      "type": "edit",
+      "id": "e393338cac541601",
+      "item": {
+        "type": "markdown",
+        "id": "e393338cac541601",
+        "text": "> One former executive recalled that, at an offsite retreat where some managers suggested that employees should start communicating more with each other, Mr. Bezos stood up and declared, \"No, communication is terrible!\"\n\n"
+      },
+      "date": 1438720864835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2e38cf084ead792b"
+      },
+      "id": "2e38cf084ead792b",
+      "type": "add",
+      "after": "e393338cac541601",
+      "date": 1438720867197
+    },
+    {
+      "type": "edit",
+      "id": "2e38cf084ead792b",
+      "item": {
+        "type": "markdown",
+        "id": "2e38cf084ead792b",
+        "text": "> He wanted a decentralized, even disorganized company where independent ideas would prevail over groupthink. He instituted, as a company-wide rule, the concept of the \"two-pizza team\"—that is, any team should be small enough that it could be fed with two pizzas."
+      },
+      "date": 1438720871722
+    },
+    {
+      "type": "edit",
+      "id": "cf18eb0a9a93fb99",
+      "item": {
+        "type": "paragraph",
+        "id": "cf18eb0a9a93fb99",
+        "text": "A priniciple, attributed to Jeff Bezos, that all teams should be small enough that they could be fed by two pizzas. "
+      },
+      "date": 1438720926493
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0eaa5c1a3db79ec3"
+      },
+      "id": "0eaa5c1a3db79ec3",
+      "type": "add",
+      "after": "2e38cf084ead792b",
+      "date": 1438720974621
+    },
+    {
+      "type": "edit",
+      "id": "0eaa5c1a3db79ec3",
+      "item": {
+        "type": "paragraph",
+        "id": "0eaa5c1a3db79ec3",
+        "text": "Given your average pizza and pizza consumption, and two pizza team is between 8 to 16 people. "
+      },
+      "date": 1438721009697
+    },
+    {
+      "type": "edit",
+      "id": "0eaa5c1a3db79ec3",
+      "item": {
+        "type": "paragraph",
+        "id": "0eaa5c1a3db79ec3",
+        "text": "Given your average pizza size and pizza consumption patterns, and two pizza team is between 8 to 16 people. "
+      },
+      "date": 1438721026671
     }
   ]
 }

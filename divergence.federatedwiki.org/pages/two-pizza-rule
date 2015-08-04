@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "cf18eb0a9a93fb99",
       "text": "A priniciple, attributed to Jeff Bezos, that all teams should be small enough that they could be fed by two pizzas. "
+    },
+    {
+      "type": "paragraph",
+      "id": "4f375e223502df2b",
+      "text": "----"
     }
   ],
   "journal": [
@@ -139,6 +144,26 @@
         "text": "Given your average pizza size and pizza consumption patterns, and two pizza team is between 8 to 16 people. "
       },
       "date": 1438721026671
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f375e223502df2b"
+      },
+      "id": "4f375e223502df2b",
+      "type": "add",
+      "after": "cf18eb0a9a93fb99",
+      "date": 1438721915189
+    },
+    {
+      "type": "edit",
+      "id": "4f375e223502df2b",
+      "item": {
+        "type": "paragraph",
+        "id": "4f375e223502df2b",
+        "text": "----"
+      },
+      "date": 1438721917951
     }
   ]
 }

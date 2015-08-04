@@ -1,0 +1,256 @@
+{
+  "title": "Soft-forking Groups",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8386abfb56c33a08",
+      "text": "In Shirky's 2003 post \"A Group Is Its [[Own Worst Enemy]]\", he intuits that one solution to having social software that scales is \"soft-forking groups\": groups with fuzzy edges, centered around individual relations."
+    },
+    {
+      "type": "pagefold",
+      "id": "94d789accf83b44b",
+      "text": "Quoting Shirky"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc36b464899ea316",
+      "text": "Sometimes you can do soft forking. Live Journal does the best soft forking of any software I've ever seen, where the concepts of \"you\" and \"your group\" are pretty much intertwingled. The average size of a Live Journal group is about a dozen people. And the median size is around five.\n\nBut each user is a little bit connected to other such clusters, through their friends, and so while the clusters are real, they're not completely bounded -- there's a soft overlap which means that though most users participate in small groups, most of the half-million LiveJournal users are connected to one another through some short chain."
+    },
+    {
+      "type": "pagefold",
+      "id": "74db6eb9ca27c149",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "59545803bb8a4a46",
+      "text": "If we are reading this right, Shirky is talking about a variation on the model that is now ubiquitous -- you are part of a community, but you see only a sliver of it via friends. Yet because your friends have friends you don't, interesting stuff can still find you."
+    },
+    {
+      "type": "paragraph",
+      "id": "5ca2f02b599757cd",
+      "text": "The groups are soft-forking because they morph and change without any explicit declaration of forking. Users just do their own thing, and different groups develop."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab712c7e5c88d5c9",
+      "text": "There is probably a newer name for this structure (FOAF comes to mind). But in the context of federated wiki, soft-forking groups is a fitting term, since the group you interact with is partially determined by the forks on documents you look at."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Soft-forking Groups",
+        "story": []
+      },
+      "date": 1417970040624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8386abfb56c33a08"
+      },
+      "id": "8386abfb56c33a08",
+      "type": "add",
+      "date": 1417970042214
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "774c66b2419246a7",
+        "text": ""
+      },
+      "id": "774c66b2419246a7",
+      "type": "add",
+      "after": "8386abfb56c33a08",
+      "date": 1417970522841
+    },
+    {
+      "type": "remove",
+      "id": "774c66b2419246a7",
+      "date": 1417970526305
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc36b464899ea316"
+      },
+      "id": "fc36b464899ea316",
+      "type": "add",
+      "after": "8386abfb56c33a08",
+      "date": 1417970653634
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94d789accf83b44b"
+      },
+      "id": "94d789accf83b44b",
+      "type": "add",
+      "after": "fc36b464899ea316",
+      "date": 1417970657896
+    },
+    {
+      "type": "edit",
+      "id": "fc36b464899ea316",
+      "item": {
+        "type": "paragraph",
+        "id": "fc36b464899ea316",
+        "text": "Sometimes you can do soft forking. Live Journal does the best soft forking of any software I've ever seen, where the concepts of \"you\" and \"your group\" are pretty much intertwingled. The average size of a Live Journal group is about a dozen people. And the median size is around five.\n\nBut each user is a little bit connected to other such clusters, through their friends, and so while the clusters are real, they're not completely bounded -- there's a soft overlap which means that though most users participate in small groups, most of the half-million LiveJournal users are connected to one another through some short chain."
+      },
+      "date": 1417970659791
+    },
+    {
+      "type": "edit",
+      "id": "94d789accf83b44b",
+      "item": {
+        "type": "pagefold",
+        "id": "94d789accf83b44b",
+        "text": "Quoting Shirky"
+      },
+      "date": 1417970679934
+    },
+    {
+      "type": "move",
+      "order": [
+        "8386abfb56c33a08",
+        "94d789accf83b44b",
+        "fc36b464899ea316"
+      ],
+      "id": "94d789accf83b44b",
+      "date": 1417970684061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74db6eb9ca27c149"
+      },
+      "id": "74db6eb9ca27c149",
+      "type": "add",
+      "after": "fc36b464899ea316",
+      "date": 1417970692082
+    },
+    {
+      "type": "edit",
+      "id": "74db6eb9ca27c149",
+      "item": {
+        "type": "pagefold",
+        "id": "74db6eb9ca27c149",
+        "text": "."
+      },
+      "date": 1417970707765
+    },
+    {
+      "type": "edit",
+      "id": "8386abfb56c33a08",
+      "item": {
+        "type": "paragraph",
+        "id": "8386abfb56c33a08",
+        "text": "In Shirky's 2003 post [[Own Worst Enemy]], he intuits that the solution to having social software that scales is \"soft-forking groups\": groups with fuzzy edges, centered around individual relations."
+      },
+      "date": 1417970724524
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59545803bb8a4a46"
+      },
+      "id": "59545803bb8a4a46",
+      "type": "add",
+      "after": "74db6eb9ca27c149",
+      "date": 1417970727680
+    },
+    {
+      "type": "edit",
+      "id": "59545803bb8a4a46",
+      "item": {
+        "type": "paragraph",
+        "id": "59545803bb8a4a46",
+        "text": "If we are reading this right, Shirky is talking about a variation on the model that is now ubiquitous -- you are part of a community, but you see only a sliver of it via friends. Yet because your friends have friends you don't, interesting stuff can still find you, etc."
+      },
+      "date": 1417971079767
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5ca2f02b599757cd",
+        "text": ""
+      },
+      "id": "5ca2f02b599757cd",
+      "type": "add",
+      "after": "59545803bb8a4a46",
+      "date": 1417971079790
+    },
+    {
+      "type": "edit",
+      "id": "5ca2f02b599757cd",
+      "item": {
+        "type": "paragraph",
+        "id": "5ca2f02b599757cd",
+        "text": "The groups are soft-forking because they morph and change without any explicit declaration of forking. Users just do their own thing, and different groups develop."
+      },
+      "date": 1417971169757
+    },
+    {
+      "type": "edit",
+      "id": "59545803bb8a4a46",
+      "item": {
+        "type": "paragraph",
+        "id": "59545803bb8a4a46",
+        "text": "If we are reading this right, Shirky is talking about a variation on the model that is now ubiquitous -- you are part of a community, but you see only a sliver of it via friends. Yet because your friends have friends you don't, interesting stuff can still find you."
+      },
+      "date": 1417971186143
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab712c7e5c88d5c9"
+      },
+      "id": "ab712c7e5c88d5c9",
+      "type": "add",
+      "after": "5ca2f02b599757cd",
+      "date": 1417971244230
+    },
+    {
+      "type": "edit",
+      "id": "ab712c7e5c88d5c9",
+      "item": {
+        "type": "paragraph",
+        "id": "ab712c7e5c88d5c9",
+        "text": "There is probably a newer name for this structure (FOAF comes to mind). But in the context of federated wiki, soft-forking groups is a fitting term, since the group you interact with is partially determined by the forks on documents you look at."
+      },
+      "date": 1417971358764
+    },
+    {
+      "type": "edit",
+      "id": "8386abfb56c33a08",
+      "item": {
+        "type": "paragraph",
+        "id": "8386abfb56c33a08",
+        "text": "In Shirky's 2003 post [[Own Worst Enemy]], he intuits that one solution to having social software that scales is \"soft-forking groups\": groups with fuzzy edges, centered around individual relations."
+      },
+      "date": 1417971438384
+    },
+    {
+      "type": "edit",
+      "id": "8386abfb56c33a08",
+      "item": {
+        "type": "paragraph",
+        "id": "8386abfb56c33a08",
+        "text": "In Shirky's 2003 post \"A Group Is Its [[Own Worst Enemy]]\", he intuits that one solution to having social software that scales is \"soft-forking groups\": groups with fuzzy edges, centered around individual relations."
+      },
+      "date": 1417971495838
+    },
+    {
+      "type": "fork",
+      "site": "journal14.hapgood.net:3000",
+      "date": 1418254578912
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1438721906730
+    }
+  ]
+}

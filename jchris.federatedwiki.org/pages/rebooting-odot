@@ -1,0 +1,95 @@
+{
+  "title": "Rebooting ODOT",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "681a8fb0d708b1bd",
+      "text": "There is an attitude problem at the Oregon Department of Transportation that can't be fixed with policy changes."
+    },
+    {
+      "type": "paragraph",
+      "id": "209334bb48b2aa10",
+      "text": "[http://www.oregon.gov/ODOT/Pages/Agency_Directory.aspx These are the people who need to leave.] Sorry crew you had your chance."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rebooting ODOT",
+        "story": []
+      },
+      "date": 1438867654429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "681a8fb0d708b1bd"
+      },
+      "id": "681a8fb0d708b1bd",
+      "type": "add",
+      "date": 1438867662320
+    },
+    {
+      "type": "edit",
+      "id": "681a8fb0d708b1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "681a8fb0d708b1bd",
+        "text": "There is an attitude problem at the Oregon Department of Transportation that can't be fixed with policy changes."
+      },
+      "date": 1438867689614
+    },
+    {
+      "type": "edit",
+      "id": "681a8fb0d708b1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "681a8fb0d708b1bd",
+        "text": "There is an attitude problem at the Oregon Department of Transportation that can't be fixed with policy changes. "
+      },
+      "date": 1438867705389
+    },
+    {
+      "type": "add",
+      "id": "209334bb48b2aa10",
+      "item": {
+        "type": "paragraph",
+        "id": "209334bb48b2aa10",
+        "text": "These are the people who need to leave "
+      },
+      "after": "681a8fb0d708b1bd",
+      "date": 1438867713252
+    },
+    {
+      "type": "edit",
+      "id": "209334bb48b2aa10",
+      "item": {
+        "type": "paragraph",
+        "id": "209334bb48b2aa10",
+        "text": "These are the people who need to leave http://www.oregon.gov/ODOT/Pages/Agency_Directory.aspx"
+      },
+      "date": 1438867716538
+    },
+    {
+      "type": "edit",
+      "id": "209334bb48b2aa10",
+      "item": {
+        "type": "paragraph",
+        "id": "209334bb48b2aa10",
+        "text": "[http://www.oregon.gov/ODOT/Pages/Agency_Directory.aspx These are the people who need to leave.] Sorry crew you had your chance."
+      },
+      "date": 1438867757920
+    },
+    {
+      "type": "edit",
+      "id": "681a8fb0d708b1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "681a8fb0d708b1bd",
+        "text": "There is an attitude problem at the Oregon Department of Transportation that can't be fixed with policy changes."
+      },
+      "date": 1438867785919
+    }
+  ]
+}

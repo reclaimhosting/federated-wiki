@@ -12,9 +12,9 @@
       "text": "<h3>How it will work"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "e37d3b78e70b8f84",
-      "text": "*"
+      "text": "<li> Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that adds \"github\" or some such to the book admin block\n<li> This link provides access to the page to provide github details (credentials, and the name of the repository and the file) that will be connected to the Moodle book\n<li> Depending on the content in the book, the content in the github file, the settings of the repository, and the permissions for the user, there will be options about adding/replacing etc content\n"
     }
   ],
   "journal": [
@@ -124,6 +124,56 @@
         "text": "*"
       },
       "date": 1439104714937
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "paragraph",
+        "id": "e37d3b78e70b8f84",
+        "text": "* Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that "
+      },
+      "date": 1439104818788
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "paragraph",
+        "id": "e37d3b78e70b8f84",
+        "text": "- Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that adds \"github\" or some such to the book admin block"
+      },
+      "date": 1439104880827
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "paragraph",
+        "id": "e37d3b78e70b8f84",
+        "text": "<li> Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that adds \"github\" or some such to the book admin block"
+      },
+      "date": 1439104931158
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "html",
+        "id": "e37d3b78e70b8f84",
+        "text": "<li> Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that adds \"github\" or some such to the book admin block"
+      },
+      "date": 1439104933450
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "html",
+        "id": "e37d3b78e70b8f84",
+        "text": "<li> Implement as a [https://moodle.org/plugins/browse.php?list=category&id=56 book tool] that adds \"github\" or some such to the book admin block\n<li> This link provides access to the page to provide github details (credentials, and the name of the repository and the file) that will be connected to the Moodle book\n<li> Depending on the content in the book, the content in the github file, the settings of the repository, and the permissions for the user, there will be options about adding/replacing etc content\n"
+      },
+      "date": 1439105064349
     }
   ]
 }

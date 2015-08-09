@@ -1,0 +1,129 @@
+{
+  "title": "moodle-book-and-github",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c15582c2a2d09e33",
+      "text": "Aim here is to plan, build, and describe the addition of the ability to import/export the contents of the Moodle book module to github.  Part of the [[Moodle open book]] project. Intended to help free content stored in Moodle book's beyond Moodle."
+    },
+    {
+      "type": "html",
+      "id": "eb0441e3faf3b014",
+      "text": "<h3>How it will work"
+    },
+    {
+      "type": "paragraph",
+      "id": "e37d3b78e70b8f84",
+      "text": "*"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "moodle-book-and-github",
+        "story": []
+      },
+      "date": 1439104423684
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c15582c2a2d09e33"
+      },
+      "id": "c15582c2a2d09e33",
+      "type": "add",
+      "date": 1439104431030
+    },
+    {
+      "type": "edit",
+      "id": "c15582c2a2d09e33",
+      "item": {
+        "type": "paragraph",
+        "id": "c15582c2a2d09e33",
+        "text": "Aim here is to plan, build, and describe the addition of the ability to import/export the contents of the Moodle book module to github.  Part of the [[Moodle open book]] project. Intended to help free content stored in Moodle book's beyond Moodle."
+      },
+      "date": 1439104501126
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb0441e3faf3b014"
+      },
+      "id": "eb0441e3faf3b014",
+      "type": "add",
+      "after": "c15582c2a2d09e33",
+      "date": 1439104619268
+    },
+    {
+      "type": "edit",
+      "id": "eb0441e3faf3b014",
+      "item": {
+        "type": "paragraph",
+        "id": "eb0441e3faf3b014",
+        "text": "== How it will work"
+      },
+      "date": 1439104625009
+    },
+    {
+      "type": "edit",
+      "id": "eb0441e3faf3b014",
+      "item": {
+        "type": "paragraph",
+        "id": "eb0441e3faf3b014",
+        "text": "How it will work"
+      },
+      "date": 1439104631090
+    },
+    {
+      "type": "edit",
+      "id": "eb0441e3faf3b014",
+      "item": {
+        "type": "html",
+        "id": "eb0441e3faf3b014",
+        "text": "How it will work"
+      },
+      "date": 1439104635170
+    },
+    {
+      "type": "edit",
+      "id": "eb0441e3faf3b014",
+      "item": {
+        "type": "html",
+        "id": "eb0441e3faf3b014",
+        "text": "# How it will work"
+      },
+      "date": 1439104684943
+    },
+    {
+      "type": "edit",
+      "id": "eb0441e3faf3b014",
+      "item": {
+        "type": "html",
+        "id": "eb0441e3faf3b014",
+        "text": "<h3>How it will work"
+      },
+      "date": 1439104696071
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e37d3b78e70b8f84"
+      },
+      "id": "e37d3b78e70b8f84",
+      "type": "add",
+      "after": "eb0441e3faf3b014",
+      "date": 1439104702114
+    },
+    {
+      "type": "edit",
+      "id": "e37d3b78e70b8f84",
+      "item": {
+        "type": "paragraph",
+        "id": "e37d3b78e70b8f84",
+        "text": "*"
+      },
+      "date": 1439104714937
+    }
+  ]
+}

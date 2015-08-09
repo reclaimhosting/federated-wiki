@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "bc02db8976ab5b1a"
+      "id": "bcebbdba2553f29f"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "e96a0133fbc05cda"
+      "id": "e43fff35afedaaab"
     },
     {
-      "date": 1439103601000,
+      "date": 1439104715000,
+      "site": "fedwiki.djon.es",
+      "slug": "moodle-book-and-github",
+      "title": "moodle-book-and-github",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 106 pages.",
+      "type": "reference",
+      "id": "d83a8bcf7c720ce7"
+    },
+    {
+      "date": 1439104201000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "139caae54a8a6899"
+      "id": "02bc8dbb26c435a5"
     },
     {
       "date": 1438878636000,
@@ -27,7 +36,7 @@
       "title": "Letter to ODOT",
       "text": "In [http://jchris.federatedwiki.org jchris.federatedwiki.org] with 8 pages.",
       "type": "reference",
-      "id": "6bf276e2ad838a46"
+      "id": "121436a9129d24b0"
     },
     {
       "date": 1438722016000,
@@ -36,7 +45,7 @@
       "title": "Two Pizza Rule",
       "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "8ceefd9e804e5247"
+      "id": "763bb90134901d16"
     },
     {
       "date": 1438567881000,
@@ -45,7 +54,7 @@
       "title": "Example",
       "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "7b185eadb1f60029"
+      "id": "7535cd50b286ee78"
     },
     {
       "date": 1438370825000,
@@ -54,55 +63,69 @@
       "title": "Online Pizza",
       "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "52e6a5fbf8198c7a"
+      "id": "6b8432f9c51afe59"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "20abbe3548398e21",
+      "id": "18ddd318028fa253",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "bc02db8976ab5b1a",
+      "id": "bcebbdba2553f29f",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "bc02db8976ab5b1a"
+        "id": "bcebbdba2553f29f"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "e96a0133fbc05cda",
+      "id": "e43fff35afedaaab",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "e96a0133fbc05cda"
+        "id": "e43fff35afedaaab"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "139caae54a8a6899",
+      "id": "d83a8bcf7c720ce7",
       "item": {
-        "date": 1439103601000,
+        "date": 1439104715000,
+        "site": "fedwiki.djon.es",
+        "slug": "moodle-book-and-github",
+        "title": "moodle-book-and-github",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 106 pages.",
+        "type": "reference",
+        "id": "d83a8bcf7c720ce7"
+      },
+      "date": 1439104801000
+    },
+    {
+      "type": "add",
+      "id": "02bc8dbb26c435a5",
+      "item": {
+        "date": 1439104201000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "139caae54a8a6899"
+        "id": "02bc8dbb26c435a5"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "6bf276e2ad838a46",
+      "id": "121436a9129d24b0",
       "item": {
         "date": 1438878636000,
         "site": "jchris.federatedwiki.org",
@@ -110,13 +133,13 @@
         "title": "Letter to ODOT",
         "text": "In [http://jchris.federatedwiki.org jchris.federatedwiki.org] with 8 pages.",
         "type": "reference",
-        "id": "6bf276e2ad838a46"
+        "id": "121436a9129d24b0"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "8ceefd9e804e5247",
+      "id": "763bb90134901d16",
       "item": {
         "date": 1438722016000,
         "site": "divergence.federatedwiki.org",
@@ -124,13 +147,13 @@
         "title": "Two Pizza Rule",
         "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "8ceefd9e804e5247"
+        "id": "763bb90134901d16"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "7b185eadb1f60029",
+      "id": "7535cd50b286ee78",
       "item": {
         "date": 1438567881000,
         "site": "images.federatedwiki.org",
@@ -138,13 +161,13 @@
         "title": "Example",
         "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "7b185eadb1f60029"
+        "id": "7535cd50b286ee78"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     },
     {
       "type": "add",
-      "id": "52e6a5fbf8198c7a",
+      "id": "6b8432f9c51afe59",
       "item": {
         "date": 1438370825000,
         "site": "largeimages.federatedwiki.org",
@@ -152,9 +175,9 @@
         "title": "Online Pizza",
         "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "52e6a5fbf8198c7a"
+        "id": "6b8432f9c51afe59"
       },
-      "date": 1439104201000
+      "date": 1439104801000
     }
   ]
 }

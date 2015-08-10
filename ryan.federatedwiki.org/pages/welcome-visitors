@@ -23,11 +23,6 @@
       "text": "Pages where we do and share."
     },
     {
-      "type": "factory",
-      "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
-    },
-    {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
@@ -117,6 +112,11 @@
         "text": "[[Ryan Muller]]"
       },
       "date": 1439175579678
+    },
+    {
+      "type": "remove",
+      "id": "05e2fa92643677ca",
+      "date": 1439175625643
     }
   ]
 }

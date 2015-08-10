@@ -5,6 +5,20 @@
       "type": "paragraph",
       "id": "2659df634c973886",
       "text": "lives in Brooklyn"
+    },
+    {
+      "type": "paragraph",
+      "id": "155d54f05e497b72",
+      "text": "codes, soon on Google Classroom"
+    },
+    {
+      "type": "paragraph",
+      "id": "4443903fff70b774",
+      "text": "almost never tweets as [http://twitter.com/cicatriz @cicatriz]"
+    },
+    {
+      "type": "factory",
+      "id": "ad186fbfe6295af1"
     }
   ],
   "journal": [
@@ -34,6 +48,78 @@
         "text": "lives in Brooklyn"
       },
       "date": 1439175590020
+    },
+    {
+      "type": "add",
+      "id": "155d54f05e497b72",
+      "item": {
+        "type": "paragraph",
+        "id": "155d54f05e497b72",
+        "text": "software engineer (soon) working on Google Classroom"
+      },
+      "after": "2659df634c973886",
+      "date": 1439175604015
+    },
+    {
+      "type": "edit",
+      "id": "155d54f05e497b72",
+      "item": {
+        "type": "paragraph",
+        "id": "155d54f05e497b72",
+        "text": "codes, soon on Google Classroom"
+      },
+      "date": 1439175779802
+    },
+    {
+      "type": "add",
+      "id": "4443903fff70b774",
+      "item": {
+        "type": "paragraph",
+        "id": "4443903fff70b774",
+        "text": "almost never tweets at [@cicatriz](http://twitter.com/cicatriz)"
+      },
+      "after": "155d54f05e497b72",
+      "date": 1439175800545
+    },
+    {
+      "type": "edit",
+      "id": "4443903fff70b774",
+      "item": {
+        "type": "paragraph",
+        "id": "4443903fff70b774",
+        "text": "almost never tweets as <a href=\"http://twitter.com/cicatriz\">@cicatriz</a>"
+      },
+      "date": 1439175825162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad186fbfe6295af1"
+      },
+      "id": "ad186fbfe6295af1",
+      "type": "add",
+      "after": "4443903fff70b774",
+      "date": 1439175829429
+    },
+    {
+      "type": "edit",
+      "id": "4443903fff70b774",
+      "item": {
+        "type": "paragraph",
+        "id": "4443903fff70b774",
+        "text": "almost never tweets as [http://twitter.com/cicatriz "
+      },
+      "date": 1439175871513
+    },
+    {
+      "type": "edit",
+      "id": "4443903fff70b774",
+      "item": {
+        "type": "paragraph",
+        "id": "4443903fff70b774",
+        "text": "almost never tweets as [http://twitter.com/cicatriz @cicatriz]"
+      },
+      "date": 1439175874700
     }
   ]
 }

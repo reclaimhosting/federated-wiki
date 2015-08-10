@@ -2,7 +2,7 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to this [[Federated Wiki]] site.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
@@ -30,7 +30,12 @@
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "Keeping my instructions here until I figure out how to do things. "
+    },
+    {
+      "type": "paragraph",
+      "id": "2e217d2877e0748e",
+      "text": "Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     }
   ],
   "journal": [
@@ -117,6 +122,37 @@
         "text": "[[Lisa Sieverts]]"
       },
       "date": 1439141618844
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1439234627297
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Keeping my instructions here until I figure out how to do things. "
+      },
+      "date": 1439234664836
+    },
+    {
+      "type": "add",
+      "id": "2e217d2877e0748e",
+      "item": {
+        "type": "paragraph",
+        "id": "2e217d2877e0748e",
+        "text": "Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1439234672455
     }
   ]
 }

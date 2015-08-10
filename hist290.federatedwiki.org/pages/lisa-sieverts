@@ -5,6 +5,16 @@
       "type": "paragraph",
       "id": "337fb9a8633e5387",
       "text": "I guess we all do this \"how do I figure this thing out\" step."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ec6ef465f41841f",
+      "text": "[http://lisasieverts.com My web site]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b39bdc2e94aabf8c",
+      "text": "On the education side, I teach at Harvard Extension, primarily online."
     }
   ],
   "journal": [
@@ -34,6 +44,68 @@
         "text": "I guess we all do this \"how do I figure this thing out\" step."
       },
       "date": 1439141678308
+    },
+    {
+      "type": "add",
+      "id": "6ec6ef465f41841f",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec6ef465f41841f",
+        "text": "My web site is http://lisasieverts.com."
+      },
+      "after": "337fb9a8633e5387",
+      "date": 1439234529804
+    },
+    {
+      "type": "add",
+      "id": "b39bdc2e94aabf8c",
+      "item": {
+        "type": "paragraph",
+        "id": "b39bdc2e94aabf8c",
+        "text": "On the education side, I teach at Harvard Extension, primarily online."
+      },
+      "after": "6ec6ef465f41841f",
+      "date": 1439234556770
+    },
+    {
+      "type": "edit",
+      "id": "6ec6ef465f41841f",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec6ef465f41841f",
+        "text": "[My web site]  (http://lisasieverts.com)"
+      },
+      "date": 1439234769813
+    },
+    {
+      "type": "edit",
+      "id": "6ec6ef465f41841f",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec6ef465f41841f",
+        "text": "[My web site](http://lisasieverts.com)"
+      },
+      "date": 1439234791753
+    },
+    {
+      "type": "edit",
+      "id": "6ec6ef465f41841f",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec6ef465f41841f",
+        "text": "[My web site](http://lisasieverts.com) Ah, OK, so Markdown doesn't work. My web site is http://lisasieverts.com."
+      },
+      "date": 1439234823595
+    },
+    {
+      "type": "edit",
+      "id": "6ec6ef465f41841f",
+      "item": {
+        "type": "paragraph",
+        "id": "6ec6ef465f41841f",
+        "text": "[http://lisasieverts.com My web site]"
+      },
+      "date": 1439234889920
     }
   ]
 }

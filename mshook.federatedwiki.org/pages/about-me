@@ -5,6 +5,21 @@
       "type": "paragraph",
       "id": "b503db173173ab77",
       "text": "I live on Mount Desert Island."
+    },
+    {
+      "type": "paragraph",
+      "id": "1ddc0e8b31d29985",
+      "text": "My current #1 place online"
+    },
+    {
+      "type": "html",
+      "id": "3b01ae5bce71456e",
+      "text": "<a href=\"https://mshook.withknown.com/\">https://mshook.withknown.com/</a>"
+    },
+    {
+      "type": "paragraph",
+      "id": "986fef19b732204d",
+      "text": "[[https://mshook.withknown.com/]]"
     }
   ],
   "journal": [
@@ -34,6 +49,130 @@
         "text": "I live on Mount Desert Island."
       },
       "date": 1439216364136
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1ddc0e8b31d29985",
+        "text": "My current #1 place:"
+      },
+      "after": "b503db173173ab77",
+      "id": "1ddc0e8b31d29985",
+      "date": 1439216472209
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "3b01ae5bce71456e",
+        "text": "<a href=\"https://mshook.withknown.com/\">https://mshook.withknown.com/</a>"
+      },
+      "after": "1ddc0e8b31d29985",
+      "id": "3b01ae5bce71456e",
+      "date": 1439216491149
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4797d640c0ded7b"
+      },
+      "id": "f4797d640c0ded7b",
+      "type": "add",
+      "after": "3b01ae5bce71456e",
+      "date": 1439216702248
+    },
+    {
+      "type": "edit",
+      "id": "1ddc0e8b31d29985",
+      "item": {
+        "type": "paragraph",
+        "id": "1ddc0e8b31d29985",
+        "text": "My current #1 place online"
+      },
+      "date": 1439216756445
+    },
+    {
+      "type": "add",
+      "id": "782e567b056f4e2f",
+      "item": {
+        "type": "paragraph",
+        "id": "782e567b056f4e2f",
+        "text": ":"
+      },
+      "after": "1ddc0e8b31d29985",
+      "date": 1439216759036
+    },
+    {
+      "type": "remove",
+      "id": "782e567b056f4e2f",
+      "date": 1439216769699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "14b00a7a2db3037b"
+      },
+      "id": "14b00a7a2db3037b",
+      "type": "add",
+      "after": "f4797d640c0ded7b",
+      "date": 1439216780942
+    },
+    {
+      "type": "remove",
+      "id": "f4797d640c0ded7b",
+      "date": 1439216786594
+    },
+    {
+      "type": "remove",
+      "id": "14b00a7a2db3037b",
+      "date": 1439216793780
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd29ea37ba33c73a"
+      },
+      "id": "dd29ea37ba33c73a",
+      "type": "add",
+      "after": "3b01ae5bce71456e",
+      "date": 1439216937886
+    },
+    {
+      "type": "edit",
+      "id": "dd29ea37ba33c73a",
+      "item": {
+        "type": "paragraph",
+        "id": "dd29ea37ba33c73a",
+        "text": "{{https://mshook.withknown.com/]]"
+      },
+      "date": 1439216953769
+    },
+    {
+      "type": "edit",
+      "id": "dd29ea37ba33c73a",
+      "item": {
+        "type": "paragraph",
+        "id": "dd29ea37ba33c73a",
+        "text": "[["
+      },
+      "date": 1439216963498
+    },
+    {
+      "type": "add",
+      "id": "986fef19b732204d",
+      "item": {
+        "type": "paragraph",
+        "id": "986fef19b732204d",
+        "text": "[[https://mshook.withknown.com/]]"
+      },
+      "after": "dd29ea37ba33c73a",
+      "date": 1439216971556
+    },
+    {
+      "type": "remove",
+      "id": "dd29ea37ba33c73a",
+      "date": 1439216982173
     }
   ]
 }

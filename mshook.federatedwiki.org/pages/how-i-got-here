@@ -5,6 +5,11 @@
       "type": "paragraph",
       "id": "80808da0a70a0179",
       "text": "By here I mean on [http://federatedwiki.org/view/welcome-visitors federatedwiki.org]"
+    },
+    {
+      "type": "paragraph",
+      "id": "35ab1737f9950a82",
+      "text": "[http://hapgood.us/2015/08/08/the-five-elements-of-the-socratic-website/ This page] has a link about where to go to get your own instance of a federated wiki."
     }
   ],
   "journal": [
@@ -44,6 +49,26 @@
         "text": "By here I mean on [http://federatedwiki.org/view/welcome-visitors federatedwiki.org]"
       },
       "date": 1439236072058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "35ab1737f9950a82"
+      },
+      "id": "35ab1737f9950a82",
+      "type": "add",
+      "after": "80808da0a70a0179",
+      "date": 1439236326756
+    },
+    {
+      "type": "edit",
+      "id": "35ab1737f9950a82",
+      "item": {
+        "type": "paragraph",
+        "id": "35ab1737f9950a82",
+        "text": "[http://hapgood.us/2015/08/08/the-five-elements-of-the-socratic-website/ This page] has a link about where to go to get your own instance of a federated wiki."
+      },
+      "date": 1439236383189
     }
   ]
 }

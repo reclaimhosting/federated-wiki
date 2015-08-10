@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "b9bc27362acbc449"
+      "id": "1df71c140867e5eb"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "1c3ded6ce4fb1b3b"
+      "id": "36b12ebea8093aea"
     },
     {
-      "date": 1439221201000,
+      "date": 1439222374000,
+      "site": "svincent.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://svincent.federatedwiki.org svincent.federatedwiki.org] with 3 pages.",
+      "type": "reference",
+      "id": "53c6a4b568659d27"
+    },
+    {
+      "date": 1439221802000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "2923554b6351001f"
+      "id": "525b8c5d4449c859"
     },
     {
       "date": 1439220933000,
@@ -27,7 +36,7 @@
       "title": "MathJax Experiment",
       "text": "In [http://mshook.federatedwiki.org mshook.federatedwiki.org] with 5 pages.",
       "type": "reference",
-      "id": "3b5a7b36897aed24"
+      "id": "675d7a94dec6db85"
     },
     {
       "date": 1439175874000,
@@ -36,7 +45,7 @@
       "title": "Ryan Muller",
       "text": "In [http://ryan.federatedwiki.org ryan.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "6ca2e590337ed2b4"
+      "id": "4ac0ff586fe1d869"
     },
     {
       "date": 1439141678000,
@@ -45,7 +54,7 @@
       "title": "Lisa Sieverts",
       "text": "In [http://hist290.federatedwiki.org hist290.federatedwiki.org] with 2 pages.",
       "type": "reference",
-      "id": "955042048288b39a"
+      "id": "f4dc144da1921681"
     },
     {
       "date": 1439105065000,
@@ -54,7 +63,7 @@
       "title": "moodle-book-and-github",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 106 pages.",
       "type": "reference",
-      "id": "d51088bede71d4b9"
+      "id": "2442ffa5022bf1ca"
     },
     {
       "date": 1438878636000,
@@ -63,7 +72,7 @@
       "title": "Letter to ODOT",
       "text": "In [http://jchris.federatedwiki.org jchris.federatedwiki.org] with 8 pages.",
       "type": "reference",
-      "id": "adc7b5235e720e7a"
+      "id": "4d54680fe85e45e5"
     },
     {
       "date": 1438722016000,
@@ -72,7 +81,7 @@
       "title": "Two Pizza Rule",
       "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "5e496dee7ec18fc6"
+      "id": "b470c0c91f71071f"
     },
     {
       "date": 1438567881000,
@@ -81,7 +90,7 @@
       "title": "Example",
       "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "e492de09a4748c40"
+      "id": "c0e9640d1f4ef1cd"
     },
     {
       "date": 1438370825000,
@@ -90,55 +99,69 @@
       "title": "Online Pizza",
       "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "7c59d0df7e799225"
+      "id": "85b4eef2a946167c"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "40bf816a563c528c",
+      "id": "5f6d1c662360a5d3",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1439221801000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "b9bc27362acbc449",
+      "id": "1df71c140867e5eb",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "b9bc27362acbc449"
+        "id": "1df71c140867e5eb"
       },
-      "date": 1439221801000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "1c3ded6ce4fb1b3b",
+      "id": "36b12ebea8093aea",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "1c3ded6ce4fb1b3b"
+        "id": "36b12ebea8093aea"
       },
-      "date": 1439221801000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "2923554b6351001f",
+      "id": "53c6a4b568659d27",
       "item": {
-        "date": 1439221201000,
+        "date": 1439222374000,
+        "site": "svincent.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://svincent.federatedwiki.org svincent.federatedwiki.org] with 3 pages.",
+        "type": "reference",
+        "id": "53c6a4b568659d27"
+      },
+      "date": 1439222401000
+    },
+    {
+      "type": "add",
+      "id": "525b8c5d4449c859",
+      "item": {
+        "date": 1439221802000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "2923554b6351001f"
+        "id": "525b8c5d4449c859"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "3b5a7b36897aed24",
+      "id": "675d7a94dec6db85",
       "item": {
         "date": 1439220933000,
         "site": "mshook.federatedwiki.org",
@@ -146,13 +169,13 @@
         "title": "MathJax Experiment",
         "text": "In [http://mshook.federatedwiki.org mshook.federatedwiki.org] with 5 pages.",
         "type": "reference",
-        "id": "3b5a7b36897aed24"
+        "id": "675d7a94dec6db85"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "6ca2e590337ed2b4",
+      "id": "4ac0ff586fe1d869",
       "item": {
         "date": 1439175874000,
         "site": "ryan.federatedwiki.org",
@@ -160,13 +183,13 @@
         "title": "Ryan Muller",
         "text": "In [http://ryan.federatedwiki.org ryan.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "6ca2e590337ed2b4"
+        "id": "4ac0ff586fe1d869"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "955042048288b39a",
+      "id": "f4dc144da1921681",
       "item": {
         "date": 1439141678000,
         "site": "hist290.federatedwiki.org",
@@ -174,13 +197,13 @@
         "title": "Lisa Sieverts",
         "text": "In [http://hist290.federatedwiki.org hist290.federatedwiki.org] with 2 pages.",
         "type": "reference",
-        "id": "955042048288b39a"
+        "id": "f4dc144da1921681"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "d51088bede71d4b9",
+      "id": "2442ffa5022bf1ca",
       "item": {
         "date": 1439105065000,
         "site": "fedwiki.djon.es",
@@ -188,13 +211,13 @@
         "title": "moodle-book-and-github",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 106 pages.",
         "type": "reference",
-        "id": "d51088bede71d4b9"
+        "id": "2442ffa5022bf1ca"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "adc7b5235e720e7a",
+      "id": "4d54680fe85e45e5",
       "item": {
         "date": 1438878636000,
         "site": "jchris.federatedwiki.org",
@@ -202,13 +225,13 @@
         "title": "Letter to ODOT",
         "text": "In [http://jchris.federatedwiki.org jchris.federatedwiki.org] with 8 pages.",
         "type": "reference",
-        "id": "adc7b5235e720e7a"
+        "id": "4d54680fe85e45e5"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "5e496dee7ec18fc6",
+      "id": "b470c0c91f71071f",
       "item": {
         "date": 1438722016000,
         "site": "divergence.federatedwiki.org",
@@ -216,13 +239,13 @@
         "title": "Two Pizza Rule",
         "text": "In [http://divergence.federatedwiki.org divergence.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "5e496dee7ec18fc6"
+        "id": "b470c0c91f71071f"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "e492de09a4748c40",
+      "id": "c0e9640d1f4ef1cd",
       "item": {
         "date": 1438567881000,
         "site": "images.federatedwiki.org",
@@ -230,13 +253,13 @@
         "title": "Example",
         "text": "In [http://images.federatedwiki.org images.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "e492de09a4748c40"
+        "id": "c0e9640d1f4ef1cd"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     },
     {
       "type": "add",
-      "id": "7c59d0df7e799225",
+      "id": "85b4eef2a946167c",
       "item": {
         "date": 1438370825000,
         "site": "largeimages.federatedwiki.org",
@@ -244,9 +267,9 @@
         "title": "Online Pizza",
         "text": "In [http://largeimages.federatedwiki.org largeimages.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "7c59d0df7e799225"
+        "id": "85b4eef2a946167c"
       },
-      "date": 1439221802000
+      "date": 1439222401000
     }
   ]
 }

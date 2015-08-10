@@ -10,6 +10,10 @@
       "type": "paragraph",
       "id": "35ab1737f9950a82",
       "text": "[http://hapgood.us/2015/08/08/the-five-elements-of-the-socratic-website/ This page] has a link about where to go to get your own instance of a federated wiki."
+    },
+    {
+      "type": "factory",
+      "id": "07ad62c764bffdd6"
     }
   ],
   "journal": [
@@ -69,6 +73,31 @@
         "text": "[http://hapgood.us/2015/08/08/the-five-elements-of-the-socratic-website/ This page] has a link about where to go to get your own instance of a federated wiki."
       },
       "date": 1439236383189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "04df800228c4ee04"
+      },
+      "id": "04df800228c4ee04",
+      "type": "add",
+      "after": "35ab1737f9950a82",
+      "date": 1439237938649
+    },
+    {
+      "type": "remove",
+      "id": "04df800228c4ee04",
+      "date": 1439237960740
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07ad62c764bffdd6"
+      },
+      "id": "07ad62c764bffdd6",
+      "type": "add",
+      "after": "35ab1737f9950a82",
+      "date": 1439237962278
     }
   ]
 }

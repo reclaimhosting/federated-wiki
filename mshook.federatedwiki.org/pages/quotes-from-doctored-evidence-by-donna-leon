@@ -2,8 +2,34 @@
   "title": "Quotes from Doctored Evidence by Donna Leon",
   "story": [
     {
-      "type": "factory",
-      "id": "eb041309437ac1bd"
+      "type": "paragraph",
+      "id": "eb041309437ac1bd",
+      "text": "Back in her apartment, she poured olive oil into a frying pan, chopped up two, then three, then four cloves of garlic and let them simmer slowly, breathing in the scent with a joy that was almost religious in its intensity... "
+    },
+    {
+      "type": "paragraph",
+      "id": "895c70e94ae815a7",
+      "text": "Page 19"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d539d6e7c0d27c6",
+      "text": "'The woman I spoke to is the head of a department that is now call Human Resources,' Vianello began. Brunetti was struck by how cannibalistic the term sounded but said nothing."
+    },
+    {
+      "type": "paragraph",
+      "id": "fe40415ab97bae39",
+      "text": "Page 150"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d87cb4652cf4228",
+      "text": "'What's good to drink while sitting on the terrace, watching the sun fade in the west, while sitteing beside the person you adore most in the universe and realizing that life has no greater joy to offer than the company of that person?'"
+    },
+    {
+      "type": "paragraph",
+      "id": "6304ad2cd7e97ce8",
+      "text": "Page 196"
     }
   ],
   "journal": [
@@ -23,6 +49,90 @@
       "id": "eb041309437ac1bd",
       "type": "add",
       "date": 1439217571763
+    },
+    {
+      "type": "edit",
+      "id": "eb041309437ac1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "eb041309437ac1bd",
+        "text": "Back in her apartment, she poured olive oil into a frying pan, chopped up two, then three, then four cloves of garlic and let them simmer slowly, breathing in the scent with a joy that was almost religious in its intensity..."
+      },
+      "date": 1439217700318
+    },
+    {
+      "type": "edit",
+      "id": "eb041309437ac1bd",
+      "item": {
+        "type": "paragraph",
+        "id": "eb041309437ac1bd",
+        "text": "Back in her apartment, she poured olive oil into a frying pan, chopped up two, then three, then four cloves of garlic and let them simmer slowly, breathing in the scent with a joy that was almost religious in its intensity... "
+      },
+      "date": 1439217729534
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "895c70e94ae815a7"
+      },
+      "id": "895c70e94ae815a7",
+      "type": "add",
+      "after": "eb041309437ac1bd",
+      "date": 1439217733668
+    },
+    {
+      "type": "edit",
+      "id": "895c70e94ae815a7",
+      "item": {
+        "type": "paragraph",
+        "id": "895c70e94ae815a7",
+        "text": "Page 19"
+      },
+      "date": 1439217739662
+    },
+    {
+      "type": "add",
+      "id": "3d539d6e7c0d27c6",
+      "item": {
+        "type": "paragraph",
+        "id": "3d539d6e7c0d27c6",
+        "text": "'The woman I spoke to is the head of a department that is now call Human Resources,' Vianello began. Brunetti was struck by how cannibalistic the term sounded but said nothing."
+      },
+      "after": "895c70e94ae815a7",
+      "date": 1439217842890
+    },
+    {
+      "type": "add",
+      "id": "fe40415ab97bae39",
+      "item": {
+        "type": "paragraph",
+        "id": "fe40415ab97bae39",
+        "text": "Page 150"
+      },
+      "after": "3d539d6e7c0d27c6",
+      "date": 1439217848583
+    },
+    {
+      "type": "add",
+      "id": "0d87cb4652cf4228",
+      "item": {
+        "type": "paragraph",
+        "id": "0d87cb4652cf4228",
+        "text": "'What's good to drink while sitting on the terrace, watching the sun fade in the west, while sitteing beside the person you adore most in the universe and realizing that life has no greater joy to offer than the company of that person?'"
+      },
+      "after": "fe40415ab97bae39",
+      "date": 1439217947952
+    },
+    {
+      "type": "add",
+      "id": "6304ad2cd7e97ce8",
+      "item": {
+        "type": "paragraph",
+        "id": "6304ad2cd7e97ce8",
+        "text": "Page 196"
+      },
+      "after": "0d87cb4652cf4228",
+      "date": 1439217954357
     }
   ]
 }

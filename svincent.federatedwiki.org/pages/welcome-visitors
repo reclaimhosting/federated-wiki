@@ -2,14 +2,14 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.  [[Get A Wiki]]",
+      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about me."
+      "type": "pagefold",
+      "id": "78f311b64ef1da85",
+      "text": "Pages about me"
     },
     {
       "type": "paragraph",
@@ -18,9 +18,9 @@
       "text": "[[Shawn Vincent]]"
     },
     {
-      "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where I do and share."
+      "type": "pagefold",
+      "id": "2c17f627138c8a08",
+      "text": "Pages where I do and share"
     },
     {
       "type": "paragraph",
@@ -28,9 +28,24 @@
       "text": "[[Random Notes]]"
     },
     {
+      "type": "pagefold",
+      "id": "ad4b25a08e85425a",
+      "text": "More about Federated Wiki"
+    },
+    {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
-      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      "text": "You can edit your copy of these pages. Drag a paragraph to move, double click to edit.  Press the [+] button in the footer to add more items to the page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "d1c59087ed8cdc0f",
+      "text": "You will need to [[Get A Wiki]] to participate, then learn [[How to Wiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "241ebe60ca3d6145",
+      "text": "Follow [[Recent Changes]] here and nearby."
     }
   ],
   "journal": [
@@ -206,6 +221,252 @@
         "text": "Pages where I do and share."
       },
       "date": 1439222373799
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. "
+      },
+      "date": 1439222505742
+    },
+    {
+      "type": "add",
+      "id": "d1c59087ed8cdc0f",
+      "item": {
+        "type": "paragraph",
+        "id": "d1c59087ed8cdc0f",
+        "text": "You will need to [[Get A Wiki]] to participate, then learn [[How to Wiki]]"
+      },
+      "after": "ee416d431ebf4fb4",
+      "date": 1439222507278
+    },
+    {
+      "type": "add",
+      "id": "241ebe60ca3d6145",
+      "item": {
+        "type": "paragraph",
+        "id": "241ebe60ca3d6145",
+        "text": "Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "d1c59087ed8cdc0f",
+      "date": 1439222515484
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1439222535598
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press the [+] button in the footer to add more writing spaces. "
+      },
+      "date": 1439222552987
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press the [+] button in the footer to add more items to the page. "
+      },
+      "date": 1439222561470
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Drag a paragraph to move, double click to edit.  Press the [+] button in the footer to add more items to the page. "
+      },
+      "date": 1439222575058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78f311b64ef1da85"
+      },
+      "id": "78f311b64ef1da85",
+      "type": "add",
+      "after": "241ebe60ca3d6145",
+      "date": 1439222581151
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6a355208f07ef6b"
+      },
+      "id": "a6a355208f07ef6b",
+      "type": "add",
+      "after": "78f311b64ef1da85",
+      "date": 1439222586708
+    },
+    {
+      "type": "edit",
+      "id": "78f311b64ef1da85",
+      "item": {
+        "type": "pagefold",
+        "id": "78f311b64ef1da85",
+        "text": "Pages about me"
+      },
+      "date": 1439222587912
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81560cdd114c50a2"
+      },
+      "id": "81560cdd114c50a2",
+      "type": "add",
+      "after": "a6a355208f07ef6b",
+      "date": 1439222594285
+    },
+    {
+      "type": "edit",
+      "id": "a6a355208f07ef6b",
+      "item": {
+        "type": "paragraph",
+        "id": "a6a355208f07ef6b",
+        "text": "Pages where I do and share"
+      },
+      "date": 1439222595422
+    },
+    {
+      "type": "edit",
+      "id": "81560cdd114c50a2",
+      "item": {
+        "type": "paragraph",
+        "id": "81560cdd114c50a2",
+        "text": "Ho"
+      },
+      "date": 1439222598199
+    },
+    {
+      "type": "remove",
+      "id": "a6a355208f07ef6b",
+      "date": 1439222604247
+    },
+    {
+      "type": "remove",
+      "id": "81560cdd114c50a2",
+      "date": 1439222607469
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c17f627138c8a08"
+      },
+      "id": "2c17f627138c8a08",
+      "type": "add",
+      "after": "78f311b64ef1da85",
+      "date": 1439222608485
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad4b25a08e85425a"
+      },
+      "id": "ad4b25a08e85425a",
+      "type": "add",
+      "after": "2c17f627138c8a08",
+      "date": 1439222615564
+    },
+    {
+      "type": "edit",
+      "id": "2c17f627138c8a08",
+      "item": {
+        "type": "pagefold",
+        "id": "2c17f627138c8a08",
+        "text": "Pages where I do and share"
+      },
+      "date": 1439222617008
+    },
+    {
+      "type": "edit",
+      "id": "ad4b25a08e85425a",
+      "item": {
+        "type": "pagefold",
+        "id": "ad4b25a08e85425a",
+        "text": "More about Federated Wiki"
+      },
+      "date": 1439222623150
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "78f311b64ef1da85",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "e890d3ac42a43f3d",
+        "ee416d431ebf4fb4",
+        "d1c59087ed8cdc0f",
+        "241ebe60ca3d6145",
+        "2c17f627138c8a08",
+        "ad4b25a08e85425a"
+      ],
+      "id": "78f311b64ef1da85",
+      "date": 1439222626667
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "78f311b64ef1da85",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2c17f627138c8a08",
+        "2bbd646ff3f44b51",
+        "e890d3ac42a43f3d",
+        "ee416d431ebf4fb4",
+        "d1c59087ed8cdc0f",
+        "241ebe60ca3d6145",
+        "ad4b25a08e85425a"
+      ],
+      "id": "2c17f627138c8a08",
+      "date": 1439222629009
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "78f311b64ef1da85",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2c17f627138c8a08",
+        "2bbd646ff3f44b51",
+        "e890d3ac42a43f3d",
+        "ad4b25a08e85425a",
+        "ee416d431ebf4fb4",
+        "d1c59087ed8cdc0f",
+        "241ebe60ca3d6145"
+      ],
+      "id": "ad4b25a08e85425a",
+      "date": 1439222630917
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1439222634079
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1439222635815
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "About Me",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b503db173173ab77",
+      "text": "I live on Mount Desert Island."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Me",
+        "story": []
+      },
+      "date": 1439216336122
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b503db173173ab77"
+      },
+      "id": "b503db173173ab77",
+      "type": "add",
+      "date": 1439216344035
+    },
+    {
+      "type": "edit",
+      "id": "b503db173173ab77",
+      "item": {
+        "type": "paragraph",
+        "id": "b503db173173ab77",
+        "text": "I live on Mount Desert Island."
+      },
+      "date": 1439216364136
+    }
+  ]
+}

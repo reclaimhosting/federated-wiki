@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
+      "text": "[[About Me]]"
     },
     {
       "type": "paragraph",
@@ -27,13 +27,9 @@
       "text": "My current #1 place:"
     },
     {
-      "type": "paragraph",
-      "id": "f74161b343739868",
-      "text": "https://mshook.withknown.com/"
-    },
-    {
-      "type": "factory",
-      "id": "3b01ae5bce71456e"
+      "type": "html",
+      "id": "3b01ae5bce71456e",
+      "text": "<a href=\"https://mshook.withknown.com/\">https://mshook.withknown.com/</a>"
     }
   ],
   "journal": [
@@ -153,13 +149,68 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "3b01ae5bce71456e"
+        "type": "html",
+        "id": "3b01ae5bce71456e",
+        "text": "<a href=\"https://mshook.withknown.com/\">https://mshook.withknown.com/</a>"
       },
       "id": "3b01ae5bce71456e",
       "type": "add",
       "after": "f74161b343739868",
       "date": 1439215739572
+    },
+    {
+      "type": "edit",
+      "id": "3b01ae5bce71456e",
+      "item": {
+        "type": "html",
+        "id": "3b01ae5bce71456e",
+        "text": "<a href=\"https://mshook.withknown.com/\">https://mshook.withknown.com/</a>"
+      },
+      "date": 1439215892193
+    },
+    {
+      "type": "fork",
+      "date": 1439215915282
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05287c6537583dbf"
+      },
+      "id": "05287c6537583dbf",
+      "type": "add",
+      "after": "3b01ae5bce71456e",
+      "date": 1439216046246
+    },
+    {
+      "type": "edit",
+      "id": "05287c6537583dbf",
+      "item": {
+        "type": "mathjax",
+        "id": "05287c6537583dbf",
+        "text": "C_\\mathrm L = {\\frac{L}{\\frac{1}{2}\\rho v^2S}} = {\\frac{2 L}{\\rho v^2S}} = \\frac{L}{q S}"
+      },
+      "date": 1439216051646
+    },
+    {
+      "type": "remove",
+      "id": "05287c6537583dbf",
+      "date": 1439216199682
+    },
+    {
+      "type": "remove",
+      "id": "f74161b343739868",
+      "date": 1439216221827
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[About Me]]"
+      },
+      "date": 1439216328545
     }
   ]
 }

@@ -1,0 +1,126 @@
+{
+  "title": "MathJax Experiment",
+  "story": [
+    {
+      "type": "mathjax",
+      "id": "c04229920903cd4b",
+      "text": "-b \\pm \\sqrt{b^2 - 4ac} \\over 2a"
+    },
+    {
+      "type": "paragraph",
+      "id": "769cbc86185e6421",
+      "text": "What do I need to do to make this work?"
+    },
+    {
+      "type": "factory",
+      "id": "37984e45dce8a7a4"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "MathJax Experiment",
+        "story": []
+      },
+      "date": 1439220633027
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed118216aa79b4e6"
+      },
+      "id": "ed118216aa79b4e6",
+      "type": "add",
+      "date": 1439220638180
+    },
+    {
+      "type": "remove",
+      "id": "ed118216aa79b4e6",
+      "date": 1439220642785
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f25ced6e729d5d00"
+      },
+      "id": "f25ced6e729d5d00",
+      "type": "add",
+      "date": 1439220856557
+    },
+    {
+      "type": "remove",
+      "id": "f25ced6e729d5d00",
+      "date": 1439220861097
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c04229920903cd4b"
+      },
+      "id": "c04229920903cd4b",
+      "type": "add",
+      "date": 1439220862950
+    },
+    {
+      "type": "edit",
+      "id": "c04229920903cd4b",
+      "item": {
+        "type": "mathjax",
+        "id": "c04229920903cd4b",
+        "text": "The quadratic formula is $-b \\pm \\sqrt{b^2 - 4ac} \\over 2a$"
+      },
+      "date": 1439220869771
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "769cbc86185e6421"
+      },
+      "id": "769cbc86185e6421",
+      "type": "add",
+      "after": "c04229920903cd4b",
+      "date": 1439220880803
+    },
+    {
+      "type": "edit",
+      "id": "c04229920903cd4b",
+      "item": {
+        "type": "mathjax",
+        "id": "c04229920903cd4b",
+        "text": "$-b \\pm \\sqrt{b^2 - 4ac} \\over 2a$"
+      },
+      "date": 1439220902093
+    },
+    {
+      "type": "edit",
+      "id": "c04229920903cd4b",
+      "item": {
+        "type": "mathjax",
+        "id": "c04229920903cd4b",
+        "text": "-b \\pm \\sqrt{b^2 - 4ac} \\over 2a"
+      },
+      "date": 1439220914119
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "37984e45dce8a7a4"
+      },
+      "id": "37984e45dce8a7a4",
+      "type": "add",
+      "after": "769cbc86185e6421",
+      "date": 1439220917625
+    },
+    {
+      "type": "edit",
+      "id": "769cbc86185e6421",
+      "item": {
+        "type": "paragraph",
+        "id": "769cbc86185e6421",
+        "text": "What do I need to do to make this work?"
+      },
+      "date": 1439220931199
+    }
+  ]
+}

@@ -30,6 +30,11 @@
       "type": "paragraph",
       "id": "c738c347de2aaf07",
       "text": "[[MathJax Experiment]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "96279ea6902c6b91",
+      "text": "[[How I got here]]"
     }
   ],
   "journal": [
@@ -281,6 +286,26 @@
         "text": "[[MathJax Experiment]]"
       },
       "date": 1439220629316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96279ea6902c6b91"
+      },
+      "id": "96279ea6902c6b91",
+      "type": "add",
+      "after": "c738c347de2aaf07",
+      "date": 1439235929966
+    },
+    {
+      "type": "edit",
+      "id": "96279ea6902c6b91",
+      "item": {
+        "type": "paragraph",
+        "id": "96279ea6902c6b91",
+        "text": "[[How I got here]]"
+      },
+      "date": 1439235963313
     }
   ]
 }

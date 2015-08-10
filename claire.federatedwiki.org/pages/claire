@@ -1,0 +1,39 @@
+{
+  "title": "Claire",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ed1f58612e5a5339",
+      "text": "My name is Claire. I'm in the sixth grade."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Claire",
+        "story": []
+      },
+      "date": 1439232163610
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed1f58612e5a5339"
+      },
+      "id": "ed1f58612e5a5339",
+      "type": "add",
+      "date": 1439232167584
+    },
+    {
+      "type": "edit",
+      "id": "ed1f58612e5a5339",
+      "item": {
+        "type": "paragraph",
+        "id": "ed1f58612e5a5339",
+        "text": "My name is Claire. I'm in the sixth grade."
+      },
+      "date": 1439232188462
+    }
+  ]
+}

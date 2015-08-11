@@ -1,0 +1,127 @@
+{
+  "title": "Lisa's Trek to Understanding Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0f94cfe564bf82f9",
+      "text": "2014-11-06_1659 [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ Link From] And I'm not doing it right yet, I can tell."
+    },
+    {
+      "type": "paragraph",
+      "id": "4aa02211ef00eb87",
+      "text": "\nIn a traditional wiki, you have multiple people sharing a single server, and the server is the ultimate arbiter of what’s on the wiki. In a federated wiki, everyone has their own server which stores the records associated with them. But the meaning is made in your browser. Your browser pulls wiki records from all over the internet, and makes them look like they exist on a single server.\n\nIf you have a background in network theory, I think you’ll see immediately at how this inversion creates a sort of evolutionary ecosystem where we reach consensus not through arguing who gets to control a page on a specific server, but by seeing which versions of a page spread to where.\n\nIf you don’t have a background in network theory, I want you to forget this slide, and just watch what I’m going to do next. In my entire time talking about this I’ve found almost no one gets the massiveness of the architectural shift at first — I don’t want you to understand it, I just want you to know it’s there."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lisa's Trek to Understanding Federated Wiki",
+        "story": []
+      },
+      "date": 1439300098788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a650fc1e95c00850"
+      },
+      "id": "a650fc1e95c00850",
+      "type": "add",
+      "date": 1439300105946
+    },
+    {
+      "type": "remove",
+      "id": "a650fc1e95c00850",
+      "date": 1439300109381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "388db626d380964e"
+      },
+      "id": "388db626d380964e",
+      "type": "add",
+      "date": 1439300144853
+    },
+    {
+      "type": "remove",
+      "id": "388db626d380964e",
+      "date": 1439300147546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "accd469904f2fcd7"
+      },
+      "id": "accd469904f2fcd7",
+      "type": "add",
+      "date": 1439300191497
+    },
+    {
+      "type": "remove",
+      "id": "accd469904f2fcd7",
+      "date": 1439300199104
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f94cfe564bf82f9"
+      },
+      "id": "0f94cfe564bf82f9",
+      "type": "add",
+      "date": 1439300204689
+    },
+    {
+      "type": "edit",
+      "id": "0f94cfe564bf82f9",
+      "item": {
+        "type": "paragraph",
+        "id": "0f94cfe564bf82f9",
+        "text": "2014-11-06_1659"
+      },
+      "date": 1439300216648
+    },
+    {
+      "type": "add",
+      "id": "4aa02211ef00eb87",
+      "item": {
+        "type": "paragraph",
+        "id": "4aa02211ef00eb87",
+        "text": "\nIn a traditional wiki, you have multiple people sharing a single server, and the server is the ultimate arbiter of what’s on the wiki. In a federated wiki, everyone has their own server which stores the records associated with them. But the meaning is made in your browser. Your browser pulls wiki records from all over the internet, and makes them look like they exist on a single server.\n\nIf you have a background in network theory, I think you’ll see immediately at how this inversion creates a sort of evolutionary ecosystem where we reach consensus not through arguing who gets to control a page on a specific server, but by seeing which versions of a page spread to where.\n\nIf you don’t have a background in network theory, I want you to forget this slide, and just watch what I’m going to do next. In my entire time talking about this I’ve found almost no one gets the massiveness of the architectural shift at first — I don’t want you to understand it, I just want you to know it’s there."
+      },
+      "after": "0f94cfe564bf82f9",
+      "date": 1439300216796
+    },
+    {
+      "type": "edit",
+      "id": "0f94cfe564bf82f9",
+      "item": {
+        "type": "paragraph",
+        "id": "0f94cfe564bf82f9",
+        "text": "2014-11-06_1659 [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/] And I'm not doing it right yet, I can tell."
+      },
+      "date": 1439300244760
+    },
+    {
+      "type": "edit",
+      "id": "0f94cfe564bf82f9",
+      "item": {
+        "type": "paragraph",
+        "id": "0f94cfe564bf82f9",
+        "text": "2014-11-06_1659 (http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/) And I'm not doing it right yet, I can tell."
+      },
+      "date": 1439300274696
+    },
+    {
+      "type": "edit",
+      "id": "0f94cfe564bf82f9",
+      "item": {
+        "type": "paragraph",
+        "id": "0f94cfe564bf82f9",
+        "text": "2014-11-06_1659 [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ Link From] And I'm not doing it right yet, I can tell."
+      },
+      "date": 1439300302225
+    }
+  ]
+}

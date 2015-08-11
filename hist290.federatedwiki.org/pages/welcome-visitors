@@ -2,6 +2,11 @@
   "title": "Welcome Visitors",
   "story": [
     {
+      "type": "paragraph",
+      "id": "148b139caa04fded",
+      "text": "[[Lisa's Online Learning Pages]]"
+    },
+    {
       "text": "Welcome to this [[Federated Wiki]] site.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
@@ -26,6 +31,11 @@
       "type": "paragraph",
       "id": "05e2fa92643677ca",
       "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[Lisa's Online Learning Pages]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7a8670ebb26fb225",
       "text": "[[Lisa's Trek to Understanding Federated Wiki]]"
     },
     {
@@ -165,6 +175,90 @@
         "text": "[[Lisa's Trek to Understanding Federated Wiki]]"
       },
       "date": 1439300092156
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "reference",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "site": "hist290.federatedwiki.org",
+        "slug": "lisas-trek-to-understanding-federated-wiki",
+        "title": "Lisa's Trek to Understanding Federated Wiki",
+        "text": "August 11, 2015 "
+      },
+      "date": 1439301020663
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1889bb44d996c8df"
+      },
+      "id": "1889bb44d996c8df",
+      "type": "add",
+      "after": "6a464d63a0e5e669",
+      "date": 1439301029785
+    },
+    {
+      "type": "edit",
+      "id": "1889bb44d996c8df",
+      "item": {
+        "type": "reference",
+        "id": "1889bb44d996c8df",
+        "site": "www.caulfield.pw:3000",
+        "slug": "the-hidden-history-of-online-learning",
+        "title": "The Hidden History of Online Learning",
+        "text": "Let us know that you are working on this project by tweeting your site url with the #hhol hash tag (or just tweet out major edits you make). "
+      },
+      "date": 1439301057001
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "148b139caa04fded"
+      },
+      "id": "148b139caa04fded",
+      "type": "add",
+      "after": "1889bb44d996c8df",
+      "date": 1439301113679
+    },
+    {
+      "type": "edit",
+      "id": "148b139caa04fded",
+      "item": {
+        "type": "paragraph",
+        "id": "148b139caa04fded",
+        "text": "[[Lisa's Online Learning Pages]]"
+      },
+      "date": 1439301134793
+    },
+    {
+      "type": "remove",
+      "id": "1889bb44d996c8df",
+      "date": 1439301194315
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[Lisa's Online Learning Pages]]"
+      },
+      "date": 1439301481776
+    },
+    {
+      "type": "add",
+      "id": "7a8670ebb26fb225",
+      "item": {
+        "type": "paragraph",
+        "id": "7a8670ebb26fb225",
+        "text": "[[Lisa's Trek to Understanding Federated Wiki]]"
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1439301521963
     }
   ]
 }

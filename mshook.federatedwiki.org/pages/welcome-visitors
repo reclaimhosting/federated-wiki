@@ -2,6 +2,11 @@
   "title": "Welcome Visitors",
   "story": [
     {
+      "type": "paragraph",
+      "id": "30719e6a1bcd1782",
+      "text": "This is the Federated Wiki site of [https://mshook.withknown.com/profile/mshook mshook]."
+    },
+    {
       "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
@@ -23,6 +28,11 @@
     },
     {
       "type": "paragraph",
+      "id": "7c65ed25376cbb49",
+      "text": "[[Two takes on climate change]]"
+    },
+    {
+      "type": "paragraph",
       "id": "96c13bab335b4976",
       "text": "[[Quotes from Doctored Evidence by Donna Leon]]"
     },
@@ -35,16 +45,6 @@
       "type": "paragraph",
       "id": "96279ea6902c6b91",
       "text": "[[How I got here]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "7c65ed25376cbb49",
-      "text": "[[Two takes on climate change]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "30719e6a1bcd1782",
-      "text": "This is the Federated Wiki site of [https://mshook.withknown.com/profile/mshook mshook]."
     }
   ],
   "journal": [
@@ -366,6 +366,22 @@
         "text": "[[Two takes on climate change]]"
       },
       "date": 1439388646716
+    },
+    {
+      "type": "move",
+      "order": [
+        "30719e6a1bcd1782",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4",
+        "7c65ed25376cbb49",
+        "96c13bab335b4976",
+        "c738c347de2aaf07",
+        "96279ea6902c6b91"
+      ],
+      "id": "7c65ed25376cbb49",
+      "date": 1439389795107
     }
   ]
 }

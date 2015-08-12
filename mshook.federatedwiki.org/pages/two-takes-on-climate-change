@@ -13,13 +13,13 @@
     },
     {
       "type": "paragraph",
-      "id": "b3310932f550fc18",
-      "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic. The author, \"Dave Rutledge is the Tomayasu Professor of Electrical Engineering at\" CalTech."
+      "id": "bebb6fec8ebba6c4",
+      "text": "This talk also includes a concise definition/why of corporation I'd like to find and quote"
     },
     {
       "type": "paragraph",
-      "id": "bebb6fec8ebba6c4",
-      "text": "This talk also includes a concise definition/why of corporation I'd like to find and quote"
+      "id": "b3310932f550fc18",
+      "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic. The author, \"Dave Rutledge is the Tomayasu Professor of Electrical Engineering at\" CalTech."
     }
   ],
   "journal": [
@@ -215,7 +215,7 @@
       "item": {
         "type": "paragraph",
         "id": "b3310932f550fc18",
-        "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic."
+        "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic. The author, \"Dave Rutledge is the Tomayasu Professor of Electrical Engineering at\" CalTech."
       },
       "date": 1439392421662
     },
@@ -225,7 +225,7 @@
       "item": {
         "type": "paragraph",
         "id": "811870968bc6ab01",
-        "text": "[https://climateone.org/audio/c1-revue-clean-and-cool C1 REVUE: CLEAN AND COOL] - This one is a bunch of smart people including investment fund managers and professional activists."
+        "text": "[https://climateone.org/audio/c1-revue-clean-and-cool C1 REVUE: CLEAN AND COOL] - This one is a bunch of smart people including investment fund managers and professional activists. All or most of the people seem to accept the reality of climate change and the idea that something must be done. None of them are scientists."
       },
       "date": 1439392539672
     },
@@ -235,7 +235,7 @@
       "item": {
         "type": "paragraph",
         "id": "811870968bc6ab01",
-        "text": "[https://climateone.org/audio/c1-revue-clean-and-cool C1 REVUE: CLEAN AND COOL] - This one is a bunch of smart people including investment fund managers and professional activists. All or most of the people seem to accept the reality of climate change and the idea that something must be done."
+        "text": "[https://climateone.org/audio/c1-revue-clean-and-cool C1 REVUE: CLEAN AND COOL] - This one is a bunch of smart people including investment fund managers and professional activists. All or most of the people seem to accept the reality of climate change and the idea that something must be done. None of them are scientists."
       },
       "date": 1439392608163
     },
@@ -255,7 +255,7 @@
       "item": {
         "type": "paragraph",
         "id": "b3310932f550fc18",
-        "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic. The author, \"Dave Rutledge is the Tomayasu Professor of Electrical Engineering at the California Institute of Technology.\""
+        "text": "[http://judithcurry.com/2015/08/10/will-the-presidents-clear-power-plan-save-consumers-money/ Will the President’s Clean Power Plan save consumers money?] - This one purports to be scientific. It is sarcastic. The author, \"Dave Rutledge is the Tomayasu Professor of Electrical Engineering at\" CalTech."
       },
       "date": 1439392694100
     },
@@ -271,8 +271,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "bebb6fec8ebba6c4"
+        "type": "paragraph",
+        "id": "bebb6fec8ebba6c4",
+        "text": "This talk also includes a concise definition/why of corporation I'd like to find and quote"
       },
       "id": "bebb6fec8ebba6c4",
       "type": "add",
@@ -288,6 +289,27 @@
         "text": "This talk also includes a concise definition/why of corporation I'd like to find and quote"
       },
       "date": 1439392893531
+    },
+    {
+      "type": "move",
+      "order": [
+        "b8d22cae75766458",
+        "811870968bc6ab01",
+        "bebb6fec8ebba6c4",
+        "b3310932f550fc18",
+        "801474cba08a32f0"
+      ],
+      "id": "bebb6fec8ebba6c4",
+      "date": 1439392898736,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1439393882931
     }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "title": "Welcome Visitors",
   "story": [
+    null,
+    null,
     {
       "type": "paragraph",
       "id": "30719e6a1bcd1782",
@@ -26,11 +28,8 @@
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
     },
-    {
-      "type": "paragraph",
-      "id": "7c65ed25376cbb49",
-      "text": "[[Two takes on climate change]]"
-    },
+    null,
+    null,
     {
       "type": "paragraph",
       "id": "96c13bab335b4976",
@@ -39,26 +38,12 @@
     {
       "type": "paragraph",
       "id": "c738c347de2aaf07",
-      "text": "[[MathJax Experiment]] I haven't got this to work."
+      "text": "[[MathJax Experiment]]"
     },
     {
       "type": "paragraph",
       "id": "96279ea6902c6b91",
       "text": "[[How I got here]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "c513f93c5fa884d3",
-      "text": "[[Two takes on climate change]]"
-    },
-    {
-      "type": "paragraph",
-      "id": "0a502321cc0e7d5a",
-      "text": "[[Two takes on climate change]]"
-    },
-    {
-      "type": "factory",
-      "id": "54f8532643ae3bbf"
     }
   ],
   "journal": [
@@ -333,8 +318,9 @@
     },
     {
       "item": {
-        "type": "factory",
-        "id": "30719e6a1bcd1782"
+        "type": "paragraph",
+        "id": "30719e6a1bcd1782",
+        "text": "This is the Federated Wiki site of [https://mshook.withknown.com/profile/mshook mshook]."
       },
       "id": "30719e6a1bcd1782",
       "type": "add",
@@ -352,34 +338,25 @@
       "date": 1439237830200
     },
     {
-      "type": "edit",
-      "id": "c738c347de2aaf07",
-      "item": {
-        "type": "paragraph",
-        "id": "c738c347de2aaf07",
-        "text": "[[MathJax Experiment]] I haven't got this to work."
-      },
-      "date": 1439238059030
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "7c65ed25376cbb49"
-      },
-      "id": "7c65ed25376cbb49",
-      "type": "add",
-      "after": "96279ea6902c6b91",
-      "date": 1439388614780
-    },
-    {
-      "type": "edit",
-      "id": "7c65ed25376cbb49",
-      "item": {
-        "type": "paragraph",
-        "id": "7c65ed25376cbb49",
-        "text": "[[Two takes on climate change]]"
-      },
-      "date": 1439388646716
+      "type": "move",
+      "order": [
+        "30719e6a1bcd1782",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4",
+        "96c13bab335b4976",
+        "c738c347de2aaf07",
+        "96279ea6902c6b91",
+        "da29535717c10546"
+      ],
+      "id": "30719e6a1bcd1782",
+      "date": 1439237836159,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
     },
     {
       "type": "move",
@@ -389,83 +366,94 @@
         "821827c99b90cfd1",
         "2bbd646ff3f44b51",
         "ee416d431ebf4fb4",
-        "7c65ed25376cbb49",
+        "0a502321cc0e7d5a",
         "96c13bab335b4976",
         "c738c347de2aaf07",
-        "96279ea6902c6b91"
+        "96279ea6902c6b91",
+        "bb0c0c698245f9be"
       ],
-      "id": "7c65ed25376cbb49",
-      "date": 1439389795107
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "54f8532643ae3bbf"
-      },
-      "id": "54f8532643ae3bbf",
-      "type": "add",
-      "after": "96279ea6902c6b91",
-      "date": 1439393029371
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "0a502321cc0e7d5a"
-      },
       "id": "0a502321cc0e7d5a",
-      "type": "add",
-      "after": "96279ea6902c6b91",
-      "date": 1439393072608
+      "date": 1439393092069,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
     },
     {
-      "type": "edit",
-      "id": "0a502321cc0e7d5a",
-      "item": {
-        "type": "paragraph",
-        "id": "0a502321cc0e7d5a",
-        "text": "[[Two takes on climate change]]"
-      },
-      "date": 1439393087949
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "c513f93c5fa884d3"
-      },
+      "type": "move",
+      "order": [
+        "30719e6a1bcd1782",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4",
+        "undefined",
+        "c513f93c5fa884d3",
+        "96c13bab335b4976",
+        "c738c347de2aaf07",
+        "96279ea6902c6b91",
+        "4be470b6c8f97b1c"
+      ],
       "id": "c513f93c5fa884d3",
-      "type": "add",
-      "after": "96279ea6902c6b91",
-      "date": 1439393137056
+      "date": 1439393174090,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
     },
     {
-      "type": "edit",
-      "id": "c513f93c5fa884d3",
-      "item": {
-        "type": "paragraph",
-        "id": "c513f93c5fa884d3",
-        "text": "Two takes on climate change"
-      },
-      "date": 1439393141839
+      "type": "move",
+      "order": [
+        "undefined",
+        "30719e6a1bcd1782",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4",
+        "undefined",
+        "6f966aeee1248b3b",
+        "96c13bab335b4976",
+        "c738c347de2aaf07",
+        "96279ea6902c6b91",
+        "adfda497a1d20f79"
+      ],
+      "id": "6f966aeee1248b3b",
+      "date": 1439393633504,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
     },
     {
-      "type": "edit",
-      "id": "c513f93c5fa884d3",
-      "item": {
-        "type": "paragraph",
-        "id": "c513f93c5fa884d3",
-        "text": "[["
-      },
-      "date": 1439393150126
+      "type": "move",
+      "order": [
+        "undefined",
+        "30719e6a1bcd1782",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "2bbd646ff3f44b51",
+        "ee416d431ebf4fb4",
+        "6f966aeee1248b3b",
+        "undefined",
+        "96c13bab335b4976",
+        "c738c347de2aaf07",
+        "96279ea6902c6b91",
+        "adfda497a1d20f79"
+      ],
+      "id": "6f966aeee1248b3b",
+      "date": 1439393637242,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
     },
     {
-      "type": "edit",
-      "id": "c513f93c5fa884d3",
-      "item": {
-        "type": "paragraph",
-        "id": "c513f93c5fa884d3",
-        "text": "[[Two takes on climate change]]"
-      },
-      "date": 1439393154937
+      "type": "fork",
+      "date": 1439393937087
     }
   ]
 }

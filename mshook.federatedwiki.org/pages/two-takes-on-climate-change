@@ -1,0 +1,72 @@
+{
+  "title": "Two takes on climate change",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b8d22cae75766458",
+      "text": "I encountered these two items yesterday:"
+    },
+    {
+      "type": "factory",
+      "id": "0fc2ab20babc6b57",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "https://climateone.org/audio/c1-revue-clean-and-cool",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36"
+      }
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Two takes on climate change",
+        "story": []
+      },
+      "date": 1439388655403
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b8d22cae75766458"
+      },
+      "id": "b8d22cae75766458",
+      "type": "add",
+      "date": 1439388659131
+    },
+    {
+      "type": "edit",
+      "id": "b8d22cae75766458",
+      "item": {
+        "type": "paragraph",
+        "id": "b8d22cae75766458",
+        "text": "I encountered these two items yesterday:"
+      },
+      "date": 1439388675773
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0fc2ab20babc6b57"
+      },
+      "id": "0fc2ab20babc6b57",
+      "type": "add",
+      "after": "b8d22cae75766458",
+      "date": 1439388858637
+    },
+    {
+      "type": "edit",
+      "id": "0fc2ab20babc6b57",
+      "item": {
+        "type": "factory",
+        "id": "0fc2ab20babc6b57",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "https://climateone.org/audio/c1-revue-clean-and-cool",
+          "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36"
+        }
+      },
+      "date": 1439388871881
+    }
+  ]
+}

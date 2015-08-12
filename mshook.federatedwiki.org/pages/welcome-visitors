@@ -45,6 +45,20 @@
       "type": "paragraph",
       "id": "96279ea6902c6b91",
       "text": "[[How I got here]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c513f93c5fa884d3",
+      "text": "[[Two takes on climate change]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "0a502321cc0e7d5a",
+      "text": "[[Two takes on climate change]]"
+    },
+    {
+      "type": "factory",
+      "id": "54f8532643ae3bbf"
     }
   ],
   "journal": [
@@ -382,6 +396,76 @@
       ],
       "id": "7c65ed25376cbb49",
       "date": 1439389795107
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54f8532643ae3bbf"
+      },
+      "id": "54f8532643ae3bbf",
+      "type": "add",
+      "after": "96279ea6902c6b91",
+      "date": 1439393029371
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0a502321cc0e7d5a"
+      },
+      "id": "0a502321cc0e7d5a",
+      "type": "add",
+      "after": "96279ea6902c6b91",
+      "date": 1439393072608
+    },
+    {
+      "type": "edit",
+      "id": "0a502321cc0e7d5a",
+      "item": {
+        "type": "paragraph",
+        "id": "0a502321cc0e7d5a",
+        "text": "[[Two takes on climate change]]"
+      },
+      "date": 1439393087949
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c513f93c5fa884d3"
+      },
+      "id": "c513f93c5fa884d3",
+      "type": "add",
+      "after": "96279ea6902c6b91",
+      "date": 1439393137056
+    },
+    {
+      "type": "edit",
+      "id": "c513f93c5fa884d3",
+      "item": {
+        "type": "paragraph",
+        "id": "c513f93c5fa884d3",
+        "text": "Two takes on climate change"
+      },
+      "date": 1439393141839
+    },
+    {
+      "type": "edit",
+      "id": "c513f93c5fa884d3",
+      "item": {
+        "type": "paragraph",
+        "id": "c513f93c5fa884d3",
+        "text": "[["
+      },
+      "date": 1439393150126
+    },
+    {
+      "type": "edit",
+      "id": "c513f93c5fa884d3",
+      "item": {
+        "type": "paragraph",
+        "id": "c513f93c5fa884d3",
+        "text": "[[Two takes on climate change]]"
+      },
+      "date": 1439393154937
     }
   ]
 }

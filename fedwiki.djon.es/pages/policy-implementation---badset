@@ -1,0 +1,90 @@
+{
+  "title": "Policy Implementation - BAD/SET",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3bcbd4e52c535930",
+      "text": "The study of how policy is formulated and implemented within organisations - especially educational organisations appears to be one of the [[SET/BAD Examples]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "98b94c4d160c9d94",
+      "text": "Maguire et al (2015) offer one example of this and provide background to some of the broader literature."
+    },
+    {
+      "type": "paragraph",
+      "id": "079a9a737ccb84de",
+      "text": "<h3>References"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Policy Implementation - BAD/SET",
+        "story": []
+      },
+      "date": 1439680685415
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bcbd4e52c535930"
+      },
+      "id": "3bcbd4e52c535930",
+      "type": "add",
+      "date": 1439680687572
+    },
+    {
+      "type": "edit",
+      "id": "3bcbd4e52c535930",
+      "item": {
+        "type": "paragraph",
+        "id": "3bcbd4e52c535930",
+        "text": "The study of how policy is formulated and implemented within organisations - especially educational organisations appears to be one of the [[SET/BAD Examples]]"
+      },
+      "date": 1439680744189
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "98b94c4d160c9d94"
+      },
+      "id": "98b94c4d160c9d94",
+      "type": "add",
+      "after": "3bcbd4e52c535930",
+      "date": 1439680754731
+    },
+    {
+      "type": "edit",
+      "id": "98b94c4d160c9d94",
+      "item": {
+        "type": "paragraph",
+        "id": "98b94c4d160c9d94",
+        "text": "Maguire et al (2015) offer one example of this and provide background to some of the broader literature."
+      },
+      "date": 1439680789975
+    },
+    {
+      "type": "add",
+      "id": "079a9a737ccb84de",
+      "item": {
+        "type": "paragraph",
+        "id": "079a9a737ccb84de",
+        "text": "<h3>References</h3>"
+      },
+      "after": "98b94c4d160c9d94",
+      "date": 1439680797324
+    },
+    {
+      "type": "edit",
+      "id": "079a9a737ccb84de",
+      "item": {
+        "type": "paragraph",
+        "id": "079a9a737ccb84de",
+        "text": "<h3>References"
+      },
+      "date": 1439680800763
+    }
+  ]
+}

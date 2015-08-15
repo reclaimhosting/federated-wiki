@@ -13,6 +13,11 @@
     },
     {
       "type": "html",
+      "id": "4ae4ebb62ac783dc",
+      "text": "<h3>Applications"
+    },
+    {
+      "type": "html",
       "id": "36af1b854008f21e",
       "text": "<h3>See also</h3>\n"
     },
@@ -22,6 +27,10 @@
       "site": "fedwiki.djon.es",
       "title": "The BAD Mindset",
       "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
+    },
+    {
+      "type": "factory",
+      "id": "968ced974e0e4de4"
     }
   ],
   "journal": [
@@ -154,6 +163,47 @@
         "text": "Proposed as an alternative to the (perceived to be) dominant mindset underpinning institutional e-learning ([[The SET Mindset]]). It is suggested ([https://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/ Jones and Clark, 2014]) that many of the limitations of institutional e-learning can be addressed if it were to engage in a bit more \"BAD\" thinking."
       },
       "date": 1419821950440
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "968ced974e0e4de4"
+      },
+      "id": "968ced974e0e4de4",
+      "type": "add",
+      "after": "ddc179da0568e69f",
+      "date": 1439680429050
+    },
+    {
+      "type": "add",
+      "id": "4ae4ebb62ac783dc",
+      "item": {
+        "type": "paragraph",
+        "id": "4ae4ebb62ac783dc",
+        "text": "== Applications"
+      },
+      "after": "5c371673138fe7e7",
+      "date": 1439680462688
+    },
+    {
+      "type": "edit",
+      "id": "4ae4ebb62ac783dc",
+      "item": {
+        "type": "html",
+        "id": "4ae4ebb62ac783dc",
+        "text": "== Applications"
+      },
+      "date": 1439680464605
+    },
+    {
+      "type": "edit",
+      "id": "4ae4ebb62ac783dc",
+      "item": {
+        "type": "html",
+        "id": "4ae4ebb62ac783dc",
+        "text": "<h3>Applications"
+      },
+      "date": 1439680475342
     }
   ]
 }

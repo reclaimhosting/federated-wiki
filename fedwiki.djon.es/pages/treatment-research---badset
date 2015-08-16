@@ -4,7 +4,42 @@
     {
       "type": "paragraph",
       "id": "9803c589c3a447d0",
-      "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html "
+      "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html Computer Criticism vs. Technocentric Thinking] Seymour Papert examines different models of criticism/research and ways of engaging in computer criticism and its poor cousin - technocentric thinking."
+    },
+    {
+      "type": "html",
+      "id": "863880ed996dd4e7",
+      "text": "The treatment method of research is one of the models examined. Papert's critique of this method highlights the <strong>tree-like</strong> nature of the model."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab7805ed6033b4e5",
+      "text": "Papert labels the rigorous type of experiment favoured by educational psychologists as the \"treatment model\". It is describes as \"You take two groups of children. One group, the experimental group, is given a certain \"treatment.\"...The other group, the control group, is not given the treatment. Everything else is kept constant. After a suitable lapse of time you come back and apply a test to see whether the particular thinking skill that interests you is better developed in the experimental group than in the control group.\""
+    },
+    {
+      "type": "html",
+      "id": "66aa12aa58d34643",
+      "text": "An approach that speaks of a <strong>tree-like</strong> perspective of the world. Where it is possible to understand and control the connections/impacts that occur between factors in the world."
+    },
+    {
+      "type": "paragraph",
+      "id": "203031cee0b515a6",
+      "text": "Papert identifies a whole range of factors that may arise due to the introduction of computers into education and identifies two problems caused by using the treatment method."
+    },
+    {
+      "type": "paragraph",
+      "id": "544cfb9cc72f1a80",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "821f1d3ae417224c",
+      "text": "First, \"a simple argument for this point is the incredible number of experiments one would have to do in order to isolate these factors one by one\". The complexity (distributed?) nature of the context would require multiple, different tree-like structures to fully cover."
+    },
+    {
+      "type": "html",
+      "id": "8bbb41a08938dd6e",
+      "text": "The second and perhaps more important problem is that \"Factors of this kind simply don't work one by one; they work as a web of mutually supporting, interacting processes\". A <strong>distributed</strong> view. Further from Papert, \"The illusion that more than a tiny fraction of the educational benefits could be demonstrated by experiments on the treatment model is simply another form of technocratic fallacy\"."
     }
   ],
   "journal": [
@@ -34,6 +69,166 @@
         "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html "
       },
       "date": 1439690339712
+    },
+    {
+      "type": "edit",
+      "id": "9803c589c3a447d0",
+      "item": {
+        "type": "paragraph",
+        "id": "9803c589c3a447d0",
+        "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html Computer Criticism vs. Technocentric Thinking] Seymour Papert examines different models of criticism/research and ways of engaging in computer criticism and its poor cousin - technocentric thinking."
+      },
+      "date": 1439690401091
+    },
+    {
+      "type": "add",
+      "id": "863880ed996dd4e7",
+      "item": {
+        "type": "paragraph",
+        "id": "863880ed996dd4e7",
+        "text": "The treatment method of research is one of the models examined. Papert's critique of this method highlights the <strong>tree-like</strong> nature of the model."
+      },
+      "after": "9803c589c3a447d0",
+      "date": 1439690459936
+    },
+    {
+      "type": "edit",
+      "id": "863880ed996dd4e7",
+      "item": {
+        "type": "html",
+        "id": "863880ed996dd4e7",
+        "text": "The treatment method of research is one of the models examined. Papert's critique of this method highlights the <strong>tree-like</strong> nature of the model."
+      },
+      "date": 1439690461938
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab7805ed6033b4e5"
+      },
+      "id": "ab7805ed6033b4e5",
+      "type": "add",
+      "after": "863880ed996dd4e7",
+      "date": 1439690483155
+    },
+    {
+      "type": "edit",
+      "id": "ab7805ed6033b4e5",
+      "item": {
+        "type": "paragraph",
+        "id": "ab7805ed6033b4e5",
+        "text": "Papert labels the rigorous type of experiment favoured by educational psychologists as the \"treatment model\". It is describes as \""
+      },
+      "date": 1439690541636
+    },
+    {
+      "type": "edit",
+      "id": "ab7805ed6033b4e5",
+      "item": {
+        "type": "paragraph",
+        "id": "ab7805ed6033b4e5",
+        "text": "Papert labels the rigorous type of experiment favoured by educational psychologists as the \"treatment model\". It is describes as \"You take two groups of children. One group, the experimental group, is given a certain \"treatment.\"...The other group, the control group, is not given the treatment. Everything else is kept constant. After a suitable lapse of time you come back and apply a test to see whether the particular thinking skill that interests you is better developed in the experimental group than in the control group.\""
+      },
+      "date": 1439690564298
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6161f6973cf699f8"
+      },
+      "id": "6161f6973cf699f8",
+      "type": "add",
+      "after": "ab7805ed6033b4e5",
+      "date": 1439690628735
+    },
+    {
+      "type": "remove",
+      "id": "6161f6973cf699f8",
+      "date": 1439690632146
+    },
+    {
+      "type": "add",
+      "id": "66aa12aa58d34643",
+      "item": {
+        "type": "paragraph",
+        "id": "66aa12aa58d34643",
+        "text": "An approach that speaks of a <strong>tree-like</strong> perspective of the world. Where it is possible to understand and control the connections/impacts that occur between factors in the world."
+      },
+      "after": "ab7805ed6033b4e5",
+      "date": 1439690716306
+    },
+    {
+      "type": "add",
+      "id": "203031cee0b515a6",
+      "item": {
+        "type": "paragraph",
+        "id": "203031cee0b515a6",
+        "text": "Papert identifies a whole range of factors that may arise due to the introduction of computers into education and identifies two problems caused by using the treatment method."
+      },
+      "after": "66aa12aa58d34643",
+      "date": 1439690795337
+    },
+    {
+      "type": "add",
+      "id": "544cfb9cc72f1a80",
+      "item": {
+        "type": "paragraph",
+        "id": "544cfb9cc72f1a80",
+        "text": " "
+      },
+      "after": "203031cee0b515a6",
+      "date": 1439690797968
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "821f1d3ae417224c"
+      },
+      "id": "821f1d3ae417224c",
+      "type": "add",
+      "after": "544cfb9cc72f1a80",
+      "date": 1439690801233
+    },
+    {
+      "type": "edit",
+      "id": "821f1d3ae417224c",
+      "item": {
+        "type": "paragraph",
+        "id": "821f1d3ae417224c",
+        "text": "First, \"a simple argument for this point is the incredible number of experiments one would have to do in order to isolate these factors one by one\". The complexity (distributed?) nature of the context would require multiple, different tree-like structures to fully cover."
+      },
+      "date": 1439690859132
+    },
+    {
+      "type": "edit",
+      "id": "66aa12aa58d34643",
+      "item": {
+        "type": "html",
+        "id": "66aa12aa58d34643",
+        "text": "An approach that speaks of a <strong>tree-like</strong> perspective of the world. Where it is possible to understand and control the connections/impacts that occur between factors in the world."
+      },
+      "date": 1439690861333
+    },
+    {
+      "type": "add",
+      "id": "8bbb41a08938dd6e",
+      "item": {
+        "type": "paragraph",
+        "id": "8bbb41a08938dd6e",
+        "text": "The second and perhaps more important problem is that \"Factors of this kind simply don't work one by one; they work as a web of mutually supporting, interacting processes\". A <strong>distributed</strong> view. Further from Papert, \"The illusion that more than a tiny fraction of the educational benefits could be demonstrated by experiments on the treatment model is simply another form of technocratic fallacy\"."
+      },
+      "after": "821f1d3ae417224c",
+      "date": 1439690955120
+    },
+    {
+      "type": "edit",
+      "id": "8bbb41a08938dd6e",
+      "item": {
+        "type": "html",
+        "id": "8bbb41a08938dd6e",
+        "text": "The second and perhaps more important problem is that \"Factors of this kind simply don't work one by one; they work as a web of mutually supporting, interacting processes\". A <strong>distributed</strong> view. Further from Papert, \"The illusion that more than a tiny fraction of the educational benefits could be demonstrated by experiments on the treatment model is simply another form of technocratic fallacy\"."
+      },
+      "date": 1439690976748
     }
   ]
 }

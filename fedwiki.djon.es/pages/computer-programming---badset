@@ -7,6 +7,11 @@
       "text": "Computer programming and how it is conceptualised can be used as a [[SET/BAD Examples]]"
     },
     {
+      "type": "html",
+      "id": "5c00e58190a82b44",
+      "text": "<h3>Programming as strategic and tree-like</h3>"
+    },
+    {
       "type": "paragraph",
       "id": "5d31861858e92d3f",
       "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html Computer Criticism vs. Technocentric Thinking] Papert ask why Pea (???) thought that working with Logo would help students capability \"on two planning tasks\"? Papert's response was \"everyone knows that computer programming uses the kind of thinking one needs for planning -- precise, abstract, analytic descriptions\". Paper goes onto to suggest \"that this is the wau our culture represents programming\"."
@@ -15,6 +20,26 @@
       "type": "html",
       "id": "205c74de719c8e99",
       "text": "i.e. computer programming is an example of the <strong>Strategic</strong> perspective and requires development of the <strong>Tree-like</strong> perspective through application of stepwise refinement/top-down decomposition of a problem."
+    },
+    {
+      "type": "html",
+      "id": "6d843c9947d196c6",
+      "text": "<h3>Programming as bricolage</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b82c9e3aaeaa973",
+      "text": "Papert then goes onto relate \"a very different picture\" that arose out of work with Logo."
+    },
+    {
+      "type": "paragraph",
+      "id": "dfcce27dcd717ca3",
+      "text": "Rather than engage with Logo as an exercise in planning, many learners \"find in LOGO their first opportunity to work with mathematical ideas in the kind of broad-brush intuitive style that comes naturally to them. They are not led by LOGO into conforming to the planning style even more closely than the school already tried to make them do. On the contrary, in LOGO they find a liberation from a style that distorts their natural way of being\""
+    },
+    {
+      "type": "html",
+      "id": "21a6e2906c4ba7cd",
+      "text": "For me, an approach that is leaning toward <strong>bricoalge</strong>"
     }
   ],
   "journal": [
@@ -115,6 +140,110 @@
         "text": "In [http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html Computer Criticism vs. Technocentric Thinking] Papert ask why Pea (???) thought that working with Logo would help students capability \"on two planning tasks\"? Papert's response was \"everyone knows that computer programming uses the kind of thinking one needs for planning -- precise, abstract, analytic descriptions\". Paper goes onto to suggest \"that this is the wau our culture represents programming\"."
       },
       "date": 1439689793861
+    },
+    {
+      "type": "add",
+      "id": "5c00e58190a82b44",
+      "item": {
+        "type": "paragraph",
+        "id": "5c00e58190a82b44",
+        "text": "<h3>Programming as strategic and tree-like</h3>"
+      },
+      "after": "cfea3f76abd156af",
+      "date": 1439689805839
+    },
+    {
+      "type": "edit",
+      "id": "5c00e58190a82b44",
+      "item": {
+        "type": "html",
+        "id": "5c00e58190a82b44",
+        "text": "<h3>Programming as strategic and tree-like</h3>"
+      },
+      "date": 1439689807311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d843c9947d196c6"
+      },
+      "id": "6d843c9947d196c6",
+      "type": "add",
+      "after": "205c74de719c8e99",
+      "date": 1439689813287
+    },
+    {
+      "type": "edit",
+      "id": "6d843c9947d196c6",
+      "item": {
+        "type": "paragraph",
+        "id": "6d843c9947d196c6",
+        "text": "Programming as bricolage"
+      },
+      "date": 1439689819288
+    },
+    {
+      "type": "add",
+      "id": "8b82c9e3aaeaa973",
+      "item": {
+        "type": "paragraph",
+        "id": "8b82c9e3aaeaa973",
+        "text": "Papert then goes onto relate \"a very different picture\" that arose out of work with Logo."
+      },
+      "after": "6d843c9947d196c6",
+      "date": 1439689847893
+    },
+    {
+      "type": "edit",
+      "id": "6d843c9947d196c6",
+      "item": {
+        "type": "paragraph",
+        "id": "6d843c9947d196c6",
+        "text": "<h3>Programming as bricolage</h3>"
+      },
+      "date": 1439689855821
+    },
+    {
+      "type": "edit",
+      "id": "6d843c9947d196c6",
+      "item": {
+        "type": "html",
+        "id": "6d843c9947d196c6",
+        "text": "<h3>Programming as bricolage</h3>"
+      },
+      "date": 1439689857511
+    },
+    {
+      "type": "add",
+      "id": "dfcce27dcd717ca3",
+      "item": {
+        "type": "paragraph",
+        "id": "dfcce27dcd717ca3",
+        "text": "Rather than engage with Logo as an exercise in planning, many learners \"find in LOGO their first opportunity to work with mathematical ideas in the kind of broad-brush intuitive style that comes naturally to them. They are not led by LOGO into conforming to the planning style even more closely than the school already tried to make them do. On the contrary, in LOGO they find a liberation from a style that distorts their natural way of being\""
+      },
+      "after": "8b82c9e3aaeaa973",
+      "date": 1439689977413
+    },
+    {
+      "type": "add",
+      "id": "21a6e2906c4ba7cd",
+      "item": {
+        "type": "paragraph",
+        "id": "21a6e2906c4ba7cd",
+        "text": "For me, an approach that is leaning toward <strong>bricoalge</strong>"
+      },
+      "after": "dfcce27dcd717ca3",
+      "date": 1439689994159
+    },
+    {
+      "type": "edit",
+      "id": "21a6e2906c4ba7cd",
+      "item": {
+        "type": "html",
+        "id": "21a6e2906c4ba7cd",
+        "text": "For me, an approach that is leaning toward <strong>bricoalge</strong>"
+      },
+      "date": 1439689995608
     }
   ]
 }

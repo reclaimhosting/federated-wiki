@@ -4,21 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "408b1523b167f860"
+      "id": "5a8ce6aa2ca01fee"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "bb5f9b7da710d828"
+      "id": "d776e83b27a5a7d0"
     },
     {
-      "date": 1440164401000,
+      "date": 1440165001000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "1009d9aca545f22e"
+      "id": "74cfc10a5c8ee110"
     },
     {
       "date": 1439690977000,
@@ -27,7 +27,7 @@
       "title": "Treatment research - BAD/SET",
       "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 111 pages.",
       "type": "reference",
-      "id": "e2abc1ad2e3b88d6"
+      "id": "9b90a9892bae4c0b"
     },
     {
       "date": 1439393940000,
@@ -36,64 +36,55 @@
       "title": "Welcome Visitors",
       "text": "In [http://mshook.federatedwiki.org mshook.federatedwiki.org] with 7 pages.",
       "type": "reference",
-      "id": "c07ab889c0a5b81f"
-    },
-    {
-      "date": 1439301523000,
-      "site": "hist290.federatedwiki.org",
-      "slug": "welcome-visitors",
-      "title": "Welcome Visitors",
-      "text": "In [http://hist290.federatedwiki.org hist290.federatedwiki.org] with 4 pages.",
-      "type": "reference",
-      "id": "84d6607e8f27c823"
+      "id": "f89b708f8e428993"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4c411d4b3c3291a2",
+      "id": "42a76d50f8494344",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1440165001000
+      "date": 1440165601000
     },
     {
       "type": "add",
-      "id": "408b1523b167f860",
+      "id": "5a8ce6aa2ca01fee",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "408b1523b167f860"
+        "id": "5a8ce6aa2ca01fee"
       },
-      "date": 1440165001000
+      "date": 1440165601000
     },
     {
       "type": "add",
-      "id": "bb5f9b7da710d828",
+      "id": "d776e83b27a5a7d0",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "bb5f9b7da710d828"
+        "id": "d776e83b27a5a7d0"
       },
-      "date": 1440165001000
+      "date": 1440165601000
     },
     {
       "type": "add",
-      "id": "1009d9aca545f22e",
+      "id": "74cfc10a5c8ee110",
       "item": {
-        "date": 1440164401000,
+        "date": 1440165001000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "1009d9aca545f22e"
+        "id": "74cfc10a5c8ee110"
       },
-      "date": 1440165001000
+      "date": 1440165601000
     },
     {
       "type": "add",
-      "id": "e2abc1ad2e3b88d6",
+      "id": "9b90a9892bae4c0b",
       "item": {
         "date": 1439690977000,
         "site": "fedwiki.djon.es",
@@ -101,13 +92,13 @@
         "title": "Treatment research - BAD/SET",
         "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 111 pages.",
         "type": "reference",
-        "id": "e2abc1ad2e3b88d6"
+        "id": "9b90a9892bae4c0b"
       },
-      "date": 1440165001000
+      "date": 1440165601000
     },
     {
       "type": "add",
-      "id": "c07ab889c0a5b81f",
+      "id": "f89b708f8e428993",
       "item": {
         "date": 1439393940000,
         "site": "mshook.federatedwiki.org",
@@ -115,23 +106,9 @@
         "title": "Welcome Visitors",
         "text": "In [http://mshook.federatedwiki.org mshook.federatedwiki.org] with 7 pages.",
         "type": "reference",
-        "id": "c07ab889c0a5b81f"
+        "id": "f89b708f8e428993"
       },
-      "date": 1440165001000
-    },
-    {
-      "type": "add",
-      "id": "84d6607e8f27c823",
-      "item": {
-        "date": 1439301523000,
-        "site": "hist290.federatedwiki.org",
-        "slug": "welcome-visitors",
-        "title": "Welcome Visitors",
-        "text": "In [http://hist290.federatedwiki.org hist290.federatedwiki.org] with 4 pages.",
-        "type": "reference",
-        "id": "84d6607e8f27c823"
-      },
-      "date": 1440165001000
+      "date": 1440165601000
     }
   ]
 }

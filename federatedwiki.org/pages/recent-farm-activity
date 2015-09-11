@@ -4,65 +4,88 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "f153260bb5546e30"
+      "id": "faf1e69334199c59"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "148d466ec10a015f"
+      "id": "ba4ade7bda548a72"
     },
     {
-      "date": 1441930201000,
+      "date": 1441931358000,
+      "site": "fedwiki.djon.es",
+      "slug": "techno-rational-world-view",
+      "title": "Techno-rational world view",
+      "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 112 pages.",
+      "type": "reference",
+      "id": "60934a5a79561742"
+    },
+    {
+      "date": 1441930801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "6c5b45b9ad7b332d"
+      "id": "e3a197b3bf258c47"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "d3068a127076d6e0",
+      "id": "9b01333223ada510",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1441930801000
+      "date": 1441931401000
     },
     {
       "type": "add",
-      "id": "f153260bb5546e30",
+      "id": "faf1e69334199c59",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "f153260bb5546e30"
+        "id": "faf1e69334199c59"
       },
-      "date": 1441930801000
+      "date": 1441931401000
     },
     {
       "type": "add",
-      "id": "148d466ec10a015f",
+      "id": "ba4ade7bda548a72",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "148d466ec10a015f"
+        "id": "ba4ade7bda548a72"
       },
-      "date": 1441930801000
+      "date": 1441931401000
     },
     {
       "type": "add",
-      "id": "6c5b45b9ad7b332d",
+      "id": "60934a5a79561742",
       "item": {
-        "date": 1441930201000,
+        "date": 1441931358000,
+        "site": "fedwiki.djon.es",
+        "slug": "techno-rational-world-view",
+        "title": "Techno-rational world view",
+        "text": "In [http://fedwiki.djon.es fedwiki.djon.es] with 112 pages.",
+        "type": "reference",
+        "id": "60934a5a79561742"
+      },
+      "date": 1441931401000
+    },
+    {
+      "type": "add",
+      "id": "e3a197b3bf258c47",
+      "item": {
+        "date": 1441930801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "6c5b45b9ad7b332d"
+        "id": "e3a197b3bf258c47"
       },
-      "date": 1441930801000
+      "date": 1441931401000
     }
   ]
 }

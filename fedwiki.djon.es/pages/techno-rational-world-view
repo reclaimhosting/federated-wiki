@@ -39,7 +39,27 @@
     {
       "type": "html",
       "id": "4ef2e5fa3207ab67",
-      "text": "<h3>Related ideas</h3>"
+      "text": "<h3>Related ideas and values</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "5dea179e25619cc7",
+      "text": "Techno-rationalist business sees value in ideas such as: cost-effective, lean and mean, quality-controlled, quality-assuring, focused on the bottom line, value-adding, competitive-edged, efficient, rationalised, and 'uniform standards across all sites of activity'."
+    },
+    {
+      "type": "paragraph",
+      "id": "300a2428d117a663",
+      "text": "Also: transferability, accountability, audit trails, performance verification, competence rather than time on job, and quantifiable outcomes. "
+    },
+    {
+      "type": "html",
+      "id": "d8fb11422499e49a",
+      "text": "<h3>Reference</h3>"
+    },
+    {
+      "type": "paragraph",
+      "id": "9b960430fa5a722a",
+      "text": "Lankshear, C. (1997). Language and the new capitalism. International Journal of Inclusive Education, 1(4), 309–321. doi:10.1080/1360311970010402"
     }
   ],
   "journal": [
@@ -216,6 +236,70 @@
         "text": "<h3>Related ideas</h3>"
       },
       "date": 1441931950840
+    },
+    {
+      "type": "add",
+      "id": "5dea179e25619cc7",
+      "item": {
+        "type": "paragraph",
+        "id": "5dea179e25619cc7",
+        "text": "Techno-rationalist business sees value in ideas such as: cost-effective, lean and mean, quality-controlled, quality-assuring, focused on the bottom line, value-adding, competitive-edged, efficient, rationalised, and 'uniform standards across all sites of activity'."
+      },
+      "after": "4ef2e5fa3207ab67",
+      "date": 1441932039018
+    },
+    {
+      "type": "edit",
+      "id": "4ef2e5fa3207ab67",
+      "item": {
+        "type": "html",
+        "id": "4ef2e5fa3207ab67",
+        "text": "<h3>Related ideas and values</h3>"
+      },
+      "date": 1441932049736
+    },
+    {
+      "type": "add",
+      "id": "300a2428d117a663",
+      "item": {
+        "type": "paragraph",
+        "id": "300a2428d117a663",
+        "text": "Also: transferability, accountability, audit trails, performance verification, competence rather than time on job, and quantifiable outcomes. "
+      },
+      "after": "5dea179e25619cc7",
+      "date": 1441932134770
+    },
+    {
+      "type": "add",
+      "id": "d8fb11422499e49a",
+      "item": {
+        "type": "paragraph",
+        "id": "d8fb11422499e49a",
+        "text": "<h3>Reference</h3>"
+      },
+      "after": "300a2428d117a663",
+      "date": 1441932143376
+    },
+    {
+      "type": "edit",
+      "id": "d8fb11422499e49a",
+      "item": {
+        "type": "html",
+        "id": "d8fb11422499e49a",
+        "text": "<h3>Reference</h3>"
+      },
+      "date": 1441932156929
+    },
+    {
+      "type": "add",
+      "id": "9b960430fa5a722a",
+      "item": {
+        "type": "paragraph",
+        "id": "9b960430fa5a722a",
+        "text": "Lankshear, C. (1997). Language and the new capitalism. International Journal of Inclusive Education, 1(4), 309–321. doi:10.1080/1360311970010402"
+      },
+      "after": "d8fb11422499e49a",
+      "date": 1441932159536
     }
   ]
 }

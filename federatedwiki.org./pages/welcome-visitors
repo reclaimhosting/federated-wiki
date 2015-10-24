@@ -2,33 +2,20 @@
   "title": "Welcome Visitors",
   "story": [
     {
-      "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+      "text": "Welcome to this [[Federated Wiki]] site. My name is Ryan Williams. This is an experiment in using a federated wiki as a concept map for my research. ",
       "id": "7b56f22a4b9ee974",
       "type": "paragraph"
     },
     {
       "type": "paragraph",
-      "id": "2bbd646ff3f44b51",
-      "text": "Pages where we do and share."
-    },
-    {
-      "type": "paragraph",
-      "id": "821827c99b90cfd1",
-      "text": "Pages about us."
-    },
-    {
-      "type": "factory",
       "id": "05e2fa92643677ca",
-      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "I research Russian [[civil society]] on the [[Runet]]."
     },
     {
       "type": "paragraph",
       "id": "ee416d431ebf4fb4",
       "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
-    },
-    {
-      "type": "factory",
-      "id": "b3a3bba3c862a581"
     }
   ],
   "journal": [
@@ -151,6 +138,65 @@
     {
       "type": "fork",
       "date": 1445719797149
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1445719885225
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "I research Russian [[civil society]] on the [[Runet]]"
+      },
+      "date": 1445719927060
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "I research Russian [[civil society]] on the [[Runet]]."
+      },
+      "date": 1445719959695
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. My name is Ryan Williams. This is an experiment in using a federated wiki as a concept map for my research. ",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1445719999112
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4",
+        "b3a3bba3c862a581",
+        "2bbd646ff3f44b51"
+      ],
+      "id": "2bbd646ff3f44b51",
+      "date": 1445720003955
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1445720010563
+    },
+    {
+      "type": "remove",
+      "id": "b3a3bba3c862a581",
+      "date": 1445720018133
     }
   ]
 }

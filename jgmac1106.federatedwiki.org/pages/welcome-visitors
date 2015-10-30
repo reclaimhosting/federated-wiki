@@ -8,6 +8,16 @@
     },
     {
       "type": "paragraph",
+      "id": "fd1847bc267c3f60",
+      "text": "[[The Learning Cycle]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c98aab9a99837017",
+      "text": "[[Examples of Open Classrooms]]"
+    },
+    {
+      "type": "paragraph",
       "id": "821827c99b90cfd1",
       "text": "Welcome to my attempt to play in this federated wiki. I am sure I can figure out all the techy stuff. "
     },
@@ -20,10 +30,6 @@
       "type": "paragraph",
       "id": "a8493081567cbcb0",
       "text": "I also wonder if we could use this for #walkmyworld. Heard something about neighborhoods. Waiting to see what is."
-    },
-    {
-      "type": "factory",
-      "id": "56906002395914a4"
     }
   ],
   "journal": [
@@ -504,6 +510,87 @@
       "type": "add",
       "after": "a8493081567cbcb0",
       "date": 1446214801096
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9cb70762d3b3194f"
+      },
+      "id": "9cb70762d3b3194f",
+      "type": "add",
+      "after": "56906002395914a4",
+      "date": 1446214804178
+    },
+    {
+      "type": "remove",
+      "id": "56906002395914a4",
+      "date": 1446214820073
+    },
+    {
+      "type": "fork",
+      "date": 1446214855443
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c98aab9a99837017"
+      },
+      "id": "c98aab9a99837017",
+      "type": "add",
+      "after": "9cb70762d3b3194f",
+      "date": 1446214914484
+    },
+    {
+      "type": "add",
+      "id": "fd1847bc267c3f60",
+      "item": {
+        "type": "paragraph",
+        "id": "fd1847bc267c3f60",
+        "text": "[[The Learning Cycle]]"
+      },
+      "after": "7b56f22a4b9ee974",
+      "date": 1446215163539
+    },
+    {
+      "type": "remove",
+      "id": "9cb70762d3b3194f",
+      "date": 1446215277847
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fd1847bc267c3f60",
+        "821827c99b90cfd1",
+        "c98aab9a99837017",
+        "cc896a5cccc4b758",
+        "a8493081567cbcb0"
+      ],
+      "id": "c98aab9a99837017",
+      "date": 1446215280176
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "fd1847bc267c3f60",
+        "c98aab9a99837017",
+        "821827c99b90cfd1",
+        "cc896a5cccc4b758",
+        "a8493081567cbcb0"
+      ],
+      "id": "c98aab9a99837017",
+      "date": 1446215281875
+    },
+    {
+      "type": "edit",
+      "id": "c98aab9a99837017",
+      "item": {
+        "type": "paragraph",
+        "id": "c98aab9a99837017",
+        "text": "[[Examples of Open Classrooms]]"
+      },
+      "date": 1446215306391
     }
   ]
 }

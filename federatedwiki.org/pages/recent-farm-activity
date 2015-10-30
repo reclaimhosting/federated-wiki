@@ -4,21 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "e1dbbfc527101f1d"
+      "id": "a6de373944019106"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "227a4eae8add5f5e"
+      "id": "93233f5b9372b62b"
     },
     {
-      "date": 1446213601000,
+      "date": 1446214801000,
+      "site": "jgmac1106.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 2 pages.",
+      "type": "reference",
+      "id": "701de884332b8434"
+    },
+    {
+      "date": 1446214201000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "667263f142f7405b"
+      "id": "51b192311db24b99"
     },
     {
       "date": 1445720053000,
@@ -27,55 +36,69 @@
       "title": "Runet",
       "text": "In [http://federatedwiki.org. federatedwiki.org.] with 2 pages.",
       "type": "reference",
-      "id": "ac309be90a5448b6"
+      "id": "97b74fda783878ea"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "f1ea32992433c5ea",
+      "id": "e118dd46cf503c69",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1446214201000
+      "date": 1446214801000
     },
     {
       "type": "add",
-      "id": "e1dbbfc527101f1d",
+      "id": "a6de373944019106",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "e1dbbfc527101f1d"
+        "id": "a6de373944019106"
       },
-      "date": 1446214201000
+      "date": 1446214801000
     },
     {
       "type": "add",
-      "id": "227a4eae8add5f5e",
+      "id": "93233f5b9372b62b",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "227a4eae8add5f5e"
+        "id": "93233f5b9372b62b"
       },
-      "date": 1446214201000
+      "date": 1446214801000
     },
     {
       "type": "add",
-      "id": "667263f142f7405b",
+      "id": "701de884332b8434",
       "item": {
-        "date": 1446213601000,
+        "date": 1446214801000,
+        "site": "jgmac1106.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 2 pages.",
+        "type": "reference",
+        "id": "701de884332b8434"
+      },
+      "date": 1446214801000
+    },
+    {
+      "type": "add",
+      "id": "51b192311db24b99",
+      "item": {
+        "date": 1446214201000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "667263f142f7405b"
+        "id": "51b192311db24b99"
       },
-      "date": 1446214201000
+      "date": 1446214801000
     },
     {
       "type": "add",
-      "id": "ac309be90a5448b6",
+      "id": "97b74fda783878ea",
       "item": {
         "date": 1445720053000,
         "site": "federatedwiki.org.",
@@ -83,9 +106,9 @@
         "title": "Runet",
         "text": "In [http://federatedwiki.org. federatedwiki.org.] with 2 pages.",
         "type": "reference",
-        "id": "ac309be90a5448b6"
+        "id": "97b74fda783878ea"
       },
-      "date": 1446214201000
+      "date": 1446214801000
     }
   ]
 }

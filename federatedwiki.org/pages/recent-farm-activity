@@ -4,30 +4,30 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "e0fdc675f289dbb8"
+      "id": "b044508da1f70d58"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "45979bc8e052f4da"
+      "id": "4356fd93b2eff7ec"
     },
     {
-      "date": 1446316201000,
+      "date": 1446317359000,
+      "site": "john.federatedwiki.org",
+      "slug": "local-changes",
+      "title": "Local Changes",
+      "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 4 pages.",
+      "type": "reference",
+      "id": "544f6c8129bc9f0d"
+    },
+    {
+      "date": 1446316801000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "aed202189efc2d14"
-    },
-    {
-      "date": 1446238266000,
-      "site": "john.federatedwiki.org",
-      "slug": "podcasting",
-      "title": "Podcasting",
-      "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 3 pages.",
-      "type": "reference",
-      "id": "f4edefbcb4381850"
+      "id": "b6300dde4f05372a"
     },
     {
       "date": 1446215972000,
@@ -36,7 +36,7 @@
       "title": "Welcome Visitors",
       "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 3 pages.",
       "type": "reference",
-      "id": "cf0682518b5d324d"
+      "id": "4105daed7c6dc514"
     },
     {
       "date": 1445720053000,
@@ -45,69 +45,69 @@
       "title": "Runet",
       "text": "In [http://federatedwiki.org. federatedwiki.org.] with 2 pages.",
       "type": "reference",
-      "id": "256472f086210b31"
+      "id": "d681e97e3841f017"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "cfb59e9e840a2fd2",
+      "id": "faa0572c0a11503e",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     },
     {
       "type": "add",
-      "id": "e0fdc675f289dbb8",
+      "id": "b044508da1f70d58",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "e0fdc675f289dbb8"
+        "id": "b044508da1f70d58"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     },
     {
       "type": "add",
-      "id": "45979bc8e052f4da",
+      "id": "4356fd93b2eff7ec",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "45979bc8e052f4da"
+        "id": "4356fd93b2eff7ec"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     },
     {
       "type": "add",
-      "id": "aed202189efc2d14",
+      "id": "544f6c8129bc9f0d",
       "item": {
-        "date": 1446316201000,
+        "date": 1446317359000,
+        "site": "john.federatedwiki.org",
+        "slug": "local-changes",
+        "title": "Local Changes",
+        "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 4 pages.",
+        "type": "reference",
+        "id": "544f6c8129bc9f0d"
+      },
+      "date": 1446317401000
+    },
+    {
+      "type": "add",
+      "id": "b6300dde4f05372a",
+      "item": {
+        "date": 1446316801000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "aed202189efc2d14"
+        "id": "b6300dde4f05372a"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     },
     {
       "type": "add",
-      "id": "f4edefbcb4381850",
-      "item": {
-        "date": 1446238266000,
-        "site": "john.federatedwiki.org",
-        "slug": "podcasting",
-        "title": "Podcasting",
-        "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 3 pages.",
-        "type": "reference",
-        "id": "f4edefbcb4381850"
-      },
-      "date": 1446316801000
-    },
-    {
-      "type": "add",
-      "id": "cf0682518b5d324d",
+      "id": "4105daed7c6dc514",
       "item": {
         "date": 1446215972000,
         "site": "jgmac1106.federatedwiki.org",
@@ -115,13 +115,13 @@
         "title": "Welcome Visitors",
         "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 3 pages.",
         "type": "reference",
-        "id": "cf0682518b5d324d"
+        "id": "4105daed7c6dc514"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     },
     {
       "type": "add",
-      "id": "256472f086210b31",
+      "id": "d681e97e3841f017",
       "item": {
         "date": 1445720053000,
         "site": "federatedwiki.org.",
@@ -129,9 +129,9 @@
         "title": "Runet",
         "text": "In [http://federatedwiki.org. federatedwiki.org.] with 2 pages.",
         "type": "reference",
-        "id": "256472f086210b31"
+        "id": "d681e97e3841f017"
       },
-      "date": 1446316801000
+      "date": 1446317401000
     }
   ]
 }

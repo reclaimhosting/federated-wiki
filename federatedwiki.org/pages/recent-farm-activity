@@ -4,12 +4,21 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "1b5c7941e68cea48"
+      "id": "1f1f14b61c11b195"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "4347eb453c03034f"
+      "id": "0d2e967a22afb6fa"
+    },
+    {
+      "date": 1446902401000,
+      "site": "federatedwiki.org",
+      "slug": "recent-farm-activity",
+      "title": "Recent Farm Activity",
+      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+      "type": "reference",
+      "id": "13c4b4ae064d5826"
     },
     {
       "date": 1446902140000,
@@ -18,16 +27,7 @@
       "title": "Agenda",
       "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "0998966f50dfa215"
-    },
-    {
-      "date": 1446901801000,
-      "site": "federatedwiki.org",
-      "slug": "recent-farm-activity",
-      "title": "Recent Farm Activity",
-      "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-      "type": "reference",
-      "id": "f622ae45ed29a3d2"
+      "id": "f2fbc8d1a952e5dd"
     },
     {
       "date": 1446317837000,
@@ -36,41 +36,55 @@
       "title": "Podcasting",
       "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 4 pages.",
       "type": "reference",
-      "id": "4101f3ed8b31a54f"
+      "id": "a85ec7b900d3a75a"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "b6ddfcafc25c0c9d",
+      "id": "66fce5574b5b68c0",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1446902401000
+      "date": 1446903001000
     },
     {
       "type": "add",
-      "id": "1b5c7941e68cea48",
+      "id": "1f1f14b61c11b195",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "1b5c7941e68cea48"
+        "id": "1f1f14b61c11b195"
       },
-      "date": 1446902401000
+      "date": 1446903001000
     },
     {
       "type": "add",
-      "id": "4347eb453c03034f",
+      "id": "0d2e967a22afb6fa",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "4347eb453c03034f"
+        "id": "0d2e967a22afb6fa"
       },
-      "date": 1446902401000
+      "date": 1446903001000
     },
     {
       "type": "add",
-      "id": "0998966f50dfa215",
+      "id": "13c4b4ae064d5826",
+      "item": {
+        "date": 1446902401000,
+        "site": "federatedwiki.org",
+        "slug": "recent-farm-activity",
+        "title": "Recent Farm Activity",
+        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
+        "type": "reference",
+        "id": "13c4b4ae064d5826"
+      },
+      "date": 1446903001000
+    },
+    {
+      "type": "add",
+      "id": "f2fbc8d1a952e5dd",
       "item": {
         "date": 1446902140000,
         "site": "jgmac1106.federatedwiki.org",
@@ -78,27 +92,13 @@
         "title": "Agenda",
         "text": "In [http://jgmac1106.federatedwiki.org jgmac1106.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "0998966f50dfa215"
+        "id": "f2fbc8d1a952e5dd"
       },
-      "date": 1446902402000
+      "date": 1446903001000
     },
     {
       "type": "add",
-      "id": "f622ae45ed29a3d2",
-      "item": {
-        "date": 1446901801000,
-        "site": "federatedwiki.org",
-        "slug": "recent-farm-activity",
-        "title": "Recent Farm Activity",
-        "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
-        "type": "reference",
-        "id": "f622ae45ed29a3d2"
-      },
-      "date": 1446902402000
-    },
-    {
-      "type": "add",
-      "id": "4101f3ed8b31a54f",
+      "id": "a85ec7b900d3a75a",
       "item": {
         "date": 1446317837000,
         "site": "john.federatedwiki.org",
@@ -106,9 +106,9 @@
         "title": "Podcasting",
         "text": "In [http://john.federatedwiki.org john.federatedwiki.org] with 4 pages.",
         "type": "reference",
-        "id": "4101f3ed8b31a54f"
+        "id": "a85ec7b900d3a75a"
       },
-      "date": 1446902402000
+      "date": 1446903001000
     }
   ]
 }

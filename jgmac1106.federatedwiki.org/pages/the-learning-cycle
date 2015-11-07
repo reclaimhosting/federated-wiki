@@ -15,6 +15,10 @@
       "type": "html",
       "id": "459c72b0abe98a39",
       "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
+    },
+    {
+      "type": "factory",
+      "id": "c5f0c38b76307914"
     }
   ],
   "journal": [
@@ -119,6 +123,16 @@
         "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
       },
       "date": 1446898657505
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c5f0c38b76307914"
+      },
+      "id": "c5f0c38b76307914",
+      "type": "add",
+      "after": "459c72b0abe98a39",
+      "date": 1446898914382
     }
   ]
 }

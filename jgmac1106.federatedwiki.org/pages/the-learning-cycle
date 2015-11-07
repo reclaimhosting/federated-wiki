@@ -7,8 +7,14 @@
       "text": "<img src=\""
     },
     {
-      "type": "factory",
-      "id": "b0a48c2244f22422"
+      "type": "html",
+      "id": "b0a48c2244f22422",
+      "text": "<img width=\"50%\" src=\"http://i.imgur.com/hPDzjp1.jpg\">"
+    },
+    {
+      "type": "html",
+      "id": "459c72b0abe98a39",
+      "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
     }
   ],
   "journal": [
@@ -63,6 +69,56 @@
       "type": "add",
       "after": "5af43f71275b6864",
       "date": 1446898199744
+    },
+    {
+      "type": "edit",
+      "id": "b0a48c2244f22422",
+      "item": {
+        "type": "html",
+        "id": "b0a48c2244f22422",
+        "text": "<img src=\"http://i.imgur.com/hPDzjp1.jpg\">"
+      },
+      "date": 1446898209120
+    },
+    {
+      "type": "edit",
+      "id": "b0a48c2244f22422",
+      "item": {
+        "type": "html",
+        "id": "b0a48c2244f22422",
+        "text": "<img width=\"25%\" src=\"http://i.imgur.com/hPDzjp1.jpg\">"
+      },
+      "date": 1446898222621
+    },
+    {
+      "type": "edit",
+      "id": "b0a48c2244f22422",
+      "item": {
+        "type": "html",
+        "id": "b0a48c2244f22422",
+        "text": "<img width=\"50%\" src=\"http://i.imgur.com/hPDzjp1.jpg\">"
+      },
+      "date": 1446898228133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "459c72b0abe98a39"
+      },
+      "id": "459c72b0abe98a39",
+      "type": "add",
+      "after": "b0a48c2244f22422",
+      "date": 1446898629995
+    },
+    {
+      "type": "edit",
+      "id": "459c72b0abe98a39",
+      "item": {
+        "type": "html",
+        "id": "459c72b0abe98a39",
+        "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
+      },
+      "date": 1446898657505
     }
   ]
 }

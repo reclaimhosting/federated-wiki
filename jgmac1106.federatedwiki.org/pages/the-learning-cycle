@@ -17,8 +17,9 @@
       "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
     },
     {
-      "type": "factory",
-      "id": "c5f0c38b76307914"
+      "type": "html",
+      "id": "c5f0c38b76307914",
+      "text": "<img width=\"50%\" src=\"http://i.imgur.com/XBgQdTv.jpg\">\n"
     }
   ],
   "journal": [
@@ -133,6 +134,26 @@
       "type": "add",
       "after": "459c72b0abe98a39",
       "date": 1446898914382
+    },
+    {
+      "type": "edit",
+      "id": "c5f0c38b76307914",
+      "item": {
+        "type": "html",
+        "id": "c5f0c38b76307914",
+        "text": "<img width=\"50%\" src=\"http://i.imgur.com/MAANg3L.jpg\">\n"
+      },
+      "date": 1446899744059
+    },
+    {
+      "type": "edit",
+      "id": "c5f0c38b76307914",
+      "item": {
+        "type": "html",
+        "id": "c5f0c38b76307914",
+        "text": "<img width=\"50%\" src=\"http://i.imgur.com/XBgQdTv.jpg\">\n"
+      },
+      "date": 1446899774572
     }
   ]
 }

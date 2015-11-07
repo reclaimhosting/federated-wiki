@@ -1,6 +1,16 @@
 {
   "title": "The Learning Cycle",
-  "story": [],
+  "story": [
+    {
+      "type": "html",
+      "id": "5af43f71275b6864",
+      "text": "<img src=\""
+    },
+    {
+      "type": "factory",
+      "id": "b0a48c2244f22422"
+    }
+  ],
   "journal": [
     {
       "type": "create",
@@ -23,6 +33,36 @@
       "type": "remove",
       "id": "95c190f66feadce8",
       "date": 1446215545057
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5af43f71275b6864"
+      },
+      "id": "5af43f71275b6864",
+      "type": "add",
+      "after": "9be04ca62a8f8b32",
+      "date": 1446898174574
+    },
+    {
+      "type": "edit",
+      "id": "5af43f71275b6864",
+      "item": {
+        "type": "html",
+        "id": "5af43f71275b6864",
+        "text": "<img src=\""
+      },
+      "date": 1446898183774
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0a48c2244f22422"
+      },
+      "id": "b0a48c2244f22422",
+      "type": "add",
+      "after": "5af43f71275b6864",
+      "date": 1446898199744
     }
   ]
 }

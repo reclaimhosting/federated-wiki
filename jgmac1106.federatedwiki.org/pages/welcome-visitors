@@ -40,6 +40,10 @@
       "type": "paragraph",
       "id": "a8493081567cbcb0",
       "text": "I also wonder if we could use this for #walkmyworld. Heard something about neighborhoods. Waiting to see what is."
+    },
+    {
+      "type": "factory",
+      "id": "d53b0860a52cb44a"
     }
   ],
   "journal": [
@@ -646,6 +650,24 @@
       },
       "after": "7b56f22a4b9ee974",
       "date": 1446901955361
+    },
+    {
+      "type": "fork",
+      "date": 1446913396864
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d53b0860a52cb44a"
+      },
+      "id": "d53b0860a52cb44a",
+      "type": "add",
+      "after": "a8493081567cbcb0",
+      "date": 1446913400363
+    },
+    {
+      "type": "fork",
+      "date": 1446913402040
     }
   ]
 }

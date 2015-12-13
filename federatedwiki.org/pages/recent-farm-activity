@@ -4,65 +4,88 @@
     {
       "text": "Sites hosted by this farm with activity in the last 10 days.",
       "type": "paragraph",
-      "id": "3d3bea18e8f3ed46"
+      "id": "eb9f43dac3ef1728"
     },
     {
       "text": "See also [[About Activity Plugin]].",
       "type": "paragraph",
-      "id": "3b6dc50392546361"
+      "id": "113cf7f744a70c6f"
     },
     {
-      "date": 1449972601000,
+      "date": 1449973203000,
+      "site": "max.federatedwiki.org",
+      "slug": "welcome-visitors",
+      "title": "Welcome Visitors",
+      "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
+      "type": "reference",
+      "id": "e2096e1c22d1991a"
+    },
+    {
+      "date": 1449973201000,
       "site": "federatedwiki.org",
       "slug": "recent-farm-activity",
       "title": "Recent Farm Activity",
       "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
       "type": "reference",
-      "id": "f6c5a22e6c48419d"
+      "id": "a7a1049364251092"
     }
   ],
   "journal": [
     {
       "type": "create",
-      "id": "4184244c50af0264",
+      "id": "b831505993194569",
       "item": {
         "title": "Recent Farm Activity"
       },
-      "date": 1449973201000
+      "date": 1449973801000
     },
     {
       "type": "add",
-      "id": "3d3bea18e8f3ed46",
+      "id": "eb9f43dac3ef1728",
       "item": {
         "text": "Sites hosted by this farm with activity in the last 10 days.",
         "type": "paragraph",
-        "id": "3d3bea18e8f3ed46"
+        "id": "eb9f43dac3ef1728"
       },
-      "date": 1449973201000
+      "date": 1449973801000
     },
     {
       "type": "add",
-      "id": "3b6dc50392546361",
+      "id": "113cf7f744a70c6f",
       "item": {
         "text": "See also [[About Activity Plugin]].",
         "type": "paragraph",
-        "id": "3b6dc50392546361"
+        "id": "113cf7f744a70c6f"
       },
-      "date": 1449973201000
+      "date": 1449973801000
     },
     {
       "type": "add",
-      "id": "f6c5a22e6c48419d",
+      "id": "e2096e1c22d1991a",
       "item": {
-        "date": 1449972601000,
+        "date": 1449973203000,
+        "site": "max.federatedwiki.org",
+        "slug": "welcome-visitors",
+        "title": "Welcome Visitors",
+        "text": "In [http://max.federatedwiki.org max.federatedwiki.org] with 75 pages.",
+        "type": "reference",
+        "id": "e2096e1c22d1991a"
+      },
+      "date": 1449973801000
+    },
+    {
+      "type": "add",
+      "id": "a7a1049364251092",
+      "item": {
+        "date": 1449973201000,
         "site": "federatedwiki.org",
         "slug": "recent-farm-activity",
         "title": "Recent Farm Activity",
         "text": "In [http://federatedwiki.org federatedwiki.org] with 11 pages.",
         "type": "reference",
-        "id": "f6c5a22e6c48419d"
+        "id": "a7a1049364251092"
       },
-      "date": 1449973201000
+      "date": 1449973801000
     }
   ]
 }
